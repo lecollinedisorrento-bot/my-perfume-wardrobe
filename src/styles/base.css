@@ -1,0 +1,291 @@
+/* ─────────────────────────────────────────────────────────────────────────
+   MY PERFUME WARDROBE — design tokens & base
+   Identity: pop-art surfaces, chunky outlines, toy-like "pressable" depth,
+   sticker labels, oversized display type, editorial serif for storytelling.
+   ───────────────────────────────────────────────────────────────────────── */
+
+:root {
+  /* Palette */
+  --blue: #3155ff;
+  --pink: #ff65b8;
+  --lime: #d5f34a;
+  --tangerine: #ff7738;
+  --lilac: #b69aff;
+  --cloud: #f6f3ed;
+  --ink: #202020;
+  --white: #ffffff;
+
+  --on-blue: #ffffff;
+  --on-pink: #202020;
+  --on-lime: #202020;
+  --on-tangerine: #202020;
+  --on-lilac: #202020;
+  --on-ink: #f6f3ed;
+
+  /* Semantic (light) */
+  --bg: var(--cloud);
+  --surface: #ffffff;
+  --surface-2: #ece7dd;
+  --text: var(--ink);
+  --text-dim: #5d5a55;
+  --line: var(--ink);
+  --shadow-c: var(--ink);
+  --focus: var(--blue);
+  --danger: #e2362f;
+  --dots: rgba(32, 32, 32, 0.12);
+  --nav-bg: rgba(255, 255, 255, 0.92);
+
+  /* Type */
+  --font-display: 'Unbounded Variable', 'Arial Black', system-ui, sans-serif;
+  --font-body: 'Manrope Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Instrument Serif', 'Times New Roman', serif;
+
+  /* Shape */
+  --r-xl: 32px;
+  --r-lg: 24px;
+  --r-md: 16px;
+  --r-sm: 10px;
+  --r-pill: 999px;
+  --bw: 2.5px;
+  --lift: 5px;
+  --shadow: 0 var(--lift) 0 0 var(--shadow-c);
+  --shadow-sm: 0 3px 0 0 var(--shadow-c);
+
+  /* Motion */
+  --ease-pop: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur: 220ms;
+
+  /* Layout */
+  --gutter: 16px;
+  --nav-h: 76px;
+  --safe-b: env(safe-area-inset-bottom, 0px);
+  --safe-t: env(safe-area-inset-top, 0px);
+  --maxw: 760px;
+
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #15131c;
+    --surface: #221f2b;
+    --surface-2: #2d2939;
+    --text: #f6f3ed;
+    --text-dim: #b4aec2;
+    --line: #f6f3ed;
+    --shadow-c: #000000;
+    --blue: #4a6bff;
+    --focus: var(--lime);
+    --dots: rgba(246, 243, 237, 0.08);
+    --nav-bg: rgba(34, 31, 43, 0.94);
+    color-scheme: dark;
+  }
+}
+:root[data-theme='dark'] {
+  --bg: #15131c;
+  --surface: #221f2b;
+  --surface-2: #2d2939;
+  --text: #f6f3ed;
+  --text-dim: #b4aec2;
+  --line: #f6f3ed;
+  --shadow-c: #000000;
+  --blue: #4a6bff;
+  --focus: var(--lime);
+  --dots: rgba(246, 243, 237, 0.08);
+  --nav-bg: rgba(34, 31, 43, 0.94);
+  color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: clip;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.45;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior-y: none;
+  min-height: 100dvh;
+  overflow-x: clip;
+}
+
+img,
+svg,
+canvas {
+  display: block;
+  max-width: 100%;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  background: none;
+  border: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  line-height: 1.05;
+}
+
+p {
+  margin: 0;
+}
+
+.sr-only {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Typography helpers */
+.display {
+  font-family: var(--font-display);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+}
+.display-lc {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.serif {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+.kicker {
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.dim {
+  color: var(--text-dim);
+}
+.small {
+  font-size: 13px;
+}
+.tiny {
+  font-size: 11.5px;
+}
+
+/* Colour surfaces */
+[class].c-blue {
+  background-color: var(--blue);
+  color: var(--on-blue);
+}
+[class].c-pink {
+  background-color: var(--pink);
+  color: var(--on-pink);
+}
+[class].c-lime {
+  background-color: var(--lime);
+  color: var(--on-lime);
+}
+[class].c-tangerine {
+  background-color: var(--tangerine);
+  color: var(--on-tangerine);
+}
+[class].c-lilac {
+  background-color: var(--lilac);
+  color: var(--on-lilac);
+}
+[class].c-ink {
+  background-color: var(--ink);
+  color: var(--on-ink);
+}
+[class].c-surface {
+  background-color: var(--surface);
+  color: var(--text);
+}
+.c-blue .dim,
+.c-ink .dim {
+  color: rgba(255, 255, 255, 0.78);
+}
+.c-pink .dim,
+.c-lime .dim,
+.c-tangerine .dim,
+.c-lilac .dim {
+  color: rgba(32, 32, 32, 0.72);
+}
+
+/* Halftone dots — pop-art texture */
+[class].dots {
+  background-image: radial-gradient(var(--dots) 1.4px, transparent 1.6px);
+  background-size: 12px 12px;
+}
+.c-blue.dots,
+.c-ink.dots {
+  --dots: rgba(255, 255, 255, 0.16);
+}
+.c-pink.dots,
+.c-lime.dots,
+.c-tangerine.dots,
+.c-lilac.dots {
+  --dots: rgba(32, 32, 32, 0.13);
+}
+
+/* Motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  :root:not([data-motion='full']) *,
+  :root:not([data-motion='full']) *::before,
+  :root:not([data-motion='full']) *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+:root[data-motion='reduced'] *,
+:root[data-motion='reduced'] *::before,
+:root[data-motion='reduced'] *::after {
+  animation-duration: 1ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 1ms !important;
+}
