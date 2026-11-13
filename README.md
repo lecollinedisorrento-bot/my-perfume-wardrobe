@@ -51,7 +51,7 @@ No `VITE_*` variables are defined, so nothing from `.env` reaches client code.
 | `npm start` | Production Node server (static + SPA fallback + API + security headers) |
 | `npm test` | Unit/integration tests (Vitest, fake IndexedDB) |
 | `npm run test:e2e` | Playwright end-to-end tests against the production build |
-| `npm run icons` | Re-render the PWA PNG icons from `public/favicon.svg` |
+| `npm run icons` | Re-generate every app icon (PWA, maskable, Apple, favicon) from `design/icon/icon-master.png` |
 
 ## Architecture
 
