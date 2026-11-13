@@ -119,6 +119,20 @@ The wheel and the slot machine draw the result first, uniformly, with `crypto.ge
 
 ## Deploying
 
-Any Node 20+ host works: `npm ci && npm run build && npm start`, with the environment variables above. Put it behind HTTPS (service workers and geolocation require a secure context). If you use a reverse proxy, make sure it forwards `x-forwarded-for`, which the per-IP rate limit relies on.
+The app needs a Node host (not static or serverless-only): AI research can take 30–60 s, which exceeds typical serverless function limits. Ready-made configs:
+
+**Render** (Blueprint: `render.yaml` at the repository root)
+1. Render dashboard → **New → Blueprint** → pick this repository and branch.
+2. When asked, paste `ANTHROPIC_API_KEY` (it's never committed).
+3. Deploy. Render builds with `npm ci --include=dev && npm run build`, starts with `npm start`, and health-checks `/api/health`.
+
+**Railway** (`perfume-wardrobe/railway.json`)
+1. New project → Deploy from GitHub repo → set **Root Directory** to `perfume-wardrobe`.
+2. Add the variable `ANTHROPIC_API_KEY` (optionally `AI_MODEL`, `AI_RATE_LIMIT`).
+3. Generate a public domain.
+
+**Anywhere else:** `npm ci --include=dev && npm run build && npm start` on Node 20+. Both hosts provide `PORT` and HTTPS automatically. HTTPS is required for the service worker and geolocation. The per-IP rate limit reads `x-forwarded-for`.
+
+Colline Tours (the Next.js app at the repository root) keeps deploying on Netlify. Its TypeScript and ESLint configs ignore `perfume-wardrobe/`.
 
 See [docs/TEST_REPORT.md](docs/TEST_REPORT.md) for what was tested and the known limitations.
