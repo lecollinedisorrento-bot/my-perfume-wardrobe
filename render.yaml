@@ -1,0 +1,19 @@
+# Render Blueprint for My Perfume Wardrobe.
+services:
+  - type: web
+    name: my-perfume-wardrobe
+    runtime: node
+    plan: free
+    buildCommand: npm ci --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: ANTHROPIC_API_KEY
+        sync: false # asked for in the Render dashboard; never committed
+      - key: AI_MODEL
+        value: claude-opus-5-5
+      - key: AI_RATE_LIMIT
+        value: "40"

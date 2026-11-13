@@ -8,14 +8,11 @@ A pop, playful, installable fragrance playground. Collect your perfumes, spin fo
 - **Real weather**: Open-Meteo (no key needed). You can use your location (only when you tap the button), pick a city, or set conditions by hand.
 - **Honest everywhere**: the local engine is labelled "Local match · not AI", the test provider is labelled "TEST FIXTURE · not real AI", performance figures are estimates, and the layering score is described as subjective.
 
-This app is self-contained in `perfume-wardrobe/` and is independent from the Colline Tours app at the repository root.
-
 ---
 
 ## Quick start
 
 ```bash
-cd perfume-wardrobe
 npm install
 cp .env.example .env        # add ANTHROPIC_API_KEY to enable AI (optional)
 npm run dev                 # http://localhost:5173  (UI + API in one process)
@@ -56,7 +53,7 @@ No `VITE_*` variables are defined, so nothing from `.env` reaches client code.
 ## Architecture
 
 ```
-perfume-wardrobe/
+my-perfume-wardrobe/
 ├─ server/                  Node (Hono) — the only place credentials exist
 │  ├─ app.ts                /api routes, validation (zod), rate limit, body limits
 │  ├─ ai/provider.ts        AIProvider interface (swap vendors here)
@@ -121,18 +118,16 @@ The wheel and the slot machine draw the result first, uniformly, with `crypto.ge
 
 The app needs a Node host (not static or serverless-only): AI research can take 30–60 s, which exceeds typical serverless function limits. Ready-made configs:
 
-**Render** (Blueprint: `render.yaml` at the repository root)
+**Render** (Blueprint: `render.yaml`)
 1. Render dashboard → **New → Blueprint** → pick this repository and branch.
 2. When asked, paste `ANTHROPIC_API_KEY` (it's never committed).
 3. Deploy. Render builds with `npm ci --include=dev && npm run build`, starts with `npm start`, and health-checks `/api/health`.
 
-**Railway** (`perfume-wardrobe/railway.json`)
-1. New project → Deploy from GitHub repo → set **Root Directory** to `perfume-wardrobe`.
+**Railway** (`railway.json`)
+1. New project → Deploy from GitHub repo → pick this repository.
 2. Add the variable `ANTHROPIC_API_KEY` (optionally `AI_MODEL`, `AI_RATE_LIMIT`).
 3. Generate a public domain.
 
 **Anywhere else:** `npm ci --include=dev && npm run build && npm start` on Node 20+. Both hosts provide `PORT` and HTTPS automatically. HTTPS is required for the service worker and geolocation. The per-IP rate limit reads `x-forwarded-for`.
-
-Colline Tours (the Next.js app at the repository root) keeps deploying on Netlify. Its TypeScript and ESLint configs ignore `perfume-wardrobe/`.
 
 See [docs/TEST_REPORT.md](docs/TEST_REPORT.md) for what was tested and the known limitations.
