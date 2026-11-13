@@ -3,9 +3,9 @@
 # deploy on Render/Railway (see README) for AI features.
 name: Deploy to GitHub Pages
 
+# Manual only: enable Settings → Pages → Source: GitHub Actions, then run it
+# from the Actions tab. The main deployment is Render (render.yaml).
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
