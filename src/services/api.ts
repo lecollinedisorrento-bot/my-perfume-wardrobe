@@ -20,6 +20,7 @@ import { lastWornMap, wearCounts } from '../domain/recommend';
 import { daysBetween, localDay, seasonFor } from '../domain/util';
 import { translate } from '../i18n';
 import { weatherLabelKey } from '../domain/weather';
+import { appUrl } from './base';
 
 export class ApiError extends Error {
   constructor(
@@ -34,7 +35,7 @@ export class ApiError extends Error {
 async function post<T>(path: string, body: unknown, signal?: AbortSignal): Promise<T> {
   let res: Response;
   try {
-    res = await fetch(path, {
+    res = await fetch(appUrl(path), {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify(body),
@@ -51,7 +52,8 @@ async function post<T>(path: string, body: unknown, signal?: AbortSignal): Promi
 
 export async function getHealth(): Promise<HealthResponse | null> {
   try {
-    const res = await fetch('/api/health', { cache: 'no-store' });
+    const res = await fetch(appUrl('/api/health'), { cache: 'no-store' });
+    if (!(res.headers.get('content-type') ?? '').includes('json')) return null; // static hosting: no API
     if (!res.ok) return null;
     return (await res.json()) as HealthResponse;
   } catch {

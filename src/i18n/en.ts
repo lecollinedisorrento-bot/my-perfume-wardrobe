@@ -342,7 +342,7 @@ export const en = {
   'ai.status': 'AI status',
   'ai.statusOn': 'Connected · {provider} · {model}',
   'ai.statusOff': 'Not connected (no API key on the server)',
-  'ai.statusUnknown': 'Server unreachable',
+  'ai.statusUnknown': 'No AI server in this version (web-only). Your collection works fully.',
 
   // why (local engine reasons)
   'why.weather.hot': 'Light enough for {t}° heat',

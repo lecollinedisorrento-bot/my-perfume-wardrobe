@@ -114,6 +114,12 @@ The wheel and the slot machine draw the result first, uniformly, with `crypto.ge
 - **Wheel:** if more than 16 perfumes are eligible, the winner is drawn from all of them, and the wheel shows the winner plus a random sample. The UI says so.
 - **Slots:** each reel draws independently. Two or three matching reels win; with no match, one reel is drawn at random. The rule is symmetric, so every perfume keeps the same chance.
 
+## Live on GitHub Pages (no AI)
+
+Every push to `main` publishes the front-end to **https://lecollinedisorrento-bot.github.io/my-perfume-wardrobe/** (`.github/workflows/pages.yml`). Everything works there except AI, which needs the server: collection, spin, Layer Lab, local recommendations, weather, offline use and installation. One-time setup: repository **Settings → Pages → Source: GitHub Actions**.
+
+The same build runs under any sub-path: set `BASE_PATH=/sub/path/` at build time.
+
 ## Deploying
 
 The app needs a Node host (not static or serverless-only): AI research can take 30–60 s, which exceeds typical serverless function limits. Ready-made configs:

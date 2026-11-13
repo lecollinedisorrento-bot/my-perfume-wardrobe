@@ -10,6 +10,7 @@ import { FAMILIES } from '../domain/families';
 import { MOODS, OCCASIONS, SEASONS, type Preferences } from '../domain/types';
 import { BackupError, createBackup, downloadJson, parseBackup, restoreBackup } from '../db/backup';
 import { resetEverything } from '../db/repo';
+import { BASE_URL } from '../services/base';
 
 const VERSION = '1.0.0';
 
@@ -347,7 +348,7 @@ export default function Settings() {
               } catch {
                 /* ignore */
               }
-              location.href = '/';
+              location.href = BASE_URL;
             }}
           >
             {t('set.reset')}

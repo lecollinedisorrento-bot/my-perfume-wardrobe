@@ -8,6 +8,7 @@ import { useUi } from '../state/ui';
 import { IconCamera, IconTrash } from './Icons';
 import { Notice } from './ui';
 import { nowIso } from '../domain/util';
+import { appUrl } from '../services/base';
 
 /**
  * Lets the user upload a photo, choose one of the images found on the pages
@@ -117,7 +118,7 @@ export function ImagePicker({
                   disabled={!!busy}
                   aria-label={`${tk(`img.kind.${c.kind}`)} ${t('img.from', { source: c.sourceName })}`}
                 >
-                  <img src={`/api/image/proxy?url=${encodeURIComponent(c.url)}`} alt="" loading="lazy" />
+                  <img src={appUrl(`/api/image/proxy?url=${encodeURIComponent(c.url)}`)} alt="" loading="lazy" />
                   <span className="tiny">
                     {tk(`img.kind.${c.kind}`)} · {c.sourceName}
                   </span>

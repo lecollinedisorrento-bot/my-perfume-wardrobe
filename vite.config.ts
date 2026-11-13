@@ -38,7 +38,11 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '');
   for (const [k, v] of Object.entries(env)) if (process.env[k] === undefined) process.env[k] = v;
 
+  // BASE_PATH lets the same build run under a sub-path (GitHub Pages).
+  const base = process.env.BASE_PATH || '/';
+
   return {
+    base,
     plugins: [
       react(),
       apiDevPlugin(),
@@ -47,31 +51,31 @@ export default defineConfig(({ mode }) => {
         injectRegister: false,
         includeAssets: ['icons/favicon-32.png', 'icons/favicon-16.png', 'icons/apple-touch-icon.png'],
         manifest: {
-          id: '/',
+          id: base,
           name: 'My Perfume Wardrobe',
           short_name: 'Wardrobe',
           description: 'Your personal fragrance playground: collect, spin, layer and discover.',
-          start_url: '/',
-          scope: '/',
+          start_url: base,
+          scope: base,
           display: 'standalone',
           orientation: 'portrait',
           background_color: '#F6F3ED',
           theme_color: '#3155FF',
           categories: ['lifestyle', 'personalization'],
           icons: [
-            { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
-            { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
-            { src: '/icons/icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+            { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+            { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
+            { src: 'icons/icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
           ],
           shortcuts: [
-            { name: 'Spin', short_name: 'Spin', url: '/spin', icons: [{ src: '/icons/icon-192.png', sizes: '192x192' }] },
-            { name: 'Add perfume', short_name: 'Add', url: '/wardrobe/new', icons: [{ src: '/icons/icon-192.png', sizes: '192x192' }] },
+            { name: 'Spin', short_name: 'Spin', url: 'spin', icons: [{ src: 'icons/icon-192.png', sizes: '192x192' }] },
+            { name: 'Add perfume', short_name: 'Add', url: 'wardrobe/new', icons: [{ src: 'icons/icon-192.png', sizes: '192x192' }] },
           ],
         },
         workbox: {
           globPatterns: ['**/*.{js,css,html,svg,png,woff2,webmanifest}'],
-          navigateFallback: '/index.html',
-          navigateFallbackDenylist: [/^\/api\//],
+          navigateFallback: `${base}index.html`,
+          navigateFallbackDenylist: [new RegExp(`^${base}api/`)],
           globIgnores: ['**/*cyrillic*', '**/*greek*', '**/*vietnamese*'],
           cleanupOutdatedCaches: true,
         },

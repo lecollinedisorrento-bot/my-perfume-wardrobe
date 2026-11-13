@@ -332,7 +332,7 @@ export const it: Record<MessageKey, string> = {
   'ai.status': 'Stato IA',
   'ai.statusOn': 'Collegata · {provider} · {model}',
   'ai.statusOff': 'Non collegata (manca la chiave API sul server)',
-  'ai.statusUnknown': 'Server non raggiungibile',
+  'ai.statusUnknown': 'In questa versione web non c’è il server IA. La collezione funziona comunque al completo.',
 
   'why.weather.hot': 'Leggero abbastanza per {t}° di caldo',
   'why.weather.warm': 'Arioso per un tiepido {t}°',

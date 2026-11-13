@@ -1,5 +1,6 @@
 import { Component, lazy, Suspense, useEffect, useState, type ReactNode } from 'react';
-import { BrowserRouter, Navigate, Route, Routes, useLocation } from 'react-router-dom';
+import { BrowserRouter, Link, Navigate, Route, Routes, useLocation } from 'react-router-dom';
+import { BASE_URL } from './services/base';
 import { StoreProvider, useStore } from './state/store';
 import { UiProvider, useUi } from './state/ui';
 import { I18nProvider, useI18n, translate } from './i18n';
@@ -58,7 +59,7 @@ function Shell() {
   return (
     <I18nProvider lang={prefs.language}>
       <UiProvider reducedMotion={reduced}>
-        <BrowserRouter>
+        <BrowserRouter basename={BASE_URL.replace(/\/$/, '') || undefined}>
           <ErrorBoundary lang={prefs.language}>
             {prefs.onboarded ? <MainRoutes /> : <Onboarding />}
           </ErrorBoundary>
@@ -131,9 +132,9 @@ function NotFound() {
       <div className="empty">
         <Flower size={120} className="wiggle" />
         <h2>{t('err.404')}</h2>
-        <a className="btn btn-primary" href="/">
+        <Link className="btn btn-primary" to="/">
           {t('err.goHome')}
-        </a>
+        </Link>
       </div>
     </main>
   );
