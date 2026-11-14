@@ -1,0 +1,1204 @@
+{
+  "brand": "Comme des Garçons",
+  "slug": "comme-des-garcons",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site not located via search (guessed domains unreachable from this environment, not used). Range taken from the ZGO Perfumery Comme des Garcons collection feed (retailer); notes are retailer-reported, shown as listed on ZGO product pages. Skipped discovery set and mini book. Hinoki and Laurel list no notes. Fragrantica/Basenotes returned 403, Parfumo errored. Many perfumers/years not stated by this source so left null.",
+  "fragrances": [
+    {
+      "name": "Eau de Parfum (Original)",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1994,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "labdanum",
+          "styrax",
+          "cedarwood",
+          "cardamom",
+          "cinnamon",
+          "black pepper",
+          "honey",
+          "cloves",
+          "nutmeg",
+          "incense",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-eau-de-parfum-original",
+          "name": "ZGO Perfumery — Eau de Parfum (Original)",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Comme des Garçons 2",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ink",
+          "incense",
+          "amber",
+          "labdanum",
+          "patchouli",
+          "chinese cedarwood",
+          "aldehydes",
+          "cumin",
+          "angelica root",
+          "vetiver",
+          "cade oil",
+          "mate absolute",
+          "magnolia"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-2-eau-de-parfum",
+          "name": "ZGO Perfumery — Comme des Garçons 2",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amazingreen",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "palm tree leaves",
+          "green pepper",
+          "dew mist",
+          "jungle leaves",
+          "ivy leaves",
+          "orris root",
+          "coriander seed",
+          "silex",
+          "gunpowder accord",
+          "vetiver",
+          "smoke",
+          "white musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-amazingreen-eau-de-parfum",
+          "name": "ZGO Perfumery — Amazingreen",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blackpepper",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "madagascar pepper",
+          "cedarwood",
+          "akigalawood",
+          "tonka bean",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-black-pepper-eau-de-parfum",
+          "name": "ZGO Perfumery — Blackpepper",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Concrete",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cumin",
+          "rose oxide",
+          "sandalwood",
+          "musk",
+          "jasmine sambac",
+          "cedarwood",
+          "cardamom",
+          "clove"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-concrete-eau-de-parfum",
+          "name": "ZGO Perfumery — Concrete",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Copper",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "iranian galbanum",
+          "peruvian peppercorn",
+          "madagascan ginger",
+          "amber",
+          "vanilla",
+          "ethiopian myrrh"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-copper-eau-de-parfum",
+          "name": "ZGO Perfumery — Copper",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Man 2",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "white smoke",
+          "saffron flower",
+          "nutmeg",
+          "kumquat",
+          "mint",
+          "vetiver root",
+          "mahogany wood",
+          "leather"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-man-2-eau-de-toilette",
+          "name": "ZGO Perfumery — Man 2",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rouge",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink peppercorn",
+          "ginger",
+          "beetroot",
+          "geranium leaf",
+          "incense",
+          "patchouli",
+          "cistus"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-rouge-eau-de-parfum",
+          "name": "ZGO Perfumery — Rouge",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wonderoud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "texas cedarwood",
+          "oud",
+          "indonesian patchouli",
+          "australian sandalwood",
+          "haitian vetiver",
+          "guaiac wood",
+          "pashminol"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-wonderoud-eau-de-parfum",
+          "name": "ZGO Perfumery — Wonderoud",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wonderwood",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "madagascan pepper",
+          "bergamot",
+          "somalian incense",
+          "nutmeg"
+        ],
+        "heart": [
+          "cristalon",
+          "cashmeran",
+          "guaiac wood",
+          "cedarwood",
+          "caraway seed"
+        ],
+        "base": [
+          "javanol",
+          "sandalwood",
+          "vetiver",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-wonderwood-eau-de-parfum",
+          "name": "ZGO Perfumery — Wonderwood",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zero",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "varnish accord",
+          "bergamot",
+          "vetiver",
+          "rose oxide",
+          "cashmeran",
+          "musk",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-zero-eau-de-parfum",
+          "name": "ZGO Perfumery — Zero",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "To Vetiver",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Antoine Maisondieu",
+      "family": "Woody Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "white thyme"
+        ],
+        "heart": [
+          "vetiver",
+          "opoponax"
+        ],
+        "base": [
+          "ambrofix",
+          "musk",
+          "myrrh"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-to-vetiver-eau-de-parfum",
+          "name": "ZGO Perfumery — To Vetiver",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tears",
+      "collection": "Denim Tears collaboration",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Paul Guerlain",
+      "family": "Musk Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "galbanum",
+          "ambrettolide",
+          "sage"
+        ],
+        "heart": [
+          "clary sage",
+          "iris",
+          "rose"
+        ],
+        "base": [
+          "vetiver",
+          "hay absolute",
+          "cypriol",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-tears-eau-de-parfum",
+          "name": "ZGO Perfumery — Tears",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black pepper",
+          "somali incense",
+          "leather",
+          "liquorice",
+          "birch tar",
+          "pepperwood",
+          "cedarwood",
+          "vetiver"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-black-eau-de-toilette",
+          "name": "ZGO Perfumery — Black",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dia x Meg Webster",
+      "collection": "Collaboration",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bay oil",
+          "geranium",
+          "olibanum"
+        ],
+        "heart": [
+          "carrot seed oil",
+          "mushroom accord",
+          "myrrh",
+          "labdanum",
+          "oakmoss"
+        ],
+        "base": [
+          "patchouli",
+          "mineral wood",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-dia-x-meg-webster-eau-de-toilette",
+          "name": "ZGO Perfumery — Dia x Meg Webster",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Max Richter 01",
+      "collection": "Collaboration",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cade",
+          "cumin",
+          "ylang ylang"
+        ],
+        "heart": [
+          "black pepper",
+          "pimento berry",
+          "tagetes"
+        ],
+        "base": [
+          "cedarwood",
+          "vetiver",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-max-richter-01-eau-de-toilette",
+          "name": "ZGO Perfumery — Max Richter 01",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hinoki",
+      "collection": "Monocle Scent One",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-monocle-scent-one-hinoki-eau-de-toilette",
+          "name": "ZGO Perfumery — Hinoki",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laurel",
+      "collection": "Monocle Scent Two",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-monocle-scent-two-laurel-eau-de-toilette",
+          "name": "ZGO Perfumery — Laurel",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sugi",
+      "collection": "Monocle Scent Three",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Antoine Maisondieu",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mediterranean cypress",
+          "madagascar pepper"
+        ],
+        "heart": [
+          "florentine iris",
+          "virginian cedar"
+        ],
+        "base": [
+          "pine",
+          "haitian vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-monocle-scent-three-sugi-eau-de-toilette",
+          "name": "ZGO Perfumery — Sugi",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yoyogi",
+      "collection": "Monocle Scent Four",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cypress",
+          "english grass accord",
+          "wormwood",
+          "roman chamomile",
+          "oakmoss",
+          "thuja",
+          "patchouli",
+          "incense",
+          "vetiver"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-monocle-scent-four-yoyogi-eau-de-toilette",
+          "name": "ZGO Perfumery — Yoyogi",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Syros",
+      "collection": "Monocle Scent Five",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "thyme",
+          "rosemary",
+          "turmeric",
+          "immortelle",
+          "vetiver",
+          "patchouli"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-syros-eau-de-toilette",
+          "name": "ZGO Perfumery — Syros",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Avignon",
+      "collection": "Incense Series 3",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "roman chamomile",
+          "cistus",
+          "elemi",
+          "incense",
+          "vanilla",
+          "patchouli",
+          "palisander"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-incense-series-3-avignon-eau-de-toilette",
+          "name": "ZGO Perfumery — Avignon",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jaisalmer",
+      "collection": "Incense Series 3",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom",
+          "incense",
+          "cinnamon",
+          "amber",
+          "benzoin",
+          "pimento",
+          "berries",
+          "guaiac wood",
+          "ebony"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-incense-series-3-jaisalmer-eau-de-toilette",
+          "name": "ZGO Perfumery — Jaisalmer",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kyoto",
+      "collection": "Incense Series 3",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "cypress oil",
+          "coffee",
+          "teak wood",
+          "vetiver",
+          "patchouli",
+          "amber",
+          "everlasting flower",
+          "virginian cedar"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-incense-series-3-kyoto-eau-de-toilette",
+          "name": "ZGO Perfumery — Kyoto",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ouarzazate",
+      "collection": "Incense Series 3",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "pepper",
+          "nutmeg",
+          "clary sage",
+          "wenge",
+          "musk",
+          "vanilla",
+          "labdanum",
+          "kashmir wood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-incense-series-3-ouarzazate-eau-de-toilette",
+          "name": "ZGO Perfumery — Ouarzazate",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zagorsk",
+      "collection": "Incense Series 3",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white incense",
+          "pine",
+          "pimento berry",
+          "violet",
+          "cedar",
+          "iris",
+          "hinoki wood",
+          "birch wood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-incense-series-3-zagorsk-eau-de-toilette",
+          "name": "ZGO Perfumery — Zagorsk",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ERL Sunscreen",
+      "collection": "Collaboration",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "solar accord"
+        ],
+        "heart": [
+          "lily of the valley",
+          "heliotrope",
+          "peach"
+        ],
+        "base": [
+          "musk",
+          "cedarwood",
+          "coconut accord"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-erl-sunscreen-eau-de-toilette",
+          "name": "ZGO Perfumery — ERL Sunscreen",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marseille",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "savon de marseille accord",
+          "neroli accord",
+          "petalia",
+          "oranger crystals",
+          "ambrofix",
+          "cosmone"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-marseille-eau-de-toilette",
+          "name": "ZGO Perfumery — Marseille",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Standard Artek",
+      "collection": "Collaboration",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "fennel",
+          "ginger",
+          "lemon",
+          "saffron",
+          "cedarwood",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-standard-artek-eau-de-toilette",
+          "name": "ZGO Perfumery — Standard Artek",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Series 10: Accident Celluloid Galbanum",
+      "collection": "Series 10",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon oil",
+          "galbanum",
+          "celluloid accord",
+          "jasmine absolute",
+          "cashmeran",
+          "dry amber",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-series-10-accident-celluloid-galbanum-eau-de-parfum",
+          "name": "ZGO Perfumery — Series 10: Accident Celluloid Galbanum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Series 10: Accident Chlorophyll Gardenia",
+      "collection": "Series 10",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cosmofruit",
+          "gardenia",
+          "spearmint",
+          "pink pepper",
+          "black pepper",
+          "galbanum",
+          "pea accord",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-series-10-accident-chlorophyll-gardenia-eau-de-parfum",
+          "name": "ZGO Perfumery — Series 10: Accident Chlorophyll Gardenia",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Series 10: Accident Radish Vetiver",
+      "collection": "Series 10",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "radish"
+        ],
+        "heart": [
+          "cypriol",
+          "guaiac wood"
+        ],
+        "base": [
+          "vetiver",
+          "akigalawood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/products/comme-des-garcons-series-10-accident-radish-vetiver-eau-de-parfum",
+          "name": "ZGO Perfumery — Series 10: Accident Radish Vetiver",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}
