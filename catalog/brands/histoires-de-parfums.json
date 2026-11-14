@@ -5,7 +5,7 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official Shopify feed (products.json) and the all-fragrances collection page were read; each perfume's notes, concentration and family come from its official product page. Perfumer and release year are not stated on the pages read, so they are null. Brand country is not stated on the pages read. Covers the 29-item all-fragrances grid (perfumes only). This is not a blue bottle 1/.8 is excluded because its product page gives poetic descriptions rather than named notes. Sets, workshops, gift cards and the Classic Book Collection are excluded. Concentration is \"Eau de Parfum\" on every product page read.",
+  "researchNotes": "Official Shopify feed (products.json) and the all-fragrances collection page were read; each perfume's notes, concentration and family come from its official product page. Perfumer and release year are not stated on the pages read, so they are null. Brand country is not stated on the pages read. Covers the 29-item all-fragrances grid (perfumes only). Blue Bottle 1/.8 is excluded because its product page gives poetic descriptions rather than named notes. Sets, workshops, gift cards and the Classic Book Collection are excluded. Concentration is \"Eau de Parfum\" on every product page read.",
   "fragrances": [
     {
       "name": "1804",

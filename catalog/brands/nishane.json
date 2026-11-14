@@ -549,7 +549,7 @@
     },
     {
       "name": "Colognise",
-      "collection": "Extrait de Cologne",
+      "collection": null,
       "concentration": "Extrait de Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -569,7 +569,7 @@
     },
     {
       "name": "Safran Colognise",
-      "collection": "Extrait de Cologne",
+      "collection": null,
       "concentration": "Extrait de Parfum",
       "releaseYear": null,
       "perfumer": null,

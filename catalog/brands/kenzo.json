@@ -1,0 +1,177 @@
+{
+  "brand": "Kenzo",
+  "slug": "kenzo",
+  "officialSite": "https://www.kenzo.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The official kenzo.com fragrance pages returned HTTP 403 to WebFetch, so the official site is not used as a source. The range comes from the Rustan's Kenzo Parfums listing (retailer, 10 products, concentrations only). Notes for L'Eau Kenzo pour Femme come from Tendance Parfums (retailer, reported); its year (1996) is also from that page. Kenzo Homme EDT details (1991, perfumer) come from a Tendance Parfums page; that page does not give a note pyramid. Parfumo and escentual product pages were 403 or had no notes, so the Flower by Kenzo entries have no notes. Brand-level country not stated. Range is partial; Jungle and Kenzo Amour lines were not checked.",
+  "fragrances": [
+    {
+      "name": "Flower by Kenzo Poppy Bouquet Eau de Parfum",
+      "collection": "Flower by Kenzo",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Flower by Kenzo Poppy Bouquet Eau de Toilette",
+      "collection": "Flower by Kenzo",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Flower by Kenzo Cherry Poppy Eau de Parfum",
+      "collection": "Flower by Kenzo",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Flower by Kenzo Eau de Parfum",
+      "collection": "Flower by Kenzo",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Flower by Kenzo Eau de Toilette",
+      "collection": "Flower by Kenzo",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Flower by Kenzo L'Absolue Eau de Parfum",
+      "collection": "Flower by Kenzo",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Flower by Kenzo Le Rouge Flower Eau de Parfum",
+      "collection": "Flower by Kenzo",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'Eau Kenzo pour Femme",
+      "collection": "L'Eau Kenzo",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1996,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mint"], "heart": ["peach"], "base": ["lotus", "vanilla absolute"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/l-eau-kenzo-pour-femme-eau-de-toilette-kenzo.html", "name": "Tendance Parfums — L'Eau Kenzo pour Femme Eau de Toilette", "type": "retailer", "supports": ["notes", "concentration", "year"] },
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'Eau Ambrée Eau de Parfum",
+      "collection": "L'Eau Kenzo",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'Eau Pure Eau de Parfum",
+      "collection": "L'Eau Kenzo",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rustans.com/collections/kenzo-parfums/volume_50ml", "name": "Rustan's — KENZO Parfums (50 ml listing)", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Kenzo Homme Eau de Toilette",
+      "collection": "Kenzo Homme",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1991,
+      "perfumer": "Christian Matthieu",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/kenzo-homme-eau-de-toilette-kenzo.html", "name": "Tendance Parfums — Kenzo Homme Eau de Toilette", "type": "retailer", "supports": ["concentration", "year", "perfumer"] }
+      ]
+    }
+  ]
+}
