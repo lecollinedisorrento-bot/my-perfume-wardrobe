@@ -87,13 +87,9 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": [
-          "mandarin",
-          "leather",
-          "vanilla"
-        ]
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -103,8 +99,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/alonoud-eau-de-parfum",
+          "name": "The Scent Base — Maison Asrar Alonoud",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base listing: longevity around 6-10 hours (score 4.2). Sillage is marked 'not rated yet', so no level is set; ratings are provisional.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Ameer",
@@ -115,16 +130,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
+        "top": [
+          "pink grapefruit",
+          "bergamot"
+        ],
         "heart": [],
-        "base": [],
-        "flat": [
+        "base": [
+          "myrrh",
           "frankincense",
           "vanilla",
-          "cardamom"
-        ]
+          "patchouli",
+          "moss"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -134,8 +154,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-ameer",
+          "name": "Vivir — Maison Asrar Ameer review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: 'exceeding 8-10 hours on skin'; 'strong sillage'. Same review rates fall and winter best, spring OK, summer to avoid; suits evening events.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Aseel",
@@ -146,16 +192,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "pink pepper",
           "cardamom",
-          "rose",
+          "incense"
+        ],
+        "heart": [
+          "orris"
+        ],
+        "base": [
           "oud"
-        ]
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -165,8 +215,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-aseel",
+          "name": "Vivir — Maison Asrar Aseel review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '8+ hours' longevity, detectable on fabric the next day; projection 'moderate to strong' at arm's length. Best for cool-weather evenings and formal wear.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Basma",
@@ -208,16 +284,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "freesia",
+          "lily of the valley"
+        ],
+        "base": [
+          "musk",
           "vetiver",
-          "musk"
-        ]
+          "moss",
+          "cedarwood"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -227,8 +310,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-bel-gravia",
+          "name": "Vivir — Maison Asrar Bel Gravia review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '7-8 hours on skin'; sillage 'strong to enormous'. Spring and summer best, fall and winter OK; daytime social events.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "afternoon"
+        ]
+      }
     },
     {
       "name": "Black",
@@ -537,22 +646,31 @@
     {
       "name": "Dubai London",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "lavender",
           "pink pepper",
-          "musk"
-        ]
+          "citrus"
+        ],
+        "heart": [
+          "orris",
+          "apricot",
+          "hazelnut"
+        ],
+        "base": [
+          "cedar",
+          "cashmeran",
+          "musk",
+          "vetiver"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -562,28 +680,61 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-dubai-london",
+          "name": "Vivir — Maison Asrar Dubai London review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '6-8 hours' longevity; projection moderate, within arm's length. Described as good for fall and winter.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Dubai Miami",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "bergamot",
+          "plum",
           "pear",
-          "rose",
-          "plum"
-        ]
+          "lemon"
+        ],
+        "heart": [
+          "caramel",
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "vanilla",
+          "white musk"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -593,8 +744,33 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-dubai-miami",
+          "name": "Vivir — Maison Asrar Dubai Miami review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '7-9 hours'; sillage moderate to strong for the first 2-3 hours, then a skin scent. Spring and summer best, fall OK, winter to avoid.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Dubai Milano",
@@ -605,16 +781,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "bergamot",
+          "pineapple",
+          "mango",
+          "guava"
+        ],
+        "heart": [
+          "cypress",
           "leather",
-          "vanilla"
-        ]
+          "violet leaf"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "labdanum"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -624,8 +809,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-dubai-milano",
+          "name": "Vivir — Maison Asrar Dubai Milano review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '8+ hours'; strong initial projection, then sillage moderate to strong. Described as suited to summer and fall evenings.",
+      "usage": {
+        "seasons": [
+          "summer",
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "DXB",
@@ -661,22 +872,33 @@
     {
       "name": "DXB Jumeirah",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "passion fruit",
+        "top": [
+          "passionfruit",
+          "pineapple",
           "coconut",
-          "pineapple"
-        ]
+          "orange"
+        ],
+        "heart": [
+          "pineapple",
+          "coconut",
+          "jasmine",
+          "caramel"
+        ],
+        "base": [
+          "sandalwood",
+          "ambergris",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -686,8 +908,33 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-dxb-jumeirah",
+          "name": "Vivir — Maison Asrar DXB Jumeirah review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: 'lasting 8-10 hours on skin'; strong sillage with aggressive projection for the first 2-3 hours. Spring and summer best, fall acceptable, winter to avoid.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Emerald",
@@ -887,13 +1134,9 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": [
-          "incense",
-          "lavender",
-          "amber"
-        ]
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -903,8 +1146,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/flair",
+          "name": "The Scent Base — Maison Asrar Flair",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base listing: longevity around 6-10 hours (score 4.2). Sillage is not rated by the community yet, so no level is set; based on very few votes.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Fresh Iris",
@@ -1058,8 +1320,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/hamsat-ghazal",
+          "name": "The Scent Base — Maison Asrar Hamsat Ghazal",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base listing: long-lasting, 8+ hours, and 'Good Projection'. No sillage score is given and no written reviews exist yet.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Hamsat Hob",
@@ -1166,13 +1447,9 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": [
-          "musk",
-          "coconut",
-          "citrus"
-        ]
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1182,8 +1459,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/heritage",
+          "name": "The Scent Base — Maison Asrar Heritage",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base listing: 'Above Average 6+ hours' longevity and 'Good Projection'. Based on few or no user reviews.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Hikaya",
@@ -1194,16 +1490,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "rose",
+        "top": [
+          "saffron",
           "praline",
-          "saffron"
-        ]
+          "bergamot"
+        ],
+        "heart": [
+          "cashmere wood",
+          "rose",
+          "caramel"
+        ],
+        "base": [
+          "musk",
+          "ambergris",
+          "vanilla"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1213,8 +1517,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-hikaya",
+          "name": "Vivir — Maison Asrar Hikaya review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '8+ hours' longevity; sillage strong (a second passage in the same review says moderate to strong). Fall and winter best; cool-weather evenings.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Hilm",
@@ -1374,22 +1704,29 @@
     {
       "name": "Infina",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "pink pepper",
+          "marine notes",
+          "cardamom",
+          "bergamot"
+        ],
+        "heart": [
+          "cashmere wood",
+          "incense"
+        ],
+        "base": [
           "musk",
-          "bergamot",
-          "marine"
-        ]
+          "moss"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1399,8 +1736,33 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-infina",
+          "name": "Vivir — Maison Asrar Infina review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: 6-8 hours on skin, a preliminary estimate (the brand claims exceptional longevity); sillage moderate. Spring and summer best, fall and winter OK.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Italian Leather",
@@ -1591,22 +1953,25 @@
     {
       "name": "Khayyal",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "ginger",
-          "woody",
-          "citrus"
-        ]
+        "top": [
+          "pink grapefruit",
+          "bergamot"
+        ],
+        "heart": [
+          "lavender"
+        ],
+        "base": [
+          "orcanox"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1616,8 +1981,36 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-khayyal",
+          "name": "Vivir — Maison Asrar Khayyal review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: 'typically persisting for 5 to 8 hours'; sillage and projection moderate. Spring, summer and fall best; suits a full workday.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "times": [
+          "afternoon"
+        ]
+      }
     },
     {
       "name": "Kiss My Lips",
@@ -1653,22 +2046,23 @@
     {
       "name": "Larimar",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
+        "top": [
+          "pink pepper",
+          "cardamom",
+          "grapefruit",
+          "nutmeg"
+        ],
         "heart": [],
         "base": [],
-        "flat": [
-          "cardamom",
-          "lavender",
-          "ambergris"
-        ]
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1678,8 +2072,33 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-larimar",
+          "name": "Vivir — Maison Asrar Larimar review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: longevity described only as 'moderate', with no hour figure; sillage moderate, projecting at arm's length. Spring and fall best, summer and winter acceptable.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Last Swim",
@@ -1690,16 +2109,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "lemon",
-          "moss",
-          "sage"
-        ]
+        "top": [
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "sage",
+          "geranium"
+        ],
+        "base": [
+          "amber"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1709,8 +2132,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-last-swim",
+          "name": "Vivir — Maison Asrar Last Swim review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '7-8 hours of consistent presence'; projection above average, sillage 'strong'. Spring and summer best, fall acceptable, winter to avoid; daytime wear.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      }
     },
     {
       "name": "Legacy",
@@ -1724,13 +2174,9 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": [
-          "bergamot",
-          "ginger",
-          "pear"
-        ]
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1740,8 +2186,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/legacy",
+          "name": "The Scent Base — Maison Asrar Legacy",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base community rating: longevity 'Above Average' with 6+ hours. One Parfumo reviewer scored longevity 6/10; no sillage level is stated.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Leo",
@@ -1777,22 +2242,27 @@
     {
       "name": "Librae",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "citrus"
+        ],
+        "heart": [
+          "powdery florals",
+          "soft woods"
+        ],
+        "base": [
           "sandalwood",
-          "aromatic",
-          "spicy"
-        ]
+          "musk",
+          "moss"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1802,8 +2272,33 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-librae",
+          "name": "Vivir — Maison Asrar Librae review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: 'approximately 5-7 hours on skin'; sillage moderate, projection moderate to intimate. Fall and winter best, spring and summer OK; good for office and daily wear.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Lily",
@@ -1910,13 +2405,9 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": [
-          "vanilla",
-          "rose",
-          "peach"
-        ]
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1926,28 +2417,52 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/luna",
+          "name": "The Scent Base — Maison Asrar Luna",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base listing states 'long lasting 8+ hours', but the listing had no user reviews yet, so the figure is unconfirmed.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Magic Night",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "floral",
-          "spicy",
-          "woody"
-        ]
+        "top": [
+          "blackberry",
+          "sweet orange"
+        ],
+        "heart": [
+          "jasmine",
+          "white flowers",
+          "marshmallow"
+        ],
+        "base": [
+          "white musk"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1957,8 +2472,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-magic-night",
+          "name": "Vivir — Maison Asrar Magic Night review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: 'a solid 6-8 hours of wear'; sillage moderate, projection moderate to strong at first. Fall and winter best, spring OK, summer to avoid; suits date nights and evenings.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Majesty",
@@ -1972,13 +2514,9 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": [
-          "grapefruit",
-          "ginger",
-          "woody"
-        ]
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1988,8 +2526,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/majesty",
+          "name": "The Scent Base — Maison Asrar Majesty",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base community data: 'above average 6+ hours' longevity and intimate projection. A Parfumo user says it fades to a skin scent after a few hours, so the level is a tendency.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Masterpiece",
@@ -2003,13 +2560,9 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": [
-          "vanilla",
-          "cinnamon",
-          "cardamom"
-        ]
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2019,8 +2572,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/masterpiece",
+          "name": "The Scent Base — Maison Asrar Masterpiece",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summary of The Scent Base: longevity around 6-10 hours, and sillage described as modest. Parfumo community ratings (about 7.6/10 for both) are not turned into a level.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Milky Way",
@@ -2056,22 +2628,30 @@
     {
       "name": "Mohra",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "oud",
+        "top": [
           "cocoa",
-          "saffron"
-        ]
+          "saffron",
+          "cinnamon"
+        ],
+        "heart": [
+          "suede",
+          "leather",
+          "praline"
+        ],
+        "base": [
+          "patchouli",
+          "oud",
+          "vanilla"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2081,8 +2661,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-mohra",
+          "name": "Vivir — Maison Asrar Mohra review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '12-plus hours on skin; longer on fabric'; sillage 'very strong' and heavy, so sprays should be few. Cool-weather evening wear.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Monarch",
@@ -2127,13 +2734,9 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": [
-          "tobacco",
-          "honey",
-          "bergamot"
-        ]
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2143,8 +2746,31 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/maison-asrar-muharib-eau-de-parfum",
+          "name": "Scentverdict — Maison Asrar Muharib",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summary of Scentverdict: longevity roughly 6-10 hours and projection strong; best season fall and winter. Parfumo community data calls projection and longevity above average.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Nada",
@@ -2267,8 +2893,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/maison-asrar-oh-honey-eau-de-parfum",
+          "name": "Scentverdict — Maison Asrar Oh Honey",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scentverdict lists longevity as moderate (4-6 h) and projection as moderate. Parfumo and brand claims of a full day are not used, as they are community or marketing statements.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Omniya",
@@ -2366,22 +3011,29 @@
     {
       "name": "Petra",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "blackcurrant",
-          "leather",
+        "top": [
+          "pink pepper",
+          "bergamot",
+          "blackcurrant"
+        ],
+        "heart": [
+          "patchouli",
+          "leather"
+        ],
+        "base": [
+          "incense",
+          "amber",
           "labdanum"
-        ]
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2391,8 +3043,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-petra",
+          "name": "Vivir — Maison Asrar Petra review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: sillage 'moderate to strong'; the 8+ hour longevity is a brand claim the review did not verify, so longevity is left empty. Good for fall and winter evenings.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Pink Crush",
@@ -2490,22 +3169,26 @@
     {
       "name": "Regent",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "bergamot",
-          "ginger",
-          "grapefruit"
-        ]
+        "top": [
+          "grapefruit",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2515,8 +3198,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-regent",
+          "name": "Vivir — Maison Asrar Regent review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: longevity 'typically hovers around 5-6 hours', some wearers 6-8+; sillage strong in the first 1-2 hours, then moderate projection. Spring and summer best, fall OK, winter to avoid.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "afternoon"
+        ]
+      }
     },
     {
       "name": "Rey",
@@ -2769,22 +3479,30 @@
     {
       "name": "Rubellite",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "plum",
+        "top": [
+          "blackcurrant",
+          "blackberry",
+          "plum"
+        ],
+        "heart": [
           "saffron",
-          "ambergris"
-        ]
+          "leather",
+          "patchouli"
+        ],
+        "base": [
+          "ambergris",
+          "labdanum",
+          "moss"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2794,28 +3512,58 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-rubellite",
+          "name": "Vivir — Maison Asrar Rubellite review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '4-6 hours on skin'; sillage moderate to strong for the first two hours, then close to skin. Fall and winter best; evening and cold-weather wear.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Silent Surge",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "bergamot",
+        "top": [
           "mandarin",
+          "bergamot"
+        ],
+        "heart": [
           "coconut"
-        ]
+        ],
+        "base": [
+          "amber"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2825,8 +3573,33 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-silent-surge",
+          "name": "Vivir — Maison Asrar Silent Surge review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '~7 hours on skin'; sillage and projection moderate (about 50 cm), stronger in the first 1-2 hours. Spring and summer best, fall OK, winter to avoid.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Silver Elixer",
@@ -2949,8 +3722,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/sunset-in-capri",
+          "name": "The Scent Base — Maison Asrar Sunset in Capri",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base listing: wear time '6+ hours' and projection described as above average. No sillage level is stated; based on the listing alone.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Throne",
@@ -2986,22 +3778,29 @@
     {
       "name": "Throne Eclipse",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "apple",
+          "cardamom",
+          "clove"
+        ],
+        "heart": [
+          "lavender",
+          "cinnamon"
+        ],
+        "base": [
           "amber",
           "vanilla",
-          "cardamom"
-        ]
+          "cedarwood"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3011,8 +3810,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-throne-eclipse",
+          "name": "Vivir — Maison Asrar Throne Eclipse review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '6-8 hours' longevity; projection and sillage both moderate. Fall and winter best, spring OK, summer to avoid; suits evenings.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Timeless",
@@ -3178,16 +4004,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "bergamot",
+          "lemon",
+          "nutmeg"
+        ],
+        "heart": [
           "cedarwood",
-          "ambergris"
-        ]
+          "cypriol",
+          "geranium"
+        ],
+        "base": [
+          "ambergris",
+          "musk",
+          "oakmoss"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3197,8 +4031,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/maison-asrar/turath-malaki",
+          "name": "The Scent Base — Maison Asrar Turath Malaki",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/72145/maison-asrar/turath-malaki",
+          "name": "Fragplace — Maison Asrar Turath Malaki",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base community data: 6+ hours longevity and strong projection (few ratings). Fragplace lists the top, heart and base notes. The Scent Base also calls it fresh, spicy, woody and citrus.",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Vanguard",
@@ -3209,16 +4070,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "pineapple",
-          "grapefruit",
-          "woody"
-        ]
+          "blackcurrant"
+        ],
+        "heart": [
+          "cardamom",
+          "ginger"
+        ],
+        "base": [
+          "musk",
+          "cashmere musk",
+          "cedarwood",
+          "leather",
+          "ambergris",
+          "moss"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3228,8 +4098,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-vanguard",
+          "name": "Vivir — Maison Asrar Vanguard review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: 'eight-plus hours routinely' on skin and fabric; sillage 'strong', leaves a visible trail. Fall and winter best, spring OK, summer to avoid; suits evenings.",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Vanilla Aura",
@@ -3358,22 +4254,30 @@
     {
       "name": "Veyra",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "pomegranate",
+          "blackcurrant"
+        ],
+        "heart": [
+          "lily of the valley",
+          "bulgarian rose",
+          "magnolia"
+        ],
+        "base": [
+          "vanilla",
           "peach",
-          "rose",
-          "pomegranate"
-        ]
+          "ambrette",
+          "ambergris"
+        ],
+        "flat": []
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3383,8 +4287,33 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-asrar-veyra",
+          "name": "Vivir — Maison Asrar Veyra review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "performance",
+            "usage",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: '5-8 hours'; sillage moderate to strong, projection strong for the first 1-2 hours. Spring and summer daily wear; not recommended for winter.",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Vision",
