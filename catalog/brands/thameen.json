@@ -1,0 +1,911 @@
+{
+  "brand": "Thameen",
+  "slug": "thameen",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The brand's own site could not be opened: the search returned no product page from it. The range comes from the lamaisonduparfum.com Shopify products.json feed for the thameen collection (27 entries). Kept Extrait de Parfum and Cologne Elixir items; skipped candles, body lotion, discovery set and the two baby fragrances. Notes, family and concentration are taken from the retailer product descriptions. Brand country and release years are not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Amber Room",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber, Aromatic, Rose",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "amber",
+          "turkish rose",
+          "spices",
+          "coriander",
+          "cedar",
+          "bergamot"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/amber-room",
+          "name": "La Maison du Parfum — Amber Room",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blue Heart",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Vanilla, Powdery, Warm Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "coconut"
+        ],
+        "heart": [
+          "orris",
+          "vanilla",
+          "tonka bean"
+        ],
+        "base": [
+          "white musk",
+          "cypriol or nagarmotha",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/blue-heart",
+          "name": "La Maison du Parfum — Blue Heart",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bohemian Infusion",
+      "collection": null,
+      "concentration": "Cologne Elixir",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Fresh Spicy, Citrus",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "petitgrain",
+          "cardamom",
+          "blackcurrant"
+        ],
+        "heart": [
+          "ginger",
+          "myrtle",
+          "artemisia",
+          "cinnamon"
+        ],
+        "base": [
+          "patchouli",
+          "ambroxan",
+          "labdanum",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/bohemian-infusion",
+          "name": "La Maison du Parfum — Bohemian Infusion",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bravi",
+      "collection": null,
+      "concentration": "Cologne Elixir",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus, Tuberose, Honey",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bitter orange",
+          "ginger",
+          "bergamot"
+        ],
+        "heart": [
+          "tuberose",
+          "honey",
+          "saffron"
+        ],
+        "base": [
+          "walnut milk",
+          "vanilla",
+          "tobacco"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/bravi",
+          "name": "La Maison du Parfum — Bravi",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carved Oud",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Warm Spicy, Oud",
+      "accords": [],
+      "notes": {
+        "top": [
+          "guatemalan cardamom",
+          "cypriol or nagarmotha",
+          "cypress",
+          "pink pepper"
+        ],
+        "heart": [
+          "agarwood",
+          "cedar",
+          "patchouli",
+          "iris"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "vanilla",
+          "haitian vetiver",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/carved-oud",
+          "name": "La Maison du Parfum — Carved Oud",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cullinan Diamond",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Powdery, Musky, Rose",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper"
+        ],
+        "heart": [
+          "rose",
+          "vanilla",
+          "orris"
+        ],
+        "base": [
+          "cashmere musk",
+          "amber",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/cullinan-diamond",
+          "name": "La Maison du Parfum — Cullinan Diamond",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diadem",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm Spicy, Amber, Lavender",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "omani frankincense",
+          "cardamom"
+        ],
+        "heart": [
+          "saffron",
+          "rose"
+        ],
+        "base": [
+          "amber",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/diadem",
+          "name": "La Maison du Parfum — Diadem",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emerald",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Honey, White Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "white flowers",
+          "freesia",
+          "magnolia"
+        ],
+        "heart": [
+          "honey",
+          "apple"
+        ],
+        "base": [
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/emerald-baby-fragrance",
+          "name": "La Maison du Parfum — Emerald",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fanfare",
+      "collection": null,
+      "concentration": "Cologne Elixir",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Citrus, Fresh Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "neroli",
+          "bergamot",
+          "floral"
+        ],
+        "heart": [
+          "vermouth",
+          "juniper berry",
+          "rosemary"
+        ],
+        "base": [
+          "vetiver",
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/fanfare",
+          "name": "La Maison du Parfum — Fanfare",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green Pearl",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Green, Citrus, Fresh Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "apple",
+          "neroli",
+          "mandarin orange"
+        ],
+        "heart": [
+          "green",
+          "tea",
+          "artemisia",
+          "pepper"
+        ],
+        "base": [
+          "musk",
+          "oakmoss",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/green-pearl",
+          "name": "La Maison du Parfum — Green Pearl",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imperial Crown",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh Spicy, Aromatic, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "elemi",
+          "black pepper",
+          "pink pepper"
+        ],
+        "heart": [
+          "olibanum",
+          "leather"
+        ],
+        "base": [
+          "guaiac wood",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/imperial-crown",
+          "name": "La Maison du Parfum — Imperial Crown",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Insignia",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Fresh Spicy, Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "whiskey",
+          "fig",
+          "bitter orange"
+        ],
+        "heart": [
+          "bay leaf",
+          "geranium",
+          "damask rose"
+        ],
+        "base": [
+          "sandalwood",
+          "vetiver",
+          "suede"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/insignia",
+          "name": "La Maison du Parfum — Insignia",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Patiala",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Rose, Citrus, Aldehydic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehydes",
+          "citruses"
+        ],
+        "heart": [
+          "rose",
+          "orange blossom"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/patiala",
+          "name": "La Maison du Parfum — Patiala",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peacock Throne",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Earthy, Rose",
+      "accords": [],
+      "notes": {
+        "top": [
+          "orris root",
+          "pink pepper",
+          "indian jasmine"
+        ],
+        "heart": [
+          "taif rose"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/peacock-throne",
+          "name": "La Maison du Parfum — Peacock Throne",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peregrina",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber, Rose, Powdery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "damask rose",
+          "gardenia",
+          "jasmine",
+          "lily-of-the-valley"
+        ],
+        "heart": [
+          "caramel",
+          "amber",
+          "vanilla",
+          "myrrh",
+          "ylang-ylang"
+        ],
+        "base": [
+          "amber",
+          "powdery",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/peregrina",
+          "name": "La Maison du Parfum — Peregrina",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Regent Leather",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm Spicy, Woody, Vanilla",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon"
+        ],
+        "heart": [
+          "saffron",
+          "cardamom",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "vanilla",
+          "animalic",
+          "cedar",
+          "labdanum",
+          "gurjan balsam",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/regent-leather",
+          "name": "La Maison du Parfum — Regent Leather",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rivière",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leather, Warm Spicy, Rose",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "black pepper"
+        ],
+        "heart": [
+          "turkish rose",
+          "sage",
+          "carnation"
+        ],
+        "base": [
+          "leather",
+          "cypriol or nagarmotha"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/riviere",
+          "name": "La Maison du Parfum — Rivière",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Sapphire",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus, White Floral, Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin orange",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "amber",
+          "woody",
+          "oakmoss",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/royal-sapphire",
+          "name": "La Maison du Parfum — Royal Sapphire",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sceptre",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber, Warm Spicy, Sweet",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "madagascar cloves",
+          "coriander"
+        ],
+        "heart": [
+          "peach",
+          "ylang-ylang",
+          "patchouli",
+          "wisteria"
+        ],
+        "base": [
+          "myrrh",
+          "amber",
+          "ambergris",
+          "siam benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/sceptre",
+          "name": "La Maison du Parfum — Sceptre",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Hope",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm Spicy, Amber, Cinnamon",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cinnamon",
+          "cloves",
+          "myrrh"
+        ],
+        "heart": [
+          "cedar",
+          "agarwood",
+          "immortelle"
+        ],
+        "base": [
+          "black amber",
+          "labdanum",
+          "vetiver",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/the-hope",
+          "name": "La Maison du Parfum — The Hope",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opaline",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus, Floral, Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pear",
+          "cardamom"
+        ],
+        "heart": [
+          "magnolia",
+          "neroli"
+        ],
+        "base": [
+          "helvetolide",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/opaline",
+          "name": "La Maison du Parfum — Opaline",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Constellation Diamond",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Vanilla, Amber, Warm Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "raspberry",
+          "pink pepper"
+        ],
+        "heart": [
+          "cashmeran",
+          "rose",
+          "mahonial",
+          "violet"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "amber",
+          "cypriol"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lamaisonduparfum.com/products/constellation-diamond",
+          "name": "La Maison du Parfum — Constellation Diamond",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

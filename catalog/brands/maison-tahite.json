@@ -1,0 +1,669 @@
+{
+  "brand": "Maison Tahité",
+  "slug": "maison-tahite",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The official site was not found in search results and none was opened. The range comes from the ministryofscent.com Shopify products.json feed for the maison-tahite collection (17 Eau de Parfum entries, sample kit skipped). Notes and perfumer names are taken from the retailer product text, which lists them as flat lists, so noteSource is reported. Brand-level country is not stated. Tonka Sel Noir, Tonka In The Sun and Tonka Rouge appear on a German retailer page but their notes were only in German prose, so they were left out. Home and body care products were not included.",
+  "fragrances": [
+    {
+      "name": "Cacao²",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "David Maruitte",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cinnamon",
+          "labdanum",
+          "toasted",
+          "cocoa",
+          "vanilla",
+          "cedarwood",
+          "vetiver",
+          "benzoin",
+          "amber"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/cacao",
+          "name": "Ministry of Scent — Cacao²",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cacao in the Sun",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Lucien Ferrero",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "lemon",
+          "blackcurrant",
+          "raspberry",
+          "chocolate",
+          "iris",
+          "orange blossom",
+          "lily of the valley",
+          "vanilla",
+          "sandalwood",
+          "woody accord",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/cacao-in-the-sun",
+          "name": "Ministry of Scent — Cacao in the Sun",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cacao Libertine",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "David Maruitte",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "mandarin",
+          "cardamom",
+          "rose",
+          "tuberose",
+          "cocoa",
+          "caramel",
+          "vanilla",
+          "patchouli",
+          "benzoin"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/cacao-libertine",
+          "name": "Ministry of Scent — Cacao Libertine",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Café Gourmand",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Stephanie Bakouche",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "milky",
+          "arabica coffee",
+          "hazelnut",
+          "patchouli",
+          "sandalwood",
+          "cade wood",
+          "vetiver",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/cafe-gourmand",
+          "name": "Ministry of Scent — Café Gourmand",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carnal Cacao",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Paul Guerlain",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "red pepper",
+          "tuberose",
+          "neroli",
+          "cocoa",
+          "ambroxan",
+          "moss"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/carnal-cacao",
+          "name": "Ministry of Scent — Carnal Cacao",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coffee Bomb",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Arturetto Landi",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "cardamom",
+          "black pepper",
+          "milk",
+          "coffee",
+          "iris",
+          "heliotrope",
+          "jasmine",
+          "rose",
+          "vanilla",
+          "cacao",
+          "frankincense",
+          "patchouli",
+          "sandalwood",
+          "tonka",
+          "leather",
+          "musk",
+          "treemoss"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/coffee-bomb",
+          "name": "Ministry of Scent — Coffee Bomb",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Floranilla",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Lucien Ferrero",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tangerine",
+          "violet",
+          "heliotrope",
+          "iris",
+          "vanilla",
+          "myrrh",
+          "vetiver"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/floranilla",
+          "name": "Ministry of Scent — Floranilla",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I_Ristretto",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Paul Guerlain",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coffee",
+          "pink pepper",
+          "iris",
+          "violet",
+          "patchouli",
+          "cashmeran"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/i_ristretto",
+          "name": "Ministry of Scent — I_Ristretto",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sel_Vanille",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "David Maruitte",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sage",
+          "jasmine",
+          "fresh water",
+          "ocean water",
+          "vanilla",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/sel_vanille",
+          "name": "Ministry of Scent — Sel_Vanille",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "VaneXstasy",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Lucien Ferrero",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coconut milk",
+          "caramel",
+          "vanilla",
+          "peru balsam",
+          "cedarwood",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/vanexstasy",
+          "name": "Ministry of Scent — VaneXstasy",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla²",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Marie Duchene",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla flower",
+          "vanilla bean",
+          "praline",
+          "powdery",
+          "benzoin"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/vanilla",
+          "name": "Ministry of Scent — Vanilla²",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanillade",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Marie Duchene",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "citrus peel",
+          "almond flower",
+          "coconut flower",
+          "vanilla flower",
+          "vanilla",
+          "patchouli",
+          "benzoin",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/vanillade",
+          "name": "Ministry of Scent — Vanillade",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Velvet Coffee",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Delphine Lebeau",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom",
+          "cocoa",
+          "benzoin",
+          "cedarwood",
+          "coffee",
+          "orris",
+          "carrot",
+          "sandalwood",
+          "oakmoss",
+          "leatherwood",
+          "patchouli",
+          "vetiver",
+          "vanilla",
+          "ambroxan"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/velvet-coffee",
+          "name": "Ministry of Scent — Velvet Coffee",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vicious Cacao",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Luca Maffei",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "raspberry",
+          "pink pepper",
+          "rum",
+          "amber",
+          "narcissus",
+          "cocoa",
+          "jasmine",
+          "salted caramel",
+          "sandalwood",
+          "saffron",
+          "oakmoss",
+          "benzoin"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/vicious-cacao",
+          "name": "Ministry of Scent — Vicious Cacao",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanille de Minuit",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Marie Duchêne",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "saffron",
+          "sandalwood",
+          "leather",
+          "benzoin"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/vanille-de-minuit",
+          "name": "Ministry of Scent — Vanille de Minuit",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arabican Rose",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "almond",
+          "raspberry",
+          "rose",
+          "coffee",
+          "vanilla",
+          "sandalwood",
+          "patchouli"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/arabican-rose",
+          "name": "Ministry of Scent — Arabican Rose",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Park",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": "Lucien Ferrero",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ho wood",
+          "heliotrope",
+          "tangerine",
+          "vanilla",
+          "coconut milk",
+          "cotton candy",
+          "benzoin",
+          "styrax"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ministryofscent.com/products/vanilla-park",
+          "name": "Ministry of Scent — Vanilla Park",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    }
+  ]
+}

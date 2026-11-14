@@ -1,0 +1,235 @@
+{
+  "brand": "Maison Louis Marie",
+  "slug": "maison-louis-marie",
+  "officialSite": "https://maisonlouismarie.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Eight Eau de Parfum fragrances, taken from the product pages on maisonlouismarie.com, which list Top, Middle and Base notes in the product details. Perfume oils, candles, body care, mists, sets and gift items excluded. No perfumer, release year, family or country stated on the pages; no distributors recorded. Pages list the 'Eau de Parfum' format.",
+  "fragrances": [
+    {
+      "name": "No.02 Le Long Fond",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonlouismarie.com/products/no-02-le-long-fond-eau-de-parfum",
+          "name": "Maison Louis Marie - No.02 Le Long Fond Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "No.04 Bois de Balincourt",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonlouismarie.com/products/no-04-bois-de-balincourt-eau-de-parfum",
+          "name": "Maison Louis Marie - No.04 Bois de Balincourt Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "No.09 Vallée de Farney",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonlouismarie.com/products/no-09-vallee-de-farney-eau-de-parfum",
+          "name": "Maison Louis Marie - No.09 Vallée de Farney Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "No.12 Bousval",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonlouismarie.com/products/no-12-bousval-eau-de-parfum",
+          "name": "Maison Louis Marie - No.12 Bousval Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "No.13 Nouvelle Vague",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonlouismarie.com/products/no-13-nouvelle-vague-eau-de-parfum",
+          "name": "Maison Louis Marie - No.13 Nouvelle Vague Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "No.14 Icila",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonlouismarie.com/products/no-14-icila-eau-de-parfum",
+          "name": "Maison Louis Marie - No.14 Icila Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "No.15 Vanille Infinie",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonlouismarie.com/products/no-15-vanille-infinie-eau-de-parfum",
+          "name": "Maison Louis Marie - No.15 Vanille Infinie Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Antidris Cassis",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonlouismarie.com/products/antidris-cassis-eau-de-parfum",
+          "name": "Maison Louis Marie - Antidris Cassis Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

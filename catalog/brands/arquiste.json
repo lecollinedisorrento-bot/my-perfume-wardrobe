@@ -1,0 +1,987 @@
+{
+  "brand": "Arquiste",
+  "slug": "arquiste",
+  "officialSite": "https://arquiste.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify catalogue (products.json) read; 23 Eau de Parfum/Toilette entries with notes from official product pages. Excluded candles, room sprays, travel sprays, rollerballs, apparel, gift cards and the Vacation (Gelee) line sold on the site. No.31 and No.57 were developed for J.Crew and are listed as Eau de Toilette per the product page. Country and perfumer/year/family not stated on the pages read, left null.",
+  "fragrances": [
+    {
+      "name": "Nocturnality",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "latex",
+          "neoprene",
+          "papyrus",
+          "black pepper",
+          "hyraceum"
+        ],
+        "heart": [
+          "black shoe shine",
+          "rose",
+          "night-blooming flower",
+          "leather",
+          "hydrocarboresin"
+        ],
+        "base": [
+          "patchouli",
+          "cedarwood",
+          "civet",
+          "castoreum",
+          "styrax"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/nocturnality",
+          "name": "Arquiste - Nocturnality",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tropical",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "guava",
+          "lime",
+          "ginger",
+          "plumeria"
+        ],
+        "heart": [
+          "champaca",
+          "guava blossom",
+          "jasmine"
+        ],
+        "base": [
+          "guava paste",
+          "vanilla",
+          "amber",
+          "mahogany"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/tropical",
+          "name": "Arquiste - Tropical",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Almond Suede",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink peppercorn",
+          "bergamot",
+          "honey",
+          "bitter almond"
+        ],
+        "heart": [
+          "cistus",
+          "neroli",
+          "saffron",
+          "orange blossom"
+        ],
+        "base": [
+          "candied sugar",
+          "vanilla",
+          "pine tar",
+          "suede"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/almond-suede",
+          "name": "Arquiste - Almond Suede",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Venice Rococo",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "chamomile",
+          "rose",
+          "hawthorn",
+          "aldehydes"
+        ],
+        "heart": [
+          "powder",
+          "orange blossom",
+          "violet",
+          "cumin"
+        ],
+        "base": [
+          "amber",
+          "iris",
+          "civet",
+          "jasmine"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/venice-rococo",
+          "name": "Arquiste - Venice Rococo",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A Grove by the Sea",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fig leaf",
+          "black olive",
+          "sea salt",
+          "clementine"
+        ],
+        "heart": [
+          "olive oil",
+          "fig",
+          "thyme",
+          "rosemary"
+        ],
+        "base": [
+          "pine needle",
+          "fir balsam",
+          "cypress",
+          "red clay"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/a-grove-by-the-sea",
+          "name": "Arquiste - A Grove by the Sea",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Or de Louis",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange blossom",
+          "pomegranate",
+          "bergamot",
+          "jasmine"
+        ],
+        "heart": [
+          "honey",
+          "orris",
+          "musk",
+          "cedarwood"
+        ],
+        "base": [
+          "smoke",
+          "cade",
+          "oiselet de chypre"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/lor-de-louis",
+          "name": "Arquiste - L'Or de Louis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peau",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambergris",
+          "musk",
+          "clary sage"
+        ],
+        "heart": [
+          "white pepper",
+          "coriander",
+          "sargassum"
+        ],
+        "base": [
+          "labdanum",
+          "okoume wood",
+          "ambermax"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/peau",
+          "name": "Arquiste - Peau",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Indigo Smoke",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "bigarade orange",
+          "lapsang souchong",
+          "vetiver"
+        ],
+        "heart": [
+          "apricot",
+          "cassia",
+          "carrot seed",
+          "guaiac wood",
+          "vanilla"
+        ],
+        "base": [
+          "mate",
+          "cedar leaf",
+          "pine tar",
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/indigo-smoke",
+          "name": "Arquiste - Indigo Smoke",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nanban",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "saffron",
+          "black tea",
+          "osmanthus"
+        ],
+        "heart": [
+          "coffee",
+          "leather",
+          "sandalwood",
+          "myrrh"
+        ],
+        "base": [
+          "frankincense",
+          "styrax",
+          "copaiba",
+          "cade"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/nanban",
+          "name": "Arquiste - Nanban",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Misfit",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "carrot seed",
+          "angelica",
+          "lavender"
+        ],
+        "heart": [
+          "rose",
+          "ambrette seed",
+          "akigalawood",
+          "styrax"
+        ],
+        "base": [
+          "patchouli",
+          "cistus",
+          "tonka bean",
+          "tolu balsam"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/misfit",
+          "name": "Arquiste - Misfit",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sydney Rock Pool",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mineral",
+          "coconut",
+          "sandalwood"
+        ],
+        "heart": [
+          "driftwood",
+          "narcissus",
+          "frangipani",
+          "jasmine"
+        ],
+        "base": [
+          "seaweed",
+          "ambermax",
+          "sea salt"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/sydney-rock-pool",
+          "name": "Arquiste - Sydney Rock Pool",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boutonniere No. 7",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "gardenia",
+          "genet",
+          "violet leaf"
+        ],
+        "base": [
+          "labdanum",
+          "vetiver",
+          "oakmoss",
+          "castoreum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/boutonniere-no-7",
+          "name": "Arquiste - Boutonniere No. 7",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Etrog",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "citron",
+          "bergamot",
+          "lemon",
+          "myrtle"
+        ],
+        "heart": [
+          "date fruit",
+          "jasmine",
+          "lentisque"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/letrog-50ml",
+          "name": "Arquiste - L'Etrog",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "No.31",
+      "collection": "J.Crew collaboration",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "red vermouth",
+          "eau-de-vie"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "damson plum"
+        ],
+        "base": [
+          "patchouli",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/no-31",
+          "name": "Arquiste - No.31",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "No.57",
+      "collection": "J.Crew collaboration",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "aged whiskey",
+          "cinnamon"
+        ],
+        "heart": [
+          "vanilla bean",
+          "labdanum"
+        ],
+        "base": [
+          "oakwood",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/no-57",
+          "name": "Arquiste - No.57",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anima Dulcis",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sesame seed",
+          "cinnamon",
+          "oregano"
+        ],
+        "heart": [
+          "clove",
+          "cumin",
+          "night-blooming jasmine",
+          "smoked chili"
+        ],
+        "base": [
+          "vanilla",
+          "cocoa",
+          "chypre"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/anima-dulcis",
+          "name": "Arquiste - Anima Dulcis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aleksandr",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "neroli",
+          "aldehydes",
+          "vodka",
+          "birch leaves"
+        ],
+        "heart": [
+          "violet leaf",
+          "orris",
+          "cognac",
+          "russian leather"
+        ],
+        "base": [
+          "fir balsam",
+          "birch tar",
+          "oakmoss",
+          "animalic musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/aleksandr",
+          "name": "Arquiste - Aleksandr",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Architects Club",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "juniper berry",
+          "angelica root",
+          "bitter orange",
+          "lemon",
+          "bergamot",
+          "clary sage",
+          "lavender"
+        ],
+        "heart": [
+          "pink peppercorn",
+          "pepperwood",
+          "cardamom",
+          "coriander",
+          "black currant bud",
+          "iris"
+        ],
+        "base": [
+          "paraguay wood",
+          "oakwood",
+          "cedarwood",
+          "cypriol",
+          "vetiver",
+          "vanilla",
+          "ambermax",
+          "ambrettolide"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/the-architects-club",
+          "name": "Arquiste - The Architects Club",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infanta en Flor",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cistus",
+          "bergamot",
+          "immortelle"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine",
+          "moroccan rose",
+          "spanish leather"
+        ],
+        "base": [
+          "benzoin",
+          "cistus",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/infanta-en-flor",
+          "name": "Arquiste - Infanta en Flor",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flor y Canto",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "acacia",
+          "marigold",
+          "crushed leaf"
+        ],
+        "heart": [
+          "tuberose",
+          "magnolia",
+          "plumeria"
+        ],
+        "base": [
+          "copal",
+          "benzoin",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/flor-y-canto",
+          "name": "Arquiste - Flor y Canto",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ella",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cannonball flower",
+          "angelica root",
+          "carrot seed",
+          "turkish rose"
+        ],
+        "heart": [
+          "jasmine",
+          "cardamom",
+          "buckwheat honey",
+          "ambergris"
+        ],
+        "base": [
+          "patchouli",
+          "civet",
+          "vetiver",
+          "cigarette smoke",
+          "chypre"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/ella",
+          "name": "Arquiste - Ella",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Él",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "laurel",
+          "clary sage",
+          "rosemary",
+          "geranium"
+        ],
+        "heart": [
+          "cardamom",
+          "cinnamon leaf",
+          "orange flower",
+          "buckwheat honey"
+        ],
+        "base": [
+          "patchouli",
+          "oakmoss",
+          "vetiver",
+          "castoreum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/el",
+          "name": "Arquiste - Él",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Etrog Acqua",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cedrat",
+          "mandarin",
+          "lemon",
+          "petitgrain",
+          "bergamot"
+        ],
+        "heart": [
+          "myrtle",
+          "cardamom",
+          "jasmine",
+          "lavender"
+        ],
+        "base": [
+          "orris",
+          "patchouli",
+          "labdanum",
+          "vetiver",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arquiste.com/products/letrog-acqua",
+          "name": "Arquiste - L'Etrog Acqua",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "brand": "Sol de Janeiro",
+  "slug": "sol-de-janeiro",
+  "officialSite": "https://soldejaneiro.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed (soldejaneiro.com) read in full. Scope: perfume mists, cologne mists and the EDP only, so jelly perfume balms, body care, hair, candles, bundles, gift sets, GWP and limited collaborations are excluded. Notes come from the official product descriptions (noteSource official); the descriptions name notes in prose, so all are recorded as flat lists. Concentration is the wording of the product title. Country not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Cheirosa 91 Intense Perfume Mist",
+      "collection": null,
+      "concentration": "Intense Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink rose",
+          "lychee",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-91-intense-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 91 Intense Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 74 Intense Perfume Mist",
+      "collection": null,
+      "concentration": "Intense Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pineapple",
+          "orange flower",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-74-intense-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 74 Intense Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 62 Intense Perfume Mist",
+      "collection": null,
+      "concentration": "Intense Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pistachio",
+          "vanilla",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-62-intense-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 62 Intense Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 59 Intense Perfume Mist",
+      "collection": null,
+      "concentration": "Intense Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white orchid",
+          "sandalwood",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-59-intense-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 59 Intense Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheiroso 7 Cologne Mist",
+      "collection": null,
+      "concentration": "Cologne Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavender",
+          "macadamia nut",
+          "vanilla wood",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheiroso-7",
+          "name": "Sol de Janeiro — Cheiroso 7 Cologne Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheiroso 10 Cologne Mist",
+      "collection": null,
+      "concentration": "Cologne Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pineapple",
+          "cedarwood",
+          "cardamom"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheiroso-10",
+          "name": "Sol de Janeiro — Cheiroso 10 Cologne Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 91 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "passionfruit",
+          "honey caramel",
+          "pink rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-91-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 91 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 76 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black currant",
+          "jasmine",
+          "freesia",
+          "amber wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-76-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 76 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 48 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "guava",
+          "orchid",
+          "vanilla",
+          "pink musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-48-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 48 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 59 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla orchid",
+          "sugared violet",
+          "sandalwood",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-59-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 59 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 68 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "dragon fruit",
+          "jasmine",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-68-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 68 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 40 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "plum",
+          "jasmine",
+          "vanilla wood",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-40-hair-body-fragrance-mist",
+          "name": "Sol de Janeiro — Cheirosa 40 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 62 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pistachio",
+          "salted caramel",
+          "jasmine",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-62-hair-body-fragrance-mist",
+          "name": "Sol de Janeiro — Cheirosa 62 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 71 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "caramel",
+          "vanilla",
+          "toasted macadamia nut",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-71-body-fragrance-mist",
+          "name": "Sol de Janeiro — Cheirosa 71 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 39 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coconut cream",
+          "tropical orchid",
+          "vanilla",
+          "praline"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-39-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 39 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheirosa 87 Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coconut milk",
+          "tuberose",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/cheirosa-87-rio-radiance-perfume-mist",
+          "name": "Sol de Janeiro — Cheirosa 87 Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SOL Cheirosa 62",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://soldejaneiro.com/products/sol-cheirosa-62",
+          "name": "Sol de Janeiro — SOL Cheirosa 62",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

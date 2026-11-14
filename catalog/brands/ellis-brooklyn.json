@@ -1,0 +1,896 @@
+{
+  "brand": "Ellis Brooklyn",
+  "slug": "ellis-brooklyn",
+  "officialSite": "https://ellisbrooklyn.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed (ellisbrooklyn.com) read in full. Scope: full-size Eau de Parfum and Perfume Mist only; trios, duos, gift sets, vials, travel sprays, minis, rollerballs, body oils, candles and bundles are excluded. Three in-scope products (APRES Eau de Parfum, SUN FRUIT Eau de Parfum, SUN Perfume Mist) are listed in the feed but their product pages returned 404, so they are not included. Notes come from the official product descriptions (noteSource official) and are flat lists. Vanilla Man Eau de Parfum and Love Pom Perfume Mist have no note list beyond the product wording (Love Pom: pomegranate only). Country not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Worth Avenue Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavender",
+          "suede",
+          "angelica seed",
+          "ambrox"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/worth-avenue-eau-de-parfum",
+          "name": "Ellis Brooklyn — Worth Avenue Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Rice Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "toasted rice",
+          "vanilla",
+          "coconut milk",
+          "sakura blossom",
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/vanilla-rice-eau-de-parfum",
+          "name": "Ellis Brooklyn — Vanilla Rice Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plum Tonic Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "plum",
+          "acai"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/plum-tonic-eau-de-parfum",
+          "name": "Ellis Brooklyn — Plum Tonic Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miami Nectar Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink pineapple",
+          "coconut water",
+          "plumeria",
+          "vanilla",
+          "sweet amber",
+          "salted wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/miami-nectar-eau-de-parfum",
+          "name": "Ellis Brooklyn — Miami Nectar Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Isla Sirena Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coconut water",
+          "lime",
+          "blue java banana",
+          "papaya",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/isla-sirena-eau-de-parfum",
+          "name": "Ellis Brooklyn — Isla Sirena Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Apple Love Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "apple",
+          "peach skin",
+          "muguet",
+          "plum blossom",
+          "sugar cane",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/apple-love-eau-de-parfum",
+          "name": "Ellis Brooklyn — Apple Love Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Man Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/vanilla-man-eau-de-parfum",
+          "name": "Ellis Brooklyn — Vanilla Man Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Queens Caramel Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "caramel",
+          "maple sugar",
+          "white chocolate",
+          "pink salt",
+          "milky musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/queens-caramel-eau-de-parfum",
+          "name": "Ellis Brooklyn — Queens Caramel Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Salt Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "salt",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/vanilla-salt-eau-de-parfum",
+          "name": "Ellis Brooklyn — Vanilla Salt Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guava Granita Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "guava",
+          "banana",
+          "mango blossom",
+          "vanilla",
+          "almond milk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/guava-granita-eau-de-parfum",
+          "name": "Ellis Brooklyn — Guava Granita Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dear Sky Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "honeydew melon",
+          "strawberry leaf",
+          "white peony",
+          "galbanum"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/dear-sky-eau-de-parfum",
+          "name": "Ellis Brooklyn — Dear Sky Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Myth Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "tiger orchid",
+          "musk",
+          "white cedarwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/myth-eau-de-parfum",
+          "name": "Ellis Brooklyn — Myth Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Salt Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ambergris",
+          "tiare",
+          "sandalwood",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/salt-eau-de-parfum",
+          "name": "Ellis Brooklyn — Salt Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sweet Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pear",
+          "ambrette",
+          "marshmallow",
+          "orris"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/sweet-eau-de-parfum",
+          "name": "Ellis Brooklyn — Sweet Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Florist Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "bergamot",
+          "gardenia",
+          "honeysuckle",
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/florist-eau-de-parfum",
+          "name": "Ellis Brooklyn — Florist Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Milk Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "floral",
+          "cocoa shell",
+          "amyris",
+          "milk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/eau-de-parfum-vanilla-milk",
+          "name": "Ellis Brooklyn — Vanilla Milk Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peaches Perfume Mist 50ml",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "peach",
+          "orange flower",
+          "orris",
+          "ambrette"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/peaches-perfume-mist-50ml",
+          "name": "Ellis Brooklyn — Peaches Perfume Mist 50ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forever Pistachio Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pistachio",
+          "tonka bean",
+          "salted caramel"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/forever-pistachio-perfume-mist",
+          "name": "Ellis Brooklyn — Forever Pistachio Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Love Pom Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pomegranate"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/love-pom-perfume-mist",
+          "name": "Ellis Brooklyn — Love Pom Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Crush Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "blood orange",
+          "neroli",
+          "almond"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/new-crush-perfume-mist",
+          "name": "Ellis Brooklyn — New Crush Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "First Date Perfume Mist 90ml",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "whipped cream",
+          "tonka bean",
+          "date",
+          "vanilla",
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/first-date-perfume-mist-90ml",
+          "name": "Ellis Brooklyn — First Date Perfume Mist 90ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miss Strawberry Perfume Mist 90ml",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "strawberry",
+          "matcha",
+          "hinoki wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/miss-strawberry-perfume-mist-90ml",
+          "name": "Ellis Brooklyn — Miss Strawberry Perfume Mist 90ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Sin Perfume Mist 90ml",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "black cherry",
+          "hazelnut"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/vanilla-sin-perfume-mist-90ml",
+          "name": "Ellis Brooklyn — Vanilla Sin Perfume Mist 90ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marshmallows Perfume Mist 90ml",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "marshmallow",
+          "peach skin",
+          "milky musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/marshmallows-perfume-mist-90ml",
+          "name": "Ellis Brooklyn — Marshmallows Perfume Mist 90ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Banana Milkshake Perfume Mist 90ml",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "banana",
+          "tonka bean",
+          "rum wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/banana-milkshake-perfume-mist-90ml",
+          "name": "Ellis Brooklyn — Banana Milkshake Perfume Mist 90ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cocoa Blanco Perfume Mist",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pear",
+          "puff pastry",
+          "white chocolate",
+          "vanilla orchid"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/cocoa-blanco-perfume-mist",
+          "name": "Ellis Brooklyn — Cocoa Blanco Perfume Mist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miss Amber Perfume Mist 90ml",
+      "collection": null,
+      "concentration": "Perfume Mist",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "suede",
+          "amber wood",
+          "brown sugar"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ellisbrooklyn.com/products/miss-amber-perfume-mist-90ml",
+          "name": "Ellis Brooklyn — Miss Amber Perfume Mist 90ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

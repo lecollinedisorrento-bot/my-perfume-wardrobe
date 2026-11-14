@@ -1,0 +1,1268 @@
+{
+  "brand": "Kayali",
+  "slug": "kayali",
+  "officialSite": "https://kayali.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed (kayali.com/en-ae) lists 37 full-size fragrances in scope (100ml/50ml EDP and EDP Intense); bundles, minis, body/hair care, home fragrance and limited editions skipped. All notes come from the official product descriptions (noteSource official). Fleur Majesty Rose Royale 31: its product text is identical to Invite Only Amber's, so no notes were recorded. Vanilla Royale Sugared Patchouli 64 has an empty description: name and sizes only. Pyramid tiers only where the text names opening/heart/base. Country not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Boujee Kitty Caramel Milk 22",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "salted caramel",
+          "caramel milk"
+        ],
+        "heart": [
+          "white chocolate",
+          "vanilla"
+        ],
+        "base": [
+          "santal",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/boujee-kitty-caramel-milk-22",
+          "name": "Kayali — Boujee Kitty Caramel Milk 22",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freedom Musk Matcha 45",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "matcha",
+          "mate",
+          "bergamot"
+        ],
+        "heart": [
+          "oat milk",
+          "vanilla",
+          "praline"
+        ],
+        "base": [
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/freedom-musk-matcha-45",
+          "name": "Kayali — Freedom Musk Matcha 45",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freedom Musk Latte 41",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "cinnamon",
+          "pink pepper"
+        ],
+        "heart": [
+          "latte",
+          "lavender"
+        ],
+        "base": [
+          "cedarwood",
+          "chocolate",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/freedom-musk-latte-41",
+          "name": "Kayali — Freedom Musk Latte 41",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freedom Musk Bouquet 27",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ylang-ylang",
+          "pink pepper",
+          "jasmine"
+        ],
+        "heart": [
+          "turkish rose",
+          "vanilla",
+          "musk",
+          "ambrette"
+        ],
+        "base": [
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/freedom-musk-bouquet-27",
+          "name": "Kayali — Freedom Musk Bouquet 27",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freedom Musk Santal 34",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "pink pepper"
+        ],
+        "heart": [
+          "white floral",
+          "frankincense"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/freedom-musk-santal-34",
+          "name": "Kayali — Freedom Musk Santal 34",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eden Sweet Peach 35",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach",
+          "red apple"
+        ],
+        "heart": [
+          "frangipani"
+        ],
+        "base": [
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/eden-sweet-peach-35",
+          "name": "Kayali — Eden Sweet Peach 35",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eden Plush Pear 23",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pear",
+          "mandarin",
+          "freesia",
+          "gardenia",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/eden-plush-pear-23",
+          "name": "Kayali — Eden Plush Pear 23",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk 12",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lotus flower",
+          "freesia",
+          "musk",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/musk-12",
+          "name": "Kayali — Musk 12",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oudgasm Chocolate Oud 11",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "spiced rum",
+          "caramel apple"
+        ],
+        "heart": [
+          "velvet orris",
+          "incense"
+        ],
+        "base": [
+          "dark cocoa",
+          "chocolate",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/oudgasm-chocolate-oud",
+          "name": "Kayali — Oudgasm Chocolate Oud 11",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dapper Daddy Saffron Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "citrus",
+          "rose",
+          "pineapple"
+        ],
+        "heart": [
+          "violet",
+          "geranium",
+          "lavender"
+        ],
+        "base": [
+          "cashmere wood",
+          "vetiver",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/dapper-daddy-saffron-oud",
+          "name": "Kayali — Dapper Daddy Saffron Oud",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maldives in a Bottle Ylang Coco 20",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "banana blossom",
+          "ylang-ylang",
+          "rosemary",
+          "white plumeria",
+          "sandalwood",
+          "coconut milk",
+          "starfruit"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/vacay-in-a-bottle-maldives-in-a-bottle-20",
+          "name": "Kayali — Maldives in a Bottle Ylang Coco 20",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yum Pistachio Gelato 33",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pistachio",
+          "whipped cream",
+          "roasted hazelnut",
+          "rum",
+          "marshmallow",
+          "cotton candy"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/yum-pistachio-gelato-33",
+          "name": "Kayali — Yum Pistachio Gelato 33",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yum Boujee Marshmallow 81",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "marshmallow",
+          "strawberry",
+          "coconut",
+          "freesia",
+          "vanilla",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/yum-boujee-marshmallow-81",
+          "name": "Kayali — Yum Boujee Marshmallow 81",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Utopia Vanilla Coco 21",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "white floral",
+          "coconut",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/utopia-vanilla-coco-21",
+          "name": "Kayali — Utopia Vanilla Coco 21",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Candy Rock Sugar 42",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "candied pear",
+          "bubble gum",
+          "vanilla",
+          "tonka bean",
+          "sandalwood",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/vanilla-candy-rock-sugar-42",
+          "name": "Kayali — Vanilla Candy Rock Sugar 42",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla 28",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "vanilla",
+          "jasmine"
+        ],
+        "heart": [
+          "tonka bean"
+        ],
+        "base": [
+          "brown sugar",
+          "amber wood",
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/vanilla-28",
+          "name": "Kayali — Vanilla 28",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maui in a Bottle Sweet Banana 37",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "banana",
+          "coconut cream"
+        ],
+        "heart": [
+          "gardenia",
+          "jasmine"
+        ],
+        "base": [
+          "rum",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/vacay-in-a-bottle-maui-in-a-bottle-37",
+          "name": "Kayali — Maui in a Bottle Sweet Banana 37",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marrakesh in a Bottle Orange Blossom 24",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "neroli",
+          "turkish rose",
+          "cedarwood",
+          "amber",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/vacay-in-a-bottle-marrakesh-in-a-bottle-24",
+          "name": "Kayali — Marrakesh in a Bottle Orange Blossom 24",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Capri in a Bottle Lemon Sugar 14",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "vanilla",
+          "sugar"
+        ],
+        "heart": [
+          "lemon blossom",
+          "freesia",
+          "raspberry"
+        ],
+        "base": [
+          "praline",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/vacay-in-a-bottle-capri-in-a-bottle-14",
+          "name": "Kayali — Capri in a Bottle Lemon Sugar 14",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Wedding Velvet Santal 35",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "white musk",
+          "sandalwood",
+          "cedarwood",
+          "benzoin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/the-wedding-velvet-santal-35",
+          "name": "Kayali — The Wedding Velvet Santal 35",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Wedding Silk Santal 36",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "white musk",
+          "sandalwood",
+          "cedarwood",
+          "benzoin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/the-wedding-silk-santal-36",
+          "name": "Kayali — The Wedding Silk Santal 36",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sweet Diamond Pink Pepper 25",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink pepper",
+          "saffron",
+          "bulgarian rose",
+          "royal lily",
+          "sandalwood",
+          "golden amber",
+          "bergamot"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/sweet-diamond-pink-pepper-25",
+          "name": "Kayali — Sweet Diamond Pink Pepper 25",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oudgasm Vanilla Oud 36",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "saffron",
+          "praline",
+          "oud"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/oudgasm-vanilla-oud-36",
+          "name": "Kayali — Oudgasm Vanilla Oud 36",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oudgasm Tobacco Oud 04",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "mandarin",
+          "tobacco",
+          "clove",
+          "saffron"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/oudgasm-tobacco-oud-04",
+          "name": "Kayali — Oudgasm Tobacco Oud 04",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oudgasm Smoky Oud 07",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "geranium",
+          "cedarwood",
+          "white musk",
+          "oud"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/oudgasm-smoky-oud-07",
+          "name": "Kayali — Oudgasm Smoky Oud 07",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oudgasm Rose Oud 16",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/oudgasm-rose-oud-16",
+          "name": "Kayali — Oudgasm Rose Oud 16",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oudgasm Milky Musk Oud 30",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "strawberry"
+        ],
+        "heart": [
+          "suede",
+          "santal",
+          "incense"
+        ],
+        "base": [
+          "silver oud",
+          "ambrette"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/oudgasm-milky-musk-oud",
+          "name": "Kayali — Oudgasm Milky Musk Oud 30",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oudgasm Café Oud 19",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cappuccino",
+          "rose",
+          "geranium",
+          "oud"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/oudgasm-cafe-oud-19",
+          "name": "Kayali — Oudgasm Café Oud 19",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lovefest Burning Cherry 48",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cherry",
+          "raspberry",
+          "praline",
+          "palo santo",
+          "guaiac wood",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/lovefest-burning-cherry-48",
+          "name": "Kayali — Lovefest Burning Cherry 48",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Invite Only Amber 23",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "amber resin",
+          "madagascan vanilla",
+          "black cherry",
+          "honey de provence",
+          "tobacco leaf",
+          "rose",
+          "citrus leaf"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/invite-only-amber-23",
+          "name": "Kayali — Invite Only Amber 23",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fleur Majesty Rose Royale 31",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/fleur-majesty-rose-royale-31",
+          "name": "Kayali — Fleur Majesty Rose Royale 31",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Eden Sparkling Lychee 39",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lychee",
+          "blackcurrant",
+          "candied violet"
+        ],
+        "heart": [
+          "floral"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/eden-sparkling-lychee-39",
+          "name": "Kayali — Eden Sparkling Lychee 39",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eden Juicy Apple 01",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "red apple",
+          "berry",
+          "floral"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/eden-juicy-apple-01",
+          "name": "Kayali — Eden Juicy Apple 01",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Déjà Vu White Flower 57",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white nectarine",
+          "orange flower",
+          "sandalwood",
+          "jasmine",
+          "tuberose",
+          "patchouli",
+          "gardenia"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/deja-vu-white-flower-57",
+          "name": "Kayali — Déjà Vu White Flower 57",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Royale Sugared Patchouli 64",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/vanilla-royale-sugared-patchouli-64",
+          "name": "Kayali — Vanilla Royale Sugared Patchouli 64",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Yum Vanilla Cupcake 108",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon sugar"
+        ],
+        "heart": [
+          "white caramel",
+          "toasted coconut",
+          "milk"
+        ],
+        "base": [
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://kayali.com/en-ae/products/yum-vanilla-cupcake-108",
+          "name": "Kayali — Yum Vanilla Cupcake 108",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1181 @@
+{
+  "brand": "Sospiro Perfumes",
+  "slug": "sospiro",
+  "officialSite": "https://mysospiro.com/en",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site (mysospiro.com/en) collection listings read for The Classica, The Erba, The Nero and The Red; every product page read for notes (top/middle/base) and collection/family. Concentration is not stated on the pages (only 100 ML), so null. Miniature Set and minis excluded. Year, perfumer and country not stated on the site.",
+  "fragrances": [
+    {
+      "name": "Accento Viola",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pineapple",
+          "hyacinth"
+        ],
+        "heart": [
+          "jasmine",
+          "pink pepper",
+          "iris"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "patchouli",
+          "vetiver",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-16359175/accento-viola",
+          "name": "Sospiro - Accento Viola",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Afgano Puro",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [
+          "patchouli",
+          "cedarwood"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "tobacco"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-97247930/afgano-puro",
+          "name": "Sospiro - Afgano Puro",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aira",
+      "collection": "The Nero",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "amber",
+          "oriental accord",
+          "patchouli",
+          "incense"
+        ],
+        "heart": [
+          "labdanum",
+          "cumin",
+          "earthy accord"
+        ],
+        "base": [
+          "animalic",
+          "oud",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-44880239/aira",
+          "name": "Sospiro - Aira",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Basso",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit"
+        ],
+        "heart": [
+          "labdanum",
+          "mayflower",
+          "carnation"
+        ],
+        "base": [
+          "cedarwood",
+          "vetiver",
+          "celery seed",
+          "black pepper",
+          "galbanum",
+          "nutmeg",
+          "oakmoss",
+          "guaiac wood",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-24303029/basso",
+          "name": "Sospiro - Basso",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bel Canto",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine",
+          "citrus"
+        ],
+        "heart": [
+          "powdery",
+          "violet"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "patchouli",
+          "vetiver",
+          "vanilla",
+          "sandalwood",
+          "earthy"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-34984025/bel-canto",
+          "name": "Sospiro - Bel Canto",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cadenza",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "jasmine"
+        ],
+        "heart": [
+          "muguet"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "patchouli",
+          "vetiver",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-98414749/cadenza",
+          "name": "Sospiro - Cadenza",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cavatina",
+      "collection": "The Nero",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pomegranate",
+          "mandarin",
+          "pink pepper",
+          "blackcurrant"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "magnolia",
+          "freesia",
+          "apple"
+        ],
+        "base": [
+          "white musk",
+          "grenadine",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-01987877/cavatina",
+          "name": "Sospiro - Cavatina",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contralto",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "clove",
+          "orange blossom"
+        ],
+        "heart": [
+          "guaiac wood",
+          "chestnut",
+          "juniper"
+        ],
+        "base": [
+          "vanilla",
+          "peru balsam",
+          "cashmeran"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-79144699/contralto",
+          "name": "Sospiro - Contralto",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deep Ocean Amber",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambrette",
+          "elemi"
+        ],
+        "heart": [
+          "violet",
+          "styrax"
+        ],
+        "base": [
+          "labdanum",
+          "ambergris",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-11707643/deep-ocean-amber",
+          "name": "Sospiro - Deep Ocean Amber",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diva",
+      "collection": "The Nero",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "peach",
+          "ylang ylang"
+        ],
+        "heart": [
+          "jasmine",
+          "patchouli",
+          "rose",
+          "iris",
+          "carnation"
+        ],
+        "base": [
+          "vanilla",
+          "labdanum",
+          "sandalwood",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-34613618/diva",
+          "name": "Sospiro - Diva",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dolce Melodia",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "saffron",
+          "orange"
+        ],
+        "heart": [
+          "jasmine",
+          "blackcurrant",
+          "rose",
+          "gardenia",
+          "pear"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SP_12347/dolce-melodia",
+          "name": "Sospiro - Dolce Melodia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dolce Sonata",
+      "collection": "The Red",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "apricot",
+          "raspberry",
+          "lime",
+          "sweet orange"
+        ],
+        "heart": [
+          "jasmine",
+          "osmanthus",
+          "incense",
+          "rose petal",
+          "lily of the valley"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "incense",
+          "face powder",
+          "cotton candy"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-76139697/dolce-sonata",
+          "name": "Sospiro - Dolce Sonata",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Erba Leather",
+      "collection": "The Erba",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "passion fruit"
+        ],
+        "heart": [
+          "jasmine",
+          "sandalwood"
+        ],
+        "base": [
+          "amber",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-25176304/erba-leather",
+          "name": "Sospiro - Erba Leather",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Erba Oud",
+      "collection": "The Erba",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "orange"
+        ],
+        "heart": [
+          "peach",
+          "saffron",
+          "apple",
+          "melon"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "white musk",
+          "agarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-67306269/erba-oud",
+          "name": "Sospiro - Erba Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Erba Pura Magica",
+      "collection": "The Erba",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "jasmine",
+          "lemon"
+        ],
+        "heart": [
+          "balsamic",
+          "orris"
+        ],
+        "base": [
+          "amber",
+          "caramel",
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SP_1234/erba-pura-magica",
+          "name": "Sospiro - Erba Pura Magica",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Farsa",
+      "collection": "The Nero",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "rum",
+          "saffron",
+          "blackcurrant"
+        ],
+        "heart": [
+          "cedarwood",
+          "amber",
+          "cocoa bean",
+          "geranium"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "ambergris",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-72124073/farsa",
+          "name": "Sospiro - Farsa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Il Padrino",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "blackcurrant",
+          "amaretto",
+          "rum"
+        ],
+        "heart": [
+          "sandalwood",
+          "amber",
+          "patchouli blossom"
+        ],
+        "base": [
+          "labdanum",
+          "vanilla",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-96674210/il-padrino",
+          "name": "Sospiro - Il Padrino",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liberto",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "jasmine",
+          "lavender"
+        ],
+        "heart": [
+          "carnation",
+          "muguet",
+          "ozonic"
+        ],
+        "base": [
+          "amber",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-72566877/liberto",
+          "name": "Sospiro - Liberto",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maraschino",
+      "collection": "The Red",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach",
+          "rose",
+          "apple",
+          "almond",
+          "cherry",
+          "strawberry",
+          "jasmine sambac"
+        ],
+        "heart": [
+          "mimosa",
+          "heliotrope",
+          "orris"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "patchouli",
+          "tonka bean",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SP_12346/maraschino",
+          "name": "Sospiro - Maraschino",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mezzo",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "lavender",
+          "juniper"
+        ],
+        "heart": [
+          "magnolia",
+          "vetiver",
+          "ginger",
+          "apple"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "tonka bean",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-88362553/mezzo",
+          "name": "Sospiro - Mezzo",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opera Grande",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "turkish rose"
+        ],
+        "heart": [
+          "ylang ylang",
+          "ambergris",
+          "nutmeg",
+          "leather"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "vetiver",
+          "vanilla",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-48999142/opera-grande",
+          "name": "Sospiro - Opera Grande",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pasticcio",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "hyacinth",
+          "orange blossom",
+          "rose",
+          "currant bud",
+          "mimosa",
+          "nasturtium"
+        ],
+        "heart": [
+          "jasmine",
+          "ylang ylang",
+          "lime",
+          "rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "amber",
+          "cedarwood",
+          "musk",
+          "iris",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-81394041/pasticcio",
+          "name": "Sospiro - Pasticcio",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prima Donna",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine",
+          "rose",
+          "cherry"
+        ],
+        "heart": [
+          "muguet",
+          "leather",
+          "lactonic"
+        ],
+        "base": [
+          "amber",
+          "cedarwood",
+          "musk",
+          "chocolate",
+          "resin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-38845044/prima-donna",
+          "name": "Sospiro - Prima Donna",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tenore",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "lavender"
+        ],
+        "heart": [
+          "muguet",
+          "leather",
+          "resin",
+          "spicy clove"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-79869112/tenore",
+          "name": "Sospiro - Tenore",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Traviata",
+      "collection": "The Red",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lime",
+          "cardamom",
+          "sage"
+        ],
+        "heart": [
+          "violet",
+          "damascena rose",
+          "cyperus"
+        ],
+        "base": [
+          "amber",
+          "cedarwood",
+          "musk",
+          "patchouli",
+          "blond wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-82970786/traviata",
+          "name": "Sospiro - Traviata",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vibranna",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "orris"
+        ],
+        "heart": [
+          "nutmeg",
+          "muguet",
+          "oakmoss"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-96764827/vibranna",
+          "name": "Sospiro - Vibranna",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vibrato",
+      "collection": "The Classica",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "ginger",
+          "rosemary",
+          "grapefruit"
+        ],
+        "heart": [
+          "magnolia",
+          "damascena rose",
+          "blond wood"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "vetiver",
+          "sandalwood",
+          "amber",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SP_12345/vibrato",
+          "name": "Sospiro - Vibrato",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viola",
+      "collection": "The Nero",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "clary sage",
+          "pepper"
+        ],
+        "heart": [
+          "rosemary",
+          "nutmeg",
+          "incense",
+          "ambergris"
+        ],
+        "base": [
+          "amber",
+          "cedarwood",
+          "vetiver",
+          "oakmoss",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://mysospiro.com/en/product/SPR-42270880/viola",
+          "name": "Sospiro - Viola",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

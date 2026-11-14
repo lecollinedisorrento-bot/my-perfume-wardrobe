@@ -1,0 +1,1519 @@
+{
+  "brand": "Fragrance Du Bois",
+  "slug": "fragrance-du-bois",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "No official brand site was found or opened: search results returned only retailers and databases. The range comes from the perfumedefrance.com Shopify products.json feed for the fragrance-du-bois collection (35 entries, read in full), which also lists Parisian-line items sold under the Parfums de France name. Notes are taken from the retailer product descriptions, so noteSource is reported. Some descriptions give notes as unlabeled lists; those were kept as written. Brand country, release years and perfumers are not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Sirene Privee",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/sirene-privee",
+          "name": "Perfume de France — Sirene Privee",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lucius Maximus",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "bergamot",
+          "mandarin",
+          "bitter orange"
+        ],
+        "heart": [
+          "coffee",
+          "orange flower",
+          "mahonial",
+          "cedarwood",
+          "georgywood"
+        ],
+        "base": [
+          "madagascan vanilla",
+          "tonka bean",
+          "cypriol",
+          "haitian vetiver",
+          "akigalawood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/lucius-maximus-by-fragrance-du-bois",
+          "name": "Perfume de France — Lucius Maximus by Fragrance Du Bois",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lucius",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "bergamot",
+          "mandarin",
+          "bitter orange"
+        ],
+        "heart": [
+          "coffee",
+          "orange flower",
+          "mahonial",
+          "cedarwood",
+          "georgywood"
+        ],
+        "base": [
+          "madagascan vanilla",
+          "tonka bean",
+          "cypriol",
+          "haitian vetiver",
+          "akigalawood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/lucius-by-fragrance-du-bois",
+          "name": "Perfume de France — Lucius by Fragrance Du Bois",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forbidden Plum Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "plum accord",
+          "cloves",
+          "bergamot",
+          "italy"
+        ],
+        "heart": [
+          "tuberose india",
+          "whipped cream accord",
+          "rum accord"
+        ],
+        "base": [
+          "oud accord",
+          "sandalwood",
+          "patchouli indonesia",
+          "sylkolide"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/forbidden-plum-oud-by-fragrance-du-bois",
+          "name": "Perfume de France — Forbidden Plum Oud by Fragrance Du Bois",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Minuit Et Demi",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "pimento",
+          "bergamot"
+        ],
+        "heart": [
+          "caramel",
+          "coffee"
+        ],
+        "base": [
+          "vetiver",
+          "cedarwood",
+          "cashmeran",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/minuit-et-demi-by-fragrance-du-bois",
+          "name": "Perfume de France — Minuit Et Demi",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Voyage A Paris",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rum",
+          "orange blossom",
+          "tagete"
+        ],
+        "heart": [
+          "jasmine",
+          "honey",
+          "davana"
+        ],
+        "base": [
+          "oud",
+          "vanilla",
+          "oak fusion"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/fragrance-voyage-a-paris-du-bois",
+          "name": "Perfume de France — Voyage A Paris",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lovers",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "passion fruit",
+          "ginger",
+          "plum",
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "saffron",
+          "jasmine"
+        ],
+        "base": [
+          "vetiver",
+          "cedarwood",
+          "sandalwood",
+          "patchouli",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/lovers",
+          "name": "Perfume de France — Lovers",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "London Spice",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "bergamot",
+          "spearmint"
+        ],
+        "heart": [
+          "lavender",
+          "jasmine",
+          "white flowers",
+          "marine"
+        ],
+        "base": [
+          "patchouli",
+          "cedar wood",
+          "nutmeg",
+          "cardamom"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/london-spice",
+          "name": "Perfume de France — London Spice",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sahraa Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit"
+        ],
+        "heart": [
+          "of grapefruit",
+          "rose",
+          "geranium",
+          "jasmine"
+        ],
+        "base": [
+          "of patchouli",
+          "sandalwood",
+          "saffron",
+          "vanilla",
+          "amber",
+          "oud. top : grapefruit middle : rose",
+          "geranium",
+          "jasmine",
+          "patchouli base : black pepper",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-sahraa-oud-perfume",
+          "name": "Perfume de France — Sahraa Oud",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PM",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "tuberose",
+          "secret floral’s",
+          "juniper berry",
+          "caramom",
+          "menton lemon"
+        ],
+        "heart": [
+          "indonesian patchouli",
+          "italian leather",
+          "cedar woods",
+          "oris root"
+        ],
+        "base": [
+          "labdanum",
+          "woody",
+          "benzoin",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/pm-by-fragrance-du-bois",
+          "name": "Perfume de France — PM",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tropiques",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "tropical fruits"
+        ],
+        "heart": [
+          "lavandin",
+          "mahonial",
+          "rosyfolia"
+        ],
+        "base": [
+          "caramel",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/tropiques",
+          "name": "Perfume de France — Tropiques",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cavort",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "davana",
+          "geranium",
+          "cinnamon"
+        ],
+        "heart": [
+          "rose absolut",
+          "orange flower",
+          "ylang",
+          "jasmin"
+        ],
+        "base": [
+          "indonesian patchouli",
+          "labdanum",
+          "sandalwood",
+          "indian incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/cavort-by-fragrance-du-bois",
+          "name": "Perfume de France — Cavort",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santal Complet",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "coconut"
+        ],
+        "heart": [
+          "violet",
+          "black pepper"
+        ],
+        "base": [
+          "of sandalwood",
+          "amber",
+          "musk",
+          "sensual",
+          "meditative fragrance. top : lemon",
+          "coconut middle : violet",
+          "black pepper base : musks",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-santal-complet-perfume",
+          "name": "Perfume de France — Santal Complet",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wild Orange",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "lemon",
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
+          "lily of the valley",
+          "orange blossom",
+          "cypress"
+        ],
+        "base": [
+          "cedar",
+          "patchouli",
+          "vetiver",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/wild-orange",
+          "name": "Perfume de France — Wild Orange",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Secret Tryst",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "saffron",
+          "indian cardamon"
+        ],
+        "heart": [
+          "of jasmine",
+          "the raw",
+          "earthy musk of vetiver",
+          "provocative",
+          "hopelessly addictive. top bergamot",
+          "saffron",
+          "indian cardamon. middle rose",
+          "jasmin",
+          "cedar wood",
+          "vetiver"
+        ],
+        "base": [
+          "patchouli",
+          "frankincense",
+          "cistus",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/secret-tryst-by-fragrance-du-bois",
+          "name": "Perfume de France — Secret Tryst",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sirene",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cherry",
+          "pepper"
+        ],
+        "heart": [
+          "oud",
+          "incense",
+          "lactonic"
+        ],
+        "base": [
+          "moss",
+          "benzoin",
+          "cistus",
+          "labdanum",
+          "cypriol"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/sirene",
+          "name": "Perfume de France — Sirene",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Jaune Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "monoi",
+          "ylang ylang",
+          "pinea pple",
+          "water fruits"
+        ],
+        "heart": [
+          "jasmine",
+          "orange blossom",
+          "white flo wers",
+          "salicyalate"
+        ],
+        "base": [
+          "lactonic",
+          "vanilla",
+          "musk",
+          "100% pur e oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-oud-jaune-intense-perfume",
+          "name": "Perfume de France — Oud Jaune Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cayman Bleu",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "nutmeg",
+          "mandarin"
+        ],
+        "heart": [
+          "frankincense",
+          "ciste",
+          "myrhh",
+          "amber"
+        ],
+        "base": [
+          "opoponax",
+          "myrhh",
+          "styrax",
+          "benzoinl"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/cayman-bleu",
+          "name": "Perfume de France — Cayman Bleu",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solstis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "mandarin",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "giving way to autumnal nutmeg",
+          "neroli",
+          "joined in passion",
+          "stronger in unity. top apple",
+          "mandarin",
+          "bergamot",
+          "pink pepper. middle nutmeg",
+          "pepper",
+          "cardamom"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/solstis-by-fragrance-du-bois",
+          "name": "Perfume de France — Solstis",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AM",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "italian orange",
+          "thyme",
+          "saffron"
+        ],
+        "heart": [
+          "damask rose",
+          "cedarwood",
+          "elemi"
+        ],
+        "base": [
+          "patchouli",
+          "guaiacwood",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/am-by-fragrance-du-bois",
+          "name": "Perfume de France — AM",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Orange Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "coconut",
+          "fruits"
+        ],
+        "heart": [
+          "vanilla bourbon"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-oud-orange-intense-perfume",
+          "name": "Perfume de France — Oud Orange Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Bleu Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "myrrh",
+          "warm amber create the"
+        ],
+        "heart": [
+          "the nuances of exotic oud then rise",
+          "sweet myrrh. top : cardamom",
+          "nutmeg",
+          "mandarin middle : frankincense",
+          "ciste",
+          "myrhh",
+          "amber"
+        ],
+        "base": [
+          "opoponax",
+          "myrhh",
+          "styrax",
+          "benzoin",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-oud-bleu-intense-perfume",
+          "name": "Perfume de France — Oud Bleu Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parisian",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "of grapefruit",
+          "supplied by rose",
+          "white jasmine",
+          "geranium",
+          "before leather",
+          "fragrance du bois’",
+          "oud builds the fragrance into a complex",
+          "sophisticated symphony. cistus labdanum",
+          "frankincense then add rich",
+          "with sandalwood",
+          "cardamom",
+          "grapefruit",
+          "almond"
+        ],
+        "heart": [
+          "rose",
+          "geranium",
+          "white jasmin",
+          "oud",
+          "leather"
+        ],
+        "base": [
+          "frankincense",
+          "moss",
+          "cistus labdanum",
+          "sandalwood",
+          "patchouli",
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parisian-by-fragrance-du-bois",
+          "name": "Perfume de France — Parisian",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New York Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "coriander",
+          "orange",
+          "blackberry",
+          "bay leaf",
+          "rose",
+          "then comes a balsamic woody",
+          "floral"
+        ],
+        "heart": [
+          "with olibanum",
+          "guaiac wood",
+          "clove",
+          "vanilla",
+          "honey",
+          "immortelle"
+        ],
+        "base": [
+          "to enhance them",
+          "using vetiver",
+          "cedar-wood",
+          "oud",
+          "myrhh",
+          "patchouli",
+          "musk",
+          "labdanum",
+          "coriander",
+          "orange",
+          "blackberry",
+          "bay leaf",
+          "rose",
+          "olibanum",
+          "guaiac wood",
+          "clove",
+          "vanilla",
+          "honey",
+          "immortelle",
+          "orchid",
+          "vetiver",
+          "cedarwood",
+          "amber",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-new-york-intense-perfume",
+          "name": "Perfume de France — New York Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Milano",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "using a mix of sicilian bergamot",
+          "orange adding saffron",
+          "jasmine",
+          "vanilla",
+          "musk",
+          "thyme",
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
+          "olibanum",
+          "jasmine",
+          "fruity"
+        ],
+        "base": [
+          "leather",
+          "musk",
+          "amber",
+          "woody",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/milano",
+          "name": "Perfume de France — Milano",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New York 5th Avenue",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "of bergamot",
+          "rose",
+          "spicy"
+        ],
+        "heart": [
+          "represented by caramel",
+          "violet",
+          "cypriol. the long-lasting"
+        ],
+        "base": [
+          "is composed of vanilla",
+          "musk",
+          "kashmir wood",
+          "guaiac wood",
+          "rose",
+          "caramel",
+          "violet",
+          "cyproil",
+          "vanilla",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-new-york-5th-avenue-perfume",
+          "name": "Perfume de France — New York 5th Avenue",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Vert Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "yield to a complex",
+          "madagascan ginger",
+          "captivating nutmeg",
+          "cedar",
+          "ginger",
+          "cardamom"
+        ],
+        "heart": [
+          "coriander seeds",
+          "nutmeg",
+          "geranium"
+        ],
+        "base": [
+          "vetiver",
+          "cedarwood",
+          "musk",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-oud-vert-intense-perfume",
+          "name": "Perfume de France — Oud Vert Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Noir Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom"
+        ],
+        "heart": [
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "saffron",
+          "patchouli",
+          "vanilla",
+          "musk",
+          "amber",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-oud-noir-intense-perfume",
+          "name": "Perfume de France — Oud Noir Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cannabis Blue",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "elemi",
+          "eucalyptus",
+          "sichuan pepper",
+          "grapefruit"
+        ],
+        "heart": [
+          "cannabis accord",
+          "nutmeg",
+          "sage"
+        ],
+        "base": [
+          "oud",
+          "guaiac wood",
+          "patchouli",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-cannabis-blue-perfume",
+          "name": "Perfume de France — Cannabis Blue",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "tangerine",
+          "orange essential oils",
+          "black pepper",
+          "cinnamon essential oils",
+          "cumin",
+          "saffron absolutes"
+        ],
+        "heart": [
+          "neroli",
+          "rose & jasmin absolutes",
+          "blackcurrant",
+          "patchouli",
+          "styrax",
+          "ciste essential oils"
+        ],
+        "base": [
+          "benzoin resin",
+          "peru balsam",
+          "musk",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/amber-intense-by-fragrance-du-bois",
+          "name": "Perfume de France — Amber Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heritage",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "alderhyde"
+        ],
+        "heart": [
+          "floral",
+          "jasmine",
+          "orris",
+          "frankincense"
+        ],
+        "base": [
+          "woody",
+          "cedarwood",
+          "sandalwood",
+          "vanilla",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/heritage",
+          "name": "Perfume de France — Heritage",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Siberian Rose",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "composed of cinnamon",
+          "juniper",
+          "pear",
+          "pink pepper",
+          "then the floral journey",
+          "the personality of the fragrance",
+          "passes through a white"
+        ],
+        "heart": [
+          "with tuberose",
+          "white rose",
+          "ylang-ylang",
+          "the longevity comes from a powerful"
+        ],
+        "base": [
+          "amber",
+          "moss. : pink pepper",
+          "pear",
+          "cinnamon",
+          "juniper",
+          "tuberose",
+          "ylang-ylang",
+          "rose",
+          "leather",
+          "patchouli",
+          "moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-siberian-rose-perfume",
+          "name": "Perfume de France — Siberian Rose",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Violet Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "to mysterious frankincense",
+          "tonka bean",
+          "nutmeg in the heart",
+          "the transcendent oud enriches the"
+        ],
+        "heart": [],
+        "base": [
+          "of cistus",
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-oud-violet-intense-perfume",
+          "name": "Perfume de France — Oud Violet Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Rose Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "that form a complex",
+          "aromatic",
+          "fruity beginning",
+          "giving way to the of rose",
+          "geranium",
+          "amber"
+        ],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/parfums-de-france-oud-rose-intense-perfume",
+          "name": "Perfume de France — Oud Rose Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brume du Matin",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot"
+        ],
+        "heart": [
+          "peach",
+          "plum",
+          "rose",
+          "violet",
+          "jasmine",
+          "peony"
+        ],
+        "base": [
+          "of wood",
+          "amber",
+          "white musk provide the perfect",
+          "sweet",
+          "sandalwood",
+          "bergamot middle : peach",
+          "plum",
+          "rose",
+          "violet",
+          "jasmine",
+          "peony base : amber",
+          "woods",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumedefrance.com/products/brume-du-matin-by-fragrance-du-bois",
+          "name": "Perfume de France — Brume du Matin",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

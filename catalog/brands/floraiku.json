@@ -1,0 +1,958 @@
+{
+  "brand": "Floraïku",
+  "slug": "floraiku",
+  "officialSite": "https://uk.floraiku.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Read the full uk.floraiku.com Shopify products.json feed (82 entries, single page). Kept the main Eau de Parfum range and skipped sets, shadow boxes, discovery sets, candles, bracelet, engraving and 1.5 ml-only entries. Notes are taken from the product descriptions as written, so most are flat lists, and many descriptions name no notes at all. Country and release years are not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Flying South",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "melon"
+        ],
+        "heart": [
+          "hibiscus"
+        ],
+        "base": [
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/flying-south-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Flying South",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Birdwatcher",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "mint"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/birdwatcher-eau-de-parfum-30ml",
+          "name": "Floraïku — Birdwatcher",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Between Two Trees",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "grapefruit",
+          "maté",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/between-two-trees-eau-de-parfum-10ml-v2",
+          "name": "Floraïku — Between Two Trees",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sleeping On The Roof",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lily of the valley",
+          "orange blossom",
+          "amber musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/sleeping-on-the-roof-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Sleeping On The Roof",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sand And Skin",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "benzoin",
+          "ylang-ylang"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/sand-and-skin-eau-de-parfum-10ml-v2",
+          "name": "Floraïku — Sand And Skin",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "One Umbrella For Two",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "blackcurrant",
+          "genmaicha tea",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/one-umbrella-for-two-eau-de-parfum-10ml-v2",
+          "name": "Floraïku — One Umbrella For Two",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "And Your Lips",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fern",
+          "bergamot",
+          "lavender",
+          "clary sage",
+          "jujube"
+        ],
+        "heart": [
+          "geranium",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "moss",
+          "vanilla",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/and-your-lips-eau-de-parfum-10ml-v2",
+          "name": "Floraïku — And Your Lips",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I Am Coming Home",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ginger",
+          "cardamom",
+          "white tea",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/i-am-coming-home-eau-de-parfum-50-10ml",
+          "name": "Floraïku — I Am Coming Home",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opening Night",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom"
+        ],
+        "heart": [
+          "cinnamon"
+        ],
+        "base": [
+          "iris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/opening-night-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Opening Night",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gong",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/gong-eau-de-parfum-30ml",
+          "name": "Floraïku — Gong",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I Dream Of Paris",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "apple",
+          "plum"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/i-dream-of-paris-eau-de-parfum-50-10ml",
+          "name": "Floraïku — I Dream Of Paris",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rise And Fall",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger"
+        ],
+        "heart": [
+          "immortelle"
+        ],
+        "base": [
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/rise-and-fall-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Rise And Fall",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I See The Clouds Go By",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "blackcurrant",
+          "white musk",
+          "cherry blossom"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/i-see-the-clouds-go-by-eau-de-parfum-50-10ml",
+          "name": "Floraïku — I See The Clouds Go By",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spring River",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "citrus",
+          "woody musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/spring-river-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Spring River",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lightspeed",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "black tea"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/lightspeed-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Lightspeed",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boyish",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "iris"
+        ],
+        "base": [
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/boyish-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Boyish",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Golden Eyes",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "nutmeg",
+          "black tea",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/golden-eyes-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Golden Eyes",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sound Of A Ricochet",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "vanilla",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/sound-of-a-ricochet-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Sound Of A Ricochet",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Levitating",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "black tea"
+        ],
+        "base": [
+          "bourbon vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/levitating-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Levitating",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Here Comes The Light",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron"
+        ],
+        "heart": [
+          "jasmine"
+        ],
+        "base": [
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/here-comes-the-light-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Here Comes The Light",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volcanic Flowers",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "lily of the valley",
+          "patchouli",
+          "chocolate",
+          "coffee"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/volcanic-flowers-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Volcanic Flowers",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I Am Not A Flower",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ginger",
+          "amber",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/i-am-not-a-flower-eau-de-parfum-50-10ml",
+          "name": "Floraïku — I Am Not A Flower",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "My Love Has The Colour Of The Night",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "guaiac wood",
+          "vetiver",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/my-love-has-the-colour-of-the-night-eau-de-parfum-50-10ml",
+          "name": "Floraïku — My Love Has The Colour Of The Night",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "In The Rain",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "cedarwood",
+          "woody musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/in-the-rain-eau-de-parfum-50-10ml",
+          "name": "Floraïku — In The Rain",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flowers Turn Purple",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "basil",
+          "lavender",
+          "amber wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/flowers-turn-purple-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Flowers Turn Purple",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Just A Rose",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "bergamot",
+          "guaiac wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/just-a-rose-eau-de-parfum-50-10ml",
+          "name": "Floraïku — Just A Rose",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AO",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tangerine",
+          "fig",
+          "myrrh"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/ao-eau-de-parfum-50-10ml",
+          "name": "Floraïku — AO",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "In The Dark",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "peppermint",
+          "citrus"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/in-the-dark-eau-de-parfum-50-10ml",
+          "name": "Floraïku — In The Dark",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Mountain Standing Still",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.floraiku.com/products/the-mountain-standing-still-eau-de-parfum-50-10ml",
+          "name": "Floraïku — The Mountain Standing Still",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

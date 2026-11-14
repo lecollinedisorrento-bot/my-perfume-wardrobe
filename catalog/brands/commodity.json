@@ -1,0 +1,291 @@
+{
+  "brand": "Commodity",
+  "slug": "commodity",
+  "officialSite": "https://commodityfragrances.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Catalogue from the commodityfragrances.com Shopify feed. Each scent is sold in three projection levels (Personal, Expressive, Bold). Notes are recorded from the Expressive version ('We started with balanced notes of') on each product page; the Personal and Bold versions add further molecular or powerful notes and are not separate entries. Concentration is the Expressive percentage stated on the page. Only the ten scent families with a current Expressive product page are included; Archive editions (Tonka, Nectar, Gin, Rain, Magnolia, Bergamot, Wool, Bois, Mimosa, Orris) are marked out of stock and were not researched. Official pages were fetched as HTML. No perfumer, year or family stated; country not stated on the pages.",
+  "fragrances": [
+    {
+      "name": "Milk",
+      "collection": null,
+      "concentration": "15% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/milk-expressive",
+          "name": "Commodity - Milk Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gold",
+      "collection": null,
+      "concentration": "20% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/gold-expressive",
+          "name": "Commodity - Gold Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Book",
+      "collection": null,
+      "concentration": "15% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/book-expressive",
+          "name": "Commodity - Book Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paper",
+      "collection": null,
+      "concentration": "24% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/paper-expressive",
+          "name": "Commodity - Paper Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Moss",
+      "collection": null,
+      "concentration": "18% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/moss-expressive",
+          "name": "Commodity - Moss Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Juice",
+      "collection": null,
+      "concentration": "18% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/juice-expressive",
+          "name": "Commodity - Juice Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Velvet",
+      "collection": null,
+      "concentration": "18% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/velvet-expressive",
+          "name": "Commodity - Velvet Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ice(d)",
+      "collection": null,
+      "concentration": "22% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/iced-expressive",
+          "name": "Commodity - Ice(d) Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spice",
+      "collection": null,
+      "concentration": "20% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/spice-expressive",
+          "name": "Commodity - Spice Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Milk Orchid",
+      "collection": null,
+      "concentration": "18% (Expressive scent space)",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://commodityfragrances.com/products/milk-orchid-expressive",
+          "name": "Commodity - Milk Orchid Expressive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

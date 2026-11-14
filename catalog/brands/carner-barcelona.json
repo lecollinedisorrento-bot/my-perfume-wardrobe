@@ -1,0 +1,1436 @@
+{
+  "brand": "Carner Barcelona",
+  "slug": "carner-barcelona",
+  "officialSite": "https://carnerbarcelona.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Shopify products.json feed read in full (250 items). 39 perfumes (product_type Perfume, 50/100 ml). Notes from each official product description (TOP/HEART/BASE sections). Concentration 'Eau de Parfum' only where the product image alt text states it; otherwise null. Year, perfumer, family not stated on the site. Country not stated on the site.",
+  "fragrances": [
+    {
+      "name": "Ambar del Sur",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine",
+          "patchouli",
+          "sandalwood",
+          "amber accord"
+        ],
+        "base": [
+          "myrrh",
+          "cistus",
+          "tonka bean",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/ambar-del-sur-perfume",
+          "name": "Carner Barcelona - Ambar del Sur",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Besos",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "black pepper"
+        ],
+        "heart": [
+          "jasmine sambac",
+          "iris"
+        ],
+        "base": [
+          "benzoin",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/besos-perfume",
+          "name": "Carner Barcelona - Besos",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bestium",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "rose"
+        ],
+        "heart": [
+          "osmanthus",
+          "patchouli"
+        ],
+        "base": [
+          "oud palao",
+          "cistus"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/bestium-perfume",
+          "name": "Carner Barcelona - Bestium",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Calamus",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "calamus",
+          "pepper"
+        ],
+        "heart": [
+          "labdanum",
+          "frankincense"
+        ],
+        "base": [
+          "vanilla",
+          "oud wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/black-calamus-perfume",
+          "name": "Carner Barcelona - Black Calamus",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bo-Bo",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "bergamot"
+        ],
+        "heart": [
+          "orange flower",
+          "lily of the valley"
+        ],
+        "base": [
+          "musk",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/bo-bo-perfume",
+          "name": "Carner Barcelona - Bo-Bo",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Botafumeiro",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink peppercorn",
+          "nutmeg"
+        ],
+        "heart": [
+          "freesia accord",
+          "muguet accord",
+          "cistus",
+          "patchouli"
+        ],
+        "base": [
+          "styrax",
+          "mystikal",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/botafumeiro-perfume",
+          "name": "Carner Barcelona - Botafumeiro",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Choco Late",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "hazelnut cream",
+          "warm milk accord"
+        ],
+        "heart": [
+          "viennese chocolate",
+          "cocoa",
+          "georgywood"
+        ],
+        "base": [
+          "vanilla",
+          "vetiver",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/choco-late-perfume",
+          "name": "Carner Barcelona - Choco Late",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Costarela",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "saffron"
+        ],
+        "heart": [
+          "marine accord",
+          "sand accord"
+        ],
+        "base": [
+          "cedarwood",
+          "ambroxane"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/costarela-perfume",
+          "name": "Carner Barcelona - Costarela",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crema Vainilla",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sweet almond",
+          "crema catalana accord"
+        ],
+        "heart": [
+          "praline",
+          "iris",
+          "milk accord"
+        ],
+        "base": [
+          "vanilla",
+          "creamy musk",
+          "roasted tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/crema-vainilla-perfume",
+          "name": "Carner Barcelona - Crema Vainilla",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cuirs",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cumin",
+          "saffron"
+        ],
+        "heart": [
+          "sandalwood",
+          "cedarwood"
+        ],
+        "base": [
+          "leather accord",
+          "oud wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/cuirs-perfume",
+          "name": "Carner Barcelona - Cuirs",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D600",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
+          "cardamom",
+          "iris",
+          "jasmine"
+        ],
+        "base": [
+          "cedarwood",
+          "vanilla",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/d600-perfume",
+          "name": "Carner Barcelona - D600",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Danzatoria",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "ylang ylang",
+          "pimiento berry"
+        ],
+        "heart": [
+          "muguet",
+          "orange flower",
+          "jasmine sambac"
+        ],
+        "base": [
+          "patchouli",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/danzatoria-perfume",
+          "name": "Carner Barcelona - Danzatoria",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drakon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cypress",
+          "betel leaf"
+        ],
+        "heart": [
+          "north orange blossom",
+          "cypriol"
+        ],
+        "base": [
+          "leather accord",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/drakon-perfume",
+          "name": "Carner Barcelona - Drakon",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Born",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "bergamot",
+          "angelica",
+          "honey"
+        ],
+        "heart": [
+          "fig",
+          "heliotrope",
+          "benzoin",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "balsam",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/el-born-perfume",
+          "name": "Carner Barcelona - El Born",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Felino",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "morroccan absinth herb",
+          "papyrus"
+        ],
+        "heart": [
+          "night blooming jasmine",
+          "ylang ylang"
+        ],
+        "base": [
+          "myrrh",
+          "opoponax"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/felino-perfume",
+          "name": "Carner Barcelona - Felino",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fig Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "fig"
+        ],
+        "heart": [
+          "fig tree leaves",
+          "violet"
+        ],
+        "base": [
+          "guaiac wood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/fig-man-perfume",
+          "name": "Carner Barcelona - Fig Man",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Helix",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "peach"
+        ],
+        "heart": [
+          "orange flower",
+          "lily of the valley"
+        ],
+        "base": [
+          "cedarwood",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/helix-perfume",
+          "name": "Carner Barcelona - Helix",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibiza Nights",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "pear"
+        ],
+        "heart": [
+          "magnolia",
+          "jasmine sambac"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/ibiza-nights-perfume",
+          "name": "Carner Barcelona - Ibiza Nights",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Isla Bohemia",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "icy pear",
+          "bergamot"
+        ],
+        "heart": [
+          "iris",
+          "musk"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/isla-bohemia-perfume",
+          "name": "Carner Barcelona - Isla Bohemia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Playa",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "orange blossom"
+        ],
+        "heart": [
+          "coconut milk",
+          "pistachio"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/la-playa-perfume",
+          "name": "Carner Barcelona - La Playa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Latin Lover",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "magnolia"
+        ],
+        "heart": [
+          "narcissus",
+          "jasmine sambac"
+        ],
+        "base": [
+          "white musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/latin-lover-perfume",
+          "name": "Carner Barcelona - Latin Lover",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lukomorie",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemongrass",
+          "grapefruit"
+        ],
+        "heart": [
+          "blackberry",
+          "rose water"
+        ],
+        "base": [
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/lukomorie-perfume",
+          "name": "Carner Barcelona - Lukomorie",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marbella",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "rose"
+        ],
+        "heart": [
+          "peony",
+          "jasmine vintage"
+        ],
+        "base": [
+          "musk",
+          "peach"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/marbella-perfume",
+          "name": "Carner Barcelona - Marbella",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Megalium",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cinnamon",
+          "cinnamon leaves",
+          "mandarin",
+          "calamus"
+        ],
+        "heart": [
+          "nutmeg",
+          "pimento berry",
+          "white pepper",
+          "rose"
+        ],
+        "base": [
+          "olibanum somalia",
+          "myrrh",
+          "opoponax",
+          "styrax"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/megalium-perfume",
+          "name": "Carner Barcelona - Megalium",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palo Santo",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "caramel",
+          "rum accord"
+        ],
+        "heart": [
+          "warm milk",
+          "guaiacum wood"
+        ],
+        "base": [
+          "palo santo",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/palo-santo-perfume",
+          "name": "Carner Barcelona - Palo Santo",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Revolución",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange blossom",
+          "oxygen accord"
+        ],
+        "heart": [
+          "saffron",
+          "violet leaf"
+        ],
+        "base": [
+          "cedarwood",
+          "leather accord"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/revolucion-perfume",
+          "name": "Carner Barcelona - Revolución",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rima XI",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "black pepper",
+          "nanah mint",
+          "saffron"
+        ],
+        "heart": [
+          "cinnamon",
+          "nutmeg",
+          "jasmine sambac",
+          "coriander"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "vanilla",
+          "benzoin",
+          "soft amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/rima-xi-perfume",
+          "name": "Carner Barcelona - Rima XI",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rock Star",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "green of mandarin",
+          "laminaria seaweed"
+        ],
+        "heart": [
+          "jasmine sambac",
+          "lily of the valley"
+        ],
+        "base": [
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/rock-star-perfume",
+          "name": "Carner Barcelona - Rock Star",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose & Dragon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "cumin",
+          "wild strawberry accord",
+          "cinnamon leaves"
+        ],
+        "heart": [
+          "rose",
+          "manuka honey",
+          "frankincense"
+        ],
+        "base": [
+          "castoreum",
+          "leather accord",
+          "labdanum",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/rose-dragon-perfume",
+          "name": "Carner Barcelona - Rose & Dragon",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sal y Limón",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "lime"
+        ],
+        "heart": [
+          "orange flower",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/sal-y-limon-perfume",
+          "name": "Carner Barcelona - Sal y Limón",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Salado",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink peppercorn",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "cucumber"
+        ],
+        "base": [
+          "salty accord",
+          "wood floated accord"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/salado-perfume",
+          "name": "Carner Barcelona - Salado",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sandor 70's",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "suede accord",
+          "bergamot",
+          "jasmine",
+          "osmanthus",
+          "rose"
+        ],
+        "heart": [
+          "tobacco accord",
+          "clary sage",
+          "cedarwood",
+          "balsam",
+          "vanilla"
+        ],
+        "base": [
+          "leather accord",
+          "patchouli",
+          "vetiver",
+          "frankincense",
+          "oak moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/sandor-70s-perfume",
+          "name": "Carner Barcelona - Sandor 70's",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Super Moon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "pomegranate"
+        ],
+        "heart": [
+          "lily of the valley",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/super-moon-perfume",
+          "name": "Carner Barcelona - Super Moon",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sweet William",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "white pepper",
+          "cardamom",
+          "cinnamon bark",
+          "galangal"
+        ],
+        "heart": [
+          "dianthus superbus",
+          "ylang ylang",
+          "rose water",
+          "night blooming tobacco flower"
+        ],
+        "base": [
+          "ambrarome",
+          "styrax",
+          "florentine iris",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/sweet-william-perfume",
+          "name": "Carner Barcelona - Sweet William",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tardes",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "almond",
+          "geranium"
+        ],
+        "heart": [
+          "cedarwood",
+          "plum"
+        ],
+        "base": [
+          "tonka bean",
+          "heliotrope"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/tardes-perfume",
+          "name": "Carner Barcelona - Tardes",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tennis Club",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "petitgrain"
+        ],
+        "heart": [
+          "neroli",
+          "orange blossom"
+        ],
+        "base": [
+          "musk",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/tennis-club-perfume",
+          "name": "Carner Barcelona - Tennis Club",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volcano",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "nutmeg"
+        ],
+        "heart": [
+          "patchouli",
+          "frankincense"
+        ],
+        "base": [
+          "labdanum",
+          "oud wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://carnerbarcelona.com/products/volcano-perfume",
+          "name": "Carner Barcelona - Volcano",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
