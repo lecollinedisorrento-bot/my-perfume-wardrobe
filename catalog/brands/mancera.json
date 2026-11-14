@@ -1,0 +1,571 @@
+{
+  "brand": "Mancera",
+  "slug": "mancera",
+  "officialSite": "https://manceraparfums.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site (manceraparfums.com) read: the collection pages linked from the Perfumes menu (Garden, L'or, Exclusif, Wild, Line, Azur, Xplicit) and the Iconics section. 28 perfumes found; each was read on its official product page for notes, concentration and family. Gift sets, discovery sets, candles and body care are excluded. Perfumer and release year are not stated on the pages read, so they are null. Several products are marked temporarily unavailable on the site. The menu listing may not cover every Mancera perfume, so the catalogue is partial. Brand country is not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Lovely Garden",
+      "collection": "Garden",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["pink pepper", "cinnamon", "red mandarin"],
+        "heart": ["turkish rose", "indonesian patchouli leaves", "orange blossom", "tuberose"],
+        "base": ["grey amber", "sweet toffee", "mystical incense", "powdery musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/oriental/98-lovely-graden.html", "name": "Mancera - Lovely Garden", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Musky Garden",
+      "collection": "Garden",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity and Floral",
+      "accords": [],
+      "notes": {
+        "top": ["citrus fruits", "cranberry", "white peach"],
+        "heart": ["iris absolute", "bulgarian rose", "indian jasmine", "patchouli leaves"],
+        "base": ["sweet white musk", "blackberry", "raspberry", "amber"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/fruity/62-musky-garden.html", "name": "Mancera - Musky Garden", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Intense Instant Crush",
+      "collection": "L'or",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber and Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["indian saffron", "black leather", "sparkling bergamot", "mandarin"],
+        "heart": ["rose", "precious amberwood", "patchouli leaves", "salted caramel"],
+        "base": ["mysore sandalwood", "vanilla pods", "oakmoss", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/oriental/136-intense-instant-crush.html", "name": "Mancera - Intense Instant Crush", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Amberful",
+      "collection": "L'or",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": ["pink pepper", "japanese yuzu", "calabrian bergamot", "indian nutmeg"],
+        "heart": ["woodsy amber", "powdery violet", "sulawesian patchouli"],
+        "base": ["intense amber", "cedar moss"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/amber/123-amberful.html", "name": "Mancera - Amberful", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Melody of the Sun",
+      "collection": "L'or",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody and Fruity",
+      "accords": [],
+      "notes": {
+        "top": ["calabrian lemon", "grapefruit", "pear", "blackcurrant", "lavender", "cardamom"],
+        "heart": ["green tea", "jasmine", "osmanthus", "cedar wood", "sunflower"],
+        "base": ["precious amber", "mate", "powdery musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/fruity/113-melody-of-the-sun.html", "name": "Mancera - Melody of the Sun", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Feminity",
+      "collection": "L'or",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Floral",
+      "accords": [],
+      "notes": {
+        "top": ["tangerine", "pink pepper", "black coffee", "leather"],
+        "heart": ["violet", "jasmine", "lily of the valley", "heliotrope"],
+        "base": ["amber", "sandal wood", "caramel", "vanilla pods", "oakmoss", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/fruity/111-feminity.html", "name": "Mancera - Feminity", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Royal Vanilla",
+      "collection": "L'or",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand, Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["citrus fruits", "rose water", "pink rhubarb leaves"],
+        "heart": ["caramel", "rose petals", "violet", "orange blossom"],
+        "base": ["amber", "white musk", "vanilla", "patchouli leaves"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/gourmand/91-royal-vanilla.html", "name": "Mancera - Royal Vanilla", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Instant Crush",
+      "collection": "L'or",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["citrus fruits", "saffron", "ginger"],
+        "heart": ["rose from morocco", "egyptian jasmine", "amber"],
+        "base": ["sandalwood", "oakmoss", "vanilla", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/oriental/82-instant-crush.html", "name": "Mancera - Instant Crush", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Pearl",
+      "collection": "L'or",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Floral",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "fig", "green apple", "white peach"],
+        "heart": ["bulgarian rose", "egyptian jasmine", "violet"],
+        "base": ["amber", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/fruity/51-pearl.html", "name": "Mancera - Pearl", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Vanille Exclusive",
+      "collection": "Exclusif",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral and Gourmand",
+      "accords": [],
+      "notes": {
+        "top": ["osmanthus", "white peach", "brown sugar", "whipped cream"],
+        "heart": ["indian tuberose", "jasmine", "violet"],
+        "base": ["vanilla", "amber", "sandalwood", "precious white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/gourmand/75-vanille-exclusive.html", "name": "Mancera - Vanille Exclusive", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Jardin Exclusif",
+      "collection": "Exclusif",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity and Gourmand",
+      "accords": [],
+      "notes": {
+        "top": ["basket of fruits", "sweet candy"],
+        "heart": ["jasmine", "rose", "violet", "grey amber"],
+        "base": ["sandalwood", "vanilla", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/gourmand/74-jardin-exclusif.html", "name": "Mancera - Jardin Exclusif", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Aoud Exclusif",
+      "collection": "Exclusif",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leathery and Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["spices"],
+        "heart": ["rose", "violet", "patchouli leaves"],
+        "base": ["leather", "nepalese oud", "amber", "vanilla", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/oriental/73-aoud-exclusif.html", "name": "Mancera - Aoud Exclusif", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Of the Wild",
+      "collection": "Wild",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand and Floral",
+      "accords": [],
+      "notes": {
+        "top": ["delicious strawberry", "powdery heliotrope"],
+        "heart": ["orange flowers", "indian jasmine", "indonesian patchouli"],
+        "base": ["vanilla pods", "sweet toffee", "fluffy musk", "vetiver"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/gourmand/115-of-the-wild.html", "name": "Mancera - Of the Wild", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Wild Python",
+      "collection": "Wild",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral and Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["intense tuberose from india", "osmanthus", "peach", "bergamot"],
+        "heart": ["jasmine", "orange blossom", "leaves of patchouli"],
+        "base": ["vanilla pods", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/floral/69-wild-python.html", "name": "Mancera - Wild Python", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Wild Candy",
+      "collection": "Wild",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Gourmand",
+      "accords": [],
+      "notes": {
+        "top": ["citrus notes", "coconut", "peach", "cocoa beans"],
+        "heart": ["tahitian flower", "ylang-ylang", "bulgarian rose", "precious iris"],
+        "base": ["benzoin from siam", "rich amber", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/gourmand/47-wild-candy.html", "name": "Mancera - Wild Candy", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Wild Leather",
+      "collection": "Wild",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot from sicily"],
+        "heart": ["bulgarian rose", "violet", "leaves of patchouli"],
+        "base": ["amber", "intense leather", "oakmoss", "woody notes"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/leathery/33-wild-leather.html", "name": "Mancera - Wild Leather", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Aoud Line",
+      "collection": "Line",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["intense oud from laos", "vanilla", "turkish rose"],
+        "heart": ["woody notes", "leaves of patchouli"],
+        "base": ["amber", "raspberry"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/leathery/31-aoud-line.html", "name": "Mancera - Aoud Line", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Lemon Line",
+      "collection": "Line",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fougere, Fruity",
+      "accords": [],
+      "notes": {
+        "top": ["citrus notes", "fresh lavender"],
+        "heart": ["white flowers", "amber", "geranium"],
+        "base": ["sensual white musk", "oakmoss"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/fruity/30-lemon-line.html", "name": "Mancera - Lemon Line", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Black Line",
+      "collection": "Line",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leathery and Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["spices"],
+        "heart": ["amber", "rose", "leather", "patchouli leaves"],
+        "base": ["sandalwood from india", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/oriental/12-black-line.html", "name": "Mancera - Black Line", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "French Riviera",
+      "collection": "Azur",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Marine",
+      "accords": [],
+      "notes": {
+        "top": ["tangerine", "orange", "lemon", "ginger", "pepper"],
+        "heart": ["sea spray", "iodine notes", "tiare", "mimosa", "pine notes", "vetiver roots"],
+        "base": ["amber", "sea salt", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/marine/106-french-riviera.html", "name": "Mancera - French Riviera", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Intense French Riviera",
+      "collection": "Azur",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Marine, Fougere",
+      "accords": [],
+      "notes": {
+        "top": ["tangerine", "ginger", "black pepper", "lemon"],
+        "heart": ["sea spray", "oud", "tiara", "cedar", "vetiver"],
+        "base": ["sea salt", "ambergris", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/marine/139-intense-french-riviera.html", "name": "Mancera - Intense French Riviera", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Cinque Terre",
+      "collection": "Azur",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Marine",
+      "accords": [],
+      "notes": {
+        "top": ["italian rosemary", "lemon", "cardamom"],
+        "heart": ["cedar", "pine", "fig leaves", "sea salt", "grey amber"],
+        "base": ["oakmoss", "tonka beans", "sandalwood", "labdanum"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/marine/130-cinque-terre.html", "name": "Mancera - Cinque Terre", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Xplicit Poppy",
+      "collection": "Xplicit",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Floral",
+      "accords": [],
+      "notes": {
+        "top": ["sauvignon accord", "grapefruit"],
+        "heart": ["poppy", "osmanthus", "patchouli"],
+        "base": ["oud", "vetiver", "peru balsam"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/floral/152-xplicit-poppy.html", "name": "Mancera - Xplicit Poppy", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Xplicit Vanilla",
+      "collection": "Xplicit",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand, Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["mexican vanilla", "chocolate accord"],
+        "heart": ["brown sugar", "oud", "sandalwood", "cedarwood"],
+        "base": ["tonka bean", "amber", "benzoin"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/gourmand/134-xplicit-vanilla.html", "name": "Mancera - Xplicit Vanilla", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Red Tobacco",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy, Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["saffron", "cinnamon", "incense", "nutmeg", "white peach", "green apple", "nepalese oud"],
+        "heart": ["patchouli leaves", "delicate jasmine"],
+        "base": ["precious tobacco", "amber", "woody notes", "vetiver", "vanilla pods", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/oriental/67-red-tobacco.html", "name": "Mancera - Red Tobacco", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Roses Vanille",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral and Gourmand",
+      "accords": [],
+      "notes": {
+        "top": ["fresh lemon of calabria"],
+        "heart": ["turkish delight with rose"],
+        "base": ["cedarwood", "intense vanilla", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/gourmand/15-roses-vanille.html", "name": "Mancera - Roses Vanille", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Wood Season",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Marine",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "mandarin", "moldavian clary sage", "black pepper", "cinnamon"],
+        "heart": ["marine breeze", "miraculous rose", "black truffle"],
+        "base": ["balsamic labdanum", "tonka beans", "intense amber", "oakmoss"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/woody/151-wood-season.html", "name": "Mancera - Wood Season", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Hazel Latte",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Gourmand",
+      "accords": [],
+      "notes": {
+        "top": ["hazelnut milk", "pear"],
+        "heart": ["milk flower", "pecan"],
+        "base": ["creamy sandalwood", "benzoin resin", "cistus absolute"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://manceraparfums.com/en/gourmand/153-hazel-latte.html", "name": "Mancera - Hazel Latte", "type": "official", "supports": ["notes", "family"] }
+      ]
+    }
+  ]
+}

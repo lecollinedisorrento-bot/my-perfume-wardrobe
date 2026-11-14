@@ -1,0 +1,71 @@
+{
+  "brand": "Montblanc",
+  "slug": "montblanc",
+  "officialSite": "https://www.montblanc.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The official Montblanc site returned HTTP 503 (en-us, en-cl, en-ad, en-gr listings and product pages) or 403 (Harrods/FragranceNet) on every attempt, so no official listing page could be read. Official product URLs were seen only as WebSearch results and their pyramids were not verifiable from them. Facts are therefore taken from Olfastory composition pages (Explorer, Explorer Platinum, Legend) and Nordstrom (Signature Elixir), recorded as reported. Legend's concentration is not stated on its page, so it is null. Explorer Platinum's and Explorer's pages name perfumers and launch years. Star Oud, Neroli Letters, Patchouli Ink, Extreme Leather, Vetiver Glacier and Black Meisterstück were not added: the retailer pages found were either blocked or gave no readable notes. Brand-level country not stated.",
+  "fragrances": [
+    {
+      "name": "Explorer",
+      "collection": "Explorer",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2019,
+      "perfumer": "Olivier Pescheux, Antoine Maisondieu, Fernandez Jordi",
+      "family": "Woody",
+      "accords": ["leather"],
+      "notes": { "top": ["bergamot", "clary sage", "pink pepper"], "heart": ["leather", "haitian vetiver"], "base": ["ambroxan", "akigalawood", "cocoa", "patchouli"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/explorer/composition", "name": "Olfastory — Explorer composition", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration", "accords"] }
+      ]
+    },
+    {
+      "name": "Explorer Platinum",
+      "collection": "Explorer",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2023,
+      "perfumer": "Bruno Jovanovic, Nathalie Lorson, Fabrice Pellegrin",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["violet leaf"], "heart": ["clary sage"], "base": ["cedar"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/explorer-platinum", "name": "Olfastory — Explorer Platinum", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Legend",
+      "collection": "Legend",
+      "concentration": null,
+      "releaseYear": 2011,
+      "perfumer": "Olivier Pescheux",
+      "family": "Fougère",
+      "accords": [],
+      "notes": { "top": ["lavender", "bergamot", "pineapple leaf"], "heart": ["rose", "geranium", "cedarwood", "evernyl"], "base": ["sandalwood", "ambroxan", "tonka bean"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/legend/composition", "name": "Olfastory — Legend composition", "type": "database", "supports": ["notes", "family", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Signature Elixir",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["red orchid", "vanilla", "ambery woods"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.nordstrom.com/s/signature-elixir-eau-de-parfum/8596871", "name": "Nordstrom — Montblanc Signature Elixir Eau de Parfum", "type": "retailer", "supports": ["notes", "family", "concentration"] }
+      ]
+    }
+  ]
+}

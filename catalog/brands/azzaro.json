@@ -1,0 +1,178 @@
+{
+  "brand": "Azzaro",
+  "slug": "azzaro",
+  "officialSite": "https://www.azzaro.com/en/fragrances",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "azzaro.com/en/fragrances opened but returned no product list (only the page title); the names Chrome, Azzaro Pour Homme, Levanzo, Azzaro Pour Elle and Mademoiselle come from a WebSearch snippet of that page. The L'Oreal brand page (loreal.com) lists the main collections (Wanted, The Most Wanted, Chrome, Azzaro pour Homme, Azzaro Sport) and the 2025 Forever Wanted Elixir. Retailer notes for Chrome EDP (Walmart) are reported; other retailers disagree on Chrome and Wanted notes, so those are left empty. Coverage is partial: no full official product list could be read.",
+  "fragrances": [
+    {
+      "name": "Chrome",
+      "collection": "Chrome",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1996,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Azzaro/Chrome-788.html", "name": "Fragrantica - Chrome Azzaro", "type": "database", "supports": ["year"] },
+        { "url": "https://www.fragranceoutlet.com/products/azzaro-chrome-cologne-for-men-eau-de-toilette-spray", "name": "Fragrance Outlet - Azzaro Chrome Eau de Toilette", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Chrome",
+      "collection": "Chrome",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody",
+      "accords": [],
+      "notes": { "top": ["bergamot", "lemon", "grapefruit"], "heart": ["aquatic notes", "ginger", "jasmine"], "base": ["cedarwood", "musk", "amber"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.walmart.com/ip/Azzaro-Chrome-EDP-for-Men-100-Ml/1579846968", "name": "Walmart - Azzaro Chrome EDP for Men", "type": "retailer", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Wanted",
+      "collection": "Wanted",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Azzaro/Wanted-38686.html", "name": "Fragrantica - Wanted Azzaro", "type": "database", "supports": ["year"] },
+        { "url": "https://theperfumespot.com/azzaro-wanted-by-azzaro-3-38-oz-edp-spray-for-men/", "name": "The Perfume Spot - Azzaro Wanted EDP", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Wanted",
+      "collection": "Wanted",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://decantboutique.com/product/azzaro-wanted-edt/", "name": "Decant Boutique - Azzaro Wanted EDT", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "The Most Wanted",
+      "collection": "The Most Wanted",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.loreal.com/en/loreal-luxe/azzaro/", "name": "L'Oreal Luxe - Azzaro", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Azzaro Forever Wanted Elixir",
+      "collection": "Wanted",
+      "concentration": null,
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.loreal.com/en/loreal-luxe/azzaro/", "name": "L'Oreal Luxe - Azzaro", "type": "publication", "supports": ["year"] }
+      ]
+    },
+    {
+      "name": "Azzaro Pour Homme",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.azzaro.com/en/fragrances", "name": "Azzaro - Fragrances", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Azzaro Sport",
+      "collection": "Sport",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.loreal.com/en/loreal-luxe/azzaro/", "name": "L'Oreal Luxe - Azzaro", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Levanzo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.azzaro.com/en/fragrances", "name": "Azzaro - Fragrances", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Azzaro Pour Elle",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.azzaro.com/en/fragrances", "name": "Azzaro - Fragrances", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Mademoiselle",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.azzaro.com/en/fragrances", "name": "Azzaro - Fragrances", "type": "official", "supports": [] }
+      ]
+    }
+  ]
+}

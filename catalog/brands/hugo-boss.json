@@ -1,0 +1,209 @@
+{
+  "brand": "Hugo Boss",
+  "slug": "hugo-boss",
+  "officialSite": "https://www.hugoboss.com/fragrances-men/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "hugoboss.com and FragranceNet/The Perfume Shop product and listing pages returned HTTP 403 to WebFetch, so the official range could not be read directly. Names and concentrations come from WebSearch results that quote the official men's fragrance listings (hugoboss.com/fragrances-men/, hugoboss.com/us/cologne-men/) and FragranceNet listings. Only Boss Bottled Eau de Parfum has notes (reported, from a McKeever's Direct search snippet). Years come from Fragrantica page titles. Coverage is partial (a subset of the men's range); women's lines and Elixir/Absolu flankers were not verified.",
+  "fragrances": [
+    {
+      "name": "Boss Bottled",
+      "collection": "Boss Bottled",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2020,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["apple", "bergamot", "black pepper"], "heart": ["chestnut", "cardamom", "cinnamon"], "base": ["vetiver", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://mckeeversdirect.com/hugo-boss-bottled-eau-de-parfum.html", "name": "McKeever's Direct - Hugo Boss Bottled Eau de Parfum", "type": "retailer", "supports": ["notes", "concentration"] },
+        { "url": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Eau-de-Parfum-62744.html", "name": "Fragrantica - Boss Bottled Eau de Parfum", "type": "database", "supports": ["year"] }
+      ]
+    },
+    {
+      "name": "Boss Bottled Striking Lavender",
+      "collection": "Boss Bottled",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hugoboss.com/fragrances-men/", "name": "HUGO BOSS - Fragrances for Men", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Boss Bottled Beyond",
+      "collection": "Boss Bottled",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hugoboss.com/fragrances-men/", "name": "HUGO BOSS - Fragrances for Men", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Boss Bottled Infinite",
+      "collection": "Boss Bottled",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hugoboss.com/fragrances-men/", "name": "HUGO BOSS - Fragrances for Men", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Boss Bottled Oud",
+      "collection": "Boss Bottled",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hugoboss.com/us/cologne-men/", "name": "HUGO BOSS - Men's cologne (US)", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Boss Bottled Night",
+      "collection": "Boss Bottled",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrancenet.com/cologne/hugo-boss/boss/edt", "name": "FragranceNet - Hugo Boss Eau de Toilette", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Boss Bottled Tonic",
+      "collection": "Boss Bottled",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrancenet.com/cologne/hugo-boss/boss/edt", "name": "FragranceNet - Hugo Boss Eau de Toilette", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Boss The Scent",
+      "collection": "Boss The Scent",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2015,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-The-Scent-31445.html", "name": "Fragrantica - Boss The Scent", "type": "database", "supports": ["year"] },
+        { "url": "https://www.fragrancenet.com/cologne/hugo-boss/boss/edt", "name": "FragranceNet - Hugo Boss Eau de Toilette", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Boss The Scent Eau de Parfum Intense",
+      "collection": "Boss The Scent",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hugoboss.com/fragrances-men/", "name": "HUGO BOSS - Fragrances for Men", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Hugo Man",
+      "collection": "Hugo",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2021,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Hugo-Boss/Hugo-Man-64606.html", "name": "Fragrantica - Hugo Man", "type": "database", "supports": ["year"] },
+        { "url": "https://www.fragrancenet.com/cologne/hugo-boss/hugo/edt", "name": "FragranceNet - Hugo Man Eau de Toilette", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Hugo Red",
+      "collection": "Hugo",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hugoboss.com/us/cologne-men/", "name": "HUGO BOSS - Men's cologne (US)", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Hugo Just Different",
+      "collection": "Hugo",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hugoboss.com/us/cologne-men/", "name": "HUGO BOSS - Men's cologne (US)", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Boss Unlimited",
+      "collection": "Boss",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hugoboss.com/us/cologne-men/", "name": "HUGO BOSS - Men's cologne (US)", "type": "official", "supports": [] }
+      ]
+    }
+  ]
+}

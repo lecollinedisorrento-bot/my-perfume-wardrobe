@@ -1,0 +1,1510 @@
+{
+  "brand": "Bruno Acampora",
+  "slug": "bruno-acampora",
+  "officialSite": "https://brunoacampora.com/en/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Range from the official brunoacampora.com listings (all products pages 1 and 2, the Extrait de Parfum collection and the 7 Classics collection; body care, home fragrance, gift cards, sample kits and multi-essence sets excluded). Only four product pages were opened (Musc, Bruno, Vanyl, Azzurro di Capri), and their notes are given as a single unsplit list on the page, so they are stored under flat. Other entries have no notes because the fetched listings did not show them. The 'Show more' button was not expanded, so the range is incomplete. Year, perfumer and family are not stated on any fetched page. The country is not stated on the fetched pages.",
+  "fragrances": [
+    {
+      "name": "Musc",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavender",
+          "rose",
+          "jasmine",
+          "violet",
+          "clove",
+          "amber",
+          "vanilla",
+          "patchouli",
+          "sandalwood",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all/products/musc-pure-essence",
+          "name": "Bruno Acampora — Musc Pure Essence",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Musc",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musc",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musc MOKA",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bruno",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bruno",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "grapefruit",
+          "cut grass",
+          "rose",
+          "saffron",
+          "cedar",
+          "amber",
+          "musk",
+          "sandalwood",
+          "patchouli",
+          "oud",
+          "resin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all/products/bruno-eau-de-parfum",
+          "name": "Bruno Acampora — Bruno Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Bruno",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musc Gold",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musc Gold",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musc Gold",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanyl",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanyl",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanyl",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "angelica",
+          "pink pepper",
+          "iris",
+          "musk",
+          "myrrh",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all/products/vanyl-extrait-de-parfum",
+          "name": "Bruno Acampora — Vanyl Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Azzurro di Capri",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "bergamot",
+          "jasmine",
+          "orange blossom",
+          "lily of the valley",
+          "amber",
+          "cedar",
+          "patchouli",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all/products/azzurro-di-capri-pure-essence",
+          "name": "Bruno Acampora — Azzurro di Capri Pure Essence",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Azzurro di Capri",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Azzurro di Capri",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/all",
+          "name": "Bruno Acampora — All products (page 1)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jasmin T",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/eau-de-parfum/7-classics",
+          "name": "Bruno Acampora — 7 Classics",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jasmin T",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iranzol",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iranzol",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/eau-de-parfum/7-classics",
+          "name": "Bruno Acampora — 7 Classics",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iranzol",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sballo",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sballo",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/eau-de-parfum/7-classics",
+          "name": "Bruno Acampora — 7 Classics",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sballo",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blu",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blu",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/eau-de-parfum/7-classics",
+          "name": "Bruno Acampora — 7 Classics",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blu",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prima T",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/eau-de-parfum/7-classics",
+          "name": "Bruno Acampora — 7 Classics",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prima T",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seplasia",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seplasia",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/eau-de-parfum/7-classics",
+          "name": "Bruno Acampora — 7 Classics",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seplasia",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volubilis",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volubilis",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Collie",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Collie",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Où",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Où",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vert",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vert",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Courser",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Courser",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sandan",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sandan",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Egoi",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Egoi",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Citrea Prochyta",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mentuccia Romana",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pompeii Red",
+      "collection": null,
+      "concentration": "Pure Essence",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pompeii Red",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Young Hearts",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/collections/all?page=2",
+          "name": "Bruno Acampora — All products (page 2)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Young Hearts",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://brunoacampora.com/en/collections/extrait-de-parfum",
+          "name": "Bruno Acampora — Extrait de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
