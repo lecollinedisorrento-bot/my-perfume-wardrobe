@@ -355,7 +355,7 @@ function Wheel({ eligible, reduced, spinning, setSpinning, onResult, clearResult
           transition: animate ? `transform ${duration}ms ${WHEEL_EASING}` : 'none',
         }}
       >
-        <circle r="106" fill="var(--ink)" />
+        <circle r="104" fill="var(--ink)" />
         {segments.map((f, i) => {
           const a0 = ((i * seg - 90) * Math.PI) / 180;
           const a1 = (((i + 1) * seg - 90) * Math.PI) / 180;
@@ -382,9 +382,12 @@ function Wheel({ eligible, reduced, spinning, setSpinning, onResult, clearResult
             </g>
           );
         })}
+        {/* Clean rim drawn over the slice edges, with marquee lights on it. */}
+        <circle r="103.5" fill="none" stroke="var(--ink)" strokeWidth="9" />
+        <circle r="99" fill="none" stroke="var(--ink)" strokeWidth="1.5" />
         {Array.from({ length: n * 2 }, (_, i) => {
           const a = ((i * (seg / 2) - 90) * Math.PI) / 180;
-          return <circle key={i} cx={103 * Math.cos(a)} cy={103 * Math.sin(a)} r="2.2" fill={i % 2 ? 'var(--lime)' : '#fff'} />;
+          return <circle key={i} cx={103.5 * Math.cos(a)} cy={103.5 * Math.sin(a)} r="2.1" fill={i % 2 ? 'var(--lime)' : '#fff'} />;
         })}
       </svg>
       <button className="wheel-hub" onClick={spin} disabled={spinning} data-testid="spin-button" aria-label={t('spin.go')}>
@@ -403,6 +406,72 @@ function initialSegments(eligible: Fragrance[]) {
 
 const ITEM_H = 104;
 const STRIP_LEN = 26;
+
+/**
+ * A lever you can actually pull: drag the knob down (ticks + haptics on the way),
+ * past halfway it fires on release, otherwise it springs back. Tap or keyboard
+ * still work. `pulled` plays the automatic pull when the big button is used.
+ */
+function Lever({ pulled, disabled, onPull, label }: { pulled: boolean; disabled: boolean; onPull: () => void; label: string }) {
+  const TRAVEL = 96;
+  const [drag, setDrag] = useState<number | null>(null); // 0..1 while dragging
+  const start = useRef<{ y: number; id: number } | null>(null);
+  const lastTick = useRef(0);
+  const moved = useRef(false);
+
+  const onDown = (e: React.PointerEvent<HTMLButtonElement>) => {
+    if (disabled) return;
+    start.current = { y: e.clientY, id: e.pointerId };
+    moved.current = false;
+    lastTick.current = 0;
+    e.currentTarget.setPointerCapture(e.pointerId);
+    setDrag(0);
+  };
+  const onMove = (e: React.PointerEvent<HTMLButtonElement>) => {
+    if (!start.current || start.current.id !== e.pointerId) return;
+    const p = Math.max(0, Math.min(1, (e.clientY - start.current.y) / TRAVEL));
+    if (p > 0.05) moved.current = true;
+    const notch = Math.floor(p * 4); // four notches on the way down
+    if (notch > lastTick.current) {
+      lastTick.current = notch;
+      sfx.tick();
+      vibrate(notch === 4 ? 18 : 6);
+    }
+    setDrag(p);
+  };
+  const onUp = (e: React.PointerEvent<HTMLButtonElement>) => {
+    if (!start.current || start.current.id !== e.pointerId) return;
+    const p = drag ?? 0;
+    start.current = null;
+    setDrag(null);
+    if (moved.current && p >= 0.55) onPull();
+    else if (moved.current) vibrate(4); // released early: springs back, no spin
+  };
+
+  const p = drag ?? (pulled ? 1 : 0);
+  return (
+    <button
+      className={`lever ${drag != null ? 'dragging' : ''}`}
+      style={{ ['--pull' as string]: p }}
+      onPointerDown={onDown}
+      onPointerMove={onMove}
+      onPointerUp={onUp}
+      onPointerCancel={onUp}
+      onClick={() => {
+        // A tap (or Enter/Space) pulls; a finished drag already did.
+        if (!moved.current && !disabled) onPull();
+        moved.current = false;
+      }}
+      disabled={disabled}
+      data-testid="spin-button"
+      aria-label={label}
+    >
+      <span className="lever-base" />
+      <span className="lever-stick" />
+      <span className="lever-knob" />
+    </button>
+  );
+}
 
 function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult }: GameProps) {
   const { t } = useI18n();
@@ -502,10 +571,7 @@ function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult
           </div>
         )}
       </div>
-      <button className={`lever ${lever ? 'pulled' : ''}`} onClick={pull} disabled={spinning} data-testid="spin-button" aria-label={t('spin.pull')}>
-        <span className="lever-knob" />
-        <span className="lever-stick" />
-      </button>
+      <Lever pulled={lever} disabled={spinning} onPull={pull} label={t('spin.pull')} />
       <button className="btn btn-lime btn-lg btn-block" onClick={pull} disabled={spinning} style={{ marginTop: 30 }}>
         {spinning ? t('spin.spinning') : t('spin.pull')}
       </button>
@@ -532,12 +598,11 @@ function ResultCard({ f, label, onAdd }: { f: Fragrance; label?: string; onAdd: 
   return (
     <section ref={ref} className={`result card card-xl c-${color === 'ink' ? 'lilac' : color} dots`} data-testid="spin-result" aria-live="polite">
       <Art name="spin-win" className="result-ribbon" eager />
-      <div className="row nowrap">
-        <span className="serif" style={{ fontSize: 26 }}>
+      <div className="result-head">
+        <span className="serif" style={{ fontSize: 26, whiteSpace: 'nowrap' }}>
           {t('spin.result')}
         </span>
-        <span className="spacer" />
-        {label && <span className="sticker c-ink">{label}</span>}
+        {label && <span className="sticker c-ink" style={{ alignSelf: 'flex-start' }}>{label}</span>}
       </div>
       <div className="result-main">
         <div className="result-bottle">

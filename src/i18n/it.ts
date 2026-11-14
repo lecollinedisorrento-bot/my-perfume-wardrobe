@@ -375,7 +375,7 @@ export const it: Record<MessageKey, string> = {
   'spin.eligible1': '1 in gioco',
   'spin.sample': 'La ruota mostra {shown} su {n}. Ogni profumo in gioco ha la stessa probabilità.',
   'spin.result': 'Il destino dice…',
-  'spin.addRotation': 'AGGIUNGI ALLA ROTAZIONE DI OGGI',
+  'spin.addRotation': 'Aggiungi alla rotazione di oggi',
   'spin.added': 'Aggiunto alla rotazione di oggi',
   'spin.fullProfile': 'Profilo completo',
   'spin.again': 'Gira ancora',

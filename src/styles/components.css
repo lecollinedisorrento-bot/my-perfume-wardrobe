@@ -1197,3 +1197,13 @@ a.chip::after,
   user-select: none;
   pointer-events: none;
 }
+
+/* Full-width buttons may wrap a long label instead of spilling out (long Italian copy). */
+.btn-block {
+  white-space: normal;
+  text-align: center;
+  line-height: 1.15;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-wrap: balance;
+}

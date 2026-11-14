@@ -47,10 +47,37 @@ export const sfx = {
   },
 };
 
+// iOS Safari has no Vibration API, but toggling a native <input switch> from a
+// user gesture plays the system "tick" haptic (iOS 18+). Elsewhere it's a no-op.
+let iosSwitch: HTMLLabelElement | null = null;
+function iosTick() {
+  try {
+    if (!iosSwitch) {
+      const input = document.createElement('input');
+      input.type = 'checkbox';
+      input.setAttribute('switch', '');
+      input.id = 'haptic-switch';
+      const label = document.createElement('label');
+      label.htmlFor = input.id;
+      for (const el of [input, label]) {
+        el.setAttribute('aria-hidden', 'true');
+        el.style.cssText = 'position:fixed;width:1px;height:1px;opacity:0;pointer-events:none;left:-99px;top:0';
+        el.tabIndex = -1;
+      }
+      document.body.append(input, label);
+      iosSwitch = label;
+    }
+    iosSwitch.click();
+  } catch {
+    /* unsupported */
+  }
+}
+
 export function vibrate(pattern: number | number[]) {
   if (!haptics) return;
   try {
-    navigator.vibrate?.(pattern);
+    if (typeof navigator.vibrate === 'function') navigator.vibrate(pattern);
+    else iosTick();
   } catch {
     /* unsupported */
   }

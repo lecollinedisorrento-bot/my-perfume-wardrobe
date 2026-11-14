@@ -198,14 +198,14 @@ export function Home() {
       <section className="section grid-2">
         <Link to="/spin" className="card card-press c-pink feature-card" data-testid="surprise-card">
           <Art name="home-surprise" className="feature-art" />
-          <h3 className="display" style={{ fontSize: 20 }}>
+          <h3 className="display feature-title">
             {t('home.surprise')}
           </h3>
           <p className="small dim">{t('home.surpriseSub')}</p>
         </Link>
         <Link to="/lab" className="card card-press c-lime feature-card">
           <Art name="home-mix" className="feature-art" />
-          <h3 className="display" style={{ fontSize: 20 }}>
+          <h3 className="display feature-title">
             {t('home.readyToMix')}
           </h3>
           <p className="small dim">{t('lab.sub')}</p>
