@@ -98,6 +98,7 @@ export default function Settings() {
           <span className="label">{t('set.motion')}</span>
           <Segmented<Preferences['reduceMotion']> options={['system', 'on', 'off'] as const} value={prefs.reduceMotion} onChange={(v) => set({ reduceMotion: v })} render={(v) => tk(`set.motion.${v}`)} label={t('set.motion')} />
         </div>
+        <Toggle label={t('set.stickers')} hint={t('set.stickersHint')} checked={prefs.stickerPhotos !== false} onChange={(v) => set({ stickerPhotos: v })} />
         <Toggle label={t('set.sound')} checked={prefs.soundEnabled} onChange={(v) => set({ soundEnabled: v })} />
         <Toggle label={t('set.haptics')} checked={prefs.hapticsEnabled} onChange={(v) => set({ hapticsEnabled: v })} />
       </section>

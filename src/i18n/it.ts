@@ -532,6 +532,8 @@ export const it: Record<MessageKey, string> = {
   'set.motion.system': 'Come il sistema',
   'set.motion.on': 'Riduci animazioni',
   'set.motion.off': 'Tutte le animazioni',
+  'set.stickers': 'Foto in stile sticker',
+  'set.stickersHint': 'Le foto dei flaconi diventano adesivi con bordo bianco, come le illustrazioni.',
   'set.sound': 'Effetti sonori',
   'set.haptics': 'Vibrazione',
   'set.weather': 'Meteo',

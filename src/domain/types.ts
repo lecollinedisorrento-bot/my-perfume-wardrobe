@@ -249,6 +249,8 @@ export interface Preferences {
   soundEnabled: boolean;
   hapticsEnabled: boolean;
   reduceMotion: 'system' | 'on' | 'off';
+  /** Catalogue bottle photos drawn as die-cut stickers (white border, ink outline, tilt). */
+  stickerPhotos: boolean;
   learningEnabled: boolean;
   learningResetAt: string | null;
   aiConsent: boolean;

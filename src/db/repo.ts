@@ -33,6 +33,7 @@ export const DEFAULT_PREFS: Preferences = {
   soundEnabled: true,
   hapticsEnabled: true,
   reduceMotion: 'system',
+  stickerPhotos: true,
   learningEnabled: true,
   learningResetAt: null,
   aiConsent: false,

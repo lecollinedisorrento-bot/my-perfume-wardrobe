@@ -1264,3 +1264,48 @@ a.chip::after,
 .label {
   overflow-wrap: break-word;
 }
+
+/* ───────────────────────── Sticker photos ─────────────────────────
+   Realistic bottle cut-outs drawn as die-cut stickers so they belong with the
+   illustrations: white border, thin ink outline, flat offset shadow, slight
+   tilt. Built from stacked drop-shadows (they follow the photo's alpha), so it
+   works on every browser and needs no extra image files. */
+.sticker-photo {
+  position: absolute; /* fill the bottle box, leaving room above for caps and the sticker border */
+  inset: 9% 3% 1%;
+  display: grid;
+  grid-template: minmax(0, 1fr) / minmax(0, 1fr); /* a definite cell, so the photo fits instead of growing */
+}
+.sticker-photo img {
+  grid-area: 1 / 1;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+/* Risograph grain printed only on the bottle (masked by the photo's own shape). */
+:root:not([data-photos='real']) .sticker-photo::after {
+  content: '';
+  grid-area: 1 / 1;
+  pointer-events: none;
+  background: url('/art/tex-paper.webp') center / 160px;
+  mix-blend-mode: multiply;
+  opacity: 0.55;
+  -webkit-mask: var(--src) center / contain no-repeat;
+  mask: var(--src) center / contain no-repeat;
+  transform: rotate(var(--tilt, 0deg));
+}
+:root:not([data-photos='real']) .bottle-cutout img {
+  filter: drop-shadow(2.5px 0 0 #fff) drop-shadow(-2.5px 0 0 #fff) drop-shadow(0 2.5px 0 #fff) drop-shadow(0 -2.5px 0 #fff)
+    drop-shadow(1.2px 0 0 var(--ink)) drop-shadow(-1.2px 0 0 var(--ink)) drop-shadow(0 1.2px 0 var(--ink)) drop-shadow(0 -1.2px 0 var(--ink))
+    drop-shadow(0 4px 0 rgba(0, 0, 0, 0.22));
+  transform: rotate(var(--tilt, 0deg));
+}
+/* Small thumbnails: a thinner border keeps the bottle readable. */
+:root:not([data-photos='real']) :is(.prow-thumb, .reel-item) .bottle-cutout img,
+:root:not([data-photos='real']) .cat-thumb {
+  filter: drop-shadow(1.5px 0 0 #fff) drop-shadow(-1.5px 0 0 #fff) drop-shadow(0 1.5px 0 #fff) drop-shadow(0 -1.5px 0 #fff)
+    drop-shadow(1px 0 0 var(--ink)) drop-shadow(-1px 0 0 var(--ink)) drop-shadow(0 1px 0 var(--ink)) drop-shadow(0 -1px 0 var(--ink));
+}
+.pcard:hover .bottle-cutout img {
+  transform: rotate(calc(var(--tilt, 0deg) * -1));
+}

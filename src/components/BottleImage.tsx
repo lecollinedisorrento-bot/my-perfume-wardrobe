@@ -59,8 +59,10 @@ export function BottleImage({
 
   if (!key && cat) {
     return (
-      <div className={`bottle bottle-cutout ${className}`}>
-        <img src={cat.url} alt={`${fragrance.brand} ${fragrance.name}`} loading="lazy" decoding="async" />
+      <div className={`bottle bottle-cutout ${className}`} style={{ ['--tilt' as string]: `${(hashIndex(fragrance.brand + fragrance.name, 7) - 3) * 1.1}deg` }}>
+        <span className="sticker-photo" style={{ ['--src' as string]: `url("${cat.url}")` }}>
+          <img src={cat.url} alt={`${fragrance.brand} ${fragrance.name}`} loading="lazy" decoding="async" />
+        </span>
         {showLabel && (
           <span className="img-label">
             {tk(`img.kind.${cat.t === 'official' ? 'official' : 'retailer'}`)} · {cat.n}

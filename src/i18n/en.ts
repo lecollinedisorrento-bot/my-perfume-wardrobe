@@ -550,6 +550,8 @@ export const en = {
   'set.motion.system': 'Follow system',
   'set.motion.on': 'Reduce motion',
   'set.motion.off': 'Full motion',
+  'set.stickers': 'Sticker-style photos',
+  'set.stickersHint': 'Bottle photos become die-cut stickers with a white border, like the illustrations.',
   'set.sound': 'Sound effects',
   'set.haptics': 'Haptics',
   'set.weather': 'Weather',

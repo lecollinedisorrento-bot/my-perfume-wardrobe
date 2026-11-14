@@ -51,9 +51,10 @@ function Shell() {
     else root.setAttribute('data-theme', prefs.theme);
     root.setAttribute('data-motion', prefs.reduceMotion === 'on' ? 'reduced' : prefs.reduceMotion === 'off' ? 'full' : 'system');
     root.lang = prefs.language;
+    root.setAttribute('data-photos', prefs.stickerPhotos === false ? 'real' : 'sticker');
     const dark = prefs.theme === 'dark' || (prefs.theme === 'system' && window.matchMedia?.('(prefers-color-scheme: dark)').matches);
     document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#15131c' : '#F6F3ED');
-  }, [prefs.theme, prefs.reduceMotion, prefs.language]);
+  }, [prefs.theme, prefs.reduceMotion, prefs.language, prefs.stickerPhotos]);
 
   if (!ready) return <Splash />;
 
