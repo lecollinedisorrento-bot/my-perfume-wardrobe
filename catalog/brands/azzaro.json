@@ -29,13 +29,13 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": "woody",
+      "family": null,
       "accords": [],
       "notes": { "top": ["bergamot", "lemon", "grapefruit"], "heart": ["aquatic notes", "ginger", "jasmine"], "base": ["cedarwood", "musk", "amber"], "flat": [] },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.walmart.com/ip/Azzaro-Chrome-EDP-for-Men-100-Ml/1579846968", "name": "Walmart - Azzaro Chrome EDP for Men", "type": "retailer", "supports": ["notes", "concentration", "family"] }
+        { "url": "https://www.walmart.com/ip/Azzaro-Chrome-EDP-for-Men-100-Ml/1579846968", "name": "Walmart - Azzaro Chrome EDP for Men", "type": "retailer", "supports": ["notes", "concentration"] }
       ]
     },
     {

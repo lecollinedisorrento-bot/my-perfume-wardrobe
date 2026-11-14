@@ -1,0 +1,639 @@
+{
+  "brand": "Lorenzo Villoresi",
+  "slug": "lorenzo-villoresi",
+  "officialSite": "https://www.lorenzovilloresi.it/us_en/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Range from the official us_en all-fragrances page (first of 27 pages, 18 items, room fragrances excluded) plus three names from the official collections page search snippet (Theseus, Uomo, Yerbamate). Notes come from the official listing table, which gives notes as a single list without a top/heart/base pyramid, so they are stored under flat. Concentration is taken from the listed formats: where only Eau de Toilette is listed it is set to Eau de Toilette; where several formats are listed (EDT, EDP, perfume, etc.) it is null. The listing shows a trial size among the formats. Year, perfumer and family are not stated. The official site is partly stale in the search snippets, so prices and stock were not recorded.",
+  "fragrances": [
+    {
+      "name": "Vol d'Abaris",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Acqua di Colonia",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lemon",
+          "orange",
+          "lavender",
+          "herbs"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alamut",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Ambra",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "galbanum",
+          "cistus",
+          "marine",
+          "spices",
+          "incense",
+          "labdanum",
+          "myrrh",
+          "frankincense",
+          "ambergris",
+          "animalic",
+          "wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Atman Xaman",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Aura Maris",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dilmun",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "neroli",
+          "orange blossom",
+          "opoponax",
+          "incense",
+          "wood",
+          "vanilla",
+          "laurel leaf"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Donna",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "ylang ylang",
+          "iris",
+          "jasmine",
+          "narcissus",
+          "violet leaf",
+          "blackcurrant",
+          "wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Garofano",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Incensi",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "opoponax",
+          "storax",
+          "tolu"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iperborea",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kamasurabhi",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "musk",
+          "wood",
+          "rose petal",
+          "oakmoss",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Patchouli",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Piper Nigrum",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pepper",
+          "spices",
+          "citrus"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sandalo",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "rose",
+          "guaiacwood",
+          "opoponax",
+          "wood",
+          "sap"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spezie",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cypress",
+          "cinnamon",
+          "bay",
+          "pepper",
+          "tomato leaf",
+          "cardamom leaf"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Teint De Neige",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/all-fragrances",
+          "name": "Lorenzo Villoresi — All fragrances",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Theseus",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/collections",
+          "name": "Lorenzo Villoresi — Collections",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Uomo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/collections",
+          "name": "Lorenzo Villoresi — Collections",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Yerbamate",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzovilloresi.it/us_en/collections",
+          "name": "Lorenzo Villoresi — Collections",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}
