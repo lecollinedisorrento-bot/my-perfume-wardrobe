@@ -1,0 +1,2965 @@
+{
+  "brand": "Amouage",
+  "slug": "amouage",
+  "officialSite": "https://www.amouage.com/",
+  "distributors": [],
+  "country": "Oman",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Range list from the official site's Shopify products.json feed (EDP, Extrait and Essence products only; attars, body care, gift sets and samples skipped). Notes, family, concentration and perfumer read from each official product page. Man/Woman versions are separate entries as the site lists them. Several pages show both a notes-and-ingredients list and a separate perfume-notes list that disagree slightly (e.g. Overture Woman, Portrayal Woman); where unclear the first list was used, and Portrayal Woman notes were left empty. Release years and accords not stated on pages, so left null/[]. Family is the page's olfactive family label. Perfumer names as extracted from page text.",
+  "fragrances": [
+    {
+      "name": "Overture 41",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Annick Ménardo",
+      "family": "amber, woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "frankincense",
+          "saffron",
+          "calvados",
+          "cinnamon"
+        ],
+        "heart": [
+          "benzoin",
+          "rose centifolia",
+          "geranium",
+          "sandalwood drèches"
+        ],
+        "base": [
+          "vanilla",
+          "labdanum",
+          "patchouli",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/overture-41",
+          "name": "Amouage — Overture 41",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Decision 42",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": "amber, woody, aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "bergamot",
+          "cardamom",
+          "neroli",
+          "cinnamon"
+        ],
+        "heart": [
+          "frankincense",
+          "juniper",
+          "myrrh",
+          "sandalwood",
+          "rectified pine tar"
+        ],
+        "base": [
+          "patchouli",
+          "cedarwood",
+          "vanilla",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/decision-42",
+          "name": "Amouage — Decision 42",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boundless",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "amber, woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blood orange",
+          "cardamom",
+          "ginger",
+          "elemi"
+        ],
+        "heart": [
+          "vanilla",
+          "benzoin"
+        ],
+        "base": [
+          "guaiac wood",
+          "papyrus",
+          "cocoa",
+          "tobacco",
+          "oakmoss",
+          "frankincense",
+          "myrrh",
+          "vetiver",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/boundless-edp-100ml-2025",
+          "name": "Amouage — Boundless",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Interlude 53 Man",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "oregano",
+          "pimento berry"
+        ],
+        "heart": [
+          "amber",
+          "frankincense",
+          "cistus",
+          "opoponax"
+        ],
+        "base": [
+          "leather",
+          "agarwood",
+          "patchouli",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/interlude53-man",
+          "name": "Amouage — Interlude 53 Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elsewhere",
+      "collection": null,
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": "Pierre Négrin",
+      "family": "woody, spicy, ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "honey",
+          "tangerine",
+          "grapefruit",
+          "mango",
+          "pomegranate",
+          "apricot",
+          "ginger",
+          "cardamom",
+          "pink pepper"
+        ],
+        "heart": [
+          "black tea",
+          "cappuccino",
+          "davana"
+        ],
+        "base": [
+          "tonka bean",
+          "vanilla",
+          "cedarwood",
+          "labdanum",
+          "cypriol",
+          "vetiver",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/elsewhere",
+          "name": "Amouage — Elsewhere",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reflection 45 Man",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Lucas Sieuzac",
+      "family": "woody floral musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "benzoin",
+          "pink pepper",
+          "clary sage",
+          "lavender",
+          "cardamom",
+          "juniper berry"
+        ],
+        "heart": [
+          "neroli",
+          "orris",
+          "jasmine",
+          "angelica",
+          "tonka bean",
+          "vanilla"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli",
+          "sandalwood",
+          "cedarwood",
+          "myrrh",
+          "frankincense",
+          "opoponax"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/reflection45-man",
+          "name": "Amouage — Reflection 45 Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sunshine Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "almond",
+          "davana"
+        ],
+        "heart": [
+          "osmanthus",
+          "jasmine",
+          "vanilla",
+          "magnolia"
+        ],
+        "base": [
+          "cade",
+          "patchouli",
+          "tobacco",
+          "papyrus"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/sunshine-woman",
+          "name": "Amouage — Sunshine Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Love Hibiscus",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jérôme Epinette",
+      "family": "floral gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "salted caramel",
+          "passion fruit",
+          "bergamot"
+        ],
+        "heart": [
+          "hibiscus",
+          "orris",
+          "frankincense"
+        ],
+        "base": [
+          "sandalwood",
+          "cypriol",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/love-hibiscus",
+          "name": "Amouage — Love Hibiscus",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sequence",
+      "collection": null,
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": "woody floral fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lychee",
+          "raspberry",
+          "saffron"
+        ],
+        "heart": [
+          "rose",
+          "osmanthus",
+          "tonka bean"
+        ],
+        "base": [
+          "oud",
+          "leather",
+          "ambery woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/sequence",
+          "name": "Amouage — Sequence",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Remain",
+      "collection": null,
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": "Pierre Négrin",
+      "family": "woody, spicy, ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "frankincense",
+          "mandarin",
+          "pimento berry",
+          "bergamot"
+        ],
+        "heart": [
+          "madonna lily",
+          "ylang-ylang",
+          "juniper",
+          "jasmine"
+        ],
+        "base": [
+          "ambergris",
+          "guaiac wood",
+          "patchouli",
+          "vanilla",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/remain",
+          "name": "Amouage — Remain",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Line 618",
+      "collection": null,
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": "Nathalie Lorson",
+      "family": "woody, leathery, incense",
+      "accords": [],
+      "notes": {
+        "top": [
+          "frankincense",
+          "black pepper",
+          "pineapple",
+          "peach",
+          "plum"
+        ],
+        "heart": [
+          "pine",
+          "heliotrope",
+          "coconut milk"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood",
+          "guaiac wood",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/line-618",
+          "name": "Amouage — Line 618",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Material",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Cécile Zarokian",
+      "family": "amber, woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "elemi",
+          "patchouli"
+        ],
+        "heart": [
+          "vanilla",
+          "benzoin"
+        ],
+        "base": [
+          "guaiac wood",
+          "oud",
+          "osmanthus",
+          "frankincense",
+          "labdanum",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/material",
+          "name": "Amouage — Material",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honour Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "rhubarb leaves",
+          "coriander"
+        ],
+        "heart": [
+          "jasmine",
+          "tuberose",
+          "gardenia",
+          "lily of the valley",
+          "carnation"
+        ],
+        "base": [
+          "vetiver",
+          "frankincense",
+          "amber",
+          "opoponax",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/honour-woman-100ml",
+          "name": "Amouage — Honour Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opus VII Reckless Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "amber, leather, woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "galbanum",
+          "pink pepper",
+          "cardamom",
+          "nutmeg",
+          "fenugreek"
+        ],
+        "heart": [
+          "agarwood",
+          "patchouli",
+          "ambrox",
+          "leather",
+          "ambergris"
+        ],
+        "base": [
+          "costus root",
+          "musk",
+          "sandalwood",
+          "frankincense",
+          "cypriol"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/opus-vii-reckless-leather",
+          "name": "Amouage — Opus VII Reckless Leather",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opus XVI Timber",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alexis Grugeon",
+      "family": "woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cypress",
+          "cardamom",
+          "juniper",
+          "pink pepper",
+          "cocoa"
+        ],
+        "heart": [
+          "lavandin",
+          "fir balsam",
+          "frankincense"
+        ],
+        "base": [
+          "palo santo",
+          "vanilla",
+          "sandalwood",
+          "cedarwood",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-opus-xvi-timber",
+          "name": "Amouage — Opus XVI Timber",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Decision",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": "fresh, woody, aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "bergamot",
+          "cardamom"
+        ],
+        "heart": [
+          "frankincense",
+          "juniper",
+          "myrrh"
+        ],
+        "base": [
+          "patchouli",
+          "cedarwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-decision",
+          "name": "Amouage — Decision",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Existence",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": "floral, musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lily of the valley",
+          "rose"
+        ],
+        "heart": [
+          "frankincense",
+          "labdanum"
+        ],
+        "base": [
+          "ambergris",
+          "white musk",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-existence",
+          "name": "Amouage — Existence",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Purpose 50",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": "woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "frankincense",
+          "pimento berry"
+        ],
+        "heart": [
+          "rose",
+          "vetiver",
+          "sandalwood",
+          "papyrus"
+        ],
+        "base": [
+          "saffron",
+          "suede",
+          "akigalawood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-purpose-50",
+          "name": "Amouage — Purpose 50",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outlands",
+      "collection": null,
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": "Cécile Zarokian",
+      "family": "woody, ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "bergamot",
+          "lemon",
+          "sichuan pepper",
+          "elemi",
+          "frankincense"
+        ],
+        "heart": [
+          "patchouli",
+          "rose",
+          "orange blossom",
+          "cumin",
+          "geranium",
+          "davana",
+          "saffron",
+          "anise",
+          "coriander"
+        ],
+        "base": [
+          "benzoin",
+          "labdanum",
+          "amber",
+          "ambergris",
+          "frankincense",
+          "opoponax",
+          "vanilla",
+          "birch",
+          "musk",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-outlands",
+          "name": "Amouage — Outlands",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reasons",
+      "collection": null,
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": "Bertrand Duchaufour",
+      "family": "woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "hazelnut",
+          "cinnamon",
+          "schinus molle"
+        ],
+        "heart": [
+          "patchouli",
+          "pine",
+          "cashmeran",
+          "amber",
+          "cypriol",
+          "davana"
+        ],
+        "base": [
+          "benzoin",
+          "cistus",
+          "sandalwood",
+          "cedarwood",
+          "vetiver",
+          "myrrh",
+          "oakmoss",
+          "musk",
+          "palo santo"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-reasons",
+          "name": "Amouage — Reasons",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lustre",
+      "collection": null,
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet; Paul Guerlain",
+      "family": "woody, floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "orris"
+        ],
+        "heart": [
+          "patchouli",
+          "sandalwood",
+          "cedarwood"
+        ],
+        "base": [
+          "benzoin",
+          "labdanum",
+          "vanilla",
+          "cypriol",
+          "styrax",
+          "tonka bean",
+          "myrrh"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-lustre",
+          "name": "Amouage — Lustre",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dia Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral, aldehyde",
+      "accords": [],
+      "notes": {
+        "top": [
+          "fig",
+          "cyclamen",
+          "bergamot",
+          "tarragon",
+          "sage",
+          "violet leaves"
+        ],
+        "heart": [
+          "peach blossom",
+          "rose",
+          "orange blossom",
+          "peony",
+          "orris"
+        ],
+        "base": [
+          "white musk",
+          "frankincense",
+          "vanilla",
+          "heliotrope",
+          "cedarwood",
+          "sandalwood",
+          "guaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/dia-woman-100ml",
+          "name": "Amouage — Dia Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gold Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral, amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "lily of the valley",
+          "frankincense"
+        ],
+        "heart": [
+          "myrrh",
+          "orris",
+          "jasmine"
+        ],
+        "base": [
+          "ambergris",
+          "civet",
+          "musk",
+          "cedarwood",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/gold-woman-100ml",
+          "name": "Amouage — Gold Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gold Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody chypre",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "lily of the valley",
+          "frankincense"
+        ],
+        "heart": [
+          "jasmine",
+          "orris",
+          "myrrh"
+        ],
+        "base": [
+          "ambergris",
+          "civet",
+          "musk",
+          "cedarwood",
+          "sandalwood",
+          "oakmoss",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/gold-man",
+          "name": "Amouage — Gold Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guidance 46",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": "floral, amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "frankincense",
+          "hazelnut",
+          "rose water",
+          "pink pepper",
+          "bitter almond"
+        ],
+        "heart": [
+          "saffron",
+          "rose",
+          "jasmine sambac",
+          "osmanthus"
+        ],
+        "base": [
+          "cistus",
+          "sandalwood",
+          "akigalawood",
+          "ambergris",
+          "vanilla",
+          "ambrette",
+          "georgywood",
+          "cypriol"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-guidance-46",
+          "name": "Amouage — Guidance 46",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Love Delight",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Pascal Gaurin",
+      "family": "floral, gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "mandarin",
+          "rose water",
+          "cinnamon"
+        ],
+        "heart": [
+          "heliotrope",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "vanilla",
+          "cocoa",
+          "rum",
+          "cypriol"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/100ml-love-delight",
+          "name": "Amouage — Love Delight",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blossom Love",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cherry blossom",
+          "rose"
+        ],
+        "heart": [
+          "ylang-ylang",
+          "amaretto",
+          "vanilla"
+        ],
+        "base": [
+          "tonka bean",
+          "sandalwood",
+          "cashmeran"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/blossom-love",
+          "name": "Amouage — Blossom Love",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lilac Love",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral, gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lilac",
+          "peony",
+          "heliotrope",
+          "gardenia"
+        ],
+        "heart": [
+          "orris",
+          "cocoa",
+          "tonka bean"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/lilac-love",
+          "name": "Amouage — Lilac Love",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ashore",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mackenzie Reilly",
+      "family": "floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "cardamom",
+          "turmeric leaf"
+        ],
+        "heart": [
+          "jasmine sambac",
+          "rose"
+        ],
+        "base": [
+          "ambergris",
+          "frankincense",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/ashore-1",
+          "name": "Amouage — Ashore",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lyric Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "amber, floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom",
+          "cinnamon",
+          "ginger"
+        ],
+        "heart": [
+          "rose",
+          "angelica",
+          "jasmine",
+          "ylang-ylang",
+          "geranium",
+          "orris"
+        ],
+        "base": [
+          "oakmoss",
+          "musk",
+          "vetiver",
+          "patchouli",
+          "sandalwood",
+          "vanilla",
+          "tonka bean",
+          "frankincense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/lyricwoman",
+          "name": "Amouage — Lyric Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jubilation 40 Man",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Bertrand Duchaufour",
+      "family": "woody, chypre",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackberry",
+          "blackcurrant",
+          "rosemary",
+          "labdanum",
+          "orange",
+          "davana"
+        ],
+        "heart": [
+          "scotch broom",
+          "frankincense",
+          "cinnamon",
+          "clove",
+          "rose",
+          "celery seed"
+        ],
+        "base": [
+          "patchouli",
+          "cistus",
+          "opoponax",
+          "myrrh",
+          "cedarwood",
+          "guaiac wood",
+          "musk",
+          "oakmoss",
+          "ambergris",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-jubilation-40-man-exceptional-extrait",
+          "name": "Amouage — Jubilation 40 Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dia 40 Woman",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alexandra Carlin",
+      "family": "floral, aldehyde",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cyclamen",
+          "musk",
+          "blackcurrant",
+          "violet leaves"
+        ],
+        "heart": [
+          "rose",
+          "orange blossom",
+          "carnation",
+          "ylang-ylang",
+          "cistus",
+          "bay leaf",
+          "tarragon"
+        ],
+        "base": [
+          "orris",
+          "sandalwood",
+          "amyris",
+          "guaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/new-dia-40-woman-100ml-exceptional-extrait",
+          "name": "Amouage — Dia 40 Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opus XII Rose Incense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral, amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "elemi",
+          "frankincense"
+        ],
+        "heart": [
+          "rose",
+          "frankincense"
+        ],
+        "base": [
+          "myrrh",
+          "vanilla",
+          "sandalwood",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/opus-xii-rose-incense",
+          "name": "Amouage — Opus XII Rose Incense",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opus XV King Blue",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "fruity, ambery, woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "blackcurrant",
+          "pink pepper"
+        ],
+        "heart": [
+          "frankincense",
+          "amber"
+        ],
+        "base": [
+          "sandalwood",
+          "oakwood",
+          "patchouli",
+          "oud",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/opus-xv-king-blue",
+          "name": "Amouage — Opus XV King Blue",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Purpose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": "woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "frankincense",
+          "pimento berry"
+        ],
+        "heart": [
+          "rose",
+          "vetiver",
+          "sandalwood",
+          "papyrus"
+        ],
+        "base": [
+          "saffron",
+          "suede",
+          "akigalawood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/100ml-purpose",
+          "name": "Amouage — Purpose",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lineage",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Karine Vinchon-Spehner",
+      "family": "spicy, aquatic, mineral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "sichuan pepper",
+          "saffron"
+        ],
+        "heart": [
+          "frankincense",
+          "fenugreek",
+          "myrrh"
+        ],
+        "base": [
+          "frankincense",
+          "myrrh",
+          "vetiver",
+          "patchouli",
+          "benzoin",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/100ml-lineage",
+          "name": "Amouage — Lineage",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guidance",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": "floral, amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "frankincense",
+          "hazelnut"
+        ],
+        "heart": [
+          "saffron",
+          "rose",
+          "jasmine sambac",
+          "osmanthus"
+        ],
+        "base": [
+          "cistus",
+          "sandalwood",
+          "akigalawood",
+          "ambergris",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/100ml-guidance",
+          "name": "Amouage — Guidance",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lyric Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "amber, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lime",
+          "pine",
+          "nutmeg"
+        ],
+        "heart": [
+          "rose",
+          "angelica",
+          "orange blossom",
+          "galbanum",
+          "ginger",
+          "saffron"
+        ],
+        "base": [
+          "pine",
+          "sandalwood",
+          "vanilla",
+          "musk",
+          "frankincense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/lyric-man",
+          "name": "Amouage — Lyric Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Rocks",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral, amber, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "cinnamon"
+        ],
+        "heart": [
+          "rose",
+          "honey"
+        ],
+        "base": [
+          "oakwood",
+          "vetiver",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/crimsonrocks",
+          "name": "Amouage — Crimson Rocks",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meander",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mackenzie Reilly",
+      "family": "woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "frankincense",
+          "carrot",
+          "pink pepper",
+          "black pepper"
+        ],
+        "heart": [
+          "orris",
+          "rose",
+          "cypriol",
+          "jonquil"
+        ],
+        "base": [
+          "frankincense",
+          "vetiver",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/meander",
+          "name": "Amouage — Meander",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imitation Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral, aldehyde",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "ylang-ylang",
+          "orange blossom",
+          "jasmine"
+        ],
+        "heart": [
+          "blackcurrant",
+          "aldehydes",
+          "liquorice"
+        ],
+        "base": [
+          "incense",
+          "sandalwood",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/imitation-woman",
+          "name": "Amouage — Imitation Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Enclave",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "amber, woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "spearmint",
+          "pink pepper",
+          "cinnamon"
+        ],
+        "heart": [
+          "rose",
+          "patchouli",
+          "frankincense",
+          "vetiver"
+        ],
+        "base": [
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/enclave",
+          "name": "Amouage — Enclave",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Journey Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apricot",
+          "osmanthus",
+          "jasmine tea",
+          "nutmeg",
+          "cardamom"
+        ],
+        "heart": [
+          "jasmine sambac",
+          "mimosa",
+          "honey",
+          "cedarwood"
+        ],
+        "base": [
+          "pipe tobacco",
+          "saffron",
+          "vanilla",
+          "cypriol",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/journey-woman",
+          "name": "Amouage — Journey Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Journey Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "sichuan pepper",
+          "bergamot",
+          "cardamom",
+          "neroli",
+          "bigarade"
+        ],
+        "heart": [
+          "juniper berry",
+          "incense",
+          "geraniol",
+          "tobacco leaf"
+        ],
+        "base": [
+          "tonka bean",
+          "cypriol",
+          "leather",
+          "ambrox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/journey-man",
+          "name": "Amouage — Journey Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jubilation XXV Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "labdanum",
+          "coriander",
+          "orange",
+          "davana",
+          "frankincense",
+          "blackberry"
+        ],
+        "heart": [
+          "honey",
+          "bay",
+          "cinnamon",
+          "orchid",
+          "rose",
+          "clove",
+          "celery seed",
+          "guaiac wood"
+        ],
+        "base": [
+          "patchouli",
+          "opoponax",
+          "myrrh",
+          "cedarwood",
+          "musk",
+          "moss",
+          "ambergris",
+          "oud",
+          "immortelle"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/jubilation-xxv-man",
+          "name": "Amouage — Jubilation XXV Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Memoir Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "chypre",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "cardamom",
+          "absinthe",
+          "pink pepper"
+        ],
+        "heart": [
+          "pepper",
+          "clove",
+          "white blossoms",
+          "rose",
+          "jasmine",
+          "frankincense"
+        ],
+        "base": [
+          "styrax",
+          "oakmoss",
+          "castoreum",
+          "leather",
+          "labdanum",
+          "fenugreek",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/memoir-woman",
+          "name": "Amouage — Memoir Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Memoir Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "fougère, woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "absinthe",
+          "wormwood",
+          "basil",
+          "mint"
+        ],
+        "heart": [
+          "rose",
+          "frankincense",
+          "lavender"
+        ],
+        "base": [
+          "sandalwood",
+          "vetiver",
+          "guaiac wood",
+          "amber",
+          "vanilla",
+          "musk",
+          "oakmoss",
+          "leather",
+          "tobacco"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/memoir-man",
+          "name": "Amouage — Memoir Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jubilation 25 Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral, aldehyde",
+      "accords": [],
+      "notes": {
+        "top": [
+          "tarragon",
+          "rose",
+          "lemon",
+          "ylang-ylang"
+        ],
+        "heart": [
+          "davana",
+          "labdanum",
+          "rose",
+          "frankincense"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "vetiver",
+          "myrrh",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/jubilation-25-woman",
+          "name": "Amouage — Jubilation 25 Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dia Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bitter orange",
+          "cardamom",
+          "frankincense",
+          "cistus-labdanum"
+        ],
+        "heart": [
+          "plum",
+          "ylang-ylang",
+          "orris",
+          "peony"
+        ],
+        "base": [
+          "leather",
+          "white musk",
+          "patchouli",
+          "vetiver",
+          "guaiac wood",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/dia-man",
+          "name": "Amouage — Dia Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Interlude Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Pierre Négrin",
+      "family": "woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "oregano",
+          "pimento berry"
+        ],
+        "heart": [
+          "amber",
+          "frankincense",
+          "cistus",
+          "opoponax"
+        ],
+        "base": [
+          "leather",
+          "agarwood",
+          "patchouli",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/interlude-man-100ml",
+          "name": "Amouage — Interlude Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Overture Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Annick Ménardo",
+      "family": "amber, woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "saffron",
+          "apple"
+        ],
+        "heart": [
+          "benzoin",
+          "myrrh",
+          "rose centifolia",
+          "geranium",
+          "cinnamon"
+        ],
+        "base": [
+          "incense",
+          "labdanum",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/overture-woman-100ml",
+          "name": "Amouage — Overture Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epic Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "amber, woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "frankincense",
+          "cumin",
+          "cardamom",
+          "saffron",
+          "mace",
+          "nutmeg",
+          "myrtle"
+        ],
+        "heart": [
+          "geranium",
+          "myrrh"
+        ],
+        "base": [
+          "oud",
+          "sandalwood",
+          "patchouli",
+          "leather",
+          "frankincense",
+          "cedarwood",
+          "musk",
+          "castoreum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/epic-man-100ml",
+          "name": "Amouage — Epic Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reflection Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Lucas Sieuzac",
+      "family": "fougère, amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rosemary",
+          "red pepper berry",
+          "bitter orange leaf"
+        ],
+        "heart": [
+          "neroli",
+          "orris",
+          "jasmine",
+          "ylang-ylang"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli",
+          "sandalwood",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/reflection-man-100ml",
+          "name": "Amouage — Reflection Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opus XIV Royal Tobacco",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Cécile Zarokian",
+      "family": "amber, woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "frankincense",
+          "elemi",
+          "cardamom",
+          "anise",
+          "basil",
+          "bergamot"
+        ],
+        "heart": [
+          "tobacco",
+          "liquorice root",
+          "lavender",
+          "fenugreek",
+          "orange blossom",
+          "osmanthus",
+          "rose"
+        ],
+        "base": [
+          "frankincense",
+          "peru balsam",
+          "benzoin",
+          "labdanum",
+          "myrrh",
+          "birch tar",
+          "tonka bean",
+          "vanilla",
+          "vetiver",
+          "guaiac wood",
+          "oud",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/opus-xiv-royal-tobacco",
+          "name": "Amouage — Opus XIV Royal Tobacco",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opus V Woods Symphony",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral, amber, woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "orris",
+          "rum"
+        ],
+        "heart": [
+          "orris",
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "agarwood",
+          "civet"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/opus-v-woods-symphony",
+          "name": "Amouage — Opus V Woods Symphony",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opus XIII Silver Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Cécile Zarokian",
+      "family": "amber, woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "patchouli",
+          "cypriol",
+          "cedar"
+        ],
+        "heart": [
+          "oud",
+          "vanilla"
+        ],
+        "base": [
+          "ambrarome",
+          "birch",
+          "guaiac wood",
+          "castoreum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/opus-xiii-silver-oud",
+          "name": "Amouage — Opus XIII Silver Oud",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epic 56 Woman",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Cécile Zarokian",
+      "family": "spicy, amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cumin",
+          "pink pepper",
+          "cinnamon"
+        ],
+        "heart": [
+          "rose centifolia",
+          "geranium",
+          "jasmine tea"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "oud",
+          "frankincense",
+          "guaiac wood",
+          "orris",
+          "sandalwood",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/epic56",
+          "name": "Amouage — Epic 56 Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honour 43 Woman",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alexandra Carlin",
+      "family": "white floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pepper",
+          "rhubarb leaves",
+          "coriander"
+        ],
+        "heart": [
+          "jasmine",
+          "tuberose",
+          "gardenia",
+          "lily of the valley",
+          "carnation"
+        ],
+        "base": [
+          "sandalwood",
+          "labdanum",
+          "vetiver",
+          "frankincense",
+          "opoponax",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/honour-43",
+          "name": "Amouage — Honour 43 Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Overture Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Karine Vinchon-Spehner",
+      "family": "woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "cardamom",
+          "cumin",
+          "ginger",
+          "nutmeg",
+          "saffron",
+          "cognac accord"
+        ],
+        "heart": [
+          "cinnamon",
+          "mastic",
+          "benzoin",
+          "labdanum",
+          "patchouli",
+          "geranium",
+          "myrrh"
+        ],
+        "base": [
+          "sandalwood",
+          "leather",
+          "clary sage",
+          "animalic accord",
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/overture-man",
+          "name": "Amouage — Overture Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Interlude Black Iris Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "rosemary",
+          "violet leaves"
+        ],
+        "heart": [
+          "orris",
+          "amber",
+          "frankincense",
+          "cistus",
+          "myrrh",
+          "vanilla"
+        ],
+        "base": [
+          "leather",
+          "agarwood",
+          "patchouli",
+          "sandalwood",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/interlude-black-iris-man",
+          "name": "Amouage — Interlude Black Iris Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beach Hut Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mint",
+          "orange blossom",
+          "galbanum"
+        ],
+        "heart": [
+          "vetiver",
+          "moss",
+          "ivy leaf"
+        ],
+        "base": [
+          "patchouli",
+          "myrrh",
+          "dry woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/beach-hut-man-100ml-eau-de-parfum",
+          "name": "Amouage — Beach Hut Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honour Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "chypre, woody, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "black pepper"
+        ],
+        "heart": [
+          "geranium",
+          "nutmeg",
+          "elemi"
+        ],
+        "base": [
+          "patchouli",
+          "frankincense",
+          "cedarwood",
+          "vetiver",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/honour-man",
+          "name": "Amouage — Honour Man",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epic Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "amber, spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cumin",
+          "pink pepper",
+          "cinnamon"
+        ],
+        "heart": [
+          "damask rose",
+          "geranium",
+          "jasmine tea"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "oud",
+          "frankincense",
+          "guaiac wood",
+          "orris",
+          "sandalwood",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/epic-woman",
+          "name": "Amouage — Epic Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reflection Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral, woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "water violet",
+          "freesia",
+          "tropical green leaves"
+        ],
+        "heart": [
+          "magnolia",
+          "ylang-ylang",
+          "jasmine"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "cedarwood",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/reflection-woman",
+          "name": "Amouage — Reflection Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portrayal Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.amouage.com/products/portrayal-woman",
+          "name": "Amouage — Portrayal Woman",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

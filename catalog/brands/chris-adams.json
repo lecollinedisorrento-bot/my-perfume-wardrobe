@@ -1,0 +1,2286 @@
+{
+  "brand": "Chris Adams",
+  "slug": "chris-adams",
+  "officialSite": null,
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/chris-adams/"
+    }
+  ],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "No official brand website found via search (search results say Nabeel Perfumes Industries, UAE; other sources say Paris or UK; origin unresolved so country is null). Parfumo, Scentverdict, FragranceNet, Desertcart, Ubuy returned 403 and Carrefour UAE 503. Catalogue built from the retailer Shopwice brand listing (58 items, 3 pages): 49 single fragrances recorded; excluded 7 gift sets, and the duplicate listings Pure Red (2nd entry) and Dreamz Pink (Dreamz Woman Pink). All notes are 'reported' from Shopwice product pages; family is the retailer's olfactive/scent-family text. Concentration null for Active Man (page says EDP in title but EDT in technical details). Active Woman Rebellion and Prize D'or pages list identical pyramids (Rebellion page text calls it Prize D'Or), possibly one product listed twice. No launch years or perfumers stated on any page. Shopwice page 'Dolby Man Sport' and 'DX77 Man' are EDT. Retailer pages may carry inconsistencies (e.g. Dreamz Pour Femme lists gender Men).",
+  "fragrances": [
+    {
+      "name": "Active Man",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Floral, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "herbs",
+          "lime"
+        ],
+        "heart": [
+          "lavender",
+          "rose",
+          "jasmine",
+          "water flowers",
+          "violet",
+          "patchouli"
+        ],
+        "base": [
+          "sandalwood",
+          "cedarwood",
+          "teak",
+          "musk",
+          "amber",
+          "moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-man-perfume-100ml-eau-de-parfum",
+          "name": "Shopwice — Chris Adams Active Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Man Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Floral, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "violet leaves",
+          "apple",
+          "bergamot",
+          "lemon",
+          "mandarin",
+          "lavender",
+          "neroli",
+          "aquatic notes"
+        ],
+        "heart": [
+          "frankincense",
+          "cypress",
+          "sage",
+          "cardamom",
+          "coriander",
+          "geranium",
+          "melon",
+          "pepper"
+        ],
+        "base": [
+          "sandalwood",
+          "oakmoss",
+          "amber",
+          "vetiver",
+          "bois gaiac",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-man-intense-eau-de-parfum-100ml",
+          "name": "Shopwice — Chris Adams Active Man Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Man Cool",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "mint",
+          "aquatic notes",
+          "thyme"
+        ],
+        "heart": [
+          "ginger",
+          "nutmeg",
+          "jasmine",
+          "cedarwood",
+          "rose",
+          "white flowers"
+        ],
+        "base": [
+          "frankincense",
+          "vetiver",
+          "patchouli",
+          "cistus labdanum",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-man-cool-eau-de-parfum-100ml",
+          "name": "Shopwice — Chris Adams Active Man Cool",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Man Noir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "cardamom",
+          "nutmeg",
+          "tarragon",
+          "bergamot",
+          "herbs",
+          "lime"
+        ],
+        "heart": [
+          "lavender",
+          "vetiver",
+          "iris",
+          "sandalwood",
+          "rose",
+          "jasmine",
+          "water flowers",
+          "violet",
+          "cedarwood",
+          "patchouli"
+        ],
+        "base": [
+          "cedar",
+          "benzoin",
+          "tonka bean",
+          "musk",
+          "teak",
+          "amber",
+          "moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/active-man-noir-100ml-spray-perfume",
+          "name": "Shopwice — Chris Adams Active Man Noir",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Man Catch-Me",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "lemon",
+          "green complex",
+          "basil"
+        ],
+        "heart": [
+          "floral notes",
+          "chimayo cocktail",
+          "geranium",
+          "ylang-ylang",
+          "lavender",
+          "artemisia",
+          "clary sage",
+          "cinnamon"
+        ],
+        "base": [
+          "teakwood",
+          "cedar",
+          "musk",
+          "wood complex",
+          "oakmoss",
+          "coumarin"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/active-man-catch-me-100ml-spray-perfume",
+          "name": "Shopwice — Chris Adams Active Man Catch-Me",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Classic Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Citrus, Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "lime",
+          "aquatic notes",
+          "lavender"
+        ],
+        "heart": [],
+        "base": [
+          "amber",
+          "leather",
+          "oakmoss",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-classic-man-eau-de-parfum",
+          "name": "Shopwice — Chris Adams Classic Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Classic Denim Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "lime",
+          "aquatic notes",
+          "lavender",
+          "star anise",
+          "clove",
+          "juniper berries",
+          "neroli",
+          "fruity notes",
+          "bergamot"
+        ],
+        "heart": [
+          "patchouli",
+          "rose",
+          "violet",
+          "cedarwood",
+          "precious woods"
+        ],
+        "base": [
+          "amber",
+          "leather",
+          "oakmoss",
+          "sandalwood",
+          "solar & powdery notes",
+          "musk",
+          "vanilla",
+          "mosses",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-classic-denim-man-100ml-edp",
+          "name": "Shopwice — Chris Adams Classic Denim Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dolby",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic-Floral-Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "tropical fruits",
+          "artemisia",
+          "basil"
+        ],
+        "heart": [
+          "cinnamon",
+          "rose damascene",
+          "geranium",
+          "lavender"
+        ],
+        "base": [
+          "amber",
+          "sandal",
+          "oakmoss",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/dolby-eau-de-parfum-for-men",
+          "name": "Shopwice — Chris Adams Dolby",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dolby Man Sport",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental-Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "bergamot",
+          "calone",
+          "tangerine"
+        ],
+        "heart": [
+          "cinnamon",
+          "clove",
+          "plum",
+          "violet leaves"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "vanilla",
+          "mahonial",
+          "woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-dolby-man-sport-100ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Dolby Man Sport",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lifetime Pour Homme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental Fougère",
+      "accords": [],
+      "notes": {
+        "top": [
+          "italian bergamot",
+          "lemon",
+          "lavender",
+          "mandarin",
+          "aqua"
+        ],
+        "heart": [
+          "orange flower",
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "praline",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-men-lifetime-perfume",
+          "name": "Shopwice — Chris Adams Lifetime Pour Homme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Powerful Pour Homme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity-Floral-Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pineapple",
+          "plum",
+          "orange",
+          "grapefruit",
+          "green note",
+          "sage",
+          "black pepper",
+          "tarragon"
+        ],
+        "heart": [
+          "geranium",
+          "rose",
+          "jasmine",
+          "lily of the valley"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "white musk",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-powerful-pour-homme-perfume",
+          "name": "Shopwice — Chris Adams Powerful Pour Homme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Let Imagine Pour Homme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic-Woody-Vanilla",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cinnamon"
+        ],
+        "heart": [
+          "lavender",
+          "violet",
+          "orange blossom"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "patchouli",
+          "tonka beans",
+          "vanilla",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-let-imagine-pour-homme-perfume",
+          "name": "Shopwice — Chris Adams Let Imagine Pour Homme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Let's Imagine Blue",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic-Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "citrus"
+        ],
+        "heart": [
+          "bergamot"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-lets-imagine-blue-perfume-spray",
+          "name": "Shopwice — Chris Adams Let's Imagine Blue",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pour Homme Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity-Floral-Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "green notes",
+          "peach",
+          "apple",
+          "pineapple",
+          "strawberry",
+          "plum",
+          "mint",
+          "cardamom",
+          "cumin",
+          "black pepper",
+          "nutmeg",
+          "lime",
+          "lemon",
+          "grapefruit",
+          "bergamot"
+        ],
+        "heart": [
+          "freesia",
+          "gardenia",
+          "iris",
+          "jasmine",
+          "cyclamen",
+          "rose",
+          "cinnamon"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "ambergris",
+          "white musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-pour-homme-man-perfume",
+          "name": "Shopwice — Chris Adams Pour Homme Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dreamz Pour Homme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus-Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "citrus",
+          "blackcurrant"
+        ],
+        "heart": [
+          "bergamot",
+          "leather"
+        ],
+        "base": [
+          "jasmine",
+          "vetiver",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-dreamz-pour-homme-perfume",
+          "name": "Shopwice — Chris Adams Dreamz Pour Homme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dreamz Blue",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Vanilla",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "juniper berries",
+          "lavender"
+        ],
+        "heart": [
+          "hay absolute",
+          "iris",
+          "amber"
+        ],
+        "base": [
+          "tonka",
+          "vanilla",
+          "heliotrope",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-dreamz-perfume-blue",
+          "name": "Shopwice — Chris Adams Dreamz Blue",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wild Leopard",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Spicy, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "green apple",
+          "pear",
+          "lavender",
+          "mint",
+          "geranium",
+          "nutmeg",
+          "cloves",
+          "tarragon",
+          "rosemary",
+          "bergamot",
+          "citrus",
+          "artemisia"
+        ],
+        "heart": [
+          "rose",
+          "hyacinth",
+          "patchouli",
+          "floral",
+          "jasmine",
+          "ylang-ylang",
+          "rosewood",
+          "gardenia"
+        ],
+        "base": [
+          "amber",
+          "oakmoss",
+          "sandalwood",
+          "cedarwood",
+          "white musk",
+          "wood",
+          "musk",
+          "animal notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-wild-leopard-100ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Wild Leopard",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What's Up?",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Spicy, Citrusy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "grapefruit",
+          "peach",
+          "cardamom",
+          "cypress",
+          "orange"
+        ],
+        "heart": [
+          "vetiver",
+          "sea breeze",
+          "benzoin",
+          "cedarwood"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-whats-up-100ml-perfume-spray",
+          "name": "Shopwice — Chris Adams What's Up?",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volante",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fougère, Fruity, Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "bergamot",
+          "rosemary"
+        ],
+        "heart": [
+          "rhubarb",
+          "geranium",
+          "marine accord"
+        ],
+        "base": [
+          "white amber",
+          "fir balsam",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-volante-100ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Volante",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rover",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Hesperidic, Fresh, Spicy, Woody, Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
+          "thyme",
+          "rose",
+          "nutmeg",
+          "iris",
+          "violet",
+          "tonka bean"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "vetiver",
+          "moss",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-rover-100ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Rover",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marcus",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Spicy, Fougère, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "kumquat",
+          "apple",
+          "pink pepper",
+          "pineapple",
+          "saffron"
+        ],
+        "heart": [
+          "elemi",
+          "lavender",
+          "geranium",
+          "rose",
+          "leather",
+          "benzoin"
+        ],
+        "base": [
+          "cashmeran",
+          "patchouli",
+          "sandalwood",
+          "vetiver",
+          "agarwood",
+          "oakmoss",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-marcus-100ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Marcus",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Africano",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Woody, Oriental, Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cinnamon",
+          "pineapple",
+          "mint",
+          "bergamot",
+          "tropical fruits",
+          "artemisia",
+          "basil",
+          "herbaceous notes",
+          "lemon",
+          "green complex"
+        ],
+        "heart": [
+          "patchouli",
+          "violet",
+          "orange blossom",
+          "rose damascene",
+          "geranium",
+          "lavender",
+          "ylang-ylang",
+          "clary sage"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "cedarwood",
+          "tonka bean",
+          "amber",
+          "sandal",
+          "oakmoss",
+          "patchouli",
+          "wood complex",
+          "musk",
+          "coumarin"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-africano-100ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Africano",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bronze Conduroy",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Woody, Fougère, Aromatic, Amber, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "armoise",
+          "cardamom",
+          "spearmint",
+          "bergamot",
+          "eucalyptus",
+          "thyme",
+          "mint",
+          "absinthe"
+        ],
+        "heart": [
+          "cinnamon",
+          "lavender",
+          "frankincense",
+          "orris",
+          "jasmine",
+          "geranium",
+          "lily of the valley",
+          "nutmeg",
+          "cumin"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "tonka bean",
+          "vanilla",
+          "musk",
+          "moss",
+          "blond woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-bronze-conduroy-100ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Bronze Conduroy",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DX77 Man",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "citrus",
+          "bergamot",
+          "petit grain",
+          "melon",
+          "apple",
+          "ginger",
+          "galbanum"
+        ],
+        "heart": [
+          "spicy",
+          "thyme",
+          "mint",
+          "lavender",
+          "geranium",
+          "nutmeg",
+          "clove"
+        ],
+        "base": [
+          "vetiver",
+          "sandalwood",
+          "cinnamon",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-dx77-man-100ml-spray-perfume",
+          "name": "Shopwice — Chris Adams DX77 Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity, Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "orange",
+          "grapefruit",
+          "fresh herbs"
+        ],
+        "heart": [
+          "exotic fruits",
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "tonka bean",
+          "vanilla",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/active-woman-eau-da-parfum-by-chris-adams",
+          "name": "Shopwice — Chris Adams Active Woman",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pure Red",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "apple",
+          "pear",
+          "banana",
+          "pineapple",
+          "peach",
+          "raspberry",
+          "bergamot",
+          "black pepper",
+          "blackcurrant"
+        ],
+        "heart": [
+          "jasmine",
+          "orange blossom",
+          "rose",
+          "violet"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "patchouli",
+          "tonka beans"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/pure-red-chris-adams-perfume",
+          "name": "Shopwice — Chris Adams Pure Red",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dreamz Pink",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral-Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "orange",
+          "jasmine"
+        ],
+        "heart": [
+          "rose",
+          "patchouli",
+          "sandalwood"
+        ],
+        "base": [
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-dreamz-pink",
+          "name": "Shopwice — Chris Adams Dreamz Pink",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Choice Pour Femme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral-Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "cloves"
+        ],
+        "heart": [
+          "lily of the valley",
+          "ylang-ylang",
+          "water flowers",
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "white musks"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-choice-perfume-pour-femme",
+          "name": "Shopwice — Chris Adams Choice Pour Femme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dreamz Pour Femme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral-Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "neroli",
+          "orange",
+          "raspberry"
+        ],
+        "heart": [
+          "orange flower",
+          "jasmine"
+        ],
+        "base": [
+          "honey",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-dreamz-pour-femme",
+          "name": "Shopwice — Chris Adams Dreamz Pour Femme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Blanche",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy, Woody, Oriental, Floral, Leathery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "bergamot",
+          "green apple",
+          "cardamom",
+          "pink pepper",
+          "rose"
+        ],
+        "heart": [
+          "jasmine",
+          "patchouli",
+          "ylang-ylang",
+          "cananga",
+          "cedarwood"
+        ],
+        "base": [
+          "amber",
+          "white musk",
+          "oakmoss",
+          "vetiver",
+          "leather",
+          "animal notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-blanche-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Blanche",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Cool",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "banana",
+          "pear"
+        ],
+        "heart": [
+          "jasmine",
+          "coconut"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-cool-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Cool",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Chypre, Fruity, Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach",
+          "raspberry"
+        ],
+        "heart": [
+          "jasmine",
+          "patchouli",
+          "violet",
+          "sandalwood"
+        ],
+        "base": [
+          "tonka bean",
+          "toffee",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-intense-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Noire",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Woody, Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cinnamon",
+          "pineapple",
+          "fruit cocktail",
+          "bergamot",
+          "orange",
+          "grapefruit",
+          "herbs"
+        ],
+        "heart": [
+          "jasmine",
+          "flowers",
+          "sandalwood",
+          "exotic fruits",
+          "rose"
+        ],
+        "base": [
+          "coconut",
+          "patchouli",
+          "amber",
+          "musk",
+          "tonka beans",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-noire-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Noire",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Blumine",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "blackcurrant",
+          "peach",
+          "raspberry"
+        ],
+        "heart": [
+          "rose",
+          "violet",
+          "patchouli"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "white musk",
+          "toffee"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-blumine-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Blumine",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Bombastic",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "pineapple",
+          "cherry"
+        ],
+        "heart": [
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "dry woods",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-bombastic-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Bombastic",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Boss Babe",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity, Gourmand, Aquatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "blackcurrant",
+          "apple"
+        ],
+        "heart": [
+          "lily of the valley",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "marine notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-boss-babe-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Boss Babe",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman CA Classic Denim",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity, Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "oriental fruit",
+          "pink peony",
+          "bergamot",
+          "green notes",
+          "peach",
+          "blackcurrant",
+          "geranium",
+          "spicy notes"
+        ],
+        "heart": [
+          "cassis",
+          "dark cocoa",
+          "amber",
+          "ylang-ylang",
+          "violet",
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "patchouli",
+          "oakmoss",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-ca-classic-denim-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman CA Classic Denim",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman CA Dreams Bloom",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity-Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "strawberry",
+          "raspberry",
+          "orange",
+          "mandarin"
+        ],
+        "heart": [
+          "gardenia",
+          "candy"
+        ],
+        "base": [
+          "sandalwood",
+          "dry woods",
+          "amber",
+          "vanilla",
+          "brown sugar",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-ca-dreams-bloom-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman CA Dreams Bloom",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman CA Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity-Floral-Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cantaloupe",
+          "passion fruit",
+          "citrus note",
+          "cut herbs",
+          "white peach",
+          "pineapple",
+          "plum",
+          "golden apple"
+        ],
+        "heart": [
+          "shinus molle",
+          "peony",
+          "lily of the valley",
+          "rose petals",
+          "aquatic jasmine"
+        ],
+        "base": [
+          "sandal",
+          "iris",
+          "amber notes",
+          "subtle wood",
+          "white musks"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-ca-woman-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman CA Woman",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Cheers",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity-Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "bergamot",
+          "mandarin",
+          "soft schinus"
+        ],
+        "heart": [
+          "neroli",
+          "orange blossom",
+          "peony",
+          "toffee"
+        ],
+        "base": [
+          "heliotrope",
+          "vanilla",
+          "musk",
+          "ambergris",
+          "amberwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-cheers-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Cheers",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Gifted",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Floral, Citrusy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "orange",
+          "lemon"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "orris",
+          "pink pepper",
+          "ylang-ylang"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "patchouli",
+          "vanilla",
+          "sweet notes",
+          "toasted notes",
+          "coumarin"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-gifted-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Gifted",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Into Me",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Musky, Ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "hazelnut",
+          "bergamot",
+          "ambergris",
+          "musk"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "lychee"
+        ],
+        "base": [
+          "toffee",
+          "musk",
+          "vanilla",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-into-me-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Into Me",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Kyss",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Musky-Ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambergris",
+          "bergamot",
+          "orange",
+          "peach",
+          "green notes"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "orris",
+          "muguet",
+          "patchouli"
+        ],
+        "base": [
+          "musk",
+          "vetiver",
+          "woody notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-kyss-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Kyss",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Let's Imagine Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity, Woody, Powdery, Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "blackcurrant",
+          "orange flower"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "lily of the valley",
+          "plum"
+        ],
+        "base": [
+          "cedarwood",
+          "amber",
+          "patchouli",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-lets-imagine-woman-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Let's Imagine Woman",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Paloma",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity-Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "tuberose",
+          "jasmine",
+          "orange"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-paloma-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Paloma",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Prize",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehydes",
+          "strawberry",
+          "spices",
+          "peach",
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
+          "iris",
+          "violet",
+          "narcissus",
+          "rose",
+          "orris",
+          "ylang-ylang",
+          "lily of the valley",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "benzoin",
+          "musk",
+          "tonka bean",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-prize-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Prize",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Prize D'or",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Vanilla",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "milky accord",
+          "apple"
+        ],
+        "heart": [
+          "jasmine",
+          "rum",
+          "coconut"
+        ],
+        "base": [
+          "vanilla",
+          "caramel",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-prize-dor-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Prize D'or",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Rebellion",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Vanilla",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "milky",
+          "apple"
+        ],
+        "heart": [
+          "jasmine",
+          "rum",
+          "coconut"
+        ],
+        "base": [
+          "vanilla",
+          "caramel",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-rebellion-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Rebellion",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Active Woman Reflection",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity, Musky, Ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "rhubarb",
+          "nutmeg",
+          "ambergris"
+        ],
+        "heart": [
+          "rose",
+          "magnolia",
+          "patchouli",
+          "incense"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "vanilla",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://shopwice.com/product/chris-adams-active-woman-reflection-80ml-perfume-spray",
+          "name": "Shopwice — Chris Adams Active Woman Reflection",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

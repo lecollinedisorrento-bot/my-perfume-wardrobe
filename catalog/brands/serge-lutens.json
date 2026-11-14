@@ -1,0 +1,1940 @@
+{
+  "brand": "Serge Lutens",
+  "slug": "serge-lutens",
+  "officialSite": "https://sergelutens.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Range taken from the official Shopify collection feed https://sergelutens.com/collections/parfums/products.json (handles used for product URLs); sets, samples and refills skipped. Official pages give no top/heart/base pyramid; notes are only ingredients the product description names explicitly (flat), so some entries have none. Year and perfumer not stated on pages (null). Chergui, Ambre sultan etc.: family as labelled on page. Some extrait-type entries are labelled 'Parfum' on the page.",
+  "fragrances": [
+    {
+      "name": "Ambre sultan",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Resinous/Ambery",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/ambre-sultan-eau-de-parfum-spray",
+          "name": "Serge Lutens — Ambre sultan",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chergui",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Resinous/Ambery",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/chergui-eau-de-parfum-spray",
+          "name": "Serge Lutens — Chergui",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fleurs d'oranger",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "orange blossom",
+          "egyptian jasmine",
+          "rose",
+          "civet"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/fleurs-d-oranger-eau-de-parfum-spray",
+          "name": "Serge Lutens — Fleurs d'oranger",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La fille de Berlin",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "pepper"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/la-fille-de-berlin-eau-de-parfum-spray",
+          "name": "Serge Lutens — La fille de Berlin",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santal majuscule",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody/Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "cacao"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/santal-majuscule-eau-de-parfum-spray",
+          "name": "Serge Lutens — Santal majuscule",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Féminité du bois",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedar"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/feminite-du-bois-eau-de-parfum-spray",
+          "name": "Serge Lutens — Féminité du bois",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Un bois vanille",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/un-bois-vanille-eau-de-parfum-spray",
+          "name": "Serge Lutens — Un bois vanille",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Five o'clock au gingembre",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ginger"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/five-o-clock-au-gingembre-eau-de-parfum-spray",
+          "name": "Serge Lutens — Five o'clock au gingembre",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Orpheline",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Mohair",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "frankincense"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/l-orpheline-eau-de-parfum-spray",
+          "name": "Serge Lutens — L'Orpheline",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chypre rouge",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody/Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oakmoss",
+          "cistus"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/chypre-rouge-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Chypre rouge",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gris clair",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavender",
+          "frankincense"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/gris-clair-eau-de-parfum-spray",
+          "name": "Serge Lutens — Gris clair",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A la nuit",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/a-la-nuit-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — A la nuit",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tarab",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "damask rose",
+          "oud",
+          "cedar"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/tarab-eau-de-parfums",
+          "name": "Serge Lutens — Tarab",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois roi d'agalloche",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "amber",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/bois-rois-d-agalloche-eau-de-parfums",
+          "name": "Serge Lutens — Bois roi d'agalloche",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La religieuse",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "jasmine",
+          "incense"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/la-religieuse-eau-de-parfum-spray",
+          "name": "Serge Lutens — La religieuse",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Écrin de fumée",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tobacco"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/ecrin-de-fumee-eau-de-parfum-spray",
+          "name": "Serge Lutens — Écrin de fumée",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iris silver mist",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Mohair",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "iris"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/iris-silver-mist-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Iris silver mist",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clair de musc",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Mohair",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/clair-de-musc",
+          "name": "Serge Lutens — Clair de musc",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Nuit Tombée",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Mohair",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "cedar",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/la-nuit-tombee",
+          "name": "Serge Lutens — La Nuit Tombée",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Eau Serge Lutens",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/l-eau-serge-lutens-eau-de-parfum-matin-lutens-spray",
+          "name": "Serge Lutens — L'Eau Serge Lutens",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sa majesté la rose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/sa-majeste-la-rose-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Sa majesté la rose",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poivre noir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Mohair",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/poivre-noir-eau-de-parfum-spray",
+          "name": "Serge Lutens — Poivre noir",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cèdre",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody/Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedar",
+          "honey",
+          "tuberose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/cedre-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Cèdre",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parole d'eau",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/parole-d-eau-eau-de-parfum-spray",
+          "name": "Serge Lutens — Parole d'eau",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jeux de peau",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "barley",
+          "wheat",
+          "dried fruit",
+          "bread"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/jeux-de-peau-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Jeux de peau",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zurafa",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "iris",
+          "leather",
+          "white musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/zurafa-eau-de-parfums",
+          "name": "Serge Lutens — Zurafa",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dans le bleu qui pétille",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sea salt",
+          "iodine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/dans-le-bleu-qui-petille-eau-de-parfum-spray",
+          "name": "Serge Lutens — Dans le bleu qui pétille",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cracheuse de flammes",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "damask rose",
+          "musk",
+          "leather"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/cracheuse-de-flammes-eau-de-parfums",
+          "name": "Serge Lutens — Cracheuse de flammes",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chêne",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rum absolute"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/chene",
+          "name": "Serge Lutens — Chêne",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bornéo 1834",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody/Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/borneo-1834-eau-de-parfum",
+          "name": "Serge Lutens — Bornéo 1834",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arabie",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "date",
+          "fig",
+          "spicebush",
+          "cumin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/arabie-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Arabie",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Serge noire",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody/Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/serge-noire-eau-de-parfum",
+          "name": "Serge Lutens — Serge noire",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sidi Bel-Abbès",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tobacco",
+          "leather",
+          "honey"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/sidi-bel-abbes-eau-de-parfums",
+          "name": "Serge Lutens — Sidi Bel-Abbès",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fumerie turque",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Resinous/Ambery",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tobacco",
+          "honey",
+          "rose",
+          "opiate"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/fumerie-turque-eau-de-parfum",
+          "name": "Serge Lutens — Fumerie turque",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Point du jour",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "thyme"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/point-du-jour",
+          "name": "Serge Lutens — Point du jour",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fourreau noir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Resinous/Ambery",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tonka bean",
+          "incense"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/fourreau-noir-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Fourreau noir",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sarrasins",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/sarrasins-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Sarrasins",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Périlleusement vôtre",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Mohair, Resinous",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/perilleusement-votre-eau-de-parfum",
+          "name": "Serge Lutens — Périlleusement vôtre",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vetiver oriental",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vetiver",
+          "cistus",
+          "tar"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/vetiver-oriental",
+          "name": "Serge Lutens — Vetiver oriental",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fleurs de citronnier",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus, Fruity",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/fleurs-de-citronnier",
+          "name": "Serge Lutens — Fleurs de citronnier",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rahät loukoum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "mint",
+          "almond",
+          "pistachio"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/rahat-loukoum-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Rahät loukoum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois oriental",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody/Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "leather",
+          "spice"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/bois-oriental-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Bois oriental",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois de violette",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedar",
+          "violet",
+          "cardamom"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/bois-de-violette-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Bois de violette",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La proie pour l'ombre",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "leather",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/la-proie-pour-l-ombre-eau-de-parfum-spray",
+          "name": "Serge Lutens — La proie pour l'ombre",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santal de Mysore",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody/Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "spice",
+          "saffron",
+          "wild carrot"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/santal-de-mysore-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Santal de Mysore",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'eau froide",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "frankincense"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/leau-froide",
+          "name": "Serge Lutens — L'eau froide",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Daim blond",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Resinous/Ambery",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "leather",
+          "pollen",
+          "almond"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/daim-blond-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Daim blond",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Un lys",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/un-lys-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Un lys",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cuir mauresque",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Resinous",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "leather",
+          "acacia"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/cuir-mauresque-eau-de-parfum",
+          "name": "Serge Lutens — Cuir mauresque",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Douce amère",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/douce-amere-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Douce amère",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Myrrhe",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Resinous/Ambery",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "amber",
+          "mandarin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/la-myrrhe-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — La Myrrhe",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nuit de cellophane",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "osmanthus",
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/nuit-de-cellophane-eau-de-parfum-spray",
+          "name": "Serge Lutens — Nuit de cellophane",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Un bois sépia",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody/Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oak",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/un-bois-sepia-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Un bois sépia",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose de nuit",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "apricot",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/rose-de-nuit-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Rose de nuit",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encens et lavande",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Mohair",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavender",
+          "incense",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/encens-et-lavande-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Encens et lavande",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muscs Koublaï Khan",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/musc-koublai-khan",
+          "name": "Serge Lutens — Muscs Koublaï Khan",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Datura Noir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "datura"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/datura-noir-edp-75ml",
+          "name": "Serge Lutens — Datura Noir",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Louve",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "almond"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/louve",
+          "name": "Serge Lutens — Louve",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois et fruits",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody/Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/bois-et-fruits-eau-de-parfum-without-spray",
+          "name": "Serge Lutens — Bois et fruits",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La vierge de fer",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/la-vierge-de-fer",
+          "name": "Serge Lutens — La vierge de fer",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Le perce-vent",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Mohair",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/le-perce-vent",
+          "name": "Serge Lutens — Le perce-vent",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Fille Tour de Fer",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink berry",
+          "rose",
+          "iris"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://sergelutens.com/products/la-fille-tour-de-fer",
+          "name": "Serge Lutens — La Fille Tour de Fer",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

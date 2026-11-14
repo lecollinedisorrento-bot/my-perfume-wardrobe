@@ -1,0 +1,340 @@
+{
+  "brand": "L'Artisan Parfumeur",
+  "slug": "l-artisan-parfumeur",
+  "officialSite": "https://www.artisanparfumeur.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "global.artisanparfumeur.com returned 503. Used the official US 'all fragrances' listing (only ~11 products shown, so the catalogue is partial; classic range such as Mûre et Musc, Tea for Two, Dzongkha, Tenebrae etc. not verified on a product page and left out) plus official product pages for key notes (flat, no pyramid). Gift sets, candles, body care skipped. Year and family not stated. Contes du Levant was marked out of stock on the listing, not discontinued.",
+  "fragrances": [
+    {
+      "name": "L'Amant",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Nathalie Lorson",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pimento leaf",
+          "patchouli",
+          "ink accord"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/us/en_US/p/l-amant-eau-de-parfum-100ml--000000000065228189",
+          "name": "L'Artisan Parfumeur — L'Amant",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mandarina Corsica",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "immortelle",
+          "mandarin",
+          "brown sugar"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/us/en_US/p/mandarina-corsica-eau-de-parfum-100ml--000000000065173424",
+          "name": "L'Artisan Parfumeur — Mandarina Corsica",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Le Chant de Camargue",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alberto Morillas",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rice",
+          "sandalwood milk",
+          "bergamot"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/us/en_US/p/le-chant-de-camargue-eau-de-parfum-100ml--000000000065173439",
+          "name": "L'Artisan Parfumeur — Le Chant de Camargue",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soleil de Provence",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Daphné Bugey",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "mimosa",
+          "benzoin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/us/en_US/p/soleil-de-provence-eau-de-parfum-100ml--000000000065187534",
+          "name": "L'Artisan Parfumeur — Soleil de Provence",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Cérémonie de l'Encens",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mathilde Bijaoui",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pepper",
+          "incense",
+          "hinoki"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/us/en_US/p/la-ceremonie-de-l-encens-eau-de-parfum-75ml--000000000065205300",
+          "name": "L'Artisan Parfumeur — La Cérémonie de l'Encens",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Histoire d'Orangers Extrême",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Marie Salamagne",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink pepper",
+          "orange blossom",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/us/en_US/p/histoire-d-orangers-extreme-eau-de-parfum-100ml--000000000065217474",
+          "name": "L'Artisan Parfumeur — Histoire d'Orangers Extrême",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abyssae L'Extrait",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Daphné Bugey",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "ambergris",
+          "eucalyptus resin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/us/en_US/p/abyssae-l-extrait-eau-de-parfum-75ml--000000000065228181",
+          "name": "L'Artisan Parfumeur — Abyssae L'Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Passage d'Enfer",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Olivia Giacobetti",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lily",
+          "incense",
+          "white musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/us/en_US/p/passage-d-enfer-eau-de-toilette-100ml--000000000065168700",
+          "name": "L'Artisan Parfumeur — Passage d'Enfer",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contes du Levant",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christophe Raynaud",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "patchouli",
+          "pepper",
+          "damask rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/us/en_US/p/contes-du-levant-eau-de-parfum-100ml--000000000065146421",
+          "name": "L'Artisan Parfumeur — Contes du Levant",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mûre et Musc Extrême",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "blackcurrant bud",
+          "blackberry",
+          "white musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.artisanparfumeur.com/en-gb/fragrance/womens-perfumes/mure-et-musc-extreme-eau-de-parfum-1545578.html",
+          "name": "L'Artisan Parfumeur — Mûre et Musc Extrême",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
