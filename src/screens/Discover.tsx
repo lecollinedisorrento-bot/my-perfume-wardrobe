@@ -229,7 +229,7 @@ export default function Discover() {
               style={{ ['--i' as string]: i }}
               data-testid={`mood-${m}`}
             >
-              <MoodArt mood={m} size={50} />
+              <MoodArt mood={m} size={78} />
               <span className="display mood-title">{tk(`mood.${m}`)}</span>
               <span className="tiny mood-sub">{tk(`mood.${m}.sub`)}</span>
             </button>

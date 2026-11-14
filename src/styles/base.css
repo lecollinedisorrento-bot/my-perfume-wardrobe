@@ -62,12 +62,15 @@
   --safe-b: env(safe-area-inset-bottom, 0px);
   --safe-t: env(safe-area-inset-top, 0px);
   --maxw: 760px;
+  /* Printed paper behind everything (light theme only). */
+  --paper: url('/art/tex-paper.webp');
 
   color-scheme: light;
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
+    --paper: none;
     --bg: #15131c;
     --surface: #221f2b;
     --surface-2: #2d2939;
@@ -83,6 +86,7 @@
   }
 }
 :root[data-theme='dark'] {
+  --paper: none;
   --bg: #15131c;
   --surface: #221f2b;
   --surface-2: #2d2939;
@@ -112,7 +116,8 @@ html {
 
 body {
   margin: 0;
-  background: var(--bg);
+  background: var(--bg) var(--paper) repeat;
+  background-size: 384px;
   color: var(--text);
   font-family: var(--font-body);
   font-size: 16px;

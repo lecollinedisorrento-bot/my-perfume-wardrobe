@@ -1,9 +1,10 @@
+import { Art } from '../components/Art';
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useStore } from '../state/store';
 import { useI18n } from '../i18n';
 import { PerfumeCard, PerfumeRow } from '../components/PerfumeCard';
-import { IconChart, IconGrid, IconList, IconPlus, IconSearch, Flower, Sparkle } from '../components/Icons';
+import { IconChart, IconGrid, IconList, IconPlus, IconSearch } from '../components/Icons';
 import { ChipToggle, Sheet } from '../components/ui';
 import { resolveFamily } from '../domain/families';
 import { SEASONS, type Season } from '../domain/types';
@@ -86,10 +87,7 @@ export function Wardrobe() {
           <h1>{t('wardrobe.title')}</h1>
         </div>
         <div className="empty card card-xl c-lilac dots" style={{ marginTop: 12 }}>
-          <div className="row" style={{ justifyContent: 'center' }}>
-            <Flower size={90} className="wiggle" />
-            <Sparkle size={36} color="var(--lime)" className="float" />
-          </div>
+          <Art name="empty-wardrobe" className="empty-art" eager />
           <h2>{t('wardrobe.emptyTitle')}</h2>
           <p style={{ color: 'inherit' }}>{t('wardrobe.emptySub')}</p>
           <Link to="/wardrobe/new" className="btn btn-ink btn-lg">

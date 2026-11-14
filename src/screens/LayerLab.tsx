@@ -1,3 +1,4 @@
+import { Art } from '../components/Art';
 import { useEffect, useMemo, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { useStore, useAiState } from '../state/store';
@@ -5,7 +6,7 @@ import { useI18n } from '../i18n';
 import { useUi } from '../state/ui';
 import { BottleImage } from '../components/BottleImage';
 import { AiLoader, EngineTag, Notice, Segmented, Sheet, Stars } from '../components/ui';
-import { IconShare, IconTrash, IconSparkle, Sparkle } from '../components/Icons';
+import { IconShare, IconTrash, IconSparkle } from '../components/Icons';
 import { rankLocalPartners, localLayerSuggestion, type LayerSuggestion } from '../domain/layering';
 import type { Combination, Fragrance } from '../domain/types';
 import { familyColor } from '../domain/families';
@@ -32,7 +33,7 @@ export default function LayerLab() {
           <h1>{t('lab.title')}</h1>
         </div>
         <div className="empty card c-lime dots">
-          <Sparkle size={56} color="var(--pink)" className="float" />
+          <Art name="lab-mix" className="empty-art" eager />
           <h2>{t('lab.needTwo')}</h2>
           <Link className="btn btn-ink" to="/wardrobe/new">
             {t('wardrobe.add')}

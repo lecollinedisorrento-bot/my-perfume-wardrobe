@@ -1,3 +1,4 @@
+import { Art } from '../components/Art';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useStore } from '../state/store';
@@ -5,7 +6,7 @@ import { useI18n } from '../i18n';
 import { useUi } from '../state/ui';
 import { BottleImage } from '../components/BottleImage';
 import { Accords, ChipToggle, Segmented, Sheet, Toggle } from '../components/ui';
-import { IconFilter, IconSound, Burst } from '../components/Icons';
+import { IconFilter, IconSound } from '../components/Icons';
 import {
   DEFAULT_FILTERS,
   eligibleFragrances,
@@ -117,6 +118,7 @@ export default function Spin() {
 
       {fragrances.length === 0 ? (
         <div className="empty card c-pink dots">
+          <Art name="empty-wardrobe" className="empty-art" eager />
           <h2>{t('spin.empty')}</h2>
           <Link className="btn btn-ink" to="/wardrobe/new">
             {t('wardrobe.add')}
@@ -163,7 +165,10 @@ export default function Spin() {
       <section className="section">
         <h2 className="h-sec">{t('spin.history')}</h2>
         {history.length === 0 ? (
-          <p className="dim small">{t('spin.historyEmpty')}</p>
+          <div className="empty-inline">
+            <Art name="empty-history" className="empty-inline-art" />
+            <p className="dim small">{t('spin.historyEmpty')}</p>
+          </div>
         ) : (
           <ol className="diary">
             {history.map((s) => {
@@ -526,6 +531,7 @@ function ResultCard({ f, label, onAdd }: { f: Fragrance; label?: string; onAdd: 
   const color = familyColor(f.family);
   return (
     <section ref={ref} className={`result card card-xl c-${color === 'ink' ? 'lilac' : color} dots`} data-testid="spin-result" aria-live="polite">
+      <Art name="spin-win" className="result-ribbon" eager />
       <div className="row nowrap">
         <span className="serif" style={{ fontSize: 26 }}>
           {t('spin.result')}
@@ -535,7 +541,6 @@ function ResultCard({ f, label, onAdd }: { f: Fragrance; label?: string; onAdd: 
       </div>
       <div className="result-main">
         <div className="result-bottle">
-          <Burst size={170} color="var(--white)" className="result-burst rot-label" />
           <BottleImage fragrance={f} />
         </div>
         <div className="stack" style={{ ['--gap' as string]: '6px', minWidth: 0 }}>

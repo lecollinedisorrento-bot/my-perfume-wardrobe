@@ -1189,3 +1189,11 @@ a.chip::after,
   position: absolute;
   inset: -5px -2px;
 }
+
+/* ───────────────────────── Illustrations ───────────────────────── */
+.art {
+  display: block;
+  object-fit: contain;
+  user-select: none;
+  pointer-events: none;
+}

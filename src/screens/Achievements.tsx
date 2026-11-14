@@ -1,8 +1,9 @@
+import { Art } from '../components/Art';
 import { useNavigate } from 'react-router-dom';
 import { useStore } from '../state/store';
 import { useI18n } from '../i18n';
 import { ACHIEVEMENTS, type AchievementDef } from '../domain/achievements';
-import { IconBack, Burst } from '../components/Icons';
+import { IconBack } from '../components/Icons';
 import { Toggle } from '../components/ui';
 
 function Glyph({ g }: { g: AchievementDef['glyph'] }) {
@@ -61,11 +62,12 @@ export default function Achievements() {
             const at = unlocked.get(a.id);
             return (
               <div key={a.id} className={`badge-card ${at ? 'on' : 'locked'}`} style={{ ['--i' as string]: i }} data-testid={`badge-${a.id}`} data-unlocked={!!at}>
-                <Burst size={92} color={at ? `var(--${a.color})` : 'var(--surface-2)'} className={at ? 'badge-burst' : ''}>
-                  <svg viewBox="0 0 48 48" width="44" height="44" aria-hidden="true" style={{ opacity: at ? 1 : 0.35 }}>
+                <div className={`badge-medal ${at ? 'badge-burst' : ''}`}>
+                  <Art name="badge-frame" className="badge-frame" />
+                  <svg viewBox="0 0 48 48" width="40" height="40" aria-hidden="true" className="badge-glyph" style={{ color: `var(--${a.color})` }}>
                     <Glyph g={a.glyph} />
                   </svg>
-                </Burst>
+                </div>
                 <strong className="display-lc" style={{ fontSize: 14 }}>
                   {tk(`ach.${a.id}`)}
                 </strong>

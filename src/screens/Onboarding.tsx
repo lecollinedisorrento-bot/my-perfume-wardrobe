@@ -1,10 +1,11 @@
+import { Art } from '../components/Art';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useStore } from '../state/store';
 import { useI18n } from '../i18n';
 import { useUi } from '../state/ui';
 import { ChipToggle, Notice } from '../components/ui';
-import { Burst, Flower, IconPin, Sparkle } from '../components/Icons';
+import { IconPin } from '../components/Icons';
 import { FAMILIES } from '../domain/families';
 import { WeatherSheet } from '../components/Weather';
 
@@ -44,13 +45,7 @@ export function Onboarding() {
         {step === 1 && (
           <section className="onb-welcome">
             <div className="onb-art" aria-hidden="true">
-              <Flower size={120} className="wiggle onb-flower" />
-              <Burst size={110} color="var(--lime)" className="rot-label onb-burst">
-                <span className="display" style={{ fontSize: 12 }}>
-                  NEW!
-                </span>
-              </Burst>
-              <Sparkle size={48} color="var(--blue)" className="float onb-spark" />
+              <Art name="onb-hero" className="onb-hero" eager />
             </div>
             <span className="kicker">{t('app.name')}</span>
             <h1 className="display onb-title">{t('onb.welcome')}</h1>

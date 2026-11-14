@@ -1,3 +1,4 @@
+import { Art } from '../components/Art';
 import { useMemo, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useStore, useAiState } from '../state/store';
@@ -7,7 +8,7 @@ import { BottleImage } from '../components/BottleImage';
 import { PerfumeCard } from '../components/PerfumeCard';
 import { WeatherPill, WeatherSheet } from '../components/Weather';
 import { AiLoader, EngineTag, SectionHead } from '../components/ui';
-import { Burst, Flower, IconGear, IconWheel, IconFlask, IconSparkle, Sparkle } from '../components/Icons';
+import { Burst, IconGear, IconSparkle, Sparkle } from '../components/Icons';
 import { MOODS, type Fragrance } from '../domain/types';
 import { localDay, timeOfDay } from '../domain/util';
 import { neglected } from '../domain/recommend';
@@ -105,7 +106,7 @@ export function Home() {
 
       {fragrances.length === 0 ? (
         <section className="card card-xl c-pink dots home-empty">
-          <Flower size={110} className="wiggle" />
+          <Art name="empty-wardrobe" className="empty-art" eager />
           <h2 className="display" style={{ fontSize: 26 }}>
             {t('home.emptyTitle')}
           </h2>
@@ -187,7 +188,7 @@ export function Home() {
         <div className="hscroll">
           {MOODS.map((m, i) => (
             <button key={m} className={`mood-mini c-${MOOD_COLORS[m]}`} onClick={() => nav(`/discover?mood=${m}`)} style={{ ['--i' as string]: i }}>
-              <MoodArt mood={m} size={44} />
+              <MoodArt mood={m} size={64} />
               <span className="display">{tk(`mood.${m}`)}</span>
             </button>
           ))}
@@ -196,14 +197,14 @@ export function Home() {
 
       <section className="section grid-2">
         <Link to="/spin" className="card card-press c-pink feature-card" data-testid="surprise-card">
-          <IconWheel className="feature-icon spin-idle" />
+          <Art name="home-surprise" className="feature-art" />
           <h3 className="display" style={{ fontSize: 20 }}>
             {t('home.surprise')}
           </h3>
           <p className="small dim">{t('home.surpriseSub')}</p>
         </Link>
         <Link to="/lab" className="card card-press c-lime feature-card">
-          <IconFlask className="feature-icon" />
+          <Art name="home-mix" className="feature-art" />
           <h3 className="display" style={{ fontSize: 20 }}>
             {t('home.readyToMix')}
           </h3>
@@ -246,7 +247,10 @@ export function Home() {
       <section className="section">
         <SectionHead title={t('home.recent')} />
         {recent.length === 0 ? (
-          <p className="dim small">{t('home.recentEmpty')}</p>
+          <div className="empty-inline">
+            <Art name="empty-history" className="empty-inline-art" />
+            <p className="dim small">{t('home.recentEmpty')}</p>
+          </div>
         ) : (
           <ol className="diary">
             {recent.map(({ w, f }) => (
@@ -280,7 +284,10 @@ export function Home() {
       <section className="section">
         <SectionHead title={t('home.combos')} action={<Link to="/lab">{t('nav.lab')}</Link>} />
         {favCombos.length === 0 ? (
-          <p className="dim small">{t('home.combosEmpty')}</p>
+          <div className="empty-inline">
+            <Art name="empty-combos" className="empty-inline-art" />
+            <p className="dim small">{t('home.combosEmpty')}</p>
+          </div>
         ) : (
           <div className="stack" style={{ ['--gap' as string]: '10px' }}>
             {favCombos.map((c) => {
@@ -315,7 +322,7 @@ export function Home() {
             </h3>
             <p className="small dim">{t('home.discoverSub')}</p>
           </div>
-          <Flower size={72} color="var(--lilac)" className="wiggle" />
+          <Art name="mood-main-character" className="feature-wide-art" />
         </Link>
       </section>
 
