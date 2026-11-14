@@ -374,7 +374,11 @@
       "releaseYear": null,
       "perfumer": null,
       "family": null,
-      "accords": [],
+      "accords": [
+        "spicy",
+        "resinous",
+        "gourmand"
+      ],
       "notes": {
         "top": [
           "nutmeg",
@@ -414,8 +418,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.fridaycharm.com/blogs/blog-post/afnan-9pm-elixir-full-review-and-comparison-with-afnan-series",
+          "name": "Friday Charm — Afnan 9PM Elixir review",
+          "type": "retailer",
+          "supports": [
+            "accords",
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Friday Charm review: about 6-8 hours on skin, bold sillage for the first couple of hours then close to skin; best in fall/winter, evening or date-night scent. A search summary says other sources range from 6 to 12+ hours and moderate to strong sillage."
     },
     {
       "name": "9 PM Rebel",

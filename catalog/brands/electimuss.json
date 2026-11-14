@@ -426,8 +426,34 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/electimuss-mercurial-cashmere-parfum",
+          "name": "Venba Fragrance — Mercurial Cashmere Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Official page only says excellent projection and longevity. Venba retailer: 8-12 hours, moderate to strong sillage, best in fall/winter, night out and date night. Community data (Scent Verdict, Fragplace) suggests 4-6 hours, so real-world wear may be shorter."
     },
     {
       "name": "Spice d'Arno",

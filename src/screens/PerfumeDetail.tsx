@@ -41,7 +41,8 @@ export function PerfumeDetail() {
   const [catMatch, setCatMatch] = useState<CatalogItem | null>(null);
   useEffect(() => {
     setCatMatch(null);
-    if (!f || f.research) return;
+    // Catalogue-filled profiles also look it up: for its evidence line and any newer data.
+    if (!f || (f.research && f.research.engine !== 'catalog')) return;
     let alive = true;
     void loadCatalog().then((c) => alive && setCatMatch(findCatalogMatch(c.items, f.brand, f.name)));
     return () => {
@@ -335,6 +336,11 @@ export function PerfumeDetail() {
           <Meter label={t('profile.sillage')} value={f.performance.sillage} color="tangerine" />
           <Meter label={t('profile.intensity')} value={f.performance.intensity} color="lime" />
         </div>
+        {f.performance.basis === 'estimate' && f.research?.engine === 'catalog' && catMatch?.pf?.e && (
+          <p className="tiny" style={{ marginTop: 10 }} data-testid="perf-evidence">
+            <strong>{tk(`perf.basis.${catMatch.pf.b}`)}:</strong> {catMatch.pf.e}
+          </p>
+        )}
         <p className="tiny dim" style={{ marginTop: 10 }}>
           {t('profile.estimateNote')}
         </p>

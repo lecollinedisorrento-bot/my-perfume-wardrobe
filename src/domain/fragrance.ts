@@ -102,7 +102,7 @@ export const SAMPLE_COLLECTION: { brand: string; name: string }[] = [
   { brand: 'Nabeel', name: 'Irth Boom' },
   { brand: 'Afnan', name: '9 PM Elixir' },
   { brand: 'Electimuss', name: 'Mercurial Cashmere' },
-  { brand: 'Atyab Al Marshoud', name: 'Salt' },
+  { brand: 'Atyab Al Marshoud', name: 'All Over Spray Salt' },
   { brand: 'Parfums de Marly', name: 'Carlisle' },
   { brand: 'Parfums de Marly', name: 'Percival' },
   { brand: 'Parfums de Marly', name: 'Galloway' },

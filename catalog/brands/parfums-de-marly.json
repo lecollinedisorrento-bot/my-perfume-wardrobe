@@ -588,8 +588,13 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
-      "accords": [],
+      "family": "Aromatic Citrus",
+      "accords": [
+        "citrus",
+        "lactonic",
+        "musky",
+        "powdery"
+      ],
       "notes": {
         "top": [],
         "heart": [],
@@ -610,8 +615,29 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/parfums-de-marly-galloway-eau-de-parfum/",
+          "name": "Beautinow - Parfums de Marly Galloway",
+          "type": "retailer",
+          "supports": [
+            "family",
+            "accords",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: 6-8 h, moderate sillage and projection, listed under spring and summer fragrances; no time of day stated."
     },
     {
       "name": "Percival",
@@ -619,8 +645,11 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
-      "accords": [],
+      "family": "Citrus Aromatic",
+      "accords": [
+        "lactonic",
+        "powdery"
+      ],
       "notes": {
         "top": [],
         "heart": [],
@@ -641,8 +670,44 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/parfums-de-marly-percival-eau-de-parfum/",
+          "name": "Beautinow - Parfums de Marly Percival",
+          "type": "retailer",
+          "supports": [
+            "family",
+            "accords",
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/parfums-de-marly-percival-edp",
+          "name": "Venba Fragrance - Percival EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Beautinow: moderate-to-long wear, moderate-to-strong trail; Venba: mixed, most get about 4-6 h, moderate sillage, spring/summer daytime (its badges also list fall/winter). Search results cite 6-9 h elsewhere; most common view used."
     },
     {
       "name": "Kalan",
@@ -682,8 +747,14 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
-      "accords": [],
+      "family": "Oriental Floral",
+      "accords": [
+        "lactonic",
+        "powdery",
+        "vanilla",
+        "warm spicy",
+        "woody"
+      ],
       "notes": {
         "top": [],
         "heart": [],
@@ -704,8 +775,44 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/parfums-de-marly-carlisle-eau-de-parfum/",
+          "name": "Beautinow - Parfums de Marly Carlisle",
+          "type": "retailer",
+          "supports": [
+            "family",
+            "accords",
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/parfums-de-marly-carlisle-edp-new-packaging",
+          "name": "Venba Fragrance - Carlisle EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Venba: 7-9 h, moderate-to-strong sillage, fall/winter evenings; Beautinow: 8-10 h, moderate-to-strong sillage, no season stated. Sources broadly agree."
     },
     {
       "name": "Layton",

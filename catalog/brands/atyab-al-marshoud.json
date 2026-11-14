@@ -522,10 +522,18 @@
           "name": "Atyab Al Marshoud — All Over Spray Salt",
           "type": "official",
           "supports": [
-            "notes"
+            "notes",
+            "usage"
           ]
         }
-      ]
+      ],
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Official page calls it long-lasting and 'summer in a bottle' but gives no hours or sillage; a seller listing claims up to 24 hours, which looks optimistic for a body spray, so no level set. No separate perfume named Salt found."
     }
   ]
 }

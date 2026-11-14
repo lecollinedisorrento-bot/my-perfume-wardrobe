@@ -2425,8 +2425,27 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/amouage-reflection-man-review",
+          "name": "Vivir — Amouage Reflection Man review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: lasts 7-10 hours, moderate to strong for the first 2-3 hours then moderate; a Parfumo-based search summary calls longevity/sillage strong but one reviewer finds it fades quickly, so views vary. Seasons not used: Vivir's seasonal ratings were inconsistent between retrievals."
     },
     {
       "name": "Opus XIV Royal Tobacco",
@@ -2957,6 +2976,71 @@
           "supports": [
             "concentration",
             "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beloved",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Bernard Ellena",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "jasmine",
+          "clary sage",
+          "clove bud"
+        ],
+        "heart": [
+          "ylang-ylang",
+          "violet",
+          "cistus",
+          "benzoin",
+          "olibanum"
+        ],
+        "base": [
+          "leather",
+          "civet",
+          "castoreum",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Cafleurebon calls longevity outstanding and sillage average; Parfumo reviewers (via search result) report about 10 to 14 hours and sillage from light-to-medium to good. Women's Beloved; the separate Beloved Man edition was not covered.",
+      "sources": [
+        {
+          "url": "https://cafleurebon.com/new-fragrance-review-amouage-beloved-blonde-ambition/",
+          "name": "Cafleurebon — Amouage Beloved review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "perfumer",
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Amouage/Beloved/reviews/107199",
+          "name": "Parfumo — Amouage Beloved review (search result only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
           ]
         }
       ]

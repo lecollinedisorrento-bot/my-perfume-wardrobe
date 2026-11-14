@@ -80,33 +80,79 @@
             "year",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/irth-eau-de-parfum",
+          "name": "Parfumo — Irth Eau de Parfum (search result only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/ch/perfumes/nabeel/irth",
+          "name": "Scentbase — Irth community wear report (search result only, page blocked)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search results disagree: Parfumo community rates longevity above average (8.1/10) and sillage 7.9/10; Scentbase estimates 4-6 hours with sillage 2.5/5 (close to skin); a retailer page says 6+ hours. Middle view used."
     },
     {
       "name": "Irth Boom",
       "collection": null,
-      "concentration": null,
-      "releaseYear": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
+        "top": [
+          "apple",
+          "pineapple",
+          "strawberry"
+        ],
         "heart": [],
-        "base": [],
+        "base": [
+          "patchouli",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
           "url": "https://www.parfumo.com/Perfumes/Nabeel/irth-boom",
           "name": "Parfumo — Irth Boom (search result only, page blocked)",
           "type": "database",
-          "supports": []
+          "supports": [
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.amazon.it/Irth-Boom-50-Eau-Parfum/dp/B0HMWQBCGM",
+          "name": "Amazon Italy — Irth Boom 50ml Eau de Parfum (search result only, page unavailable)",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
         }
-      ]
+      ],
+      "performanceEvidence": "No longevity, sillage or season statement found in any usable source; notes are only the partial list shown in a search result."
     },
     {
       "name": "Irth Fairooz",

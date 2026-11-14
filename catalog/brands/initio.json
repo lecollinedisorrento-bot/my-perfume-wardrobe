@@ -38,8 +38,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/initio-parfums-oud-for-greatness-edp",
+          "name": "Venba Fragrance - Oud for Greatness EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Venba: 9-10+ h on skin, strong sillage beyond arm's length for the first hours, fall/winter, evening and night out."
     },
     {
       "name": "Oud for Happiness",
@@ -72,8 +98,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/initio-parfums-oud-for-happiness-edp-1",
+          "name": "Venba Fragrance - Oud for Happiness EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Venba: 7-9 h, moderate-to-strong sillage, fall/winter (text also says spring), evening and night-out wear."
     },
     {
       "name": "Oud for Greatness Neo",
@@ -172,8 +224,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/initio-parfums-absolute-aphrodisiac-edp",
+          "name": "Venba Fragrance - Absolute Aphrodisiac EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Venba: 10+ h typical, moderate sillage strongest in first 3-4 h, fall/winter, evening/night out; search results cite 8-12 h elsewhere, so longevity set at 4 as the common middle."
     },
     {
       "name": "Addictive Vibration",

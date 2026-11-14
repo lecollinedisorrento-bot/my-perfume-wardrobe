@@ -83,7 +83,7 @@ for (const file of files) {
     const perf = { l: LEVEL(pf.longevity), s: LEVEL(pf.sillage), p: LEVEL(pf.projection) };
     if (perf.l || perf.s || perf.p) {
       if (!supported.has('performance')) warnings.push(where(i, 'performance removed: no source supports "performance"'));
-      else entry.pf = { ...perf, b: BASES.has(pf.basis) ? pf.basis : 'reviews', e: typeof f.performanceEvidence === 'string' ? f.performanceEvidence.slice(0, 240) : null };
+      else entry.pf = { ...perf, b: BASES.has(pf.basis) ? pf.basis : 'reviews', e: typeof f.performanceEvidence === 'string' ? f.performanceEvidence.slice(0, 420) : null };
     }
     const us = f.usage ?? {};
     const seasons = list(us.seasons).filter((x) => SEASONS.has(x));
