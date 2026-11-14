@@ -1,0 +1,723 @@
+{
+  "brand": "Al Haramain",
+  "slug": "al-haramain",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "No official brand site could be opened from search. Product names and notes come from the tripletraders.com Al Haramain collection and product pages (retailer), marked reported. Names only where the collection page lists a product without notes. Listing page 2 was not read.",
+  "fragrances": [
+    {
+      "name": "Amber Oud Gold Edition",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "green"
+        ],
+        "heart": [
+          "melon",
+          "pineapple",
+          "gourmand",
+          "amber"
+        ],
+        "base": [
+          "woody accords",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain/products/haramain-amber-oud-gold-edition-eau-de-parfum-by-al-haramain-100ml-3-4-fl-oz",
+          "name": "Amber Oud Gold Edition",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green Dubai",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom",
+          "mandarin orange"
+        ],
+        "heart": [
+          "amber",
+          "blackcurrant",
+          "clary sage",
+          "iris",
+          "melon",
+          "patchouli"
+        ],
+        "base": [
+          "amber",
+          "galbanum",
+          "musk",
+          "petitgrain",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain/products/green-dubai-extrait-de-parfum-by-al-haramain-100ml-3-33-fl-oz",
+          "name": "Green Dubai",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Aventure Knight",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [
+          "iris",
+          "violet leaf"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain/products/laventure-knight-eau-de-parfum-by-al-haramain-100ml-3-33-fl-oz",
+          "name": "L'Aventure Knight",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palm Dubai",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "bergamot",
+          "lemon",
+          "apple"
+        ],
+        "heart": [
+          "geranium",
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla",
+          "tonka beans",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain/products/palm-dubai-extrait-de-parfum-by-al-haramain-100ml-3-33-fl-oz",
+          "name": "Palm Dubai",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Aqua Dubai",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Oud Aqua Dubai",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Rouge",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Oud Rouge",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Detour Noir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Detour Noir",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Tobacco Edition",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Oud Tobacco Edition",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Gold Edition 60ml",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Oud Gold Edition 60ml",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Miracle Dubai",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Miracle Dubai",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Dubai Night",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Oud Dubai Night",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Amber Gold 999.9 Dubai Edition",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Gold 999.9 Dubai Edition",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "L'Aventure Gold",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "L'Aventure Gold",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "L'Aventure Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "L'Aventure Intense",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "L'Aventure Rose",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "L'Aventure Rose",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "L'Aventure Blanche",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "L'Aventure Blanche",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Black Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Black Oud",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Floral Fair",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Floral Fair",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Detour Intense Noir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Detour Intense Noir",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Ultra Violet",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Oud Ultra Violet",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Bon Cherie",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Bon Cherie",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Bleu Edition",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Oud Bleu Edition",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Carbon Edition",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Oud Carbon Edition",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Amber Oud Private Edition",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Amber Oud Private Edition",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Detour Eco",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Detour Eco",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Tanasuk",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://tripletraders.com/collections/al-haramain",
+          "name": "Tanasuk",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

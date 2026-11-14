@@ -1,0 +1,326 @@
+{
+  "brand": "Pantheon Roma",
+  "slug": "pantheon-roma",
+  "officialSite": "https://www.pantheonparfum.com/en",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify storefront (pantheonparfum.com). Range from the /en/collections/fragranze listing (first page) and the products.json feed, which was truncated at Donna Margherita. Notes for the feed items come from their official product body text; notes for the single-letter and MMXXII/MMXXIV/H/Donna Margherita items come from their official /en/products pages. Concentration is not stated on any official page, so it is null throughout. The 50 ml, 100 ml and body-ritual set variants are the same fragrance and are merged. Body-ritual sets, sample kits, the Collezione ROMA box and gift cards were excluded. Only the first page of the listing was read; further products may exist.",
+  "fragrances": [
+    {
+      "name": "Annone",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["mango", "iris", "saffron", "bergamot", "rose", "oud", "amber"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/annone-100-ml", "name": "Pantheon Roma - Annone 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Annone Supremo",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["mango", "saffron", "peach", "iris", "rose", "honey", "amber", "oud", "vanilla"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/annone-supremo", "name": "Pantheon Roma - Annone Supremo", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "A",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "coconut", "mango"], "heart": ["iris", "orchid", "arabian jasmine"], "base": ["vanilla", "tonka bean", "patchouli", "amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/en/products/a", "name": "Pantheon Roma - A 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "M",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["strawberry", "raspberry", "plum", "blackcurrant"], "heart": ["turkish rose", "taif rose", "iris", "lily of the valley"], "base": ["ambergris", "patchouli", "labdanum", "pink pepper"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/en/products/m", "name": "Pantheon Roma - M 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "O",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "champagne rosé"], "heart": ["jasmine", "rose", "black cherry", "tequila"], "base": ["amber", "sandalwood", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/en/products/o", "name": "Pantheon Roma - O 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "R",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cinnamon", "thyme", "strawberry", "rhubarb"], "heart": ["iris", "jasmine", "saffron"], "base": ["tolu balm", "incense", "labdanum", "oud", "musk", "leather"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/en/products/r", "name": "Pantheon Roma - R 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "H",
+      "collection": "Exclusive",
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["coconut", "carrot seed", "monoi"], "heart": ["iris", "freesia", "tiare", "ylang ylang"], "base": ["vanilla", "leather", "honey", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/en/products/h", "name": "Pantheon Roma - H 100 ml", "type": "official", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "MMXXII",
+      "collection": "Exclusive",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["orange", "cherry", "ginger", "angelica"], "heart": ["cocoa", "saffron", "vanilla", "frangipani"], "base": ["patchouli", "sandalwood", "ambergris", "leather"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/en/products/mmxxii", "name": "Pantheon Roma - MMXXII 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "MMXXIV",
+      "collection": "Exclusive",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["whiskey", "saffron", "cinnamon"], "heart": ["dates", "black pepper", "helichrysum", "marigold"], "base": ["oud", "sandalwood", "patchouli", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/en/products/mmxxiv", "name": "Pantheon Roma - MMXXIV 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Galatea",
+      "collection": "Opere",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["citrus", "apricot blossom", "vanilla", "amber", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/galatea-100-ml", "name": "Pantheon Roma - Galatea 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Dolce Mio",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["milk", "vanilla", "fruit", "rose", "saffron", "sandalwood", "agarwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/dolce-mio", "name": "Pantheon Roma - Dolce Mio", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "K",
+      "collection": "Exclusive",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["saffron", "strawberry", "peach", "jasmine", "tuberose", "black pepper", "vanilla", "tonka bean", "amber", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/k", "name": "Pantheon Roma - K", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Nerone",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["coconut", "saffron", "raspberry", "brown sugar", "tonka bean", "passion fruit", "oud", "leather"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/nerone-100-ml", "name": "Pantheon Roma - Nerone 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Auris",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["grapefruit", "lime", "yuzu", "lychee", "ginger", "mint", "myrtle", "juniper", "ambergris", "tonka bean", "cedar"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/auris-100-ml", "name": "Pantheon Roma - Auris 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Anniversario",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["strawberry", "blueberry", "raspberry", "saffron", "rose", "jasmine", "heliotrope", "vanilla", "white musk", "patchouli", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/anniversario-100-ml", "name": "Pantheon Roma - Anniversario 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Così Blu",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["incense", "musk", "precious woods", "fruity accents"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/cosi-blu-100-ml", "name": "Pantheon Roma - Così Blu 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Dolce Passione",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["dark chocolate", "white truffle", "honey", "cacao", "plum", "strawberry", "vanilla", "tonka bean"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/dolce-passione-100-ml", "name": "Pantheon Roma - Dolce Passione 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Notte d'amore",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "rose", "orange blossom", "tonka bean", "amber", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/notte-damore-100-ml", "name": "Pantheon Roma - Notte d'amore 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Il Giardino",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["ivy", "pear", "apple", "vetiver", "leather", "cedar", "benzoin", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/il-giardino-100-ml", "name": "Pantheon Roma - Il Giardino 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Trastevere",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla", "chestnut", "licorice", "caramel", "jasmine"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/products/trastevere-100-ml", "name": "Pantheon Roma - Trastevere 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Donna Margherita",
+      "collection": "Classic",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["jasmine", "tuberose"], "heart": ["tuberose", "narcissus", "frangipani", "lily of the valley"], "base": ["amber", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.pantheonparfum.com/en/products/donna-margherita-100-ml", "name": "Pantheon Roma - Donna Margherita 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    }
+  ]
+}

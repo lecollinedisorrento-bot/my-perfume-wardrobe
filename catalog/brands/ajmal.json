@@ -1,0 +1,1796 @@
+{
+  "brand": "Ajmal",
+  "slug": "ajmal",
+  "officialSite": "https://uk.ajmal.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Ajmal UK Shopify feed (uk.ajmal.com/products.json) read in two passes; notes and EDP concentration taken from the official product descriptions. Feed entries with truncated or duplicated handles were skipped. Brand country not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Kuro",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pepper"
+        ],
+        "heart": [
+          "geranium",
+          "lavender"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/kuro-eau-de-parfum-90ml",
+          "name": "Kuro",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aristocrat",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "marine"
+        ],
+        "heart": [
+          "lavender",
+          "blossom",
+          "musk"
+        ],
+        "base": [
+          "tonka",
+          "vanilla",
+          "amber",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/aristocrat-perfume-2-53-fl-oz-75-ml-for-men",
+          "name": "Aristocrat",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wisal Layl",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/wisal-layl_edp_50ml",
+          "name": "Wisal Layl",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wisal Dhahab",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "peach",
+          "pear",
+          "grapefruit",
+          "mandarin"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "orchid",
+          "geranium"
+        ],
+        "base": [
+          "sandalwood",
+          "cedarwood",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/wisal-dhahab-perfume-1-7-fl-oz-50-ml-for-men",
+          "name": "Wisal Dhahab",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wisal",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/wisal-perfume-1-7-oz-50-ml-for-women",
+          "name": "Wisal",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vision",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "violet"
+        ],
+        "heart": [
+          "floral"
+        ],
+        "base": [
+          "woody",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/vision_edp_100ml",
+          "name": "Vision",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Song of Oud",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/song-of-oud-perfume-2-53-fl-oz-75-ml-for-unisex",
+          "name": "Song of Oud",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shiro",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "rose"
+        ],
+        "heart": [
+          "spicy aquatic woody"
+        ],
+        "base": [
+          "cedar",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/shiro-perfume-eau-de-parfum-3-0-fl-oz-90-ml-for-men",
+          "name": "Shiro",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shadow II Pour Femme",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "saffron"
+        ],
+        "heart": [
+          "orange blossom"
+        ],
+        "base": [
+          "patchouli",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/shadowii-her_edp_75ml",
+          "name": "Shadow II Pour Femme",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shadow Ice",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot"
+        ],
+        "heart": [
+          "neroli",
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "nutmeg",
+          "pink pepper",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/shadow-ice-perfume-2-53-fl-oz-75-ml-for-unisex",
+          "name": "Shadow Ice",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sacred Love",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine",
+          "aquatic"
+        ],
+        "heart": [
+          "orange blossom",
+          "vanilla"
+        ],
+        "base": [
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/sacred-love-perfume-1-7-fl-oz-50-ml-for-women",
+          "name": "Sacred Love",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rhythm of Oud",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/rhythm-of-oud-perfume-2-53-fl-oz-75-ml-for-unisex",
+          "name": "Rhythm of Oud",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rain Drops",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/raindrops-perfume-1-7-fl-oz-50-ml-for-women",
+          "name": "Rain Drops",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neutron",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/neutron-perfume-3-4-fl-oz-100-ml-for-men",
+          "name": "Neutron",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Incense Wood",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "smoky oud",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/incense-wood-perfume-3-4-fl-oz-100-ml-for-unisex",
+          "name": "Incense Wood",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evoke Gold Edition Him",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "neroli",
+          "pepper"
+        ],
+        "heart": [
+          "geranium",
+          "orris",
+          "amber"
+        ],
+        "base": [
+          "patchouli",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/evokegoldeditionhim_edp_90ml",
+          "name": "Evoke Gold Edition Him",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evoke Gold Edition for Women",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/evoke-gold-edition-perfume-2-53-fl-oz-75-ml-for-women",
+          "name": "Evoke Gold Edition for Women",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter V",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "dry wood",
+          "black ink"
+        ],
+        "heart": [
+          "incense",
+          "santoud",
+          "birch"
+        ],
+        "base": [
+          "cedarwood",
+          "cristal moss",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/chapter-v_edp_50ml",
+          "name": "Chapter V",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter III",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "red fruits",
+          "apricot",
+          "peach"
+        ],
+        "heart": [
+          "osmanthus",
+          "rose absolute"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/chapter-iii_edp_50ml",
+          "name": "Chapter III",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter II",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black tea",
+          "jasmine"
+        ],
+        "heart": [
+          "almond",
+          "heliotrope",
+          "orris"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/chapter-ii_edp_50ml",
+          "name": "Chapter II",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter I",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "amber"
+        ],
+        "heart": [
+          "fig",
+          "cypriol",
+          "patchouli"
+        ],
+        "base": [
+          "cashmere wood",
+          "sandalwood",
+          "white musk",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/chapter-i_edp_50ml",
+          "name": "Chapter I",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carbon",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "citrus",
+          "lavender"
+        ],
+        "heart": [
+          "green",
+          "clove",
+          "violet"
+        ],
+        "base": [
+          "woody",
+          "musky",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/carbon_edp_100ml",
+          "name": "Carbon",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blu",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lavender",
+          "watermelon",
+          "lotus",
+          "jasmine",
+          "sandalwood",
+          "amber",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/blu_edp_90ml",
+          "name": "Blu",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aurum Summer",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "amber"
+        ],
+        "heart": [
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "mallow",
+          "orange"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/aurum_sm_edp_75ml",
+          "name": "Aurum Summer",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aurum",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [
+          "jasmine",
+          "cinnamon"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/aurum-perfume-2-53-fl-oz-75-ml-for-women",
+          "name": "Aurum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aurum Winter",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "fruits",
+          "amber",
+          "musk",
+          "moss",
+          "citrus",
+          "florals"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-aurum-winter-for-women-2-5-oz-edp-spray",
+          "name": "Aurum Winter",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amir Two",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "geranium",
+          "rose",
+          "nutmeg",
+          "pepper",
+          "musk",
+          "oud"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/amir-two-perfume-1-7-fl-oz-50-ml-for-unisex",
+          "name": "Amir Two",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber Wood",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fruity",
+          "citrus",
+          "spice"
+        ],
+        "heart": [
+          "lavender",
+          "orris",
+          "pepper"
+        ],
+        "base": [
+          "patchouli",
+          "amber",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/amberwood_edp_forwomen_100ml",
+          "name": "Amber Wood",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber Santal",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "amber",
+          "spice"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/amber-santal-perfume-3-4-fl-oz-100-ml-for-unisex",
+          "name": "Amber Santal",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber Musc",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "amber",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/amber-musc-perfume-3-4-fl-oz-100-ml-for-unisex",
+          "name": "Amber Musc",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber Leather",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "amber",
+          "leather"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/amber-leather-perfume-3-4-fl-oz-100-ml-for-unisex",
+          "name": "Amber Leather",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evoke Midnight Edition Him",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-evoke-midnight-edition-him-eau-de-parfum-90-ml",
+          "name": "Evoke Midnight Edition Him",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evoke Silver Edition",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "olibanum",
+          "cardamom",
+          "orange blossom",
+          "violet",
+          "amber",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-evoke-silver-edition-for-men-3-oz-edp-spray-90-milliliters",
+          "name": "Evoke Silver Edition",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evoke Midnight Edition",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "raspberry",
+          "pink pepper"
+        ],
+        "heart": [
+          "violet",
+          "cardamom",
+          "saffron"
+        ],
+        "base": [
+          "patchouli",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-evoke-midnight-edition-eau-de-parfum-for-women-75-ml-women-s-spicy-fruity-woody-scent-with-raspberry-cardamom-patchouli-luxury-evening-fragrance",
+          "name": "Evoke Midnight Edition",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evoke",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "moss",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-evoke-eau-de-parfum-for-women-75-ml-long-lasting-vanilla-peppery-powdery-fragrance-made-in-dubai",
+          "name": "Evoke",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electron",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "grapefruit",
+          "apple"
+        ],
+        "heart": [
+          "mint",
+          "geranium",
+          "woody warmth"
+        ],
+        "base": [
+          "amber",
+          "tonka",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-electron-men-eau-de-parfum-handpicked-luxury-long-lasting-citrus-woody-fragrance-made-in-dubai-perfume-for-men-100ml",
+          "name": "Electron",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orbiter",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "nutmeg"
+        ],
+        "heart": [
+          "cinnamon",
+          "cardamom",
+          "lavender"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-orbiter-eau-de-parfum-100-ml-unisex-spicy-woody-luxury-fragrance-citrus-cinnamon-patchouli-dubai-made",
+          "name": "Orbiter",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oakwood",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "apple",
+          "white pepper",
+          "lavender",
+          "cardamom",
+          "orris",
+          "cedarwood",
+          "amber wood",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-oakwood-eau-de-parfum-100-ml-perfume-for-men-women-long-lasting-woody-amber-fragrance-made-in-dubai-warm-sandalwood-spicy-notes-luxury-everyday-scent",
+          "name": "Oakwood",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shadow Noir",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rosewood",
+          "lavender",
+          "nectarine",
+          "patchouli",
+          "orchid",
+          "white musk",
+          "white amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-shadow-noir-eau-de-parfum-75ml-long-lasting-scent-spray-gift-for-men-women-online-exclusive-made-in-dubai",
+          "name": "Shadow Noir",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qasida Dahabia",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-qasida-dahabia-eau-de-parfum-60-ml-for-unisex-musky-leathery-long-lasting-perfume-made-in-dubai",
+          "name": "Qasida Dahabia",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Violet Musc",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lily of the valley",
+          "ylang-ylang",
+          "rose"
+        ],
+        "heart": [
+          "violet"
+        ],
+        "base": [
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-violet-musc-eau-de-parfum-100-ml-unisex-oriental-floral-fragrance-with-violet-musk-amber-middle-east-luxury-perfume",
+          "name": "Violet Musc",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Titan Aura",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-titan-aura-eau-de-parfum-100-ml-for-him-citrus-aromatic-perfume-long-lasting-made-in-dubai",
+          "name": "Titan Aura",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thai Wood",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-thai-wood-eau-de-parfum-100-ml-perfume-for-men-women-long-lasting-woody-oriental-fragrance-made-in-dubai-smoky-oud-amber-notes-elegant-everyday-scent",
+          "name": "Thai Wood",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Virgin Musc",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-virgin-musc-eau-de-parfum-100ml-unisex-soft-musky-perfume-long-lasting-fresh-clean-fragrance-made-in-dubai-subtle-floral-powdery-notes-everyday-signature-scent",
+          "name": "Virgin Musc",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paineira Wood",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-paineira-wood-eau-de-parfum-100-ml-unisex-woody-amber-perfume-long-lasting-oriental-fragrance-made-in-dubai-warm-sandalwood-amber-notes-luxury-everyday-scent",
+          "name": "Paineira Wood",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neon Red",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-neon-red-eau-de-parfum-100-ml-women-s-bold-fruity-floral-fragrance-daily-wear-perfume-for-women-vibrant-modern-dubai-scent",
+          "name": "Neon Red",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Naya",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-arabic-collection-naya-eau-de-parfum-100-ml-for-men-women-long-lasting-oriental-floral-woody-unisex-perfume-luxury-arabian-fragrance-spray-crafted-in-dubai",
+          "name": "Naya",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Love Addict",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-love-addict-eau-de-parfum-for-women-100-ml-long-lasting-floral-fruity-perfume-with-musk-amber-everyday-wear-fragrance-designed-by-ajmal-perfumes",
+          "name": "Love Addict",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entice Femme",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-entice-femme-eau-de-parfum-75ml-for-women-long-lasting-floral-perfume-for-her-elegant-feminine-fragrance-made-in-dubai",
+          "name": "Entice Femme",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entice Allura",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-entice-allura-eau-de-parfum-75-ml-for-her-long-lasting-fruity-perfume-made-in-dubai",
+          "name": "Entice Allura",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Enya",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-enya-women-eau-de-parfum-handpicked-luxury-long-lasting-amber-fruity-fragrance-made-in-dubai-perfume-for-women-100ml",
+          "name": "Enya",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dahn Oudh Al Shams",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/dahn-oudh-al-shams-by-ajmal-spray-indian-agarwood-arabic-sun-gold-musk-woody",
+          "name": "Dahn Oudh Al Shams",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mukhallat Al Shams",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-mukhallat-al-shams-eau-de-parfum-50ml",
+          "name": "Mukhallat Al Shams",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gray",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://uk.ajmal.com/products/ajmal-gray-eau-de-parfum-spray-100-ml-fresh-woody-aromatic-fragrance-for-men-long-lasting-masculine-scent",
+          "name": "Gray",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

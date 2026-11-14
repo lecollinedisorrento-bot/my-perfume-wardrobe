@@ -1,0 +1,1263 @@
+{
+  "brand": "Swiss Arabian",
+  "slug": "swiss-arabian",
+  "officialSite": "https://ksa.swissarabian.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Swiss Arabian KSA Shopify feed (ksa.swissarabian.com/products.json) read in parts; notes taken from the official descriptions where a top/heart/base pyramid or list was given. Minis, gift sets and the feed's truncated sections were excluded. Concentration only where the page states it. Brand country not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Shaghaf Oud Royale",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "lavender"
+        ],
+        "heart": [
+          "oud",
+          "nutmeg"
+        ],
+        "base": [
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/shaghaf-oud-royale",
+          "name": "Shaghaf Oud Royale",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shaghaf Oud Marine",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "black pepper",
+          "marine accord"
+        ],
+        "heart": [
+          "refined florals"
+        ],
+        "base": [
+          "cypriol",
+          "akigalawood",
+          "amber",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/shaghaf-oud-marine-1",
+          "name": "Shaghaf Oud Marine",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shaghaf Men",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "lemon"
+        ],
+        "heart": [
+          "oakmoss",
+          "aquatic notes"
+        ],
+        "base": [
+          "amber",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/shaghaf-men-75-ml-edp",
+          "name": "Shaghaf Men",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shaghaf Oud Ahmar",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "green notes"
+        ],
+        "heart": [
+          "melon",
+          "apple",
+          "pineapple"
+        ],
+        "base": [
+          "vanilla",
+          "woods",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/shaghaf-oud-ahmar",
+          "name": "Shaghaf Oud Ahmar",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shaghaf Oud Tonka",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "almond"
+        ],
+        "heart": [
+          "cinnamon bark",
+          "tunisian orange flower",
+          "turkish rose"
+        ],
+        "base": [
+          "tonka",
+          "vanilla",
+          "amberwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/shaghaf-oud-tonka",
+          "name": "Shaghaf Oud Tonka",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shaghaf Nectar Blush",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "yuzu",
+          "pear",
+          "apple",
+          "neroli",
+          "elderflower",
+          "blackcurrant"
+        ],
+        "heart": [
+          "gardenia",
+          "magnolia",
+          "orange blossom",
+          "cedarwood"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla",
+          "tonka",
+          "musk",
+          "peru balsam"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/shaghaf-nectar-blush",
+          "name": "Shaghaf Nectar Blush",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shaghaf Vanilla Toffee",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/shaghaf-vanilla-toffee",
+          "name": "Shaghaf Vanilla Toffee",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Shaghaf Oud Azraq CPO",
+      "collection": null,
+      "concentration": "Concentrated perfume oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/shaghaf-oud-azraq-cpo",
+          "name": "Shaghaf Oud Azraq CPO",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose 01",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "lychee"
+        ],
+        "heart": [
+          "rose",
+          "peony"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "cashmere woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/rose-01-copy",
+          "name": "Rose 01",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scent of Seduction",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/scent-of-seduction",
+          "name": "Scent of Seduction",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Pretty Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/pretty-oud",
+          "name": "Pretty Oud",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Dehn El Oud Mubarak",
+      "collection": null,
+      "concentration": "Concentrated perfume oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/dehn-el-oud-mubarak",
+          "name": "Dehn El Oud Mubarak",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dehn El Oud Shaheen",
+      "collection": null,
+      "concentration": "Concentrated perfume oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/dehn-el-oud-shaheen",
+          "name": "Dehn El Oud Shaheen",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mukhalat Malaki",
+      "collection": null,
+      "concentration": "Concentrated perfume oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "turkish rose"
+        ],
+        "heart": [
+          "saffron",
+          "agarwood"
+        ],
+        "base": [
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/mukhalat-malaki",
+          "name": "Mukhalat Malaki",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Echoes of St. Moritz",
+      "collection": null,
+      "concentration": "Extrait",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "frozen citrus",
+          "orchard fruits",
+          "botanicals",
+          "winter vetiver",
+          "alpine cedarwood",
+          "leather",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/esmo140401",
+          "name": "Echoes of St. Moritz",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud 01",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "raspberry",
+          "green violet leaves",
+          "cumin",
+          "cardamom"
+        ],
+        "heart": [
+          "turkish rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "amber",
+          "leather",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/oud-01",
+          "name": "Oud 01",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk 74 Poudre",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehydes",
+          "musk"
+        ],
+        "heart": [
+          "iris",
+          "heliotrope",
+          "white florals",
+          "ylang"
+        ],
+        "base": [
+          "vanilla",
+          "powdery musk",
+          "balsams"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/musk-74-poudre-1",
+          "name": "Musk 74 Poudre",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hawa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fruits"
+        ],
+        "heart": [
+          "jasmine",
+          "orange flower",
+          "rose"
+        ],
+        "base": [
+          "cashmere",
+          "patchouli",
+          "myrrh",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/hawa",
+          "name": "Hawa",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noora Onyx",
+      "collection": null,
+      "concentration": "Concentrated perfume oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rosemary",
+          "lavender",
+          "verbena",
+          "citrus"
+        ],
+        "heart": [
+          "carnation",
+          "jasmine",
+          "juniper",
+          "cinnamon"
+        ],
+        "base": [
+          "leather",
+          "sandalwood",
+          "amber",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/noora-onyx-1",
+          "name": "Noora Onyx",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zahra Candy",
+      "collection": null,
+      "concentration": "Concentrated perfume oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fruits"
+        ],
+        "heart": [
+          "aldehydes",
+          "saffron",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "agarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/zahra-candy",
+          "name": "Zahra Candy",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk 07",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pomegranate",
+          "blackcurrant"
+        ],
+        "heart": [
+          "rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/musk-9",
+          "name": "Musk 07",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk 01",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "elemi",
+          "pink pepper",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "lily"
+        ],
+        "base": [
+          "tonka",
+          "musk",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/musk-1",
+          "name": "Musk 01",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opulence of Dubai",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "ginger"
+        ],
+        "heart": [
+          "damascus rose"
+        ],
+        "base": [
+          "chocolate",
+          "vanilla",
+          "cypriol",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/opulence-of-dubai",
+          "name": "Opulence of Dubai",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Incense 01",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "frankincense",
+          "juniper",
+          "rum",
+          "bergamot"
+        ],
+        "heart": [
+          "fig",
+          "lily of the valley",
+          "almond",
+          "hazelnut"
+        ],
+        "base": [
+          "sandalwood",
+          "cedarwood",
+          "vanilla",
+          "dark chocolate",
+          "moss",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/incense-01",
+          "name": "Incense 01",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk Malaki",
+      "collection": null,
+      "concentration": "Concentrated perfume oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ripe fruits"
+        ],
+        "heart": [
+          "lily of the valley",
+          "musky florals"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": []
+    },
+    {
+      "name": "Spirit of Valencia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "gardenia",
+          "peony"
+        ],
+        "base": [
+          "golden woods",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/spirit-of-valencia-1",
+          "name": "Spirit of Valencia",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Passion of Venice",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "green notes",
+          "pink pepper"
+        ],
+        "heart": [
+          "jasmine",
+          "patchouli",
+          "woods"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/passion-of-venice-1",
+          "name": "Passion of Venice",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wajd",
+      "collection": null,
+      "concentration": "EDP",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "ripe fruits"
+        ],
+        "heart": [
+          "turkish rose",
+          "orris"
+        ],
+        "base": [
+          "patchouli",
+          "musky amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/wajd-edp-50ml",
+          "name": "Wajd",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Layali Noir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cognac",
+          "cinnamon"
+        ],
+        "heart": [
+          "tonka",
+          "amber",
+          "oakwood"
+        ],
+        "base": [
+          "vanilla",
+          "praline",
+          "sandalwood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/layali-noir",
+          "name": "Layali Noir",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Layali Soleil",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "coconut",
+          "heliotrope",
+          "vanilla"
+        ],
+        "heart": [
+          "madagascar vanilla"
+        ],
+        "base": [
+          "vanilla",
+          "white musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/layali-soleil",
+          "name": "Layali Soleil",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Layali Rubis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "bulgarian and turkish rose",
+          "orange flower"
+        ],
+        "base": [
+          "akigalawood",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/layali-rubis",
+          "name": "Layali Rubis",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Layali Blanc",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "peony",
+          "geranium",
+          "caramel"
+        ],
+        "heart": [
+          "white rose",
+          "iris",
+          "raspberry",
+          "white musk"
+        ],
+        "base": [
+          "cashmere wood",
+          "sandalwood",
+          "powdery musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/layali-blanc",
+          "name": "Layali Blanc",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla 01",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "orange flower",
+          "coconut"
+        ],
+        "heart": [
+          "jasmine sambac",
+          "tuberose",
+          "cappuccino",
+          "caramel"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/vanilla-01",
+          "name": "Vanilla 01",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jannet El Firdaus",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": []
+    },
+    {
+      "name": "Jannet El Firdaus BL",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": []
+    },
+    {
+      "name": "Attar Bakhoor",
+      "collection": null,
+      "concentration": "Attar",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ksa.swissarabian.com/products/attar-bakhoor",
+          "name": "Attar Bakhoor",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

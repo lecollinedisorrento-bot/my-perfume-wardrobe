@@ -1,0 +1,476 @@
+{
+  "brand": "Alexandre.J",
+  "slug": "alexandre-j",
+  "officialSite": "https://www.alexandre-j.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify storefront (alexandre-j.com). The 100 ml Eau de Parfum range was taken from the official /collections/all page (Art Nouveau, The Elixir Collector, The Collector, The Art Deco Collector) and each fragrance's official product page was opened for notes. For the seven Elixir Collector '… II' fragrances the official 100 ml pages were not read: their notes come from the official 10 ml product pages listed in the products.json feed (which was truncated, so the 10 ml pages are cited by their feed handle). Notes are taken from the written description where it differs from the note icons. Candles, watches, gift cards, sample sets and gift sets were excluded. No perfumer is named on the official pages. Majestic Amber's 2020 launch year is stated on its page. Other years are not stated.",
+  "fragrances": [
+    {
+      "name": "Sweet Enigma",
+      "collection": "Art Nouveau",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pistachio", "strawberry"], "heart": ["date", "tonka bean"], "base": ["toasted sesame", "benzoin", "saffron"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/sweet-enigma-eau-de-parfum-100-ml", "name": "Alexandre.J - Sweet Enigma 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Imperial Peacock",
+      "collection": "Art Nouveau",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["almond", "rhubarb", "heliotrope", "tonka bean"], "heart": ["cinnamon", "black vanilla", "musk"], "base": ["balsamic note"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/imperial-peacock-eau-de-parfum-100-ml", "name": "Alexandre.J - Imperial Peacock 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Oriental Enigma",
+      "collection": "Art Nouveau",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["hibiscus", "hazelnut", "date", "tonka bean"], "heart": ["everlasting flower", "orris", "rum", "saffron"], "base": ["cedarwood", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/oriental-enigma-eau-de-parfum-100-ml", "name": "Alexandre.J - Oriental Enigma 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Majestic Nard",
+      "collection": "Art Nouveau",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["galbanum", "pink pepper", "incense"], "heart": ["saffron", "jatamansi", "virginia cedar"], "base": ["sandalwood", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/majestic-nard-eau-de-parfum-100-ml", "name": "Alexandre.J - Majestic Nard 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Butterfly",
+      "collection": "Art Nouveau",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pear", "pink pepper", "cardamom", "bergamot"], "heart": ["tuberose", "neroli", "nut"], "base": ["vanilla milk", "musk", "amberwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/butterfly-eau-de-parfum-100-ml", "name": "Alexandre.J - Butterfly 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Black Beetle",
+      "collection": "Art Nouveau",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "raspberry", "incense"], "heart": ["nutmeg", "chili", "patchouli", "musk"], "base": ["woods"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/black-beetle-eau-de-parfum-100-ml", "name": "Alexandre.J - Black Beetle 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Ode To Rose",
+      "collection": "Art Nouveau",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mimosa", "ylang ylang", "jasmine"], "heart": ["centifolia rose", "violet leaf", "geranium", "orange tree", "sandalwood", "patchouli"], "base": ["white musk", "virginia cedar"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/ode-to-rose-eau-de-parfum-100-ml", "name": "Alexandre.J - Ode To Rose 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Black Muscs II",
+      "collection": "The Elixir Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["plum", "blackcurrant", "blackberry"], "heart": ["rose", "violet"], "base": ["amber wood", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/black-muscs-ii-10-ml", "name": "Alexandre.J - Black Muscs II 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Morning Muscs II",
+      "collection": "The Elixir Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["exotic fruits", "apricot", "mandarin"], "heart": ["osmanthus", "rose", "violet"], "base": ["cashmere wood", "white musk", "saffron"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/morning-muscs-ii-10-ml", "name": "Alexandre.J - Morning Muscs II 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Rose Oud II",
+      "collection": "The Elixir Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["peach", "lemon", "ginger", "bergamot"], "heart": ["red fruits", "violet", "rose"], "base": ["oud", "amber wood", "black pepper", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/rose-oud-ii-10-ml", "name": "Alexandre.J - Rose Oud II 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Rose Alba II",
+      "collection": "The Elixir Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["almond", "blackcurrant", "peach"], "heart": ["rose", "violet", "plant-based leather"], "base": ["tonka bean", "vanilla", "amber wood", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/rose-alba-ii-10ml", "name": "Alexandre.J - Rose Alba II 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Iris Violet II",
+      "collection": "The Elixir Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "ginger"], "heart": ["red fruits", "nutmeg"], "base": ["rum", "vanilla", "caramel", "amber wood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/iris-violet-ii-10-ml", "name": "Alexandre.J - Iris Violet II 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Golden Oud II",
+      "collection": "The Elixir Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["grenadilla"], "heart": ["clove flower", "rose"], "base": ["saffron", "benzoin", "patchouli", "vanilla", "oud"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/golden-oud-ii-10-ml", "name": "Alexandre.J - Golden Oud II 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "White Night",
+      "collection": "The Elixir Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["fig milk"], "heart": ["orange blossom", "ginger"], "base": ["sandalwood", "white musk", "virginian cedar", "guaiac wood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/white-night-10-ml", "name": "Alexandre.J - White Night 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Black Muscs",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lemon"], "heart": ["violet", "patchouli", "rose"], "base": ["amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/black-muscs-eau-de-parfum-100-ml", "name": "Alexandre.J - Black Muscs 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Morning Muscs",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "grapefruit", "peach", "caramel"], "heart": ["russian rose", "turkish rose", "patchouli", "violet"], "base": ["musk", "moss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/morning-muscs-eau-de-parfum-100-ml", "name": "Alexandre.J - Morning Muscs 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Passion Bliss",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["passion fruit", "hot milk", "matcha", "cinnamon"], "heart": ["honey", "heliotrope"], "base": ["sandalwood", "saffron", "rum", "smoked wood", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/passion-bliss-eau-de-parfum-100-ml", "name": "Alexandre.J - Passion Bliss 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Rose Alba",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["plum", "peach skin", "bergamot"], "heart": ["rose", "black pepper"], "base": ["sandalwood", "vanilla", "white musk", "modern wood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/rose-alba-eau-de-parfum-100-ml", "name": "Alexandre.J - Rose Alba 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Iris Violet",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["exotic fruits", "italian bergamot", "apple"], "heart": ["rose", "jasmine", "iris"], "base": ["cashmeran", "virginian cedar", "white musk", "olibanum", "patchouli", "benzoin", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/iris-violet-eau-de-parfum-100-ml", "name": "Alexandre.J - Iris Violet 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Zafeer Oud Vanille",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["leather", "coconut", "caramel"], "heart": ["clove", "tonka bean", "white woods", "ylang ylang"], "base": ["musk", "oud", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/zafeer-oud-vanille-eau-de-parfum-100-ml", "name": "Alexandre.J - Zafeer Oud Vanille 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Rose Oud",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "raspberry", "caramel", "apple"], "heart": ["rose", "patchouli", "saffron", "white wood"], "base": ["musk", "amber", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/rose-oud-eau-de-parfum-100-ml", "name": "Alexandre.J - Rose Oud 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Mandarine Sultane",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "bergamot", "citron"], "heart": ["almond peach", "orange blossom", "neroli", "jasmine"], "base": ["rum", "sandalwood", "saffron", "cashmeran", "powdery musk", "amber wood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/mandarine-sultane-eau-de-parfum-100-ml", "name": "Alexandre.J - Mandarine Sultane 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Silver Ombre",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "pear"], "heart": ["rose", "olibanum", "sandalwood", "clove bud"], "base": ["modern musk", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/silver-ombre-eau-de-parfum-100-ml", "name": "Alexandre.J - Silver Ombre 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Golden Oud",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["aromatic notes"], "heart": ["vetiver", "white wood", "sandalwood", "violet", "patchouli"], "base": ["musk", "oud", "moss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/golden-oud-eau-de-parfum-100-ml", "name": "Alexandre.J - Golden Oud 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Altesse Mysore",
+      "collection": "The Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink berries", "elemi", "ambroxan"], "heart": ["plum", "bulgarian rose", "jasmine"], "base": ["virginia cedar", "benzoin", "patchouli", "vanilla", "white musk", "amber wood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/altesse-mysore-eau-de-parfum-100-ml", "name": "Alexandre.J - Altesse Mysore 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "The Majestic Jardin",
+      "collection": "The Art Deco Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["almond", "bitter notes"], "heart": ["cherry flower", "cherry", "black pepper"], "base": ["vanilla", "virginia cedar", "patchouli", "narghile"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/the-majestic-jardin-eau-de-parfum-100-ml", "name": "Alexandre.J - The Majestic Jardin 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "The Majestic Oud",
+      "collection": "The Art Deco Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lemon", "blackcurrant", "raspberry", "apple", "melon"], "heart": ["sage", "patchouli"], "base": ["amber", "musk", "oud"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/the-majestic-oud-eau-de-parfum-100-ml", "name": "Alexandre.J - The Majestic Oud 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "The Majestic Vetiver",
+      "collection": "The Art Deco Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["basil", "cardamom", "grapefruit"], "heart": ["coriander", "liatris"], "base": ["oud wood", "vetiver", "suede", "labdanum"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/the-majestic-vetiver-eau-de-parfum-100-ml", "name": "Alexandre.J - The Majestic Vetiver 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "The Majestic Vanilla",
+      "collection": "The Art Deco Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cinnamon", "bergamot", "mandarin"], "heart": ["galbanum", "tonka bean", "peach"], "base": ["musk", "labdanum", "patchouli", "vanilla", "amber wood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/the-majestic-vanilla-eau-de-parfum-100-ml", "name": "Alexandre.J - The Majestic Vanilla 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "The Majestic Musk",
+      "collection": "The Art Deco Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink peppercorn", "bergamot"], "heart": ["juniper", "elemi", "heliotrope"], "base": ["iris", "sandalwood", "tonka bean", "suede"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/the-majestic-musk-eau-de-parfum-100-ml", "name": "Alexandre.J - The Majestic Musk 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "The Majestic Amber",
+      "collection": "The Art Deco Collector",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2020,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["grapefruit", "peach"], "heart": ["rose", "davana", "tonka bean"], "base": ["amber", "vanilla", "ambroxan", "patchouli", "toffee"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.alexandre-j.com/products/the-majestic-amber-eau-de-parfum-100-ml", "name": "Alexandre.J - The Majestic Amber 100 ml", "type": "official", "supports": ["notes", "concentration", "year"] }
+      ]
+    }
+  ]
+}
