@@ -1,0 +1,825 @@
+{
+  "brand": "Prada",
+  "slug": "prada",
+  "officialSite": "https://www.prada.com/ie/en/men/fragrances.html",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official prada.com fragrance pages returned HTTP 503 (blocked). Range taken from the scento.com Prada brand listing; every notes entry is reported from scento.com product pages. Some concentrations come from product image alt text on those pages. Not all listed products were fetched; the main lines and most flankers are covered.",
+  "fragrances": [
+    {
+      "name": "Luna Rossa Black",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2018,
+      "perfumer": "Daniela Andrier",
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "angelica",
+          "patchouli"
+        ],
+        "base": [
+          "coumarin",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/luna-rossa-black-eau-de-parfum-prada",
+          "name": "Scento — Luna Rossa Black",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Luna Rossa Ocean",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit"
+        ],
+        "heart": [
+          "woody notes",
+          "frankincense"
+        ],
+        "base": [
+          "vanilla",
+          "amber xtreme"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/luna-rossa-ocean-eau-de-parfum-prada",
+          "name": "Scento — Luna Rossa Ocean",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Luna Rossa Carbon",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2017,
+      "perfumer": "Daniela Andrier",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pepper"
+        ],
+        "heart": [
+          "lavender",
+          "metallic note",
+          "watery note",
+          "coal"
+        ],
+        "base": [
+          "ambroxan",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/luna-rossa-carbon-prada",
+          "name": "Scento — Luna Rossa Carbon",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Luna Rossa Sport",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2015,
+      "perfumer": "Daniela Andrier",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "juniper berry"
+        ],
+        "heart": [
+          "lavender"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/luna-rossa-sport-prada",
+          "name": "Scento — Luna Rossa Sport",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paradoxe",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pear",
+          "tangerine"
+        ],
+        "heart": [
+          "jasmine sambac",
+          "neroli",
+          "neroli essence",
+          "orange blossom"
+        ],
+        "base": [
+          "amber",
+          "benzoin",
+          "bourbon vanilla",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-paradoxe-prada",
+          "name": "Scento — Paradoxe",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paradoxe Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": "White Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "neroli",
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine",
+          "moss",
+          "neroli essence"
+        ],
+        "base": [
+          "amber",
+          "serenolide",
+          "bourbon vanilla",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-paradoxe-intense-prada",
+          "name": "Scento — Paradoxe Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paradoxe Virtual Flower",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine",
+          "neroli"
+        ],
+        "base": [
+          "musk",
+          "ambrette"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-paradoxe-virtual-flower-prada",
+          "name": "Scento — Paradoxe Virtual Flower",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paradoxe Sweet Chemistry",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Nadege Le Garlantezec, Shyamala Maisondieu, Antoine Maisondieu",
+      "family": "Floral Fruity Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant syrup",
+          "orange blossom"
+        ],
+        "heart": [
+          "vanilla"
+        ],
+        "base": [
+          "neroli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-paradoxe-sweet-chemistry-prada",
+          "name": "Scento — Paradoxe Sweet Chemistry",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paradigme",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2025,
+      "perfumer": "Marie Salamagne, Bruno Jovanovic, Nicolas Bonneville",
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "calabrian bergamot",
+          "musk"
+        ],
+        "heart": [
+          "bourbon geranium",
+          "rose geranium"
+        ],
+        "base": [
+          "benzoin",
+          "peru balsam",
+          "guaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/paradigme-prada",
+          "name": "Scento — Paradigme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Femme",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2016,
+      "perfumer": "Daniela Andrier",
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "magnolia",
+          "bergamot",
+          "carrot seed"
+        ],
+        "heart": [
+          "frangipani",
+          "tuberose",
+          "ylang-ylang",
+          "iris"
+        ],
+        "base": [
+          "beeswax",
+          "vanilla",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-la-femme-prada",
+          "name": "Scento — La Femme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Femme L'Eau",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2017,
+      "perfumer": "Daniela Andrier",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "frangipani",
+          "mandarin orange"
+        ],
+        "heart": [
+          "tuberose",
+          "ylang-ylang"
+        ],
+        "base": [
+          "woody note"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-la-femme-leau-prada",
+          "name": "Scento — La Femme L'Eau",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Homme",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2016,
+      "perfumer": "Daniela Andrier",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "cardamom",
+          "carrot seed",
+          "neroli"
+        ],
+        "heart": [
+          "iris",
+          "violet",
+          "geranium",
+          "mate"
+        ],
+        "base": [
+          "amber",
+          "cedar",
+          "patchouli",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-lhomme-prada",
+          "name": "Scento — L'Homme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Homme Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2017,
+      "perfumer": null,
+      "family": "Powdery Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "iris"
+        ],
+        "heart": [
+          "amber",
+          "patchouli"
+        ],
+        "base": [
+          "tonka bean",
+          "leather",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-lhomme-intense-prada",
+          "name": "Scento — L'Homme Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Homme L'Eau",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2017,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "neroli",
+          "ginger"
+        ],
+        "heart": [
+          "iris",
+          "amber"
+        ],
+        "base": [
+          "powdery note",
+          "sandalwood",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-lhomme-leau-prada",
+          "name": "Scento — L'Homme L'Eau",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Candy",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2011,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "caramel"
+        ],
+        "heart": [
+          "powdery note",
+          "musk"
+        ],
+        "base": [
+          "benzoin",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/prada-candy-prada",
+          "name": "Scento — Candy",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Candy Kiss",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Skin Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "musk"
+        ],
+        "heart": [
+          "musk",
+          "orange blossom"
+        ],
+        "base": [
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfume-database/perfumes/prada-candy-kiss",
+          "name": "Scento — Candy Kiss",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Olfactories Cargo de Nuit",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Wood & Root",
+      "accords": [],
+      "notes": {
+        "top": [
+          "musk",
+          "aldehyde"
+        ],
+        "heart": [
+          "woody note",
+          "mineral accord"
+        ],
+        "base": [
+          "coumarin",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfume-database/perfumes/prada-olfactories-cargo-de-nuit",
+          "name": "Scento — Olfactories Cargo de Nuit",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Olfactories Nue Au Soleil",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "White Bloom",
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange blossom"
+        ],
+        "heart": [
+          "neroli"
+        ],
+        "base": [
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfume-database/perfumes/prada-olfactories-nue-au-soleil",
+          "name": "Scento — Olfactories Nue Au Soleil",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Olfactories Purple Rain",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "White Bloom",
+      "accords": [],
+      "notes": {
+        "top": [
+          "iris"
+        ],
+        "heart": [
+          "orange blossom"
+        ],
+        "base": [
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfume-database/perfumes/prada-olfactories-purple-rain",
+          "name": "Scento — Olfactories Purple Rain",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infusion de Vétiver",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spice Route",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "ginger",
+          "cardamom"
+        ],
+        "base": [
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfume-database/perfumes/prada-infusion-de-vetiver",
+          "name": "Scento — Infusion de Vétiver",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infusion d'Iris",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2015,
+      "perfumer": "Daniela Andrier",
+      "family": "Powdery Woody Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [
+          "iris",
+          "tunisian neroli",
+          "cedar",
+          "italian mandarin"
+        ],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/infusion-diris-prada",
+          "name": "Scento — Infusion d'Iris",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

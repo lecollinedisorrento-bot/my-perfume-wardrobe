@@ -1,0 +1,592 @@
+{
+  "brand": "Lancôme",
+  "slug": "lancome",
+  "officialSite": "https://www.lancome.ie/perfume/women-s-perfume/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official lancome.ie, lancome.com.au and lancome.com.sg pages returned HTTP 403 or were not retrieved (blocked). Range taken from the scento.com Lancôme brand listing; all notes are reported from scento.com product pages. Some concentrations come from product image alt text on those pages. Men's and other non-listed lines were not checked; the list covers the women's range shown on the brand listing.",
+  "fragrances": [
+    {
+      "name": "La Vie Est Belle",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2012,
+      "perfumer": "Olivier Polge, Dominique Ropion, Anne Flipo",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black currant",
+          "pear"
+        ],
+        "heart": [
+          "iris",
+          "jasmine",
+          "orange blossom"
+        ],
+        "base": [
+          "vanilla",
+          "praline",
+          "patchouli",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/la-vie-est-belle-lancome",
+          "name": "Scento — La Vie Est Belle",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Vie Est Belle L'Eau de Parfum Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": 2015,
+      "perfumer": "Dominique Ropion, Anne Flipo",
+      "family": "Sweet Floral Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "pink pepper",
+          "currant bud",
+          "orange"
+        ],
+        "heart": [
+          "iris",
+          "tuberose",
+          "ylang-ylang",
+          "orange blossom"
+        ],
+        "base": [
+          "whipped cream",
+          "hazelnut"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/la-vie-est-belle-leau-de-parfum-intense-lancome",
+          "name": "Scento — La Vie Est Belle L'Eau de Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Vie Est Belle L'Elixir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": "Antoine Maisondieu, Christophe Raynaud",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "raspberry",
+          "liquor",
+          "calabrian bergamot"
+        ],
+        "heart": [
+          "violet leaf",
+          "rose"
+        ],
+        "base": [
+          "leather",
+          "cacao butter",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/la-vie-est-belle-lelixir-lancome",
+          "name": "Scento — La Vie Est Belle L'Elixir",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Vie Est Belle L'Elixir Very Cherry",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Anne Flipo, Dominique Ropion",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black cherry",
+          "cherry liqueur",
+          "pink pepper"
+        ],
+        "heart": [
+          "violet leaf",
+          "iris",
+          "jasmine sambac",
+          "damask rose"
+        ],
+        "base": [
+          "oud",
+          "vanilla",
+          "cocoa",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/la-vie-est-belle-lelixir-very-cherry-lancome",
+          "name": "Scento — La Vie Est Belle L'Elixir Very Cherry",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Vie Est Belle Vanille Nude",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": "Anne Flipo, Dominique Ropion",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "solar note",
+          "jasmine"
+        ],
+        "heart": [
+          "bourbon vanilla"
+        ],
+        "base": [
+          "white musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/la-vie-est-belle-vanille-nude-lancome",
+          "name": "Scento — La Vie Est Belle Vanille Nude",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Idôle",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2019,
+      "perfumer": "Shyamala Maisondieu, Adriana Medina-Baez, Nadege Le Garlantezec, Sonia Constant",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "white musk",
+          "vanilla",
+          "patchouli",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/idole-lancome",
+          "name": "Scento — Idôle",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Idôle Nectar",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grasse rose",
+          "rose",
+          "turkish rose"
+        ],
+        "heart": [
+          "caramel",
+          "popcorn"
+        ],
+        "base": [
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/idole-nectar-lancome",
+          "name": "Scento — Idôle Nectar",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Idôle Now",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2023,
+      "perfumer": "Shyamala Maisondieu",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose"
+        ],
+        "heart": [
+          "orchid"
+        ],
+        "base": [
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/idole-now-lancome",
+          "name": "Scento — Idôle Now",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Idôle Power",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple"
+        ],
+        "heart": [
+          "may rose"
+        ],
+        "base": [
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/idole-power-lancome",
+          "name": "Scento — Idôle Power",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Nuit Trésor",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2015,
+      "perfumer": "Christophe Raynaud, Amandine Clerc-Marie",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "tangerine",
+          "bergamot"
+        ],
+        "heart": [
+          "passionfruit",
+          "strawberry",
+          "vanilla orchid",
+          "black rose"
+        ],
+        "base": [
+          "praline",
+          "caramel",
+          "litchi",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/la-nuit-tresor-lancome",
+          "name": "Scento — La Nuit Trésor",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miracle",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2000,
+      "perfumer": null,
+      "family": "Fruity Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "litchi",
+          "freesia"
+        ],
+        "heart": [
+          "pepper",
+          "ginger",
+          "magnolia",
+          "mandarin orange"
+        ],
+        "base": [
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/miracle-lancome",
+          "name": "Scento — Miracle",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trésor",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1990,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach",
+          "rose",
+          "apricot blossom",
+          "lilac"
+        ],
+        "heart": [
+          "iris",
+          "heliotrope",
+          "jasmine"
+        ],
+        "base": [
+          "apricot",
+          "vanilla",
+          "sandalwood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/tresor-lancome",
+          "name": "Scento — Trésor",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poème",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 1995,
+      "perfumer": "Jacques Cavallier",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "black currant",
+          "peach",
+          "plum",
+          "mandarin orange",
+          "narcissus",
+          "datura",
+          "himalayan poppy",
+          "green note"
+        ],
+        "heart": [
+          "jasmine",
+          "tuberose",
+          "rose",
+          "orange blossom",
+          "ylang-ylang",
+          "freesia",
+          "mimosa",
+          "heliotrope",
+          "vanilla flower",
+          "leather"
+        ],
+        "base": [
+          "amber",
+          "cedar",
+          "musk",
+          "tonka bean",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/poeme-lancome",
+          "name": "Scento — Poème",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ô de Lancôme",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1969,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "bergamot",
+          "honeysuckle",
+          "mandarin orange"
+        ],
+        "heart": [
+          "basil",
+          "rosemary",
+          "coriander",
+          "jasmine"
+        ],
+        "base": [
+          "oakmoss",
+          "vetiver",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/o-de-lancome-lancome",
+          "name": "Scento — Ô de Lancôme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "brand": "Giorgio Armani",
+  "slug": "giorgio-armani",
+  "officialSite": "https://www.giorgioarmanibeauty-usa.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Armani Beauty sites (giorgioarmanibeauty-usa.com, armanibeauty.co.uk, armani-beauty.ca) returned HTTP 403 to WebFetch, so Armani/Prive names come from WebSearch results only. Fragrantica, Parfumo and most retailers also returned 403 or 404 to WebFetch, so their facts come from WebSearch snippets. Wikipedia pages were fetched directly and are used as publication sources. Concentration is conflicting for Iris Bleu (Harrods and Armani listings say Eau de Toilette; Perfumestars says Eau de Parfum) and for Acqua di Gio Profumo (retailers say EDP or Parfum), so those are left as recorded in the sources cited. Only a partial range was covered: Acqua di Gio and its Profumo flanker, Armani Code and Code Absolu, Si and Si Eau de Parfum Intense, and a set of Armani/Prive Les Eaux and Cuir Nu names. Other Armani/Prive collections and the main Armani lines were not covered. Armani Privé Rose d'Arabie was left out because its collection assignment could not be tied to a page that was read.",
+  "fragrances": [
+    {
+      "name": "Acqua di Giò",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1996,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": ["calabrian bergamot", "neroli", "citrus", "rosemary"]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/Acqua_di_Gio", "name": "Wikipedia: Acqua di Gio", "type": "publication", "supports": ["notes", "concentration", "year"] }
+      ]
+    },
+    {
+      "name": "Acqua di Giò Profumo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2015,
+      "perfumer": "Alberto Morillas",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["sea notes", "bergamot"],
+        "heart": ["rosemary", "sage", "geranium"],
+        "base": ["incense", "patchouli"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Profumo-29727.html", "name": "Fragrantica: Acqua di Gio Profumo", "type": "database", "supports": ["year", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Armani Code",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2004,
+      "perfumer": "Antoine Lie",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["lemon", "bergamot"],
+        "heart": ["star anise", "olive blossom", "guaiac wood"],
+        "base": ["leather", "tonka bean", "tobacco"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/Armani_Code", "name": "Wikipedia: Armani Code", "type": "publication", "supports": ["notes", "year", "perfumer"] },
+        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-412.html", "name": "Fragrantica: Armani Code", "type": "database", "supports": ["year"] }
+      ]
+    },
+    {
+      "name": "Armani Code Absolu",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2019,
+      "perfumer": "Antoine Maisondieu",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/Armani_Code", "name": "Wikipedia: Armani Code", "type": "publication", "supports": ["perfumer"] },
+        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-Absolu-53106.html", "name": "Fragrantica: Armani Code Absolu", "type": "database", "supports": ["year"] },
+        { "url": "https://www.fragranceoutlet.com/products/armani-code-absolu-by-giorgio-armani-for-women-edp-spray", "name": "Fragrance Outlet: Armani Code Absolu EDP", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Sì",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2013,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["cassis"],
+        "heart": ["may rose", "freesia"],
+        "base": ["vanilla", "patchouli", "woody notes", "ambroxan"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-18453.html", "name": "Fragrantica: Si", "type": "database", "supports": ["year", "notes"] },
+        { "url": "https://www.giorgioarmanibeauty.com.au/fragrances/womens-fragrances/si-perfume-for-her/si-eau-de-parfum/ww-00380-arm.html", "name": "Armani Beauty AU: Si Eau De Parfum", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Sì Eau de Parfum Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["black currant"],
+        "heart": ["may rose", "davana"],
+        "base": ["bourbon vanilla", "vanilla", "black tea"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-Eau-de-Parfum-Intense-83977.html", "name": "Fragrantica: Si Eau de Parfum Intense", "type": "database", "supports": ["year", "concentration", "notes"] }
+      ]
+    },
+    {
+      "name": "Iris Bleu",
+      "collection": "Armani/Privé Les Eaux",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": "Fresh Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": ["jasmine grandiflorum", "orris butter", "white musks"]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/armani-prive/armani-prive-iris-bleu/ww-00918-arm.html", "name": "Armani Beauty US: Armani/Privé Iris Bleu", "type": "official", "supports": ["notes", "family"] },
+        { "url": "https://www.harrods.com/en-us/p/armani-prive-iris-bleu-eau-de-toilette-100ml-000000000007779047", "name": "Harrods: Armani Privé Iris Bleu Eau de Toilette 100ml", "type": "retailer", "supports": ["concentration"] },
+        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Iris-Bleu-103559.html", "name": "Fragrantica: Iris Bleu", "type": "database", "supports": ["year"] }
+      ]
+    },
+    {
+      "name": "Cuir Nu",
+      "collection": "Armani/Privé",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": ["leather accord", "smoky coffee", "rose damascena"]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/armani-prive/fragrances/", "name": "Armani Beauty US: Armani/Privé Fragrances", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Santal Dan Sha",
+      "collection": "Armani/Privé Les Eaux",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.armanibeauty.be/armani-prive/les-eaux/", "name": "Armani Beauty BE: Armani Privé Les Eaux", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Pivoine Suzhou",
+      "collection": "Armani/Privé Les Eaux",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.armanibeauty.be/armani-prive/les-eaux/", "name": "Armani Beauty BE: Armani Privé Les Eaux", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Cedre Olympe",
+      "collection": "Armani/Privé Les Eaux",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/designers/Giorgio-Armani.html", "name": "Fragrantica: Giorgio Armani perfumes", "type": "database", "supports": [] }
+      ]
+    },
+    {
+      "name": "Gardénia Antigua",
+      "collection": "Armani/Privé Les Eaux",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/designers/Giorgio-Armani.html", "name": "Fragrantica: Giorgio Armani perfumes", "type": "database", "supports": [] }
+      ]
+    }
+  ]
+}

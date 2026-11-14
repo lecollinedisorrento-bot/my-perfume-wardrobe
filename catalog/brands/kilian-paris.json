@@ -1,0 +1,311 @@
+{
+  "brand": "Kilian Paris",
+  "slug": "kilian-paris",
+  "officialSite": "https://bykilian.fr/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site (bykilian.fr) returned HTTP 403 to every fetch, including products.json, so no official product page could be read. The range comes from an authorised retailer's Kilian Paris listing (lesecretdumarais.com, 56 items, 20 perfumes taken; hair mists, discovery sets excluded). Notes are therefore all 'reported'. Scento's A-Z index (scento.com/brand/by-kilian, 27 names) was also opened and lists further names (e.g. Back to Black, Dark Lord, Fievre Verte, Intoxicated) that were not added because their product pages were not read. Concentration, year and perfumer are null unless the retailer page states them. Brand-level country not stated on any page read.",
+  "fragrances": [
+    {
+      "name": "Midnight Espresso",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/midnight-espresso.html", "name": "Le Secret du Marais - Kilian Paris Midnight Espresso", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Piña Paraíso",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mathieu Nardin",
+      "family": "Floral Fruity",
+      "accords": [],
+      "notes": { "top": ["pineapple", "rum"], "heart": ["coconut", "frangipani"], "base": ["bourbon vanilla", "tonka bean"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/pina-paraiso.html", "name": "Le Secret du Marais - Kilian Paris Piña Paraiso", "type": "retailer", "supports": ["notes", "concentration", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Sparkling Royal",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Calice Becker",
+      "family": "Floral Fruity",
+      "accords": [],
+      "notes": { "top": ["mint", "lemon"], "heart": ["blackcurrant", "rose"], "base": ["musk", "tonka bean"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/sparkling-royal.html", "name": "Le Secret du Marais - Kilian Paris Sparkling Royal", "type": "retailer", "supports": ["notes", "concentration", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Vodka on the Rocks",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Sidonie Lancesseur",
+      "family": "Woody Floral",
+      "accords": [],
+      "notes": { "top": ["aldehyde", "cardamom", "coriander"], "heart": ["lily of the valley", "rhubarb", "rose"], "base": ["ambrox", "leather", "oakmoss", "sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/vodka-on-the-rocks.html", "name": "Le Secret du Marais - Kilian Paris Vodka on the Rocks", "type": "retailer", "supports": ["notes", "concentration", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Angels' Share On The Rocks",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "grapefruit", "aldehyde", "cognac", "myrrh", "tonka bean"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/angels-share-on-the-rocks.html", "name": "Le Secret du Marais - Kilian Paris Angels' Share On The Rocks", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Good Girl Gone Bad",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["jasmine sambac", "osmanthus", "rose", "tuberose", "narcissus", "cedar", "amber"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/good-girl-gone-bad-.html", "name": "Le Secret du Marais - Kilian Paris Good Girl Gone Bad", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Black Phantom",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Sidonie Lancesseur",
+      "family": "Woody Gourmand",
+      "accords": [],
+      "notes": { "top": ["rum", "cyanide accord"], "heart": ["vetiver", "coffee"], "base": ["sugar cane accord", "sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/black-phantom.html", "name": "Le Secret du Marais - Kilian Paris Black Phantom", "type": "retailer", "supports": ["notes", "concentration", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Angels' Share Paradis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["raspberry liquor", "bulgarian rose", "praline accord", "tonka bean"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/angels-share-paradis-.html", "name": "Le Secret du Marais - Kilian Paris Angels' Share Paradis", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Love, Don't Be Shy",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["neroli", "sambac jasmine", "turkish rose", "iris", "vanilla", "musk"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/love-don-t-be-shy.html", "name": "Le Secret du Marais - Kilian Paris Love, Don't Be Shy", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Angels' Share",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Benoit Lapouza",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/angels-share.html", "name": "Le Secret du Marais - Kilian Paris Angels' Share", "type": "retailer", "supports": ["perfumer"] }
+      ]
+    },
+    {
+      "name": "Old Fashioned",
+      "collection": "The Liquors",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Sidonie Lancesseur",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["wheat absolute", "davana"], "heart": ["cedarwood", "everlasting absolute"], "base": ["styrax", "tolu balm"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/old-fashioned.html", "name": "Le Secret du Marais - Kilian Paris Old Fashioned", "type": "retailer", "supports": ["notes", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Apple Brandy On The Rocks",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Sidonie Lancesseur",
+      "family": "Liquors",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "apple brandy", "cardamom"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/apple-brandy-on-the-rocks.html", "name": "Le Secret du Marais - Kilian Paris Apple Brandy On The Rocks", "type": "retailer", "supports": ["notes", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Smoking Hot",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/smoking-hot.html", "name": "Le Secret du Marais - Kilian Paris Smoking Hot", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Her Majesty",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Caroline Dumur",
+      "family": "Chypre Fruity",
+      "accords": [],
+      "notes": { "top": ["white peach", "rum"], "heart": ["ambrette seed", "rose absolute"], "base": ["papyrus", "cedarwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/her-majesty.html", "name": "Le Secret du Marais - Kilian Paris Her Majesty", "type": "retailer", "supports": ["notes", "concentration", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Princess Eau Fraîche",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "green tea", "marshmallow", "monoi"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/princess-eau-fraiche.html", "name": "Le Secret du Marais - Kilian Paris Princess Eau Fraiche", "type": "retailer", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Imperial Tea",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Calice Becker",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/imperial-tea.html", "name": "Le Secret du Marais - Kilian Paris Imperial Tea", "type": "retailer", "supports": ["perfumer"] }
+      ]
+    },
+    {
+      "name": "Born To Be Unforgettable",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Alberto Morillas",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cola accord", "cinnamon", "cedarwood"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/born-to-be-unforgettable.html", "name": "Le Secret du Marais - Kilian Paris Born To Be Unforgettable", "type": "retailer", "supports": ["notes", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Princess",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/princess.html", "name": "Le Secret du Marais - Kilian Paris Princess", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Love, Don't Be Shy Eau Fraîche",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["neroli", "petit grain", "marshmallow"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/love-don-t-be-shy-eau-fraiche.html", "name": "Le Secret du Marais - Kilian Paris Love, Don't Be Shy Eau Fraiche", "type": "retailer", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Can't Stop Loving You",
+      "collection": "Narcotics",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["orange blossom"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lesecretdumarais.com/en/kilian-paris/can-t-stop-loving-you.html", "name": "Le Secret du Marais - Kilian Paris Can't Stop Loving You", "type": "retailer", "supports": ["notes"] }
+      ]
+    }
+  ]
+}

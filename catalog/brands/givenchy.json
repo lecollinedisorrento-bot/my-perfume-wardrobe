@@ -1,0 +1,669 @@
+{
+  "brand": "Givenchy",
+  "slug": "givenchy",
+  "officialSite": "https://www.givenchybeauty.com/us/fragrance",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official givenchybeauty.com fragrance pages returned HTTP 403 (blocked) for every regional URL tried. Range taken from the scento.com Givenchy brand listing; all notes are reported from scento.com product pages. Some concentrations are taken from the product name on those pages. Main lines (L'Interdit, Gentleman, Irresistible, Organza, Pi, Ange ou Demon) covered; the wider archive (e.g. Ysatis) was not checked and is not included.",
+  "fragrances": [
+    {
+      "name": "Irresistible",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2020,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "ambrette"
+        ],
+        "heart": [
+          "rose",
+          "iris"
+        ],
+        "base": [
+          "musk",
+          "virginia cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/irresistible-givenchy-givenchy",
+          "name": "Scento — Irresistible",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Very Irresistible",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2012,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "verbena",
+          "star anise"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/very-irresistible-givenchy",
+          "name": "Scento — Very Irresistible",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ange ou Démon",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2006,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin orange",
+          "saffron",
+          "thyme"
+        ],
+        "heart": [
+          "lily",
+          "orchid",
+          "ylang-ylang"
+        ],
+        "base": [
+          "brazilian rosewood",
+          "oakmoss",
+          "vanilla",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/ange-ou-demon-givenchy",
+          "name": "Scento — Ange ou Démon",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Organza",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1996,
+      "perfumer": "Sophie Labbé",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "nutmeg",
+          "gardenia",
+          "african orange flower",
+          "green note"
+        ],
+        "heart": [
+          "tuberose",
+          "jasmine",
+          "honeysuckle",
+          "iris"
+        ],
+        "base": [
+          "vanilla",
+          "amber",
+          "woodsy note",
+          "guaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/organza-givenchy",
+          "name": "Scento — Organza",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pi",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1998,
+      "perfumer": "Alberto Morillas",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin orange",
+          "tarragon",
+          "rosemary",
+          "basil"
+        ],
+        "heart": [
+          "anise",
+          "neroli",
+          "geranium",
+          "lily-of-the-valley"
+        ],
+        "base": [
+          "vanilla",
+          "almond",
+          "tonka bean",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/pi-givenchy",
+          "name": "Scento — Pi",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Interdit Eau de Toilette",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2019,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange blossom",
+          "bergamot",
+          "orange",
+          "mandarin"
+        ],
+        "heart": [
+          "jasmine",
+          "tuberose"
+        ],
+        "base": [
+          "musk",
+          "vetiver",
+          "patchouli",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/l-interdit-eau-de-toilette-givenchy",
+          "name": "Scento — L'Interdit Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Interdit Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2018,
+      "perfumer": "Dominique Ropion, Anne Flipo, Fanny Bal",
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "bergamot"
+        ],
+        "heart": [
+          "tuberose",
+          "orange blossom",
+          "jasmine sambac"
+        ],
+        "base": [
+          "ambroxan",
+          "vetiver",
+          "vanilla",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/linterdit-eau-de-parfum-givenchy",
+          "name": "Scento — L'Interdit Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Interdit Eau de Parfum Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": 2020,
+      "perfumer": "Dominique Ropion, Anne Flipo, Fanny Bal",
+      "family": "White Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper"
+        ],
+        "heart": [
+          "tuberose",
+          "sesame",
+          "orange blossom"
+        ],
+        "base": [
+          "madagascar vanilla",
+          "vetiver",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/linterdit-eau-de-parfum-intense-givenchy",
+          "name": "Scento — L'Interdit Eau de Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Interdit Eau de Parfum Rouge",
+      "collection": null,
+      "concentration": "Eau de Parfum Rouge",
+      "releaseYear": 2021,
+      "perfumer": "Dominique Ropion, Anne Flipo, Fanny Bal",
+      "family": "White Floral Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blood orange",
+          "ginger"
+        ],
+        "heart": [
+          "tuberose",
+          "jasmine",
+          "pimento leaf"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/linterdit-eau-de-parfum-rouge-givenchy",
+          "name": "Scento — L'Interdit Eau de Parfum Rouge",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Interdit Absolu",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "neroli",
+          "guatemalan cardamom"
+        ],
+        "heart": [
+          "indian tuberose",
+          "jasmine sambac",
+          "orange blossom"
+        ],
+        "base": [
+          "tobacco",
+          "rum",
+          "patchouli",
+          "haitian vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/linterdit-absolu-givenchy",
+          "name": "Scento — L'Interdit Absolu",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Interdit Élixir",
+      "collection": null,
+      "concentration": "Élixir",
+      "releaseYear": 2026,
+      "perfumer": "Anne Flipo, Dominique Ropion, Meabh McCurtin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black cherry"
+        ],
+        "heart": [
+          "rum"
+        ],
+        "base": [
+          "oak",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/linterdit-elixir-givenchy",
+          "name": "Scento — L'Interdit Élixir",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gentleman Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2018,
+      "perfumer": "Olivier Cresp, Nathalie Lorson",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "lavender",
+          "bergamot"
+        ],
+        "heart": [
+          "orris",
+          "clove",
+          "cinnamon"
+        ],
+        "base": [
+          "black vanilla husk",
+          "tolu balsam",
+          "tonka bean",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/gentleman-eau-de-parfum-givenchy",
+          "name": "Scento — Gentleman Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gentleman Eau de Parfum Boisée",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2020,
+      "perfumer": "Olivier Cresp, Nathalie Lorson",
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "geranium",
+          "coriander",
+          "black pepper"
+        ],
+        "heart": [
+          "iris",
+          "cacao pod",
+          "cedar"
+        ],
+        "base": [
+          "woodsy note",
+          "patchouli",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/gentleman-eau-de-parfum-boisee-givenchy",
+          "name": "Scento — Gentleman Eau de Parfum Boisée",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gentleman Eau de Parfum Réserve Privée",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": "Nathalie Lorson, Olivier Cresp",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "iris",
+          "chestnut"
+        ],
+        "base": [
+          "whiskey",
+          "woodsy note",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/gentleman-eau-de-parfum-reserve-privee-givenchy",
+          "name": "Scento — Gentleman Eau de Parfum Réserve Privée",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gentleman Society",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2023,
+      "perfumer": "Maïa Lernout",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sage",
+          "cardamom"
+        ],
+        "heart": [
+          "haitian vetiver",
+          "french narcissus",
+          "madagascar vetiver"
+        ],
+        "base": [
+          "vanilla",
+          "cedar",
+          "palo santo"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/gentleman-society-givenchy",
+          "name": "Scento — Gentleman Society",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gentleman Society Eau de Parfum Ambrée",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "clary sage",
+          "juniper berry",
+          "nutmeg"
+        ],
+        "heart": [
+          "narcissus",
+          "madagascar vetiver",
+          "haitian vetiver",
+          "orris"
+        ],
+        "base": [
+          "tobacco",
+          "madagascar vanilla",
+          "peru balsam"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/gentleman-society-eau-de-parfum-ambree-givenchy",
+          "name": "Scento — Gentleman Society Eau de Parfum Ambrée",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
+      ]
+    }
+  ]
+}

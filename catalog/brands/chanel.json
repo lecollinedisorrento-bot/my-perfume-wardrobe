@@ -1,0 +1,211 @@
+{
+  "brand": "Chanel",
+  "slug": "chanel",
+  "officialSite": "https://www.chanel.com/us/fragrance/p/122160/1957-les-exclusifs-de-chanel-eau-de-parfum/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Chanel pages (chanel.com) returned HTTP 403 to WebFetch, so no notes are marked official. Notes come from John Lewis, ScentGrail, Jadof and Vivir pages that were opened. Vivir's Les Exclusifs page names Coromandel, Sycomore and Cuir de Russie but gives no notes or dates for them. Parfumo and Fragantica returned 403. Brand country not stated on any opened page, so left null. Only a selection of the range is covered; Bleu de Chanel, N°19, Gabrielle and other current lines were not reached.",
+  "fragrances": [
+    {
+      "name": "1957",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2019,
+      "perfumer": null,
+      "family": "Floral Woody",
+      "accords": ["white musk"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "iris", "neroli", "cedar", "honey"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.johnlewis.com/chanel-1957-les-exclusifs-de-chanel-eau-de-parfum/p3995169", "name": "John Lewis - Chanel 1957 Eau de Parfum", "type": "retailer", "supports": ["notes", "accords", "family", "year", "concentration"] }
+      ]
+    },
+    {
+      "name": "No 5",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1921,
+      "perfumer": "Ernest Beaux",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["aldehydes", "neroli", "lemon", "ylang-ylang", "bergamot"],
+        "heart": ["jasmine", "iris", "orris", "rose", "lily of the valley"],
+        "base": ["patchouli", "amber", "musk", "vanilla", "oakmoss", "vetiver", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://scentgrail.com/holy-grail-scents/chanel-no-5-review/", "name": "ScentGrail - Chanel No 5 review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Coco Mademoiselle",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2001,
+      "perfumer": "Jacques Polge",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "orange"],
+        "heart": ["jasmine", "rose", "ylang-ylang"],
+        "base": ["patchouli", "tonka", "vanilla", "white musk", "vetiver"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://jadof.com/en/news/chanel-coco-mademoiselle-review", "name": "Jadof - Chanel Coco Mademoiselle review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Allure Sensuelle",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2005,
+      "perfumer": "Jacques Polge",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "mandarin", "orange", "pink pepper"],
+        "heart": ["iris", "jasmine", "candied fruit", "rose", "vetiver"],
+        "base": ["amber", "patchouli", "vanilla", "frankincense"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://jadof.com/en/news/chanel-allure-sensuelle-review", "name": "Jadof - Chanel Allure Sensuelle review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Chance",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2002,
+      "perfumer": "Jacques Polge",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["patchouli", "pink pepper", "pineapple", "hyacinth", "iris"],
+        "heart": ["lemon", "jasmine", "rose"],
+        "base": ["patchouli", "musk", "vetiver", "vanilla"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/chanel-chance-eau-de-toilette", "name": "Vivir - Chanel Chance", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "1932",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": "Jacques Polge",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["aldehydes", "pear", "grapefruit"],
+        "heart": ["iris", "jasmine"],
+        "base": ["musk", "vetiver", "vanilla", "incense"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/chanel-1932-eau-de-parfum", "name": "Vivir - Chanel 1932 Eau de Parfum", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Platinum Egoiste",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 1993,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["lavender", "rosemary", "neroli", "petitgrain"],
+        "heart": ["geranium", "clary sage", "galbanum", "jasmine"],
+        "base": ["oakmoss", "vetiver", "cedar", "sandalwood", "amber"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/chanel-platinum-ego-ste", "name": "Vivir - Chanel Platinum Egoiste", "type": "publication", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "L'Exclusif",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": 2025,
+      "perfumer": "Olivier Polge",
+      "family": "Woody Amber",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": ["cedar", "guaiac wood"],
+        "base": ["amber", "labdanum", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/chanel-l-exclusif", "name": "Vivir - Chanel L'Exclusif", "type": "publication", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Coromandel",
+      "collection": "Les Exclusifs de Chanel",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/chanel-les-exclusifs-de-chanel", "name": "Vivir - Les Exclusifs de Chanel", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Sycomore",
+      "collection": "Les Exclusifs de Chanel",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/chanel-les-exclusifs-de-chanel", "name": "Vivir - Les Exclusifs de Chanel", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Cuir de Russie",
+      "collection": "Les Exclusifs de Chanel",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/chanel-les-exclusifs-de-chanel", "name": "Vivir - Les Exclusifs de Chanel", "type": "publication", "supports": [] }
+      ]
+    }
+  ]
+}

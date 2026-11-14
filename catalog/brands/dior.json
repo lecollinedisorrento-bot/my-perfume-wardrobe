@@ -1,0 +1,286 @@
+{
+  "brand": "Dior",
+  "slug": "dior",
+  "officialSite": "https://www.dior.com/en_int/beauty/products/sauvage-eau-de-parfum-E000000376.html",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Dior pages (dior.com) returned HTTP 403 to WebFetch, so no notes are marked official. Notes come from ScentGrail, Scento and Vivir pages that were opened. The La Collection Privée list comes from a Vivir page that names the members but gives notes and dates only for Gris Dior. Bois d'Argent and Eden-Roc are in that list but no opened page gave their notes, so they are left empty. Parfumo returned 403. Brand country not stated on any opened page, so left null. Coverage is partial: Addict, Fahrenheit, J'adore and Poison were not reached.",
+  "fragrances": [
+    {
+      "name": "Sauvage",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2018,
+      "perfumer": "Francois Demachy",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["bergamot"],
+        "heart": ["sichuan pepper", "lavender", "nutmeg", "star anise"],
+        "base": ["ambroxan", "vanilla"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://scentgrail.com/holy-grail-scents/dior-sauvage-eau-de-parfum-review/", "name": "ScentGrail - Dior Sauvage Eau de Parfum review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Homme Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2011,
+      "perfumer": "Francois Demachy",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["lavender", "bergamot", "sage"],
+        "heart": ["iris", "pear", "ambrette"],
+        "base": ["vanilla", "amber", "cacao", "virginia cedar", "vetiver", "tonka bean"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://scentgrail.com/holy-grail-scents/dior-homme-intense-review/", "name": "ScentGrail - Dior Homme Intense review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Dior Paradise",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Francis Kurkdjian",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["orange", "mandarin", "lime"],
+        "heart": ["bitter almond", "orgeat syrup"],
+        "base": ["tonka bean"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/blog/dior-paradise-review", "name": "Scento - Dior Paradise review", "type": "retailer", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Rouge Trafalgar",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2020,
+      "perfumer": "Francois Demachy",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["raspberry", "strawberry", "cherry", "mandarin orange"],
+        "heart": ["blackcurrant", "grapefruit"],
+        "base": ["musk", "patchouli"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/blog/dior-rouge-trafalgar-review", "name": "Scento - Dior Rouge Trafalgar review", "type": "retailer", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Miss Dior",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Francis Kurkdjian",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["rose de mai", "rose"],
+        "heart": ["palisander rosewood", "patchouli"],
+        "base": ["vanilla", "tonka bean", "sandalwood", "patchouli"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-miss-dior-eau-de-parfum-2026", "name": "Vivir - Miss Dior Eau de Parfum 2026", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Gris Dior",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2017,
+      "perfumer": "Francois Demachy",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["bergamot"],
+        "heart": ["rose", "patchouli"],
+        "base": ["oakmoss", "cedar", "amber", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/maison-christian-dior-gris-dior", "name": "Vivir - Maison Christian Dior Gris Dior", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Gris Dior Esprit de Parfum",
+      "collection": null,
+      "concentration": "Esprit de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "pink pepper"],
+        "heart": ["jasmine", "rose"],
+        "base": ["cedarwood", "patchouli", "amber", "oakmoss"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-gris-dior-esprit-de-parfum", "name": "Vivir - Dior Gris Dior Esprit de Parfum", "type": "publication", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Ambre Nuit",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Oud Ispahan",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Vanilla Diorama",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Sakura",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Eden-Roc",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Bois d'Argent",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "New Look 1947",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Feve Delicieuse",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+      ]
+    },
+    {
+      "name": "Jardin d'Amalfi",
+      "collection": "La Collection Privee Christian Dior",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+      ]
+    }
+  ]
+}

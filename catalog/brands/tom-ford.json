@@ -1,0 +1,1896 @@
+{
+  "brand": "Tom Ford",
+  "slug": "tom-ford",
+  "officialSite": "https://www.tomfordbeauty.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official tomfordbeauty.com Shopify feeds (products.json and the Signature and Private Blend collection feeds) were read; the feeds were truncated, so coverage is partial (54 main EDP/EDT/Parfum entries). Notes come from official product pages, which list only \"Key Notes\" with no top/heart/base split (flat). Pages give no percentage, so concentration is the form named on the page or product title. Perfumer only where a page names one; release year and family are not stated on the pages read. Collection is taken from the official collection feeds. Sets, body sprays, candles, decanter/format duplicates, skincare and makeup were skipped. Brand country not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Ombré Leather Eau De Parfum",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black leather accord",
+          "cardamom",
+          "jasmine sambac",
+          "patchouli",
+          "white moss",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
+          "name": "Tom Ford Beauty - Ombré Leather Eau De Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ombré Leather Parfum",
+      "collection": "Signature",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom",
+          "jasmine sambac",
+          "black leather",
+          "patchouli",
+          "white moss",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/ombre-leather-parfum",
+          "name": "Tom Ford Beauty - Ombré Leather Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ombré Leather Reserve",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "silver juniper",
+          "deep black leather accord",
+          "sandalwood album root essence",
+          "pinyon wood",
+          "white moss accord",
+          "violet leaf absolute"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/ombre-leather-reserve",
+          "name": "Tom Ford Beauty - Ombré Leather Reserve",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau d'Ombré Leather",
+      "collection": "Signature",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "glowing leather accord",
+          "ambrofix",
+          "vanilla tincture",
+          "benzoin resinoid",
+          "tonka accord",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/eau-dombre-leather-eau-de-toilette",
+          "name": "Tom Ford Beauty - Eau d'Ombré Leather",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau De Grey Vetiver",
+      "collection": "Signature",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "iris",
+          "bergamot accord",
+          "grapefruit accord",
+          "musk accord",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/eau-de-grey-vetiver-eau-de-toilette",
+          "name": "Tom Ford Beauty - Eau De Grey Vetiver",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grey Vetiver Eau de Parfum",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "orange flower",
+          "grapefruit",
+          "nutmeg",
+          "pimento",
+          "vetiver",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/grey-vetiver-eau-de-parfum",
+          "name": "Tom Ford Beauty - Grey Vetiver Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grey Vetiver Parfum",
+      "collection": "Signature",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "orange flower",
+          "grapefruit",
+          "nutmeg",
+          "pimento",
+          "vetiver",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/grey-vetiver-parfum",
+          "name": "Tom Ford Beauty - Grey Vetiver Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois Pacifique",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "turmeric",
+          "sandalwood album",
+          "oakwood absolute",
+          "akigalawood",
+          "cardamom",
+          "olibanum"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/bois-pacifique-eau-de-parfum",
+          "name": "Tom Ford Beauty - Bois Pacifique",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Minérale",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink peppercorn",
+          "oud",
+          "styrax",
+          "ambergris accord",
+          "fir balsam",
+          "marine notes"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/oud-minerale-eau-de-parfum",
+          "name": "Tom Ford Beauty - Oud Minérale",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Costa Azzurra",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "cypress oil",
+          "oakwood",
+          "driftwood accord",
+          "cistus absolute",
+          "salty amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/costa-azzurra-eau-de-parfum",
+          "name": "Tom Ford Beauty - Costa Azzurra",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Orchid",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black truffle",
+          "ylang ylang",
+          "black orchid",
+          "black plum",
+          "rum absolute",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/black-orchid-eau-de-parfum",
+          "name": "Tom Ford Beauty - Black Orchid",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Orchid Parfum",
+      "collection": "Signature",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black truffle",
+          "ylang ylang",
+          "black orchid",
+          "black plum",
+          "rum absolute",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/black-orchid-parfum",
+          "name": "Tom Ford Beauty - Black Orchid Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Orchid",
+      "collection": "Signature",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black truffle",
+          "ylang ylang",
+          "black orchid",
+          "black plum",
+          "rum absolute",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/black-orchid-eau-de-toilette",
+          "name": "Tom Ford Beauty - Black Orchid",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Orchid Reserve Parfum",
+      "collection": "Signature",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black orchid accord",
+          "patchouli",
+          "ghost orchid accord",
+          "roasted tonka",
+          "black truffle accord",
+          "ylang ylang extra"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/black-orchid-reserve-parfum",
+          "name": "Tom Ford Beauty - Black Orchid Reserve Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Velvet Orchid",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "italian bergamot",
+          "mandarin",
+          "jasmine absolute",
+          "sandalwood",
+          "myrrh resinoid"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/velvet-orchid-eau-de-parfum",
+          "name": "Tom Ford Beauty - Velvet Orchid",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soleil Neige",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "musk",
+          "orange blossom",
+          "jasmine grandiflorum",
+          "benzoin resinoid",
+          "cistus labdanum"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/soleil-neige-eau-de-parfum",
+          "name": "Tom Ford Beauty - Soleil Neige",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noir Extreme",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "neroli",
+          "saffron",
+          "indian kulfi",
+          "rose absolute",
+          "sandalwood",
+          "vanilla ember"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/noir-extreme-eau-de-parfum",
+          "name": "Tom Ford Beauty - Noir Extreme",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noir Extreme Parfum",
+      "collection": "Signature",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "neroli",
+          "saffron",
+          "indian kulfi",
+          "rose absolute",
+          "sandalwood",
+          "vanilla ember"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/noir-extreme-parfum",
+          "name": "Tom Ford Beauty - Noir Extreme Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau de Soleil Blanc",
+      "collection": "Signature",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vert de bergamote",
+          "orange bitter",
+          "petitgrain bigarade",
+          "ylang ylang",
+          "pistachio accord",
+          "coco de mer accord"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/eau-de-soleil-blanc-eau-de-toilette",
+          "name": "Tom Ford Beauty - Eau de Soleil Blanc",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Café Rose",
+      "collection": "Signature",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose essence",
+          "rose absolute",
+          "ylang ylang",
+          "coffee",
+          "coriander",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/cafe-rose-eau-de-parfum",
+          "name": "Tom Ford Beauty - Café Rose",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tobacco Chocolat",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Daniela Andrier",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cocoa smoke",
+          "orange essence",
+          "peru balsam",
+          "dark chocolate",
+          "patchouli",
+          "ambrofix"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/tobacco-chocolat-eau-de-parfum",
+          "name": "Tom Ford Beauty - Tobacco Chocolat",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Wood",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom",
+          "pink pepper",
+          "patchouli",
+          "amber",
+          "oud",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+          "name": "Tom Ford Beauty - Oud Wood",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Wood Parfum",
+      "collection": "Private Blend",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom",
+          "pink pepper",
+          "patchouli",
+          "amber",
+          "oud",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/oud-wood-parfum",
+          "name": "Tom Ford Beauty - Oud Wood Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tobacco Vanille",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tobacco leaf",
+          "ginger",
+          "spice",
+          "tonka bean",
+          "cocoa",
+          "fruit accord"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum",
+          "name": "Tom Ford Beauty - Tobacco Vanille",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tobacco Vanille Parfum",
+      "collection": "Private Blend",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": "Rodrigo Flores-Roux, Shyamala Maisondieu",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tobacco leaf absolute",
+          "whiskey cask accord",
+          "oakwood extract",
+          "vanilla absolute",
+          "orange bitter",
+          "ginger"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/tobacco-vanille-parfum",
+          "name": "Tom Ford Beauty - Tobacco Vanille Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lost Cherry",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black cherry accord",
+          "bitter almond",
+          "griotte",
+          "rose absolute",
+          "peru balsam",
+          "roasted tonka"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+          "name": "Tom Ford Beauty - Lost Cherry",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fucking Fabulous",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "almond",
+          "tonka resinoid",
+          "orris accord",
+          "cashmeran",
+          "leather accord",
+          "clary sage"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/fucking-fabulous-eau-de-parfum",
+          "name": "Tom Ford Beauty - Fucking Fabulous",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fucking Fabulous Parfum",
+      "collection": "Private Blend",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "leather accord",
+          "tonka",
+          "fir balsam",
+          "clary sage",
+          "orris accord",
+          "cashmeran"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/fucking-fabulous-parfum",
+          "name": "Tom Ford Beauty - Fucking Fabulous Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Voyager",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "geranium",
+          "peony accord",
+          "oud",
+          "cypriol",
+          "osmanthus"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/oud-voyager-eau-de-parfum",
+          "name": "Tom Ford Beauty - Oud Voyager",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Figue Érotique",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Shyamala Maisondieu",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "kadota fig accord",
+          "bergamot",
+          "muscovado accord",
+          "fig leaf accord",
+          "ylang ylang",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/figue-erotique-eau-de-parfum",
+          "name": "Tom Ford Beauty - Figue Érotique",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Taormina Orange",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "blood orange",
+          "cardamom",
+          "orange flower",
+          "orange bigarade",
+          "patchouli",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/taormina-orange-eau-de-parfum",
+          "name": "Tom Ford Beauty - Taormina Orange",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neroli Portofino",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tunisian neroli",
+          "italian bergamot",
+          "winter yellow mandarin",
+          "orange flower",
+          "lavender"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum",
+          "name": "Tom Ford Beauty - Neroli Portofino",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Sex",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla tincture",
+          "vanilla absolute",
+          "sandalwood",
+          "jasmine absolute",
+          "orris accord",
+          "animalis accord"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/vanilla-sex-eau-de-parfum",
+          "name": "Tom Ford Beauty - Vanilla Sex",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose Prick",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "turmeric",
+          "patchouli",
+          "sichuan pepper",
+          "roasted tonka",
+          "tolu balsam"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/rose-prick-eau-de-parfum",
+          "name": "Tom Ford Beauty - Rose Prick",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soleil Blanc",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "cardamom",
+          "pistachio accord",
+          "ylang ylang",
+          "benzoin",
+          "coco de mer accord"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/soleil-blanc-eau-de-parfum",
+          "name": "Tom Ford Beauty - Soleil Blanc",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose Exposed",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose-on-rose accord",
+          "rose essence",
+          "rose concentrate",
+          "white pepper",
+          "black leather accord",
+          "cashmeran"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/rose-exposed-eau-de-parfum",
+          "name": "Tom Ford Beauty - Rose Exposed",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santal Blush",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cinnamon bark",
+          "carrot seed",
+          "ylang ylang",
+          "sandalwood",
+          "cedarwood",
+          "benzoin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/santal-blush-eau-de-parfum",
+          "name": "Tom Ford Beauty - Santal Blush",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitter Peach",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "peach accord",
+          "blood orange",
+          "davana",
+          "labdanum absolute",
+          "patchouli",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/bitter-peach-eau-de-parfum",
+          "name": "Tom Ford Beauty - Bitter Peach",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electric Cherry",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "morello cherry",
+          "pistachio accord",
+          "ginger",
+          "jasmine sambac absolute",
+          "sandalwood accord",
+          "ambrettolide"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/electric-cherry-eau-de-parfum",
+          "name": "Tom Ford Beauty - Electric Cherry",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanille Fatale",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "safraleine",
+          "frangipani",
+          "coffee absolute",
+          "mahogany wood accord",
+          "roasted barley",
+          "vanilla resinoid"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/vanille-fatale-eau-de-parfum",
+          "name": "Tom Ford Beauty - Vanille Fatale",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tuscan Leather",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "raspberry",
+          "thyme",
+          "olibanum",
+          "night blooming jasmine",
+          "leather",
+          "black suede",
+          "amberwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/tuscan-leather-eau-de-parfum",
+          "name": "Tom Ford Beauty - Tuscan Leather",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "White Suede",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "thyme",
+          "mate",
+          "rose",
+          "suede",
+          "olibanum",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/white-suede-eau-de-parfum",
+          "name": "Tom Ford Beauty - White Suede",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ébène Fumé",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "palo santo accord",
+          "african ebony accord",
+          "black pepper",
+          "cistus resin absolute",
+          "pine tar"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/ebene-fume-eau-de-parfum",
+          "name": "Tom Ford Beauty - Ébène Fumé",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soleil de Feu",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "sandalwood",
+          "benzoin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/soleil-de-feu-eau-de-parfum",
+          "name": "Tom Ford Beauty - Soleil de Feu",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cherry Smoke",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "dark cherry flavor accord",
+          "smoked wood accord",
+          "olibanum",
+          "peru balsam resinoid",
+          "osmanthus absolute",
+          "cypriol"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/cherry-smoke-eau-de-parfum",
+          "name": "Tom Ford Beauty - Cherry Smoke",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Myrrhe Mystère",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "myrrh",
+          "absinthe",
+          "sandalwood album",
+          "jasmine absolute",
+          "ultra vanille accord",
+          "black leather accord"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/myrrhe-mystere-eau-de-parfum",
+          "name": "Tom Ford Beauty - Myrrhe Mystère",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Lacquer",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black lacquer accord",
+          "makassar ebony wood",
+          "dark peony accord",
+          "olibanum",
+          "vinyl accord",
+          "cedarwood atlas"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/black-lacquer-eau-de-parfum",
+          "name": "Tom Ford Beauty - Black Lacquer",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noir de Noir",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "black truffle",
+          "vanilla",
+          "patchouli",
+          "oud wood",
+          "crocus flower"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/noir-de-noir-eau-de-parfum",
+          "name": "Tom Ford Beauty - Noir de Noir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fougère d'Argent",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "ginger",
+          "lavender",
+          "cistus",
+          "akigalawood",
+          "coumarin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/fougere-dargent-eau-de-parfum",
+          "name": "Tom Ford Beauty - Fougère d'Argent",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose d'Amalfi",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose-on-rose extract",
+          "rose neoabsolute",
+          "italian bergamot",
+          "rosyfolia rose",
+          "peru balsam",
+          "heliotrope"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/rose-damalfi-eau-de-parfum",
+          "name": "Tom Ford Beauty - Rose d'Amalfi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Azure Lime",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lime water",
+          "south african buchu",
+          "australian sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/azure-lime-eau-de-parfum",
+          "name": "Tom Ford Beauty - Azure Lime",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois Marocain",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink peppercorn",
+          "juniper oil",
+          "thuya",
+          "atlas cedarwood",
+          "vetiver haiti oil",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/bois-marocain-eau-de-parfum",
+          "name": "Tom Ford Beauty - Bois Marocain",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mandarino di Amalfi",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin oil",
+          "lemon",
+          "basil",
+          "spearmint",
+          "shiso leaf accord",
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/mandarino-di-amalfi-eau-de-parfum",
+          "name": "Tom Ford Beauty - Mandarino di Amalfi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jasmin Rouge",
+      "collection": "Private Blend",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black peppercorn",
+          "clary sage",
+          "sambac jasmine sepals absolute",
+          "ylang ylang",
+          "labdanum resin",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.tomfordbeauty.com/products/jasmin-rouge-eau-de-parfum",
+          "name": "Tom Ford Beauty - Jasmin Rouge",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

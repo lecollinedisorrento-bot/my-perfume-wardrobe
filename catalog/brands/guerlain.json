@@ -1,0 +1,311 @@
+{
+  "brand": "Guerlain",
+  "slug": "guerlain",
+  "officialSite": "https://www.guerlain.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "guerlain.com (fragrance listing, collection and product pages) returned HTTP 403 to every WebFetch, so no official notes were obtained. Fragrantica and Parfumo also returned 403. Range and notes come from the Olfastory database (olfastory.com brand page and perfume pages, all opened). Olfastory brand page lists 12 Guerlain perfumes; the 15 entries here are the ones whose Olfastory page or search result was opened and read. Notes are therefore all 'reported'. Country not stated on any opened page. Not covered: Cuir Beluga, Musc Outreblanc, Vetiver Fauve, Oud Nude and other L'Art & La Matière items (no readable source opened), Les Legendaires beyond L'Heure Bleue 1912, and the rest of the house's catalogue (Champs-Elysees, Idylle, Insolence, Aqua Allegoria, Habit Rouge Parfum, etc.). Olfastory's 2026 L'Heure Bleue eau de parfum (Delphine Jelk) was not opened separately.",
+  "fragrances": [
+    {
+      "name": "Shalimar",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1925,
+      "perfumer": "Jacques Guerlain",
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "lemon"],
+        "heart": ["rose", "jasmine"],
+        "base": ["patchouli", "vanilla", "iris", "tonka bean"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/shalimar", "name": "Olfastory - Shalimar", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Shalimar Millésime Rose",
+      "collection": "Millésime",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Delphine Jelk",
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["rosewater", "almond", "bergamot"],
+        "heart": ["damask rose", "centifolia rose"],
+        "base": ["vanilla", "patchouli"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/shalimar-millesime-rose-eau-de-parfum-guerlain", "name": "Olfastory - Shalimar Millésime Rose", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Mon Guerlain",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2017,
+      "perfumer": "Thierry Wasser",
+      "family": "Aromatic",
+      "accords": [],
+      "notes": {
+        "top": ["lavender", "bergamot"],
+        "heart": ["jasmine", "paradisone", "coumarin"],
+        "base": ["vanilla", "iris", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/mon-guerlain", "name": "Olfastory - Mon Guerlain", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "L'Heure Bleue 1912",
+      "collection": "Les Légendaires",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1912,
+      "perfumer": "Jacques Guerlain",
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["anise", "bergamot"],
+        "heart": ["carnation", "neroli"],
+        "base": ["iris", "violet", "vanilla", "benzoin", "tonka bean"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/lheure-bleue", "name": "Olfastory - L'Heure Bleue", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Mitsouko",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1919,
+      "perfumer": "Jacques Guerlain",
+      "family": "Chypre",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot"],
+        "heart": ["peach", "jasmine", "rose"],
+        "base": ["tree moss", "patchouli", "vetiver", "spice"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/mitsouko", "name": "Olfastory - Mitsouko", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Jicky",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 1889,
+      "perfumer": "Aimé Guerlain",
+      "family": "Fougère",
+      "accords": [],
+      "notes": {
+        "top": ["lavender", "rosemary", "bergamot"],
+        "heart": ["rose", "jasmine", "rosewood"],
+        "base": ["coumarin", "tonka bean", "vanillin", "civet"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/jicky/composition", "name": "Olfastory - Jicky", "type": "database", "supports": ["notes", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Samsara",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1989,
+      "perfumer": "Jean-Paul Guerlain",
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot"],
+        "heart": ["rose", "jasmine", "ylang-ylang"],
+        "base": ["vanilla", "sandalwood", "tonka bean"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/samsara", "name": "Olfastory - Samsara", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Vol de Nuit",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1933,
+      "perfumer": "Jacques Guerlain",
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["mandarin", "bergamot", "lemon"],
+        "heart": ["orange blossom", "jasmine", "galbanum", "jonquil"],
+        "base": ["oakmoss", "vanilla", "sandalwood", "iris"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/vol-de-nuit", "name": "Olfastory - Vol de Nuit", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Habit Rouge",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1965,
+      "perfumer": "Jean-Paul Guerlain",
+      "family": "Oriental",
+      "accords": ["leather", "tobacco"],
+      "notes": {
+        "top": ["mandarin", "lemon", "bergamot"],
+        "heart": ["carnation", "patchouli", "cinnamon", "cedarwood"],
+        "base": ["vanilla", "amber", "benzoin"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/habit-rouge/composition", "name": "Olfastory - Habit Rouge", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Eau de Guerlain",
+      "collection": null,
+      "concentration": "Eau de Cologne",
+      "releaseYear": 1974,
+      "perfumer": "Jean-Paul Guerlain",
+      "family": "Citrus",
+      "accords": [],
+      "notes": {
+        "top": ["mint", "lemon", "thyme"],
+        "heart": ["neroli", "jasmine", "carnation"],
+        "base": ["vetiver", "patchouli"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/eau-de-guerlain", "name": "Olfastory - Eau de Guerlain", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "L'Homme Idéal Cologne Forte",
+      "collection": "L'Homme Idéal",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Delphine Jelk",
+      "family": "Citrus",
+      "accords": [],
+      "notes": {
+        "top": ["grapefruit", "lemon", "bergamot"],
+        "heart": ["almond", "cinnamon"],
+        "base": ["vanillin", "vetiver", "incense"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/lhomme-ideal-cologne-forte", "name": "Olfastory - L'Homme Idéal Cologne Forte", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Tobacco Honey",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Delphine Jelk",
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["clove", "honey"],
+        "heart": ["sesame", "vanilla", "oud"],
+        "base": ["tonka bean", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/guerlain-tobacco-honey", "name": "Olfastory - Tobacco Honey", "type": "database", "supports": ["notes", "concentration", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Herbes Troublantes",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2021,
+      "perfumer": "Delphine Jelk",
+      "family": "Citrus",
+      "accords": [],
+      "notes": {
+        "top": ["thyme", "mint", "rosemary"],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/guerlain-herbes-troublantes", "name": "Olfastory - Herbes Troublantes", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Angélique Noire",
+      "collection": "L'Art & La Matière",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2005,
+      "perfumer": "Daniela Andrier",
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "pink pepper", "angelica", "pear"],
+        "heart": [],
+        "base": ["angelica", "vanilla", "cedar"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/angelique-noire", "name": "Olfastory - Angélique Noire", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "La Petite Robe Noire Honey Rose",
+      "collection": "La Petite Robe Noire",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": ["almond", "bergamot"],
+        "heart": ["centifolia rose", "honey"],
+        "base": ["vanilla", "tonka bean", "patchouli"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/guerlain-la-petite-robe-noire-honey-rose", "name": "Olfastory - La Petite Robe Noire Honey Rose", "type": "database", "supports": ["notes", "concentration", "year", "family"] }
+      ]
+    }
+  ]
+}
