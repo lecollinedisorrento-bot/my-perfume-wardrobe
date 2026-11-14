@@ -1,0 +1,371 @@
+{
+  "brand": "Zoologist",
+  "slug": "zoologist",
+  "officialSite": "https://www.zoologistperfumes.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Shopify site (zoologistperfumes.com). Range from /products.json and /collections/all/products.json feeds (feeds truncated after ~40 and ~41 products, so the list covers the animal-named 'Deluxe Bottle' line seen in those feeds, not necessarily every edition). One official product page per fragrance for concentration (stated as a percentage, recorded as written), perfumer, notes and accords. Family is recorded only where the page labels it (Civet: subtitle 'Mysterious Vintage Chypre'); other taglines were not treated as families. Years 2020 (Bat) and 2021 (Dragonfly) come from the product titles only. Samples, travel sprays, sample sets and sets skipped. Not blocked.",
+  "fragrances": [
+    {
+      "name": "Bat (2020)",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": 2020,
+      "perfumer": "Prin Lomros",
+      "family": null,
+      "accords": ["soil"],
+      "notes": { "top": ["fig", "passion fruit", "pink guava", "soil"], "heart": ["hay", "incense", "minerals", "night blooming jasmine"], "base": ["animalic notes", "leather", "mossy stones", "teak wood", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-bat-deluxe-bottle", "name": "Zoologist — Bat (2020) Deluxe Bottle", "type": "official", "supports": ["concentration", "year", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Bee",
+      "collection": null,
+      "concentration": "18%",
+      "releaseYear": null,
+      "perfumer": "Cristiano Canali",
+      "family": null,
+      "accords": ["royal jelly"],
+      "notes": { "top": ["orange", "ginger syrup", "royal jelly"], "heart": ["broom", "heliotrope", "mimosa", "orange flower"], "base": ["benzoin", "labdanum", "musk", "sandalwood", "tonka", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-bee-deluxe-bottle", "name": "Zoologist — Bee Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Beaver Maple Edition",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Pascal Gaurin",
+      "family": null,
+      "accords": ["maple"],
+      "notes": { "top": ["blue water lily", "neroli", "carrot"], "heart": ["maple", "vetiver", "peru balsam", "cedarwood"], "base": ["vanilla bean", "cocoa shell", "castoreum", "sandalwood", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-beaver-maple-edition-deluxe-bottle", "name": "Zoologist — Beaver Maple Edition Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Camel",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Christian Carbonnel",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["dried fruits", "frankincense", "palm date", "rose"], "heart": ["amber", "cedar", "cinnamon", "incense", "jasmine", "myrrh", "orange blossom"], "base": ["civet", "musk", "oud", "sandalwood", "tonka bean", "vanilla", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-camel-deluxe-bottle", "name": "Zoologist — Camel Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Chameleon",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Daniel Pescio",
+      "family": null,
+      "accords": ["salty skin"],
+      "notes": { "top": ["bergamot", "lemon", "madagascar ylang ylang", "mango", "pink pepper", "star fruit", "violet leaves"], "heart": ["cashmeran", "clove", "coconut", "frangipani", "jasmine", "saffron", "salty skin", "sea breeze"], "base": ["amber", "woods", "musk", "opoponax", "patchouli", "sandalwood", "vanilla", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-chameleon-deluxe-bottle", "name": "Zoologist — Chameleon Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Chameleon Tropical Blooms Edition",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Antoine Lie",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["ylang ylang", "banana leaf", "bergamot"], "heart": ["pink guava", "jasmine", "orange blossom", "passion fruit"], "base": ["cedarwood", "vanilla", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-chameleon-tropical-blooms-edition", "name": "Zoologist — Chameleon Tropical Blooms Edition Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Chipmunk",
+      "collection": null,
+      "concentration": "18%",
+      "releaseYear": null,
+      "perfumer": "Pia Long",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["quince", "pink pepper", "red mandarin", "cardamom", "nutmeg"], "heart": ["camomile", "hazelnut", "fir balsam", "oak", "earthy notes"], "base": ["cedarwood", "amyris", "patchouli", "vetiver", "benzoin", "opoponax", "guaiacwood", "animal notes"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-chipmunk-deluxe-bottle", "name": "Zoologist — Chipmunk Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Civet",
+      "collection": null,
+      "concentration": "25%",
+      "releaseYear": null,
+      "perfumer": "Shelley Waddington",
+      "family": "Chypre",
+      "accords": [],
+      "notes": { "top": ["bergamot", "black pepper", "lemon", "orange", "spices", "tarragon"], "heart": ["carnation", "frangipani", "heliotrope", "hyacinth", "linden blossom", "tuberose", "ylang"], "base": ["balsams", "civet", "coffee", "incense", "labdanum", "musk", "oakmoss", "resins", "russian leather", "vanilla", "vetiver", "woods"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/civet", "name": "Zoologist — Civet Deluxe Bottle", "type": "official", "supports": ["concentration", "family", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Cockatiel",
+      "collection": null,
+      "concentration": "12%",
+      "releaseYear": null,
+      "perfumer": "Sven Pritzkoleit",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["champagne", "raspberry", "rhubarb"], "heart": ["acacia", "powdery notes", "cashmeran"], "base": ["guaiac", "patchouli", "vanilla", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-cockatiel-deluxe-bottle", "name": "Zoologist — Cockatiel Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Cow",
+      "collection": null,
+      "concentration": "18%",
+      "releaseYear": null,
+      "perfumer": "Nathalie Feisthauer",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["sage", "apple"], "heart": ["milk", "lily of the valley", "heliotrope", "violet", "jasmine"], "base": ["cedarwood", "vetiver", "benzoin", "musk", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-bat-2020-deluxe-bottle", "name": "Zoologist — Cow Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Dodo Jackfruit Edition",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Yves Cassar",
+      "family": null,
+      "accords": ["jackfruit"],
+      "notes": { "top": ["jackfruit", "bergamot", "pink pepper", "turmeric leaf"], "heart": ["lavender", "geranium", "orange flower", "turmeric root", "orris"], "base": ["tonka", "vetiver", "sandalwood", "patchouli", "labdanum"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-dodo-jackfruit-edition-deluxe-bottle", "name": "Zoologist — Dodo Jackfruit Edition Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Dragonfly (2021)",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": 2021,
+      "perfumer": "Céline Barel",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["grapefruit", "basil", "angelica seed", "ginger", "rice"], "heart": ["aquatic florals", "geranium", "jasmin sambac", "mimosa", "orris absolute", "rose", "violet leaves"], "base": ["rainwater", "moss", "patchouli", "tonka", "vetiver", "benzoin", "cashmeran"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-dragonfly-2021-deluxe-bottle", "name": "Zoologist — Dragonfly (2021) Deluxe Bottle", "type": "official", "supports": ["concentration", "year", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Elephant",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Chris Bartlett",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["tree leaves", "darjeeling tea", "magnolia"], "heart": ["cocoa", "coconut milk", "incense", "jasmine", "woody notes"], "base": ["amber", "musk", "patchouli", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/elephant", "name": "Zoologist — Elephant Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Elephant Sanctuary Edition",
+      "collection": null,
+      "concentration": "25%",
+      "releaseYear": null,
+      "perfumer": "Natasha Cote-Mouzannar",
+      "family": null,
+      "accords": ["elephant skin"],
+      "notes": { "top": ["earl grey tea", "mate", "pink pepper", "cardamom", "nutmeg"], "heart": ["indian jasmine", "indian tuberose", "osmanthus", "turkish rose"], "base": ["sandalwood", "cypriol", "orris root", "elephant skin"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-elephant-sanctuary-edition", "name": "Zoologist — Elephant Sanctuary Edition Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Harvest Mouse",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Luca Maffei",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "cloves", "roman chamomile", "orange blossom"], "heart": ["davana", "hay absolute", "benzoin", "opoponax", "rose absolute", "beer extract"], "base": ["fir balsam", "oak moss", "cedarwood", "sandalwood", "peru balsam", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-harvest-mouse-deluxe-bottle", "name": "Zoologist — Harvest Mouse Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "King Cobra",
+      "collection": null,
+      "concentration": "18%",
+      "releaseYear": null,
+      "perfumer": "Prin Lomros",
+      "family": null,
+      "accords": ["ganja", "soil"],
+      "notes": { "top": ["petitgrain", "mandarin", "fig leaf", "camphor", "pomelo", "ganja"], "heart": ["black tea", "cumin", "leather", "soil"], "base": ["incense", "amber", "moss", "patchouli", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-king-cobra-deluxe-bottle", "name": "Zoologist — King Cobra Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Koala Joey Edition",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "George Tedder",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["eucalyptus leaves", "grand vert basil", "clary sage", "grapefruit"], "heart": ["galbanum", "geranium", "mimosa flower", "spearmint"], "base": ["animalic musks", "eucalyptus wood", "australian sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-joey-edition", "name": "Zoologist — Koala Joey Edition Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Lovebird",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Nathalie Feisthauer",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["kiwi", "bergamot", "orange", "blackcurrant", "mint", "clary sage", "clove", "wormwood", "lavender"], "heart": ["passionfruit", "ylang ylang", "geranium", "lily of the valley", "heliotrope"], "base": ["amyris", "amber", "virginia cedar", "oak moss", "vanilla", "tonka", "ambrette", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-lovebird-deluxe-bottle", "name": "Zoologist — Lovebird Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Olm",
+      "collection": null,
+      "concentration": "16%",
+      "releaseYear": null,
+      "perfumer": "Spyros Drosopoulos",
+      "family": null,
+      "accords": ["water cave"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["water cave", "limestones", "iodine", "algae", "soft amber", "sandalwood", "oily musks", "cashmeran", "iso e super"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-olm-deluxe-bottle", "name": "Zoologist — Olm Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Orchid Mantis",
+      "collection": null,
+      "concentration": "16%",
+      "releaseYear": null,
+      "perfumer": "Tomoo Inaba",
+      "family": null,
+      "accords": ["dewy green"],
+      "notes": { "top": ["bergamot", "lemon", "dewy green", "pear", "basil"], "heart": ["pink orchid", "queen of the night", "ylang ylang", "jasmine absolute", "rose absolute"], "base": ["patchouli", "vetiver", "moss", "sandalwood", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-orchid-mantis-deluxe-bottle", "name": "Zoologist — Orchid Mantis Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Penguin",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Chiaki Nomura",
+      "family": null,
+      "accords": ["ice"],
+      "notes": { "top": ["antarctic air", "ice", "juniper berry"], "heart": ["pink pepper", "saffron", "ciste absolute"], "base": ["sandalwood", "musk", "seamoss", "suede"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-penguin-deluxe-bottle", "name": "Zoologist — Penguin Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Portuguese Man O' War",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": "Antoine Lie",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["ginger", "saffron", "immortelle"], "heart": ["caribbean gunpowder", "jasmine sambac", "geranium"], "base": ["seaweed absolute", "sandalwood", "tonka"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-portuguese-man-o-war-deluxe-bottle", "name": "Zoologist — Portuguese Man O' War Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Rabbit",
+      "collection": null,
+      "concentration": "25%",
+      "releaseYear": null,
+      "perfumer": "Fanny Bal",
+      "family": null,
+      "accords": ["green vegetable leaves", "clover flower", "biscuit"],
+      "notes": { "top": ["green vegetable leaves", "cinnamon", "bergamot", "apple"], "heart": ["clover flower", "carrot", "jasmine absolute", "violet"], "base": ["patchouli", "musk", "hay", "white almond", "vanilla", "biscuit"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-rabbit-deluxe-bottle", "name": "Zoologist — Rabbit Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Toucan",
+      "collection": null,
+      "concentration": "18%",
+      "releaseYear": null,
+      "perfumer": "Simon Constantine",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["papaya", "orange", "lime", "coconut"], "heart": ["jasmine", "orange flower", "ylang ylang", "geranium"], "base": ["benzoin", "sandalwood", "tonka", "clove bud", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zoologistperfumes.com/products/zoologist-toucan-deluxe-bottle", "name": "Zoologist — Toucan Deluxe Bottle", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    }
+  ]
+}
