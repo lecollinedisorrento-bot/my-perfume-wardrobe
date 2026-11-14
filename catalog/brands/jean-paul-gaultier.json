@@ -1,0 +1,416 @@
+{
+  "brand": "Jean Paul Gaultier",
+  "slug": "jean-paul-gaultier",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The official jeanpaulgaultier.com site did not appear in search results and was not opened, so no official sources are used. Range taken from two retailer brand listings (tendance-parfums.com, scento.com; both truncated to their first pages) and one retailer product page. Notes only for Scandal Pour Homme Le Parfum (retailer). Entries from the scento list without a concentration on the page are left concentration null. Years not stated on any page.",
+  "fragrances": [
+    {
+      "name": "Le Male",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Le Male Elixir",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Le Male Elixir Absolu",
+      "collection": null,
+      "concentration": "Intense Fragrance",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Le Male Le Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Le Male In Blue",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Scandal Pour Homme Le Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christophe Raynaud, Natalie Gracia-Cetto, Quentin Bisch",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["pelargonium"], "heart": ["tonka bean"], "base": ["sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/scandal-pour-homme-le-parfum-jean-paul-gaultier.html", "name": "Tendance Parfums - Scandal pour Homme Le Parfum", "type": "retailer", "supports": ["notes", "concentration", "family", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Scandal Pour Homme Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Scandal Pour Homme",
+      "collection": null,
+      "concentration": "Refillable Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Scandal Elixir",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Gaultier Divine",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Gaultier Divine Le Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Gaultier Divine Couture",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Divine Elixir",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "La Belle",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "La Belle Paradise Garden",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Le Beau",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Classique",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Ambre Tatouage",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Cuir 1976",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Fleur du Male",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "French Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "La Favorite",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Musc Terrible",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Rose Palace",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Santal Paname",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Scandal Le Parfum",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Le Beau Le Parfum",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+      ]
+    }
+  ]
+}

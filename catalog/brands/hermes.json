@@ -1,0 +1,609 @@
+{
+  "brand": "Hermès",
+  "slug": "hermes",
+  "officialSite": "https://www.hermes.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Range from hermes.com (USA) fragrance category page (40 of 177 products loaded, perfumes only kept) and Hermessence collection page (19 perfumes, concentrations stated per product). hermes.com product pages returned HTTP 403 to WebFetch, so no official notes were read. Notes come from the Olfastory database (olfastory.com brand page and perfume pages, opened) and are 'reported'. Fragrantica returned 403. Hermessence entries other than Ginseng Biloba have concentration and collection only (notes not obtained from any opened page). Entries with a listing-only source have notes []. Country not stated on any opened page. Olfastory brand page lists 12 Hermès perfumes and links to further pages that were not opened, so the list is incomplete (Rouge Hermès, 24 Faubourg EDP, H24 EDT, Eau d'Hermès, Twilly d'Hermès EDT, Hermessence notes and others not covered). Terre d'Hermès Eau de Toilette (2006, Ellena) notes come from Olfastory's description of the three stages of the composition.",
+  "fragrances": [
+    {
+      "name": "Terre d'Hermès",
+      "collection": "Terre d'Hermès",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2006,
+      "perfumer": "Jean-Claude Ellena",
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": ["grapefruit", "orange"],
+        "heart": ["flint", "black pepper", "geranium"],
+        "base": ["cedar", "vetiver", "patchouli", "benzoin"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/terre-dhermes/composition", "name": "Olfastory - Terre d'Hermès", "type": "database", "supports": ["notes", "year", "perfumer", "family"] },
+        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Terre d'Hermès Eau de Parfum Intense",
+      "collection": "Terre d'Hermès",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": 2025,
+      "perfumer": "Christine Nagel",
+      "family": "Woody",
+      "accords": ["licorice", "coffee"],
+      "notes": {
+        "top": ["bergamot"],
+        "heart": ["coffee", "licorice"],
+        "base": ["woody notes", "mineral notes"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/hermes-terre-dhermes-eau-de-parfum-intense", "name": "Olfastory - Terre d'Hermès Eau de Parfum Intense", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Terre d'Hermès Parfum",
+      "collection": "Terre d'Hermès",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Jour d'Hermès Absolu",
+      "collection": "Jour d'Hermès",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2014,
+      "perfumer": "Jean-Claude Ellena",
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": ["apricot"],
+        "heart": ["gardenia", "sambac jasmine"],
+        "base": ["oakmoss"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/jour-dhermes-absolu", "name": "Olfastory - Jour d'Hermès Absolu", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Barénia Pleine Fleur",
+      "collection": "Barénia",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Christine Nagel",
+      "family": "Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": ["lily", "orange blossom", "patchouli", "miracle berry"],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/barenia-pleine-fleur", "name": "Olfastory - Barénia Pleine Fleur", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] },
+        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Barénia Intense",
+      "collection": "Barénia",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": "Christine Nagel",
+      "family": "Chypre",
+      "accords": [],
+      "notes": {
+        "top": ["miracle berry"],
+        "heart": ["lily"],
+        "base": ["patchouli", "oak", "leather"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/barenia-intense", "name": "Olfastory - Barénia Intense", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Barénia",
+      "collection": "Barénia",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "H24 Herbes Vives",
+      "collection": "H24",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2024,
+      "perfumer": "Christine Nagel",
+      "family": "Aromatic",
+      "accords": [],
+      "notes": {
+        "top": ["spearmint", "ryegrass"],
+        "heart": ["clary sage", "mastic"],
+        "base": ["light woods", "sclarene", "white vetiver"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/h24-herbes-vives", "name": "Olfastory - H24 Herbes Vives", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "24 Faubourg Eau de Toilette",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": ["hyacinth", "orange", "ylang-ylang", "peach", "bergamot"],
+        "heart": ["orange blossom", "gardenia", "jasmine", "elderflower", "iris"],
+        "base": ["amber", "sandalwood", "patchouli", "vanilla"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/hermes-24-faubourg-eau-de-toilette", "name": "Olfastory - 24 Faubourg Eau de Toilette", "type": "database", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Un Jardin sous la Mer",
+      "collection": "Parfums-Jardins",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2026,
+      "perfumer": "Christine Nagel",
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot"],
+        "heart": ["tiare flower", "mineral notes"],
+        "base": ["vanilla", "coconut"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/un-jardin-sous-la-mer", "name": "Olfastory - Un Jardin sous la Mer", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Un Jardin à Cythère",
+      "collection": "Jardins d'Hermès",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Christine Nagel",
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": ["citrus"],
+        "heart": ["pistachio", "olive tree"],
+        "base": ["green note"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/un-jardin-de-cythere", "name": "Olfastory - Un Jardin à Cythère", "type": "database", "supports": ["notes", "concentration", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Tutti Twilly d'Hermès",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2023,
+      "perfumer": "Christine Nagel",
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": ["lychee"],
+        "heart": ["ginger"],
+        "base": ["musk"],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/hermes-tutti-twilly-dhermes-eau-de-parfum", "name": "Olfastory - Tutti Twilly d'Hermès", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Twilly d'Hermès",
+      "collection": "Twilly d'Hermès",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Un Jardin sur le Nil",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Eau des Merveilles Bleue",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'Ombre des Merveilles",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'Ambre des Merveilles",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Ginseng Biloba",
+      "collection": "Hermessence",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Christine Nagel",
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": ["ginseng", "ginkgo biloba"],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/ginseng-biloba", "name": "Olfastory - Ginseng Biloba", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] },
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Musc Pallida",
+      "collection": "Hermessence",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Musc Pallida Essence de Parfum",
+      "collection": "Hermessence",
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Oud Alezan",
+      "collection": "Hermessence",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Oud Esma",
+      "collection": "Hermessence",
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Ambre Narguilé",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Cèdre Sambac",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Agar Ébène",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Rose Ikebana",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Myrrhe Églantine",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Cardamusc",
+      "collection": "Hermessence",
+      "concentration": "Essence de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Épice Marine",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Poivre Samarcande",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Santal Massoïa",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Cuir d'Ange",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Osmanthe Yunnan",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Iris Ukiyoe",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Violette Volynka",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Vetiver Tonka",
+      "collection": "Hermessence",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+      ]
+    }
+  ]
+}

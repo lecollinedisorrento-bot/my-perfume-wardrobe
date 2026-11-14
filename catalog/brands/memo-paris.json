@@ -1,0 +1,596 @@
+{
+  "brand": "Memo Paris",
+  "slug": "memo-paris",
+  "officialSite": "https://us.memoparis.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official US site (us.memoparis.com/collections/perfumes, page 1) lists 39 products, all 75 ml Eau de Parfum except Eau de Memo (100 ml). Every listed product page was opened and its notes, concentration and any perfumer stated in the product text were read. Perfumer is recorded only where the page states it for that product; where the page only links a perfumer profile in a 'Discover more' section, perfumer is null. Family is null unless stated (Corfu is described as a chypre). Country not stated on any page read. Page 2 of the US listing (us.memoparis.com/collections/perfumes?page=2) was not opened, so the catalogue may be incomplete.",
+  "fragrances": [
+    {
+      "name": "Abu Dhabi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mylène Alran",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "cardamom", "orange"], "heart": ["date", "plum", "orange flower"], "base": ["vetiver", "patchouli", "cistus", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/abu-dhabi-eau-de-parfum-75ml", "name": "Memo Paris - Abu Dhabi Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "African Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cardamom", "pink pepper"], "heart": ["geranium", "rose"], "base": ["patchouli", "cinnamon", "oud", "spicy leather", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/african-leather-eau-de-parfum-75ml", "name": "Memo Paris - African Leather Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Sophie Labbé",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "ambrette"], "heart": ["rose", "jasmine", "magnolia"], "base": ["oud", "cypriol", "benzoin"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/argentina-eau-de-parfum-75ml", "name": "Memo Paris - Argentina Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Cap Camarat",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "apple"], "heart": ["jasmine", "ylang-ylang", "vanilla", "sandalwood"], "base": ["benzoin", "amyris", "patchouli", "labdanum"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/cap-camarat-eau-de-parfum-75ml", "name": "Memo Paris - Cap Camarat Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cap Camarat X Olimpia Zagnoli",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "apple"], "heart": ["jasmine", "ylang-ylang", "vanilla", "sandalwood"], "base": ["benzoin", "amyris", "patchouli", "labdanum"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/cap-camarat-x-olimpia-zagnoli-eau-de-parfum-75ml", "name": "Memo Paris - Cap Camarat X Olimpia Zagnoli Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cappadocia",
+      "collection": "Graines Vagabondes",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron"], "heart": ["jasmine", "iris", "rose"], "base": ["sandalwood", "olibanum", "myrrh", "benzoin", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/cappadocia-eau-de-parfum-75ml", "name": "Memo Paris - Cappadocia Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cassiopeia Rose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "olibanum", "rose"], "heart": ["rose", "rosyfolia"], "base": ["vanilla", "tonka bean", "benzoin", "cashmeran"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/cassiopeia-rose-eau-de-parfum-75ml", "name": "Memo Paris - Cassiopeia Rose Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Corfu",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Chypre",
+      "accords": [],
+      "notes": { "top": ["bergamot", "blackcurrant bud", "rhubarb"], "heart": ["rose", "geranium", "lily of the valley"], "base": ["patchouli", "white musk", "moss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/corfu-eau-de-parfum-75ml", "name": "Memo Paris - Corfu Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Darling Point",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cinnamon", "sweet pear", "apple"], "heart": ["jasmine", "orange blossom", "saffron", "rose"], "base": ["moss", "cashmere wood", "praline"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/darling-point-eau-de-parfum-75ml", "name": "Memo Paris - Darling Point Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Darling Point X Thomas Lélu",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cinnamon", "sweet pear", "apple"], "heart": ["jasmine", "orange blossom", "saffron", "rose"], "base": ["moss", "cashmere wood", "praline"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/darling-point-x-thomas-lelu-w-eau-de-parfum-75ml", "name": "Memo Paris - Darling Point X Thomas Lélu Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Eau de Memo",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "coriander"], "heart": ["jasmine", "matcha", "cyclamen"], "base": ["white leather", "orris", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/eau-de-memo-parfum-100ml", "name": "Memo Paris - Eau de Memo Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "French Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["juniper berry", "lime", "bergamot", "pink pepper"], "heart": ["rose", "clary sage", "hay"], "base": ["cedarwood", "suede leather", "amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/french-leather-eau-de-parfum-75ml", "name": "Memo Paris - French Leather Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Honey Dragon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "ginger", "black pepper"], "heart": ["incense", "myrrh", "cinnamon bark"], "base": ["opoponax", "vanilla", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/honey-dragon-eau-de-parfum-75ml", "name": "Memo Paris - Honey Dragon Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Iberian Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron", "rosemary", "cinnamon"], "heart": ["iris", "coriander", "carrot seed"], "base": ["leather", "cedarwood", "agarwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/iberian-leather-eau-de-parfum-75ml", "name": "Memo Paris - Iberian Leather Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Ilha Do Mel",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["juniper berry", "bergamot", "white gardenia"], "heart": ["cypriol", "jasmine", "narcissus", "broom"], "base": ["vanilla", "benzoin", "iris"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/ilha-do-mel-eau-de-parfum-75ml", "name": "Memo Paris - Ilha Do Mel Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Indian Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Juliette Karagueuzoglou",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cypriol"], "heart": ["rose", "jasmine"], "base": ["vanilla", "patchouli", "styrax", "oud", "olibanum", "leather"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/indian-leather-eau-de-parfum-75ml", "name": "Memo Paris - Indian Leather Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Inlé",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cardamom", "bergamot", "tea", "neroli"], "heart": ["osmanthus", "fig", "jasmine"], "base": ["white musk", "cedarwood", "violet", "mate"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/inle-eau-de-parfum-75ml", "name": "Memo Paris - Inlé Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Irish Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pepper", "mandarin", "juniper berry"], "heart": ["iris", "clary sage", "green mate"], "base": ["green leather", "cedarwood", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/irish-leather-eau-de-parfum-75ml", "name": "Memo Paris - Irish Leather Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Irish Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "juniper berry"], "heart": ["green mate", "clary sage", "iris"], "base": ["tonka bean", "birch", "amber", "leather", "oud"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/irish-oud-eau-de-parfum-75ml", "name": "Memo Paris - Irish Oud Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Italian Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["green tomato leaf", "juniper berry", "pink pepper"], "heart": ["iris", "petitgrain", "clary sage"], "base": ["cistus", "myrrh", "vanilla", "leather"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/italian-leather-eau-de-parfum-75ml", "name": "Memo Paris - Italian Leather Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Ithaque",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Marypierre Julien",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "bitter orange", "mandarin", "juniper berry"], "heart": ["redcurrant", "blackcurrant bud", "cassis", "jasmine"], "base": ["cedarwood", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/ithaque-eau-de-parfum-75ml", "name": "Memo Paris - Ithaque Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Kedu",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["grapefruit", "mandarin", "bergamot", "tea", "ginger"], "heart": ["aromatic accord", "sesame"], "base": ["cedarwood", "white musk", "moss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/kedu-eau-de-parfum-75ml", "name": "Memo Paris - Kedu Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Lyra Peach",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "bitter orange", "cinnamon", "ginger"], "heart": ["jasmine", "tuberose", "peach"], "base": ["sandalwood", "vetiver", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/lyra-peach-eau-de-parfum-75ml", "name": "Memo Paris - Lyra Peach Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Madurai",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Gaël Montero",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "bergamot", "clary sage", "peach"], "heart": ["jasmine", "tuberose", "tagete"], "base": ["sandalwood", "amber", "suede"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/madurai-eau-de-parfum-75ml", "name": "Memo Paris - Madurai Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Marfa",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "peach"], "heart": ["ylang-ylang", "tuberose", "orange flower"], "base": ["cedarwood", "vanilla", "tonka bean", "sandalwood", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/marfa-eau-de-parfum-75ml", "name": "Memo Paris - Marfa Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Marfa Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["orange blossom", "mandarin", "ylang-ylang"], "heart": ["tuberose", "heliotrope", "incense"], "base": ["agarwood", "sandalwood", "vanilla", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/marfa-oud-eau-de-parfum-75ml", "name": "Memo Paris - Marfa Oud Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Menorca",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "ginger", "lemon"], "heart": ["neroli", "iris", "carrot seed"], "base": ["salty musk", "sandalwood", "ambergris"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/menorca-eau-de-parfum-75ml", "name": "Memo Paris - Menorca Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Ocean Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "mandarin", "pink pepper"], "heart": ["clary sage", "aquatic", "cedarwood"], "base": ["vetiver", "marine leather", "cistus labdanum"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/ocean-leather-eau-de-parfum-75ml", "name": "Memo Paris - Ocean Leather Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Odéon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["rose", "candied rose"], "heart": ["sandalwood", "cashmeran", "patchouli"], "base": ["tonka bean", "dry amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/odeon-eau-de-parfum-75ml", "name": "Memo Paris - Odéon Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Odéon Rosebud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "apricot seed", "pink pepper"], "heart": ["rose", "peony", "freesia"], "base": ["white musk", "patchouli", "cashmeran"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/odeon-rosebud-eau-de-parfum-75ml", "name": "Memo Paris - Odéon Rosebud Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Odéon X Jean Jullien",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["rose", "candied rose"], "heart": ["sandalwood", "cashmeran", "patchouli"], "base": ["tonka bean", "dry amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/odeon-x-jean-jullien-eau-de-parfum-75ml", "name": "Memo Paris - Odéon X Jean Jullien Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Palais Bourbon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Gaël Montero",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["black pepper", "cardamom", "cinnamon", "incense", "geranium"], "heart": ["peru balsam", "benzoin", "cistus", "tonka bean", "vanilla"], "base": ["sandalwood", "patchouli", "guaiacwood", "vetiver", "oud"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/palais-bourbon-eau-de-parfum-75ml", "name": "Memo Paris - Palais Bourbon Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Portobello Road",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "myrtle", "green leaf"], "heart": ["rose", "clary sage"], "base": ["vetiver", "patchouli", "light rain"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/portobello-road-eau-de-parfum-75ml", "name": "Memo Paris - Portobello Road Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Red Island",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["longoza", "bergamot", "cinnamon"], "heart": ["coffee", "sandalwood", "carrot"], "base": ["vanilla", "patchouli", "tonka bean"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/red-island-eau-de-parfum-75ml", "name": "Memo Paris - Red Island Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Sherwood",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["blackcurrant bud", "pink pepper", "carrot seed"], "heart": ["orange flower", "rose"], "base": ["sandalwood", "oakwood", "cashmeran"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/sherwood-eau-de-parfum-75ml", "name": "Memo Paris - Sherwood Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Sicilian Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bitter orange", "bergamot", "cedrat", "coriander", "cardamom"], "heart": ["fir balsam", "violet leaf"], "base": ["cedarwood", "white leather", "guaiac wood", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/sicilian-leather-eau-de-parfum-75ml", "name": "Memo Paris - Sicilian Leather Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Sintra",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Philippe Paparella",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "red berries", "petitgrain"], "heart": ["orange flower", "cinnamon bark", "rose"], "base": ["vanilla", "caramel", "marshmallow musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/sintra-eau-de-parfum-75ml", "name": "Memo Paris - Sintra Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "West 34",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "green mandarin", "peach", "olibanum"], "heart": ["jasmine", "tuberose", "osmanthus"], "base": ["sandalwood", "amber", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/west-34-eau-de-parfum-75ml", "name": "Memo Paris - West 34 Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Zante",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["petitgrain", "mandarin", "bergamot"], "heart": ["neroli", "rosemary", "lavender"], "base": ["patchouli", "amber", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.memoparis.com/products/zante-eau-de-parfum-75ml", "name": "Memo Paris - Zante Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    }
+  ]
+}

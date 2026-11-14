@@ -1,0 +1,266 @@
+{
+  "brand": "Valentino",
+  "slug": "valentino",
+  "officialSite": "https://www.valentino-beauty.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official valentino-beauty.com product pages returned HTTP 403 when fetched (blocked), so all notes are reported from scento.com product pages. Range taken from the scento.com Valentino brand listing (21 items). Concentration is taken from product image alt text where stated there, otherwise null. Families not stated by any fetched source. Only the main Donna/Uomo, Voce Viva, Born in Roma and Vendetta lines are covered so far.",
+  "fragrances": [
+    {
+      "name": "Voce Viva",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2020,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin orange", "bergamot", "ginger"], "heart": ["orange blossom", "gardenia"], "base": ["vanilla", "sandalwood", "oakmoss", "tonka bean", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/voce-viva-valentino", "name": "Scento — Valentino Voce Viva", "type": "retailer", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "Voce Viva Intensa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2021,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin orange", "bergamot"], "heart": ["orange blossom", "jasmine sambac"], "base": ["bourbon vanilla", "moss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/voce-viva-intensa-valentino", "name": "Scento — Valentino Voce Viva Intensa", "type": "retailer", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "Valentino Donna Born In Roma",
+      "collection": "Born in Roma",
+      "concentration": null,
+      "releaseYear": 2019,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["black currant", "pink pepper", "bergamot"], "heart": ["jasmine tea", "jasmine", "jasmine sambac"], "base": ["cashmeran", "guaiac wood", "bourbon vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/valentino-donna-born-in-roma-valentino", "name": "Scento — Valentino Donna Born In Roma", "type": "retailer", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "Valentino Donna Born In Roma Intense",
+      "collection": "Born in Roma",
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bourbon vanilla", "amber"], "heart": ["jasmine"], "base": ["benzoin"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/valentino-donna-born-in-roma-intense-valentino", "name": "Scento — Valentino Donna Born In Roma Intense", "type": "retailer", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "Valentino Donna Born In Roma Coral Fantasy",
+      "collection": "Born in Roma",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": "Nadege le Garlantezec, Jacques Huclier",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["kiwi", "brazilian orange"], "heart": ["indian jasmine", "ambrette", "rose"], "base": ["texas cedar", "white musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/valentino-donna-born-in-roma-coral-fantasy-valentino", "name": "Scento — Valentino Donna Born In Roma Coral Fantasy", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Donna Born in Roma Purple Melancholia",
+      "collection": "Born in Roma",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["plum"], "heart": ["osmanthus"], "base": ["vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/donna-born-in-roma-purple-melancholia-valentino", "name": "Scento — Donna Born in Roma Purple Melancholia", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+      ]
+    },
+    {
+      "name": "Born in Roma Extradose Donna",
+      "collection": "Born in Roma",
+      "concentration": null,
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["blackcurrant"], "heart": ["rum"], "base": ["vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/born-in-roma-extradose-donna-valentino", "name": "Scento — Born in Roma Extradose Donna", "type": "retailer", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "Valentino Donna",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2015,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "grapefruit"], "heart": ["iris", "bulgarian rose", "praline", "mahonial"], "base": ["leather", "vanilla", "patchouli"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/valentino-donna-valentino", "name": "Scento — Valentino Donna", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+      ]
+    },
+    {
+      "name": "Valentino Uomo",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2014,
+      "perfumer": "Olivier Polge",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["myrtle", "bergamot"], "heart": ["hazelnut", "chocolate", "roasted coffee bean"], "base": ["leather", "cedar"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/valentino-uomo-valentino", "name": "Scento — Valentino Uomo", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Valentino Uomo Born in Roma",
+      "collection": "Born in Roma",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2019,
+      "perfumer": "Antoine Maisondieu, Guillaume Flavigny",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mineral notes", "violet leaf", "salt"], "heart": ["ginger", "sage"], "base": ["woody notes", "vetiver"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/valentino-uomo-born-in-roma-valentino", "name": "Scento — Valentino Uomo Born in Roma", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Vendetta Donna",
+      "collection": "Vendetta",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Dominique Ropion, Andrew Everett",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["blood orange"], "heart": ["tuberose"], "base": ["sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/vendetta-donna-valentino", "name": "Scento — Valentino Vendetta Donna", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Vendetta Uomo",
+      "collection": "Vendetta",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Marie Salamagne",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["ginger"], "heart": ["cinnamon", "liquor"], "base": ["patchouli"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/vendetta-uomo-valentino", "name": "Scento — Valentino Vendetta Uomo", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Valentino Uomo Born In Roma Coral Fantasy",
+      "collection": "Born in Roma",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["calabrian bergamot", "cardamom", "red apple"], "heart": ["bourbon geranium", "clary sage", "lavender"], "base": ["haitian vetiver", "patchouli", "tobacco leaf"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/valentino-uomo-born-in-roma-coral-fantasy-valentino", "name": "Scento — Valentino Uomo Born In Roma Coral Fantasy", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+      ]
+    },
+    {
+      "name": "Valentino Uomo Born In Roma Intense",
+      "collection": "Born in Roma",
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": "Antoine Maisondieu, Guillaume Flavigny",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["vanilla"], "heart": ["lavender"], "base": ["vetiver"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/valentino-uomo-born-in-roma-intense-valentino", "name": "Scento — Valentino Uomo Born In Roma Intense", "type": "retailer", "supports": ["notes", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Valentino Donna Born in Roma Green Stravaganza",
+      "collection": "Born in Roma",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lapsang souchong tea"], "heart": ["jasmine"], "base": ["vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/valentino-donna-born-in-roma-green-stravaganza-valentino", "name": "Scento — Valentino Donna Born in Roma Green Stravaganza", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+      ]
+    },
+    {
+      "name": "Uomo Born in Roma Green Stravaganza",
+      "collection": "Born in Roma",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2024,
+      "perfumer": "Nathalie Lorson, Olivier Cresp",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["calabrian bergamot"], "heart": ["coffee"], "base": ["vetiver"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/uomo-born-in-roma-green-stravaganza-valentino", "name": "Scento — Uomo Born in Roma Green Stravaganza", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Uomo Born in Roma Rendez-Vous Ruby",
+      "collection": "Born in Roma",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2026,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["raspberry", "bergamot"], "heart": ["gourmand accord", "lavender", "sage"], "base": ["amber", "woody notes"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/uomo-born-in-roma-rendez-vous-ruby-valentino", "name": "Scento — Uomo Born in Roma Rendez-Vous Ruby", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+      ]
+    }
+  ]
+}
