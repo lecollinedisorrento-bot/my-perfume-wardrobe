@@ -1,0 +1,260 @@
+{
+  "brand": "Asghar Adam Ali",
+  "slug": "aaa-signature-collection",
+  "officialSite": "https://asgharadamali.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/aaa-signature-collection/"
+    }
+  ],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Distributor lists the line as 'AAA Signature Collection'; official site (asgharadamali.com, 'Asghar Adam Ali Parfums') and retailers (eCosmetics: 'Asghar Adam Ali', 'Signature Collection') use brand 'Asghar Adam Ali' with collection 'Signature Collection', so brand is set that way. Gulf News names exactly four Signature Collection fragrances (Absolute, Avtar, Asiya, Ashjan); only those are included. The official spray page also lists Parrot, Lion, Ostrich, Peacock, Tiger, Elephant, which no source read ties to the Signature Collection, so they were left out (can be added). Bakhoor and oudh chips excluded as non-perfume. Notes and families are from official product pages; official pages state no concentration, year or perfumer. Asiya concentration (Eau de Parfum) from eCosmetics. Brand country left null: the asgharadamali.com contact address is in Sharjah, UAE, but no source states the brand's origin as such. parfumo.com returned 403 and fragrancenet.com 403.",
+  "fragrances": [
+    {
+      "name": "Absolute",
+      "collection": "Signature Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus, Leathery, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "lemon",
+          "pink pepper",
+          "bergamot",
+          "mandarin",
+          "cardamom",
+          "lavender",
+          "fruity",
+          "ginger",
+          "saffron",
+          "coriander"
+        ],
+        "heart": [
+          "incense",
+          "leather",
+          "cashmeran",
+          "violet",
+          "plum",
+          "pineapple",
+          "orange blossom",
+          "jasmine",
+          "brown sugar"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood",
+          "guaiac wood",
+          "oud accord",
+          "labdanum",
+          "musk",
+          "benzoin",
+          "balsam",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://asgharadamali.com/product/absolute-100ml-spray-perfume/",
+          "name": "Asghar Adam Ali — Absolute",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://gulfnews.com/gn-focus/experience-the-art-of-perfumery-with-asghar-adam-ali-parfums-1.500074462",
+          "name": "Gulf News — Asghar Adam Ali Parfums Signature Collection",
+          "type": "publication",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Ashjan",
+      "collection": "Signature Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Floral, Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cherry",
+          "coconut",
+          "chocolate",
+          "ginger"
+        ],
+        "heart": [
+          "lily of the valley",
+          "jasmine",
+          "ylang-ylang",
+          "heliotrope"
+        ],
+        "base": [
+          "white musk",
+          "vanilla",
+          "ambrette seed",
+          "rose"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://asgharadamali.com/product/ashjan-100-ml-spray-perfume/",
+          "name": "Asghar Adam Ali — Ashjan",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://gulfnews.com/gn-focus/experience-the-art-of-perfumery-with-asghar-adam-ali-parfums-1.500074462",
+          "name": "Gulf News — Asghar Adam Ali Parfums Signature Collection",
+          "type": "publication",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Asiya",
+      "collection": "Signature Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery, Floral, Chypre",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "pear",
+          "white floral",
+          "basil",
+          "pepper",
+          "clove"
+        ],
+        "heart": [
+          "rose",
+          "caramel",
+          "gourmand",
+          "orange blossom",
+          "narcissus",
+          "heliotrope",
+          "patchouli"
+        ],
+        "base": [
+          "labdanum",
+          "sandalwood",
+          "amber",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://asgharadamali.com/product/asiya-100-ml-spray-perfume/",
+          "name": "Asghar Adam Ali — Asiya",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://gulfnews.com/gn-focus/experience-the-art-of-perfumery-with-asghar-adam-ali-parfums-1.500074462",
+          "name": "Gulf News — Asghar Adam Ali Parfums Signature Collection",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://www.ecosmetics.com/product/signature-collection-asiya-eau-de-parfum/",
+          "name": "eCosmetics — Signature Collection Asiya Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Avtar",
+      "collection": "Signature Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Aromatic, Floral, Musky, Leathery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "lavandin",
+          "pink peppercorn",
+          "cedarwood",
+          "cardamom",
+          "pepper",
+          "clove",
+          "ginger"
+        ],
+        "heart": [
+          "orris",
+          "geranium",
+          "rose",
+          "white floral",
+          "iris",
+          "ambrette",
+          "fig leaf"
+        ],
+        "base": [
+          "tonka",
+          "vanilla",
+          "musk",
+          "ambroxan",
+          "lactonic",
+          "labdanum",
+          "balsam",
+          "amber",
+          "benzoin",
+          "leather",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://asgharadamali.com/product/avtar-100-ml-spray-perfume/",
+          "name": "Asghar Adam Ali — Avtar",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://gulfnews.com/gn-focus/experience-the-art-of-perfumery-with-asghar-adam-ali-parfums-1.500074462",
+          "name": "Gulf News — Asghar Adam Ali Parfums Signature Collection",
+          "type": "publication",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

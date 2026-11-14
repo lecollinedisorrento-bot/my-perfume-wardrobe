@@ -1,0 +1,494 @@
+{
+  "brand": "Ghawali",
+  "slug": "ghawali",
+  "officialSite": "https://ae.ghawali.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/ghawali/"
+    }
+  ],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "ghawali.com/en redirects to ae.ghawali.com (UAE store); homepage listed 14 items, of which 11 parfum product pages were opened for notes. Bottled Emotions has no readable product page (collection page listing did not render), so no notes. Concentration set only where the page title says Parfum. Many pages show Sold out (several also show Add to bag); discontinued left false since stock status is not a discontinuation statement. Excluded: Closer Apart and Midnight Noise hair mists, discovery set, Concentrated Perfume Heirloom (variant of Heirloom, not opened), Last Date Parfum (only seen as a menu promo, product page not opened), old Signe Magazine names (Al Abiq etc., not confirmed current). parfumo.com and selfridges.com returned 403. Bloomingdales page content was truncated. Brand country not stated on any page read (Signe Magazine says only stores in UAE); left null. Distributor page returns empty to fetchers.",
+  "fragrances": [
+    {
+      "name": "4 Walls Oud",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "pink pepper",
+          "elemi"
+        ],
+        "heart": [
+          "cypress",
+          "orris",
+          "rose"
+        ],
+        "base": [
+          "wood leather",
+          "vetiver",
+          "tonka"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/november-sale/products/4-walls-oud-75ml",
+          "name": "Ghawali UAE — 4 Walls Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Untold",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Ambery, Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "eucalyptus",
+          "orange",
+          "bergamot"
+        ],
+        "heart": [
+          "praline",
+          "caramel",
+          "atlas cedarwood"
+        ],
+        "base": [
+          "patchouli",
+          "gurjun balsam",
+          "amber",
+          "cypriol"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/november-sale/products/untold-parfum",
+          "name": "Ghawali UAE — Untold",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noble",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Musky, Ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "lemon"
+        ],
+        "heart": [
+          "aromatic",
+          "lily of the valley"
+        ],
+        "base": [
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/november-sale/products/parfum-al-nobl-75ml",
+          "name": "Ghawali UAE — Noble",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nomadic Dreams",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery, Woody, Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "ginger"
+        ],
+        "heart": [
+          "rose",
+          "saffron",
+          "oud"
+        ],
+        "base": [
+          "patchouli",
+          "leather",
+          "amber",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/november-sale/products/nomadic-dreams",
+          "name": "Ghawali UAE — Nomadic Dreams",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musical Vibrations",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery, Vanilla, Citrus",
+      "accords": [],
+      "notes": {
+        "top": [
+          "water fruits",
+          "lemon",
+          "saffron",
+          "mandarin"
+        ],
+        "heart": [
+          "jasmine",
+          "frangipani",
+          "osmanthus",
+          "lavender"
+        ],
+        "base": [
+          "amber",
+          "oakmoss",
+          "sandalwood",
+          "musk",
+          "praline",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/ghawalis-best-sellers/products/musical-vibrations-75ml",
+          "name": "Ghawali UAE — Musical Vibrations",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Midnight Noise",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery, Aromatic, Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "apple",
+          "pear",
+          "nectarine"
+        ],
+        "heart": [
+          "jasmine",
+          "magnolia",
+          "rose",
+          "violet",
+          "praline"
+        ],
+        "base": [
+          "patchouli",
+          "musk",
+          "woody",
+          "tonka",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/ghawalis-best-sellers/products/parfum-midnight-noise-75ml",
+          "name": "Ghawali UAE — Midnight Noise",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Love Note",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Vanilla, Woody, Ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "praline",
+          "chocolate"
+        ],
+        "heart": [
+          "amber"
+        ],
+        "base": [
+          "musk",
+          "vanilla bourbon",
+          "cashmerewood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/ghawalis-best-sellers/products/love-note-75ml",
+          "name": "Ghawali UAE — Love Note",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laylaa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery, Floral, Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "cardamom"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "violet"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/ghawalis-best-sellers/products/laylaa-parfum",
+          "name": "Ghawali UAE — Laylaa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kin Musk",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "sesame"
+        ],
+        "heart": [
+          "mimosa",
+          "jasmine"
+        ],
+        "base": [
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/new-collection/products/kin-musk-parfum",
+          "name": "Ghawali UAE — Kin Musk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dusk Outro",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand, fresh, floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "mandarin",
+          "basil"
+        ],
+        "heart": [
+          "cedarwood",
+          "orange flower",
+          "neroli"
+        ],
+        "base": [
+          "musk",
+          "praline",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/new-collection/products/dusk-outro",
+          "name": "Ghawali UAE — Dusk Outro",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heirloom",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "clove",
+          "sakura accord"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "water flower"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/new-collection/products/heirloom-parfum",
+          "name": "Ghawali UAE — Heirloom",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bottled Emotions",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ae.ghawali.com/collections/bottled-emotions",
+          "name": "Ghawali UAE — Bottled Emotions collection",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://bloomingdales.ae/ghawali-bottled-emotions-parfum-BEA217794630.html",
+          "name": "Bloomingdale's UAE — Bottled Emotions Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

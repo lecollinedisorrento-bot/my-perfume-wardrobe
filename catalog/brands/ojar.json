@@ -1,0 +1,620 @@
+{
+  "brand": "OJAR",
+  "slug": "ojar",
+  "officialSite": "https://www.ojarofficial.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/ojar/"
+    }
+  ],
+  "country": "Oman",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site ojarofficial.com collections/all (72 items over 5 pages, mostly 15ml/absolute/set variants) yielded 15 distinct fragrances; notes taken from each fragrance's 100ml product page (mid/dry labels mapped to heart/base). Absolute (perfume oil) variants and gift/discovery sets not listed separately. Concentration given only where the page states it (Musk Colada and Oud Whisper: Extrait de Parfum; Ever Lit: not stated). Perfumer, release year and accords not stated on product pages, left empty; jovoyparis.com listing also opened for cross-check of the name list (17 entries incl. 2 oils). Parfumo returned 403; ojar.com is an unrelated site. Third-party snippets mention 18 fragrances in total, so the list may be incomplete. Epine du Desert family 'Oriental' from the page description.",
+  "fragrances": [
+    {
+      "name": "Ciel d'Orage",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "artemisia",
+          "saffron"
+        ],
+        "heart": [
+          "pine",
+          "rose",
+          "patchouli",
+          "vetiver",
+          "guaiac wood"
+        ],
+        "base": [
+          "suede",
+          "agarwood",
+          "sandalwood",
+          "styrax"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/collections/all/products/ciel_dorage_eau_de_parfum",
+          "name": "OJAR - Ciel d'Orage",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eyed Stranger",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bay",
+          "lily of the valley",
+          "incense"
+        ],
+        "heart": [
+          "dry woods",
+          "oakmoss",
+          "vetiver"
+        ],
+        "base": [
+          "white amber",
+          "pimento",
+          "birch"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/products/eagle-eyed-stranger-eau-de-parfum",
+          "name": "OJAR - Eagle Eyed Stranger",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encens Cuivre",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "elemi",
+          "rosewood"
+        ],
+        "heart": [
+          "patchouli",
+          "myrrh",
+          "frankincense"
+        ],
+        "base": [
+          "ambergris",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/products/encens-cuivre-eau-de-parfum",
+          "name": "OJAR - Encens Cuivre",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epine du Desert",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "pimento"
+        ],
+        "heart": [
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "suede",
+          "dry woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/collections/all/products/epine-du-desert-eau-de-parfum",
+          "name": "OJAR - Epine du Desert",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ever Lit",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink peppercorn",
+          "apple",
+          "cypress"
+        ],
+        "heart": [
+          "sandalwood",
+          "marine",
+          "cistus"
+        ],
+        "base": [
+          "akigalawood",
+          "benzoin",
+          "olibanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/products/ever-lit",
+          "name": "OJAR - Ever Lit",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Halwa Kiss",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "saffron",
+          "pistachio"
+        ],
+        "heart": [
+          "date",
+          "roasted nuts",
+          "rose",
+          "honey"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "sesame seed"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/collections/all/products/halwa_kiss_eau_de_parfum",
+          "name": "OJAR - Halwa Kiss",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infusion Velours",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "cinnamon",
+          "blackberry"
+        ],
+        "heart": [
+          "raspberry",
+          "agarwood",
+          "cedarwood"
+        ],
+        "base": [
+          "agarwood",
+          "patchouli",
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/products/infusion-velours-eau-de-parfum",
+          "name": "OJAR - Infusion Velours",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kashmir Print",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "freesia",
+          "lily of the valley"
+        ],
+        "heart": [
+          "orris",
+          "rose",
+          "pink pepper"
+        ],
+        "base": [
+          "patchouli",
+          "white amber",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/collections/all/products/kashmir_print_eau_de_parfum",
+          "name": "OJAR - Kashmir Print",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk Colada",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "prickly pear",
+          "cherry blossom",
+          "nectarine"
+        ],
+        "heart": [
+          "musk melon",
+          "henna",
+          "saffron",
+          "mastic"
+        ],
+        "base": [
+          "white musk",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/products/musk-colada",
+          "name": "OJAR - Musk Colada",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Whisper",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "habanero",
+          "black pomegranate",
+          "guava"
+        ],
+        "heart": [
+          "orange blossom",
+          "sandalwood",
+          "luban"
+        ],
+        "base": [
+          "leather",
+          "oud",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/products/oud-whisper",
+          "name": "OJAR - Oud Whisper",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Redemption",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "blood orange"
+        ],
+        "heart": [
+          "rose",
+          "white amber",
+          "vetiver",
+          "patchouli"
+        ],
+        "base": [
+          "oakmoss",
+          "vanilla",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/collections/all/products/red-redemption-eau-de-parfum",
+          "name": "OJAR - Red Redemption",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Routes Nomades",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cypress",
+          "ginger",
+          "cardamom"
+        ],
+        "heart": [
+          "ylang ylang",
+          "vetiver",
+          "cinnamon leaf"
+        ],
+        "base": [
+          "patchouli",
+          "incense",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/collections/all/products/routes-nomades-eau-de-parfum",
+          "name": "OJAR - Routes Nomades",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solar Flair",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "pink peppercorn",
+          "heliotrope"
+        ],
+        "heart": [
+          "honeysuckle",
+          "osmanthus",
+          "patchouli"
+        ],
+        "base": [
+          "honey",
+          "vetiver",
+          "vanilla",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/products/solar-flair",
+          "name": "OJAR - Solar Flair",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stallion Soul",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "incense",
+          "rose"
+        ],
+        "heart": [
+          "leather",
+          "jasmine",
+          "violet"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "patchouli",
+          "agarwood",
+          "cypriol"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/collections/all/products/stallion_soul_eau_de_parfum",
+          "name": "OJAR - Stallion Soul",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wood Whisper",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "plum"
+        ],
+        "heart": [
+          "sandalwood",
+          "violet",
+          "cashmere wood"
+        ],
+        "base": [
+          "white amber",
+          "vanilla",
+          "ambergris",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ojarofficial.com/products/wood-whisper-eau-de-parfum",
+          "name": "OJAR - Wood Whisper",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

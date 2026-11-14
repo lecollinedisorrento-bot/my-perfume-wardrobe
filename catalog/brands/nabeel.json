@@ -1,0 +1,1613 @@
+{
+  "brand": "Nabeel",
+  "slug": "nabeel",
+  "officialSite": "https://www.nabeelperfumes.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/nabeel-perfumes/"
+    }
+  ],
+  "country": "United Arab Emirates",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site nabeelperfumes.com returned 503 (not opened), so every note list is 'reported' from the retailer Arabic Parfums (2-page Nabeel collection, ~45 items; incense sticks, roll-on oils and non-listed products skipped; later items such as Crown of Emirates, Bankam, Al Bashiq Shama, Asateer, Maghateer series, Roeya, Ocean variants not opened). Concentration recorded only where page text says Eau de Parfum (image filenames ignored). Irth pyramid is an unusually long retailer list that looks aggregated; treat with caution. Irth Boom exists per a Parfumo search result only (Parfumo returns 403), so no data. Brand origin: Nabeel founded 1969 in Aden, relocated to UAE and relaunched 1990, per a Khaleej Times/search snippet; country UAE is based on that. BJ Distribuzione page returned empty. Marketing text not copied. Editorial review: Anar notes removed because its source page appears to mix in another product (BLU ZAFFIRO).",
+  "fragrances": [
+    {
+      "name": "Irth",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": "Oriental Floral Woody Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "damask rose",
+          "strawberry",
+          "peach",
+          "pineapple",
+          "bergamot",
+          "cinnamon",
+          "apple",
+          "blackcurrant",
+          "cumin",
+          "sweet orange",
+          "coffee",
+          "pink pepper",
+          "cardamom"
+        ],
+        "heart": [
+          "rose",
+          "oud",
+          "cypriol",
+          "lily of the valley",
+          "cedar",
+          "violet",
+          "iris",
+          "jasmine",
+          "coriander",
+          "saffron",
+          "sandalwood"
+        ],
+        "base": [
+          "white musk",
+          "vanilla",
+          "leather",
+          "civet",
+          "ambergris",
+          "amber",
+          "guaiac wood",
+          "tolu balsam",
+          "vetiver",
+          "sandalwood",
+          "patchouli",
+          "labdanum",
+          "oakmoss",
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/perfumes-unisex/products/irth-nabeel-100ml",
+          "name": "Arabic Parfums — Irth",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Irth Boom",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/irth-boom",
+          "name": "Parfumo — Irth Boom (search result only, page blocked)",
+          "type": "database",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Irth Fairooz",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": "Woody Floral Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "grapefruit",
+          "bergamot"
+        ],
+        "heart": [
+          "peony",
+          "lily of the valley",
+          "orange blossom"
+        ],
+        "base": [
+          "cashmere",
+          "oakmoss",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/irth-fairooz-nabeel-100ml",
+          "name": "Arabic Parfums — Irth Fairooz",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Irth Gold",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": "Floral Oriental Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "cinnamon",
+          "mint"
+        ],
+        "heart": [
+          "rose",
+          "hibiscus",
+          "lily of the valley"
+        ],
+        "base": [
+          "ambrette",
+          "leather",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/irth-gold-nabeel",
+          "name": "Arabic Parfums — Irth Gold",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dan Dana",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "blackcurrant",
+          "coriander",
+          "juniper berry",
+          "cardamom",
+          "bergamot",
+          "lemon",
+          "grapefruit",
+          "mandarin"
+        ],
+        "heart": [
+          "jasmine",
+          "clove",
+          "bay leaf",
+          "geranium",
+          "violet leaf",
+          "black pepper",
+          "cedar",
+          "leather",
+          "cypress"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "moss",
+          "labdanum",
+          "raspberry",
+          "vetiver",
+          "guaiac wood",
+          "amber",
+          "cedar",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/dan-dana-nabeel",
+          "name": "Arabic Parfums — Dan Dana",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sukoon",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "mandarin",
+          "leather",
+          "citrus",
+          "neroli",
+          "rose",
+          "musk",
+          "vanilla"
+        ],
+        "heart": [
+          "peony",
+          "lychee",
+          "magnolia",
+          "orange blossom",
+          "papyrus"
+        ],
+        "base": [
+          "amber",
+          "ambergris",
+          "musk",
+          "sandalwood",
+          "oud",
+          "violet"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/sukoon-nabeel",
+          "name": "Arabic Parfums — Sukoon",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noble",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "pineapple",
+          "apple",
+          "strawberry"
+        ],
+        "heart": [
+          "lily of the valley",
+          "freesia",
+          "peach",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "caramel",
+          "amber wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/noble-nabeel",
+          "name": "Arabic Parfums — Noble",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mamnoon",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "green tea"
+        ],
+        "heart": [
+          "cedar",
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/mamnoon-nabeel",
+          "name": "Arabic Parfums — Mamnoon",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marble",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2018,
+      "perfumer": null,
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pineapple",
+          "blackcurrant",
+          "apple",
+          "rose",
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "oud",
+          "amyris wood",
+          "birch",
+          "patchouli",
+          "jasmine",
+          "coriander",
+          "virginia juniper"
+        ],
+        "base": [
+          "moss",
+          "leather",
+          "musk",
+          "vanilla",
+          "amber",
+          "red berry"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/marble-nabeel",
+          "name": "Arabic Parfums — Marble",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gold 24K",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apricot",
+          "orange",
+          "lily of the valley"
+        ],
+        "heart": [
+          "tonka bean",
+          "sandalwood",
+          "peony"
+        ],
+        "base": [
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/gold-24k-nabeel",
+          "name": "Arabic Parfums — Gold 24K",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Antar",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "melon",
+          "saffron",
+          "raspberry",
+          "plum",
+          "pineapple",
+          "black pepper",
+          "pink pepper",
+          "grapefruit",
+          "strawberry",
+          "cardamom",
+          "lemon",
+          "thyme",
+          "lime",
+          "mandarin"
+        ],
+        "heart": [
+          "marine note",
+          "frankincense",
+          "lavender",
+          "rose",
+          "jasmine",
+          "gardenia",
+          "orchid",
+          "cyclamen"
+        ],
+        "base": [
+          "leather",
+          "white musk",
+          "sandalwood",
+          "moss",
+          "vanilla",
+          "woody note",
+          "amber",
+          "cedarwood",
+          "suede",
+          "patchouli",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/antar-nabeel",
+          "name": "Arabic Parfums — Antar",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desert Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Leather",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "plum",
+          "strawberry",
+          "thyme"
+        ],
+        "heart": [
+          "jasmine",
+          "freesia",
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "leather",
+          "cedar",
+          "ambergris",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/desert-leather-nabeel",
+          "name": "Arabic Parfums — Desert Leather",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Helu",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "bergamot",
+          "plum",
+          "strawberry",
+          "blackcurrant",
+          "coconut"
+        ],
+        "heart": [
+          "gardenia",
+          "iris",
+          "jasmine",
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "leather",
+          "vanilla",
+          "amber",
+          "white musk",
+          "patchouli",
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/helu-nabeel",
+          "name": "Arabic Parfums — Helu",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anar",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/anar-nabeel",
+          "name": "Arabic Parfums — Anar",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bahi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": "Oriental Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom",
+          "orange blossom",
+          "caramel"
+        ],
+        "heart": [
+          "vanilla",
+          "amber",
+          "tonka bean",
+          "jasmine"
+        ],
+        "base": [
+          "praline",
+          "guaiac wood",
+          "ambergris",
+          "sweet note"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/bahi-nabeel",
+          "name": "Arabic Parfums — Bahi",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Birwaz",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": "Oriental Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine sambac",
+          "ylang-ylang",
+          "tuberose",
+          "saffron"
+        ],
+        "heart": [
+          "orange blossom",
+          "cashmere wood",
+          "cedar",
+          "vanilla"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/birwaz-nabeel",
+          "name": "Arabic Parfums — Birwaz",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Touch Me Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "pineapple",
+          "apple",
+          "bergamot",
+          "peach",
+          "green leaf",
+          "lemon",
+          "thyme"
+        ],
+        "heart": [
+          "jasmine",
+          "violet",
+          "gourmand note",
+          "lily of the valley",
+          "rose",
+          "iris",
+          "amber wood"
+        ],
+        "base": [
+          "musk",
+          "cashmeran",
+          "sandalwood",
+          "vanilla",
+          "orcanox",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/touch-me-intense-nabeel",
+          "name": "Arabic Parfums — Touch Me Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua di Nabeel Absolute",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": "Oriental Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "star anise",
+          "incense",
+          "white flower",
+          "sweet orange",
+          "grapefruit",
+          "marine note",
+          "lemon",
+          "rose",
+          "dried fruit",
+          "blackcurrant",
+          "pink pepper",
+          "pineapple",
+          "bergamot",
+          "cardamom",
+          "cinnamon",
+          "vanilla",
+          "saffron",
+          "coffee",
+          "peach",
+          "elemi",
+          "plum"
+        ],
+        "heart": [
+          "neroli",
+          "coconut",
+          "jasmine",
+          "rose",
+          "oud",
+          "lily of the valley",
+          "sandalwood",
+          "heliotrope",
+          "patchouli",
+          "coriander",
+          "geranium",
+          "vanilla",
+          "leather",
+          "cypriol",
+          "styrax",
+          "ginger",
+          "clove",
+          "iris"
+        ],
+        "base": [
+          "musk",
+          "oud",
+          "guaiac wood",
+          "vanilla",
+          "benzoin",
+          "oakmoss",
+          "leather",
+          "vetiver",
+          "cedar",
+          "amber",
+          "spun sugar",
+          "castoreum",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/aqua-di-nabeel-absolute-nabeel",
+          "name": "Arabic Parfums — Aqua di Nabeel Absolute",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ocean",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": "Aquatic Floral Woody Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "marine note",
+          "aquatic note",
+          "ozonic note",
+          "violet leaf",
+          "apple",
+          "pineapple"
+        ],
+        "heart": [
+          "rose",
+          "lotus flower",
+          "cyclamen",
+          "cedar"
+        ],
+        "base": [
+          "musk",
+          "white musk",
+          "ambergris",
+          "oud",
+          "vanilla",
+          "vetiver",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/ocean-nabeel-100ml",
+          "name": "Arabic Parfums — Ocean",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Al Bashiq",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Leather Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "leather",
+          "incense",
+          "pine",
+          "styrax",
+          "cypress",
+          "nutmeg",
+          "cardamom",
+          "cinnamon",
+          "saffron",
+          "bitter almond",
+          "lavender",
+          "artemisia",
+          "apple",
+          "grapefruit",
+          "bergamot"
+        ],
+        "heart": [
+          "oud",
+          "myrrh",
+          "frankincense",
+          "labdanum",
+          "cypress",
+          "guaiac wood",
+          "cedar",
+          "jasmine",
+          "cashmere",
+          "lily of the valley",
+          "geranium"
+        ],
+        "base": [
+          "oud",
+          "patchouli",
+          "vetiver",
+          "tolu balsam",
+          "vanilla",
+          "sandalwood",
+          "benzoin",
+          "amber",
+          "tobacco",
+          "musk",
+          "saffron",
+          "guaiac wood",
+          "ambergris",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/al-bashiq-nabeel-100ml",
+          "name": "Arabic Parfums — Al Bashiq",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Master Mind Noir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Leather Woody Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "woody note",
+          "clove",
+          "rosemary",
+          "sweet note"
+        ],
+        "heart": [
+          "cypriol",
+          "cedar",
+          "patchouli",
+          "guaiac wood",
+          "violet",
+          "lily of the valley"
+        ],
+        "base": [
+          "tobacco leaves",
+          "labdanum",
+          "leather",
+          "castoreum",
+          "musk",
+          "sandalwood",
+          "tonka bean",
+          "amber",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/master-mind-noir-nabeel-100ml",
+          "name": "Arabic Parfums — Master Mind Noir",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Master Mind Rouge",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Woody Floral Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "green notes",
+          "bergamot",
+          "cardamom",
+          "leather"
+        ],
+        "heart": [
+          "jasmine",
+          "cedar",
+          "ylang-ylang",
+          "patchouli"
+        ],
+        "base": [
+          "musk",
+          "woody note",
+          "sweet note"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/master-mind-rouge-nabeel-100ml",
+          "name": "Arabic Parfums — Master Mind Rouge",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Modern",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy Woody Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "nutmeg",
+          "suede"
+        ],
+        "heart": [
+          "labdanum",
+          "guaiac wood",
+          "amber wood",
+          "oud",
+          "frankincense"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli",
+          "oakmoss",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/modern-nabeel-100ml",
+          "name": "Arabic Parfums — Modern",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oody Woody",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity Floral Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "plum",
+          "strawberry"
+        ],
+        "heart": [
+          "rose",
+          "magnolia",
+          "jasmine",
+          "lily of the valley"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "guaiac wood",
+          "patchouli",
+          "ambergris",
+          "white musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/oody-woody-nabeel-100ml",
+          "name": "Arabic Parfums — Oody Woody",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sa'ada",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "musk"
+        ],
+        "heart": [
+          "coconut",
+          "marine note"
+        ],
+        "base": [
+          "patchouli",
+          "toasted sugar",
+          "vanilla",
+          "woody note"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/saada-nabeel",
+          "name": "Arabic Parfums — Sa'ada",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua di Nabeel",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Woody Floral Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "star anise",
+          "lemon",
+          "peach",
+          "blackcurrant",
+          "marine note",
+          "cinnamon",
+          "pineapple",
+          "incense",
+          "cardamom",
+          "bergamot",
+          "plum",
+          "grapefruit"
+        ],
+        "heart": [
+          "coconut",
+          "neroli",
+          "jasmine",
+          "rose",
+          "lily of the valley",
+          "iris",
+          "heliotrope"
+        ],
+        "base": [
+          "moss",
+          "musk",
+          "vetiver",
+          "oud",
+          "amber",
+          "leather",
+          "vanilla",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/aqua-di-nabeel-nabeel-100ml",
+          "name": "Arabic Parfums — Aqua di Nabeel",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Cafu",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Oriental Floral Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "cinnamon",
+          "apple",
+          "strawberry",
+          "milk",
+          "pineapple",
+          "lime",
+          "bitter orange",
+          "grapefruit",
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "honey",
+          "rose",
+          "geranium",
+          "carnation",
+          "orchid",
+          "iris",
+          "tuberose",
+          "lily of the valley",
+          "jasmine"
+        ],
+        "base": [
+          "oud",
+          "amber",
+          "vanilla",
+          "tonka bean",
+          "sandalwood",
+          "patchouli",
+          "myrrh",
+          "leather",
+          "cedar",
+          "musk",
+          "white musk",
+          "civet",
+          "gurjum balsam",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/oud-cafu-nabeel-100ml",
+          "name": "Arabic Parfums — Oud Cafu",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raunaq",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Woody Floral Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "tobacco",
+          "plum",
+          "rose",
+          "orange",
+          "strawberry"
+        ],
+        "heart": [
+          "tarragon",
+          "jasmine",
+          "eucalyptus",
+          "cypriol",
+          "ylang-ylang",
+          "cedar",
+          "magnolia",
+          "lily of the valley"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "oakmoss",
+          "patchouli",
+          "sugar",
+          "vanilla",
+          "musk",
+          "coumarin",
+          "cedar",
+          "guaiac wood",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/raunaq-nabeel-100ml",
+          "name": "Arabic Parfums — Raunaq",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ma' Alaina",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Woody Floral Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "mandarin",
+          "citrus",
+          "elemi",
+          "rose",
+          "ylang-ylang"
+        ],
+        "heart": [
+          "violet",
+          "carnation",
+          "lily of the valley",
+          "jasmine",
+          "floral notes"
+        ],
+        "base": [
+          "patchouli",
+          "musk",
+          "sandalwood",
+          "tobacco",
+          "woody note",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/ma-alaina-nabeel-100ml",
+          "name": "Arabic Parfums — Ma' Alaina",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fulad Azm",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "spice",
+          "lavender",
+          "bergamot"
+        ],
+        "heart": [
+          "cedar",
+          "geranium",
+          "patchouli"
+        ],
+        "base": [
+          "amber",
+          "labdanum",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/fulad-azm-nabeel-100ml",
+          "name": "Arabic Parfums — Fulad Azm",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ocean Blue",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "cardamom",
+          "elemi"
+        ],
+        "heart": [
+          "lavender",
+          "licorice",
+          "nutmeg"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/ocean-blue-nabeel-100ml",
+          "name": "Arabic Parfums — Ocean Blue",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nader Juri",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "rhubarb",
+          "lychee"
+        ],
+        "heart": [
+          "rose",
+          "peony"
+        ],
+        "base": [
+          "cedar",
+          "cashmere",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/nader-juri-nabeel-100ml",
+          "name": "Arabic Parfums — Nader Juri",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black O Man",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy Woody Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "mandarin"
+        ],
+        "heart": [
+          "patchouli",
+          "nutmeg",
+          "cedarwood",
+          "sandalwood"
+        ],
+        "base": [
+          "labdanum",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/collections/nabeel/products/black-o-man-nabeel",
+          "name": "Arabic Parfums — Black O Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

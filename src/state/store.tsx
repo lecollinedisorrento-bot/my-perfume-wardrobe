@@ -20,6 +20,7 @@ import { getHealth } from '../services/api';
 import type { HealthResponse } from '../shared/api';
 import { getPosition, weatherProvider, WeatherError } from '../services/weather';
 import { configureFeedback } from '../services/feedback';
+import { applyCatalog, findCatalogMatch, loadCatalog } from '../services/catalog';
 
 export type WeatherStatus = 'off' | 'idle' | 'loading' | 'ok' | 'error' | 'denied';
 
@@ -296,10 +297,14 @@ export function StoreProvider({ children }: { children: ReactNode }) {
 
   const importSample = useCallback(async () => {
     const have = new Set(fragrances.map(fragranceKey));
+    const catalog = await loadCatalog();
     let n = 0;
     for (const s of SAMPLE_COLLECTION) {
       if (have.has(fragranceKey(s))) continue;
-      await saveFragrance(blankFragrance({ brand: s.brand, name: s.name, isSample: true }));
+      const base = blankFragrance({ brand: s.brand, name: s.name, isSample: true });
+      // Fill from the researched catalogue when the perfume is in it.
+      const match = findCatalogMatch(catalog.items, s.brand, s.name);
+      await saveFragrance(match ? applyCatalog(base, match) : base);
       n++;
     }
     return n;

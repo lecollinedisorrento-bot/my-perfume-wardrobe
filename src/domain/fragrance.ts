@@ -15,7 +15,7 @@ export function blankFragrance(partial: Partial<Fragrance> = {}): Fragrance {
     country: null,
     family: '',
     accords: [],
-    notes: { top: [], heart: [], base: [] },
+    notes: { top: [], heart: [], base: [], flat: [] },
     noteSource: 'none',
     character: '',
     evolution: '',
@@ -50,7 +50,7 @@ export function normalizeFragrance(raw: Partial<Fragrance> & { id: string }): Fr
     country: raw.country || null,
     family: raw.family ?? '',
     accords: arr(raw.accords),
-    notes: { top: arr(raw.notes?.top), heart: arr(raw.notes?.heart), base: arr(raw.notes?.base) },
+    notes: { top: arr(raw.notes?.top), heart: arr(raw.notes?.heart), base: arr(raw.notes?.base), flat: arr(raw.notes?.flat) },
     noteSource: raw.noteSource ?? 'none',
     character: raw.character ?? '',
     evolution: raw.evolution ?? '',
@@ -82,7 +82,12 @@ export function displayName(f: Pick<Fragrance, 'brand' | 'name'>) {
 }
 
 export function hasProfile(f: Fragrance) {
-  return f.accords.length > 0 || f.notes.top.length + f.notes.heart.length + f.notes.base.length > 0;
+  return f.accords.length > 0 || allNotes(f).length > 0;
+}
+
+/** Every note, pyramid or not. */
+export function allNotes(f: Pick<Fragrance, 'notes'>): string[] {
+  return [...f.notes.top, ...f.notes.heart, ...f.notes.base, ...(f.notes.flat ?? [])];
 }
 
 /**

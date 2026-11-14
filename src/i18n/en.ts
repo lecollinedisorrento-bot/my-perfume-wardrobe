@@ -205,6 +205,8 @@ export const en = {
   'add.added': 'On the shelf!',
   'add.addedSub': '{name} just joined your collection.',
   'add.duplicate': 'You already have {name}. Add it anyway?',
+  'add.catalogMatches': 'In the catalogue · works offline',
+  'add.catalogNone': 'Not in the catalogue yet.',
   'add.skipResearch': 'Skip research',
   'add.withoutAi': 'Add without AI',
 
@@ -259,6 +261,7 @@ export const en = {
   'profile.top': 'Top',
   'profile.heart': 'Heart',
   'profile.base': 'Base',
+  'profile.notesFlat': 'Notes (no pyramid published)',
   'profile.noNotes': 'No notes yet. Run AI research or add them yourself.',
   'profile.accords': 'Main accords',
   'profile.character': 'Character',
@@ -303,6 +306,8 @@ export const en = {
   'profile.dropped': 'Removed because no source backed it up: {fields}',
   'profile.engine': 'Engine: {engine}',
   'profile.notFound': 'This perfume isn’t on your shelf.',
+  'profile.catalogFound': 'This perfume is in the catalogue, with researched notes and sources.',
+  'profile.catalogFill': 'Fill from the catalogue',
   'profile.updated': 'Profile updated.',
 
   // provenance / verification
@@ -335,6 +340,7 @@ export const en = {
   'ai.offline': 'You’re offline — AI needs a connection. Showing local matches.',
   'ai.engineAi': 'AI · {model}',
   'ai.engineLocal': 'Local match · not AI',
+  'ai.engineCatalog': 'Catalogue · from researched sources, not AI',
   'ai.engineMock': 'TEST FIXTURE · not real AI',
   'ai.consentTitle': 'Before we ask the AI',
   'ai.consentBody': 'To answer, the server sends the AI provider a minimal summary: brand, name, family, accords, seasons/occasions, rating, favourite flag and how recently you wore each perfume — plus the weather context and your question. Personal notes, photos (unless you’re identifying a bottle) and your name are never sent. Nothing is stored on our server.',

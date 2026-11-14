@@ -1,0 +1,3829 @@
+{
+  "brand": "Afnan",
+  "slug": "afnan",
+  "officialSite": "https://www.afnan.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/afnan/"
+    }
+  ],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Data read from the official afnan.com Shopify product feed (products.json and the rare/historic/edict collection feeds), which lists name, collection and top/middle/base notes; individual product pages and Fragrantica/Parfumo were not opened. 78 perfumes/concentrated oils included; deodorants, travel sets, discovery kits, gift sets and 150 ML duplicate sizes (Supremacy Silver / In Oud / Not Only Intense Luxury Collection 150 ML) excluded. BJ Distribuzione page returned empty content. Concentration comes from variant titles/tags where the body text did not state it. Some oil entries list descriptors (sweet, fruity) as notes exactly as the brand does. The feed was read in text chunks via a summarising fetcher and one product between chunks (a 100 ML Pour Homme at a chunk boundary) could not be identified; the range may therefore be slightly incomplete. Highness collection feed was empty; no release years, perfumers or families published, so left null.",
+  "fragrances": [
+    {
+      "name": "Stardust",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "grapefruit",
+          "orange",
+          "aldehydes"
+        ],
+        "heart": [
+          "caramel",
+          "cinnamon",
+          "cognac"
+        ],
+        "base": [
+          "wood",
+          "amber",
+          "sandalwood",
+          "myrrh",
+          "tonka bean",
+          "oak",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/stardust",
+          "name": "Afnan — Stardust",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Stardust (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Malak",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "marshmallow",
+          "lemon",
+          "apple",
+          "white floral"
+        ],
+        "heart": [
+          "musk",
+          "coconut",
+          "orange blossom"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "sugar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/malak-perfume-oil",
+          "name": "Afnan — Malak",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Malak (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kiaana Vibes",
+      "collection": "Kiaana",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pitahaya",
+          "pear"
+        ],
+        "heart": [
+          "peony",
+          "frangipani",
+          "musk"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/kiaana-vibes-perfume",
+          "name": "Afnan — Kiaana Vibes",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Kiaana Vibes (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kiaana Crush",
+      "collection": "Kiaana",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron"
+        ],
+        "heart": [
+          "passionfruit",
+          "patchouli",
+          "agarwood"
+        ],
+        "base": [
+          "madagascar vanilla",
+          "ambroxan",
+          "musk",
+          "cedarwood",
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/kiaana-crush",
+          "name": "Afnan — Kiaana Crush",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Kiaana Crush (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kiaana Angel",
+      "collection": "Kiaana",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pistachio gelato",
+          "italian bergamot"
+        ],
+        "heart": [
+          "jasmine",
+          "raspberry",
+          "white peach",
+          "pear"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/kiaana-angel",
+          "name": "Afnan — Kiaana Angel",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Kiaana Angel (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ebdaa",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "musk"
+        ],
+        "heart": [
+          "black currant",
+          "amber",
+          "raspberry"
+        ],
+        "base": [
+          "powdery notes",
+          "cedar",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/ebdaa-perfume-oil",
+          "name": "Afnan — Ebdaa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Ebdaa (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "9 PM Night Out",
+      "collection": "9AM / 9PM",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "dragon fruit",
+          "bergamot",
+          "cognac",
+          "lavender",
+          "apple"
+        ],
+        "heart": [
+          "cardamom",
+          "mahonia",
+          "suede",
+          "toffee",
+          "cedar"
+        ],
+        "base": [
+          "tonka bean",
+          "akigalawood",
+          "ambrofix",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/9pm-night-out",
+          "name": "Afnan — 9 PM Night Out",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — 9 PM Night Out (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "9 PM Elixir",
+      "collection": "9AM / 9PM",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "nutmeg",
+          "elemi",
+          "cardamom"
+        ],
+        "heart": [
+          "pimento",
+          "lavandin",
+          "leather"
+        ],
+        "base": [
+          "cistus",
+          "labdanum",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/9-pm-elixir",
+          "name": "Afnan — 9 PM Elixir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — 9 PM Elixir (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "9 PM Rebel",
+      "collection": "9AM / 9PM",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "pineapple",
+          "granny smith apple"
+        ],
+        "heart": [
+          "cedarwood",
+          "oakmoss",
+          "vanilla"
+        ],
+        "base": [
+          "caramel",
+          "dry woods",
+          "ambergris",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/9-pm-rebel",
+          "name": "Afnan — 9 PM Rebel",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — 9 PM Rebel (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "9 PM",
+      "collection": "9AM / 9PM",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lavandin",
+          "cinnamon",
+          "apple"
+        ],
+        "heart": [
+          "lily of the valley",
+          "orange blossom"
+        ],
+        "base": [
+          "patchouli",
+          "amber",
+          "vanilla",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/9-pm",
+          "name": "Afnan — 9 PM",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — 9 PM (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "9 PM Pour Femme",
+      "collection": "9AM / 9PM",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "raspberry",
+          "apple",
+          "violet",
+          "orange"
+        ],
+        "heart": [
+          "rose",
+          "peony",
+          "iris",
+          "jasmine"
+        ],
+        "base": [
+          "cedar",
+          "cypress",
+          "pine",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — 9 PM Pour Femme (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "9 AM",
+      "collection": "9AM / 9PM",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "cedrat",
+          "cardamom",
+          "pink pepper"
+        ],
+        "heart": [
+          "lavender",
+          "orange blossom",
+          "rose",
+          "green apple"
+        ],
+        "base": [
+          "cedarwood",
+          "moss",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/9-am",
+          "name": "Afnan — 9 AM",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — 9 AM (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "9 AM Pour Femme",
+      "collection": "9AM / 9PM",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
+          "black currant",
+          "raspberry"
+        ],
+        "base": [
+          "musk",
+          "orange",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/9am-pour-femme-deo",
+          "name": "Afnan — 9 AM Pour Femme",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — 9 AM Pour Femme (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "9 AM Dive",
+      "collection": "9AM / 9PM",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "pink pepper",
+          "mint",
+          "black currant"
+        ],
+        "heart": [
+          "apple",
+          "incense",
+          "cedar"
+        ],
+        "base": [
+          "patchouli",
+          "jasmine",
+          "ginger",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/9-am-dive",
+          "name": "Afnan — 9 AM Dive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — 9 AM Dive (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lynked Freedom",
+      "collection": "Lynked",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "sage"
+        ],
+        "heart": [
+          "lavender",
+          "cardamom",
+          "juniper berry"
+        ],
+        "base": [
+          "vetiver",
+          "caramel"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/lynked-freedom",
+          "name": "Afnan — Lynked Freedom",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Lynked Freedom (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lynked Forever",
+      "collection": "Lynked",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "berries"
+        ],
+        "heart": [
+          "gardenia",
+          "tuberose",
+          "ylang-ylang"
+        ],
+        "base": [
+          "coconut",
+          "sandalwood",
+          "musk",
+          "dry woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/lynked-forever",
+          "name": "Afnan — Lynked Forever",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Lynked Forever (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Historic Sahara",
+      "collection": "Historic",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cinnamon",
+          "cardamom"
+        ],
+        "heart": [
+          "elemi",
+          "vanilla",
+          "sugar"
+        ],
+        "base": [
+          "musk",
+          "almond",
+          "tonka bean",
+          "wood",
+          "praline",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/historic-sahara",
+          "name": "Afnan — Historic Sahara",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/collections/historic/products.json",
+          "name": "Afnan official site — Historic Sahara (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Historic Olmeda",
+      "collection": "Historic",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "cardamom",
+          "juniper",
+          "grapefruit"
+        ],
+        "heart": [
+          "calabrian bergamot",
+          "cedar",
+          "nutmeg",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "apple",
+          "ambergris",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/historic-olmeda",
+          "name": "Afnan — Historic Olmeda",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/collections/historic/products.json",
+          "name": "Afnan official site — Historic Olmeda (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Historic Doria",
+      "collection": "Historic",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange blossom",
+          "bitter lemon zest",
+          "raspberry"
+        ],
+        "heart": [
+          "tuberose",
+          "mandarin",
+          "jasmine",
+          "ambroxan"
+        ],
+        "base": [
+          "musk",
+          "woody notes",
+          "jasmine sambac"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/historic-doria",
+          "name": "Afnan — Historic Doria",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/collections/historic/products.json",
+          "name": "Afnan official site — Historic Doria (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turathi Electric",
+      "collection": "Turathi",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink grapefruit",
+          "pear",
+          "mandarin"
+        ],
+        "heart": [
+          "apple",
+          "cedarwood",
+          "orange blossom"
+        ],
+        "base": [
+          "vanilla",
+          "dry amber",
+          "musk",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/turathi-electric",
+          "name": "Afnan — Turathi Electric",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Turathi Electric (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turathi Red",
+      "collection": "Turathi",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "musk"
+        ],
+        "heart": [
+          "wood",
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "apricot",
+          "musk",
+          "peony"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/turathi-red-femme",
+          "name": "Afnan — Turathi Red",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Turathi Red (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turathi Brown Homme",
+      "collection": "Turathi",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "patchouli",
+          "amber",
+          "ozonic notes"
+        ],
+        "heart": [
+          "fresh spicy notes",
+          "vanilla",
+          "warm spicy notes"
+        ],
+        "base": [
+          "balsamic notes",
+          "rose",
+          "aquatic notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/turathi-brown-homme",
+          "name": "Afnan — Turathi Brown Homme",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Turathi Brown Homme (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turathi Purple",
+      "collection": "Turathi",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "black pepper"
+        ],
+        "heart": [
+          "pineapple",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "moss",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Turathi Purple (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turathi Blue",
+      "collection": "Turathi",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "amber",
+          "woody notes"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "fresh spicy notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/turathi-blue-deo",
+          "name": "Afnan — Turathi Blue",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Turathi Blue (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rare Reef",
+      "collection": "Rare",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black currant",
+          "orange",
+          "citron",
+          "mint",
+          "coriander",
+          "grapefruit"
+        ],
+        "heart": [
+          "apricot",
+          "basil",
+          "rose",
+          "violet leaf"
+        ],
+        "base": [
+          "fig",
+          "date",
+          "ambrette",
+          "amberwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/rare-reef",
+          "name": "Afnan — Rare Reef",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/collections/rare/products.json",
+          "name": "Afnan official site — Rare Reef (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rare Passion",
+      "collection": "Rare",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "musk",
+          "rose"
+        ],
+        "heart": [
+          "amber",
+          "woods",
+          "vanilla"
+        ],
+        "base": [
+          "rose",
+          "musk",
+          "orange blossom"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/rare-passion",
+          "name": "Afnan — Rare Passion",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/collections/rare/products.json",
+          "name": "Afnan official site — Rare Passion (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rare Carbon",
+      "collection": "Rare",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "leather",
+          "violet leaf",
+          "cinnamon bark",
+          "nutmeg"
+        ],
+        "heart": [
+          "rose",
+          "violet",
+          "cedarwood",
+          "oud"
+        ],
+        "base": [
+          "vetiver",
+          "sandalwood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/rare-carbon",
+          "name": "Afnan — Rare Carbon",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/collections/rare/products.json",
+          "name": "Afnan official site — Rare Carbon (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Delicious Bouquet",
+      "collection": "Bouquet",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "vanilla",
+          "white floral",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "sugar",
+          "rum",
+          "panna cotta",
+          "honey"
+        ],
+        "base": [
+          "tonka bean",
+          "musk",
+          "caramel",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/delicious-bouquet",
+          "name": "Afnan — Delicious Bouquet",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Delicious Bouquet (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cherry Bouquet",
+      "collection": "Bouquet",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black cherry",
+          "cherry liqueur",
+          "almond",
+          "sour cherry"
+        ],
+        "heart": [
+          "plum",
+          "damask rose",
+          "jasmine sambac",
+          "raspberry"
+        ],
+        "base": [
+          "clove",
+          "cedar",
+          "patchouli",
+          "vetiver",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/cherry-bouquet",
+          "name": "Afnan — Cherry Bouquet",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Cherry Bouquet (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mystique Bouquet",
+      "collection": "Bouquet",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "white peach",
+          "mandarin",
+          "bergamot",
+          "lychee"
+        ],
+        "heart": [
+          "orange blossom",
+          "vetiver",
+          "mahonia",
+          "peony"
+        ],
+        "base": [
+          "ambroxan",
+          "musk",
+          "vanilla",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/mystique-bouquet",
+          "name": "Afnan — Mystique Bouquet",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Mystique Bouquet (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Fleur Bouquet",
+      "collection": "Bouquet",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange blossom",
+          "jasmine",
+          "peony"
+        ],
+        "heart": [
+          "lychee",
+          "peach",
+          "bergamot"
+        ],
+        "base": [
+          "musk",
+          "moss",
+          "petalia"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/la-fleur-bouquet",
+          "name": "Afnan — La Fleur Bouquet",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — La Fleur Bouquet (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Violet Bouquet",
+      "collection": "Bouquet",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "woody notes",
+          "saffron",
+          "bergamot"
+        ],
+        "heart": [
+          "caramel",
+          "amber",
+          "orange",
+          "citrus peel"
+        ],
+        "base": [
+          "ambergris",
+          "oakmoss",
+          "ancient woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/violet-bouquet",
+          "name": "Afnan — Violet Bouquet",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Violet Bouquet (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inara White",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine"
+        ],
+        "heart": [
+          "cedarwood",
+          "vanilla"
+        ],
+        "base": [
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/inara-white",
+          "name": "Afnan — Inara White",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Inara White (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Collector's Edition",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pineapple",
+          "bergamot",
+          "apple",
+          "white floral"
+        ],
+        "heart": [
+          "orange blossom",
+          "birch",
+          "amber"
+        ],
+        "base": [
+          "oakmoss",
+          "musk",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-collectors-edition",
+          "name": "Afnan — Supremacy Collector's Edition",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Collector's Edition (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Silver",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "bergamot",
+          "oakmoss"
+        ],
+        "heart": [
+          "pineapple",
+          "patchouli",
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "ambergris",
+          "birch"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-silver",
+          "name": "Afnan — Supremacy Silver",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Silver (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Purple",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "bergamot",
+          "peach"
+        ],
+        "heart": [
+          "sweet amber",
+          "white musk"
+        ],
+        "base": [
+          "pear",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-purple",
+          "name": "Afnan — Supremacy Purple",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Purple (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Pink",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink peppercorn",
+          "violet"
+        ],
+        "heart": [
+          "rose",
+          "peony",
+          "lily of the valley"
+        ],
+        "base": [
+          "musk",
+          "dry amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-pink",
+          "name": "Afnan — Supremacy Pink",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Pink (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Noir",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "oregano",
+          "pepper"
+        ],
+        "heart": [
+          "amber",
+          "labdanum",
+          "opoponax"
+        ],
+        "base": [
+          "leather",
+          "sandalwood",
+          "patchouli",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-noir",
+          "name": "Afnan — Supremacy Noir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Noir (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Incense",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "oregano",
+          "pepper"
+        ],
+        "heart": [
+          "amber",
+          "labdanum",
+          "opoponax"
+        ],
+        "base": [
+          "leather",
+          "sandalwood",
+          "patchouli",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-incense",
+          "name": "Afnan — Supremacy Incense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Incense (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy In Heaven",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "green tea",
+          "black currant"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-in-heaven",
+          "name": "Afnan — Supremacy In Heaven",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy In Heaven (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Gold",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ylang-ylang",
+          "neroli"
+        ],
+        "heart": [
+          "vetiver",
+          "white musk",
+          "vanilla"
+        ],
+        "base": [
+          "jasmine",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-gold",
+          "name": "Afnan — Supremacy Gold",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Gold (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Tapis Rouge",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black cherry",
+          "white peach",
+          "lychee"
+        ],
+        "heart": [
+          "plum",
+          "rose",
+          "mahonia",
+          "jasmine"
+        ],
+        "base": [
+          "clove",
+          "vetiver",
+          "peony"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-tapis-rouge",
+          "name": "Afnan — Supremacy Tapis Rouge",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Tapis Rouge (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Gala",
+      "collection": "Supremacy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear blossom",
+          "red berries",
+          "mandarin"
+        ],
+        "heart": [
+          "gardenia",
+          "frangipani",
+          "honeysuckle"
+        ],
+        "base": [
+          "vanilla",
+          "brown sugar",
+          "caramel",
+          "praline",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-gala-luxury-collection",
+          "name": "Afnan — Supremacy Gala",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Gala (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy In Oud",
+      "collection": "Supremacy",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "lavender",
+          "nutmeg"
+        ],
+        "heart": [
+          "agarwood"
+        ],
+        "base": [
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-oud",
+          "name": "Afnan — Supremacy In Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy In Oud (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Supremacy Not Only Intense",
+      "collection": "Supremacy",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "apple",
+          "black currant"
+        ],
+        "heart": [
+          "lavender",
+          "patchouli",
+          "oakmoss"
+        ],
+        "base": [
+          "saffron",
+          "musk",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/supremacy-not-only-intense",
+          "name": "Afnan — Supremacy Not Only Intense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Supremacy Not Only Intense (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portrait Revival",
+      "collection": "Portrait",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cinnamon",
+          "honey",
+          "saffron",
+          "incense"
+        ],
+        "heart": [
+          "tonka bean",
+          "oak",
+          "praline"
+        ],
+        "base": [
+          "date",
+          "sandalwood",
+          "caramel",
+          "dark chocolate"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/portrait-revival",
+          "name": "Afnan — Portrait Revival",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Portrait Revival (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portrait Abstract",
+      "collection": "Portrait",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "vetiver",
+          "rhubarb",
+          "incense"
+        ],
+        "heart": [
+          "rose",
+          "tonka bean"
+        ],
+        "base": [
+          "sandalwood",
+          "leather",
+          "cedarwood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/portrait-abstract",
+          "name": "Afnan — Portrait Abstract",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Portrait Abstract (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Rising",
+      "collection": "Patchouli / Tobacco / Oud",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "agarwood",
+          "cypress",
+          "orange blossom"
+        ],
+        "heart": [
+          "brazilian rosewood",
+          "cardamom",
+          "amber"
+        ],
+        "base": [
+          "vetiver",
+          "musk",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/oud-rising",
+          "name": "Afnan — Oud Rising",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Oud Rising (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tobacco Rush",
+      "collection": "Patchouli / Tobacco / Oud",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "warm spicy notes",
+          "tobacco",
+          "woody notes"
+        ],
+        "heart": [
+          "sweet notes",
+          "fresh spicy notes",
+          "lavender"
+        ],
+        "base": [
+          "amber",
+          "cedarwood",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/tobacco-rush",
+          "name": "Afnan — Tobacco Rush",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Tobacco Rush (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Patchouli on Fire",
+      "collection": "Patchouli / Tobacco / Oud",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fresh spicy notes",
+          "aromatic notes",
+          "woody notes"
+        ],
+        "heart": [
+          "patchouli",
+          "lavender",
+          "citrus"
+        ],
+        "base": [
+          "warm spicy notes",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/patchouli-on-fire",
+          "name": "Afnan — Patchouli on Fire",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Patchouli on Fire (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edict Ouddiction",
+      "collection": "Edict",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "agarwood",
+          "saffron",
+          "lavender",
+          "bergamot"
+        ],
+        "heart": [
+          "tonka bean",
+          "sandalwood",
+          "cedar",
+          "geranium",
+          "tobacco"
+        ],
+        "base": [
+          "leather",
+          "patchouli",
+          "amber",
+          "brazilian rosewood",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/edict-ouddiction",
+          "name": "Afnan — Edict Ouddiction",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/collections/edict/products.json",
+          "name": "Afnan official site — Edict Ouddiction (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edict Musctique",
+      "collection": "Edict",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "musk",
+          "cardamom",
+          "saffron"
+        ],
+        "heart": [
+          "lily of the valley",
+          "vanilla"
+        ],
+        "base": [
+          "mint",
+          "musk",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/edict-musctique",
+          "name": "Afnan — Edict Musctique",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/collections/edict/products.json",
+          "name": "Afnan official site — Edict Musctique (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edict Amberythme",
+      "collection": "Edict",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "amber",
+          "cinnamon",
+          "tonka bean"
+        ],
+        "heart": [
+          "saffron",
+          "jasmine",
+          "vanilla"
+        ],
+        "base": [
+          "ambergris",
+          "cedar",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/edict-amberythme",
+          "name": "Afnan — Edict Amberythme",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/collections/edict/products.json",
+          "name": "Afnan official site — Edict Amberythme (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Souvenir Blooming Bliss",
+      "collection": "Souvenir",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "vanilla"
+        ],
+        "heart": [
+          "coconut",
+          "palo santo",
+          "caramel"
+        ],
+        "base": [
+          "white musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/souvenir-blooming-bliss",
+          "name": "Afnan — Souvenir Blooming Bliss",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Souvenir Blooming Bliss (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Souvenir Floral Bouquet",
+      "collection": "Souvenir",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lychee",
+          "rhubarb",
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "lily of the valley",
+          "peony",
+          "vanilla"
+        ],
+        "base": [
+          "musk",
+          "cashmere wood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/souvenir-floral-bouquet",
+          "name": "Afnan — Souvenir Floral Bouquet",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Souvenir Floral Bouquet (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Souvenir Desert Rose",
+      "collection": "Souvenir",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach",
+          "raspberry",
+          "cassis"
+        ],
+        "heart": [
+          "heliotrope",
+          "lily of the valley",
+          "white musk"
+        ],
+        "base": [
+          "sandalwood",
+          "citrus",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/souvenir-desert-rose",
+          "name": "Afnan — Souvenir Desert Rose",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Souvenir Desert Rose (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ornament Purple",
+      "collection": "Ornament",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "raspberry",
+          "grapefruit"
+        ],
+        "heart": [
+          "toffee",
+          "white flower",
+          "anise",
+          "cardamom"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/ornament-purple",
+          "name": "Afnan — Ornament Purple",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Ornament Purple (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ornament Pour Homme",
+      "collection": "Ornament",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "lavandin",
+          "geranium"
+        ],
+        "heart": [
+          "sandalwood",
+          "patchouli",
+          "dry amber"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/ornament-pour-homme",
+          "name": "Afnan — Ornament Pour Homme",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Ornament Pour Homme (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ornament Pour Femme",
+      "collection": "Ornament",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "passionfruit",
+          "coconut",
+          "peach",
+          "bergamot"
+        ],
+        "heart": [
+          "floral notes",
+          "orange flower",
+          "vetiver"
+        ],
+        "base": [
+          "sweet amber",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/ornament-pour-femme",
+          "name": "Afnan — Ornament Pour Femme",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Ornament Pour Femme (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mirsaal With Love",
+      "collection": "Mirsaal",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "jasmine",
+          "caramel"
+        ],
+        "heart": [
+          "wood",
+          "oud",
+          "ambergris"
+        ],
+        "base": [
+          "amberwood",
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/mirsaal-with-love",
+          "name": "Afnan — Mirsaal With Love",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Mirsaal With Love (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mirsaal Of Trust",
+      "collection": "Mirsaal",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "vetiver",
+          "ambrofix"
+        ],
+        "heart": [
+          "saffron",
+          "raspberry"
+        ],
+        "base": [
+          "dry amber",
+          "carnation",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/mirsaal-of-trust",
+          "name": "Afnan — Mirsaal Of Trust",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Mirsaal Of Trust (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tribute Pink",
+      "collection": "Tribute",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "mandarin",
+          "pineapple"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "violet"
+        ],
+        "base": [
+          "patchouli",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/tribute-pink",
+          "name": "Afnan — Tribute Pink",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Tribute Pink (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tribute Blue",
+      "collection": "Tribute",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pimento",
+          "nutmeg"
+        ],
+        "heart": [
+          "cashmere wood",
+          "amber"
+        ],
+        "base": [
+          "vetiver",
+          "incense",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/tribute-blue",
+          "name": "Afnan — Tribute Blue",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Tribute Blue (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Modest Une",
+      "collection": "Modest",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "calabrian bergamot",
+          "pepper",
+          "lavender"
+        ],
+        "heart": [
+          "pink pepper",
+          "geranium",
+          "elemi"
+        ],
+        "base": [
+          "ambroxan",
+          "vetiver",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/modest-une",
+          "name": "Afnan — Modest Une",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Modest Une (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Modest Deux",
+      "collection": "Modest",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "raspberry",
+          "rose",
+          "cassis"
+        ],
+        "heart": [
+          "pink pepper",
+          "peony",
+          "jasmine"
+        ],
+        "base": [
+          "virginia cedar",
+          "patchouli",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/modest-deux",
+          "name": "Afnan — Modest Deux",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Modest Deux (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pure Musk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "floral musk",
+          "white musk"
+        ],
+        "heart": [
+          "musk"
+        ],
+        "base": [
+          "sweet musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/pure-musk",
+          "name": "Afnan — Pure Musk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Pure Musk (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paris Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "lemon",
+          "blackcurrant"
+        ],
+        "heart": [
+          "wood",
+          "ylang-ylang",
+          "amber"
+        ],
+        "base": [
+          "powdery notes",
+          "musk",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/paris-oud",
+          "name": "Afnan — Paris Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Paris Oud (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Silver Musk",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "musk"
+        ],
+        "heart": [
+          "musk"
+        ],
+        "base": [
+          "musk",
+          "powder"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/musk-silver",
+          "name": "Afnan — Silver Musk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Silver Musk (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tasneem",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach blossom",
+          "musk"
+        ],
+        "heart": [
+          "sweet notes",
+          "amber"
+        ],
+        "base": [
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/tasneem",
+          "name": "Afnan — Tasneem",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Tasneem (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zabarjad",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fresh notes",
+          "sweet notes",
+          "amber"
+        ],
+        "heart": [
+          "peach",
+          "woody notes",
+          "musk"
+        ],
+        "base": [
+          "honey",
+          "powdery notes",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/zarberjad",
+          "name": "Afnan — Zabarjad",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Zabarjad (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ward Al Usshaq",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fruity notes",
+          "sweet notes"
+        ],
+        "heart": [
+          "amber",
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "floral notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/wardat-al-ushaq",
+          "name": "Afnan — Ward Al Usshaq",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Ward Al Usshaq (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lilia",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine",
+          "amber"
+        ],
+        "heart": [
+          "tuberose",
+          "musk"
+        ],
+        "base": [
+          "balsamic notes",
+          "fruity notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/lilia",
+          "name": "Afnan — Lilia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Lilia (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adwaa Al Sharq",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "jasmine",
+          "caramel"
+        ],
+        "heart": [
+          "amberwood",
+          "ambergris",
+          "musk"
+        ],
+        "base": [
+          "fir resin",
+          "cedar",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/adwaa-al-sharq",
+          "name": "Afnan — Adwaa Al Sharq",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Adwaa Al Sharq (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dehn Al Oudh Abiyad",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cinnamon",
+          "musk"
+        ],
+        "heart": [
+          "cedarwood",
+          "vanilla",
+          "musk"
+        ],
+        "base": [
+          "juniper",
+          "sweet notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/dehn-al-oudh-abiyad-1",
+          "name": "Afnan — Dehn Al Oudh Abiyad",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Dehn Al Oudh Abiyad (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fakhar Al Jamaal",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mango",
+          "musk",
+          "camellia"
+        ],
+        "heart": [
+          "pink pepper",
+          "sandalwood",
+          "amber"
+        ],
+        "base": [
+          "jasmine",
+          "sweet notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/fakhar-al-jamaal",
+          "name": "Afnan — Fakhar Al Jamaal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Fakhar Al Jamaal (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abiyad Mukhallat",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "wood",
+          "amber"
+        ],
+        "heart": [
+          "musk",
+          "rose",
+          "incense"
+        ],
+        "base": [
+          "sweet notes",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/mukhallat-abiyad",
+          "name": "Afnan — Abiyad Mukhallat",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Abiyad Mukhallat (product data)",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abiyad Musk",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "musk"
+        ],
+        "heart": [
+          "musk",
+          "balsamic notes",
+          "powder"
+        ],
+        "base": [
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/musk-abiyad-cpo",
+          "name": "Afnan — Abiyad Musk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Abiyad Musk (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abiyad Sandal",
+      "collection": null,
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sandalwood",
+          "balsamic notes"
+        ],
+        "heart": [
+          "amber",
+          "aromatic notes"
+        ],
+        "base": [
+          "sandalwood",
+          "powder"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.afnan.com/products/sandal-abiyad",
+          "name": "Afnan — Abiyad Sandal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.afnan.com/products.json",
+          "name": "Afnan official site — Abiyad Sandal (product data)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

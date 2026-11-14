@@ -73,7 +73,8 @@ export default defineConfig(({ mode }) => {
           ],
         },
         workbox: {
-          globPatterns: ['**/*.{js,css,html,svg,png,woff2,webmanifest}'],
+          globPatterns: ['**/*.{js,css,html,svg,png,woff2,webmanifest,json}'],
+          maximumFileSizeToCacheInBytes: 8 * 1024 * 1024,
           navigateFallback: `${base}index.html`,
           navigateFallbackDenylist: [new RegExp(`^${base}api/`)],
           globIgnores: ['**/*cyrillic*', '**/*greek*', '**/*vietnamese*'],

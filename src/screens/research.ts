@@ -1,7 +1,7 @@
 import type { ResearchResponse } from '../shared/api';
 import { CONCENTRATIONS, type Concentration, type Fragrance, type Level } from '../domain/types';
 
-function matchConcentration(raw: string, fallback: Concentration): Concentration {
+export function matchConcentration(raw: string, fallback: Concentration): Concentration {
   const s = raw.toLowerCase();
   if (!s || s === 'unknown') return fallback;
   if (s.includes('extrait')) return 'Extrait de Parfum';
@@ -28,7 +28,7 @@ export function applyResearch(f: Fragrance, r: ResearchResponse): Fragrance {
     country: p.country,
     family: p.family || f.family,
     accords: p.accords,
-    notes: p.notes,
+    notes: { ...p.notes, flat: [] },
     noteSource: p.notes.top.length + p.notes.heart.length + p.notes.base.length ? p.noteSource : 'none',
     character: p.character,
     evolution: p.evolution,

@@ -105,7 +105,8 @@ export interface Fragrance {
   // olfactory
   family: string;
   accords: string[];
-  notes: { top: string[]; heart: string[]; base: string[] };
+  /** `flat` holds notes a brand publishes without a top/heart/base pyramid. */
+  notes: { top: string[]; heart: string[]; base: string[]; flat: string[] };
   noteSource: NoteSource;
   character: string;
   evolution: string;

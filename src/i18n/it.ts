@@ -200,6 +200,8 @@ export const it: Record<MessageKey, string> = {
   'add.added': 'È sullo scaffale!',
   'add.addedSub': '{name} è entrato nella tua collezione.',
   'add.duplicate': 'Hai già {name}. Lo aggiungo comunque?',
+  'add.catalogMatches': 'Nel catalogo · funziona offline',
+  'add.catalogNone': 'Non è ancora nel catalogo.',
   'add.skipResearch': 'Salta la ricerca',
   'add.withoutAi': 'Aggiungi senza IA',
 
@@ -251,6 +253,7 @@ export const it: Record<MessageKey, string> = {
   'profile.top': 'Testa',
   'profile.heart': 'Cuore',
   'profile.base': 'Fondo',
+  'profile.notesFlat': 'Note (senza piramide pubblicata)',
   'profile.noNotes': 'Ancora nessuna nota. Avvia la ricerca IA o aggiungile tu.',
   'profile.accords': 'Accordi principali',
   'profile.character': 'Carattere',
@@ -295,6 +298,8 @@ export const it: Record<MessageKey, string> = {
   'profile.dropped': 'Rimossi perché nessuna fonte li confermava: {fields}',
   'profile.engine': 'Motore: {engine}',
   'profile.notFound': 'Questo profumo non è sul tuo scaffale.',
+  'profile.catalogFound': 'Questo profumo è nel catalogo, con note e fonti consultate.',
+  'profile.catalogFill': 'Compila dal catalogo',
   'profile.updated': 'Profilo aggiornato.',
 
   'ver.verified': 'Verificato',
@@ -325,6 +330,7 @@ export const it: Record<MessageKey, string> = {
   'ai.offline': 'Sei offline: l’IA ha bisogno di connessione. Ti mostro i match locali.',
   'ai.engineAi': 'IA · {model}',
   'ai.engineLocal': 'Match locale · non IA',
+  'ai.engineCatalog': 'Catalogo · da fonti consultate, non IA',
   'ai.engineMock': 'FIXTURE DI TEST · non è IA reale',
   'ai.consentTitle': 'Prima di chiedere all’IA',
   'ai.consentBody': 'Per rispondere, il server invia al fornitore IA un riepilogo minimo: marca, nome, famiglia, accordi, stagioni/occasioni, voto, preferito e quanto di recente hai indossato ogni profumo, più il meteo e la tua domanda. Note personali, foto (salvo quando riconosci una bottiglia) e il tuo nome non vengono mai inviati. Il nostro server non salva nulla.',

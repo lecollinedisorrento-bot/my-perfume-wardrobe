@@ -1,0 +1,496 @@
+{
+  "brand": "Gulf Orchid",
+  "slug": "gulf-orchid",
+  "officialSite": null,
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/gulf-orchid-cocktail-collection/"
+    },
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/musk-collection/"
+    }
+  ],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "No official Gulf Orchid website found via search; all data is reported (retailers/databases). BJ Distribuzione pages returned empty content. Cocktail Collection: seven names taken from Scent Advice (2025 cocktail-inspired set); retailer Arabic Parfums labels them Cocktail Collection. Musk Collection is labelled \"Gulf Orchid\" by retailers (Arabic Parfums, FilledWithBarakah), so it belongs to Gulf Orchid; only partial member list verified. Old Fashioned notes differ between Arabic Parfums (used) and Scent Advice (cherry, ginger, rum, clove...). Scent Advice lists notes in three unlabelled groups so those are stored flat. Pomegranate/Blueberry/Cotton Candy have thin sourcing (no notes). The wider Gulf Orchid range (dozens of other products) not covered; Mango Ice/Mango Heaven not confirmed as Cocktail Collection. Editorial review: Blueberry and Pomegranate removed (only an unrelated shop page or a social-media post supported them).",
+  "fragrances": [
+    {
+      "collection": "Cocktail Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": "Citrusy Spicy Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "citrus peel",
+          "lemon zest",
+          "orange zest"
+        ],
+        "heart": [
+          "spice"
+        ],
+        "base": [
+          "woody notes",
+          "amber",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Old Fashioned",
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/products/old-fashioned-cocktail-collection-gulf-orchid",
+          "name": "Arabic Parfums — Old Fashioned",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentadvice.com/old-fashioned-2025-gulf-orchid/",
+          "name": "Scent Advice — Old Fashioned (2025)",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Cocktail Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": "Oriental Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "liqueur",
+          "pear",
+          "davana"
+        ],
+        "heart": [
+          "spice",
+          "patchouli",
+          "dried fruit"
+        ],
+        "base": [
+          "tonka bean",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Vanilla On The Beach",
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/products/vanilla-on-the-beach-gulf-orchid",
+          "name": "Arabic Parfums — Vanilla On The Beach",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentadvice.com/vanilla-on-the-beach-2025-gulf-orchid/",
+          "name": "Scent Advice — Vanilla On The Beach (2025)",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Cocktail Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "citrus",
+          "mango",
+          "blackcurrant",
+          "lily of the valley",
+          "peony",
+          "sandalwood",
+          "ambergris",
+          "vanilla",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Mangotini",
+      "sources": [
+        {
+          "url": "https://scentadvice.com/mangotini-2025-gulf-orchid/",
+          "name": "Scent Advice — Mangotini (2025)",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.justmylook.com/products/gulf-orchid-mangotini-eau-de-parfum-100ml",
+          "name": "Just My Look — Mangotini EDP 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Cocktail Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "passionfruit",
+          "peach",
+          "cardamom",
+          "mint",
+          "cinnamon",
+          "violet",
+          "white flower",
+          "amber",
+          "cedarwood",
+          "incense",
+          "sugar",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Mojito Obsession",
+      "sources": [
+        {
+          "url": "https://scentadvice.com/mojito-obsession-2025-gulf-orchid/",
+          "name": "Scent Advice — Mojito Obsession (2025)",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.justmylook.com/products/gulf-orchid-mojito-obsession-eau-de-parfum-100ml",
+          "name": "Just My Look — Mojito Obsession EDP 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Cocktail Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "cherry",
+          "raspberry",
+          "rose",
+          "white flower",
+          "marshmallow",
+          "ambergris",
+          "vanilla",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Cherry Kokomo",
+      "sources": [
+        {
+          "url": "https://scentadvice.com/cherry-kokomo-2025-gulf-orchid/",
+          "name": "Scent Advice — Cherry Kokomo (2025)",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.justmylook.com/products/gulf-orchid-cherry-kokomo-eau-de-parfum-100ml",
+          "name": "Just My Look — Cherry Kokomo EDP 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Cocktail Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "apple",
+          "strawberry",
+          "lychee",
+          "red fruit",
+          "white flower",
+          "amber",
+          "rose",
+          "caramel",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Ruby Fizz",
+      "sources": [
+        {
+          "url": "https://scentadvice.com/ruby-fizz-2025-gulf-orchid/",
+          "name": "Scent Advice — Ruby Fizz (2025)",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.justmylook.com/products/gulf-orchid-ruby-fizz-eau-de-parfum-100ml",
+          "name": "Just My Look — Ruby Fizz EDP 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Cocktail Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "liquor",
+          "aquatic notes",
+          "coconut",
+          "pineapple",
+          "tuberose",
+          "monoi",
+          "creamy notes",
+          "sandalwood",
+          "vanilla",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Tahiti Colada",
+      "sources": [
+        {
+          "url": "https://scentadvice.com/tahiti-colada-2025-gulf-orchid/",
+          "name": "Scent Advice — Tahiti Colada (2025)",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.orientfragance.com/en/products/gulf-orchid-tahiti-colada-100ml-eau-de-parfum-perfume-unisex",
+          "name": "Orient Fragrance — Tahiti Colada EDP 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Musk Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "chocolate",
+          "fruity accord",
+          "lactonic notes"
+        ],
+        "heart": [
+          "rose",
+          "milk",
+          "caramel"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Toffee",
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/products/musk-collection-toffee-gulf-orchid",
+          "name": "Arabic Parfums — Musk Collection Toffee",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Musk Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "spice",
+          "davana",
+          "dried fruit"
+        ],
+        "heart": [
+          "rose",
+          "sandalwood"
+        ],
+        "base": [
+          "tonka bean",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Angel Musk",
+      "sources": [
+        {
+          "url": "https://arabicparfums.com/en/products/musk-collection-angel-musk-gulf-orchid-60ml",
+          "name": "Arabic Parfums — Musk Collection Angel Musk 60ml",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Musk Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehydes",
+          "pear"
+        ],
+        "heart": [
+          "musk",
+          "floral",
+          "tropical fruit"
+        ],
+        "base": [
+          "ambery",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "name": "Tropical Fruits",
+      "sources": [
+        {
+          "url": "https://filledwithbarakah.com/products/musk-collection-tropical-fruits-perfume-spray-200ml-by-gulf-orchid",
+          "name": "FilledWithBarakah — Musk Collection Tropical Fruits 200ml",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Musk Collection",
+      "concentration": null,
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "name": "Cotton Candy",
+      "sources": [
+        {
+          "url": "https://vivir.com/article/the-musk-collection-cotton-candy",
+          "name": "Vivir — The Musk Collection Cotton Candy",
+          "type": "publication",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    }
+  ]
+}

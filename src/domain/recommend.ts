@@ -11,6 +11,7 @@ import type {
   WearLog,
 } from './types';
 import { daysBetween, localDay, seasonFor, timeOfDay } from './util';
+import { allNotes } from './fragrance';
 import { weatherProfile, type WeatherProfile } from './weather';
 
 export interface Reason {
@@ -144,7 +145,7 @@ export function scoreFragrance(f: Fragrance, input: ScoreInput): Scored {
   let score = 0;
   const tr = traitsFor(f.family, f.accords);
   const accLower = f.accords.map((a) => a.toLowerCase());
-  const notesLower = [...f.notes.top, ...f.notes.heart, ...f.notes.base].map((n) => n.toLowerCase());
+  const notesLower = allNotes(f).map((n) => n.toLowerCase());
 
   // Weather / temperature
   const weather = ctx.weather;

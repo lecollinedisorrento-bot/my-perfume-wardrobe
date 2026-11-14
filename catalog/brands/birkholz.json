@@ -1,0 +1,1683 @@
+{
+  "brand": "Birkholz",
+  "slug": "birkholz",
+  "officialSite": "https://www.birkholz-perfumes.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/birkholz/"
+    }
+  ],
+  "country": "Germany",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Built from the official site's 'All' collection (79 products over 2 pages; sets, vouchers, cap, 10 ml duplicates and a test product excluded). Notes, family and (where in page title) concentration come from product pages. Collection only recorded where the page states it. Release year and perfumer not stated on pages. Some pages title a product 'perfumed water'; concentration left null there. Berlin Soul lists vetiver ambiguously (placed in base); Roads of Rome lists marigold untiered (omitted).",
+  "fragrances": [
+    {
+      "name": "Amber Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Woody, Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "labdanum",
+          "saffron",
+          "rose",
+          "bergamot"
+        ],
+        "heart": [
+          "patchouli",
+          "cedarwood",
+          "guaiac wood"
+        ],
+        "base": [
+          "amber",
+          "vetiver",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/amber-intense-en",
+          "name": "Birkholz — Amber Intense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aura of Amalfi",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity-floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "melon",
+          "pink pepper"
+        ],
+        "heart": [
+          "orange blossom",
+          "lavender"
+        ],
+        "base": [
+          "cashmere wood",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/aura-of-amalfi",
+          "name": "Birkholz — Aura of Amalfi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berlin Fever",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "tobacco",
+          "cardamom",
+          "cinnamon",
+          "ginger"
+        ],
+        "heart": [
+          "nutmeg"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/berlin-fever-2-en",
+          "name": "Birkholz — Berlin Fever",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berlin Heaven",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "pear",
+          "raspberry"
+        ],
+        "heart": [
+          "lily of the valley",
+          "rose",
+          "lychee"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "woody notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/berlin-heaven-2",
+          "name": "Birkholz — Berlin Heaven",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berlin Soul",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "whiskey",
+          "hazelnut"
+        ],
+        "heart": [
+          "cedarwood",
+          "sandalwood",
+          "oud",
+          "iris",
+          "tobacco"
+        ],
+        "base": [
+          "amber",
+          "patchouli",
+          "tonka",
+          "musk",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/berlin-soul-3",
+          "name": "Birkholz — Berlin Soul",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bordeaux - Plaisir de la nuit",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "guatemalan bergamot",
+          "apple"
+        ],
+        "heart": [
+          "sage",
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "patchouli",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/bordeaux-plaisir-de-la-nuit-en",
+          "name": "Birkholz — Bordeaux - Plaisir de la nuit",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cedar N' Pepper",
+      "collection": "Woody Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "transparent rose",
+          "pink pepper"
+        ],
+        "heart": [
+          "white cedarwood",
+          "cashmere wood"
+        ],
+        "base": [
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/cedar-n-pepper",
+          "name": "Birkholz — Cedar N' Pepper",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Charm Mystery",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity, Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "mandarin"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "peach"
+        ],
+        "base": [
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/charm-mystery",
+          "name": "Birkholz — Charm Mystery",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Citrus Splash",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citric",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "neroli"
+        ],
+        "heart": [
+          "tea rose",
+          "freesia"
+        ],
+        "base": [
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/citrus-splash",
+          "name": "Birkholz — Citrus Splash",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Colours of Capri",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus, Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "limoncello",
+          "fig",
+          "tomato leaf"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "rosemary"
+        ],
+        "base": [
+          "vetiver",
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/colours-of-capri",
+          "name": "Birkholz — Colours of Capri",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corsica - Baiser de la mer",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aquatic, Citrusy, Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lime",
+          "violet leaf",
+          "mint"
+        ],
+        "heart": [
+          "sea salt",
+          "plum",
+          "rosemary",
+          "lavender"
+        ],
+        "base": [
+          "moss",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/corsica-baiser-de-la-mer-en",
+          "name": "Birkholz — Corsica - Baiser de la mer",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark Amber",
+      "collection": "Black Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lime",
+          "pepper",
+          "green notes"
+        ],
+        "heart": [
+          "jasmine",
+          "violet",
+          "sandalwood"
+        ],
+        "base": [
+          "vanilla",
+          "amber",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/dark-amber-100ml",
+          "name": "Birkholz — Dark Amber",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "First Spring",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity, Green-aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach",
+          "lemon",
+          "apple blossom"
+        ],
+        "heart": [
+          "jasmine",
+          "freesia"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/first-spring",
+          "name": "Birkholz — First Spring",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flora Femina",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "water lily"
+        ],
+        "heart": [
+          "white lily",
+          "rose",
+          "stephanotis",
+          "blackcurrant",
+          "apricot"
+        ],
+        "base": [
+          "musk",
+          "light amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/flora-femina",
+          "name": "Birkholz — Flora Femina",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grasse - Fleur de Provence",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Woody, Leather",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackberry",
+          "licorice",
+          "elemi",
+          "violet"
+        ],
+        "heart": [
+          "rose",
+          "patchouli",
+          "red thyme"
+        ],
+        "base": [
+          "vetiver",
+          "leather",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/grasse-fleur-de-provence-en",
+          "name": "Birkholz — Grasse - Fleur de Provence",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iconic Oud",
+      "collection": "Black Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oud, Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "geranium",
+          "rose",
+          "jasmine"
+        ],
+        "heart": [
+          "musk",
+          "vanilla",
+          "saffron"
+        ],
+        "base": [
+          "oud",
+          "sandalwood",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/iconic-oud-100ml",
+          "name": "Birkholz — Iconic Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Incense N' Fire",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "olibanum",
+          "dried fruit accord"
+        ],
+        "heart": [
+          "cistus absolute"
+        ],
+        "base": [
+          "patchouli",
+          "cistus",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/incense-n-fire",
+          "name": "Birkholz — Incense N' Fire",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intimate Incense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lavender",
+          "pepper"
+        ],
+        "heart": [
+          "java vetiver",
+          "benzoin",
+          "gray amber"
+        ],
+        "base": [
+          "leather",
+          "cedarwood",
+          "frankincense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/intimate-incense-100ml",
+          "name": "Birkholz — Intimate Incense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iris N' Wood",
+      "collection": "Woody Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "cumin",
+          "grapefruit"
+        ],
+        "heart": [
+          "iris",
+          "cedarwood",
+          "lily of the valley"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/iris-n-wood",
+          "name": "Birkholz — Iris N' Wood",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Luxury Passion",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fougère, Woody-Aromatic, Citrus",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "orange blossom",
+          "aquatic"
+        ],
+        "heart": [
+          "mint",
+          "geranium",
+          "anise"
+        ],
+        "base": [
+          "amber",
+          "patchouli",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/luxury-passion",
+          "name": "Birkholz — Luxury Passion",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mornings in Milano",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity-floral, Oriental, Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "coconut",
+          "white peach",
+          "vanilla berries",
+          "lychee"
+        ],
+        "heart": [
+          "jasmine",
+          "thai gardenia",
+          "plumeria",
+          "ylang ylang"
+        ],
+        "base": [
+          "vanilla",
+          "white musk",
+          "woody notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/mornings-in-milano",
+          "name": "Birkholz — Mornings in Milano",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mystic Haze",
+      "collection": "Black Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cannabis accord",
+          "cardamom",
+          "orange"
+        ],
+        "heart": [
+          "praline",
+          "vanilla",
+          "cistus"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/mystic-haze-100ml",
+          "name": "Birkholz — Mystic Haze",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nights in Noto",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "ginger",
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "amber",
+          "patchouli"
+        ],
+        "base": [
+          "sandalwood",
+          "oakmoss",
+          "white musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/nights-in-noto",
+          "name": "Birkholz — Nights in Noto",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nuances of Napoli",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Woody, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "coconut",
+          "arabic coffee"
+        ],
+        "heart": [
+          "jasmine",
+          "geranium",
+          "violet"
+        ],
+        "base": [
+          "vetiver",
+          "saffron",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/nuances-of-napoli",
+          "name": "Birkholz — Nuances of Napoli",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paris - Mon amour",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "sesame",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose",
+          "orchid",
+          "ylang ylang"
+        ],
+        "base": [
+          "vanilla",
+          "cedarwood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/paris-mon-amour-en",
+          "name": "Birkholz — Paris - Mon amour",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poetry in Palermo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom",
+          "thyme"
+        ],
+        "heart": [
+          "violet",
+          "geranium",
+          "cistus"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/poetry-in-palermo",
+          "name": "Birkholz — Poetry in Palermo",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portraits of Portofino",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrusy, Floral, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "mandarin",
+          "bergamot"
+        ],
+        "heart": [
+          "magnolia",
+          "white flower",
+          "jasmine"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "woody notes",
+          "ginger",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/portraits-of-portofino",
+          "name": "Birkholz — Portraits of Portofino",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roads of Rome",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "frankincense",
+          "cypress"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "white flower"
+        ],
+        "base": [
+          "cistus",
+          "musk",
+          "praline",
+          "patchouli",
+          "vetiver",
+          "guaiac wood",
+          "saffron"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/roads-of-rome",
+          "name": "Birkholz — Roads of Rome",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Romance in Florence",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Spicy, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "white musk",
+          "cypriol"
+        ],
+        "heart": [
+          "vanilla",
+          "saffron",
+          "cardamom"
+        ],
+        "base": [
+          "tonka bean",
+          "guaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/romance-in-florence-en",
+          "name": "Birkholz — Romance in Florence",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Amber",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Woody, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "apricot",
+          "ginger"
+        ],
+        "heart": [
+          "rose",
+          "lavender",
+          "cardamom"
+        ],
+        "base": [
+          "sandalwood",
+          "guaiac wood",
+          "praline"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/royal-amber-en",
+          "name": "Birkholz — Royal Amber",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Satin Vanilla",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Spicy, Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "plum",
+          "pepper",
+          "rum"
+        ],
+        "heart": [
+          "gardenia",
+          "orange blossom",
+          "caramel"
+        ],
+        "base": [
+          "jungle vanilla",
+          "milk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/satin-vanilla",
+          "name": "Birkholz — Satin Vanilla",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seductive Rose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black currant",
+          "mandarin",
+          "peach"
+        ],
+        "heart": [
+          "rose",
+          "orange blossom",
+          "freesia"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/seductive-rose",
+          "name": "Birkholz — Seductive Rose",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sir Santal",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "pepper"
+        ],
+        "heart": [
+          "leather",
+          "iris root"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "benzoin",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/test-woody-collection-sir-santal-en",
+          "name": "Birkholz — Sir Santal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soho Sunday",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic, Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "bergamot",
+          "cinnamon"
+        ],
+        "heart": [
+          "rose",
+          "violet",
+          "iris"
+        ],
+        "base": [
+          "musk",
+          "tobacco",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/soho-sunday",
+          "name": "Birkholz — Soho Sunday",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sol e Samba",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrusy, Woody, Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "matcha",
+          "yuzu",
+          "grapefruit",
+          "cardamom"
+        ],
+        "heart": [
+          "fig leaf",
+          "tobacco leaf",
+          "juniper berry"
+        ],
+        "base": [
+          "cedarwood",
+          "amber",
+          "musk",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/sol-e-samba-1",
+          "name": "Birkholz — Sol e Samba",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tales of Torino",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Woody-spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "lemon",
+          "peach"
+        ],
+        "heart": [
+          "jasmine",
+          "cypress",
+          "geranium"
+        ],
+        "base": [
+          "amber",
+          "cedarwood",
+          "praline"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/tales-of-torino",
+          "name": "Birkholz — Tales of Torino",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tobacco Sense",
+      "collection": "Black Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "calabrian bergamot",
+          "cardamom",
+          "lavender"
+        ],
+        "heart": [
+          "frankincense",
+          "saffron",
+          "tobacco"
+        ],
+        "base": [
+          "java wood",
+          "amber",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://birkholz-perfumes.com/en/products/tobacco-sense-100ml",
+          "name": "Birkholz — Tobacco Sense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Versailles - Trésor de jardin",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy, Woody, Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "bergamot",
+          "cinnamon"
+        ],
+        "heart": [
+          "lavender",
+          "frankincense",
+          "coconut wood"
+        ],
+        "base": [
+          "haitian vetiver",
+          "indonesian patchouli",
+          "gurjun balsam"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/versailles-tresor-de-jardin-en",
+          "name": "Birkholz — Versailles - Trésor de jardin",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Visions of Venice",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Floral, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "apple",
+          "pineapple"
+        ],
+        "heart": [
+          "rose",
+          "violet"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "amber",
+          "patchouli",
+          "vanilla",
+          "praline",
+          "cardamom"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/visions-of-venice",
+          "name": "Birkholz — Visions of Venice",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vivid in Verona",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Powdery, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "peach",
+          "pink pepper"
+        ],
+        "heart": [
+          "lily of the valley",
+          "jasmine",
+          "osmanthus"
+        ],
+        "base": [
+          "musk",
+          "olibanum",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/vividin-verona",
+          "name": "Birkholz — Vivid in Verona",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wild Desires",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Spicy, Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "green apple"
+        ],
+        "heart": [
+          "cedar leaf",
+          "geranium",
+          "cinnamon"
+        ],
+        "base": [
+          "vanilla",
+          "cedarwood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.birkholz-perfumes.com/en/collections/all/products/wild-desires",
+          "name": "Birkholz — Wild Desires",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

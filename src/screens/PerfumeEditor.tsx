@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { useStore, useAiState } from '../state/store';
 import { useI18n } from '../i18n';
@@ -7,7 +7,7 @@ import { AiLoader, ChipToggle, Notice, Segmented, Sheet, splitList, Verification
 import { IconBack, IconCamera, IconSearch, Burst, Sparkle } from '../components/Icons';
 import { BottleImage } from '../components/BottleImage';
 import { ImagePicker } from '../components/ImagePicker';
-import { blankFragrance, fragranceKey } from '../domain/fragrance';
+import { allNotes, blankFragrance, fragranceKey } from '../domain/fragrance';
 import { CONCENTRATIONS, OCCASIONS, SEASONS, TIMES, type Concentration, type Fragrance, type Level } from '../domain/types';
 import { FAMILIES } from '../domain/families';
 import { api, aiErrorMessage } from '../services/api';
@@ -16,6 +16,7 @@ import { useAiConsent } from '../components/AiConsent';
 import { applyResearch } from './research';
 import type { IdentifyCandidate, IdentifyResponse, ImageCandidate } from '../shared/api';
 import { vibrate, sfx } from '../services/feedback';
+import { applyCatalog, loadCatalog, searchCatalog, type CatalogItem } from '../services/catalog';
 
 type Step = 'start' | 'identifying' | 'candidates' | 'researching' | 'form';
 type Mode = 'name' | 'photo' | 'manual';
@@ -25,7 +26,7 @@ export function PerfumeEditor() {
   const editing = !!id;
   const { fragrances, saveFragrance } = useStore();
   const existing = editing ? fragrances.find((f) => f.id === id) : undefined;
-  const { t, lang } = useI18n();
+  const { t, tk, lang } = useI18n();
   const { toast, confetti } = useUi();
   const nav = useNavigate();
   const ai = useAiState();
@@ -43,6 +44,11 @@ export function PerfumeEditor() {
   const [celebrate, setCelebrate] = useState<Fragrance | null>(null);
   const [error, setError] = useState<string | null>(null);
   const abortRef = useRef<AbortController | null>(null);
+  const [catalog, setCatalog] = useState<CatalogItem[]>([]);
+  useEffect(() => {
+    void loadCatalog().then((c) => setCatalog(c.items));
+  }, []);
+  const catMatches = useMemo(() => (query.trim().length >= 2 ? searchCatalog(catalog, query, 6) : []), [catalog, query]);
 
   if (editing && !existing) {
     return (
@@ -130,7 +136,7 @@ export function PerfumeEditor() {
     if (editing && existing) {
       const notesChanged = JSON.stringify(existing.notes) !== JSON.stringify(draft.notes);
       if (notesChanged) toSave = { ...toSave, noteSource: 'user' };
-    } else if (!draft.research && draft.notes.top.length + draft.notes.heart.length + draft.notes.base.length > 0) {
+    } else if (!draft.research && allNotes(draft).length > 0) {
       toSave = { ...toSave, noteSource: 'user' };
     }
     const saved = await saveFragrance({ ...toSave, isSample: false });
@@ -252,6 +258,30 @@ export function PerfumeEditor() {
                   </button>
                 )}
               </div>
+              {catMatches.length > 0 && (
+                <div className="stack cat-matches" style={{ ['--gap' as string]: '8px' }} data-testid="catalog-matches">
+                  <span className="label">{t('add.catalogMatches')}</span>
+                  {catMatches.map((c) => (
+                    <button
+                      type="button"
+                      key={`${c.b}|${c.n}|${c.c ?? ''}`}
+                      className="cat-match"
+                      data-testid="catalog-match"
+                      onClick={() => {
+                        cancelInflight();
+                        setDraft((d) => applyCatalog(d, c));
+                        setStep('form');
+                      }}
+                    >
+                      <span className="kicker">{c.b}</span>
+                      <strong>{c.n}</strong>
+                      <span className="tiny">
+                        {[c.c, c.col, c.ns !== 'none' ? tk(`src.${c.ns}`) : null].filter(Boolean).join(' · ')}
+                      </span>
+                    </button>
+                  ))}
+                </div>
+              )}
             </form>
           )}
           {mode === 'photo' && (

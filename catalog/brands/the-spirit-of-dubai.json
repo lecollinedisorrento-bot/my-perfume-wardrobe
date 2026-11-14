@@ -1,0 +1,1868 @@
+{
+  "brand": "The Spirit of Dubai",
+  "slug": "the-spirit-of-dubai",
+  "officialSite": "https://www.thespiritofdubai.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/the-spirit-of-dubai/"
+    }
+  ],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "BJ Distribuzione page returned empty content. Official site (thespiritofdubai.com) range pages g1products.php, g2products.php, g2accordproducts.php list 12 First Generation perfumes, 8 Second Generation (Ultra-Niche) and 7 Accord Collection perfumes; notes, family and concentration read from each product page. Official pages give no perfumer, year or accords, so these are null/[]. Dubai Bakhoor (150 g incense, listed on the First Generation page) excluded as not a perfume. Fragrantica/Parfumo/Parfinity/scentverdict returned 403 or were not needed. Product page note lists are very long and include marketing terms, kept as published (lowercased). Country not stated on pages read; UAE inferred from Dubai branding. Country left null: no page states it.",
+  "fragrances": [
+    {
+      "name": "Dubai Marsa",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Edible, Woody, Floral, Vanilla",
+      "accords": [],
+      "notes": {
+        "top": [
+          "milk",
+          "cherry",
+          "juniper berry",
+          "canelle",
+          "frankincense",
+          "coconut",
+          "almond"
+        ],
+        "heart": [
+          "fig",
+          "sandalwood",
+          "tuberose",
+          "jasmine",
+          "ylang ylang",
+          "solar notes",
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "praline",
+          "mossy notes",
+          "musk",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/dubaimarsa50ml",
+          "name": "The Spirit of Dubai — Dubai Marsa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Ajyal",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity - Floral - Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "plum",
+          "green note",
+          "petrichor",
+          "marine note",
+          "pear",
+          "mint",
+          "rhubarb",
+          "black pepper",
+          "grapefruit",
+          "lime",
+          "lemon",
+          "candied apple"
+        ],
+        "heart": [
+          "cherry blossoms",
+          "osmanthus",
+          "carnation",
+          "mimosa",
+          "ylang",
+          "jasmine sambac",
+          "heliotrope",
+          "magnolia",
+          "freesia",
+          "lavender",
+          "helichrysum",
+          "jasmine",
+          "lily of the valley",
+          "orchid",
+          "indian sandalwood",
+          "amberwood",
+          "rose loukoum"
+        ],
+        "base": [
+          "cedarwood",
+          "white musk",
+          "musk",
+          "patchouli",
+          "tonka",
+          "vanilla",
+          "intense amber",
+          "brown sugar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/dubaiajyal50ml",
+          "name": "The Spirit of Dubai — Dubai Ajyal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Roeya",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody - Spicy - Floral - Ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cashmeran",
+          "amber",
+          "mandarin",
+          "neroli",
+          "tuberose"
+        ],
+        "heart": [
+          "orange blossom",
+          "papyrus",
+          "saffron",
+          "jasmine sambac"
+        ],
+        "base": [
+          "oud",
+          "ambergris",
+          "ambrette",
+          "fir"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/roeya100ml",
+          "name": "The Spirit of Dubai — Dubai Roeya",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Oud",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental - Chypre - Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pineapple",
+          "lime",
+          "rehan",
+          "pear",
+          "saffron",
+          "fresh woody (pine)",
+          "bitter almond",
+          "fruity",
+          "black pepper",
+          "cardamom",
+          "rose damascene",
+          "bergamot",
+          "lavender",
+          "incense",
+          "cypriol",
+          "osmanthus"
+        ],
+        "heart": [
+          "orchid",
+          "lily of the valley",
+          "balsamic",
+          "myrrh",
+          "smoked olibanum",
+          "guaiacwood",
+          "earthy",
+          "red rose",
+          "jasmine",
+          "violet",
+          "geranium",
+          "rose",
+          "amberwood"
+        ],
+        "base": [
+          "ambergris",
+          "sandalwood",
+          "cedarwood",
+          "musk",
+          "leathery",
+          "tobacco",
+          "sweet",
+          "vanilla",
+          "oakmoss",
+          "benzoin",
+          "woody",
+          "vetiver",
+          "patchouli",
+          "pure natural indian agarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/oud100ml",
+          "name": "The Spirit of Dubai — Dubai Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Bahar",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Watery - Woody - Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "bitter orange",
+          "plum",
+          "aquatic notes",
+          "coconut",
+          "violet leaves absolute",
+          "spicy notes",
+          "ozonic notes",
+          "lime",
+          "marine note",
+          "apple",
+          "pineapple",
+          "blackcurrant",
+          "strawberry",
+          "raspberry",
+          "cherry",
+          "mandarin",
+          "green note",
+          "bergamot",
+          "clary sage",
+          "grapefruit",
+          "cardamom",
+          "ginger"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "saffron",
+          "cedarwood",
+          "cashmere",
+          "sandal",
+          "vanilla berries",
+          "iris",
+          "fir",
+          "lotus flower",
+          "cyclamen"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "vanilla",
+          "musk",
+          "patchouli",
+          "precious woods",
+          "immortelle",
+          "oudh",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/bahar100ml",
+          "name": "The Spirit of Dubai — Dubai Bahar",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Rimal",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Spicy, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "vanilla",
+          "fruity notes",
+          "white flowers",
+          "saffron",
+          "cinnamon",
+          "nutmeg"
+        ],
+        "heart": [
+          "patchouli",
+          "styrax",
+          "sweet notes",
+          "incense",
+          "rose",
+          "ylang-ylang"
+        ],
+        "base": [
+          "caramel",
+          "leather",
+          "amber",
+          "vetiver",
+          "cistus labdanum",
+          "sandalwood",
+          "musk",
+          "agarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/rimal100ml",
+          "name": "The Spirit of Dubai — Dubai Rimal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Turath",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody - Oriental - Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "pineapple",
+          "strawberry",
+          "peach",
+          "coconut",
+          "blackcurrant",
+          "pink pepper",
+          "pepper nepal",
+          "bergamot",
+          "cumin",
+          "cinnamon",
+          "sweet orange",
+          "spicy notes",
+          "rose damascene",
+          "cardamom",
+          "coffee",
+          "dried fruits",
+          "candied fruit"
+        ],
+        "heart": [
+          "jasmine",
+          "lily of the valley",
+          "iris",
+          "amyris",
+          "cedarwood",
+          "oud",
+          "coriander",
+          "violet",
+          "rose",
+          "saffron",
+          "cypriol",
+          "sandal"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood",
+          "guaiacwood",
+          "vetiver",
+          "tolu balsam",
+          "peru balsam",
+          "leather",
+          "smoky notes",
+          "cistus",
+          "labdanum",
+          "incense",
+          "civet",
+          "white musk",
+          "ambergris",
+          "vanilla",
+          "mosses",
+          "amber",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/turath100ml",
+          "name": "The Spirit of Dubai — Dubai Turath",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Abraj",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Chypre, Woody, Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "saffron",
+          "cardamom",
+          "rose damascene",
+          "bergamot",
+          "shinus molle",
+          "pine",
+          "petitgrain",
+          "lavender"
+        ],
+        "heart": [
+          "red rose",
+          "thyme",
+          "cypress",
+          "leather",
+          "cedarwood",
+          "geranium",
+          "jasmine",
+          "violet"
+        ],
+        "base": [
+          "cypriol",
+          "oud",
+          "oakmoss",
+          "patchouli",
+          "tree moss",
+          "sandal",
+          "amber",
+          "benzoin",
+          "woody",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/abraj100ml",
+          "name": "The Spirit of Dubai — Dubai Abraj",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Meydan",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental - Ambery - Leathery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "lavender",
+          "artemisia",
+          "cardamom",
+          "cinnamon",
+          "cypress",
+          "saffron",
+          "bergamot",
+          "apple",
+          "nutmeg",
+          "styrax"
+        ],
+        "heart": [
+          "tobacco",
+          "kharismal",
+          "cashmeran",
+          "jasmine",
+          "muguet",
+          "geranium",
+          "agarwood",
+          "labdanum",
+          "cedarwood",
+          "cyprus"
+        ],
+        "base": [
+          "oud",
+          "musk",
+          "patchouli",
+          "sandalwood",
+          "leather",
+          "gajak",
+          "vanilla",
+          "tonka",
+          "vetiver",
+          "amber",
+          "benzoin/tolu"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/meydan100ml",
+          "name": "The Spirit of Dubai — Dubai Meydan",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Fakhama",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental - Floral - Woody - Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "turkish rose",
+          "rose bulgarian",
+          "bergamot",
+          "fruity notes",
+          "oud",
+          "sweet orange",
+          "spicy notes",
+          "rose damascene",
+          "elemi",
+          "cardamom",
+          "coffee",
+          "frutta secca",
+          "candied fruit"
+        ],
+        "heart": [
+          "sandal",
+          "cypriol",
+          "benzoin resinoid",
+          "vanilla",
+          "patchouli",
+          "vetiver",
+          "coriander",
+          "ginger",
+          "rose",
+          "saffron"
+        ],
+        "base": [
+          "amber",
+          "castoreum",
+          "civetta",
+          "mosses",
+          "caramelised sugar",
+          "incense",
+          "leather",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/fakhama100ml",
+          "name": "The Spirit of Dubai — Dubai Fakhama",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Majalis",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody - Oriental - Leather",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "sweet orange",
+          "spicy notes",
+          "rose damascene",
+          "elemi",
+          "incense",
+          "peach",
+          "apple",
+          "rose",
+          "rose taif",
+          "geranium",
+          "osmanthus",
+          "green note",
+          "cardamom"
+        ],
+        "heart": [
+          "sandal",
+          "vetiver",
+          "benzoin resinoid",
+          "coriander",
+          "ginger",
+          "saffron",
+          "floral transparent",
+          "powdery",
+          "clove",
+          "gaiac",
+          "dates"
+        ],
+        "base": [
+          "patchouli",
+          "oud",
+          "leather",
+          "vanilla",
+          "woody",
+          "benzoin",
+          "sandalwood",
+          "myrrh",
+          "musk",
+          "honey",
+          "qahwa (arabic coffee)"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/majalis100ml",
+          "name": "The Spirit of Dubai — Dubai Majalis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai Sama",
+      "collection": "First Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Floral, Fruity, Ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apricot",
+          "lemon",
+          "mandarin",
+          "passion fruit",
+          "bergamot",
+          "cardamom",
+          "india black pepper",
+          "ginger",
+          "turkish rose",
+          "geranium",
+          "ozone"
+        ],
+        "heart": [
+          "osmanthus",
+          "orris",
+          "ylang",
+          "jasmine",
+          "cinnamon",
+          "caramel",
+          "salt",
+          "fir balsam",
+          "olibanum",
+          "cypriol"
+        ],
+        "base": [
+          "oud",
+          "india sandalwood",
+          "patchouli",
+          "leather",
+          "vanilla",
+          "labdanum",
+          "ambergris",
+          "musk",
+          "tonka bean",
+          "incense",
+          "dry amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/dubaisama50ml",
+          "name": "The Spirit of Dubai — Dubai Sama",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hadhara",
+      "collection": "Second Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery-Sweet-Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "orris",
+          "cypress",
+          "juniper berry",
+          "elemi",
+          "saffron",
+          "pink pepper",
+          "absinthe",
+          "caramel",
+          "citrus",
+          "bergamot",
+          "jasmine",
+          "iris",
+          "muguet",
+          "rose",
+          "osmanthus",
+          "incense",
+          "cypriol"
+        ],
+        "heart": [
+          "myrrh",
+          "patchouli",
+          "honey",
+          "leather",
+          "olibanum",
+          "rose",
+          "tuberose",
+          "sandalwood",
+          "milk",
+          "dubai chocolate",
+          "vanilla ice cream",
+          "hadramaut honey",
+          "incense",
+          "pink pepper",
+          "cashmere wood",
+          "sandalwood",
+          "geranium",
+          "rose",
+          "amber"
+        ],
+        "base": [
+          "vintage vanilla absolute",
+          "madagascar vanilla",
+          "oud",
+          "amber",
+          "arabian balsam",
+          "musk",
+          "labdanum",
+          "patchouli",
+          "tonka beans",
+          "ambergris",
+          "caramel",
+          "chocolate",
+          "sandalwood",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/Hadhara",
+          "name": "The Spirit of Dubai — Hadhara",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narjesi",
+      "collection": "Second Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental - Floral - Pure Rose Taif",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "turkish rose",
+          "rose bulgarian",
+          "bergamot",
+          "fruity notes",
+          "oud",
+          "saffron",
+          "sweet orange",
+          "spicy notes",
+          "rose damascene",
+          "elemi",
+          "aldehyde",
+          "orange",
+          "green leaves",
+          "pink pepper",
+          "cardamom",
+          "coffee",
+          "frutta secca",
+          "candied fruit",
+          "pure rose taif"
+        ],
+        "heart": [
+          "sandal",
+          "cypriol",
+          "benzoin resinoid",
+          "vanilla berries",
+          "patchouli",
+          "vetiver",
+          "coriander",
+          "ginger",
+          "chamomille",
+          "honey"
+        ],
+        "base": [
+          "amber",
+          "castoreum",
+          "civetta",
+          "mosses",
+          "caramelised sugar",
+          "incense",
+          "leather",
+          "sandalwood",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/narjesi",
+          "name": "The Spirit of Dubai — Narjesi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Durra",
+      "collection": "Second Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Oriental, Ambery, Leathery, Marine Notes, Boise",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pepper",
+          "clove",
+          "mint",
+          "fresh woody (pine)",
+          "bitter almond",
+          "fruity",
+          "grapefruit",
+          "artemisia",
+          "cardamom",
+          "cinnamon",
+          "cypress",
+          "bergamot",
+          "clary sage",
+          "aldehyde",
+          "apple",
+          "nutmeg",
+          "lemon",
+          "bitter orange",
+          "plum",
+          "aquatic notes",
+          "coconut",
+          "violet leaves absolute",
+          "spicy notes",
+          "ozonic notes",
+          "lime",
+          "marine note",
+          "pineapple",
+          "blackcurrant",
+          "strawberry",
+          "raspberry",
+          "cherry",
+          "mandarin",
+          "green note",
+          "ginger",
+          "cumin",
+          "rhubarb",
+          "pink pepper",
+          "basil"
+        ],
+        "heart": [
+          "geranium",
+          "rose",
+          "incense",
+          "balsamic",
+          "myrrh",
+          "smoked olibanum",
+          "cedarwood",
+          "earthy",
+          "kharismal",
+          "akigalawood",
+          "jasmine",
+          "birch leaves",
+          "honey",
+          "muguet",
+          "agarwood",
+          "saffron",
+          "vetiver",
+          "cashmere",
+          "sandal",
+          "vanilla berries",
+          "iris",
+          "fir",
+          "lotus flower",
+          "cyclamen",
+          "lavender",
+          "orchid"
+        ],
+        "base": [
+          "praline",
+          "wet amber",
+          "vanilla",
+          "musk",
+          "tobacco",
+          "sweet",
+          "patchouli",
+          "labdanum",
+          "sandalwood",
+          "sandalwood australia",
+          "civet",
+          "castoreum",
+          "gajak",
+          "tonka",
+          "benzoin/tulo",
+          "precious woods",
+          "immortelle",
+          "oudh",
+          "guaiacwood",
+          "styrax",
+          "cistus",
+          "oakmoss",
+          "leather",
+          "sea salty notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/durra",
+          "name": "The Spirit of Dubai — Durra",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baz",
+      "collection": "Second Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Spicy, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "falcon leather",
+          "cardamom",
+          "coffee",
+          "saffron",
+          "coriander",
+          "black pepper",
+          "aldehyde",
+          "bergamot",
+          "plum",
+          "red berries",
+          "star anise",
+          "cinnamon",
+          "nutmeg",
+          "pepper",
+          "clove",
+          "mint"
+        ],
+        "heart": [
+          "orchid",
+          "carnation",
+          "lily of the valley",
+          "jasmine",
+          "rose",
+          "incense",
+          "leather",
+          "birch leaves",
+          "honey",
+          "floral",
+          "tuberose",
+          "ylang-ylang",
+          "geranium",
+          "tobacco",
+          "smoked olibanum"
+        ],
+        "base": [
+          "guaiac wood",
+          "sandalwood",
+          "cistus",
+          "tonka",
+          "gurjum",
+          "copaiba",
+          "myrrhe",
+          "patchouli",
+          "peru balsam",
+          "civet",
+          "costus",
+          "vetiver",
+          "praline",
+          "amber",
+          "vanilla",
+          "musk",
+          "castoreum",
+          "labdanum",
+          "indian agarwood oil"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/baz",
+          "name": "The Spirit of Dubai — Baz",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aamal",
+      "collection": "Second Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Leather, Floral, Tasty, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose damascene",
+          "pink pepper",
+          "cinnamon",
+          "peach",
+          "apple",
+          "rose",
+          "rose bulgarian",
+          "turkish rose",
+          "cardamom",
+          "coffee",
+          "dried fruits",
+          "candied fruit",
+          "shinus molle",
+          "bergamot",
+          "fruity notes"
+        ],
+        "heart": [
+          "patchouli",
+          "akigalawood",
+          "cedarwood",
+          "saffron",
+          "floral transparent",
+          "powdery",
+          "vanilla berries",
+          "cypriol",
+          "sandal",
+          "benzoin resinoid"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "olibanol",
+          "musk",
+          "incense",
+          "oudh",
+          "leather",
+          "vanilla",
+          "caramelised sugar",
+          "castoreum",
+          "oakmoss",
+          "tuberose",
+          "mosses"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/aamal",
+          "name": "The Spirit of Dubai — Aamal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abjar",
+      "collection": "Second Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Ambery, Leathery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "fresh woody (pine)",
+          "bitter almond",
+          "fruity",
+          "grapefruit",
+          "lavender",
+          "artemisia",
+          "cardamom",
+          "cinnamon",
+          "cypress",
+          "saffron",
+          "bergamot",
+          "clary sage",
+          "aldehyde",
+          "apple",
+          "nutmeg",
+          "styrax",
+          "pepper",
+          "clove",
+          "mint"
+        ],
+        "heart": [
+          "balsamic",
+          "myrrh",
+          "smoked olibanum",
+          "cedarwood",
+          "guaiacwood",
+          "earthy",
+          "kharismal",
+          "cashmeran",
+          "akigalawood",
+          "jasmine",
+          "birch leaves",
+          "honey",
+          "muguet",
+          "geranium",
+          "indian agarwood oil",
+          "labdanum",
+          "cyprus",
+          "rose",
+          "incense",
+          "leather"
+        ],
+        "base": [
+          "tobacco",
+          "sweet",
+          "vanilla",
+          "oud",
+          "amber",
+          "musk",
+          "patchouli",
+          "sandalwood",
+          "vetiver",
+          "civet",
+          "castoreum",
+          "gajak",
+          "tonka",
+          "benzoin/tolu",
+          "praline",
+          "sandalwood australia"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/abjar",
+          "name": "The Spirit of Dubai — Abjar",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Haibah",
+      "collection": "Second Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity - Oriental - Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "ginger",
+          "saffron",
+          "pineapple",
+          "lime",
+          "rehan",
+          "pear",
+          "leather",
+          "smoked wood",
+          "spicy",
+          "wood",
+          "bergamot",
+          "freesia",
+          "peach",
+          "rose"
+        ],
+        "heart": [
+          "oudh",
+          "orchid",
+          "lily of the valley",
+          "corps truffe",
+          "amber",
+          "white floral",
+          "herbal",
+          "green",
+          "mossy",
+          "rose damascene",
+          "jasmine",
+          "iris",
+          "ylang-ylang"
+        ],
+        "base": [
+          "sandal",
+          "guaiacwood",
+          "cedarwood",
+          "musk",
+          "muscenone",
+          "dry earthy",
+          "sweet woody",
+          "patchouli",
+          "rare indian agarwood oil",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/haibah",
+          "name": "The Spirit of Dubai — Haibah",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diwan",
+      "collection": "Second Generation",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental, Leather, Floral, Tasty",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "strawberry",
+          "plum",
+          "dewberry",
+          "raspberry",
+          "orange",
+          "cardamom",
+          "incense",
+          "peach",
+          "apple",
+          "rose bulgarian",
+          "turkish rose",
+          "woody",
+          "aldehydes",
+          "green leaves",
+          "pink pepper",
+          "grapefruit"
+        ],
+        "heart": [
+          "iris",
+          "rhubarb",
+          "saffron",
+          "floral transparent",
+          "powdery",
+          "oud",
+          "vanilla berries",
+          "cypriol",
+          "patchouli",
+          "sandal",
+          "ambery",
+          "earthy",
+          "rose taif",
+          "chamomille",
+          "honey",
+          "carnation",
+          "geranium",
+          "ubar luban"
+        ],
+        "base": [
+          "vanilla",
+          "tonka",
+          "cedarwood",
+          "sandalwood",
+          "guaiacwood",
+          "cuir",
+          "ambergris",
+          "white musk",
+          "castoreum",
+          "gurjum balsam",
+          "myrrh",
+          "mukhallat",
+          "coffee",
+          "leather",
+          "caramelised sugar",
+          "benzoin resinoid",
+          "kadeem",
+          "balsamic",
+          "musk",
+          "frankincense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/diwan",
+          "name": "The Spirit of Dubai — Diwan",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narjesi Fleur",
+      "collection": "Accord Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Exotic Floral - Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "olibanum sfe",
+          "bergamot italy",
+          "pink pepper sfe",
+          "cypress spain",
+          "orange oil florida",
+          "mandarin oil sfuma",
+          "watery accord",
+          "saffron",
+          "anise"
+        ],
+        "heart": [
+          "clove",
+          "orange flower abs",
+          "rose",
+          "geranium bourbon",
+          "praline",
+          "lilyflore",
+          "frangipani",
+          "everlasting flower abs",
+          "jasmine"
+        ],
+        "base": [
+          "ambrox",
+          "patchouli indonesia",
+          "vetiver haiti",
+          "ambrettolide",
+          "timbersilk",
+          "musk",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/narjesi_fleur",
+          "name": "The Spirit of Dubai — Narjesi Fleur",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Durra Ambre",
+      "collection": "Accord Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Marine - Vanilla - Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambrette",
+          "aquatic accord",
+          "baies rose",
+          "saffron",
+          "amber",
+          "pink pepper",
+          "black pepper",
+          "olibanum sfe",
+          "elemi philippines",
+          "bergamote italy",
+          "peach",
+          "grapefruit",
+          "sage"
+        ],
+        "heart": [
+          "geranium",
+          "jasmin sambac",
+          "magnolia",
+          "rose aromafusion",
+          "honey aromaspace",
+          "tea rose",
+          "leather",
+          "lily of the valley",
+          "freesia",
+          "coconut",
+          "caramel"
+        ],
+        "base": [
+          "ambrox",
+          "cashmeran",
+          "musk",
+          "vanilla bourbon sfe abs",
+          "gurjun balsam",
+          "leather",
+          "vetiver",
+          "anthamber",
+          "patchouli",
+          "cypriol",
+          "sandalwood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/durra_ambre",
+          "name": "The Spirit of Dubai — Durra Ambre",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baz Cuir",
+      "collection": "Accord Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus - Woody - Leather",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "apple",
+          "yuzu",
+          "mandarin",
+          "green notes",
+          "orange",
+          "cypress",
+          "coriander",
+          "cinnamon"
+        ],
+        "heart": [
+          "jasmine",
+          "muguet",
+          "geranium",
+          "osmanthus",
+          "cedar wood",
+          "starwood",
+          "myrrh",
+          "labdanum",
+          "incense"
+        ],
+        "base": [
+          "sandalwood",
+          "leather",
+          "musk",
+          "amber",
+          "safran",
+          "gajak",
+          "cardamom",
+          "cedar wood",
+          "patchouli",
+          "leather notes",
+          "vetive"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/baz_cuir",
+          "name": "The Spirit of Dubai — Baz Cuir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abjar Bois",
+      "collection": "Accord Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh, Floral, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "nutmeg",
+          "thyme",
+          "grapefruit",
+          "mandarin",
+          "armoise",
+          "violet",
+          "lemon",
+          "geranium",
+          "ginger"
+        ],
+        "heart": [
+          "lavender",
+          "rose",
+          "ghaf tree",
+          "cashmere wood",
+          "smokey notes",
+          "pink pepper",
+          "coriander",
+          "myrrh",
+          "iris",
+          "orange blossom",
+          "jasmine",
+          "leather"
+        ],
+        "base": [
+          "ambrox",
+          "vetiver",
+          "musk",
+          "amber",
+          "agarwood",
+          "patchouli",
+          "cedarwood",
+          "guaiacwood",
+          "olibanum",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/abjar_bois",
+          "name": "The Spirit of Dubai — Abjar Bois",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diwan Gourmand",
+      "collection": "Accord Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand - neo oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cacao",
+          "chocolate smoke",
+          "blackcurrant",
+          "plum"
+        ],
+        "heart": [
+          "date",
+          "rose",
+          "cinnamon",
+          "pink pepper",
+          "tonka bean",
+          "fir balsam",
+          "benzoin"
+        ],
+        "base": [
+          "oud",
+          "cedarwood",
+          "patchouli",
+          "vetiver",
+          "leather",
+          "amber",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/diwan_gourmand",
+          "name": "The Spirit of Dubai — Diwan Gourmand",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Haibah Oriental",
+      "collection": "Accord Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, aldehydic, fruity, oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehydes",
+          "ylang ylang",
+          "bergamot",
+          "passion fruit",
+          "peach",
+          "saffron",
+          "grapefruit",
+          "blackberry",
+          "apple"
+        ],
+        "heart": [
+          "incense",
+          "rose",
+          "jasmine",
+          "violet",
+          "tagette",
+          "pink pepper"
+        ],
+        "base": [
+          "vanilla",
+          "ambergris",
+          "cashmere wood",
+          "cedarwood",
+          "ambroxan",
+          "leather",
+          "mossy notes",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.thespiritofdubai.com/haibah_oriental",
+          "name": "The Spirit of Dubai — Haibah Oriental",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aamal Métallique",
+      "collection": "Accord Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Chypre, citrusy, solar, leathery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "petitgrain",
+          "blackcurrant",
+          "nutmeg",
+          "lemon",
+          "coconut",
+          "peach"
+        ],
+        "heart": [
+          "rose",
+          "orchid",
+          "lily of the valley",
+          "everlasting flower",
+          "tiare",
+          "ylang-ylang",
+          "jasmine",
+          "salty notes",
+          "solar notes"
+        ],
+        "base": [
+          "vanilla",
+          "tonka",
+          "agarwood",
+          "sandalwood",
+          "vetiver",
+          "ambergris",
+          "patchouli",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thespiritofdubai.com/aamal_metallique",
+          "name": "The Spirit of Dubai — Aamal Métallique",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

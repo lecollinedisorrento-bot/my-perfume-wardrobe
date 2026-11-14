@@ -1,0 +1,343 @@
+{
+  "brand": "The Orientalist",
+  "slug": "the-orientalist",
+  "officialSite": "https://www.theorientalistfragrances.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/the-orientalist/"
+    }
+  ],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site lists eight perfumes (also a Discovery Set of samples, excluded as non-perfume). Notes come from each official product page; no year, perfumer or accords stated. Concentration 'Parfum' from official pages (Taif Bloom's from Amyris Essenze). Brand country left null: official site says 'Arabic Scents' but states no origin. Crystal Bahar family taken from the official page's own wording ('contemporary aquatic fougère'). fragrancenet.com and parfumo.com returned 403.",
+  "fragrances": [
+    {
+      "name": "Golden Kunafa",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "toasted caramel"
+        ],
+        "heart": [
+          "honey",
+          "orange blossom",
+          "pistachio"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "cookie"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.theorientalistfragrances.com/en/product/golden-kunafa/",
+          "name": "The Orientalist — Golden Kunafa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tropic Janan",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "orange blossom"
+        ],
+        "heart": [
+          "melon",
+          "papaya",
+          "mango",
+          "peach"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.theorientalistfragrances.com/en/product/tropic-janan/",
+          "name": "The Orientalist — Tropic Janan",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Taif Bloom",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "peach"
+        ],
+        "heart": [
+          "rose",
+          "peony",
+          "geranium",
+          "neroli"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "vanilla",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.theorientalistfragrances.com/en/product/taif-bloom/",
+          "name": "The Orientalist — Taif Bloom",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://amyrisessenze.com/en/products/the-orientalist-taif-bloom",
+          "name": "Amyris Essenze — The Orientalist Taif Bloom",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noor Zest",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "green apple"
+        ],
+        "heart": [
+          "pink pepper",
+          "orange blossom",
+          "patchouli",
+          "cedarwood"
+        ],
+        "base": [
+          "oakmoss",
+          "cedarwood",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.theorientalistfragrances.com/en/product/noor-zest/",
+          "name": "The Orientalist — Noor Zest",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Velvet Khashab",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "akigalawood",
+          "cedar",
+          "vetiver"
+        ],
+        "base": [
+          "ambroxide",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.theorientalistfragrances.com/en/product/velvet-khashab/",
+          "name": "The Orientalist — Velvet Khashab",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crystal Bahar",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aquatic fougère",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "davana"
+        ],
+        "heart": [
+          "violet",
+          "sea salt",
+          "rose",
+          "geranium"
+        ],
+        "base": [
+          "oud",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.theorientalistfragrances.com/en/product/crystal-bahar/",
+          "name": "The Orientalist — Crystal Bahar",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber Dukhan",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "tobacco",
+          "clove",
+          "anise"
+        ],
+        "heart": [
+          "vanilla",
+          "cashmere",
+          "rum"
+        ],
+        "base": [
+          "amber",
+          "honey",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.theorientalistfragrances.com/en/product/amber-dukhan/",
+          "name": "The Orientalist — Amber Dukhan",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Silver Saffron",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "oud",
+          "saffron"
+        ],
+        "heart": [
+          "red berries",
+          "rose",
+          "leather"
+        ],
+        "base": [
+          "amber",
+          "patchouli",
+          "musk",
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.theorientalistfragrances.com/en/product/silver-saffron/",
+          "name": "The Orientalist — Silver Saffron",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

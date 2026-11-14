@@ -11,7 +11,10 @@
     "typecheck": "tsc --noEmit -p .",
     "test": "vitest run",
     "test:e2e": "playwright test --trace off",
-    "icons": "node scripts/generate-icons.mjs"
+    "icons": "node scripts/generate-icons.mjs",
+    "prebuild": "node scripts/validate-catalog.mjs",
+    "predev": "node scripts/validate-catalog.mjs",
+    "catalog": "node scripts/validate-catalog.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.8.0",

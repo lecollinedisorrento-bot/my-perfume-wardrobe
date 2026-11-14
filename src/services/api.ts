@@ -21,6 +21,7 @@ import { daysBetween, localDay, seasonFor } from '../domain/util';
 import { translate } from '../i18n';
 import { weatherLabelKey } from '../domain/weather';
 import { appUrl } from './base';
+import { allNotes } from '../domain/fragrance';
 
 export class ApiError extends Error {
   constructor(
@@ -88,7 +89,7 @@ export function toCollectionItem(f: Fragrance, wears: WearLog[], withNotes = fal
     lastWornDaysAgo: last ? daysBetween(last, localDay()) : null,
     wearCount: wearCounts(wears).get(f.id) ?? 0,
   };
-  if (withNotes) item.notes = [...f.notes.top, ...f.notes.heart, ...f.notes.base].slice(0, 24);
+  if (withNotes) item.notes = allNotes(f).slice(0, 24);
   return item;
 }
 

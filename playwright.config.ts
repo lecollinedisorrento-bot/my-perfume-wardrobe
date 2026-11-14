@@ -16,7 +16,7 @@ export default defineConfig({
     screenshot: 'only-on-failure',
   },
   webServer: {
-    command: 'npx vite build && AI_PROVIDER=mock PORT=4175 AI_RATE_LIMIT=500 npx tsx server/start.ts',
+    command: 'node scripts/validate-catalog.mjs && npx vite build && AI_PROVIDER=mock PORT=4175 AI_RATE_LIMIT=500 npx tsx server/start.ts',
     url: 'http://localhost:4175/api/health',
     timeout: 120_000,
     reuseExistingServer: false,

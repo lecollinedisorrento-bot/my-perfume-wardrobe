@@ -1,0 +1,531 @@
+{
+  "brand": "Atyab Al Marshoud",
+  "slug": "atyab-al-marshoud",
+  "officialSite": "https://www.atyabalmarshoud.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/atyab-al-marshoud/"
+    }
+  ],
+  "country": "Kuwait",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site (Shopify) perfumes collection lists 15 products; notes taken from each product page's ingredient list (flat, no pyramid). Salt is sold as an all-over/body spray (official All Over Spray collection, 10 items incl. Lychee, Tonka, Magnolia, Honey and gift sets, not added). Concentration only recorded where the product name says Eau de Parfum. Marshoud No.4 page says 'now in a 100 ml Eau de Parfum'. Founding 1925 in Kuwait stated on official homepage; 'produced in France' not verified. Blocked: parfumo.com (403), fragrancenet.com (403), bjdistribuzione.it (empty page). No years, perfumers or families found, left null.",
+  "fragrances": [
+    {
+      "name": "Marshoud 4 White",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "mint",
+          "saffron",
+          "cardamom"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/marshoud4-white",
+          "name": "Atyab Al Marshoud — Marshoud 4 White",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marshoud 4 Black",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white musk",
+          "rose",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/marshoud4-black",
+          "name": "Atyab Al Marshoud — Marshoud 4 Black",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marshoud 4 Blue",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "patchouli",
+          "vanilla",
+          "raspberry",
+          "musk",
+          "bergamot"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/marshoud4-blue",
+          "name": "Atyab Al Marshoud — Marshoud 4 Blue",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marshoud No.4",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "mint",
+          "saffron",
+          "cardamom"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/marshoud-no-4",
+          "name": "Atyab Al Marshoud — Marshoud No.4",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amaya Blue",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink pepper",
+          "orange blossom",
+          "jasmine",
+          "amber",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/amaya-blue",
+          "name": "Atyab Al Marshoud — Amaya Blue",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Al Shaghaf Black",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "patchouli",
+          "vanilla",
+          "strawberry"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/al-shaghaf-black",
+          "name": "Atyab Al Marshoud — Al Shaghaf Black",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Al Shaghaf Grey",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "patchouli",
+          "oud",
+          "leather",
+          "gardenia"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/al-shaghaf-grey",
+          "name": "Atyab Al Marshoud — Al Shaghaf Grey",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aurora Northern Lights",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "patchouli",
+          "oud",
+          "saffron",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/aurora-northern-lights",
+          "name": "Atyab Al Marshoud — Aurora Northern Lights",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lily Musk Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "peach",
+          "lily",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/lily-musk-parfum",
+          "name": "Atyab Al Marshoud — Lily Musk Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ekhtilaf",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "amber",
+          "musk",
+          "cardamom"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/ekhtilaf",
+          "name": "Atyab Al Marshoud — Ekhtilaf",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Violet Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "lily",
+          "violet",
+          "lavender",
+          "rose",
+          "cardamom"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/violet-eau-de-parfum-100ml",
+          "name": "Atyab Al Marshoud — Violet Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turquoise Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "peach",
+          "musk",
+          "pink pepper",
+          "sandalwood",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/turquoise-eau-de-parfum",
+          "name": "Atyab Al Marshoud — Turquoise Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pink Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "patchouli",
+          "jasmine",
+          "raspberry"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/pink-eau-de-parfum-30ml",
+          "name": "Atyab Al Marshoud — Pink Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Century Perfume",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "rose",
+          "patchouli",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/century-perfume",
+          "name": "Atyab Al Marshoud — Century Perfume",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "All in All EDP",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/perfumes/products/all-in-all-edp",
+          "name": "Atyab Al Marshoud — All in All EDP",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "All Over Spray Salt",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lime",
+          "salt",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/alloverspray/products/all-over-spray-salt",
+          "name": "Atyab Al Marshoud — All Over Spray Salt",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,7 @@
 
 import { resolveFamily, traitsFor } from './families';
 import type { Combination, Fragrance } from './types';
+import { allNotes } from './fragrance';
 
 export interface LayerSuggestion
   extends Omit<Combination, 'id' | 'createdAt' | 'rating' | 'notes' | 'success'> {
@@ -18,8 +19,8 @@ export function localLayerSuggestion(primary: Fragrance, secondary: Fragrance): 
   const ta = traitsFor(primary.family, primary.accords);
   const tb = traitsFor(secondary.family, secondary.accords);
   const common = shared(primary.accords, secondary.accords);
-  const notesA = [...primary.notes.top, ...primary.notes.heart, ...primary.notes.base];
-  const notesB = [...secondary.notes.top, ...secondary.notes.heart, ...secondary.notes.base];
+  const notesA = allNotes(primary);
+  const notesB = allNotes(secondary);
   const commonNotes = shared(notesA, notesB);
   const reasons: string[] = [];
   let score = 50;

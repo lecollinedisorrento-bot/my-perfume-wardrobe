@@ -17,7 +17,8 @@ import { ImagePicker } from '../components/ImagePicker';
 import type { ImageCandidate } from '../shared/api';
 import { useTemp } from '../components/Weather';
 import { vibrate } from '../services/feedback';
-import { hasProfile } from '../domain/fragrance';
+import { allNotes, hasProfile } from '../domain/fragrance';
+import { applyCatalog, findCatalogMatch, loadCatalog, type CatalogItem } from '../services/catalog';
 
 export function PerfumeDetail() {
   const { id } = useParams();
@@ -37,6 +38,17 @@ export function PerfumeDetail() {
   const [exp, setExp] = useState(f?.experience ?? '');
   const [candidates, setCandidates] = useState<ImageCandidate[] | null>(null);
   const [showSources, setShowSources] = useState(false);
+  const [catMatch, setCatMatch] = useState<CatalogItem | null>(null);
+  useEffect(() => {
+    setCatMatch(null);
+    if (!f || f.research) return;
+    let alive = true;
+    void loadCatalog().then((c) => alive && setCatMatch(findCatalogMatch(c.items, f.brand, f.name)));
+    return () => {
+      alive = false;
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [f?.id, f?.research]);
 
   useEffect(() => {
     setNotes(f?.personalNotes ?? '');
@@ -149,6 +161,22 @@ export function PerfumeDetail() {
         )}
       </div>
 
+      {catMatch && !f.research && (
+        <section className="card c-lime dots section stack" style={{ ['--gap' as string]: '10px' }} data-testid="catalog-fill">
+          <p style={{ fontWeight: 700 }}>{t('profile.catalogFound')}</p>
+          <button
+            className="btn btn-ink"
+            style={{ alignSelf: 'flex-start' }}
+            onClick={async () => {
+              await saveFragrance({ ...applyCatalog(f, catMatch), isSample: false });
+              toast(t('profile.updated'), 'lime');
+            }}
+          >
+            {t('profile.catalogFill')}
+          </button>
+        </section>
+      )}
+
       {busy && <AiLoader title={t('add.researching')} sub={t('add.researchingSub')} />}
 
       {candidates && (
@@ -236,11 +264,11 @@ export function PerfumeDetail() {
           <h2 className="h-sec">{t('profile.notes')}</h2>
           {f.noteSource !== 'none' && <span className="tag">{tk(`src.${f.noteSource}`)}</span>}
         </div>
-        {f.notes.top.length + f.notes.heart.length + f.notes.base.length === 0 ? (
+        {allNotes(f).length === 0 ? (
           <p className="dim small">{t('profile.noNotes')}</p>
         ) : (
           <div className="pyramid" role="list">
-            {(['top', 'heart', 'base'] as const).map((k, i) => (
+            {(f.notes.top.length + f.notes.heart.length + f.notes.base.length > 0 ? (['top', 'heart', 'base'] as const) : []).map((k, i) => (
               <button
                 key={k}
                 role="listitem"
@@ -253,6 +281,12 @@ export function PerfumeDetail() {
                 <span className="tier-notes">{f.notes[k].length ? f.notes[k].join(' · ') : '—'}</span>
               </button>
             ))}
+            {f.notes.flat.length > 0 && (
+              <div role="listitem" className="tier tier-flat" style={{ ['--w' as string]: '100%' }}>
+                <span className="tier-label">{t('profile.notesFlat')}</span>
+                <span className="tier-notes">{f.notes.flat.join(' · ')}</span>
+              </div>
+            )}
           </div>
         )}
       </section>

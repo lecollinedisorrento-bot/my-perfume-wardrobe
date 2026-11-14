@@ -243,6 +243,7 @@ export function AiLoader({ title, sub }: { title: string; sub?: string }) {
 export function EngineTag({ engine }: { engine: string | null | undefined }) {
   const { t } = useI18n();
   if (!engine || engine === 'local') return <span className="tag engine-tag">{t('ai.engineLocal')}</span>;
+  if (engine.startsWith('catalog')) return <span className="tag engine-tag">{t('ai.engineCatalog')}</span>;
   if (engine.startsWith('mock:')) return <span className="tag engine-tag" style={{ color: 'var(--danger)' }}>{t('ai.engineMock')}</span>;
   const model = engine.split(':').slice(1).join(':') || engine;
   return (

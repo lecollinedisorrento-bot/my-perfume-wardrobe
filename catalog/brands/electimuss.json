@@ -1,0 +1,1560 @@
+{
+  "brand": "Electimuss",
+  "slug": "electimuss",
+  "officialSite": "https://www.electimuss.com/",
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/electimuss-perfumes/"
+    }
+  ],
+  "country": "United Kingdom",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site (electimuss.com) collection page lists 35 products; each product page opened. Notes, concentration (all Pure Parfum/Extrait), perfumer and family only where the product page states them explicitly; perfumer left null where only a 'by X' heading appeared. Accords, release year left empty (not stated). Alkout page says no top or heart notes. Sold-out items (Alkout, Patchouli of the Underworld, Jupiter, Aurora, Fortuna, MCX) are not marked discontinued because no page says so. MCX is a sold-out limited edition of Mercurial Cashmere with identical notes. Discovery set and sample boxes excluded. BJ Distribuzione page has no product list. No sites blocked.",
+  "fragrances": [
+    {
+      "name": "Amber Bloom",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "David Chieze",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "grapefruit",
+          "mandarin",
+          "bergamot"
+        ],
+        "heart": [
+          "lily of the valley",
+          "salt",
+          "raspberry",
+          "passionfruit"
+        ],
+        "base": [
+          "ambergris",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/amber-bloom",
+          "name": "Electimuss - Amber Bloom",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Astrum Nova",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "David Chieze",
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mango",
+          "ambrette seed",
+          "bergamot",
+          "lemon",
+          "mandarin"
+        ],
+        "heart": [
+          "blackcurrant",
+          "orris",
+          "osmanthus"
+        ],
+        "base": [
+          "oud",
+          "musk",
+          "ambertonic",
+          "oakmoss",
+          "tonka bean",
+          "vanilla",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/astrum-nova",
+          "name": "Electimuss - Astrum Nova",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imperium",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "coriander"
+        ],
+        "heart": [
+          "rose",
+          "lily",
+          "saffron",
+          "jasmine",
+          "neroli",
+          "tuberose"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "madagascan vanilla",
+          "guaiac wood",
+          "oud",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/imperium",
+          "name": "Electimuss - Imperium",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trajan",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Marco Genovese",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "lemon",
+          "bergamot",
+          "blood orange"
+        ],
+        "heart": [
+          "lavender",
+          "sage",
+          "saffron"
+        ],
+        "base": [
+          "cedar",
+          "oakmoss",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/trajan",
+          "name": "Electimuss - Trajan",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trajan Noir",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Marco Genovese",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "lemon",
+          "bergamot",
+          "blood orange"
+        ],
+        "heart": [
+          "lavender",
+          "sage",
+          "saffron"
+        ],
+        "base": [
+          "cedar",
+          "oakmoss",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/trajan-noir",
+          "name": "Electimuss - Trajan Noir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vesper Reverie",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Arturetto Landi",
+      "family": "Fruity floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "mango",
+          "peach",
+          "green tea",
+          "blood orange",
+          "star anise",
+          "marine accord"
+        ],
+        "heart": [
+          "champaca",
+          "hibiscus",
+          "lily of the valley",
+          "jasmine sambac",
+          "rose damascena",
+          "magnolia",
+          "iris"
+        ],
+        "base": [
+          "madagascan vanilla",
+          "sugar cane",
+          "oud",
+          "orcanox",
+          "amber",
+          "boxwood",
+          "sandalwood",
+          "leather",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/vesper-reverie",
+          "name": "Electimuss - Vesper Reverie",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reverie Haze",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Marc Daniel Heimgartner",
+      "family": "Floral, Woody, Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "citrus peel",
+          "cypriol",
+          "green notes",
+          "rose",
+          "tropical fruit",
+          "tuberose"
+        ],
+        "heart": [
+          "cashmere wood",
+          "ginger lily",
+          "oud",
+          "patchouli",
+          "saffron",
+          "white flowers"
+        ],
+        "base": [
+          "amber",
+          "cistus labdanum",
+          "red berries",
+          "suede",
+          "vanilla",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/reverie-haze",
+          "name": "Electimuss - Reverie Haze",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caspian Cherry",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Kevin Mathys",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "amaretto liqueur",
+          "black cherry",
+          "black chocolate"
+        ],
+        "heart": [
+          "cinnamon",
+          "vetiver",
+          "honey",
+          "coconut",
+          "coffee"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood",
+          "white chocolate",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/caspian-cherry",
+          "name": "Electimuss - Caspian Cherry",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mercurial Cashmere",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "madagascan pink pepper",
+          "cardamom",
+          "italian bergamot"
+        ],
+        "heart": [
+          "grey amber",
+          "tuberose",
+          "violet",
+          "iris"
+        ],
+        "base": [
+          "oud",
+          "musk",
+          "tonka bean",
+          "vanilla",
+          "caramel",
+          "cashmere wood",
+          "virginian cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/mercurial-cashmere",
+          "name": "Electimuss - Mercurial Cashmere",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spice d'Arno",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Celine Barel",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "bergamot",
+          "lemon",
+          "cardamom",
+          "elemi"
+        ],
+        "heart": [
+          "leather",
+          "bran absolute",
+          "cistus absolute",
+          "thyme",
+          "iris",
+          "orange flower"
+        ],
+        "base": [
+          "oud",
+          "vanilla",
+          "myrrh",
+          "cashmeran"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/spice-darno",
+          "name": "Electimuss - Spice d'Arno",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Persephone's Patchouli",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Christian Provenzano",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "guatemalan cardamom",
+          "plum",
+          "pomegranate seed"
+        ],
+        "heart": [
+          "patchouli",
+          "egyptian jasmine",
+          "bulgarian rose"
+        ],
+        "base": [
+          "honey",
+          "sandalwood",
+          "cedar",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/persephones-patchouli",
+          "name": "Electimuss - Persephone's Patchouli",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gladiator Oud",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "cumin seed"
+        ],
+        "heart": [
+          "honey",
+          "egyptian geranium",
+          "hay absolute",
+          "immortelle absolute",
+          "cardamom"
+        ],
+        "base": [
+          "oud",
+          "indonesian patchouli",
+          "ambergris",
+          "atlas cedar",
+          "haitian vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/gladiator-oud",
+          "name": "Electimuss - Gladiator Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Caviar",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Marco Genovese",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "caviar",
+          "agarwood",
+          "cedarwood"
+        ],
+        "heart": [
+          "lavender",
+          "sage",
+          "rosemary"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/black-caviar",
+          "name": "Electimuss - Black Caviar",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Moroccan Medjool",
+      "collection": "Explorer",
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Marco Genovese",
+      "family": "Fruity amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "date",
+          "grapefruit",
+          "lemon",
+          "cardamom",
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "ylang ylang",
+          "jasmine",
+          "carnation",
+          "date"
+        ],
+        "base": [
+          "cashmere wood",
+          "ambergris",
+          "oakmoss",
+          "vanilla",
+          "caramel"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/moroccan-medjool",
+          "name": "Electimuss - Moroccan Medjool",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vixere",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "neroli",
+          "grapefruit",
+          "ylang ylang"
+        ],
+        "heart": [
+          "violet",
+          "jasmine sambac",
+          "iris",
+          "gardenia",
+          "heliotrope"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "musk",
+          "tonka bean",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/vixere",
+          "name": "Electimuss - Vixere",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Auster",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "star anise",
+          "lemon"
+        ],
+        "heart": [
+          "sweet geranium",
+          "clove"
+        ],
+        "base": [
+          "cedar",
+          "musk",
+          "sandalwood",
+          "ambergris",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/auster",
+          "name": "Electimuss - Auster",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Edesia",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Cecile Zarokian",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "bitter almond",
+          "heliotrope",
+          "pink pepper",
+          "frankincense"
+        ],
+        "heart": [
+          "ceylon cinnamon",
+          "cumin",
+          "coriander",
+          "rose centifolia absolute",
+          "gurjum balsam",
+          "ylang ylang",
+          "milky notes"
+        ],
+        "base": [
+          "vanilla absolute",
+          "patchouli",
+          "cypriol",
+          "haitian vetiver",
+          "sandalwood",
+          "virginia cedar",
+          "amberwood",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/vanilla-edesia",
+          "name": "Electimuss - Vanilla Edesia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aquila Absolute",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "guatemalan cardamom",
+          "raspberry"
+        ],
+        "heart": [
+          "turkish rose absolute",
+          "egyptian geranium"
+        ],
+        "base": [
+          "leather",
+          "patchouli",
+          "labdanum",
+          "white oud",
+          "egyptian violet leaf absolute"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/aquila-absolute",
+          "name": "Electimuss - Aquila Absolute",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rhodanthe",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "pear",
+          "clove"
+        ],
+        "heart": [
+          "saffron",
+          "violet",
+          "raspberry",
+          "black tea",
+          "bulgarian rose",
+          "pink pepper"
+        ],
+        "base": [
+          "oud",
+          "amber",
+          "cedar",
+          "musk",
+          "vanilla",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/rhodanthe",
+          "name": "Electimuss - Rhodanthe",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber Aquilaria",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "peach",
+          "cinnamon"
+        ],
+        "heart": [
+          "rose",
+          "cognac",
+          "jasmine",
+          "neroli",
+          "geranium"
+        ],
+        "base": [
+          "ambergris",
+          "sandalwood",
+          "vanilla bourbon",
+          "aquilaria oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/amber-aquilaria",
+          "name": "Electimuss - Amber Aquilaria",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Capua",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Christian Provenzano",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "elemi",
+          "sicilian bergamot",
+          "cypress",
+          "madagascan tagetes"
+        ],
+        "heart": [
+          "cedar",
+          "egyptian cumin",
+          "indian nagarmotha"
+        ],
+        "base": [
+          "cedar",
+          "indonesian vetiver",
+          "amber",
+          "kashmir wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/capua",
+          "name": "Electimuss - Capua",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Octavian",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Christian Provenzano",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "pink pepper"
+        ],
+        "heart": [
+          "taif rose",
+          "attar of roses",
+          "bulgarian rose",
+          "olibanum"
+        ],
+        "base": [
+          "amber",
+          "iranian oud",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/octavian",
+          "name": "Electimuss - Octavian",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Celestial",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Christian Provenzano",
+      "family": "Amber woody floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "raspberry",
+          "black pepper"
+        ],
+        "heart": [
+          "olibanum",
+          "indian rose absolute",
+          "bulgarian rose",
+          "turkish rose",
+          "pink pepper"
+        ],
+        "base": [
+          "cedar",
+          "paraguayan guaiac wood",
+          "tonka"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/celestial",
+          "name": "Electimuss - Celestial",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Silvanus",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "oud",
+          "clove"
+        ],
+        "heart": [
+          "sandalwood",
+          "cedar wood",
+          "rosewood",
+          "lily of the valley"
+        ],
+        "base": [
+          "ambergris",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/silvanus",
+          "name": "Electimuss - Silvanus",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cupid's Kiss",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "bergamot"
+        ],
+        "heart": [
+          "orris",
+          "immortelle absolute"
+        ],
+        "base": [
+          "labdanum",
+          "oud",
+          "new caledonian sandalwood",
+          "suede"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/cupids-kiss",
+          "name": "Electimuss - Cupid's Kiss",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Puritas",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "elemi",
+          "pink pepper",
+          "absinthe",
+          "saffron"
+        ],
+        "heart": [
+          "olibanum",
+          "rose",
+          "indian tuberose absolute",
+          "geranium",
+          "chinese ylang ylang",
+          "egyptian jasmine"
+        ],
+        "base": [
+          "labdanum",
+          "patchouli",
+          "tonka",
+          "guaiac wood",
+          "vetiver",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/puritas",
+          "name": "Electimuss - Puritas",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Summanus",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "bergamot",
+          "orange",
+          "black pepper",
+          "ginger",
+          "pine",
+          "elemi"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "jasmine absolute",
+          "amyris",
+          "amber",
+          "cognac"
+        ],
+        "base": [
+          "sandalwood",
+          "cedar",
+          "nagarmotha",
+          "guaiac wood",
+          "tonka"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/summanus",
+          "name": "Electimuss - Summanus",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vici Leather",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cinnamon",
+          "wormwood",
+          "pink pepper"
+        ],
+        "heart": [
+          "sweet leather accord",
+          "tuberose"
+        ],
+        "base": [
+          "amber",
+          "balsamic notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/vici-leather",
+          "name": "Electimuss - Vici Leather",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pomona Vitalis",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": "Christian Provenzano",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lychee",
+          "strawberry",
+          "apple",
+          "calabrian bergamot"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "rose absolute"
+        ],
+        "base": [
+          "sri lankan sandalwood",
+          "vanilla",
+          "honduran styrax",
+          "benzoin",
+          "indonesian patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/pomona-vitalis",
+          "name": "Electimuss - Pomona Vitalis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alkout",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "oud",
+          "ambergris",
+          "violet",
+          "labdanum",
+          "civet",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/alkout",
+          "name": "Electimuss - Alkout",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Patchouli of the Underworld",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cistus",
+          "black pepper",
+          "pink pepper",
+          "mandarin"
+        ],
+        "heart": [
+          "patchouli",
+          "leather",
+          "carnation"
+        ],
+        "base": [
+          "labdanum",
+          "styrax",
+          "castoreum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/patchouli-of-the-underworld",
+          "name": "Electimuss - Patchouli of the Underworld",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jupiter",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "oud",
+          "incense",
+          "cistus",
+          "davana"
+        ],
+        "heart": [
+          "patchouli",
+          "sandalwood",
+          "cedar",
+          "vetiver"
+        ],
+        "base": [
+          "oud",
+          "ambergris",
+          "tonka",
+          "ambrette seed",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/jupiter",
+          "name": "Electimuss - Jupiter",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aurora",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "clove",
+          "oud",
+          "cardamom"
+        ],
+        "heart": [
+          "rose",
+          "sandalwood",
+          "patchouli"
+        ],
+        "base": [
+          "ambergris",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/aurora",
+          "name": "Electimuss - Aurora",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fortuna",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "grapefruit"
+        ],
+        "heart": [
+          "lily of the valley",
+          "rose",
+          "geranium"
+        ],
+        "base": [
+          "agarwood",
+          "musk",
+          "patchouli",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/fortuna",
+          "name": "Electimuss - Fortuna",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MCX",
+      "collection": null,
+      "concentration": "Pure Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "madagascan pink pepper",
+          "cardamom",
+          "italian bergamot"
+        ],
+        "heart": [
+          "grey amber",
+          "tuberose",
+          "violet",
+          "iris"
+        ],
+        "base": [
+          "oud",
+          "musk",
+          "tonka bean",
+          "vanilla",
+          "caramel",
+          "cashmere wood",
+          "virginian cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.electimuss.com/products/mcx",
+          "name": "Electimuss - MCX",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

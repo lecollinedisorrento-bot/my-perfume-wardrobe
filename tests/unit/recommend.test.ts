@@ -9,7 +9,7 @@ import { collectionStats } from '../../src/domain/stats';
 import { resolveFamily, traitsFor } from '../../src/domain/families';
 
 const citrus = blankFragrance({ brand: 'A', name: 'Citrus Splash', family: 'Citrus Aromatic', accords: ['citrus', 'aromatic', 'fresh'] });
-const amber = blankFragrance({ brand: 'B', name: 'Amber Night', family: 'Amber Woody', accords: ['amber', 'vanilla', 'warm spicy'], notes: { top: [], heart: [], base: ['vanilla', 'tonka'] } });
+const amber = blankFragrance({ brand: 'B', name: 'Amber Night', family: 'Amber Woody', accords: ['amber', 'vanilla', 'warm spicy'], notes: { top: [], heart: [], base: ['vanilla', 'tonka'], flat: [] } });
 const oud = blankFragrance({ brand: 'C', name: 'Oud Smoke', family: 'Oud', accords: ['oud', 'smoky', 'leather'] });
 const all = [citrus, amber, oud];
 const prefs = { ...DEFAULT_PREFS };
