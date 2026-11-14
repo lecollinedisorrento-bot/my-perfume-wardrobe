@@ -1,0 +1,1463 @@
+{
+  "brand": "Byredo",
+  "slug": "byredo",
+  "officialSite": "https://www.byredo.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Byredo US/EU product pages opened (listing pages 1-6 of 98 products, then each product page). Pages give notes, concentration and a \"good to know\" descriptor but no perfumer or year, so those are null. Family taken from the first fragrance-type descriptor in \"good to know\" where present. Absolu de Parfum and Night Veils extracts listed as separate entries. Body mists, hair perfumes, roll-ons, sets, discovery kits and holiday items skipped. Super Cedar lists no notes. Mojave Ghost EDP page was read on the eu_en site, the rest on us_en. Not covered (not on the listing pages seen): older/discontinued names.",
+  "fragrances": [
+    {
+      "name": "Future Memories",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery et Green",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "fresh aldehydes",
+          "galbanum"
+        ],
+        "heart": [
+          "labdanum",
+          "iris butter",
+          "orange blossom",
+          "white vanilla"
+        ],
+        "base": [
+          "musk",
+          "madagascar vanilla",
+          "vanilla liquor accord",
+          "ambrofix"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/future-memories-eau-de-parfum",
+          "name": "Byredo — Future Memories",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bal d'Afrique",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "buchu",
+          "african marigold",
+          "bergamot",
+          "blackcurrant"
+        ],
+        "heart": [
+          "cyclamen",
+          "jasmine petal",
+          "violet"
+        ],
+        "base": [
+          "tonka bean absolue",
+          "cedarwood",
+          "musk",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/bal-d-afrique-eau-de-parfum",
+          "name": "Byredo — Bal d'Afrique",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mojave Ghost",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambrette",
+          "naseberry"
+        ],
+        "heart": [
+          "magnolia",
+          "sandalwood",
+          "violet"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/eu_en/p/mojave-ghost-eau-de-parfum",
+          "name": "Byredo — Mojave Ghost",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gypsy Water",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "juniper berry",
+          "lemon",
+          "pepper"
+        ],
+        "heart": [
+          "incense",
+          "orris",
+          "pine needle"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/gypsy-water-eau-de-parfum",
+          "name": "Byredo — Gypsy Water",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blanche",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehyde",
+          "rose centifolia"
+        ],
+        "heart": [
+          "peony",
+          "violet"
+        ],
+        "base": [
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/blanche-eau-de-parfum",
+          "name": "Byredo — Blanche",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose of No Man's Land",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "turkish rose petal"
+        ],
+        "heart": [
+          "raspberry blossom",
+          "turkish rose absolute"
+        ],
+        "base": [
+          "amber",
+          "papyrus"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/rose-of-no-mans-land-eau-de-parfum",
+          "name": "Byredo — Rose of No Man's Land",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alto Astral",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehyde",
+          "coconut water"
+        ],
+        "heart": [
+          "incense",
+          "jasmine petal",
+          "milky musks"
+        ],
+        "base": [
+          "sandalwood",
+          "cashmere wood",
+          "salted amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/alto-astral-eau-de-parfum",
+          "name": "Byredo — Alto Astral",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Saffron",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "juniper berry",
+          "pomelo",
+          "saffron"
+        ],
+        "heart": [
+          "black violet",
+          "cristal rose",
+          "accord cuir"
+        ],
+        "base": [
+          "blonde wood",
+          "raspberry",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/black-saffron-eau-de-parfum",
+          "name": "Byredo — Black Saffron",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desert Dawn",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "rose petal"
+        ],
+        "heart": [
+          "carrot",
+          "cedarwood",
+          "sandalwood"
+        ],
+        "base": [
+          "papyrus",
+          "vetiver",
+          "silk musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/desert-dawn",
+          "name": "Byredo — Desert Dawn",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bibliothèque",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "plum",
+          "cinnamon"
+        ],
+        "heart": [
+          "leather accord",
+          "violet"
+        ],
+        "base": [
+          "birch wood",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/bibliotheque-eau-de-parfum",
+          "name": "Byredo — Bibliothèque",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Super Cedar",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/super-cedar-eau-de-parfum",
+          "name": "Byredo — Super Cedar",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Young Rose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambrette seed",
+          "sichuan pepper"
+        ],
+        "heart": [
+          "orris",
+          "damascena rose oil"
+        ],
+        "base": [
+          "musk",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/young-rose-eau-de-parfum",
+          "name": "Byredo — Young Rose",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inflorescence",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink freesia",
+          "rose petal"
+        ],
+        "heart": [
+          "lily of the valley",
+          "magnolia"
+        ],
+        "base": [
+          "fresh jasmine"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/inflorescence-eau-de-parfum",
+          "name": "Byredo — Inflorescence",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flowerhead",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "angelica seed",
+          "lingonberry",
+          "sicilian lemon"
+        ],
+        "heart": [
+          "dewy tuberose",
+          "rose petal",
+          "wild jasmine sambac"
+        ],
+        "base": [
+          "fresh amber",
+          "suede"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/flowerhead-eau-de-parfum",
+          "name": "Byredo — Flowerhead",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Tulipe",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cyclamen",
+          "freesia",
+          "rhubarb"
+        ],
+        "heart": [
+          "tulip"
+        ],
+        "base": [
+          "blonde wood",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/la-tulipe-eau-de-parfum",
+          "name": "Byredo — La Tulipe",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mister Marvelous",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin leaf",
+          "neroli flower",
+          "bamboo",
+          "green lavender",
+          "black amber",
+          "white cedarwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/mister-marvelous-eau-de-parfum",
+          "name": "Byredo — Mister Marvelous",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eleventh Hour",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "ban timmur"
+        ],
+        "heart": [
+          "rum",
+          "carrot seed",
+          "wild fig"
+        ],
+        "base": [
+          "tonka bean",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/eleventh-hour-eau-de-parfum",
+          "name": "Byredo — Eleventh Hour",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mixed Emotions",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "mate"
+        ],
+        "heart": [
+          "violet leaf",
+          "ceylon black tea"
+        ],
+        "base": [
+          "birch wood",
+          "papyrus"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/mixed-emotion-eau-de-parfum",
+          "name": "Byredo — Mixed Emotions",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Immortel",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "incense",
+          "cardamom"
+        ],
+        "heart": [
+          "brazilian rosewood",
+          "papyrus",
+          "patchouli"
+        ],
+        "base": [
+          "moss",
+          "tobacco leaf",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/oud-immortel-eau-de-parfum",
+          "name": "Byredo — Oud Immortel",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eyes Closed",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "cinnamon"
+        ],
+        "heart": [
+          "carrot",
+          "ginger",
+          "orris butter"
+        ],
+        "base": [
+          "papyrus",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/eyes-closed-eau-de-parfum",
+          "name": "Byredo — Eyes Closed",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "M/Mink",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "adoxal"
+        ],
+        "heart": [
+          "incense"
+        ],
+        "base": [
+          "amber",
+          "clover honey",
+          "patchouli leaf"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/m-mink-eau-de-parfum",
+          "name": "Byredo — M/Mink",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "De Los Santos",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "clary sage",
+          "mirabelle"
+        ],
+        "heart": [
+          "orris",
+          "cistus oil"
+        ],
+        "base": [
+          "musk",
+          "ambroxan",
+          "palo santo"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/de-los-santos-eau-de-parfum",
+          "name": "Byredo — De Los Santos",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mumbai Noise",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "davana"
+        ],
+        "heart": [
+          "coffee",
+          "tonka bean"
+        ],
+        "base": [
+          "labdanum",
+          "sandalwood",
+          "agarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/mumbai-noise-eau-de-parfum",
+          "name": "Byredo — Mumbai Noise",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pulp",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "blackcurrant",
+          "cardamom"
+        ],
+        "heart": [
+          "fig",
+          "red apple",
+          "tiare"
+        ],
+        "base": [
+          "cedarwood",
+          "peach flower",
+          "praline"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/pulp-eau-de-parfum",
+          "name": "Byredo — Pulp",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Slow Dance",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "opopanax"
+        ],
+        "heart": [
+          "geranium",
+          "labdanum",
+          "violet"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/slow-dance-eau-de-parfum",
+          "name": "Byredo — Slow Dance",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havana Tonka",
+      "collection": "Night Veils",
+      "concentration": "Perfume extract",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot essential oil",
+          "rum",
+          "pink peppercorn essential oil",
+          "crème brûlée"
+        ],
+        "heart": [
+          "tobacco leaf",
+          "violet",
+          "cashmere wood",
+          "white suede"
+        ],
+        "base": [
+          "skin musk",
+          "roasted tonka bean absolute",
+          "patchouli essential oil",
+          "benzoin resinoid"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/havana-tonka-night-veils-perfume-extract-70ml",
+          "name": "Byredo — Havana Tonka",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanille Antique",
+      "collection": "Night Veils",
+      "concentration": "Perfume extract",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "freesia",
+          "plum"
+        ],
+        "heart": [
+          "amber",
+          "cashmere wood"
+        ],
+        "base": [
+          "madagascar vanilla bean",
+          "cistus oil"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/vanille-antique-night-veils-perfume-extract-70ml",
+          "name": "Byredo — Vanille Antique",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois Obscur",
+      "collection": "Night Veils",
+      "concentration": "Perfume extract",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "eucalyptus",
+          "papyrus",
+          "saffron"
+        ],
+        "heart": [
+          "jasmine absolute",
+          "oud",
+          "tuberose absolute"
+        ],
+        "base": [
+          "labdanum",
+          "patchouli",
+          "sandalwood",
+          "mineral amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/bois-obscur-night-veils-perfume-extract-70ml",
+          "name": "Byredo — Bois Obscur",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Casablanca Lily",
+      "collection": "Night Veils",
+      "concentration": "Perfume extract",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "plum",
+          "gardenia"
+        ],
+        "heart": [
+          "carnation",
+          "indian tuberose"
+        ],
+        "base": [
+          "rosewood",
+          "honey accord"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/casablanca-lily-night-veils-perfume-extract-70ml",
+          "name": "Byredo — Casablanca Lily",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cuir Sellier",
+      "collection": "Night Veils",
+      "concentration": "Perfume extract",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cashmeran"
+        ],
+        "heart": [
+          "leather accord",
+          "tobacco leaf"
+        ],
+        "base": [
+          "birch tree",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/cuir-sellier-night-veils-perfume-extract-70ml",
+          "name": "Byredo — Cuir Sellier",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rouge Chaotique",
+      "collection": "Night Veils",
+      "concentration": "Perfume extract",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "blackcurrant",
+          "saffron"
+        ],
+        "heart": [
+          "plum",
+          "praline"
+        ],
+        "base": [
+          "papyrus",
+          "patchouli",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/rouge-chaotique-night-veils-perfume-extract-70ml",
+          "name": "Byredo — Rouge Chaotique",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gypsy Water Absolu de Parfum",
+      "collection": null,
+      "concentration": "Absolu de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "black pepper",
+          "pine needle absolute"
+        ],
+        "heart": [
+          "orris butter",
+          "carrot seed",
+          "incense absolute"
+        ],
+        "base": [
+          "ambroxan",
+          "vanilla absolute",
+          "white suede"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/gypsy-water-absolu-de-parfum",
+          "name": "Byredo — Gypsy Water Absolu de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bal d'Afrique Absolu de Parfum",
+      "collection": null,
+      "concentration": "Absolu de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "black amber",
+          "blackcurrant",
+          "lemon"
+        ],
+        "heart": [
+          "musk",
+          "praline",
+          "violet"
+        ],
+        "base": [
+          "cedarwood",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/bal-dafrique-absolu-de-parfum",
+          "name": "Byredo — Bal d'Afrique Absolu de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mojave Ghost Absolu de Parfum",
+      "collection": null,
+      "concentration": "Absolu de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "jamaican naseberry",
+          "ambrette",
+          "pear"
+        ],
+        "heart": [
+          "magnolia",
+          "sandalwood",
+          "violet",
+          "amyris"
+        ],
+        "base": [
+          "cedarwood",
+          "chantilly musk",
+          "crisp amber",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/mojave-absolu",
+          "name": "Byredo — Mojave Ghost Absolu de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blanche Absolu de Parfum",
+      "collection": null,
+      "concentration": "Absolu de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehyde",
+          "black pepper",
+          "neroli"
+        ],
+        "heart": [
+          "rose absolute",
+          "violet",
+          "jasmine"
+        ],
+        "base": [
+          "cashmeran",
+          "musk",
+          "ambroxan",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/blanche-absolu-de-parfum",
+          "name": "Byredo — Blanche Absolu de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose of No Man's Land Absolu de Parfum",
+      "collection": null,
+      "concentration": "Absolu de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "saffron",
+          "black currant"
+        ],
+        "heart": [
+          "black raspberry",
+          "peony",
+          "trilogy of roses"
+        ],
+        "base": [
+          "black amber",
+          "papyrus",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/rose-of-no-mans-land-absolu-de-parfum",
+          "name": "Byredo — Rose of No Man's Land Absolu de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Saffron Absolu de Parfum",
+      "collection": null,
+      "concentration": "Absolu de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "pepper",
+          "saffron"
+        ],
+        "heart": [
+          "raspberry",
+          "rose absolute",
+          "violet orchid",
+          "osmanthus absolute"
+        ],
+        "base": [
+          "incense",
+          "patchouli",
+          "agarwood",
+          "black leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.byredo.com/us_en/p/black-saffron-absolu-de-parfum",
+          "name": "Byredo — Black Saffron Absolu de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

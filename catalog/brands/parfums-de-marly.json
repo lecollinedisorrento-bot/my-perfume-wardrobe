@@ -1,0 +1,1097 @@
+{
+  "brand": "Parfums de Marly",
+  "slug": "parfums-de-marly",
+  "officialSite": "https://www.parfums-de-marly.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify site (www.parfums-de-marly.com) fetched via its products.json feed; product pages https://www.parfums-de-marly.com/products/<handle> built from feed handles. Feed gives short descriptions only: notes recorded as flat (no pyramid stated), concentration only where the text names Extrait de Parfum, no year/perfumer/accords. Skipped gift sets, samples, discovery sets, body line. Country not stated in sources.",
+  "fragrances": [
+    {
+      "name": "Crécy",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral woody",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "blackcurrant bud",
+          "woody notes"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/crecy",
+          "name": "Parfums de Marly official — Crécy",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oajan",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "honey",
+          "cinnamon",
+          "amber",
+          "labdanum",
+          "vanilla",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/oajan",
+          "name": "Parfums de Marly official — Oajan",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Althaïr Exclusif",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bourbon vanilla",
+          "amaretto",
+          "saffron"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/althair-exclusif",
+          "name": "Parfums de Marly official — Althaïr Exclusif",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pegasus Exclusif",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink pepper",
+          "almond",
+          "oud",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/pegasus-exclusif",
+          "name": "Parfums de Marly official — Pegasus Exclusif",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herod",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cinnamon",
+          "tobacco leaf",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/herod",
+          "name": "Parfums de Marly official — Herod",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palatine",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "violet"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/palatine",
+          "name": "Parfums de Marly official — Palatine",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Athénaïs",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "neroli",
+          "yuzu",
+          "orange blossom",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/athenais",
+          "name": "Parfums de Marly official — Athénaïs",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oriana",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "orange blossom",
+          "jasmine",
+          "marshmallow",
+          "praline",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/oriana",
+          "name": "Parfums de Marly official — Oriana",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Valero",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody fougère",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bourbon geranium",
+          "lavender",
+          "ambrox"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/valero",
+          "name": "Parfums de Marly official — Valero",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eragon",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "patchouli",
+          "cinnamon",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/eragon",
+          "name": "Parfums de Marly official — Eragon",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carios",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "red mandarin",
+          "red thyme",
+          "roasted tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/carios",
+          "name": "Parfums de Marly official — Carios",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Castley",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "ginger",
+          "timut pepper",
+          "labdanum",
+          "akigalawood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/castley",
+          "name": "Parfums de Marly official — Castley",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Valaya Exclusif",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white flowers",
+          "almond"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/valaya-exclusif",
+          "name": "Parfums de Marly official — Valaya Exclusif",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Haltane",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lavender",
+          "praline",
+          "oud"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/haltane",
+          "name": "Parfums de Marly official — Haltane",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Valaya",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "white flowers",
+          "akigalawood",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/valaya",
+          "name": "Parfums de Marly official — Valaya",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Perseus",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "grapefruit",
+          "geranium",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/perseus",
+          "name": "Parfums de Marly official — Perseus",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Althaïr",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "praline",
+          "orange blossom"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/althair",
+          "name": "Parfums de Marly official — Althaïr",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Layton Exclusif",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lavender",
+          "sandalwood",
+          "oud",
+          "leather"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/layton-exclusif",
+          "name": "Parfums de Marly official — Layton Exclusif",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Galloway",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "ambrox",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/galloway",
+          "name": "Parfums de Marly official — Galloway",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Percival",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lavender",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/percival",
+          "name": "Parfums de Marly official — Percival",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kalan",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "orange",
+          "black pepper",
+          "lavender",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/kalan",
+          "name": "Parfums de Marly official — Kalan",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carlisle",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "apple",
+          "tonka bean",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/carlisle",
+          "name": "Parfums de Marly official — Carlisle",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Layton",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "apple",
+          "lavender",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/layton",
+          "name": "Parfums de Marly official — Layton",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sedley",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mint",
+          "citrus",
+          "lavandin",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/sedley",
+          "name": "Parfums de Marly official — Sedley",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Greenley",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "green apple",
+          "petitgrain",
+          "ambrox",
+          "amber woods"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/greenley",
+          "name": "Parfums de Marly official — Greenley",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Athalia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bitter orange",
+          "iris",
+          "cashmeran",
+          "musk",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/athalia",
+          "name": "Parfums de Marly official — Athalia",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Godolphin",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "leather",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/godolphin",
+          "name": "Parfums de Marly official — Godolphin",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pegasus",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "almond",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/pegasus",
+          "name": "Parfums de Marly official — Pegasus",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Delina La Rosée",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lychee",
+          "damascena rose",
+          "white musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/delina-la-rosee",
+          "name": "Parfums de Marly official — Delina La Rosée",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safanad",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "orange blossom",
+          "jasmine",
+          "ambrox",
+          "vanilla",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/safanad",
+          "name": "Parfums de Marly official — Safanad",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meliora",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "raspberry",
+          "rose",
+          "ylang-ylang",
+          "vanilla",
+          "woody notes"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/meliora",
+          "name": "Parfums de Marly official — Meliora",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Delina Exclusif",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lychee",
+          "pear",
+          "damascena rose",
+          "musk",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/delina-exclusif",
+          "name": "Parfums de Marly official — Delina Exclusif",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cassili",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "peach",
+          "plum",
+          "mimosa",
+          "sandalwood",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/cassili",
+          "name": "Parfums de Marly official — Cassili",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Delina",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lychee",
+          "damascena rose",
+          "musk",
+          "cashmeran"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfums-de-marly.com/products/delina",
+          "name": "Parfums de Marly official — Delina",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

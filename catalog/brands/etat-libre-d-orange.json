@@ -1,0 +1,1431 @@
+{
+  "brand": "Etat Libre d'Orange",
+  "slug": "etat-libre-d-orange",
+  "officialSite": "https://www.etatlibredorange.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Range and notes from the official Shopify products.json feed (page URLs built from feed handles); notes for Nostos, Let's Pretend, Above the Waves, Uruk Chronicles and Story of Your Life read from their product pages. Skipped samples, candles, sets, gift cards. You or Someone Like You publishes no notes (quote only); Attaquer le Soleil lists only cistus. Concentration, year, family and perfumer not stated in feed so left null (except Uruk Chronicles perfumer). Some listed items (e.g. Noel au Balcon, Afternoon of a Faun) may be seasonal or older; no discontinued status stated.",
+  "fragrances": [
+    {
+      "name": "Uruk Chronicles",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "strawberry",
+          "ebelia",
+          "tangerine"
+        ],
+        "heart": [
+          "saffron accord",
+          "iris",
+          "pomarose"
+        ],
+        "base": [
+          "tonka",
+          "cypriol",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/uruk-chronicles",
+          "name": "Etat Libre d'Orange — Uruk Chronicles",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Let's Pretend",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "pink pepper",
+          "mandarin"
+        ],
+        "heart": [
+          "peach",
+          "osmanthus",
+          "jasmine sambac"
+        ],
+        "base": [
+          "woody accord",
+          "styrax",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/lets-pretend",
+          "name": "Etat Libre d'Orange — Let's Pretend",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Above The Waves",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom",
+          "incense"
+        ],
+        "heart": [
+          "green mate",
+          "ceylon tea",
+          "rose"
+        ],
+        "base": [
+          "tonka bean",
+          "cedar",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/above-the-waves",
+          "name": "Etat Libre d'Orange — Above The Waves",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nostos",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "incense",
+          "mandarin",
+          "saffron"
+        ],
+        "heart": [
+          "turkish rose",
+          "jasmine",
+          "oud accord"
+        ],
+        "base": [
+          "sandalwood",
+          "incense",
+          "georgywood",
+          "ambrofix",
+          "suede",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/nostos",
+          "name": "Etat Libre d'Orange — Nostos",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Story Of Your Life",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cistus",
+          "davana",
+          "benzoin"
+        ],
+        "heart": [
+          "laurel",
+          "orange blossom",
+          "brioche accord"
+        ],
+        "base": [
+          "rum",
+          "vanilla",
+          "amber wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/story-of-your-life",
+          "name": "Etat Libre d'Orange — Story Of Your Life",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clean Suede",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehyde",
+          "lemon"
+        ],
+        "heart": [
+          "birch leaves",
+          "pine",
+          "pepper"
+        ],
+        "base": [
+          "vanilla",
+          "ambre gris",
+          "suede"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/clean-suede",
+          "name": "Etat Libre d'Orange — Clean Suede",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sous Le Pont Mirabeau",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "italian bergamot",
+          "pink pepper",
+          "elemi",
+          "fig accord"
+        ],
+        "heart": [
+          "incense",
+          "aquatic accord",
+          "ozonic accord",
+          "violet green"
+        ],
+        "base": [
+          "virginia cedar",
+          "vanilla",
+          "sandalwood",
+          "orcanox",
+          "musks"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/sous-le-pont-mirabeau",
+          "name": "Etat Libre d'Orange — Sous Le Pont Mirabeau",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frustration",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cumin",
+          "cinnamon",
+          "rum"
+        ],
+        "heart": [
+          "pure vanilla",
+          "vanilla",
+          "ciste"
+        ],
+        "base": [
+          "chestnut wood accord",
+          "bourbon vetiver",
+          "vinyl gaiacol"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/frustration",
+          "name": "Etat Libre d'Orange — Frustration",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Ghost In The Shell",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "aqual",
+          "yuzu",
+          "hexyl acetate"
+        ],
+        "heart": [
+          "jasmin",
+          "mugane",
+          "milky skin accord"
+        ],
+        "base": [
+          "moss accord",
+          "vinyl gaiacol",
+          "orcanox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/the-ghost-in-the-shell",
+          "name": "Etat Libre d'Orange — The Ghost In The Shell",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soul Of My Soul",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "incense",
+          "pink peppercorn"
+        ],
+        "heart": [
+          "iris butter",
+          "rose",
+          "suede accord"
+        ],
+        "base": [
+          "sandalwood",
+          "georgy wood accord",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/soul-of-my-soul",
+          "name": "Etat Libre d'Orange — Soul Of My Soul",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau De Protection",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bitter orange",
+          "ginger",
+          "black pepper"
+        ],
+        "heart": [
+          "turkish rose",
+          "jasmine",
+          "heliotrope"
+        ],
+        "base": [
+          "tonka beans",
+          "benzoin",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/eau-de-protection",
+          "name": "Etat Libre d'Orange — Eau De Protection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exit The King",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "timur pepper",
+          "soap foam accord",
+          "pink pepper"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "lily-of-the-valley accord"
+        ],
+        "base": [
+          "patchouli",
+          "moss",
+          "sandalwood accord",
+          "orcanox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/exit-the-king",
+          "name": "Etat Libre d'Orange — Exit The King",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "500 Years",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom",
+          "saffron"
+        ],
+        "heart": [
+          "turkish rose",
+          "oud",
+          "geranium bourbon"
+        ],
+        "base": [
+          "amber woods",
+          "patchouli",
+          "suede"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/500-years",
+          "name": "Etat Libre d'Orange — 500 Years",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Divin'enfant",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "neroli",
+          "peach"
+        ],
+        "heart": [
+          "rose",
+          "orange blossom",
+          "heliotrope"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/divinenfant",
+          "name": "Etat Libre d'Orange — Divin'enfant",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rien Intense Incense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "safraleine",
+          "incense"
+        ],
+        "heart": [
+          "leather",
+          "iris",
+          "cistus"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "treemoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/rien-intense-incense",
+          "name": "Etat Libre d'Orange — Rien Intense Incense",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Afternoon Of A Faun",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cinnamon",
+          "incense"
+        ],
+        "heart": [
+          "rose",
+          "iris",
+          "jasmin"
+        ],
+        "base": [
+          "myrrh",
+          "leather",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/the-afternoon-of-a-faun",
+          "name": "Etat Libre d'Orange — The Afternoon Of A Faun",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spice Must Flow",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "pepper",
+          "gingerbread"
+        ],
+        "heart": [
+          "cinnamon",
+          "turkish rose",
+          "saffron"
+        ],
+        "base": [
+          "incense",
+          "fir balsam",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/spice-must-flow",
+          "name": "Etat Libre d'Orange — Spice Must Flow",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "She Was An Anomaly",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "green tangerine"
+        ],
+        "heart": [
+          "vanilla-orchid accord",
+          "prunes",
+          "incense"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "amberfix"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/she-was-an-anomaly",
+          "name": "Etat Libre d'Orange — She Was An Anomaly",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "You Or Someone Like You",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/you-or-someone-like-you",
+          "name": "Etat Libre d'Orange — You Or Someone Like You",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Yes I Do",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehyde",
+          "lily of the valley",
+          "pear"
+        ],
+        "heart": [
+          "peony",
+          "jasmine",
+          "orange blossom"
+        ],
+        "base": [
+          "cedarwood",
+          "cocoa",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/yes-i-do",
+          "name": "Etat Libre d'Orange — Yes I Do",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Une Amourette",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink peppercorn",
+          "cardamom",
+          "neroli"
+        ],
+        "heart": [
+          "peach",
+          "iris",
+          "patchouli"
+        ],
+        "base": [
+          "opoponax",
+          "akigalawood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/une-amourette",
+          "name": "Etat Libre d'Orange — Une Amourette",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Secretions Magnifiques",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "marine accord",
+          "salt accord",
+          "aldehyde"
+        ],
+        "heart": [
+          "blood accord",
+          "milk accord",
+          "adrenaline accord"
+        ],
+        "base": [
+          "sandalwood",
+          "iris",
+          "opoponax"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/secretions-magnifiques",
+          "name": "Etat Libre d'Orange — Secretions Magnifiques",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rien",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "safraleine",
+          "incense"
+        ],
+        "heart": [
+          "leather",
+          "iris",
+          "cistus"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "treemoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/rien",
+          "name": "Etat Libre d'Orange — Rien",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Remarkable People",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "champagne accord",
+          "cardamom"
+        ],
+        "heart": [
+          "jasmin",
+          "curry",
+          "black pepper"
+        ],
+        "base": [
+          "labdanum",
+          "sandalwood",
+          "lorenox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/remarkable-people",
+          "name": "Etat Libre d'Orange — Remarkable People",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Putain Des Palaces",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarine",
+          "ginger",
+          "raspberry"
+        ],
+        "heart": [
+          "iris",
+          "rose",
+          "rice powder"
+        ],
+        "base": [
+          "tonka beans",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/putain-des-palaces",
+          "name": "Etat Libre d'Orange — Putain Des Palaces",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noel Au Balcon",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cinnamon",
+          "peppercorn"
+        ],
+        "heart": [
+          "rose",
+          "lily of the valley",
+          "honey"
+        ],
+        "base": [
+          "cedarwood",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/noel-au-balcon",
+          "name": "Etat Libre d'Orange — Noel Au Balcon",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Like This",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "ginger",
+          "pumpkin accord"
+        ],
+        "heart": [
+          "immortelle flowers",
+          "neroli",
+          "rose"
+        ],
+        "base": [
+          "vetiver",
+          "heliotrope",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/like-this",
+          "name": "Etat Libre d'Orange — Like This",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Les Fleurs Du Dechet – I Am Trash",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "bitter orange",
+          "green tangerine"
+        ],
+        "heart": [
+          "rose",
+          "iso e super",
+          "gariguette strawberry"
+        ],
+        "base": [
+          "cedarwood atlas",
+          "sandalore",
+          "akigalawood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/les-fleurs-du-dechet-i-am-trash",
+          "name": "Etat Libre d'Orange — Les Fleurs Du Dechet – I Am Trash",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Fin Du Monde",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "popcorn",
+          "black pepper",
+          "roasted sesame"
+        ],
+        "heart": [
+          "freesia",
+          "cumin seed",
+          "iris"
+        ],
+        "base": [
+          "gunpowder accord",
+          "ambrette seeds",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/la-fin-du-monde",
+          "name": "Etat Libre d'Orange — La Fin Du Monde",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jasmin Et Cigarette",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "galbanum",
+          "sage"
+        ],
+        "heart": [
+          "jasmine",
+          "curcuma"
+        ],
+        "base": [
+          "tonka beans",
+          "mate"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/jasmin-et-cigarette",
+          "name": "Etat Libre d'Orange — Jasmin Et Cigarette",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hermann A Mes Cotes Me Paraissait Une Ombre",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "galbanum",
+          "blackcurrant"
+        ],
+        "heart": [
+          "incense",
+          "geosmine",
+          "rose"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/hermann-a-mes-cotes-me-paraissait-une-ombre",
+          "name": "Etat Libre d'Orange — Hermann A Mes Cotes Me Paraissait Une Ombre",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fat Electrician",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "elemi"
+        ],
+        "heart": [
+          "cedarwood",
+          "vetiver"
+        ],
+        "base": [
+          "opoponax",
+          "myrrh",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/fat-electrician",
+          "name": "Etat Libre d'Orange — Fat Electrician",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Experimentum Crucis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lychee",
+          "apple",
+          "cumin"
+        ],
+        "heart": [
+          "rose",
+          "jasmin",
+          "honey accord"
+        ],
+        "base": [
+          "akigalawood",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/experimentum-crucis",
+          "name": "Etat Libre d'Orange — Experimentum Crucis",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dangerous Complicity",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rhum",
+          "ginger",
+          "coconut"
+        ],
+        "heart": [
+          "osmanthus",
+          "jasmin",
+          "ylang ylang"
+        ],
+        "base": [
+          "lorenox",
+          "patchouli",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/dangerous-complicity",
+          "name": "Etat Libre d'Orange — Dangerous Complicity",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cologne",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "mandarin",
+          "mint"
+        ],
+        "heart": [
+          "magnolia",
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "cedarwood",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/cologne",
+          "name": "Etat Libre d'Orange — Cologne",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attaquer le Soleil – Marquis de Sade",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cistus"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/attaquer-le-soleil-marquis-de-sade",
+          "name": "Etat Libre d'Orange — Attaquer Le Soleil - Marquis De Sade",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Archives 69",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "pink berries",
+          "pepper leaves"
+        ],
+        "heart": [
+          "vanilla-orchid accord",
+          "prunes",
+          "incense"
+        ],
+        "base": [
+          "camphor",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.etatlibredorange.com/products/archives-69",
+          "name": "Etat Libre d'Orange — Archives 69",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

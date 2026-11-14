@@ -5,7 +5,7 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official Le Labo pages (opened one by one from the site navigation) confirm the 20 Classic Collection names but give no note lists, concentration or year (except Another 13: Eau de Parfum). Notes for 6 fragrances come from Scento (retailer/database, some relayed from Harrods). Parfumo and Fragrantica returned 403. City Exclusive fragrances are not listed individually on any page opened, so none are included. Gaiac 10, Hinoki 2 etc. were not in the navigation seen and are not included.",
+  "researchNotes": "Official Le Labo pages (opened one by one from the site navigation) confirm the 20 Classic Collection names but give no note lists, concentration or year (except Another 13: Eau de Parfum). Notes for 6 fragrances come from Scento (retailer/database, some relayed from Harrods). Parfumo and Fragrantica returned 403. City Exclusive fragrances are not listed individually on any page opened, so none are included. Gaiac 10, Hinoki 2 etc. were not in the navigation seen and are not included. Editorial review: Neroli 36 relayed notes removed as doubtful.",
   "fragrances": [
     {
       "name": "Another 13",
@@ -252,20 +252,9 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [
-          "orange blossom",
-          "mandarin",
-          "aldehydes"
-        ],
-        "heart": [
-          "jasmine",
-          "rose"
-        ],
-        "base": [
-          "tonka bean",
-          "musk",
-          "vanilla"
-        ],
+        "top": [],
+        "heart": [],
+        "base": [],
         "flat": []
       },
       "noteSource": "reported",
@@ -282,7 +271,6 @@
           "name": "Scento — Neroli 36",
           "type": "retailer",
           "supports": [
-            "notes",
             "concentration"
           ]
         }

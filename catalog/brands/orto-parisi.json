@@ -1,0 +1,297 @@
+{
+  "brand": "Orto Parisi",
+  "slug": "orto-parisi",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site not found via search (not guessed). Range from zgoperfumery (10 items) and 50-ml.com (5). Concentration conflicts: zgo titles say Eau de Parfum, 50-ml says whole line is extrait de parfum, so concentration left null. Brand reportedly publishes no notes; only Bergamask has retailer-reported notes.",
+  "fragrances": [
+    {
+      "name": "Megamare",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-megamare-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Megamare",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://50-ml.com/orto-parisi-megamare-p",
+          "name": "50ml - Orto Parisi Megamare",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Bergamask",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "musk",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-bergamask-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Bergamask",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://50-ml.com/orto-parisi-bergamask-p",
+          "name": "50ml - Orto Parisi Bergamask",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terroni",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-terroni-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Terroni",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://50-ml.com/orto-parisi-terroni-p",
+          "name": "50ml - Orto Parisi Terroni",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Cuoium",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-cuoium-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Cuoium",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://50-ml.com/orto-parisi-cuoium-p",
+          "name": "50ml - Orto Parisi Cuoium",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Risvelium",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-risvelium-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Risvelium",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Seminalis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-seminalis-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Seminalis",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Boccanera",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-boccanera-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Boccanera",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Viride",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-viride-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Viride",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Brutus",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-brutus-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Brutus",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Stercus",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/orto-parisi/products/orto-parisi-stercus-eau-de-parfum",
+          "name": "ZGO Perfumery - Orto Parisi Stercus",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://50-ml.com/orto-parisi-stercus-p",
+          "name": "50ml - Orto Parisi Stercus",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

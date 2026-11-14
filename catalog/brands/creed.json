@@ -1,0 +1,1849 @@
+{
+  "brand": "Creed",
+  "slug": "creed",
+  "officialSite": "https://www.creedfragrance.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Range list from the official Creed UK site's Shopify products.json feed (product type Fragrance; samples, sets, candles, soaps, body care and atomisers skipped). Notes, family and concentration read from each official UK product page (creedfragrances.co.uk); the global site creedfragrance.com was only fetched for its listing page, which showed Eladaria, Absolu Aventus, Aventus, Centaurus, Delphinus, Millesime Imperial, Royal Mayfair, Queen of Silk, Aventus For Her, Royal Oud among 61 products over 3 pages, so some UK-listed fragrances may be discontinued or UK-only on the global site; none marked discontinued as no page says so. Pages state EDP for all, including those named Cologne. Only Aventus page gave a launch year. No perfumers stated. Country left null: sources describe the house variously as London-founded (brand account) and Anglo-French/Paris-based (Wikipedia), so no single country was recorded.",
+  "fragrances": [
+    {
+      "name": "Aventus",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "dry woods, fresh, citrus & fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "calabrian bergamot",
+          "sicilian lemon",
+          "blackcurrant leaf accord"
+        ],
+        "heart": [
+          "pineapple accord",
+          "pink pepper",
+          "jasmine accord"
+        ],
+        "base": [
+          "birch",
+          "patchouli",
+          "musk accord"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/aventus",
+          "name": "Creed UK — Aventus",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iris Debonair",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "fougère floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "absinthe",
+          "pink pepper",
+          "cardamom"
+        ],
+        "heart": [
+          "english lavender",
+          "violet leaf",
+          "fig pulp accord"
+        ],
+        "base": [
+          "iris pallida",
+          "ambrette",
+          "amberwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/iris-debonair",
+          "name": "Creed UK — Iris Debonair",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wild Vetiver",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "timur berry",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose centifolia",
+          "geranium",
+          "blackcurrant bud"
+        ],
+        "base": [
+          "vetiver",
+          "cedarwood",
+          "amberwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/wild-vetiver",
+          "name": "Creed UK — Wild Vetiver",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Zarian",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody, ambery & spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "frankincense",
+          "ginger",
+          "spice accord"
+        ],
+        "heart": [
+          "rose centifolia"
+        ],
+        "base": [
+          "oud",
+          "patchouli",
+          "sandalwood",
+          "myrrh",
+          "liquorice root",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/oud-zarian",
+          "name": "Creed UK — Oud Zarian",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eladaria",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral rose, powdery & musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose",
+          "peony",
+          "lily of the valley",
+          "powdery notes"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "ambroxan",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/eladaria",
+          "name": "Creed UK — Eladaria",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fragaria",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral & fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "timur pepper",
+          "pink pepper",
+          "mandarin"
+        ],
+        "heart": [
+          "strawberry",
+          "orris butter",
+          "violet accord"
+        ],
+        "base": [
+          "patchouli",
+          "fir balsam",
+          "pink praline accord",
+          "vetiver",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/fragaria",
+          "name": "Creed UK — Fragaria",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Mayfair",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody, floral & fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "eucalyptus",
+          "bergamot",
+          "orange",
+          "aromatic essence"
+        ],
+        "heart": [
+          "tuberose",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "cedarwood",
+          "ambroxan",
+          "musk",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/royal-mayfair",
+          "name": "Creed UK — Royal Mayfair",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Delphinus",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody amber, orris & leathery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "incense",
+          "almond",
+          "pink pepper"
+        ],
+        "heart": [
+          "heliotrope",
+          "orchid",
+          "orris butter"
+        ],
+        "base": [
+          "patchouli",
+          "tonka bean",
+          "amberwood",
+          "leather accord",
+          "bourbon vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/delphinus",
+          "name": "Creed UK — Delphinus",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Centaurus",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody amber, tobacco & spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "cinnamon",
+          "tobacco",
+          "pink pepper"
+        ],
+        "heart": [
+          "geranium",
+          "sandalwood",
+          "heliotrope",
+          "jasmine",
+          "patchouli"
+        ],
+        "base": [
+          "benzoin",
+          "tolu balm",
+          "tonka bean",
+          "ambroxan",
+          "bourbon vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/centaurus",
+          "name": "Creed UK — Centaurus",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Queen of Silk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral amber, white flowers & fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "osmanthus",
+          "magnolia",
+          "saffron"
+        ],
+        "heart": [
+          "tuberose",
+          "passion fruit",
+          "agarwood",
+          "javanese patchouli"
+        ],
+        "base": [
+          "vanilla",
+          "incense",
+          "myrrh",
+          "ambroxan",
+          "chinese cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/queen-of-silk",
+          "name": "Creed UK — Queen of Silk",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Millésime 1849",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody fresh, aromatic & floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "grapefruit",
+          "cypress"
+        ],
+        "heart": [
+          "indian jasmine",
+          "ylang-ylang",
+          "orris",
+          "turkish rose",
+          "bulgarian rose"
+        ],
+        "base": [
+          "texas cedarwood",
+          "sandalwood",
+          "incense",
+          "agarwood",
+          "thyme",
+          "laurel"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/millesime-1849",
+          "name": "Creed UK — Millésime 1849",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Absolu Aventus",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "dry woods, fresh, citrus & fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "calabrian bergamot",
+          "ginger",
+          "grapefruit accord"
+        ],
+        "heart": [
+          "cardamom",
+          "cinnamon",
+          "pineapple accord"
+        ],
+        "base": [
+          "labdanum",
+          "vetiver",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/absolu-aventus",
+          "name": "Creed UK — Absolu Aventus",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carmina",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral amber, woody & musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black cherry",
+          "saffron",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose de mai",
+          "violet",
+          "cashmere wood",
+          "peony"
+        ],
+        "base": [
+          "frankincense",
+          "myrrh",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/carmina",
+          "name": "Creed UK — Carmina",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spring Flower",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral fresh, crisp, fruity & soft woods",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "green notes",
+          "lemon"
+        ],
+        "heart": [
+          "apricot",
+          "jasmine",
+          "peach",
+          "white flowers"
+        ],
+        "base": [
+          "ambroxan",
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/spring-flower",
+          "name": "Creed UK — Spring Flower",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wind Flowers",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral amber & gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine",
+          "orange blossom",
+          "peach"
+        ],
+        "heart": [
+          "jasmine sambac",
+          "tuberose absolute",
+          "rose de mai"
+        ],
+        "base": [
+          "iris",
+          "orange blossom",
+          "musk",
+          "sandalwood",
+          "praline"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/wind-flowers",
+          "name": "Creed UK — Wind Flowers",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viking Cologne",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "aromatic fougère",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "mandarin",
+          "pink pepper"
+        ],
+        "heart": [
+          "geranium",
+          "lavender",
+          "nutmeg",
+          "rosemary",
+          "sage"
+        ],
+        "base": [
+          "sandalwood",
+          "frankincense",
+          "patchouli",
+          "cedarwood",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/viking-cologne",
+          "name": "Creed UK — Viking Cologne",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aventus Cologne",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody fresh, citrus & fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "calabrian bergamot",
+          "mandarin",
+          "salty marine accord"
+        ],
+        "heart": [
+          "ginger",
+          "pineapple accord",
+          "pink pepper"
+        ],
+        "base": [
+          "musk accord",
+          "patchouli",
+          "birch"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/aventus-cologne",
+          "name": "Creed UK — Aventus Cologne",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viking",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "aromatic fougère, spicy & woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "orange",
+          "peppermint",
+          "pink peppercorn",
+          "absinthe"
+        ],
+        "heart": [
+          "allspice",
+          "clove",
+          "jasmine",
+          "lavender",
+          "orris butter",
+          "bulgarian rose"
+        ],
+        "base": [
+          "cedarwood",
+          "tonka bean",
+          "vetiver",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/viking",
+          "name": "Creed UK — Viking",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Love in White for Summer",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "cranberry",
+          "red berries",
+          "peach",
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "rice notes",
+          "tuscan iris",
+          "freesia",
+          "jasmine",
+          "magnolia"
+        ],
+        "base": [
+          "virginian cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/love-in-white-for-summer",
+          "name": "Creed UK — Love in White for Summer",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aventus For Her",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody fresh, crisp, fruity & floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "sicilian lemon",
+          "calabrian bergamot",
+          "green apple accord"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "pink pepper",
+          "pineapple accord"
+        ],
+        "base": [
+          "patchouli",
+          "birch",
+          "musk accord"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/aventus-for-her",
+          "name": "Creed UK — Aventus For Her",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Princess Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "raspberry accord",
+          "bergamot",
+          "cardamom"
+        ],
+        "heart": [
+          "rose damascena",
+          "angelica",
+          "jasmine petal accord"
+        ],
+        "base": [
+          "oud",
+          "patchouli",
+          "iris",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/royal-princess-oud",
+          "name": "Creed UK — Royal Princess Oud",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Acqua Fiorentina",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "fruity & musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "pineapple",
+          "lemon"
+        ],
+        "heart": [
+          "apple",
+          "rose",
+          "plum"
+        ],
+        "base": [
+          "cedarwood",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/acqua-fiorentina",
+          "name": "Creed UK — Acqua Fiorentina",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Virgin Island Water",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "fresh citrus",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lime",
+          "bergamot",
+          "tropical fruits"
+        ],
+        "heart": [
+          "coconut milk",
+          "jasmine",
+          "white flowers"
+        ],
+        "base": [
+          "tonka bean",
+          "white musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/virgin-island-water",
+          "name": "Creed UK — Virgin Island Water",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Love in White",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral fresh, crisp & green",
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange zest",
+          "apple",
+          "apricot"
+        ],
+        "heart": [
+          "narcissus",
+          "iris",
+          "jasmine",
+          "magnolia",
+          "rice",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/love-in-white",
+          "name": "Creed UK — Love in White",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Love in Black",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "rich floral, violet & gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "violet leaves",
+          "raspberry",
+          "cranberry"
+        ],
+        "heart": [
+          "rose",
+          "violet accord",
+          "orris butter",
+          "jasmine"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "leather notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/love-in-black",
+          "name": "Creed UK — Love in Black",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody & fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "cardamom"
+        ],
+        "heart": [
+          "angelica",
+          "geranium"
+        ],
+        "base": [
+          "oud",
+          "incense accord",
+          "benzoin",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/royal-oud",
+          "name": "Creed UK — Royal Oud",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Original Santal",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "aromatic fougère & ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "juniper berry",
+          "bergamot",
+          "rosemary",
+          "coriander",
+          "mandarin"
+        ],
+        "heart": [
+          "lavender",
+          "geranium",
+          "orange blossom",
+          "sandalwood"
+        ],
+        "base": [
+          "oakmoss",
+          "musk",
+          "tonka bean",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/original-santal",
+          "name": "Creed UK — Original Santal",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Original Vetiver",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "green notes"
+        ],
+        "heart": [
+          "ginger",
+          "cypress"
+        ],
+        "base": [
+          "vetiver",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/original-vetiver",
+          "name": "Creed UK — Original Vetiver",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Himalaya",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "fougère",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "mandarin",
+          "bergamot"
+        ],
+        "heart": [
+          "gunpowder",
+          "juniper berry",
+          "nutmeg",
+          "pepper",
+          "lavender",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "vetiver",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/himalaya",
+          "name": "Creed UK — Himalaya",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tabarome Millésime",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody rich, crisp & ambery",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "pink berries",
+          "grapefruit"
+        ],
+        "heart": [
+          "tea",
+          "coffee",
+          "rum",
+          "blackcurrant"
+        ],
+        "base": [
+          "sandalwood",
+          "tobacco"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/tabarome-millesime",
+          "name": "Creed UK — Tabarome Millésime",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Water",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "citrus, aromatic & woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "verbena",
+          "mandarin",
+          "bergamot"
+        ],
+        "heart": [
+          "jamaican pepper",
+          "basil",
+          "cumin"
+        ],
+        "base": [
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/royal-water",
+          "name": "Creed UK — Royal Water",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Silver Mountain Water",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "citrus, fruity & woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "blackcurrant",
+          "galbanum",
+          "orange"
+        ],
+        "heart": [
+          "tea",
+          "ozonic accord"
+        ],
+        "base": [
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/silver-mountain-water",
+          "name": "Creed UK — Silver Mountain Water",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Néroli Sauvage",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "citrus, floral & woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "ginger",
+          "mandarin",
+          "lemon",
+          "bergamot",
+          "sweet orange"
+        ],
+        "heart": [
+          "neroli",
+          "petitgrain bigarade",
+          "lavender",
+          "verbena"
+        ],
+        "base": [
+          "javanese vetiver",
+          "oakmoss",
+          "musk",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/neroli-sauvage",
+          "name": "Creed UK — Néroli Sauvage",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Millésime Impérial",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "citrus, marine & woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "blackcurrant",
+          "violet leaves"
+        ],
+        "heart": [
+          "orris",
+          "salty marine accord"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/millesime-imperial",
+          "name": "Creed UK — Millésime Impérial",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green Irish Tweed",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "aromatic fougère",
+      "accords": [],
+      "notes": {
+        "top": [
+          "peppermint",
+          "verbena",
+          "lemon",
+          "bergamot",
+          "galbanum"
+        ],
+        "heart": [
+          "geranium",
+          "lavender",
+          "violet"
+        ],
+        "base": [
+          "sandalwood",
+          "cedarwood",
+          "ambroxan",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/green-irish-tweed",
+          "name": "Creed UK — Green Irish Tweed",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Erolfa",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "aromatic fougère, marine & floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "lime",
+          "mandarin",
+          "basil",
+          "bergamot",
+          "ginger"
+        ],
+        "heart": [
+          "violet accord",
+          "fresh florals",
+          "lavender",
+          "coriander",
+          "watermelon",
+          "cucumber",
+          "indian jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "dry woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/erolfa",
+          "name": "Creed UK — Erolfa",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois du Portugal",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "lime",
+          "mandarin",
+          "basil"
+        ],
+        "heart": [
+          "lavender",
+          "spices"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "vetiver",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/bois-du-portugal",
+          "name": "Creed UK — Bois du Portugal",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fleurissimo",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "violet leaves",
+          "bergamot"
+        ],
+        "heart": [
+          "tuberose",
+          "jasmine",
+          "rose",
+          "ylang-ylang",
+          "neroli"
+        ],
+        "base": [
+          "orris",
+          "sandalwood",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/fleurissimo",
+          "name": "Creed UK — Fleurissimo",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "White Amber",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "soft amber, floral & solar",
+      "accords": [],
+      "notes": {
+        "top": [
+          "fruity accord",
+          "green notes",
+          "ginger",
+          "freesia",
+          "redcurrant"
+        ],
+        "heart": [
+          "frangipani blossom",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "cedarwood",
+          "hay notes",
+          "solar notes"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/white-amber",
+          "name": "Creed UK — White Amber",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "White Flowers",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral fresh, fruity & jasmine",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "violet leaves",
+          "green apple",
+          "pear"
+        ],
+        "heart": [
+          "sambac jasmine",
+          "geranium",
+          "rose"
+        ],
+        "base": [
+          "narcissus",
+          "musk",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/white-flowers",
+          "name": "Creed UK — White Flowers",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jardin d'Amalfi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "citrus, fruity & floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink berries",
+          "tangerine",
+          "lemon",
+          "bergamot",
+          "green notes"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "apple"
+        ],
+        "base": [
+          "cedarwood",
+          "white musk",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/jardin-d-amalfi",
+          "name": "Creed UK — Jardin d'Amalfi",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pure White Cologne",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "citrus, floral, fruity & green",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "green notes",
+          "petitgrain bigarade"
+        ],
+        "heart": [
+          "jasmine",
+          "orris butter",
+          "watermelon"
+        ],
+        "base": [
+          "white musk",
+          "ambroxan",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/pure-white-cologne",
+          "name": "Creed UK — Pure White Cologne",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sublime Vanille",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "amber, vanilla & floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "vanilla",
+          "jasmine"
+        ],
+        "base": [
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.creedfragrances.co.uk/products/sublime-vanille",
+          "name": "Creed UK — Sublime Vanille",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "brand": "Xerjoff",
+  "slug": "xerjoff",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site not found via search (not guessed); parfumo.com returned 403. Only partial range captured from two retailer listings (zgoperfumery 11 products, 50-ml.co.uk 10 products); the brand has many more (Casamorati, V, Join the Club, 1861 etc.) but no collection grouping was shown, so collection=null. Retailer pages disagree on EDP vs Extrait for some items (e.g. Erba Pura, Accento); concentration taken from zgo product titles, null where unclear. Notes are retailer-reported.",
+  "fragrances": [
+    {
+      "name": "TORINO21",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-torino21-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff TORINO21",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Naxos",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lemon",
+          "honey",
+          "cinnamon",
+          "tobacco",
+          "vanilla"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-naxos-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff Naxos",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://50-ml.co.uk/xerjoff-naxos-eau-de-parfum",
+          "name": "50ml - Xerjoff Naxos",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Erba Pura",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "citrus",
+          "mediterranean fruit",
+          "berry",
+          "amber"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-erba-pura-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff Erba Pura",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://50-ml.co.uk/xerjoff-erba-pura-extrait-de-parfum",
+          "name": "50ml - Xerjoff Erba Pura",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Erba Gold",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-erba-gold-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff Erba Gold",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Capitale",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-la-capitale-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff La Capitale",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "40 Knots",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "marine",
+          "green",
+          "woods"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-40-knots-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff 40 Knots",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://50-ml.co.uk/xerjoff-40-knots-eau-de-parfum",
+          "name": "50ml - Xerjoff 40 Knots",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iommi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-iommi-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff Iommi",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Renaissance",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-renaissance-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff Renaissance",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uden",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-uden-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff Uden",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accento Overdose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-accento-overdose-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff Accento Overdose",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accento",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "hyacinth",
+          "jasmine",
+          "iris",
+          "patchouli",
+          "amber",
+          "musk"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/xerjoff/products/xerjoff-accento-eau-de-parfum",
+          "name": "ZGO Perfumery - Xerjoff Accento",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://50-ml.co.uk/xerjoff-accento-extrait-de-parfum",
+          "name": "50ml - Xerjoff Accento",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alexandria II",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bulgarian rose",
+          "lavender",
+          "woody"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.co.uk/xerjoff-alexandria-ii-extrait-de-parfum",
+          "name": "50ml - Xerjoff Alexandria II",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opera",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.co.uk/xerjoff-opera-extrait-de-parfum",
+          "name": "50ml - Xerjoff Opera",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "More than Words",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.co.uk/xerjoff-more-than-words-eau-de-parfum",
+          "name": "50ml - Xerjoff More than Words",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

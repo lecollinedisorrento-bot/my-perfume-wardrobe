@@ -1,0 +1,709 @@
+{
+  "brand": "Initio",
+  "slug": "initio",
+  "officialSite": "https://www.initioparfums.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify site (www.initioparfums.com) fetched via its products.json feed; product URLs built from feed handles. Descriptions are prose without a pyramid, so notes are flat and only those named in the text; where prose names no notes (Power Self, Sugar Blast, Wild Rush, Magnetic Blend 7) notes are empty. Concentration only where stated. Skipped body creams, hair perfumes, duos/layering sets, coffrets, festive sets and sample sizes. Collection names from the feed product_type. Official site states all fragrances are unisex, made in France; brand country not recorded as a sourced fact.",
+  "fragrances": [
+    {
+      "name": "Oud for Greatness",
+      "collection": "Black Gold Project",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "patchouli",
+          "musk",
+          "lavender",
+          "nutmeg",
+          "saffron"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/oud-for-greatness",
+          "name": "Initio official — Oud for Greatness",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud for Happiness",
+      "collection": "Black Gold Project",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "ginger",
+          "oud",
+          "cedarwood",
+          "liquorice",
+          "narcotic grass"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/oud-for-happiness",
+          "name": "Initio official — Oud for Happiness",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud for Greatness Neo",
+      "collection": "Black Gold Project",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "lavender",
+          "bergamot",
+          "balsam fir"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/oud-for-greatness-neo",
+          "name": "Initio official — Oud for Greatness Neo",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud for Grace",
+      "collection": "Black Gold Project",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody ambery spicy",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "oud",
+          "vanilla",
+          "praline",
+          "black pepper"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/oud-for-grace",
+          "name": "Initio official — Oud for Grace",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Absolute Aphrodisiac",
+      "collection": "The Absolutes",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "musk",
+          "castoreum",
+          "white flowers",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/absolute-aphrodisiac",
+          "name": "Initio official — Absolute Aphrodisiac",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Addictive Vibration",
+      "collection": "The Absolutes",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "apple blossom",
+          "orange blossom",
+          "white flowers",
+          "honey",
+          "vanilla orchid",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/addictive-vibration",
+          "name": "Initio official — Addictive Vibration",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mystic Experience",
+      "collection": "The Absolutes",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coffee",
+          "musk",
+          "vanilla",
+          "patchouli",
+          "amber woods"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/mystic-experience",
+          "name": "Initio official — Mystic Experience",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blessed Baraka",
+      "collection": "The Absolutes",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white flowers",
+          "sandalwood",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/blessed-baraka",
+          "name": "Initio official — Blessed Baraka",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narcotic Delight",
+      "collection": "The Carnal Blends",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla bean",
+          "pink pepper",
+          "cognac",
+          "cigar",
+          "cherry"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/narcotic-delight",
+          "name": "Initio official — Narcotic Delight",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Side Effect",
+      "collection": "The Carnal Blends",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tobacco",
+          "vanilla",
+          "rum",
+          "cinnamon",
+          "hedione"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/side-effect",
+          "name": "Initio official — Side Effect",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Can't Get Enough",
+      "collection": "The Carnal Blends",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "pink pepper",
+          "caramel",
+          "vanilla",
+          "hedione"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/cant-get-enough",
+          "name": "Initio official — Can't Get Enough",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Atomic Rose",
+      "collection": "The Carnal Blends",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "jasmine",
+          "vanilla bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/atomic-rose",
+          "name": "Initio official — Atomic Rose",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psychedelic Love",
+      "collection": "The Carnal Blends",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "heliotropin",
+          "hedione"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/psychedelic-love",
+          "name": "Initio official — Psychedelic Love",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "High Frequency",
+      "collection": "The Carnal Blends",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "magnolia",
+          "almond",
+          "hedione"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/high-frequency",
+          "name": "Initio official — High Frequency",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lift Me Up",
+      "collection": "Hedonist",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral amber",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ylang-ylang",
+          "bergamot",
+          "magnolia",
+          "musk",
+          "tonka bean",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/lift-me-up",
+          "name": "Initio official — Lift Me Up",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Power Self",
+      "collection": "Hedonist",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/power-self",
+          "name": "Initio official — Power Self",
+          "type": "official",
+          "supports": [
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paragon",
+      "collection": "Hedonist",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "palo santo",
+          "white sage",
+          "bergamot",
+          "lavender",
+          "black pepper"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/paragon",
+          "name": "Initio official — Paragon",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rehab",
+      "collection": "Hedonist",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "black pepper",
+          "lavender",
+          "sandalwood",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/rehab",
+          "name": "Initio official — Rehab",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk Therapy",
+      "collection": "Hedonist",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white sandalwood",
+          "white musk",
+          "pink musk",
+          "white magnolia",
+          "cassis"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/musk-therapy",
+          "name": "Initio official — Musk Therapy",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sugar Blast",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "ambery gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/sugar-blast",
+          "name": "Initio official — Sugar Blast",
+          "type": "official",
+          "supports": [
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wild Rush",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "aromatic fougère",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/wild-rush",
+          "name": "Initio official — Wild Rush",
+          "type": "official",
+          "supports": [
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Magnetic Blend 7",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.initioparfums.com/products/magnetic-blend-7",
+          "name": "Initio official — Magnetic Blend 7",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

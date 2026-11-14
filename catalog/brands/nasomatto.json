@@ -1,0 +1,385 @@
+{
+  "brand": "Nasomatto",
+  "slug": "nasomatto",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site not found via search (not guessed). Range from Le Secret du Marais listing (13 items); brand does not publish note pyramids per retailer text, so most entries have no notes. Notes for Black Afgano, Narcotic Venus and Sadonaso are retailer descriptions, not official. Blocked: none fetched; official site not reached.",
+  "fragrances": [
+    {
+      "name": "Absinth",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/absinth-.html",
+          "name": "Le Secret du Marais - Nasomatto Absinth",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baraonda",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/baraonda.html",
+          "name": "Le Secret du Marais - Nasomatto Baraonda",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Afgano",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cannabis",
+          "wood",
+          "resin",
+          "tobacco"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/black-afgano.html",
+          "name": "Le Secret du Marais - Nasomatto Black Afgano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://50-ml.com/nasomatto-black-afgano-p",
+          "name": "50ml - Nasomatto Black Afgano",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blamage",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/blamage.html",
+          "name": "Le Secret du Marais - Nasomatto Blamage",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Duro",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/duro.html",
+          "name": "Le Secret du Marais - Nasomatto Duro",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fantomas",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/phantomas.html",
+          "name": "Le Secret du Marais - Nasomatto Fantomas",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Micodelirio",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/micodelirio.html",
+          "name": "Le Secret du Marais - Nasomatto Micodelirio",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Narcotic Venus",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "jasmine",
+          "lily",
+          "spice"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/narcotic-venus.html",
+          "name": "Le Secret du Marais - Nasomatto Narcotic Venus",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://50-ml.com/nasomatto-narcotic-v-p",
+          "name": "50ml - Nasomatto Narcotic V.",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nudiflorum",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/nudiflorum.html",
+          "name": "Le Secret du Marais - Nasomatto Nudiflorum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pardon",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/pardon.html",
+          "name": "Le Secret du Marais - Nasomatto Pardon",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sadonaso",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "honey",
+          "musk",
+          "wood",
+          "amber"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/sadonaso.html",
+          "name": "Le Secret du Marais - Nasomatto Sadonaso",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sadonaso Phallic Edition",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/sadonaso-phallic-edition.html",
+          "name": "Le Secret du Marais - Nasomatto Sadonaso Phallic Edition",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Silver Musk",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lesecretdumarais.com/en/nasomatto/silver-musk.html",
+          "name": "Le Secret du Marais - Nasomatto Silver Musk",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
