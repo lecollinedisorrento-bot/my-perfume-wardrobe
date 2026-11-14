@@ -1,0 +1,131 @@
+{
+  "brand": "D.S. & Durga",
+  "slug": "ds-durga",
+  "officialSite": "https://www.dsanddurga.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Shopify store; products.json feed read but truncated by the fetch tool after about 41 products. Notes read from official product pages. Pocket sprays, candles, sample sets, body duos and 2 ml samples skipped. Sample pages for Notorious Oud, Debaser In Bloom and Cognac Reign show no notes, so they are omitted. Rockaway Beach and Wipeout! are shown as sold out, with NYC and LA exclusive labels; discontinued is not stated, so it is false. Perfumer and release year are not stated on any product page.",
+  "fragrances": [
+    {
+      "name": "Durga",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Flower",
+      "accords": [],
+      "notes": { "top": ["green tuberose", "melon", "chrysanthemum"], "heart": ["ylang ylang", "orris butter", "orange blossom"], "base": ["tuberose absolute", "sambac jasmine", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.dsanddurga.com/products/durga", "name": "D.S. & Durga - Durga", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "D.S.",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Resin",
+      "accords": ["yellow lotus", "gardenia", "rose", "jasmine", "saffron", "vetiver"],
+      "notes": { "top": ["frangipani", "gardenia", "saffron"], "heart": ["yellow lotus", "rose absolute", "agarwood"], "base": ["sandalwood", "vetiver", "musk ambrette"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.dsanddurga.com/products/d-s", "name": "D.S. & Durga - D.S.", "type": "official", "supports": ["notes", "concentration", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Rockaway Beach",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": { "top": ["ocean air", "sun tan lotion"], "heart": ["salt", "flowering privet"], "base": ["skin musk", "hedges"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.dsanddurga.com/products/rockaway-beach", "name": "D.S. & Durga - Rockaway Beach", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Wipeout!",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Flower",
+      "accords": [],
+      "notes": { "top": ["ginger lily", "guava flower", "surf spray"], "heart": ["ylang ylang", "osmanthus", "coconut milk"], "base": ["vanilla orchid", "javanese vetiver", "bustin' surfboards"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.dsanddurga.com/products/wipeout", "name": "D.S. & Durga - Wipeout!", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Rose Pacific",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Flower",
+      "accords": [],
+      "notes": { "top": ["pacific spray", "persian lime", "apricot"], "heart": ["wild california rose", "california poppy", "avocado"], "base": ["peach", "fine sand", "vanilla musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.dsanddurga.com/products/rose-pacific-50-ml", "name": "D.S. & Durga - Rose Pacific", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Resurrected Corpse Flower",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Flower",
+      "accords": [],
+      "notes": { "top": ["green olive", "balm of gilead", "grapefruit"], "heart": ["freesia", "madonna lily", "tuberose absolute"], "base": ["green banana", "bog cedar", "papyrus"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.dsanddurga.com/products/resurrected-corpse-flower", "name": "D.S. & Durga - Resurrected Corpse Flower", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Ain't That Sweet",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": ["vanilla", "date", "cinnamon"],
+      "notes": { "top": ["myrrh", "sweets", "sri lankan cinnamon"], "heart": ["date", "praline", "lily"], "base": ["condensed milk", "bourbon vanilla", "nutmeg"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.dsanddurga.com/products/aint-that-sweet", "name": "D.S. & Durga - Ain't That Sweet", "type": "official", "supports": ["notes", "concentration", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "I Don't Know What",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": { "top": ["bergamot"], "heart": ["iso e super", "vetiver acetate"], "base": ["civettone", "firsantol", "ambrox super"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.dsanddurga.com/products/i-dont-know-what", "name": "D.S. & Durga - I Don't Know What", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    }
+  ]
+}

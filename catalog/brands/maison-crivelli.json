@@ -1,0 +1,296 @@
+{
+  "brand": "Maison Crivelli",
+  "slug": "maison-crivelli",
+  "officialSite": "https://maisoncrivelli.com/en-int",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify storefront (maisoncrivelli.us) read via /collections/parfum/products.json. Notes taken from product body text and tags in that feed. Sets (Discovery, Exploration, Oud Trilogy) and the 3-sample coffret were excluded. Concentration for Musc Nurāsana is not stated in the feed, so it is null.",
+  "fragrances": [
+    {
+      "name": "Hibiscus Mahajád",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["hibiscus", "rose", "vanilla bean", "leather", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/hibiscus-mahajad", "name": "Maison Crivelli - Hibiscus Mahajád", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Oud Maracujá",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["passion fruit", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/oud-maracuja", "name": "Maison Crivelli - Oud Maracujá", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Oud Cadenza",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["toasted cane sugar", "candied date", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/oud-cadenza", "name": "Maison Crivelli - Oud Cadenza", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Tobacco Carnaval",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["tobacco leaf", "rum"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/tobacco-carnaval", "name": "Maison Crivelli - Tobacco Carnaval", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Musc Nurāsana",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["musk", "damask rose", "incense"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/musc-nurasana", "name": "Maison Crivelli - Musc Nurāsana", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Tubéreuse Astrale",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["tuberose", "suede", "osmanthus", "vanilla", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/tubereuse-astrale", "name": "Maison Crivelli - Tubéreuse Astrale", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cuir Infrarouge",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["raspberry", "leather"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/cuir-infrarouge", "name": "Maison Crivelli - Cuir Infrarouge", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Safran Secret",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["saffron", "wood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/safran-secret", "name": "Maison Crivelli - Safran Secret", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Oud Stallion",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["spice", "leather", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/oud-stallion", "name": "Maison Crivelli - Oud Stallion", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Ambre Chromatique",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["spice", "resin", "benzoin", "incense", "davana"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/ambre-chromatique", "name": "Maison Crivelli - Ambre Chromatique", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Patchouli Magnetik",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["patchouli", "sandalwood", "gardenia"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/patchouli-magnetik", "name": "Maison Crivelli - Patchouli Magnetik", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Neroli Nasimba",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["orange blossom", "leather"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/neroli-nasimba", "name": "Maison Crivelli - Neroli Nasimba", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Papyrus Moléculaire",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["papyrus", "tobacco", "tonka bean", "black pepper"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/papyrus-moleculaire", "name": "Maison Crivelli - Papyrus Moléculaire", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Absinthe Boréale",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["lavender", "musk", "juniper", "eucalyptus", "mint"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/absinthe-boreale", "name": "Maison Crivelli - Absinthe Boréale", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Rose Saltifolia",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rose", "seaweed", "blood orange"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/rose-saltifolia", "name": "Maison Crivelli - Rose Saltifolia", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Bois Datchai",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["wood", "blackcurrant bud", "cinnamon", "black tea", "cedar"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/bois-datchai", "name": "Maison Crivelli - Bois Datchai", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Lys Sølaberg",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["lily", "amber", "oakmoss", "quince", "tobacco"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/lys-solaberg", "name": "Maison Crivelli - Lys Sølaberg", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Iris Malikhân",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["iris", "vanilla", "leather", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/iris-malikhan", "name": "Maison Crivelli - Iris Malikhân", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Santal Volcanique",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["sandalwood", "spice", "coffee"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://maisoncrivelli.us/products/santal-volcanique", "name": "Maison Crivelli - Santal Volcanique", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    }
+  ]
+}

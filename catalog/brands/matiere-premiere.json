@@ -1,0 +1,208 @@
+{
+  "brand": "Matière Première",
+  "slug": "matiere-premiere",
+  "officialSite": "https://matiere-premiere.com/en",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify shop. The EDP collection page lists 13 eaux de parfum (100 ml). Product pages were read for notes and perfumers. Product pages for Vanilla Powder give Extrait de Parfum, which conflicts with the collection listing (EDP); the product page value is used. Metal Lavender and Oud Seven product pages state 20-25% concentration; the collection page lists them as EDP, which is used. The products.json feed was truncated, so the list is limited to the EDP collection. Discovery sets, 6 ml extraits, candles, body care and hair products are skipped. No release year is stated except Oud Seven (2021). Radical Rose and Santal Austral have no notes on their pages.",
+  "fragrances": [
+    {
+      "name": "Vanilla Powder",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aurélien Guichard",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla", "tonka bean"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/products/vanilla-powder-extrait", "name": "Matière Première - Vanilla Powder Extrait", "type": "official", "supports": ["concentration", "perfumer", "notes"] }
+      ]
+    },
+    {
+      "name": "Radical Rose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Santal Austral",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Parisian Musc",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["ambrette seed", "cedar oil", "ambroxan", "fig leaf"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/products/parisian-musc", "name": "Matière Première - Parisian Musc", "type": "official", "supports": ["concentration", "notes"] }
+      ]
+    },
+    {
+      "name": "Oud Seven",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2021,
+      "perfumer": "Aurélien Guichard",
+      "family": "Woody Oriental",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["oud", "violet leaf", "tobacco leaf", "vetiver", "patchouli", "cypriol", "cistus", "amber"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/products/oud-seven", "name": "Matière Première - Oud Seven", "type": "official", "supports": ["notes", "perfumer", "year", "family"] },
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Metal Lavender",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aurélien Guichard",
+      "family": "Floral Musk",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["lavandin", "lavender", "cashmeran", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/products/metal-lavender", "name": "Matière Première - Metal Lavender", "type": "official", "supports": ["notes", "perfumer", "family"] },
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Crystal Saffron",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Falcon Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Neroli Oranger",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Encens Suave",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "French Flower",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Bois d'Ébène",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Cologne Cédrat",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://matiere-premiere.com/en/collections/edp", "name": "Matière Première - Eau de parfum collection", "type": "official", "supports": ["concentration"] }
+      ]
+    }
+  ]
+}

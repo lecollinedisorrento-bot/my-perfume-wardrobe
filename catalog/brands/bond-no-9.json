@@ -1,0 +1,551 @@
+{
+  "brand": "Bond No. 9",
+  "slug": "bond-no-9",
+  "officialSite": "https://www.bondno9.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Shopify site (bondno9.com). Range taken from /collections/all-fragrances/products.json and /products.json feeds, then one official product page per fragrance for notes, family and perfumer. Product pages list sizes (100 ml / 50 ml) and rarely state the concentration; 'Eau de parfum' is recorded only where the product page's text states it. No release years on the site. Gift sets, samples, refills, candles and body silks skipped. Limited-edition Swarovski versions skipped. Not blocked.",
+  "fragrances": [
+    {
+      "name": "The Scent of Peace for All",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": { "top": ["pear", "tangerine"], "heart": ["lentisque"], "base": ["amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-no-9-the-scent-of-peace-for-all", "name": "Bond No. 9 — The Scent of Peace for All", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "TriBeCa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["cacao absolute", "green hazelnut"], "heart": ["jasmine sambac absolute", "cedarwood"], "base": ["ambroxan", "moss", "caramel"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/tribeca", "name": "Bond No. 9 — TriBeCa", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Nomad",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy",
+      "accords": ["oud"],
+      "notes": { "top": ["pear", "quince", "blackcurrant"], "heart": ["violet leaf", "oud", "orris", "rose"], "base": ["amber", "sandalwood", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/nomad", "name": "Bond No. 9 — Nomad", "type": "official", "supports": ["concentration", "notes", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Greenwich Village",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["cassis", "lychee", "mandarin"], "heart": ["waterlily", "jasmine petals"], "base": ["ambrox", "peach musk", "vanilla", "oak moss", "praline"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/greenwich-village", "name": "Bond No. 9 — Greenwich Village", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Bond Number One",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody & Earthy",
+      "accords": [],
+      "notes": { "top": ["bergamot", "ylang ylang"], "heart": ["white musk", "rose", "jasmine", "tonka bean"], "base": ["vanilla", "patchouli", "cashmere wood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-number-one", "name": "Bond No. 9 — Bond Number One", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "New York Nights",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Warm & Spicy",
+      "accords": ["marine"],
+      "notes": { "top": ["jasmine", "gardenia"], "heart": ["patchouli", "sandalwood", "marine"], "base": ["coffee", "caramel"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/new-york-nights", "name": "Bond No. 9 — New York Nights", "type": "official", "supports": ["notes", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Lafayette Street",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental Fougere",
+      "accords": [],
+      "notes": { "top": ["bergamot", "coriander", "fresh floral"], "heart": ["ambroxan", "apple", "vanilla"], "base": ["dry wood", "tonka bean", "grey amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/lafayette-street", "name": "Bond No. 9 — Lafayette Street", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Nolita",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["tangerine", "freesia"], "heart": ["lily", "rose", "jasmine sambac"], "base": ["amber", "musk", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/nolita", "name": "Bond No. 9 — Nolita", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Super Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy, Woody & Earthy",
+      "accords": [],
+      "notes": { "top": ["coffee", "saffron"], "heart": ["olibanum", "white rose", "benzoin"], "base": ["oud", "suede", "amberxtreme", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-no-9-super-oud", "name": "Bond No. 9 — Super Oud", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Tuxedo Park",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh, Woody",
+      "accords": [],
+      "notes": { "top": ["yuzu", "white grapefruit", "bitter orange", "tangerine", "persian lime"], "heart": ["petitgrain", "pink pepper", "jasmine sambac", "tuberose", "cristalfizz"], "base": ["oud", "saffiano", "musk", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-no-9-tuxedo-park", "name": "Bond No. 9 — Tuxedo Park", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Gold Street",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["leather", "jasmine", "blueberry", "pink pepper"], "heart": ["suede", "iris", "salted caramel"], "base": ["ambrette", "oakmoss", "tolu balsam", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/gold-street", "name": "Bond No. 9 — Gold Street", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Beekman Place",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy, Woody & Earthy",
+      "accords": [],
+      "notes": { "top": ["pineapple", "blackcurrant", "bergamot", "pear", "lemon"], "heart": ["basil", "geranium", "driftwood"], "base": ["musk", "tonka bean", "patchouli", "sea amber", "oakmoss", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/beekman-place", "name": "Bond No. 9 — Beekman Place", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Bleecker Street",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["violet leaf", "cassis", "thyme"], "heart": ["jasmine", "cedarwood", "cinnamon"], "base": ["oakmoss", "suede", "patchouli", "amber", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bleecker-street", "name": "Bond No. 9 — Bleecker Street", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "New York Flowers",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": ["kir royal"],
+      "notes": { "top": ["anjou pear", "clementine", "ivy leaf"], "heart": ["red tulip", "rose de grasse", "tuberose", "star jasmine"], "base": ["sandalwood", "amber", "iris"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/new-york-flowers", "name": "Bond No. 9 — New York Flowers", "type": "official", "supports": ["notes", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "New York Gardenia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["jasmine", "tuberose", "peony"], "heart": ["gardenia", "rose"], "base": ["vetiver", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/new-york-gardenia", "name": "Bond No. 9 — New York Gardenia", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "New Haarlem",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["lavender", "bergamot", "green leaves"], "heart": ["coffee", "cedarwood"], "base": ["amber", "vanilla", "tonka", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/new-haarlem", "name": "Bond No. 9 — New Haarlem", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Greenpoint",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Marine",
+      "accords": ["marine"],
+      "notes": { "top": ["pear", "cardamom", "bergamot", "pimento leaf"], "heart": ["marine", "rose", "jasmine", "magnolia"], "base": ["cedar", "sea amber", "tree moss", "musk", "vetiver", "ambrettolide"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/greenpoint", "name": "Bond No. 9 — Greenpoint", "type": "official", "supports": ["concentration", "notes", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "New York Forever",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["cinnamon bark"], "heart": ["patchouli", "vanilla"], "base": ["amber", "labdanum", "moss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/new-york-forever", "name": "Bond No. 9 — New York Forever", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Sutton Place",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody & Earthy, Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["bergamot", "tangerine", "pink pepper", "cassis", "pineapple"], "heart": ["jasmine", "lily", "patchouli"], "base": ["amber", "musk", "leather", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/sutton-place", "name": "Bond No. 9 — Sutton Place", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Riverside Drive",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh, Floral, Woody & Earthy",
+      "accords": ["aqua"],
+      "notes": { "top": ["violet", "water fruit", "basil"], "heart": ["pineapple", "rose", "lily of the valley"], "base": ["patchouli", "cedarwood", "sandalwood", "oak moss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/riverside-drive", "name": "Bond No. 9 — Riverside Drive", "type": "official", "supports": ["notes", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Chez Bond",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": ["herbal tea"],
+      "notes": { "top": ["citrus"], "heart": ["leafy greens", "violet leaf", "herbal tea"], "base": ["vetiver", "cedarwood", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/chez-bond", "name": "Bond No. 9 — Chez Bond", "type": "official", "supports": ["concentration", "notes", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Chelsea Nights",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["saffron", "cocoa absolute"], "heart": ["tuberose", "myrrh", "cedarwood", "oud"], "base": ["amber", "vanilla", "suede", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/chelsea-nights", "name": "Bond No. 9 — Chelsea Nights", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Governors Island",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh, Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["incense", "resinoid"], "heart": ["ambroxan", "white cedarwood"], "base": ["white musk", "vetiver", "muscenone"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/governors-island", "name": "Bond No. 9 — Governors Island", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Madison Square Park",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["grape hyacinth", "huckleberry", "prairie dropseed grass"], "heart": ["red leaf rose", "red hunter tulip"], "base": ["hoptree", "teakwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/madison-square-park", "name": "Bond No. 9 — Madison Square Park", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Wall Street",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh, Woody & Earthy, Warm & Spicy",
+      "accords": ["marine"],
+      "notes": { "top": ["sea kale", "cucumber"], "heart": ["ozone", "marine", "lavender"], "base": ["musk", "vetiver", "ambergris"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/wall-street", "name": "Bond No. 9 — Wall Street", "type": "official", "supports": ["notes", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Astor Place",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["violet leaf", "mandarin"], "heart": ["freesia", "red poppy", "orris"], "base": ["teakwood", "musk", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/astor-place", "name": "Bond No. 9 — Astor Place", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Central Park West",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["narcissus", "ylang ylang", "black pepper"], "heart": ["gardenia", "jasmine", "linden", "orris"], "base": ["vetiver", "musk", "white oak", "treemoss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/central-park-west", "name": "Bond No. 9 — Central Park West", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Dubai Gold",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody & Earthy, Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["brandy", "saffron", "bitter orange"], "heart": ["ginger", "cedarwood", "guaiac wood"], "base": ["amber", "sandalwood", "musk", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/dubai-gold", "name": "Bond No. 9 — Dubai Gold", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Nuits de Noho",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Warm & Spicy",
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "pineapple leaves"], "heart": ["jasmine", "rosewood"], "base": ["creamy vanilla", "sheer patchouli", "grey musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/nuits-de-noho", "name": "Bond No. 9 — Nuits de Noho", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Liberty Island",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "blackcurrant"], "heart": ["orange blossom", "jasmine"], "base": ["marshmallow", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-no-9-liberty-island", "name": "Bond No. 9 — Liberty Island", "type": "official", "supports": ["concentration", "notes", "family"] }
+      ]
+    },
+    {
+      "name": "Montauk",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody & Earthy, Fresh",
+      "accords": [],
+      "notes": { "top": ["wild bergamot", "blueberry"], "heart": ["hyacinth", "lily of the valley", "honeysuckle"], "base": ["amber", "driftwood", "silver maple", "red oak"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/montauk", "name": "Bond No. 9 — Montauk", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "NY Secret Gardens",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": ["kir royal"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["anjou pear", "clementine", "ivy leaf", "rose de grasse", "tuberose", "star jasmine", "amber", "iris", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-no-9-secret-gardens", "name": "Bond No. 9 — NY Secret Gardens", "type": "official", "supports": ["notes", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Good Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Miroslav Petkov",
+      "family": "Warm & Spicy, Woody & Earthy",
+      "accords": [],
+      "notes": { "top": ["sumac", "magnolia", "osmanthus", "cinnamon bark", "cumin seed"], "heart": ["pomegranate seeds", "myrrh", "peru balsam", "clary sage", "forest berries"], "base": ["vanilla bean", "labdanum", "patchouli", "smoky red oud"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-no-9-good-oud", "name": "Bond No. 9 — Good Oud", "type": "official", "supports": ["notes", "family", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Oud Supreme",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Miroslav Petkov",
+      "family": "Warm & Spicy, Woody & Earthy",
+      "accords": ["oud"],
+      "notes": { "top": ["cassis", "spanish lemon", "pink pepper"], "heart": ["geranium", "olibanum", "carrot seed oil", "turkish rose"], "base": ["patchouli", "gurjun balsam", "benzoin resin", "jungle oud"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-no-9-oud-supreme", "name": "Bond No. 9 — Oud Supreme", "type": "official", "supports": ["notes", "family", "perfumer", "accords"] }
+      ]
+    },
+    {
+      "name": "My Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy, Woody & Earthy",
+      "accords": [],
+      "notes": { "top": ["pineapple", "pink grapefruit", "olibanum"], "heart": ["immortelle", "beeswax", "rose"], "base": ["oud", "labdanum", "patchouli", "myrrh"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-no-9-my-oud", "name": "Bond No. 9 — My Oud", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "New York Chic",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm & Spicy",
+      "accords": ["cognac"],
+      "notes": { "top": ["davana", "heliotrope", "tobacco leaf"], "heart": ["immortelle", "tuberose", "cognac"], "base": ["patchouli", "tobacco leaf", "carnal musk", "oud"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.bondno9.com/products/bond-no-9-new-york-chic", "name": "Bond No. 9 — New York Chic", "type": "official", "supports": ["notes", "family", "accords"] }
+      ]
+    }
+  ]
+}

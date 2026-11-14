@@ -1,0 +1,161 @@
+{
+  "brand": "Escentric Molecules",
+  "slug": "escentric-molecules",
+  "officialSite": "https://www.escentric.com/en-us",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Shopify store (US storefront under /en-us). products.json feed read but truncated by the fetch tool after about 32 products. Notes come from official product pages, which describe Molecule fragrances as single or few aroma-molecules, so notes are stored as flat lists. Concentration is stated only for Cologne One (15%). Molecule 02, 03, 04 and 05 come from the official Molecule collection page, which lists sizes but gives notes only for Molecule 04 (Javanol, collection-level text). Escentric 02 has no notes on its collection page. Gift sets, body care, sample sets and 8.5 ml/2 ml samples are skipped. Discontinued is not stated.",
+  "fragrances": [
+    {
+      "name": "Molecule 01",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": ["woody", "musk"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["iso e super"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/products/molecule-01-200ml", "name": "Escentric Molecules - Molecule 01", "type": "official", "supports": ["notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Molecule 01 + Clary Sage",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Geza Schoen",
+      "family": null,
+      "accords": ["woody", "aromatic", "herbal", "fresh", "green"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["iso e super", "clary sage"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/products/molecule-01-clary-sage", "name": "Escentric Molecules - Molecule 01 + Clary Sage", "type": "official", "supports": ["notes", "perfumer", "accords"] }
+      ]
+    },
+    {
+      "name": "Molecule 01 + Champaca",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": ["woody", "floral", "aromatic"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["iso e super", "champaca"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/products/molecule-01-champaca", "name": "Escentric Molecules - Molecule 01 + Champaca", "type": "official", "supports": ["notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Escentric 01",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Geza Schoen",
+      "family": null,
+      "accords": ["citrus", "woody", "fresh"],
+      "notes": { "top": ["lime", "pink pepper", "aldehydes"], "heart": ["orris", "hedione"], "base": ["iso e super", "incense", "mastic", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/products/escentric-01-200ml", "name": "Escentric Molecules - Escentric 01", "type": "official", "supports": ["notes", "perfumer", "accords"] }
+      ]
+    },
+    {
+      "name": "Cologne One",
+      "collection": null,
+      "concentration": "15%",
+      "releaseYear": null,
+      "perfumer": "Geza Schoen",
+      "family": null,
+      "accords": ["fresh", "citrus", "spicy"],
+      "notes": { "top": ["juniperberry", "lemon", "lime", "mandarin", "bergamot", "ginger", "cucumber"], "heart": ["hedione", "rose", "iris", "waterlily"], "base": ["iso e super", "ambroxan", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/products/cologne-one", "name": "Escentric Molecules - Cologne One", "type": "official", "supports": ["notes", "concentration", "perfumer", "accords"] }
+      ]
+    },
+    {
+      "name": "Escentric 02",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/collections/escentric-molecules-02", "name": "Escentric Molecules - Escentric 02 collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Molecule 02",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/collections/molecule", "name": "Escentric Molecules - Molecule collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Molecule 03",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/collections/molecule", "name": "Escentric Molecules - Molecule collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Molecule 04",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["javanol"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/collections/escentric-molecules-04", "name": "Escentric Molecules - Molecule 04 collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Molecule 05",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.escentric.com/en-us/collections/molecule", "name": "Escentric Molecules - Molecule collection", "type": "official", "supports": [] }
+      ]
+    }
+  ]
+}

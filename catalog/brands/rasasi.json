@@ -1,0 +1,506 @@
+{
+  "brand": "Rasasi",
+  "slug": "rasasi",
+  "officialSite": "https://rasasistore.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "No single global official site surfaced in search. Rasasi's own Shopify stores were used: rasasistore.com (products.json readable, ~1,100 KB feed; only the first page of entries read) and ksa.rasasistore.com (products.json readable, first ~60 entries read; the feed was not read to the end). Product handles come from those feeds; product pages were opened for each entry. Almost all Rasasi pages list notes as unlabelled groups; those are recorded as notes.flat, and top/heart/base only where the page labels them. Concentration is recorded only where the page text states it (EDP in the product name counts). Years, perfumers and most families are not stated: null. Hamasaat Oud Majestic, Daarej, Hamasaat, Attar Al Boruzz (oil), Attar Al Mohabba, Reina Rosa (body and hair), Modern Lady and the Nafaeis Al Shaghaf Men handle were skipped (feed handle mismatch, 404, attar oil, or not a main perfume). Arabian Prive, Wahat Al Omara, Dorar, Ashaar, Al Wisam Hasaas, Maraya, Shuhrah Men and Rumz Al Rasasi 9325 Women were not covered. Store product titles were used with the title's wording; one note name (guaiac wood) was corrected from a typo in Entebaa Men.",
+  "fragrances": [
+    {
+      "name": "Hawas For Him",
+      "collection": "Hawas",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fougere",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cinnamon", "bergamot", "orange blossom", "grey amber", "sandalwood", "italian citrus", "pear", "pineapple", "melon", "violet", "cedarwood", "musk", "ambergris"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/hawas-for-him", "name": "Rasasi KSA - Hawas For Him", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Hawas For Her",
+      "collection": "Hawas",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["apple", "grapefruit", "pomegranate", "jasmine sambac", "iris", "citrus", "patchouli", "vetiver", "praline"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/hawas-for-her", "name": "Rasasi KSA - Hawas For Her", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Hawas Venom",
+      "collection": "Hawas",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["incense", "labdanum"], "heart": ["leather"], "base": ["labdanum", "patchouli", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rasasistore.com/products/hawas-venom", "name": "Rasasi - Hawas Venom", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Junoon Velvet",
+      "collection": "Junoon",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["clove", "cinnamon", "rose", "blackcurrant", "tomato leaf", "vanilla", "raspberry", "leather", "sandalwood", "patchouli", "incense", "musk", "amber", "benzoin"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/junoon-velvet", "name": "Rasasi KSA - Junoon Velvet", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Junoon Satin",
+      "collection": "Junoon",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["apple", "red berry", "orchid", "rose", "jasmine sambac", "ylang ylang", "tuberose", "lily of the valley", "cedarwood", "patchouli", "sandalwood", "frankincense", "white musk", "ambergris", "vanilla"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/junoon-satin", "name": "Rasasi KSA - Junoon Satin", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Junoon Leather",
+      "collection": "Junoon",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["agarwood", "cardamom", "florals", "amber", "pepper", "spices", "white musk", "oudh"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/junoon-leather", "name": "Rasasi KSA - Junoon Leather", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Yumn Pour Homme",
+      "collection": "Yumn",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["virginia cedar", "amber", "bergamot", "cardamom", "lavender"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/yumn-pour-homme-100-ml", "name": "Rasasi KSA - Yumn Pour Homme", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Yumn Pour Femme",
+      "collection": "Yumn",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rose", "passion fruit", "vanilla", "amber", "musk", "red fruits", "lily of the valley"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/yumn-pour-femme-100-ml", "name": "Rasasi KSA - Yumn Pour Femme", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Lamaan Oud Rose",
+      "collection": "Lamaan",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "grapefruit", "lychee", "peach", "blackcurrant"], "heart": ["rose", "jasmine", "magnolia", "lily of the valley"], "base": ["oud", "amber", "incense", "tonka", "vanilla", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/lamaan-oud-rose", "name": "Rasasi KSA - Lamaan Oud Rose", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Lamaan Oud Ombre",
+      "collection": "Lamaan",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["grapefruit", "vanilla", "madagascar vanilla", "raspberry", "white florals", "indian jasmine", "amber", "musk", "leather", "cedarwood", "oud wood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/lamaan-oud-ombre", "name": "Rasasi KSA - Lamaan Oud Ombre", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Lamaan Lavender Oud",
+      "collection": "Lamaan",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["grapefruit", "mango", "passion fruit", "coconut", "lavender", "queen of the night", "cattleya orchid", "chocolate", "vanilla", "madagascar vanilla", "white musk", "leather", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/lamaan-lavender-oud", "name": "Rasasi KSA - Lamaan Lavender Oud", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Rumz Al Rasasi 9453 Leo",
+      "collection": "Rumz Al Rasasi",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cardamom", "cinnamon", "bergamot", "heliotrope", "jasmine", "muguet", "indian rose", "benzoin", "woody", "praline", "amber", "indian dhanal oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/rumz-al-rasasi-9453-leo", "name": "Rasasi KSA - Rumz Al Rasasi 9453 Leo", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Rumz Al Rasasi 9325 Zebra Pour Lui",
+      "collection": "Rumz Al Rasasi",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "cardamom", "green apple", "lily of the valley", "freesia", "jasmine", "leather", "cedarwood", "patchouli", "white musk", "ambergris"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/rumz-al-rasasi-9325-zebra-pour-lui", "name": "Rasasi KSA - Rumz Al Rasasi 9325 Zebra Pour Lui", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Qasamat Morhaf",
+      "collection": "Qasamat",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "lemon", "raspberry", "damask rose", "pink pepper", "geranium", "jasmine", "orange blossom", "tuberose", "patchouli", "amber", "vanilla", "musk", "sandalwood", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/qasamat-morhaf-edp-65ml", "name": "Rasasi KSA - Qasamat Morhaf 65 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Qasamat Ebhar",
+      "collection": "Qasamat",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["sparkling lemon", "green apple", "lotus flower", "orris", "pure jasmine", "damask rose", "intense vanilla", "praline", "tonka bean", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/qasamat-ebhar-edp-65ml", "name": "Rasasi KSA - Qasamat Ebhar 65 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Qasamat Bareeq",
+      "collection": "Qasamat",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "orange", "artemisia", "tagetes", "green apple", "jasmine", "violet", "clove", "saffron", "chamomile", "rose", "caramel", "patchouli", "vetiver", "cedarwood", "ambergris", "musk", "moss", "benzoin", "leather accord"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/qasamat-bareeq-edp-65ml", "name": "Rasasi KSA - Qasamat Bareeq 65 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Nafaeis Al Shaghaf",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["almond", "coffee", "jasmine sambac", "tuberose", "orris", "tonka bean"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/nafaeis-al-shaghaf", "name": "Rasasi KSA - Nafaeis Al Shaghaf", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Egra For Men",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["juniper berry", "spruce", "violet leaves", "fir needle", "galbanum", "florentine iris", "sandalwood", "ambergris", "oakmoss", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/egra-for-men-edp-100-ml", "name": "Rasasi KSA - Egra For Men 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Ward Noir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["blackcurrant", "pink pepper", "turkish rose", "labdanum", "patchouli", "amber"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/ward-noir", "name": "Rasasi KSA - Ward Noir", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Soryani Pour Homme",
+      "collection": "Soryani",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "lime", "mandarin", "orris", "lavender", "muguet", "rose", "ozone accord", "amber", "vetiver", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/soryani-pour-homme-100-ml", "name": "Rasasi KSA - Soryani Pour Homme", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Soryani Pour Femme",
+      "collection": "Soryani",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["mandarin", "orange", "rose", "peach", "musk", "patchouli"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/soryani-pour-femme-100-ml", "name": "Rasasi KSA - Soryani Pour Femme", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Marha Pour Femme",
+      "collection": "Marha",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["pineapple", "guava", "orange", "peach", "freesia", "vanilla", "coconut", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/marha-pour-femme-100-ml", "name": "Rasasi KSA - Marha Pour Femme", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Somow Al Rasasi Wajaha",
+      "collection": "Somow Al Rasasi",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["incense", "tamarind", "bergamot", "cardamom", "rose", "violet", "leather", "vetiver", "resins", "sandalwood", "oakmoss", "birchwood", "musk", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/somow-al-rasasi-wajaha-edp-100-ml", "name": "Rasasi KSA - Somow Al Rasasi Wajaha", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Somow Al Rasasi Maali",
+      "collection": "Somow Al Rasasi",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Modern Oriental",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla", "mandarin", "hazelnut", "amber", "jasmine sambac", "orange blossom", "salt", "sandalwood", "musk", "ambergris", "guaiac wood", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/somow-al-rasasi-maali-edp-100-ml", "name": "Rasasi KSA - Somow Al Rasasi Maali", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Entebaa Men",
+      "collection": "Entebaa",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh Woody",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["plum", "black pepper", "lime", "pineapple", "patchouli", "vetiver", "guaiac wood", "vanilla", "tonka bean", "praline"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/entebaa-men-100-ml", "name": "Rasasi KSA - Entebaa Men 100 ml", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Enteash",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cardamom", "caramel", "musk", "amber", "ginger"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/enteash", "name": "Rasasi KSA - Enteash", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Luban Absolute",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["black pepper", "cypress", "violet", "olibanum", "myrrh", "tonka", "sandalwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/luban-absolute", "name": "Rasasi KSA - Luban Absolute", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Radi",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["lemon", "orange", "bergamot", "flower petals", "peach", "cherry", "amber"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/radi", "name": "Rasasi KSA - Radi", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Oud Al Huyam",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["red berries", "sage", "honey"], "heart": ["damask rose"], "base": ["woody", "smoky"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/oud-al-huyam", "name": "Rasasi KSA - Oud Al Huyam", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Shuhrah",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "sage"], "heart": ["iris", "jasmine", "lily of the valley"], "base": ["oud", "patchouli", "grey amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/shuhrah", "name": "Rasasi KSA - Shuhrah", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Shabebah",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["tangerine", "mandarin", "red berry", "bergamot", "peach", "rose", "plum", "jasmine sambac", "ylang ylang", "lily of the valley", "freesia", "sandalwood", "amber", "vanilla", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/shabebah", "name": "Rasasi KSA - Shabebah", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Ambar Silk",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cardamom pepper", "bergamot", "green apple", "orris", "lavender", "clary sage", "cedarwood", "patchouli", "sandalwood", "amber", "praline", "vanilla"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/ambar-silk", "name": "Rasasi KSA - Ambar Silk", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Al Ghalia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rose", "saffron", "woody", "dry amber", "musk", "akigalawood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://ksa.rasasistore.com/products/al-ghalia-100-ml", "name": "Rasasi KSA - Al Ghalia 100 ml", "type": "official", "supports": ["notes"] }
+      ]
+    }
+  ]
+}
