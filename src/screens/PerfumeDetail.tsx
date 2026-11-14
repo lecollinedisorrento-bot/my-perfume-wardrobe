@@ -133,8 +133,6 @@ export function PerfumeDetail() {
         {f.personality && <p className="serif" style={{ fontSize: 22, lineHeight: 1.15 }}>“{f.personality}”</p>}
         <div className="row" style={{ marginTop: 6 }}>
           <VerificationTag status={status} />
-          {f.noteSource !== 'none' && <span className="tag">{tk(`src.${f.noteSource}`)}</span>}
-          {f.research && <span className="tag">{tk(`conf.${f.research.confidence}`)}</span>}
         </div>
       </header>
 
@@ -369,16 +367,19 @@ export function PerfumeDetail() {
               ))}
             </div>
           </div>
-          <div>
-            <span className="label">{t('profile.occasions')}</span>
-            <div className="chips">
-              {OCCASIONS.map((s) => (
-                <span key={s} className={`chip chip-sm ${(f.usage.occasions as string[]).includes(s) ? 'on' : 'muted'}`}>
-                  {tk(`occ.${s}`)}
-                </span>
-              ))}
+          {/* Eight muted options were noise: show only the occasions that apply. */}
+          {f.usage.occasions.length > 0 && (
+            <div>
+              <span className="label">{t('profile.occasions')}</span>
+              <div className="chips">
+                {OCCASIONS.filter((s) => (f.usage.occasions as string[]).includes(s)).map((s) => (
+                  <span key={s} className="chip chip-sm on">
+                    {tk(`occ.${s}`)}
+                  </span>
+                ))}
+              </div>
             </div>
-          </div>
+          )}
           {f.usage.tempMinC != null && f.usage.tempMaxC != null && (
             <div>
               <span className="label">{t('profile.temp')}</span>

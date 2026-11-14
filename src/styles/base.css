@@ -162,10 +162,37 @@ h3,
 h4 {
   margin: 0;
   line-height: 1.05;
+  text-wrap: balance;
 }
 
 p {
   margin: 0;
+  text-wrap: pretty;
+}
+
+/* Numbers that change or sit in columns keep a fixed width. */
+.meter,
+.sticker,
+.tag,
+.stat,
+time,
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Paper grain: a barely-there texture so flat colour fields feel printed. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.9 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+#root {
+  position: relative;
+  z-index: 1;
 }
 
 .sr-only {

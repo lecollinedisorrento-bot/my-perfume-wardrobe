@@ -38,7 +38,7 @@ test.beforeEach(async ({ page }) => {
 
 test('first-time onboarding: language, preferences, city weather, sample import', async ({ page }) => {
   await page.goto('/');
-  await expect(page.getByRole('heading', { name: /YOUR SCENT/ })).toBeVisible();
+  await expect(page.getByRole('heading', { name: /your scent/i })).toBeVisible();
   await page.getByTestId('onb-start').click();
   await page.getByTestId('lang-it').click();
   await expect(page.getByRole('heading', { name: 'Scegli la lingua' })).toBeVisible();
@@ -130,7 +130,7 @@ test('add a fragrance with AI identification + research, image upload, edit, rat
   await page.getByRole('button', { name: 'Delete' }).click();
   await page.getByRole('dialog').getByRole('button', { name: 'Delete' }).click();
   await expect(page).toHaveURL(/\/wardrobe$/);
-  await expect(page.getByText('An empty shelf is a blank canvas.')).toBeVisible();
+  await expect(page.getByText('An empty shelf is a blank canvas')).toBeVisible();
 });
 
 test('manual add without AI when the server has no AI configured', async ({ page }) => {

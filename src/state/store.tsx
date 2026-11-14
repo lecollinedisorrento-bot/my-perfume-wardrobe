@@ -138,17 +138,22 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   }, [prefs.soundEnabled, prefs.hapticsEnabled]);
 
   // ── Achievements (re-evaluated after data changes) ──
+  // Ids already being saved: rapid data changes (e.g. the sample import) re-run this
+  // effect before the previous unlock lands, which used to announce a badge twice.
+  const unlocking = useRef(new Set<string>());
   useEffect(() => {
     if (!ready) return;
-    const fresh = evaluateAchievements({ fragrances, wears, combinations, spins }, new Set(unlocked.keys()));
+    const known = new Set([...unlocked.keys(), ...unlocking.current]);
+    const fresh = evaluateAchievements({ fragrances, wears, combinations, spins }, known);
     if (!fresh.length) return;
+    for (const id of fresh) unlocking.current.add(id);
     void repo.unlockAchievements(fresh).then(() => {
       setUnlocked((m) => {
         const n = new Map(m);
         for (const id of fresh) n.set(id, nowIso());
         return n;
       });
-      if (prefsRef.current.achievementsEnabled) setFreshUnlocks((f) => [...f, ...fresh]);
+      if (prefsRef.current.achievementsEnabled) setFreshUnlocks((f) => [...new Set([...f, ...fresh])]);
     });
   }, [ready, fragrances, wears, combinations, spins, unlocked]);
 

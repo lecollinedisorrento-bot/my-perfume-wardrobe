@@ -117,7 +117,7 @@
   letter-spacing: 0.01em;
   box-shadow: var(--shadow-sm);
   transition:
-    transform var(--dur) var(--ease-pop),
+    transform var(--dur) var(--ease-out),
     box-shadow var(--dur) var(--ease-out),
     background-color var(--dur);
   user-select: none;
@@ -128,7 +128,7 @@
   transform: translateY(-1px);
 }
 .btn:active {
-  transform: translateY(3px);
+  transform: translateY(3px) scale(0.97);
   box-shadow: 0 0 0 0 var(--shadow-c);
 }
 .btn:disabled {
@@ -222,7 +222,7 @@
   font-size: 13.5px;
   white-space: nowrap;
   transition:
-    transform 160ms var(--ease-pop),
+    transform 160ms var(--ease-out),
     background-color 160ms;
 }
 .chip:active {
@@ -281,7 +281,7 @@ button.chip[aria-pressed='true'],
 .card-press {
   cursor: pointer;
   transition:
-    transform var(--dur) var(--ease-pop),
+    transform var(--dur) var(--ease-out),
     box-shadow var(--dur) var(--ease-out);
   text-align: left;
   display: block;
@@ -293,7 +293,7 @@ button.chip[aria-pressed='true'],
   transform: translateY(-2px) rotate(-0.4deg);
 }
 .card-press:active {
-  transform: translateY(4px);
+  transform: translateY(4px) scale(0.97);
   box-shadow: 0 1px 0 0 var(--shadow-c);
 }
 .card-xl {
@@ -385,10 +385,9 @@ button.chip[aria-pressed='true'],
 }
 .label {
   font-family: var(--font-display);
-  font-size: 11.5px;
+  font-size: 13px;
   font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 .hint {
   font-size: 12.5px;
@@ -493,7 +492,7 @@ button.chip[aria-pressed='true'],
   height: 20px;
   border-radius: 50%;
   background: var(--line);
-  transition: transform 220ms var(--ease-pop);
+  transition: transform 220ms var(--ease-out);
 }
 .toggle input:checked {
   background: var(--lime);
@@ -565,7 +564,7 @@ input[type='range'] {
 .bnav-item svg {
   width: 26px;
   height: 26px;
-  transition: transform 260ms var(--ease-pop);
+  transition: transform 260ms var(--ease-out);
 }
 .bnav-item.active {
   color: var(--text);
@@ -594,7 +593,7 @@ input[type='range'] {
   display: grid;
   place-items: center;
   box-shadow: var(--shadow);
-  transition: transform 300ms var(--ease-pop);
+  transition: transform 300ms var(--ease-out);
   text-decoration: none;
 }
 .bnav-spin svg {
@@ -633,10 +632,10 @@ input[type='range'] {
   text-decoration: none;
   color: inherit;
   transition:
-    transform var(--dur) var(--ease-pop),
+    transform var(--dur) var(--ease-out),
     box-shadow var(--dur) var(--ease-out);
-  animation: card-in 420ms var(--ease-pop) both;
-  animation-delay: calc(var(--i, 0) * 35ms);
+  animation: card-in 420ms var(--ease-out) both;
+  animation-delay: calc(min(var(--i, 0), 12) * 30ms);
 }
 @keyframes card-in {
   from {
@@ -648,7 +647,7 @@ input[type='range'] {
   transform: translateY(-3px) rotate(-0.6deg);
 }
 .pcard:active {
-  transform: translateY(4px);
+  transform: translateY(4px) scale(0.97);
   box-shadow: 0 1px 0 var(--shadow-c);
 }
 .pcard-stage {
@@ -662,7 +661,7 @@ input[type='range'] {
 .pcard-stage .bottle {
   width: 78%;
   height: 86%;
-  transition: transform 400ms var(--ease-pop);
+  transition: transform 400ms var(--ease-out);
 }
 .pcard:hover .pcard-stage .bottle {
   transform: scale(1.06) rotate(2deg);
@@ -741,12 +740,12 @@ input[type='range'] {
   background: var(--surface);
   text-decoration: none;
   color: inherit;
-  transition: transform 180ms var(--ease-pop);
-  animation: card-in 380ms var(--ease-pop) both;
-  animation-delay: calc(var(--i, 0) * 25ms);
+  transition: transform 180ms var(--ease-out);
+  animation: card-in 380ms var(--ease-out) both;
+  animation-delay: calc(min(var(--i, 0), 12) * 30ms);
 }
 .prow:active {
-  transform: scale(0.98);
+  transform: scale(0.97);
 }
 .prow-thumb {
   width: 64px;
@@ -769,6 +768,8 @@ input[type='range'] {
   place-items: center;
   /* Keep tall photos inside the box instead of letting the row grow. */
   grid-template: minmax(0, 1fr) / minmax(0, 1fr);
+  max-height: 100%;
+  min-height: 0;
 }
 .bottle-cutout {
   box-sizing: border-box;
@@ -809,7 +810,7 @@ input[type='range'] {
   background: var(--surface);
   border: 2px solid var(--ink);
   color: var(--ink);
-  transition: transform 220ms var(--ease-pop);
+  transition: transform 220ms var(--ease-out);
 }
 .fav-btn svg {
   width: 20px;
@@ -848,7 +849,7 @@ input[type='range'] {
   display: grid;
   place-items: center;
   color: var(--text-dim);
-  transition: transform 180ms var(--ease-pop);
+  transition: transform 180ms var(--ease-out);
 }
 .stars button svg {
   width: 30px;
@@ -995,7 +996,7 @@ input[type='range'] {
   color: var(--on-ink);
   font-weight: 700;
   box-shadow: 0 4px 0 rgba(0, 0, 0, 0.35);
-  animation: toast-in 380ms var(--ease-pop) both;
+  animation: toast-in 380ms var(--ease-out) both;
 }
 .toast.lime {
   background: var(--lime);
@@ -1127,7 +1128,7 @@ input[type='range'] {
   display: grid;
   place-items: center;
   box-shadow: var(--shadow);
-  transition: transform 260ms var(--ease-pop);
+  transition: transform 260ms var(--ease-out);
   text-decoration: none;
 }
 .fab svg {
@@ -1173,4 +1174,18 @@ input[type='range'] {
   50% {
     transform: translateY(-8px);
   }
+}
+
+/* Touch targets: compact controls keep their look but get a ≥44px tap area. */
+button.chip,
+a.chip,
+.btn-sm {
+  position: relative;
+}
+button.chip::after,
+a.chip::after,
+.btn-sm::after {
+  content: '';
+  position: absolute;
+  inset: -5px -2px;
 }
