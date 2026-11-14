@@ -1,0 +1,581 @@
+{
+  "brand": "Rabanne",
+  "slug": "rabanne",
+  "officialSite": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Formerly Paco Rabanne. The official rabanne.com fragrance listing did not appear in search; the official article opened covers La Collection and Calandre, and gives notes for several of its fragrances (no concentrations). Range taken from two retailer brand listings: tendance-parfums.com (first page only, 18 shown) and scento.com/ro (25 names, full A-Z index). Concentrations are as stated on those pages; where only a name label was given it is taken from the name. Retailer names with no concentration on the page are left null. Years stated only for Calandre.",
+  "fragrances": [
+    {
+      "name": "Calandre",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 1969,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["year"] }
+      ]
+    },
+    {
+      "name": "Mesh Metal",
+      "collection": "La Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Fanny Bal",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["lime", "lentiscus", "petitgrain bigarade", "orange blossom absolute", "ambergris"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Silver Skin",
+      "collection": "La Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["iris pallida", "aldehydes", "pink pepper", "benzoin", "vanilla surabsolute", "ambrox"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Midnight Sex",
+      "collection": "La Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["tuberose", "orange blossom", "coconut pulp", "sandalwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Rose 1969",
+      "collection": "La Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["lychee", "rosa damascena", "black pepper", "patchouli"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Night Soul",
+      "collection": "La Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["palo santo", "sandalwood", "fig", "tonka bean"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Armure Mara",
+      "collection": "La Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["strawberry", "patchouli", "jasmine", "bourbon vanilla"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "After Club",
+      "collection": "La Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla", "white lavender", "labdanum", "amber"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Oud Montaigne",
+      "collection": "La Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["black oud", "green cardamom", "blue plum", "davana", "smoky sandalwood", "cedarwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Million Gold Elixir",
+      "collection": null,
+      "concentration": "Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Phantom Elixir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Olympéa Absolu",
+      "collection": null,
+      "concentration": "Intense Fragrance",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Million Gold for Her",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "1 Million",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "1 Million Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Phantom Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Fame Couture Edition Limitée",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Invictus",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Olympéa",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Phantom",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "1 Million Night Elixir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "1 Million Royal",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Lady Million",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Million Gold",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Fame Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "1 Million Elixir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Invictus Parfum",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Invictus Victory Absolu",
+      "collection": null,
+      "concentration": "Absolu",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Invictus Victory Elixir",
+      "collection": null,
+      "concentration": "Elixir",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Fame Parfum",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Black XS",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Fame",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Fame in Love",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Pure XS",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Pure XS For Her",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Olympéa Solar",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Phantom in Red",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Lady Million Fabulous",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+      ]
+    }
+  ]
+}

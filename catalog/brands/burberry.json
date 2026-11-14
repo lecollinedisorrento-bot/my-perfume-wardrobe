@@ -1,0 +1,221 @@
+{
+  "brand": "Burberry",
+  "slug": "burberry",
+  "officialSite": "https://uk.burberry.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "uk.burberry.com fragrance listing opened successfully. Its Prorsum collection (8 items, all EDP 100 ml) is recorded from that official listing with concentration only; notes were not obtained for them. Notes for the other entries are reported from scento.com product pages, because no official product page with notes was fetched. Concentration comes from the product name, or from product image alt text where stated there, otherwise null. Families not stated by any fetched source. Only part of the range is covered so far.",
+  "fragrances": [
+    {
+      "name": "Garden Rain",
+      "collection": "Prorsum",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://uk.burberry.com/l/beauty/fragrances/", "name": "Burberry UK — Fragrances (Prorsum collection)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Open Skies",
+      "collection": "Prorsum",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://uk.burberry.com/l/beauty/fragrances/", "name": "Burberry UK — Fragrances (Prorsum collection)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Gabardine",
+      "collection": "Prorsum",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://uk.burberry.com/l/beauty/fragrances/", "name": "Burberry UK — Fragrances (Prorsum collection)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Cashmere Embrace",
+      "collection": "Prorsum",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://uk.burberry.com/l/beauty/fragrances/", "name": "Burberry UK — Fragrances (Prorsum collection)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "London",
+      "collection": "Prorsum",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://uk.burberry.com/l/beauty/fragrances/", "name": "Burberry UK — Fragrances (Prorsum collection)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Kensington Trench",
+      "collection": "Prorsum",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://uk.burberry.com/l/beauty/fragrances/", "name": "Burberry UK — Fragrances (Prorsum collection)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Knight",
+      "collection": "Prorsum",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://uk.burberry.com/l/beauty/fragrances/", "name": "Burberry UK — Fragrances (Prorsum collection)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "EST 1856",
+      "collection": "Prorsum",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://uk.burberry.com/l/beauty/fragrances/", "name": "Burberry UK — Fragrances (Prorsum collection)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Hero Eau de Parfum",
+      "collection": "Hero",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": "Aurélien Guichard",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pine needles", "olibanum"], "heart": ["benzoin", "incense"], "base": ["atlas cedar", "himalayan cedar", "virginia cedar"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/hero-eau-de-parfum-burberry", "name": "Scento — Burberry Hero Eau de Parfum", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Hero",
+      "collection": "Hero",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Aurélien Guichard",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot"], "heart": ["juniper", "black pepper"], "base": ["atlas cedar", "virginian cedar", "himalayan cedar"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/hero-burberry", "name": "Scento — Burberry Hero", "type": "retailer", "supports": ["notes", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Goddess",
+      "collection": "Goddess",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Amandine Clerc-Marie",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["vanilla", "lavender", "cacao", "ginger"], "heart": ["vanilla caviar"], "base": ["vanilla absolute"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/goddess-burberry", "name": "Scento — Burberry Goddess", "type": "retailer", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Burberry Her Elixir de Parfum",
+      "collection": "Her",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["strawberry", "blackberry"], "heart": ["jasmine"], "base": ["vanilla", "amber", "sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/burberry-her-elixir-de-parfum-burberry", "name": "Scento — Burberry Her Elixir de Parfum", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Her Intense",
+      "collection": "Her",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["wild strawberry"], "heart": ["orange blossom"], "base": ["ambroxan"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/her-intense-burberry", "name": "Scento — Burberry Her Intense", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "My Burberry Blush",
+      "collection": "My Burberry",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Francis Kurkdjian",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pomegranate", "lemon"], "heart": ["green apple", "rose petals", "geranium"], "base": ["wisteria", "jasmine"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/my-burberry-blush-burberry", "name": "Scento — My Burberry Blush", "type": "retailer", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    }
+  ]
+}

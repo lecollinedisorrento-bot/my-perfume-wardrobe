@@ -1,0 +1,466 @@
+{
+  "brand": "Carolina Herrera",
+  "slug": "carolina-herrera",
+  "officialSite": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Main range from the official Herrera Confidential page (es/en; 18 products listed, 17 fragrances kept, discovery set excluded; page states more products beyond the first 18 but they were not listed). Notes from the official US editorial page for the Confidential collection (flat notes as stated). The official site root did not appear in search results. Mainstream names (212, Bad Boy, Good Girl, La Bomba, CH Men) come from a retailer decant listing (scento.com) with no concentration or notes shown. Years not stated on any page.",
+  "fragrances": [
+    {
+      "name": "Cedar Chic",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cedarwood", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Peccato Nobile",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Emerald Musk",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Sandal Ruby",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Vetiver Paradise",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Stallion Leather Suede",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Stallion Leather",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["leather", "jasmine"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "True Oud",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Amethyst Haze",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Saffron Lazuli",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Platinum Leather",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["leather", "exotic spice"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Gold Incense",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["incense", "cedarwood", "labdanum"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Burning Rose",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Mystery Tobacco",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["patchouli", "davana", "vetiver", "tonka bean"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Oud Couture",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Nightfall Patchouli",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Amazonian Rose",
+      "collection": "Herrera Confidential",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "212 Men",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "212 VIP Black",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "212 VIP Rosé",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Bad Boy",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Bad Boy Extreme",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "CH Men",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Good Girl",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Good Girl Blush",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Good Girl Blush Elixir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Good Girl Jasmine Absolute",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "La Bomba",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "La Bomba Intensa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Very Good Girl Elixir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+      ]
+    }
+  ]
+}
