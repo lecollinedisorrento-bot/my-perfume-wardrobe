@@ -553,7 +553,7 @@
   position: relative;
   width: min(92vw, 440px);
   aspect-ratio: 1;
-  margin: 14px auto 0;
+  margin: 14px auto 38px; /* room for the flick hint under the wheel */
 }
 .wheel {
   position: relative; /* above the frame's shadow */
@@ -753,18 +753,18 @@
 }
 .slots-banner {
   position: absolute;
+  z-index: 4; /* above the cabinet artwork, over the coin tray */
   left: 50%;
-  bottom: -18px;
+  bottom: 4%;
   transform: translateX(-50%) rotate(-3deg);
   background: var(--lime);
   color: var(--ink);
   border: 3px solid var(--ink);
   border-radius: 99px;
   padding: 6px 18px;
-  font-size: 16px;
-  box-shadow: 0 3px 0 var(--ink);
-  animation: toast-in 420ms var(--ease-out) both;
+  font-size: 15px;
   white-space: nowrap;
+  box-shadow: 0 4px 0 var(--ink);
 }
 .lever {
   --pull: 0;
@@ -1544,4 +1544,19 @@
   gap: 8px;
   padding-right: 88px;
   min-height: 56px;
+}
+
+.wheel-hint {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -30px;
+  text-align: center;
+}
+
+/* Long perfume names must stay inside the result card. */
+.result-name {
+  /* ~0.85em per display letter: fit the longest word in the ~44vw name column. */
+  font-size: clamp(14px, calc(44vw / var(--longest, 8) / 0.85), 26px);
+  overflow-wrap: break-word; /* split a word only if it can't fit at all */
 }

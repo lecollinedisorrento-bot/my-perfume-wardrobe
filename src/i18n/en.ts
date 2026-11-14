@@ -387,6 +387,7 @@ export const en = {
   'spin.eligible1': '1 in the draw',
   'spin.sample': 'Wheel shows {shown} of {n}. Every eligible perfume has the same chance.',
   'spin.result': 'Fate says…',
+  'spin.flickHint': 'Tap SPIN, or flick the wheel with your finger',
   'spin.addRotation': 'Add to today’s rotation',
   'spin.added': 'Added to today’s rotation',
   'spin.fullProfile': 'Full profile',

@@ -279,16 +279,16 @@ function Wheel({ eligible, reduced, spinning, setSpinning, onResult, clearResult
   const n = segments.length;
   const seg = 360 / n;
 
-  const spin = () => {
+  const spin = (opts?: { from?: number; turns?: number }) => {
     if (spinning || !eligible.length) return;
     clearResult();
-    const layout = wheelLayout(eligible);
-    const base = rotation % 360;
+    const layout = wheelLayout(eligible); // the winner is drawn here, fairly — the finger only sets the feel
+    const base = (opts?.from ?? rotation) % 360;
     // 1) reset rotation without animation and swap in the new segments
     setAnimate(false);
     setRotation(base);
     setSegments(layout.segments);
-    const target = targetRotation(base, layout.winnerIndex, layout.segments.length, reduced ? 1 : 6);
+    const target = targetRotation(base, layout.winnerIndex, layout.segments.length, reduced ? 1 : (opts?.turns ?? 6));
     pending.current = { winner: layout.winner, index: layout.winnerIndex, target };
     setSpinning(true);
     vibrate(15);
@@ -299,6 +299,49 @@ function Wheel({ eligible, reduced, spinning, setSpinning, onResult, clearResult
         setRotation(target);
       }),
     );
+  };
+
+  // ── Spin it by hand: the wheel follows the finger; a flick sends it spinning. ──
+  const drag = useRef<{ prev: number; rot: number; seg: number; samples: { t: number; r: number }[] } | null>(null);
+  const angleAt = (e: React.PointerEvent) => {
+    const b = wheelRef.current!.getBoundingClientRect();
+    return (Math.atan2(e.clientY - (b.top + b.height / 2), e.clientX - (b.left + b.width / 2)) * 180) / Math.PI;
+  };
+  const onDown = (e: React.PointerEvent<SVGSVGElement>) => {
+    if (spinning || !eligible.length) return;
+    e.currentTarget.setPointerCapture(e.pointerId);
+    setAnimate(false);
+    drag.current = { prev: angleAt(e), rot: rotation, seg: segmentAtRotation(rotation, n), samples: [{ t: performance.now(), r: rotation }] };
+  };
+  const onMove = (e: React.PointerEvent<SVGSVGElement>) => {
+    const d = drag.current;
+    if (!d) return;
+    const a = angleAt(e);
+    let diff = a - d.prev;
+    if (diff > 180) diff -= 360;
+    if (diff < -180) diff += 360;
+    d.prev = a;
+    d.rot += diff;
+    setRotation(d.rot);
+    const s = segmentAtRotation(d.rot, n);
+    if (s !== d.seg) {
+      d.seg = s;
+      sfx.tick();
+      vibrate(4);
+      pointerRef.current?.animate([{ transform: 'translateX(-50%) rotate(-18deg)' }, { transform: 'translateX(-50%) rotate(0)' }], { duration: 120 });
+    }
+    const now = performance.now();
+    d.samples.push({ t: now, r: d.rot });
+    while (d.samples.length > 2 && now - d.samples[0].t > 120) d.samples.shift();
+  };
+  const onUp = () => {
+    const d = drag.current;
+    drag.current = null;
+    if (!d || d.samples.length < 2) return;
+    const first = d.samples[0];
+    const last = d.samples[d.samples.length - 1];
+    const v = Math.abs((last.r - first.r) / Math.max(1, last.t - first.t)); // degrees per ms
+    if (v >= 0.25) spin({ from: d.rot, turns: Math.max(3, Math.min(9, Math.round(v * 4))) });
   };
 
   // Ticks while spinning: read the live transform and click on segment changes.
@@ -350,7 +393,13 @@ function Wheel({ eligible, reduced, spinning, setSpinning, onResult, clearResult
         aria-label={`${t('spin.wheel')}: ${segments.map((s) => s.name).join(', ')}`}
         data-testid="wheel"
         data-rotation={rotation}
+        onPointerDown={onDown}
+        onPointerMove={onMove}
+        onPointerUp={onUp}
+        onPointerCancel={onUp}
         style={{
+          touchAction: 'none',
+          cursor: spinning ? 'default' : 'grab',
           transform: `rotate(${rotation}deg)`,
           transition: animate ? `transform ${duration}ms ${WHEEL_EASING}` : 'none',
         }}
@@ -390,9 +439,10 @@ function Wheel({ eligible, reduced, spinning, setSpinning, onResult, clearResult
           return <circle key={i} cx={103.5 * Math.cos(a)} cy={103.5 * Math.sin(a)} r="2.1" fill={i % 2 ? 'var(--lime)' : '#fff'} />;
         })}
       </svg>
-      <button className="wheel-hub" onClick={spin} disabled={spinning} data-testid="spin-button" aria-label={t('spin.go')}>
+      <button className="wheel-hub" onClick={() => spin()} disabled={spinning} data-testid="spin-button" aria-label={t('spin.go')}>
         <span className="display">{spinning ? '···' : t('spin.go')}</span>
       </button>
+      <p className="tiny dim wheel-hint">{t('spin.flickHint')}</p>
       {eligible.length > MAX_WHEEL_SEGMENTS && <p className="tiny dim wheel-note">{t('spin.sample', { shown: MAX_WHEEL_SEGMENTS, n: eligible.length })}</p>}
     </div>
   );
@@ -479,6 +529,23 @@ function Lever({ pulled, disabled, onPull, label }: { pulled: boolean; disabled:
   );
 }
 
+const REEL_EASE = [0.2, 0.75, 0.25, 1.06] as const;
+
+/** Times (0..1 of the duration) when a cubic-bezier easing passes each of `steps` equal steps. */
+function stepTimes(steps: number, [x1, y1, x2, y2]: readonly [number, number, number, number]): number[] {
+  const bez = (a: number, b: number, s: number) => 3 * a * s * (1 - s) ** 2 + 3 * b * s * s * (1 - s) + s ** 3;
+  const out: number[] = [];
+  let k = 1;
+  for (let i = 1; i <= 400 && k <= steps; i++) {
+    const s = i / 400;
+    while (k <= steps && bez(y1, y2, s) >= k / steps) {
+      out.push(bez(x1, x2, s));
+      k++;
+    }
+  }
+  return out;
+}
+
 function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult }: GameProps) {
   const { t } = useI18n();
   const byId = useMemo(() => new Map(eligible.map((f) => [f.id, f])), [eligible]);
@@ -530,6 +597,11 @@ function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult
     setStrips(next);
     setSpinning(true);
     vibrate(15);
+    // One click per symbol passing each window, following the same easing as the reels.
+    sfx.reels(
+      next.map((s, r) => stepTimes(s.length - 1, REEL_EASE).map((x) => (x * durations[r]) / 1000)),
+      durations.map((d) => d / 1000),
+    );
     requestAnimationFrame(() =>
       requestAnimationFrame(() => {
         setAnimate(true);
@@ -538,7 +610,6 @@ function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult
     );
     durations.forEach((d, i) =>
       setTimeout(() => {
-        sfx.reelStop();
         vibrate(25);
         if (i === 2) {
           setOutcome(out);
@@ -568,7 +639,7 @@ function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult
               className="reel-strip"
               style={{
                 transform: `translateY(-${offsets[r]}px)`,
-                transition: animate ? `transform ${durations[r]}ms cubic-bezier(0.2, 0.75, 0.25, 1.06)` : 'none',
+                transition: animate ? `transform ${durations[r]}ms cubic-bezier(${REEL_EASE.join(', ')})` : 'none',
                 filter: spinning && animate ? 'blur(0.6px)' : 'none',
               }}
             >
@@ -641,7 +712,12 @@ function ResultCard({ f, label, onAdd }: { f: Fragrance; label?: string; onAdd: 
         </div>
         <div className="stack" style={{ ['--gap' as string]: '6px', minWidth: 0 }}>
           <span className="kicker">{f.brand}</span>
-          <h2 className="display" style={{ fontSize: 26 }} data-testid="result-name">
+          <h2
+            className="display result-name"
+            data-testid="result-name"
+            // Size to the longest word so names like "Aphrodisiac" stay whole.
+            style={{ ['--longest' as string]: Math.max(8, ...f.name.split(/\s+/).map((w) => w.length)) }}
+          >
             {f.name}
           </h2>
           {f.family && <span className="small" style={{ fontWeight: 700 }}>{resolveFamily(f.family)?.id ?? f.family}</span>}
