@@ -1,0 +1,371 @@
+{
+  "brand": "Calvin Klein",
+  "slug": "calvin-klein",
+  "officialSite": "https://www.calvinklein.us/en/men/fragrance/fragrance",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "calvinklein.us, calvinklein.co.uk and calvinklein.lt returned HTTP 403/503 to WebFetch, so the official range could not be read; only its URLs appear in WebSearch results. The range (24 items) comes from the perfumesfragrance.com Calvin Klein collection page and its Shopify product feed (retailer, notes reported). Concentration is taken from the feed's product_type where it is given; blank where not stated. Notes for 'Eternity for Men' not available (feed truncated). The feed was read only up to its first 12 products; the rest of the collection is covered only by the collection page names.",
+  "fragrances": [
+    {
+      "name": "Euphoria for Women",
+      "collection": "Euphoria",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pomegranate", "persimmon", "green accords"], "heart": ["black orchid", "lotus blossom", "champaca flower"], "base": ["amber", "mahogany", "musk", "creamy accord"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-euphoria-perfume-for-woman", "name": "Perfumes Fragrance - Calvin Klein Euphoria Perfume For Woman", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Obsession for Women",
+      "collection": "Obsession",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "peach", "lemon", "vanilla", "basil"], "heart": ["jasmine", "orange blossom", "rose", "coriander", "cedarwood"], "base": ["amber", "vanilla", "musk", "civet", "incense", "vetiver", "oakmoss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-obsession-perfume-for-women", "name": "Perfumes Fragrance - Calvin Klein Obsession Perfume For Women", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Obsession for Men",
+      "collection": "Obsession",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "cinnamon", "coriander", "lime"], "heart": ["jasmine", "myrrh", "nutmeg", "carnation", "pine", "sage"], "base": ["amber", "sandalwood", "musk", "vanilla", "vetiver", "patchouli"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-obsession-cologne-for-men", "name": "Perfumes Fragrance - Calvin Klein Obsession Cologne For Men", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Sheer Beauty for Women",
+      "collection": "Sheer Beauty",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["peach bellini accord", "red berries", "bergamot"], "heart": ["pink lily", "jasmine", "peony"], "base": ["musk", "sandalwood", "vanilla blossom"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-sheer-beauty-for-woman", "name": "Perfumes Fragrance - Calvin Klein Sheer Beauty For Woman", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Eternity for Women",
+      "collection": "Eternity",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "freesia", "sage"], "heart": ["lily", "jasmine", "marigold", "narcissus", "rose", "lily of the valley"], "base": ["sandalwood", "amber", "musk", "patchouli"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-eternity-perfume-for-woman", "name": "Perfumes Fragrance - Calvin Klein Eternity Perfume For Woman", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Eternity Aqua for Men",
+      "collection": "Eternity",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["citrus", "cucumber", "green leaves", "lotus"], "heart": ["szechuan pepper", "mirabelle plum", "lavender", "cedarwood"], "base": ["sandalwood", "musk", "patchouli", "guaiac wood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-eternity-aqua-for-man", "name": "Perfumes Fragrance - Calvin Klein Eternity Aqua For Man", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Eternity for Men",
+      "collection": "Eternity",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-eternity-edt-for-man", "name": "Perfumes Fragrance - Calvin Klein Eternity EDT For Man", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "My Euphoria for Women",
+      "collection": "Euphoria",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["raspberry", "black currant", "mandarin orange"], "heart": ["jasmine", "orchid", "rose petals"], "base": ["patchouli", "amber", "sandalwood", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-my-euphoria-for-woman", "name": "Perfumes Fragrance - Calvin Klein My Euphoria For Woman", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Man Black Cologne",
+      "collection": "Man",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["rosemary", "mandarin", "bergamot", "violet leaf"], "heart": ["nutmeg", "bay leaf", "incense", "mint"], "base": ["cypress wood", "guaiac wood", "sandalwood", "musk", "amber"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-man-black-cologne", "name": "Perfumes Fragrance - Calvin Klein Man Black Cologne", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "CK Free for Men",
+      "collection": "CK Free",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["absinthe", "jackfruit", "star anise", "juniper berry"], "heart": ["suede", "coffee", "tobacco", "buchu"], "base": ["patchouli", "cedarwood", "oakwood", "ironwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-ck-free-for-man", "name": "Perfumes Fragrance - Calvin Klein CK Free For Man", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Euphoria for Men",
+      "collection": "Euphoria",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["ginger", "pepper", "raindrop accord"], "heart": ["black basil", "sage", "cedar leaf"], "base": ["suede", "patchouli", "amber", "brazilian redwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-euphoria-for-man", "name": "Perfumes Fragrance - Calvin Klein Euphoria For Man", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Euphoria Essence for Men",
+      "collection": "Euphoria",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "ivy leaf", "blue amber"], "heart": ["sage", "suede", "spicy tonka bean"], "base": ["guaiac wood", "amber", "patchouli"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-euphoria-essence-for-men", "name": "Perfumes Fragrance - Calvin Klein Euphoria Essence For Men", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Eternity Flame for Women",
+      "collection": "Eternity",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Eternity Flame for Men",
+      "collection": "Eternity",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Eternity Air for Women",
+      "collection": "Eternity",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Eternity Air for Men",
+      "collection": "Eternity",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Escape for Women",
+      "collection": "Escape",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Escape for Men",
+      "collection": "Escape",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Truth for Women",
+      "collection": "Truth",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "CK Truth for Men",
+      "collection": "Truth",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Shock for Women",
+      "collection": "Shock",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "CK Shock for Men",
+      "collection": "Shock",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "CK One Gold",
+      "collection": "CK One",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    },
+    {
+      "name": "Obsession Night for Women",
+      "collection": "Obsession",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+      ]
+    }
+  ]
+}

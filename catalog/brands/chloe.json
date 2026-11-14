@@ -1,0 +1,86 @@
+{
+  "brand": "Chloé",
+  "slug": "chloe",
+  "officialSite": "https://www.chloe.com/",
+  "distributors": [],
+  "country": "France",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official chloe.com US product pages were readable with WebFetch (5 eau de parfum pages); each fragrance's notes, concentration and perfumer come from its own official page. Only the product pages surfaced by WebSearch were used; the full official listing was not paginated, so the range is partial. Country 'France' is from a Scento page snippet (WebSearch). No launch years were stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Chloé Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["peony"], "heart": ["rose petal", "magnolia"], "base": ["cedar", "ambergris"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64980409.html", "name": "Chloé — Eau de Parfum 2.5 fl oz", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Chloé Nomade Eau de Parfum",
+      "collection": "Nomade",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mirabelle plum"], "heart": ["freesia"], "base": ["oak moss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64994055.html", "name": "Chloé — Nomade Eau de Parfum 1.7 fl oz", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Chloé Love Story Eau de Parfum",
+      "collection": "Love Story",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["neroli"], "heart": ["orange blossom", "stephanotis jasmine"], "base": ["cedarwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64788118.html", "name": "Chloé — Love Story Eau de Parfum 2.5 fl oz", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Chloé Rose Naturelle Eau de Parfum",
+      "collection": "Naturelle",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Michel Almairac",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cedrat", "cassis bourgeon absolute"], "heart": ["organic rose", "neroli"], "base": ["cedar", "mimosa absolute"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50133820.html", "name": "Chloé — Rose Naturelle Eau de Parfum 3.4 fl oz", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Chloé Eau de Parfum Lumineuse",
+      "collection": "Lumineuse",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Ane Ayo",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["sambac jasmine"], "heart": ["rose"], "base": ["vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50181556.html", "name": "Chloé — Eau de Parfum Lumineuse 1.7 fl oz", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    }
+  ]
+}
