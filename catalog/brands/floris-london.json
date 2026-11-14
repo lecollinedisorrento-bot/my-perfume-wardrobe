@@ -1,0 +1,814 @@
+{
+  "brand": "Floris London",
+  "slug": "floris-london",
+  "officialSite": "https://www.florislondon.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site florislondon.com. Names come from the official fragrance collection listing (opened). Official product pages returned only navigation text, so no official notes were read; N° 89 notes come from reported database and retailer search results (Parfumo, 50-ml). Concentrations are from product titles/URL paths where stated; null otherwise. Ledger Series items and gift/candle/home items were not checked individually. Research stopped by tool rate limit. Country not stated.",
+  "fragrances": [
+    {
+      "name": "N° 89",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lavender",
+          "neroli",
+          "nutmeg",
+          "orange",
+          "petitgrain"
+        ],
+        "heart": [
+          "geranium",
+          "rose",
+          "ylang-ylang",
+          "orris"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "oakmoss",
+          "sandalwood",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfumo.com/Perfumes/Floris/No_89_Eau_de_Toilette",
+          "name": "Parfumo - Floris No 89 Eau de Toilette",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://50-ml.com/floris-no-89-eau-de-toilette",
+          "name": "50-ml - Floris No 89 Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.florislondon.com/products/no-89-eau-de-toilette",
+          "name": "Floris London - No 89 Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "71/72",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (71/72)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bergamotto di Positano",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Bergamotto di Positano)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Celest",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Celest)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Elite)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Golden Amber",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Golden Amber)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "JF",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (JF)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leather Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Leather Oud)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Limes",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Limes)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neroli Voyage",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Neroli Voyage)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special N° 127",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Special N° 127)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santal Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Santal Intense)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wilde",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Wilde)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bouquet de La Reine",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Bouquet de La Reine)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cherry Blossom",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Cherry Blossom)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chypress",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Chypress)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lily",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Lily)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Night Scented Jasmine",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Night Scented Jasmine)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Purple Mèmoire",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Purple Mèmoire)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sirena",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Sirena)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tuberose in Silk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Tuberose in Silk)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "White Rose",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (White Rose)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cefiro",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Cefiro)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Honey Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Honey Oud)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Jermyn Street",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Jermyn Street)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Mulberry Fig",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Mulberry Fig)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Santal",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Santal)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "A Rose For...",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (A Rose For...)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Platinum 22",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.florislondon.com/collections/fragrance",
+          "name": "Floris London - fragrance collection (Platinum 22)",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

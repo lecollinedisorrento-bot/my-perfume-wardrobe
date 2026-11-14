@@ -1,0 +1,314 @@
+{
+  "brand": "Parfums de Nicolaï",
+  "slug": "parfums-de-nicolai",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site not reachable: the session cannot resolve the brand's domain (DNS failure), so this file relies on retailer listings. Only Ambre Cashmere Intense has notes, from Parfumo and retailer search snippets; the other names come from retailer listings with no notes read. Retailer listing pages were not all opened, so this catalogue is incomplete. Country and founding year not confirmed from pages read.",
+  "fragrances": [
+    {
+      "name": "Ambre Cashmere Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "citron",
+          "black pepper",
+          "mandarin"
+        ],
+        "heart": [
+          "iris",
+          "violet",
+          "clove"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "labdanum",
+          "benzoin",
+          "tonka bean",
+          "sandalwood",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nicolai/Ambre_Cashmere_Intense",
+          "name": "Parfumo - Ambre Cashmere Intense",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/parfums-de-nicolai-ambre-cashmere-intense-eau-de-parfum-intense",
+          "name": "Scents Angel - Ambre Cashmere Intense",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baikal Leather Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Cuir Cuba Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Fig-Tea",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Incense Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "L'Eau Mixte",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Patchouli Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Pavlova",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Poudre de Musc",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Saint Honoré",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Eau de Yuzu",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://beautyhabit.com/collections/parfums-de-nicolai/edp",
+          "name": "Beauty Habit - Parfums de Nicolai (EDP listing)",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "brand": "Atelier Cologne",
+  "slug": "atelier-cologne",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site not usable: the domain atelier-cologne.com redirects to a parked-domain page, and ateliercologne.com was not reachable. L'Oréal brand pages list only 2 collections (Absolue, Rare) with no product names. Only one product page was opened and kept. Other names seen in search snippets (Orange Sanguine, Clémentine California, Pomélo Paradis, Bohemian Orange Blossom, Santal Carmin, Rare Rose Cuirée, Rare Gaiac Eternel, Rare Éclat de Tubereuse, Rare Mandarine Fauve, Rare Encens Céleste) were not added because no opened page listed them. Country and founding year not confirmed on pages read.",
+  "fragrances": [
+    {
+      "name": "Cèdre Atlas",
+      "collection": "Absolue",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.ausliebezumduft.de/en/products/atelier-cologne-the-absolue-collection-cedre-atlas",
+          "name": "Aus Liebe zum Duft - Atelier Cologne Absolue Cèdre Atlas",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

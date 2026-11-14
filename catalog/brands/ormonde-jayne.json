@@ -1,0 +1,599 @@
+{
+  "brand": "Ormonde Jayne",
+  "slug": "ormonde-jayne",
+  "officialSite": "https://ormondejayne.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify site ormondejayne.com. Collections page lists 91 items, only 8 visible without load-more; names for Montabaco Intensivo, Nawab of Oudh Intensivo, Oud Liaisons and Bijou Zafran come from the collection listing with no notes read (research stopped by a tool rate limit). Notes for 11 entries read from official product pages (head/heart/soul mapped to top/heart/base). 2.5ml discovery vials and room/candle items skipped. Perfumer only where the product page names one. Year not stated on pages read. Country not stated.",
+  "fragrances": [
+    {
+      "name": "Ambre Royal",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amberesque",
+      "accords": [],
+      "notes": {
+        "top": [
+          "green notes",
+          "orange absolute",
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine absolute",
+          "osmanthus",
+          "rose oil",
+          "amber",
+          "orris butter",
+          "orchid oil"
+        ],
+        "base": [
+          "cedarwood",
+          "ambroxan",
+          "tonka",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/ambre-royal",
+          "name": "Ormonde Jayne - Ambre Royal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arabesque",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amberesque / Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "bergamot",
+          "black pepper",
+          "saffron"
+        ],
+        "heart": [
+          "jasmine",
+          "rose absolute"
+        ],
+        "base": [
+          "musk",
+          "moss",
+          "patchouli",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/arabesque",
+          "name": "Ormonde Jayne - Arabesque",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Babylonia",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "davana",
+          "pink pepper",
+          "blackcurrant"
+        ],
+        "heart": [
+          "iris butter",
+          "violet",
+          "bluebell",
+          "orange blossom"
+        ],
+        "base": [
+          "white musk",
+          "siam benzoin",
+          "vanilla absolute",
+          "praline"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/babylonia",
+          "name": "Ormonde Jayne - Babylonia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bukhara",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity / Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "peach",
+          "blackcurrant"
+        ],
+        "heart": [
+          "tuberose",
+          "orange blossom",
+          "jasmine sambac"
+        ],
+        "base": [
+          "sandalwood",
+          "white cedarwood",
+          "vanilla",
+          "oud",
+          "dry amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/bukhara",
+          "name": "Ormonde Jayne - Bukhara",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Damask",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "argentine lemon",
+          "pear"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "pink berries"
+        ],
+        "base": [
+          "mineral amber",
+          "musk",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/damask",
+          "name": "Ormonde Jayne - Damask",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Levant",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "tangelo",
+          "rose petals"
+        ],
+        "heart": [
+          "lily of the valley",
+          "peony",
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "cedarwood",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/levant",
+          "name": "Ormonde Jayne - Levant",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verano",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus / Amberesque / Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "bergamot",
+          "orange absolute",
+          "juniper",
+          "clary sage",
+          "cardamom"
+        ],
+        "heart": [
+          "magnolia",
+          "rose",
+          "violet",
+          "tea"
+        ],
+        "base": [
+          "cashmeran",
+          "tobacco leaf",
+          "iso e super",
+          "suede",
+          "sandalwood",
+          "moss",
+          "tonka",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/verano",
+          "name": "Ormonde Jayne - Verano",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sakura",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "green notes",
+          "pink pepper",
+          "bergamot",
+          "lime",
+          "mandarin",
+          "coriander seed"
+        ],
+        "heart": [
+          "cherry blossom",
+          "waterlily",
+          "osmanthus",
+          "rose",
+          "freesia",
+          "cyclamen",
+          "violet"
+        ],
+        "base": [
+          "sandalwood",
+          "madagascan vanilla",
+          "musk",
+          "amber",
+          "cedarwood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/sakura",
+          "name": "Ormonde Jayne - Sakura",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champaca",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "neroli",
+          "pink pepper",
+          "bamboo"
+        ],
+        "heart": [
+          "champaca absolute",
+          "freesia absolute",
+          "basmati rice"
+        ],
+        "base": [
+          "myrrh",
+          "green tea",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/champaca-1",
+          "name": "Ormonde Jayne - Champaca",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Aube",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Élodie Bernard",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pistachio",
+          "cardamom",
+          "black pepper",
+          "pomegranate"
+        ],
+        "heart": [
+          "iris",
+          "cashmeran",
+          "fig"
+        ],
+        "base": [
+          "sandalwood",
+          "vetiver",
+          "ambergris",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/vanilla-aube",
+          "name": "Ormonde Jayne - Vanilla Aube",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Patchouli d'Atlas",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Céline Ripert",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "cardamom",
+          "lemon",
+          "saffron"
+        ],
+        "heart": [
+          "cedarwood",
+          "amber",
+          "cashmeran",
+          "akigalawood"
+        ],
+        "base": [
+          "patchouli",
+          "ambroxan",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/products/patchouli-datlas",
+          "name": "Ormonde Jayne - Patchouli d'Atlas",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Montabaco Intensivo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/collections/all",
+          "name": "Ormonde Jayne - all products",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Nawab of Oudh Intensivo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/collections/all",
+          "name": "Ormonde Jayne - all products",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Oud Liaisons",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/collections/all",
+          "name": "Ormonde Jayne - all products",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Bijou Zafran",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://ormondejayne.com/collections/all",
+          "name": "Ormonde Jayne - all products",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

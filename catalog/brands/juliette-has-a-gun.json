@@ -1,0 +1,416 @@
+{
+  "brand": "Juliette Has a Gun",
+  "slug": "juliette-has-a-gun",
+  "officialSite": "https://www.juliettehasagun.com/en",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Shopify storefront (us.juliettehasagun.com). Range from /collections/classic/products.json and /products.json feeds (truncated, so not every item is covered). One official product page per fragrance for concentration, family ('Perfume Family' label where present), notes and accords. Handles taken from the feed that returned no product page (e.g. Magnolia Bliss) are omitted. Deluxe samples, travel sprays, pouches, sets, candles, body products and gift items skipped. Not blocked.",
+  "fragrances": [
+    {
+      "name": "Not a Perfume",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Musky, Ambery",
+      "accords": [],
+      "notes": { "top": ["cetalox"], "heart": ["cetalox"], "base": ["cetalox"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/not-a-perfume-parfum", "name": "Juliette Has a Gun — Not a Perfume", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Superdose",
+      "collection": null,
+      "concentration": "20%",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, Musky, Ambery",
+      "accords": [],
+      "notes": { "top": ["cetalox"], "heart": ["cetalox"], "base": ["cetalox"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/not-a-perfume-superdose", "name": "Juliette Has a Gun — Superdose", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Pear Inc.",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Musky Fruity",
+      "accords": [],
+      "notes": { "top": ["green pear"], "heart": ["ambroxan"], "base": ["musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/pear-inc", "name": "Juliette Has a Gun — Pear Inc.", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Musc Invisible",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Powdery Musk",
+      "accords": [],
+      "notes": { "top": ["jasmine absolute"], "heart": ["cotton flower"], "base": ["white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/musc-invisible-1", "name": "Juliette Has a Gun — Musc Invisible", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Vanilla Vibes",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery, Fresh, Gourmand",
+      "accords": [],
+      "notes": { "top": ["sea salt"], "heart": ["natural vanilla absolute", "orchid absolute"], "base": ["brown musk", "benzoin absolute", "sandalwood", "tonka bean"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/vanilla-vibes", "name": "Juliette Has a Gun — Vanilla Vibes", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Lipstick Fever",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Fruity",
+      "accords": [],
+      "notes": { "top": ["raspberry", "violet absolute"], "heart": ["patchouli essence", "iris absolute"], "base": ["vanilla absolute"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/lipstick-fever", "name": "Juliette Has a Gun — Lipstick Fever", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Lady Vengeance",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Chypre",
+      "accords": [],
+      "notes": { "top": ["lavender essence"], "heart": ["bulgarian rose absolute"], "base": ["vanilla absolute"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/lady-vengeance-parfum", "name": "Juliette Has a Gun — Lady Vengeance", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Moscow Mule",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus Floral",
+      "accords": [],
+      "notes": { "top": ["lime essence"], "heart": ["ginger essence"], "base": ["ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/moscow-mule", "name": "Juliette Has a Gun — Moscow Mule", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Lili Fantasy",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery Floral",
+      "accords": ["ambery"],
+      "notes": { "top": ["bubble gum"], "heart": ["jasmine absolute", "tuberose absolute"], "base": ["ambery accord", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/lili-fantasy", "name": "Juliette Has a Gun — Lili Fantasy", "type": "official", "supports": ["concentration", "family", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Sunny Side Up",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Floral",
+      "accords": ["sandalwood cream"],
+      "notes": { "top": ["jasmine absolute"], "heart": ["sandalwood"], "base": ["vanilla absolute"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/sunny-side-up", "name": "Juliette Has a Gun — Sunny Side Up", "type": "official", "supports": ["concentration", "family", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Another Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": { "top": ["bergamot essence"], "heart": ["oud wood", "raspberry"], "base": ["musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/another-oud", "name": "Juliette Has a Gun — Another Oud", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Mmmm...",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floriental Gourmand",
+      "accords": [],
+      "notes": { "top": ["neroli essence"], "heart": ["orange blossom absolute"], "base": ["patchouli essence"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/mmmm", "name": "Juliette Has a Gun — Mmmm...", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Anyway",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Citrus",
+      "accords": [],
+      "notes": { "top": ["lime essence"], "heart": ["jasmine absolute"], "base": ["ambroxan", "hedione"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/anyway", "name": "Juliette Has a Gun — Anyway", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Gentlewoman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Cologne",
+      "accords": [],
+      "notes": { "top": ["bergamot essence", "neroli essence"], "heart": ["almond essence"], "base": ["musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/gentlewoman", "name": "Juliette Has a Gun — Gentlewoman", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Miss Charming",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Gourmand",
+      "accords": [],
+      "notes": { "top": ["moroccan rose"], "heart": ["wild berries"], "base": ["musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/miss-charming", "name": "Juliette Has a Gun — Miss Charming", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Midnight Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": { "top": ["rose essence"], "heart": ["oud wood"], "base": ["saffron absolute"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/midnight-oud", "name": "Juliette Has a Gun — Midnight Oud", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Ode to Dullness",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Musky Floral",
+      "accords": [],
+      "notes": { "top": ["badiane", "freesia"], "heart": ["cashmere flower", "sandalwood"], "base": ["tonka bean", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/ode-to-dullness", "name": "Juliette Has a Gun — Ode to Dullness", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Purple Trouble",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity Musky",
+      "accords": ["red chili pepper"],
+      "notes": { "top": ["wild blackberry"], "heart": ["red chili pepper"], "base": ["ambroxan", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/purple-trouble", "name": "Juliette Has a Gun — Purple Trouble", "type": "official", "supports": ["concentration", "family", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Banana Rush",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm Gourmand",
+      "accords": [],
+      "notes": { "top": ["banana", "maple syrup"], "heart": ["coconut", "frangipani flower"], "base": ["vanilla", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/banana-rush", "name": "Juliette Has a Gun — Banana Rush", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Liquid Illusion",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Ambery",
+      "accords": [],
+      "notes": { "top": ["iris"], "heart": ["heliotropin"], "base": ["tonka bean", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/liquid-illusion-bold-collection", "name": "Juliette Has a Gun — Liquid Illusion", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Madeleine Impériale",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oud Gourmand",
+      "accords": [],
+      "notes": { "top": ["blood orange"], "heart": ["baked madeleine", "patchouli", "saffron"], "base": ["vanilla", "oud wood", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/madeleine-imperiale-bold-collection", "name": "Juliette Has a Gun — Madeleine Impériale", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "White Spirit",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Woody",
+      "accords": [],
+      "notes": { "top": ["jasmine absolute"], "heart": ["tuberose", "sandalwood"], "base": ["cetalox"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/white-spirit-bold-collection", "name": "Juliette Has a Gun — White Spirit", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Oil Fiction",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery",
+      "accords": ["woody"],
+      "notes": { "top": ["saffron"], "heart": ["tuberose", "amber"], "base": ["vanilla", "woody accord"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/oil-fiction-bold-collection", "name": "Juliette Has a Gun — Oil Fiction", "type": "official", "supports": ["concentration", "family", "notes", "accords"] }
+      ]
+    },
+    {
+      "name": "Ex Vetiver",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus Woody",
+      "accords": [],
+      "notes": { "top": ["bergamot essence", "lemon essence"], "heart": ["vetiver des sables", "vetiver haiti", "vetiver indonesia"], "base": ["ambroxan", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/ex-vetiver", "name": "Juliette Has a Gun — Ex Vetiver", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Lust for Sun",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Solar Floral",
+      "accords": [],
+      "notes": { "top": ["freesia"], "heart": ["ylang ylang", "orange blossom", "coconut"], "base": ["vanilla", "musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/lust-for-sun", "name": "Juliette Has a Gun — Lust for Sun", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Juliette",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity Floral Woody",
+      "accords": [],
+      "notes": { "top": ["dark cherry", "pink pepper"], "heart": ["jasmine absolute", "cashmeran"], "base": ["tonka bean", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/juliette", "name": "Juliette Has a Gun — Juliette", "type": "official", "supports": ["concentration", "family", "notes"] }
+      ]
+    },
+    {
+      "name": "Miami Shake",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Creamy Gourmand",
+      "accords": ["wild strawberry"],
+      "notes": { "top": ["wild strawberry"], "heart": ["whipped cream", "orange blossom", "ice cream cone"], "base": ["vanilla absolute", "creamy musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.juliettehasagun.com/products/miami-shake", "name": "Juliette Has a Gun — Miami Shake", "type": "official", "supports": ["concentration", "family", "notes", "accords"] }
+      ]
+    }
+  ]
+}

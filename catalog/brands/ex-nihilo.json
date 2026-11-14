@@ -1,0 +1,326 @@
+{
+  "brand": "Ex Nihilo",
+  "slug": "ex-nihilo",
+  "officialSite": "https://www.ex-nihilo-paris.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site read via the US storefront (us.ex-nihilo-paris.com) and the French site (www.ex-nihilo-paris.com). The US products.json feed returned HTTP 500, so the range was taken from the collection listing pages (first 20 items plus the first 8 items of the French /collections/all page, which has a Load more link that was not followed). Coverage is therefore partial. Included: eau de parfum and extrait lines plus Generation(s) (alcohol-free EDP). Skipped: sets, discovery and travel kits, miniatures, laundry, candles and gift cards. Notes, perfumer and concentration come from official product pages (noteSource official). Official pages state no launch year, so releaseYear is null. Brand country is not stated on the pages read. Brompton Immortals lists the house name in the perfumer field, so perfumer is null for it.",
+  "fragrances": [
+    {
+      "name": "Fleur Narcotique",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lychee", "peach"], "heart": ["petalia", "orange blossom", "jasmine"], "base": ["musk", "transparent wood", "moss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/fleur-narcotique-eau-de-parfum", "name": "Ex Nihilo - Fleur Narcotique", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Fleur Narcotique",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["osmanthus", "bergamot", "lychee"], "heart": ["freesia", "jasmine", "petalia", "orange blossom"], "base": ["oakmoss", "sandalwood", "musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/fleur-narcotique-extrait-de-parfum", "name": "Ex Nihilo - Fleur Narcotique Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Blue Talisman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pear", "bergamot", "ginger", "mandarin"], "heart": ["orange blossom", "georgywood"], "base": ["ambrofix", "akigalawood", "musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/blue-talisman-eau-de-parfum", "name": "Ex Nihilo - Blue Talisman", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Blue Talisman",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pear", "bergamot"], "heart": ["orange blossom", "jasmine"], "base": ["sandalwood", "vanilla", "musks", "ambrofix", "ambery woods"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/blue-talisman-extrait", "name": "Ex Nihilo - Blue Talisman Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Lust in Paradise",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Louise Turner",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "rosyfolia"], "heart": ["petalia", "rose absolute"], "base": ["musk", "white cedarwood", "ambrofix"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/lust-in-paradise-eau-de-parfum", "name": "Ex Nihilo - Lust in Paradise", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Lust in Paradise",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Louise Turner",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["blackcurrant", "pink pepper", "rosyfolia", "ginger"], "heart": ["petalia", "rose absolute", "jasmine sambac"], "base": ["akigalawood", "cedarwood", "ambrofix", "musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/lust-in-paradise-extrait-de-parfum", "name": "Ex Nihilo - Lust in Paradise Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "The Hedonist",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "ginger"], "heart": ["cedarwood", "akigalawood"], "base": ["vetiver", "musks", "tonka bean"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/the-hedonist-eau-de-parfum", "name": "Ex Nihilo - The Hedonist", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "The Hedonist",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["grapefruit", "bergamot", "ginger"], "heart": ["akigalawood", "cedarwood", "lychee"], "base": ["ambery woods", "vetiver", "tonka bean", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/the-hedonist-extrait-de-parfum", "name": "Ex Nihilo - The Hedonist Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Spiky Muse",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Louise Turner",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["strawberry", "bergamot", "pink pepper"], "heart": ["rose absolute", "pistachio"], "base": ["cedarwood", "akigalawood", "ambrofix", "tonka bean"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/spiky-muse-eau-de-parfum", "name": "Ex Nihilo - Spiky Muse", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Demon Dancer",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["rhubarb", "bergamot", "peppermint", "blood orange"], "heart": ["orange blossom", "blackcurrant"], "base": ["georgywood", "akigalawood", "ambrofix", "musks", "tonka bean"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/demon-dancer", "name": "Ex Nihilo - Demon Dancer", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Scarlet Sands",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "raspberry"], "heart": ["orange blossom", "jasmine", "freesia"], "base": ["akigalawood", "vanilla", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/scarlet-sands-pos", "name": "Ex Nihilo - Scarlet Sands", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Brompton Immortals",
+      "collection": "Immortals",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron", "pink pepper"], "heart": ["bulgarian rose", "jasmine absolute", "lisylang"], "base": ["amber", "vanilla", "white musk", "oliban", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/brompton-immortals-extrait-pos", "name": "Ex Nihilo - Brompton Immortals", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Vendomania",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "saffron"], "heart": ["jasmine", "iris", "coco"], "base": ["patchouli", "oud accord", "leather accord", "sandalwood", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/vendomania-extrait-de-parfum", "name": "Ex Nihilo - Vendomania", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Oud Vendome",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Olivier Pescheux",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron", "ginger"], "heart": ["cedarwood", "incense"], "base": ["oud accord", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.ex-nihilo-paris.com/products/oud-vendome-eau-de-parfum", "name": "Ex Nihilo - Oud Vendome", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Vetiver Moloko",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Guillaume Flavigny",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "rose"], "heart": ["milky accord", "cypress"], "base": ["vetiver", "vanilla", "amyris"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.ex-nihilo-paris.com/products/vetiver-moloko-eau-de-parfum", "name": "Ex Nihilo - Vetiver Moloko", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Bois d'Hiver",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Michel Girad",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "cardamom"], "heart": ["cyclamen", "heliotrope", "white cedarwood"], "base": ["sandalwood", "patchouli", "musk", "cypriol"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.ex-nihilo-paris.com/products/bois-dhiver-eau-de-parfum", "name": "Ex Nihilo - Bois d'Hiver", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Cologne 352",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jacques Huclier",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon"], "heart": ["orange blossom", "rose", "lily of the valley"], "base": ["white cedarwood", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.ex-nihilo-paris.com/products/cologne-352-eau-de-parfum", "name": "Ex Nihilo - Cologne 352", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Venenum Kiss",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["neroli", "saffron", "nutmeg"], "heart": ["rose absolute", "davana", "amber"], "base": ["ambrofix", "vanilla", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.ex-nihilo-paris.com/products/venenum-kiss-eau-de-parfum", "name": "Ex Nihilo - Venenum Kiss", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Gold Immortals",
+      "collection": "Immortals",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pear", "bergamot"], "heart": ["ylang-ylang", "petalia"], "base": ["ambrofix", "tonka bean", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.ex-nihilo-paris.com/products/gold-immortals-eau-de-parfum", "name": "Ex Nihilo - Gold Immortals", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Iris Porcelana",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Dalia Izem",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["violet leaves"], "heart": ["iris", "rose"], "base": ["sandalwood", "musks", "cedarwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.ex-nihilo-paris.com/products/iris-porcelana-eau-de-parfum", "name": "Ex Nihilo - Iris Porcelana", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Generation(s)",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Nadège Le Garlantezec",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pear", "incense", "pink pepper"], "heart": ["fig accord"], "base": ["sandalwood", "tonka bean", "musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.ex-nihilo-paris.com/products/generations", "name": "Ex Nihilo - Generation(s)", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    }
+  ]
+}
