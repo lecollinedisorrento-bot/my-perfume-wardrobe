@@ -52,8 +52,23 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Le_Labo/AnOther_13/reviews/455965",
+          "name": "Parfumo — Le Labo Another 13 user review",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries of reviews: several sources 6-8 h on skin (one reviewer ~8 h); a dry-weather article reports 4-6 h; sillage described consistently as moderate. Most common view used."
     },
     {
       "name": "Santal 33",
@@ -99,8 +114,23 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Le_Labo/Santal_33_Eau_de_Parfum/reviews/232905",
+          "name": "Parfumo — Le Labo Santal 33 EDP user review",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries of 2025-2026 reviews: 6-12 h on skin (most say 6-10 h, one 8-12 h); sillage described as intimate and close to skin, a review of the solid perfume also calls it subtle."
     },
     {
       "name": "Thé Matcha 26",
@@ -146,8 +176,34 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/the-matcha-26-le-labo",
+          "name": "Scento — Le Labo The Matcha 26",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Search summaries: Scento describes moderate longevity and moderate sillage; Parfumo user ratings vary (longevity 5-8/10). A dupe seller's 6-8 h figure is not used."
     },
     {
       "name": "Thé Noir 29",
@@ -193,8 +249,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/le-labo-th-noir-29",
+          "name": "Vivir — Le Labo Thé Noir 29 review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Vivir review: about 6-8 h on skin, sillage rated 3.0/5 and notably moderate. Parfumo reviewer also 6-8 h; Fragplace user data gives 6-10 h with stronger sillage, Scento notes moderate projection. Most common view used."
     },
     {
       "name": "Rose 31",
@@ -240,8 +311,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Le_Labo/Rose_31_Eau_de_Parfum",
+          "name": "Parfumo — Le Labo Rose 31 EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: retailer copy 8-10 h (marketing), a perfume guide 6-10 h, Parfumo users rate longevity about 7.2/10; sillage moderate, the most consistent point across sources."
     },
     {
       "name": "Neroli 36",

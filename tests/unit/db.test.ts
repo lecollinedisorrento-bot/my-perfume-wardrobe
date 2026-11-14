@@ -12,6 +12,16 @@ beforeEach(async () => {
 });
 
 describe('IndexedDB repository', () => {
+  it('starts light, and only follows the system theme when the user chose it', async () => {
+    expect((await repo.getPrefs()).theme).toBe('light');
+    // An install saved before this default existed (theme "system", never chosen) becomes light…
+    await repo.savePrefs({ ...(await repo.getPrefs()), theme: 'system' });
+    expect((await repo.getPrefs()).theme).toBe('light');
+    // …but an explicit choice in Settings is kept.
+    await repo.savePrefs({ ...(await repo.getPrefs()), theme: 'system', themeChosen: true });
+    expect((await repo.getPrefs()).theme).toBe('system');
+  });
+
   it('persists fragrances, preferences and wears', async () => {
     const f = await repo.saveFragrance(blankFragrance({ brand: 'Amouage', name: 'Reflection' }));
     await repo.addWear({ fragranceId: f.id, day: '2026-11-13', source: 'manual' });

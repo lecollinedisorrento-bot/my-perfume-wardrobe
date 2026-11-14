@@ -29,7 +29,7 @@
           "name": "ZGO Perfumery - Xerjoff TORINO21",
           "type": "retailer",
           "supports": [
-            "performance"
+            "concentration"
           ]
         },
         {
@@ -37,8 +37,7 @@
           "name": "Fragman — Xerjoff Torino 21 EDP review",
           "type": "publication",
           "supports": [
-            "performance",
-            "usage"
+            "performance"
           ]
         }
       ],
@@ -291,8 +290,23 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/xerjoff/40-knots-perfume",
+          "name": "FragranceX — Xerjoff 40 Knots",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Most reviews give 6-8 h; FragranceX lists a typical 6-8 h on skin, Vivir 8-10 h, and some Parfumo users 10+ h. Sillage is strong early on and fades over the day, but no single level is stated, so it is left null."
     },
     {
       "name": "Iommi",
@@ -372,8 +386,23 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://jadof.com/en/news/xerjoff-uden-review",
+          "name": "Jadof — Xerjoff Uden review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Jadof's review site: 8-10 h on most skin (up to 12 on oily skin); Parfumo reviewers report about 7-8 h. Reviewers call sillage average, not room-filling, strongest in the first hour or two. Jadof reads like content marketing, so the Parfumo reports weigh as much."
     },
     {
       "name": "Accento Overdose",

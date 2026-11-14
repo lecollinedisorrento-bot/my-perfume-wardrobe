@@ -159,8 +159,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/creed-wild-vetiver-edp",
+          "name": "Venba — Creed Wild Vetiver EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Venba: 6-8 h, still readable at about 6 h; reviewers report 6-8 h, one 7-8 h. Parfumo users rate sillage solid to elegant, but give no level, so sillage is left null."
     },
     {
       "name": "Oud Zarian",
@@ -786,8 +801,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/creed/aventus-cologne",
+          "name": "The Scent Base — Aventus Cologne",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 1,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Scent Base: about 3 h on average with intimate projection; other reports 2-6 h, and recent batches are said to be weaker. The 6-10 h figures found appear to describe the EDP, so they were not counted."
     },
     {
       "name": "Viking",
@@ -934,8 +964,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/creed-aventus-for-her-edp",
+          "name": "Venba — Creed Aventus for Her EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Venba: most wearers get 6-8 h (shorter on dry skin). Venba rates sillage moderate to strong and Fragrance Review says moderate, so set to 3."
     },
     {
       "name": "Royal Princess Oud",
@@ -1057,8 +1102,31 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://scentgrail.com/perfume-reviews/creed-virgin-island-water-review/",
+          "name": "Scentgrail — Creed Virgin Island Water review (2024)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/au/perfumes/creed/virgin-island-water",
+          "name": "The Scent Base — Virgin Island Water",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 1,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scent Grail: up to about 5 h at best, with almost no sillage after 30 min; The Scent Base: intimate projection, around 3 h on average. Perfume.com claims 4-6 h, which I did not count as the majority view."
     },
     {
       "name": "Love in White",
@@ -1142,8 +1210,31 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/creed/love-in-black/women-perfume",
+          "name": "Perfume.com — Creed Love in Black",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumenez.com/blogs/perfume-guide/creed-love-in-black-review/",
+          "name": "Perfumenez — Creed Love in Black review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Perfume.com and Perfumenez: about 6-8 h on skin. Perfumenez rates sillage strong, and Scento's aggregate gives strong projection. Vivir's 2024 edition is weaker (4-6 h), noted but not counted as the majority."
     },
     {
       "name": "Royal Oud",
@@ -1182,8 +1273,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/creed/royal-oud",
+          "name": "The Scent Base — Royal Oud",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Most Parfumo users give 5-8 h (set to 4 for 6-8 h); The Scent Base aggregate says 6+ h with intimate projection, but most reviews call sillage moderate, so set to 3. Venba's 8-10 h is promotional, not counted."
     },
     {
       "name": "Original Santal",
@@ -1228,8 +1334,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/original-santal-by-creed",
+          "name": "Scento — Original Santal by Creed",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Several sellers and reviews give 6-8 h on skin; Scento describes long-lasting wear with moderate projection. Newer batches reportedly last longer. A Scent Base community figure of 3-6 h was not counted."
     },
     {
       "name": "Original Vetiver",
@@ -1310,8 +1431,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.fragman.com/blogs/fragrance-guide/creed-himalaya-review",
+          "name": "Fragman — Creed Himalaya EDP review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragman review: about 6-8 h depending on skin and weather; FragranceX gives a similar range. Projection is described as modest, moderate for the first 2-3 h, then close to the skin."
     },
     {
       "name": "Tabarome Millésime",

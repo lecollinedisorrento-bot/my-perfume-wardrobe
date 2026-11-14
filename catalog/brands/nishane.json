@@ -702,8 +702,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/nishane/sultan-vetiver",
+          "name": "Thescentbase — Sultan Vetiver (search result text)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nishane/Sultan_Vetiver",
+          "name": "Parfumo — Nishane Sultan Vetiver (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community averages about 8.7/10 longevity and 8.2/10 sillage; Thescentbase lists good projection and 8+ h; Venba claims 10+ h with strong sillage; Beautinow claims 8-10 h with moderate sillage. Most common view: longevity 4 (typically 8-10 h), sillage 4."
     },
     {
       "name": "Wulong Cha",
@@ -742,8 +769,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/nishane-w-l-ng-ch",
+          "name": "Vivir — Nishane Wulong Cha (search result text)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nishane/Wlng_Cha/reviews/369022",
+          "name": "Parfumo — Nishane Wulong Cha reviews (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir cites 6-8 h longevity and softer projection (3/5 sillage); Parfumo reviewers report more than 8 h on one batch and close, skin-hugging sillage; one reviewer says 12 h. Most common view: longevity 4, sillage 2. Wulong Cha X not used. Vivir page shows placeholder zeros in places, so it was weighted less."
     },
     {
       "name": "Tuberoza",
@@ -786,8 +840,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nishane/Tuberza/reviews/304934",
+          "name": "Parfumo — Nishane Tuberoza reviews (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewers on the 2014 original Tuberóza extrait: about 10 h with projection hard to miss, though one reports fading after about 5 h; retailers claim 8-12 h with strong or moderate-to-strong sillage. Most common view: longevity 4, sillage 4. Tuberoza X (2024) not covered and a Fragrance Review note of gentle sillage was not used."
     },
     {
       "name": "Suede et Safran",
@@ -946,8 +1019,40 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/fan-your-flames-nishane",
+          "name": "Scento — Fan Your Flames (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nishane/Fan_Your_Flames/reviews/247866",
+          "name": "Parfumo — Nishane Fan Your Flames reviews (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Parfumo user ratings mostly 8-9 for longevity and sillage; Beautinow listing gives 8-10 h with moderate to strong trail; Scento aggregate says long-lasting with strong projection, best for winter and night. Most common view: longevity 4, sillage 4. Fan Your Flames X flanker not used."
     },
     {
       "name": "Hundred Silent Ways",
@@ -1060,8 +1165,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/nishane/nishane-zenne/",
+          "name": "The Sniff Test — Nishane Zenne (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nishane/Zenne/reviews/191485",
+          "name": "Parfumo — Nishane Zenne reviews (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewer 9-10 h; retailer and Vioral London list 8-10 h / 8+ h; sillage mixed: strong per ScentArt and one Parfumo reviewer, moderate per a retailer (7/10) and The Sniff Test. Most common view: longevity 4, sillage 3. Scento 12-18 h claim belonged to other Nishane fragrances and was excluded."
     },
     {
       "name": "Karagoz",
@@ -1101,8 +1233,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/nishane/karagoz-perfume",
+          "name": "FragranceX — Nishane Karagoz (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo user review: about 8 h with moderate sillage; another Parfumo reviewer rates it 10 for longevity and 9 for sillage. Sellers claim 10-12 h or over 12 h with strong sillage, but these are marketing figures and were given less weight. Most common view: longevity 4, sillage 3. Concentration not confirmed on the entry."
     },
     {
       "name": "B-612",

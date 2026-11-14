@@ -48,7 +48,8 @@
           "name": "The Sniff Test — Anfasic Shay (via search)",
           "type": "retailer",
           "supports": [
-            "performance"
+            "performance",
+            "usage"
           ]
         }
       ],
@@ -58,7 +59,16 @@
         "projection": null,
         "basis": "search"
       },
-      "performanceEvidence": "The Sniff Test page labels Shay 'Eternal' longevity and 'Enormous' sillage (its own labels, mapped to 5/5); the numeric scores on that page belong to a clone and were ignored"
+      "performanceEvidence": "The Sniff Test page labels Shay Eternal longevity and Enormous sillage (site labels, mapped to 5/5) and lists winter and autumn as best seasons and night as best time; its numeric scores (9/6) conflict between search results and were not used",
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      }
     },
     {
       "name": "Shay Flora",
@@ -221,8 +231,23 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Anfasic_Dokhoon/Shay_Oud",
+          "name": "Parfumo — Shay Oud (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo users score it about 9.1/10 longevity and 8.9/10 sillage from few votes, mapped to strong levels; an MHG Boutique blog says it often lasts 8-12+ h (retailer copy, mapped to 4)"
     },
     {
       "name": "Mrs. Always Shay",

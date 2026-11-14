@@ -231,6 +231,8 @@ export interface Preferences {
   language: Lang;
   units: 'metric' | 'imperial';
   theme: 'system' | 'light' | 'dark';
+  /** True once the user picked a theme in Settings (until then the app starts light). */
+  themeChosen?: boolean;
   favoriteFamilies: string[];
   favoriteAccords: string[];
   dislikedNotes: string[];

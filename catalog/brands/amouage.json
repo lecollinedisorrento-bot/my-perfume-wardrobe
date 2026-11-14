@@ -620,8 +620,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/honour-woman-amouage",
+          "name": "Scento — Amouage Honour Woman (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento aggregated user reviews: long-lasting wear with moderate projection; Lucky Scent reviewer says the sillage is mild but wear time holds up; Parfumo users rate sillage 5-7/10. Most common view: longevity 4, sillage 3. Honour 43 Woman (extrait) not used."
     },
     {
       "name": "Opus VII Reckless Leather",
@@ -1088,8 +1107,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://nstperfume.com/2012/06/28/amouage-gold-woman-fragrance-review/",
+          "name": "Now Smell This — Amouage Gold Woman review (search result text)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Now Smell This review (search text): powerful sillage for about an hour, then moderate and diffuse; Libertine reviewer calls longevity epic. One Parfumo reviewer finds sillage and longevity weak. Retailer (over 12 h) and dupe-seller (13-14 h) figures are promotional and were not used for the level. Most common view: longevity 4, sillage 4 early, softening later."
     },
     {
       "name": "Gold Man",
@@ -2203,8 +2241,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Amouage/Memoir_Man",
+          "name": "Parfumo — Amouage Memoir Man (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reports range from about 5 h (Parfumo) to 8-12 h (retailer and fragrance site listings); most descriptions call sillage moderate, one reviewer strong. Most common view: longevity 4, sillage 3. Reformulation remark noted but not used."
     },
     {
       "name": "Jubilation 25 Woman",
@@ -2294,8 +2351,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Amouage/Dia_for_Men/reviews/80263",
+          "name": "Parfumo — Amouage Dia for Men reviews (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewers: lasts well, 6-8 h typical in one report, one claims about 14 h and one about 6 h at most; most describe modest, intimate projection, one scores sillage 2.5/10. Most common view: longevity 4, sillage 2."
     },
     {
       "name": "Interlude Man",
@@ -2808,8 +2884,33 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/Amouage/overture-man",
+          "name": "Parfumo — Amouage Overture Man (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Parfumo reviewers: about 8-10 h typical, one over 12 h, and Parfumo projection and longevity above average; reviewers describe sillage as strong and room-filling, with some saying moderate. Several reviewers suggest cooler weather and evenings. Most common view: longevity 4, sillage 4."
     },
     {
       "name": "Interlude Black Iris Man",
@@ -2938,8 +3039,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/amouage-honour-man-eau-de-parfum/",
+          "name": "Beautinow — Amouage Honour Man EDP (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow listing (search text): 8-10 h with moderate sillage; Perfumenez: 8-12 h on most skin; one Parfumo reviewer found longevity and projection modest. A Vivir EDP article claims 12-16 h but its scores look inconsistent and were not used for the level. Most common view: longevity 4, sillage 3."
     },
     {
       "name": "Epic Woman",
@@ -3027,8 +3147,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Amouage/Reflection_Woman",
+          "name": "Parfumo — Amouage Reflection Woman (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/amouage-reflection-woman-eau-de-parfum/",
+          "name": "Beautinow — Amouage Reflection Woman EDP (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community averages about 7.2/10 for longevity and a lower sillage score (about 6/10 in one review); a retailer listing gives 8-10 h and describes a moderate trail. Most common view: longevity 4, sillage 3. Scento sillage wording (strong) conflicts and was not used for the level."
     },
     {
       "name": "Portrayal Woman",

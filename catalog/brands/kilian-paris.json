@@ -553,8 +553,41 @@
           "name": "Le Secret du Marais - Kilian Paris Smoking Hot",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://thesnifftest.co.uk/by-kilian/by-kilian-smoking-hot/",
+          "name": "The Sniff Test — By Kilian Smoking Hot (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/de/perfumes/smoking-hot-by-kilian",
+          "name": "Scento — Smoking Hot (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Estimates 8-12 h across listings and about 7.8/10 in Parfumo longevity votes; sillage described as moderate to strong by most listings, with Parfumo sillage about 7.6/10. Sniff Test seasonal tags suggest cooler seasons and night. Most common view: longevity 4, sillage 3."
     },
     {
       "name": "Her Majesty",
@@ -709,8 +742,27 @@
           "name": "Le Secret du Marais - Kilian Paris Princess",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://www.influenster.com/reviews/kilian-paris-princess-eau-de-parfum-10-oz-30-ml-eau-de-parfum",
+          "name": "Influenster — Kilian Princess reviews (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Mixed: one tally gives 8-12 h with moderate projection; an Influenster reviewer got about 4 h then a skin scent; Sephora UK and Fragrance Review reviewers were not impressed by longevity. Most common view: longevity 3, sillage 3 (moderate, poor unless overspray). Low-quality summary pages excluded. Princess Eau Fraiche not covered."
     },
     {
       "name": "Love, Don't Be Shy Eau Fraîche",

@@ -996,8 +996,23 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/chris-adams-rover-pour-homme-eau-de-parfum",
+          "name": "Scentverdict — Chris Adams Rover Pour Homme EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 1,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scentverdict profile for Rover Pour Homme lists short longevity (2-4 h), intimate projection and light intensity; no independent wearer reports found"
     },
     {
       "name": "Marcus",

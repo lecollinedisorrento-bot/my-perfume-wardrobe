@@ -62,8 +62,31 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://emiratesoud.co.uk/products/old-fashioned-gulf-orchid",
+          "name": "Emirates Oud - Old Fashioned",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/gulf-orchid/old-fashioned",
+          "name": "Parfumo - Old Fashioned",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragrantica reviewers: at least 8 h on skin; Emirates Oud lists 8-10 h; a UK seller claims 10-12+ h. Parfumo averages about 7.2 longevity and 6.8 sillage on 18 ratings. Most views: 8-10 h, moderate to strong sillage, so 4 and 3."
     },
     {
       "collection": "Cocktail Collection",
@@ -111,8 +134,31 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://royaloudleicester.com/products/vanilla-on-the-beach-by-gulf-orchid-100ml-edp",
+          "name": "Royal Oud Leicester - Vanilla On The Beach",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/gulf-orchid/vanilla-on-the-beach",
+          "name": "Parfumo - Vanilla on the Beach",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Royal Oud Leicester claims 8-10+ h on skin and Zaoud 7+ h; wearers report about 6 h and some say it fades after about an hour or turns close to skin. Parfumo averages about 7.7 longevity and 7.3 sillage on six ratings. Mixed, so 3 and 3."
     },
     {
       "collection": "Cocktail Collection",
@@ -387,8 +433,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/gulf-orchid/toffee-eau-de-parfum",
+          "name": "Parfumo - Toffee",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo averages about 8.0 longevity (7 ratings) and 7.7 sillage (6 ratings); a Fragrantica reviewer reports very good longevity and projection lasting the whole day. Brand copy is not used. Most views: full day, moderate projection, so 4 and 3."
     },
     {
       "collection": "Musk Collection",
@@ -425,8 +486,31 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://zaoud.it/products/gulf-orchid-angel-musk",
+          "name": "Zaoud - Gulf Orchid Angel Musk",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/gulf-orchid/angel-musk-eau-de-parfum",
+          "name": "Parfumo - Angel Musk",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Zaoud 6-8+ h with strong sillage; Fragrantica reviewers report a few hours with an intimate trail; Parfumo averages about 7.9 longevity and 7.3 sillage over 31 votes. Views split between intimate and strong, so 3 and 3."
     },
     {
       "collection": "Musk Collection",

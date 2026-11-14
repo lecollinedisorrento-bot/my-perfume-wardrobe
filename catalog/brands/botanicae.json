@@ -58,8 +58,23 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Botanicae_Expressions/tramonte",
+          "name": "Parfumo - Tramonte",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo user averages 7.2 longevity and 6.8 sillage out of 10; retailers and reviewers cite about 6-8 h and moderate sillage, one reviewer 5-6 h on skin and another over 20 h. Most views: 6-8 h, moderate projection, so longevity 4 and sillage 3."
     },
     {
       "name": "Highlands",
@@ -106,8 +121,31 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/botanicae-launched-highlands-for-unisex",
+          "name": "Scents Angel - Highlands",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Botanicae_Expressions/highlands",
+          "name": "Parfumo - Highlands",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scents Angel: moderate longevity, several hours, and soft to moderate sillage; Fragrantica reviewers rate sillage and longevity moderate; Parfum Exquis cites about 7 h from Fragrantica; Scentrabbit says strong sillage (outlier). Most views: moderate on both, so 3 and 3."
     },
     {
       "name": "Matin a Mogador",
@@ -194,8 +232,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/botanicae-expressions-epoque-for-unisex",
+          "name": "Scents Angel - Epoque",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Botanicae_Expressions/epoque",
+          "name": "Parfumo - Epoque",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scents Angel 6-8 h with moderate sillage; a Fragrantica reviewer 4-5 h on skin and 12+ h on clothes; Parfumo averages 6.6 longevity and 6.4 sillage out of 10 on small counts. Most views: moderate longevity and moderate sillage, so 3 and 3."
     },
     {
       "name": "Shomal",
@@ -244,8 +305,31 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/botanicae-expressions-shomal-for-unisex",
+          "name": "Scents Angel - Shomal",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Botanicae_Expressions/Shomal",
+          "name": "Parfumo - Shomal",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scents Angel 7-9 h with moderate to strong sillage; Parfumo averages 7.1 longevity and 6.9 sillage; Fragrantica reviewers at least 6 h, moderate sillage; Parfum Exquis about 7 h. Most views: 6-9 h, moderate to strong projection, so 4 and 3."
     },
     {
       "name": "En Route",
@@ -292,8 +376,31 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/botanicae-expressions-en-route-for-unisex",
+          "name": "Scents Angel - En Route",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Botanicae_Expressions/En_Route",
+          "name": "Parfumo - En Route",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scents Angel 6-8 h with moderate sillage; Parfum Exquis about 6 h citing Fragrantica; Parfumo averages 7.1 longevity and 6.7 sillage on 15 ratings; one Fragrantica reviewer says max 4 h. Most views: about 6-8 h, moderate sillage, so 4 and 3."
     },
     {
       "name": "Euria",

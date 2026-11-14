@@ -344,8 +344,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Tom_Ford/Oud_Minerale/reviews/433432",
+          "name": "Parfumo — Tom Ford Oud Minerale review 2024 (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Tom_Ford/Oud_Minerale/reviews/132718",
+          "name": "Parfumo — Tom Ford Oud Minerale review (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewer: about 7 h with four sprays, skin-level after about 9 h; another calls it very long-lasting; most reviewers call sillage discreet or moderate, one average for Tom Ford. A recent reviewer found both underwhelming. Most common view: longevity 4, sillage 3. Vivir 2017 and 2023 scores not used."
     },
     {
       "name": "Costa Azzurra",
@@ -755,8 +782,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Tom_Ford/Coffee_Rose/reviews/51330",
+          "name": "Parfumo — Tom Ford Coffee Rose reviews (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/cafe-rose",
+          "name": "Thescentbase — Cafe Rose (search result text)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewer: about 6-8 h on skin depending on temperature; another reports a faint trail after 4-5 h but longer on fabric; Scentbase community: 6+ h above average; Fleet Engine: 8+ h. Sillage described as moderate. Reviews of the 2012 and 2023 versions disagree. Most common view: longevity 4, sillage 3."
     },
     {
       "name": "Tobacco Chocolat",
@@ -1308,8 +1362,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/vanilla-sex-tom-ford",
+          "name": "Scento — Vanilla Sex (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento aggregated user data (search text): moderate longevity and moderate projection. Other search summaries conflict (a ShopSavvy roundup calls longevity excellent; a Vivir page gives 5.0), so the Scento view was used: longevity 3, sillage 3."
     },
     {
       "name": "Rose Prick",
@@ -1378,8 +1451,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/soleil-blanc-tom-ford",
+          "name": "Scento — Soleil Blanc (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento aggregated user data: moderate longevity with moderate projection; Parfumo reviewers call longevity not strong and noticeably weaker after about 3 h; a Kafkaesque blog reports strong sillage early and a skin scent after 6.75 h. Parfum version reportedly lasts longer. Most common view: longevity 3, sillage 3. Entry concentration not confirmed."
     },
     {
       "name": "Rose Exposed",
@@ -1483,8 +1575,40 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/bitter-peach-tom-ford",
+          "name": "Scento — Tom Ford Bitter Peach (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/bitter-peach",
+          "name": "Thescentbase — Bitter Peach (search result text)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scento: moderate longevity and projection, best for fall and evening; Thescentbase: above-average performance of 6+ h; Vivir: 4.5/5 longevity. Sillage views differ (intimate per Thescentbase, 3.9/5 Vivir, 4.4/5 Scento projection). A Scentdecant reviewer found it short-lived. Most common view: longevity 4, sillage 3."
     },
     {
       "name": "Electric Cherry",

@@ -36,8 +36,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://scentgrail.com/holy-grail-scents/serge-lutens-ambre-sultan-review/",
+          "name": "Scentgrail — Serge Lutens Ambre Sultan review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: Scentgrail and a retailer give 8-10 h on skin; some reviewers 10+ h, one blogger about 7.5 h. Sillage reported as moderate, with some calling it very strong at first."
     },
     {
       "name": "Chergui",
@@ -64,8 +79,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentgrail.com/holy-grail-scents/serge-lutens-chergui-review/",
+          "name": "Scentgrail — Serge Lutens Chergui review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: Scentgrail and a Confit review give 8-10 h, some reviewers 10-12 h, a few 4-5 h. Sillage described as moderate to above average (one reviewer 3.5/5). Most common view used."
     },
     {
       "name": "Fleurs d'oranger",
@@ -130,8 +160,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Serge_Lutens/la-fille-de-berlin-eau-de-parfum-1/reviews/172132",
+          "name": "Parfumo — La fille de Berlin EDP user review",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: original 2013 EDP about 5-8+ h (Vioral 5+ h, Parfumo users 8-10); a retailer says moderate sillage, users rate sillage 7-9. Zellige limited edition not used."
     },
     {
       "name": "Santal majuscule",
@@ -162,8 +207,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/serge-lutens-santal-majuscule-eau-de-parfum",
+          "name": "Scent Verdict — Serge Lutens Santal Majuscule EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries disagree: Scent Verdict lists moderate 4-6 h with intimate sillage, a blog about 5 h, a Parfumo reviewer 9+ h with strong sillage. Most common view used."
     },
     {
       "name": "Féminité du bois",
@@ -192,8 +252,23 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/serge-lutens/feminite-du-bois/women-perfume",
+          "name": "Perfume.com — Serge Lutens Féminité du Bois",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: Perfume.com says 6-8 h depending on skin; Parfumo and Scento place it around 6-10 h; sillage described as intimate. A Vivir page's 8-10 h is not used because it reads as generated content."
     },
     {
       "name": "Un bois vanille",
@@ -224,8 +299,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/serge-lutens/un-bois-vanille/women-perfume",
+          "name": "Perfume.com — Serge Lutens Un Bois Vanille",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: Perfume.com and a retailer say 6-8 h on skin with moderate sillage; user reports on Parfumo and Fraganty go past 10 h with strong projection. Most common view used."
     },
     {
       "name": "Five o'clock au gingembre",
@@ -254,8 +344,23 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/serge-lutens-five-oclock-au-gingembre-eau-de-parfum",
+          "name": "Scent Verdict — Serge Lutens Five O'Clock au Gingembre EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: Scent Verdict lists moderate 4-6 h with moderate projection; bloggers report about 5 h; Fragrancex's 6-8 h is retailer copy and not used. Sillage reports vary from close to the skin to good."
     },
     {
       "name": "L'Orpheline",
@@ -348,8 +453,23 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/serge-lutens-gris-clair-eau-de-parfum",
+          "name": "Scent Verdict — Serge Lutens Gris Clair EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: ScentVerdict lists the newer EdP at about 4-6 h with moderate projection; older 2006 bottles reported 6-10+ h. This entry is the current official bottle, so the newer figure is used. Reviewers say the reformulation weakened it."
     },
     {
       "name": "A la nuit",
@@ -1066,8 +1186,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/07/26/perfume-review-serge-lutens-fumerie-turque/",
+          "name": "Kafkaesque — Serge Lutens Fumerie Turque review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: reports range 6.75 h (Kafkaesque blog) to 12+ h (Basenotes), Scentverdict lists 6-10 h; sillage very forceful at first, then softer close to the skin. Vintage and current bottles may differ."
     },
     {
       "name": "Point du jour",

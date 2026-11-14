@@ -376,8 +376,23 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/airy-florals/products/maison-francis-kurkdjian-724-edp",
+          "name": "Venba — Maison Francis Kurkdjian 724 EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Several reviews and a blog give about 6-8 h on skin (one whatscent reviewer about 6-7 h). A decant seller describes a soft-to-medium scent bubble that stays close to the skin."
     },
     {
       "name": "Amyris Homme",
@@ -430,8 +445,31 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/maison-francis-kurkdjian/amyris-femme/women-perfume",
+          "name": "Perfume.com — Amyris Femme",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://reviews.femaledaily.com/products/fragrance/edt/maison-francis-kurkdjian/amyris-femme-eau-de-parfum",
+          "name": "Female Daily — Amyris Femme reviews",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Perfume.com states it lasts up to about 8 h on skin with surprisingly strong sillage; one Femaledaily user reports 7-8 h. Set to 4 for longevity and 4 for sillage; the 12-14 h Vivir claim was not counted."
     },
     {
       "name": "Satin Mood",
@@ -565,8 +603,23 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-francis-kurkdjian-feminin-pluriel",
+          "name": "Vivir — MFK Feminin Pluriel",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Vivir rates projection 2.0 and longevity 3.0 out of 5 and calls it a quiet, restrained floral. Scentverdict's 6-10 h figure is hard to read and conflicts with other pages, so longevity is left null."
     },
     {
       "name": "À la Rose",
@@ -781,8 +834,23 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/maison-francis-kurkdjian-aqua-universalis-cologne-forte-eau-de-parfum/",
+          "name": "Beautinow — MFK Aqua Universalis Cologne Forte",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Beautinow lists about 6-8 h and rates sillage as a moderate trail (7/10 on its scale). Only one retailer page was found for this concentration, so the figures are thin."
     },
     {
       "name": "Oud",

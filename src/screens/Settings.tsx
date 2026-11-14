@@ -92,7 +92,7 @@ export default function Settings() {
         </div>
         <div className="field">
           <span className="label">{t('set.appearance')}</span>
-          <Segmented<Preferences['theme']> options={['system', 'light', 'dark'] as const} value={prefs.theme} onChange={(v) => set({ theme: v })} render={(v) => tk(`set.theme.${v}`)} label={t('set.appearance')} />
+          <Segmented<Preferences['theme']> options={['system', 'light', 'dark'] as const} value={prefs.theme} onChange={(v) => set({ theme: v, themeChosen: true })} render={(v) => tk(`set.theme.${v}`)} label={t('set.appearance')} />
         </div>
         <div className="field">
           <span className="label">{t('set.motion')}</span>

@@ -48,8 +48,31 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://amyrisessenze.com/en-us/products/the-orientalist-golden-kunafa",
+          "name": "Amyris Essenze - Golden Kunafa",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/the-orientalist/golden-kunafa",
+          "name": "Parfumo - Golden Kunafa",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Amyris Essenze reviews: about 5-6 h on skin, one reviewer still projecting at hour nine; Parfumo says projection is above average; Fragrantica Italian reviews split, one says performance good but not exaggerated. Most views: 5-9 h with moderate to strong projection, so longevity 3 and sillage 3."
     },
     {
       "name": "Tropic Janan",
@@ -88,8 +111,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://amyrisessenze.com/en-us/products/the-orientalist-tropic-janan",
+          "name": "Amyris Essenze - Tropic Janan",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Amyris Essenze reviewers: about 5-6 h on skin, one still projecting at hour nine and calls the sillage fantastic; a third says the scent opens after about twenty minutes. Parfumo rating is a single vote with no longevity or sillage split. Anecdotal, so 3 for both."
     },
     {
       "name": "Taif Bloom",
@@ -136,8 +174,23 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://amyrisessenze.com/en-us/products/the-orientalist-taif-bloom",
+          "name": "Amyris Essenze - Taif Bloom",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Amyris Essenze reviews: one reviewer still projecting strongly around nine hours, another estimates 5-6 h on skin and calls it average, a third says it lasts longer than Happy Dust. Few reviews, so 3 for both as the common middle view."
     },
     {
       "name": "Noor Zest",
@@ -215,8 +268,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://amyrisessenze.com/en-us/products/the-orientalist-velvet-khashab",
+          "name": "Amyris Essenze - Velvet Khashab",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Amyris Essenze reviews: one reviewer about 9 h with strong projection, another about 6 h on skin and 10 h on clothes, an Italian reviewer 5-6 h; a Fragrantica review says it lasts about 10 minutes. Longevity taken as 3; reviews split on projection, so sillage left null."
     },
     {
       "name": "Crystal Bahar",
@@ -336,8 +404,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/The-Orientalist/Silver-Saffron-137133.html",
+          "name": "Fragrantica - Silver Saffron",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragrantica reviews: one reviewer says about 7-8 h with moderate sillage; another finds it intimate with not much projection but lasting a decent time on skin and clothes. Small sample, so longevity 3 and sillage 2."
     }
   ]
 }

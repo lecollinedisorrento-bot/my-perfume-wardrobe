@@ -86,8 +86,23 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/alex-plus/rum",
+          "name": "Parfumo - Rum+",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragrantica reviewers: strong sillage, people asked what they were wearing; one says about 4-5 h and calls that the main weakness. Parfumo users report far longer wear and average 8.3 longevity on four ratings. Brand copy not used. Mixed on longevity, so 3; sillage strong, so 4."
     },
     {
       "name": "Tabacco+",
@@ -127,8 +142,23 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/alex-plus/tabacco",
+          "name": "Parfumo - Tabacco+",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragrantica users average 3.02/5 longevity and 2.11/4 sillage (moderate); a reviewer says it lasts all day; Parfumo rates projection and longevity above average. Seller marketing of strong projection not used. Most views: moderate on both, so 3 and 3."
     },
     {
       "name": "Golpar+",

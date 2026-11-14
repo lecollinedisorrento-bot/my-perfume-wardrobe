@@ -37,8 +37,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/all/products/diptyque-do-son-edp-1",
+          "name": "Venba — Diptyque Do Son EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: two listings and a Vivir EDP review give 4-6 h on skin, one retailer 6-8 h; sillage moderate and non-intrusive. Most common view used; EDT and solid versions excluded."
     },
     {
       "name": "Do Son",
@@ -106,8 +121,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Diptyque/orpheon-eau-de-parfum",
+          "name": "Parfumo — Diptyque Orphéon EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries disagree: Parfumo reviewer about 6 h, another about 8-10 h, Temptalia and a scent database describe shorter wear (about 3 h). Sillage moderate per the Venba listing, split on Parfumo. Most common view used."
     },
     {
       "name": "Lilyphéa",
@@ -172,8 +202,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/diptyque-tam-dao-edp-1",
+          "name": "Venba — Diptyque Tam Dao EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: two retailer pages say most wearers get 6-8 h on skin, a scent database says about 3 h; reviewers describe sillage as soft. EDT review figures excluded."
     },
     {
       "name": "Fleur de Peau",
@@ -205,8 +250,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Diptyque/fleur-de-peau-eau-de-parfum",
+          "name": "Parfumo — Diptyque Fleur de Peau EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries disagree: a scent database averages about 3 h with intimate sillage; Parfumo reviewers report 6-8 h. Fragplace's 10+ h figure looks auto-generated and is not used. Most-cited view (about 3 h) used."
     },
     {
       "name": "Eau Rose",
@@ -239,8 +299,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/diptyque/products/diptyque-eau-rose-edp-2",
+          "name": "Venba — Diptyque Eau Rose EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: a retailer says 4-6 h on skin for most wearers, one Parfumo user 7 h; sillage described as soft and close to the skin. EDT figures excluded."
     },
     {
       "name": "Philosykos",
@@ -272,8 +347,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Diptyque/Philosykos_Eau_de_Parfum",
+          "name": "Parfumo — Diptyque Philosykos EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: user reports mostly 4-6 h on skin (one 5-6 h, another gone after 4 h), a scent database says about 3 h, one Vivir EDP review 5-7 h; sillage subtle and close to the body."
     },
     {
       "name": "Eau Capitale",
@@ -306,8 +396,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.temptalia.com/diptyque-eau-capitale-perfume-review/",
+          "name": "Temptalia — Diptyque Eau Capitale review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "Temptalia review: skin-scent by about 6 h, hard to detect around 10 h, moderate sillage for about three hours. User aggregates say 4-6 h; one retailer copy says 7-9 h (not used). Caveat: reformulation possible."
     },
     {
       "name": "Eau Duelle",
@@ -372,8 +477,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/diptyque-tempo-eau-de-parfum",
+          "name": "Vivir — Diptyque Tempo EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: several reviewers call longevity long, even days on clothing; one forum user 3-4 h. Retailer and database describe moderate sillage, Vivir 3.0/5 with projection fading around hours 6-8 (Vivir price figure inconsistent, not used). Mostly soft projection."
     },
     {
       "name": "34 Boulevard Saint Germain",
@@ -900,8 +1020,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/eau-des-sens-diptyque",
+          "name": "Scento — Diptyque Eau des Sens",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: a Parfumo user 6-7 h but faded by two hours; Scento aggregate says moderate longevity and moderate projection; another user found projection hard to notice at normal distance."
     },
     {
       "name": "L'Eau Papier",

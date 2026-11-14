@@ -47,8 +47,33 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/future-memories-byredo",
+          "name": "Scento — Byredo Future Memories",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Search summaries: one review 6-9 h, a Scento user about 7 h, Parfumo users rate longevity 8-9/10; projection disputed (Vivir 3.0/5, another Vivir page says soft by hour four). Scento suggests fall/winter evenings."
     },
     {
       "name": "Bal d'Afrique",
@@ -464,8 +489,23 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/byredo-desert-dawn-eau-de-parfum",
+          "name": "Scent Verdict — Byredo Desert Dawn EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries disagree: a retailer 7-9 h, another listing 5-7 h, one reviewer 30-60 min, another 4 h. Sillage described as soft and close to the skin, subtle for office wear. Most common view used."
     },
     {
       "name": "Bibliothèque",
@@ -867,8 +907,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Byredo/Oud_Immortel_Eau_de_Parfum",
+          "name": "Parfumo — Byredo Oud Immortel EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: Perfume.com 6-8 h, Scents Angel 8-10 h, Parfumo average 7.7/10 with one user at about 4 h; sillage generally moderate. Most common view used."
     },
     {
       "name": "Eyes Closed",

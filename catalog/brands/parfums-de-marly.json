@@ -16,14 +16,20 @@
       "family": "floral woody",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "rose",
+        "top": [
           "blackcurrant bud",
-          "woody notes"
-        ]
+          "lavender"
+        ],
+        "heart": [
+          "iris",
+          "rose"
+        ],
+        "base": [
+          "woods",
+          "benzoin",
+          "ambrox"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -114,15 +120,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "pink pepper",
-          "almond",
+        "top": [
+          "pink peppercorn",
+          "cardamom",
+          "almond"
+        ],
+        "heart": [
+          "lavender",
+          "orange blossom",
+          "geranium"
+        ],
+        "base": [
+          "vanilla",
+          "ambrox",
           "oud",
-          "vanilla"
-        ]
+          "guaiac wood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -134,8 +148,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Parfums_de_Marly/pegasus-exclusif",
+          "name": "Parfumo — Pegasus Exclusif (search result summary)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: Parfumo users average about 8.3 longevity and 7.9 sillage; estimates 6-10 hours, some 10-14; sillage moderate to strong early, then settles closer to skin. Longevity 4, sillage 3. Official page states no longevity, sillage or season."
     },
     {
       "name": "Herod",
@@ -204,12 +237,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "violet"
-        ]
+        "top": [
+          "mandarin",
+          "bergamot",
+          "pear"
+        ],
+        "heart": [
+          "violet",
+          "lavandin",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "musk",
+          "praline"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -233,15 +277,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "neroli",
-          "yuzu",
+          "bergamot",
+          "yuzu"
+        ],
+        "heart": [
           "orange blossom",
-          "tonka bean"
-        ]
+          "jasmine"
+        ],
+        "base": [
+          "tonka bean",
+          "vanilla",
+          "ambrox"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -299,14 +349,23 @@
       "family": "woody fougère",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "bergamot",
+          "cedrat",
+          "juniper"
+        ],
+        "heart": [
           "bourbon geranium",
           "lavender",
+          "cypress",
+          "nutmeg"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood",
           "ambrox"
-        ]
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -332,14 +391,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "patchouli",
+        "top": [
+          "bergamot",
+          "pink peppercorn",
+          "cardamom",
+          "mandarin"
+        ],
+        "heart": [
           "cinnamon",
-          "vanilla"
-        ]
+          "davana",
+          "cypriol"
+        ],
+        "base": [
+          "leather",
+          "tonka bean",
+          "vanilla bean",
+          "patchouli"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -364,14 +433,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "bergamot",
+          "pink peppercorn",
           "red mandarin",
+          "saffron"
+        ],
+        "heart": [
+          "geranium",
           "red thyme",
+          "black pepper"
+        ],
+        "base": [
+          "cedarwood",
+          "ambrox",
+          "vetiver",
           "roasted tonka bean"
-        ]
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -382,10 +461,18 @@
           "type": "official",
           "supports": [
             "notes",
-            "concentration"
+            "concentration",
+            "performance"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 4,
+        "projection": null,
+        "basis": "official"
+      },
+      "performanceEvidence": "Official page: 'a strong projection' and 'an extremely powerful trail'. No longevity stated. Sillage 4 only."
     },
     {
       "name": "Castley",
@@ -429,13 +516,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "white flowers",
-          "almond"
-        ]
+        "top": [
+          "almond",
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "orange blossom",
+          "white flowers"
+        ],
+        "base": [
+          "white musk",
+          "akigalawood",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -445,10 +541,25 @@
           "name": "Parfums de Marly official — Valaya Exclusif",
           "type": "official",
           "supports": [
-            "notes"
+            "notes",
+            "usage"
           ]
         }
-      ]
+      ],
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "morning",
+          "afternoon",
+          "evening",
+          "night"
+        ]
+      }
     },
     {
       "name": "Haltane",
@@ -459,15 +570,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "bergamot",
-          "lavender",
+          "pink peppercorn"
+        ],
+        "heart": [
+          "saffron",
           "praline",
-          "oud"
-        ]
+          "lavender",
+          "clary sage"
+        ],
+        "base": [
+          "oud",
+          "patchouli",
+          "vetiver",
+          "leather"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -523,14 +642,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "grapefruit",
+        "top": [
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
           "geranium",
-          "vetiver"
-        ]
+          "blackcurrant bud"
+        ],
+        "base": [
+          "vetiver",
+          "amberwood",
+          "grey amber"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -554,14 +679,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "vanilla",
-          "praline",
-          "orange blossom"
-        ]
+        "top": [
+          "bergamot",
+          "mandarin",
+          "elemi"
+        ],
+        "heart": [
+          "orange blossom",
+          "cinnamon",
+          "cardamom"
+        ],
+        "base": [
+          "bourbon vanilla",
+          "guaiac wood",
+          "praline"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -573,8 +706,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/parfums-de-marly-althair-review",
+          "name": "Vivir — Althaïr review (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentchronicles.com/parfums-de-marly-althair-review/",
+          "name": "Scent Chronicles — Althaïr review (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: mostly 8-10 hours on skin (range 8-12), better in cold weather, shorter in heat; moderate-to-strong projection early then a closer skin scent. Longevity 4, sillage 3. Official page states no longevity, sillage or season."
     },
     {
       "name": "Layton Exclusif",
@@ -585,16 +745,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "bergamot",
+          "pink peppercorn",
+          "cardamom"
+        ],
+        "heart": [
+          "geranium",
           "lavender",
-          "sandalwood",
+          "lavandin"
+        ],
+        "base": [
           "oud",
+          "sandalwood",
+          "patchouli",
           "leather"
-        ]
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -606,8 +773,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/parfums-de-marly-layton-exclusif-review",
+          "name": "Vivir — Layton Exclusif review (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Parfums_de_Marly/Layton_Exclusif",
+          "name": "Parfumo — Layton Exclusif (search result summary)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: most estimates 8-10 hours on skin (range 8-12); strong projection in the first hours, then close to the body; a few reviewers wanted more projection. Longevity 4, sillage 3. Official page states no longevity, sillage or season."
     },
     {
       "name": "Galloway",
@@ -745,15 +939,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "orange",
-          "black pepper",
+        "top": [
+          "blood orange",
+          "black pepper"
+        ],
+        "heart": [
           "lavender",
-          "cedarwood"
-        ]
+          "wormwood",
+          "orange blossom"
+        ],
+        "base": [
+          "tonka bean",
+          "cedarwood",
+          "moss"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -917,15 +1117,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "mint",
-          "citrus",
+        "top": [
+          "bergamot",
+          "spearmint",
+          "orange"
+        ],
+        "heart": [
+          "geranium",
           "lavandin",
-          "sandalwood"
-        ]
+          "pine"
+        ],
+        "base": [
+          "sandalwood",
+          "ambrox",
+          "white musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -937,8 +1144,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://fragranote.com/fragrance/sedley/",
+          "name": "Fragranote — Sedley (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.thelastspritz.com/fragrance/pdm-sedley",
+          "name": "The Last Spritz — Sedley (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: most sources say 5-8 hours on most skin (Fragranote 5-8, The Last Spritz 5-7); sillage mostly moderate, close to skin later, one reviewer calls it soft. Longevity 3, sillage 3. Official page states no longevity, sillage or season."
     },
     {
       "name": "Greenley",
@@ -949,15 +1183,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "green apple",
-          "petitgrain",
+        "top": [
+          "bergamot",
+          "mandarin",
+          "green apple"
+        ],
+        "heart": [
+          "petitgrain"
+        ],
+        "base": [
           "ambrox",
-          "amber woods"
-        ]
+          "amberwood",
+          "cedarwood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -969,8 +1208,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.fragranzo.com/blog/what-does-greenley-by-parfums-de-marly-smell-like/",
+          "name": "Fragranzo — Greenley (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/parfums-de-marly-greenley-review-insider-scoop",
+          "name": "Vivir — Greenley review (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: about 6-8 hours on skin most often (Fragranzo 6-8, Fragman 5-7, Vivir 8-10+); sillage described as moderate, strongest in first few hours. Longevity 4, sillage 3. Official page states no longevity, sillage or season."
     },
     {
       "name": "Athalia",
@@ -1014,14 +1280,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "thyme",
           "saffron",
+          "raspberry"
+        ],
+        "heart": [
+          "rose",
+          "iris",
+          "jasmine"
+        ],
+        "base": [
           "leather",
-          "amber"
-        ]
+          "ambrox",
+          "blond woods"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1033,8 +1307,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/parfums-de-marly-godolphin",
+          "name": "Scent's Angel — Godolphin (search result summary)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/parfums-de-marly/godolphin",
+          "name": "The Scent Base — Godolphin (search result summary)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: most sources 8-10 hours on skin (perfume.com 8-12, Scent's Angel 8-10, Scent Base 6-10); sillage moderate to strong early, then softer. Longevity 4, sillage 3. Official page states no longevity, sillage or season."
     },
     {
       "name": "Pegasus",
@@ -1103,14 +1404,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "bergamot",
+          "pink peppercorn",
           "lychee",
+          "pear"
+        ],
+        "heart": [
           "damascena rose",
-          "white musk"
-        ]
+          "peony"
+        ],
+        "base": [
+          "white musk",
+          "vanilla",
+          "vetiver"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1122,8 +1431,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/parfums-de-marly-delina-la-rosee-edp",
+          "name": "Venba Fragrance — Delina La Rosée EDP (search result summary)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/parfums-de-marly-delina-la-rosee-review",
+          "name": "Vivir — Delina La Rosée review (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: most estimates 6-9 hours on skin (Vivir 6-8, Venba 7-9; some reviewers 5-6 or 3-5); sillage moderate and close to the skin. Longevity 4, sillage 3. Official page's 'morning caress' is imagery, not a wear time, so no usage recorded."
     },
     {
       "name": "Safanad",
@@ -1134,17 +1470,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "bergamot",
+        "top": [
+          "orange",
+          "pear",
+          "petitgrain"
+        ],
+        "heart": [
+          "ylang-ylang",
           "orange blossom",
-          "jasmine",
+          "jasmine"
+        ],
+        "base": [
           "ambrox",
           "vanilla",
           "sandalwood"
-        ]
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1156,8 +1497,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/parfums-de-marly-safanad-review",
+          "name": "Vivir — Safanad review (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/12/02/parfums-de-marly-safanad/",
+          "name": "Kafkaesque Blog — Safanad (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: most accounts about 6.5-9 hours on skin (measured 6.5-7.25 by one blogger, Vivir 8-10); Vivir rates sillage 3.5/5, 'not a strong projector'. Longevity 4, sillage 3. Official page states no longevity, sillage or season."
     },
     {
       "name": "Meliora",
@@ -1201,16 +1569,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "lychee",
+        "top": [
+          "bergamot",
           "pear",
+          "lychee"
+        ],
+        "heart": [
           "damascena rose",
+          "incense"
+        ],
+        "base": [
+          "vanilla",
           "musk",
-          "vanilla"
-        ]
+          "moss",
+          "tonka bean"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1222,8 +1596,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Delina-Exclusif-50370.html",
+          "name": "Fragrantica — Delina Exclusif (search result summary)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: estimates 8-12+ hours on skin (one 8-10, others 10-14); moderate to strong sillage, strong for the first 4-5 hours; one reviewer disagreed. Longevity 4, sillage 4. Official page states no longevity, sillage or season."
     },
     {
       "name": "Cassili",

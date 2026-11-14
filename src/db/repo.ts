@@ -16,7 +16,7 @@ export const DEFAULT_PREFS: Preferences = {
   name: '',
   language: (typeof navigator !== 'undefined' && navigator.language?.toLowerCase().startsWith('it') ? 'it' : 'en'),
   units: 'metric',
-  theme: 'system',
+  theme: 'light',
   favoriteFamilies: [],
   favoriteAccords: [],
   dislikedNotes: [],
@@ -126,7 +126,10 @@ export async function listRecommendations(): Promise<RecommendationRecord[]> {
 // ── Key/value ──
 export async function getPrefs(): Promise<Preferences> {
   const rec = await (await getDB()).get('kv', 'prefs');
-  return { ...DEFAULT_PREFS, ...((rec?.value as Partial<Preferences>) ?? {}) };
+  const p = { ...DEFAULT_PREFS, ...((rec?.value as Partial<Preferences>) ?? {}) };
+  // The app starts light; follow the system only when the user chose that in Settings.
+  if (!p.themeChosen && p.theme === 'system') p.theme = 'light';
+  return p;
 }
 export async function savePrefs(p: Preferences) {
   await (await getDB()).put('kv', { key: 'prefs', value: p });

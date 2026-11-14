@@ -73,8 +73,31 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.amazon.co.uk/Atyab-Al-Marshoud-Long-Lasting-Luxurious/dp/B0BTZL6P8Z",
+          "name": "Amazon UK - Marshoud 4 Black",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Atyab_Al_Marshoud/marshoud-4-black",
+          "name": "Parfumo - Marshoud 4 Black",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Amazon listings: 8-10 h, and another UK listing 6-8 h with soft to medium projection; Fragrantica users about 3.4/5 longevity and 2.2/4 sillage; Chaos Fragrances strong longevity and moderate sillage. Most views: 6-10 h, moderate sillage, so 4 and 3."
     },
     {
       "name": "Marshoud 4 Blue",
@@ -107,8 +130,23 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Atyab-Al-Marshoud/Marshoud-4-Blue-91780.html",
+          "name": "Fragrantica - Marshoud 4 Blue",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragrantica reviewers: projects and lasts pretty long for one, a little heavy for another; Fragrantica Arabia averages 3.33/5 longevity and 1.75/4 sillage; one reviewer says it needs months to settle. Results often mix in the White version, not used. Most views: moderately long-lasting, modest projection, so 3 and 2."
     },
     {
       "name": "Marshoud No.4",
@@ -205,8 +243,23 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://oudprofumeriaartistica.it/en/products/atyab-al-marshoud-al-shagaf-black",
+          "name": "Oud Profumeria Artistica - Al Shaghaf Black",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Oud Profumeria Artistica rates longevity 4/5 and sillage 4/5 and says the woody base stays on skin all day and lingers on clothes. Only retailer data found and no independent reviews, so the levels are provisional."
     },
     {
       "name": "Al Shaghaf Grey",
@@ -269,8 +322,23 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Atyab_Al_Marshoud/aurora-northern-lights",
+          "name": "Parfumo - Aurora Northern Lights",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo describes projection and longevity as above average; user reviews report good to strong longevity and moderate to good sillage (two to three arm lengths, strong with three sprays). Brand copy not used. Most views: good-to-strong longevity and moderate sillage, so 4 and 3."
     },
     {
       "name": "Lily Musk Eau de Parfum",
