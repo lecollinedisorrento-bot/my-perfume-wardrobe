@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { applyCatalog, catalogResearch, findCatalogMatch, searchCatalog, type CatalogItem } from '../../src/services/catalog';
+import { applyCatalog, catalogImageFor, catalogResearch, findCatalogMatch, searchCatalog, setCatalogForTests, type CatalogItem } from '../../src/services/catalog';
 import { blankFragrance } from '../../src/domain/fragrance';
 import { execFileSync } from 'node:child_process';
 import { mkdtempSync, mkdirSync, writeFileSync, readFileSync, cpSync } from 'node:fs';
@@ -57,6 +57,22 @@ describe('catalogue → profile', () => {
   it('computes honest status', () => {
     expect(catalogResearch(items[1]).status).toBe('partially_verified');
     expect(catalogResearch(items[2]).status).toBe('unverified');
+  });
+});
+
+describe('catalogue bottle photos', () => {
+  it('finds the cut-out by brand + name, accent and case insensitive', async () => {
+    setCatalogForTests({
+      v: 1,
+      built: '',
+      brands: [],
+      items: [item({ i: { f: 'electimuss--mercurial-cashmere.webp', u: 'https://electimuss.example/mc', n: 'Electimuss', t: 'official' } }), item({ b: 'Nabeel', n: 'Irth' })],
+    });
+    const img = await catalogImageFor('ELECTIMUSS', 'mercurial cashmère');
+    expect(img?.url).toMatch(/\/catalog\/img\/electimuss--mercurial-cashmere\.webp$/);
+    expect(img?.n).toBe('Electimuss');
+    expect(await catalogImageFor('Nabeel', 'Irth')).toBeNull();
+    setCatalogForTests(null);
   });
 });
 

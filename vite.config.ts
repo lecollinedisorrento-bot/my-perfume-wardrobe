@@ -79,6 +79,14 @@ export default defineConfig(({ mode }) => {
           navigateFallbackDenylist: [new RegExp(`^${base}api/`)],
           globIgnores: ['**/*cyrillic*', '**/*greek*', '**/*vietnamese*'],
           cleanupOutdatedCaches: true,
+          // Bottle cut-outs are many small files: cache each one the first time it is shown.
+          runtimeCaching: [
+            {
+              urlPattern: ({ url }) => url.pathname.startsWith(`${base}catalog/img/`),
+              handler: 'CacheFirst',
+              options: { cacheName: 'bottle-cutouts', expiration: { maxEntries: 3000, maxAgeSeconds: 60 * 60 * 24 * 180 } },
+            },
+          ],
         },
       }),
     ],

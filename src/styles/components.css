@@ -767,6 +767,12 @@ input[type='range'] {
   position: relative;
   display: grid;
   place-items: center;
+  /* Keep tall photos inside the box instead of letting the row grow. */
+  grid-template: minmax(0, 1fr) / minmax(0, 1fr);
+}
+.bottle-cutout {
+  box-sizing: border-box;
+  padding-top: 8%;
 }
 .bottle img {
   width: 100%;

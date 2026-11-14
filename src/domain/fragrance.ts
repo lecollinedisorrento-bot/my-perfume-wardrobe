@@ -96,7 +96,7 @@ export function allNotes(f: Pick<Fragrance, 'notes'>): string[] {
  * or fills in details.
  */
 export const SAMPLE_COLLECTION: { brand: string; name: string }[] = [
-  { brand: 'Amouage', name: 'Reflection' },
+  { brand: 'Amouage', name: 'Reflection Man' },
   { brand: 'Amouage', name: 'Beloved' },
   { brand: 'Nabeel', name: 'Irth' },
   { brand: 'Nabeel', name: 'Irth Boom' },

@@ -14,6 +14,11 @@ const warnings = [];
 const out = [];
 const seen = new Set();
 
+// Cut-out bottle photos (scripts/fetch-images.py): "Brand|Name" → {file, page, source, type}.
+const imgMapUrl = new URL('catalog/images.json', root);
+const images = existsSync(imgMapUrl) ? JSON.parse(readFileSync(imgMapUrl, 'utf8')) : {};
+const imgDir = new URL('public/catalog/img/', root);
+
 const files = existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith('.json')).sort() : [];
 for (const file of files) {
   let b;
@@ -68,6 +73,8 @@ for (const file of files) {
       s: valid.map((s) => ({ u: s.url, n: s.name || new URL(s.url).hostname, t: s.type, f: (s.supports ?? []).filter((x) => FACTS.has(x)) })),
       r: b.retrievedAt ?? null,
     };
+    const img = images[`${b.brand}|${f.name}`];
+    if (img?.file && existsSync(new URL(img.file, imgDir))) entry.i = { f: img.file, u: img.page, n: img.source || new URL(img.page).hostname, t: img.type || 'official' };
     if (hasNotes && !supported.has('notes')) warnings.push(where(i, 'notes removed: no source supports "notes"'));
     out.push(entry);
   });

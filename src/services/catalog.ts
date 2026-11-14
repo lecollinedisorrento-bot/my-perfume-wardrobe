@@ -21,6 +21,8 @@ export interface CatalogItem {
   d?: boolean; // discontinued
   s: { u: string; n: string; t: 'official' | 'retailer' | 'database' | 'publication'; f: string[] }[];
   r: string | null; // retrieved date
+  /** Cut-out bottle photo in /catalog/img/ and the page it was taken from. */
+  i?: { f: string; u: string; n: string; t: 'official' | 'retailer' | 'database' | 'publication' };
 }
 
 export interface CatalogIndex {
@@ -50,6 +52,26 @@ export function loadCatalog(): Promise<CatalogIndex> {
 /** Test hook. */
 export function setCatalogForTests(c: CatalogIndex | null) {
   cache = c ? Promise.resolve(c) : null;
+  imageIndex = null;
+}
+
+export type CatalogImage = NonNullable<CatalogItem['i']> & { url: string };
+
+export const catalogImageUrl = (file: string) => appUrl(`/catalog/img/${encodeURIComponent(file)}`);
+
+let imageIndex: Promise<Map<string, CatalogImage>> | null = null;
+
+/** Cut-out official bottle photo for a perfume, when the catalogue has one. */
+export function catalogImageFor(brand: string, name: string): Promise<CatalogImage | null> {
+  if (!imageIndex) {
+    imageIndex = loadCatalog().then((c) => {
+      const m = new Map<string, CatalogImage>();
+      for (const i of c.items) if (i.i && !m.has(key(i))) m.set(key(i), { ...i.i, url: catalogImageUrl(i.i.f) });
+      if (!c.items.length) imageIndex = null; // catalogue not loaded yet (offline): retry later
+      return m;
+    });
+  }
+  return imageIndex.then((m) => m.get(normalizeKey(`${brand} ${name}`)) ?? null);
 }
 
 const key = (i: Pick<CatalogItem, 'b' | 'n'>) => normalizeKey(`${i.b} ${i.n}`);

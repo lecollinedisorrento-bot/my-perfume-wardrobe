@@ -1358,3 +1358,11 @@
   border: 2px solid var(--line);
   background: var(--surface);
 }
+.cat-thumb {
+  flex: none;
+  width: 52px;
+  height: 64px;
+  align-self: center;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 5px rgba(0, 0, 0, 0.18));
+}

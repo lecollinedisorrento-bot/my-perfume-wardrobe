@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import type { Fragrance } from '../domain/types';
 import { objectUrlFor } from '../services/images';
+import { catalogImageFor, type CatalogImage } from '../services/catalog';
 import { familyColor, hashIndex, POP_COLORS } from '../domain/families';
 import { useI18n } from '../i18n';
 
@@ -20,6 +21,7 @@ export function BottleImage({
 }) {
   const { t, tk } = useI18n();
   const [url, setUrl] = useState<string | null>(null);
+  const [cat, setCat] = useState<CatalogImage | null>(null);
   const key = fragrance.image?.blobKey;
 
   useEffect(() => {
@@ -31,6 +33,16 @@ export function BottleImage({
     };
   }, [key]);
 
+  // No photo of their own: use the catalogue's cut-out official photo, if any.
+  useEffect(() => {
+    let alive = true;
+    setCat(null);
+    if (!key) void catalogImageFor(fragrance.brand, fragrance.name).then((c) => alive && setCat(c));
+    return () => {
+      alive = false;
+    };
+  }, [key, fragrance.brand, fragrance.name]);
+
   if (key && url) {
     return (
       <div className={`bottle ${className}`}>
@@ -39,6 +51,19 @@ export function BottleImage({
           <span className="img-label">
             {tk(`img.kind.${fragrance.image.kind}`)}
             {fragrance.image.sourceName ? ` · ${fragrance.image.sourceName}` : ''}
+          </span>
+        )}
+      </div>
+    );
+  }
+
+  if (!key && cat) {
+    return (
+      <div className={`bottle bottle-cutout ${className}`}>
+        <img src={cat.url} alt={`${fragrance.brand} ${fragrance.name}`} loading="lazy" decoding="async" />
+        {showLabel && (
+          <span className="img-label">
+            {tk(`img.kind.${cat.t === 'official' ? 'official' : 'retailer'}`)} · {cat.n}
           </span>
         )}
       </div>

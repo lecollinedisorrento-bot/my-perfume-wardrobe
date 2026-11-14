@@ -4,7 +4,7 @@ import { useStore } from '../state/store';
 import { useI18n } from '../i18n';
 import { useUi } from '../state/ui';
 import { IconBack, IconPlus, IconSearch } from '../components/Icons';
-import { applyCatalog, loadCatalog, searchCatalog, type CatalogIndex, type CatalogItem } from '../services/catalog';
+import { applyCatalog, catalogImageUrl, loadCatalog, searchCatalog, type CatalogIndex, type CatalogItem } from '../services/catalog';
 import { blankFragrance, fragranceKey } from '../domain/fragrance';
 import { Accord } from '../components/ui';
 import { normalizeKey } from '../domain/util';
@@ -86,6 +86,7 @@ export default function Catalog() {
             const notes = [...i.t.top, ...i.t.heart, ...i.t.base, ...i.t.flat];
             return (
               <li key={`${i.b}|${i.n}|${i.c ?? ''}|${i.col ?? ''}`} className="cat-row">
+                {i.i && <img className="cat-thumb" src={catalogImageUrl(i.i.f)} alt="" loading="lazy" decoding="async" />}
                 <div style={{ minWidth: 0, flex: 1 }}>
                   <span className="kicker dim">
                     {i.b}
