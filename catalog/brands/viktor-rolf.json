@@ -1,0 +1,478 @@
+{
+  "brand": "Viktor&Rolf",
+  "slug": "viktor-rolf",
+  "officialSite": "https://www.viktor-rolf.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official viktor-rolf.com fragrance collection could not be read (en-us collection 404, collections/fragrances returned 404 on direct fetch, products.json feed for fragrances was empty; the root products.json returned bridal items only). Range and all facts taken from osmoz.com brand listing and product pages (database, reported). Osmoz lists 11 perfumes for the house; those are covered. Newer lines named in search results (e.g. Good Fortune, Flowerbomb Nectar, Flowerbomb Midnight) were not opened and are not included. Osmoz does not state discontinued status, so discontinued is false throughout; Antidote is not confirmed as discontinued by any opened source.",
+  "fragrances": [
+    {
+      "name": "Flowerbomb",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2005,
+      "perfumer": "Olivier Polge, Carlos Benaim, Domitille Bertier",
+      "family": "Oriental Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "tea"
+        ],
+        "heart": [
+          "rose",
+          "orchid",
+          "freesia",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/2658/flowerbomb",
+          "name": "Osmoz — Flowerbomb",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flowerbomb Extreme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2005,
+      "perfumer": null,
+      "family": "Oriental Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "jasmine"
+        ],
+        "heart": [
+          "osmanthus",
+          "balm",
+          "white flower"
+        ],
+        "base": [
+          "patchouli",
+          "amber",
+          "balm",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/2659/flowerbomb-extreme",
+          "name": "Osmoz — Flowerbomb Extreme",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flowerbomb Fireworks Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2015,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "osmanthus",
+          "bergamot",
+          "tea"
+        ],
+        "heart": [
+          "orange blossom",
+          "rose",
+          "orchid",
+          "freesia",
+          "white jasmine"
+        ],
+        "base": [
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/8329/flowerbomb-fireworks-eau-de-parfum",
+          "name": "Osmoz — Flowerbomb Fireworks Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flowerbomb Dew",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2020,
+      "perfumer": null,
+      "family": "Floral Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambrette",
+          "pear",
+          "bergamot"
+        ],
+        "heart": [
+          "white iris",
+          "rose petal"
+        ],
+        "base": [
+          "heliotrope",
+          "cashmeran",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/8614/flowerbomb-dew",
+          "name": "Osmoz — Flowerbomb Dew",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flowerbomb 'La Vie en Rose'",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Floral Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose bay",
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/2655/flowerbomb-la-vie-en-rose",
+          "name": "Osmoz — Flowerbomb 'La Vie en Rose'",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flowerbomb 'La Vie en Rose' 2011",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2011,
+      "perfumer": null,
+      "family": "Oriental Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose bay",
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "ambergris",
+          "patchouli",
+          "cashmeran"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/2656/flowerbomb-la-vie-en-rose-2011",
+          "name": "Osmoz — Flowerbomb 'La Vie en Rose' 2011",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spicebomb",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2012,
+      "perfumer": "Olivier Polge, IFF",
+      "family": "Oriental Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
+          "elemi",
+          "pimento",
+          "pepper",
+          "saffron"
+        ],
+        "base": [
+          "vetiver",
+          "tobacco",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/2657/spicebomb",
+          "name": "Osmoz — Spicebomb",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spicebomb Eau Fraîche",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2014,
+      "perfumer": null,
+      "family": "Woody Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pimento",
+          "grapefruit",
+          "pink peppercorn"
+        ],
+        "heart": [
+          "lavender",
+          "elemi"
+        ],
+        "base": [
+          "tobacco",
+          "amber",
+          "moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/7957/spicebomb-eau-fraiche",
+          "name": "Osmoz — Spicebomb Eau Fraîche",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Mega",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2009,
+      "perfumer": "Olivier Polge",
+      "family": "Floral Green",
+      "accords": [],
+      "notes": {
+        "top": [
+          "basil",
+          "lemon",
+          "violet leaf"
+        ],
+        "heart": [
+          "jasmine",
+          "peony",
+          "pear"
+        ],
+        "base": [
+          "cedar",
+          "sandalwood",
+          "cashmeran",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/2654/eau-mega",
+          "name": "Osmoz — Eau Mega",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bonbon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2014,
+      "perfumer": "Serge Majoullier, Cécile Matton",
+      "family": "Floral Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach",
+          "mandarin",
+          "orange"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "caramel",
+          "cedar",
+          "sandalwood",
+          "amber",
+          "gaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/7892/bonbon",
+          "name": "Osmoz — Bonbon",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Antidote",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2006,
+      "perfumer": "Alienor Massenet, Pierre Wargnye",
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pepper",
+          "cardamom",
+          "mint",
+          "bergamot",
+          "mandarin",
+          "grapefruit"
+        ],
+        "heart": [
+          "violet",
+          "orange blossom",
+          "geranium",
+          "lavandin",
+          "cinnamon",
+          "nutmeg",
+          "jasmine"
+        ],
+        "base": [
+          "labdanum",
+          "vanilla",
+          "guaiac wood",
+          "patchouli",
+          "sandalwood",
+          "white musk",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/viktor-rolf/2660/antidote",
+          "name": "Osmoz — Antidote",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

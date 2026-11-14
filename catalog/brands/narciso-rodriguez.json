@@ -1,0 +1,416 @@
+{
+  "brand": "Narciso Rodriguez",
+  "slug": "narciso-rodriguez",
+  "officialSite": "https://www.narcisorodriguezparfums.com/en/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official narcisorodriguezparfums.com For Her and NARCISO collection pages were readable; 12 eau de parfum/toilette products listed there were each opened and notes taken from the product page. Notes on this site are untiered lists, stored as flat. No launch years, perfumers or brand country stated on those pages, so left null. Official site did not list the other lines (e.g. For Him, Essence, Rose Musc), which were not covered.",
+  "fragrances": [
+    {
+      "name": "For Her Eau de Parfum Intense",
+      "collection": "For Her",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "peach",
+          "rose",
+          "musk",
+          "patchouli",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her/for-her-edpi.html",
+          "name": "Narciso Rodriguez — for her eau de parfum intense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "For Her Pure Musc Blanc",
+      "collection": "For Her",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "clean",
+          "jasmine",
+          "musk",
+          "cedarwood",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her-pure-musc-blanc/for-her-pure-musc-blanc.html",
+          "name": "Narciso Rodriguez — for her pure musc blanc",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "For Her Eau de Toilette",
+      "collection": "For Her",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "chypre musk",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "osmanthus",
+          "musk",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her/for-her-edt.html",
+          "name": "Narciso Rodriguez — for her eau de toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "For Her Eau de Parfum",
+      "collection": "For Her",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "peach",
+          "rose",
+          "musk",
+          "patchouli",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her/for-her-edp.html",
+          "name": "Narciso Rodriguez — for her eau de parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "For Her Pure Musc",
+      "collection": "For Her",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "orange blossom",
+          "jasmine",
+          "musk",
+          "cashmeran wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her-pure-musc/for-her-PURE-MUSC.html",
+          "name": "Narciso Rodriguez — for her PURE MUSC",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "For Her Musc Noir",
+      "collection": "For Her",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "plum",
+          "heliotrope",
+          "musk",
+          "suede"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her-musc-noir/for-her-MUSC-NOIR.html",
+          "name": "Narciso Rodriguez — for her MUSC NOIR",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "For Her Musc Noir Rose",
+      "collection": "For Her",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "amber floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "tuberose",
+          "musk",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her-musc-noir-rose/for-her-MUSC-NOIR-ROSE.html",
+          "name": "Narciso Rodriguez — for her MUSC NOIR ROSE",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "For Her Musc Nude",
+      "collection": "For Her",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white floral",
+          "tonka bean",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her-musc-nude/for-her-MUSC-NUDE.html",
+          "name": "Narciso Rodriguez — for her MUSC NUDE",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narciso Radiante",
+      "collection": "NARCISO",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cotton flower",
+          "orange blossom",
+          "clove blossom",
+          "musk",
+          "white vetiver",
+          "cedar wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-narciso/Narciso-Radiante.html",
+          "name": "Narciso Rodriguez — NARCISO eau de parfum radiante",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narciso Poudrée",
+      "collection": "NARCISO",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "powdery floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "rose",
+          "musk",
+          "cedar wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-narciso/Narciso-Poudree.html",
+          "name": "Narciso Rodriguez — NARCISO eau de parfum Poudrée",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narciso Cristal",
+      "collection": "NARCISO",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "rose",
+          "musk",
+          "cedar wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-narciso/Narciso-Cristal.html",
+          "name": "Narciso Rodriguez — NARCISO eau de parfum Cristal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narciso Ambrée",
+      "collection": "NARCISO",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "exotic floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ylang ylang",
+          "frangipani",
+          "musk",
+          "amber",
+          "cedar wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-narciso/Narciso-Ambree.html",
+          "name": "Narciso Rodriguez — NARCISO eau de parfum Ambrée",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

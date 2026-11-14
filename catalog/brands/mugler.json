@@ -1,0 +1,442 @@
+{
+  "brand": "Mugler",
+  "slug": "mugler",
+  "officialSite": "https://www.mugler.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official mugler.com fragrance pages (collection, scent-family and product pages) returned HTTP 403 to WebFetch; retailer product pages (theperfumeshop.com) and parfumo.com also 403. Facts taken from osmoz.com (database) product pages for Thierry Mugler fragrances, all reported. Only the main lines (Angel, Alien, A*Men flankers) read from the osmoz brand listing; the wider range (e.g. Angel Elixir, Angel Nova, Alien Goddess, Aura Mugler, Alien Hypersense) was not covered because pages were not readable. Concentration left null where the source does not state it. Official site product URLs are not used. Discontinued status not stated by sources, so false.",
+  "fragrances": [
+    {
+      "name": "Angel",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1992,
+      "perfumer": null,
+      "family": "Oriental Vanilla",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "passion fruit",
+          "peach",
+          "apricot"
+        ],
+        "base": [
+          "vanilla",
+          "caramel",
+          "patchouli",
+          "chocolate"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/2195/angel",
+          "name": "Osmoz — Angel",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Angel Aqua Chic",
+      "collection": null,
+      "concentration": "Eau de Toilette Légère",
+      "releaseYear": 2012,
+      "perfumer": "Aurelien Guichard",
+      "family": "Chypre Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose bay",
+          "lemon"
+        ],
+        "heart": [],
+        "base": [
+          "vanilla",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/2191/angel-aqua-chic",
+          "name": "Osmoz — Angel Aqua Chic",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alien",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2005,
+      "perfumer": "Dominique Ropion, Laurent Bruyère",
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine"
+        ],
+        "heart": [
+          "cashmeran"
+        ],
+        "base": [
+          "white amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/2209/alien",
+          "name": "Osmoz — Alien",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alien Essence Absolue",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": 2012,
+      "perfumer": "Dominique Ropion",
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine",
+          "heliotrope",
+          "iris"
+        ],
+        "heart": [
+          "myrrh",
+          "cashmeran"
+        ],
+        "base": [
+          "ambergris",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/2197/alien-essence-absolue",
+          "name": "Osmoz — Alien Essence Absolue",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alien Mirage",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2020,
+      "perfumer": null,
+      "family": "Woody Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "dill",
+          "lavender",
+          "thyme",
+          "anise",
+          "mint",
+          "lemon",
+          "beech"
+        ],
+        "heart": [
+          "geranium",
+          "osmanthus",
+          "pepper",
+          "leather"
+        ],
+        "base": [
+          "cashmeran",
+          "amber",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/8631/alien-mirage",
+          "name": "Osmoz — Alien Mirage",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A*Men",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 1996,
+      "perfumer": null,
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "coriander",
+          "peppermint",
+          "bergamot"
+        ],
+        "heart": [
+          "patchouli",
+          "atlas cedar"
+        ],
+        "base": [
+          "styrax",
+          "coffee",
+          "white musk",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/2198/a-men",
+          "name": "Osmoz — A*Men",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A*Men Pure Havane",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2011,
+      "perfumer": "Jacques Huclier",
+      "family": "Oriental Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "tobacco leaf"
+        ],
+        "heart": [
+          "tobacco",
+          "vanilla"
+        ],
+        "base": [
+          "cocoa",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/2185/a-men-pure-havane",
+          "name": "Osmoz — A*Men Pure Havane",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A*Men Pure Malt",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2009,
+      "perfumer": null,
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [
+          "barley"
+        ],
+        "base": [
+          "peat"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/2176/a-men-pure-malt",
+          "name": "Osmoz — A*Men Pure Malt",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A*Men Pure Shot",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2012,
+      "perfumer": "Jacques Huclier",
+      "family": "Woody Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "juniper berry",
+          "frosty mint"
+        ],
+        "heart": [],
+        "base": [
+          "patchouli",
+          "sequoia wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/2193/a-men-pure-shot",
+          "name": "Osmoz — A*Men Pure Shot",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A*Men Pure Cuir",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2012,
+      "perfumer": null,
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "patchouli",
+          "atlas cedar",
+          "coffee"
+        ],
+        "base": [
+          "vanilla",
+          "white musk",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/6716/a-men-pure-cuir-pure-leather",
+          "name": "Osmoz — A*Men Pure Cuir",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A*Men Le Goût du Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2011,
+      "perfumer": null,
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pimento",
+          "coffee"
+        ],
+        "heart": [],
+        "base": [
+          "vanilla",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/thierry-mugler/2188/a-men-le-gout-du-parfum",
+          "name": "Osmoz — A*Men Le Goût du Parfum",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}
