@@ -1,0 +1,221 @@
+{
+  "brand": "Issey Miyake",
+  "slug": "issey-miyake",
+  "officialSite": "https://www.isseymiyakeparfums.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official isseymiyakeparfums.com collection and product pages were readable with WebFetch. Notes are taken from the official product pages where they are shown; several pages (A Drop d'Issey, Rose&Rose) returned HTTP 410 Gone and are excluded. Men's and Le Sel d'Issey product pages list concentrations and product URLs but no notes, so those entries have no notes. Launch years and perfumers are not stated on the pages read. Brand-level country not stated. Range is partial: Eau d'Issey Intense, Pivoine, and men's Eau Essentielle product pages were not read.",
+  "fragrances": [
+    {
+      "name": "L'Eau d'Issey Eau de Toilette",
+      "collection": "L'Eau d'Issey",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Aquatic",
+      "accords": [],
+      "notes": { "top": ["lotus", "rose"], "heart": ["lily"], "base": ["exotic wood", "amber", "sandalwood", "musk", "cedarwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l-eau-d-issey-eau-de-toilette-3423470300154.html", "name": "Issey Miyake Parfums — L'Eau d'Issey Eau de Toilette", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "L'Eau d'Issey Eau de Parfum",
+      "collection": "L'Eau d'Issey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lotus rose"], "heart": ["lily", "yellow flowers"], "base": ["exotic wood", "amber", "sandalwood", "musk", "cedarwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l-eau-d-issey-eau-de-parfum-EI_PARFUM.html", "name": "Issey Miyake Parfums — L'Eau d'Issey Eau de Parfum", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "L'Eau d'Issey Eau Essentielle",
+      "collection": "L'Eau d'Issey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["nashi pear"], "heart": ["orange blossom"], "base": ["cedarwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l-eau-d-issey-eau-essentielle-eau-de-parfum-EI_ESSENTIELLE.html", "name": "Issey Miyake Parfums — L'Eau d'Issey Eau Essentielle", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "L'Eau d'Issey Solar Violet",
+      "collection": "L'Eau d'Issey",
+      "concentration": "Eau de Toilette Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Fruity",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["pear", "violet leaves", "iris"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l-eau-d-issey-solar-violet-eau-de-toilette-intense-LEDISVEDTI.html", "name": "Issey Miyake Parfums — L'Eau d'Issey Solar Violet", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Lumière d'Issey",
+      "collection": "Lumière d'Issey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/women/fragrances/lumi%C3%A8re-d-issey", "name": "Issey Miyake Parfums — Lumière d'Issey", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Le Sel d'Issey Eau de Toilette",
+      "collection": "Le Sel d'Issey",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-le-sel-d-issey-eau-de-toilette-LE_SEL.html", "name": "Issey Miyake Parfums — Le Sel d'Issey Eau de Toilette", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Le Sel d'Issey Eau de Parfum",
+      "collection": "Le Sel d'Issey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-le-sel-d-issey-eau-de-parfum-LE_SEL_EAU_DE_PARFUM.html", "name": "Issey Miyake Parfums — Le Sel d'Issey Eau de Parfum", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Le Sel d'Issey Parfum",
+      "collection": "Le Sel d'Issey",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-le-sel-d-issey-parfum-LE_SEL_PARFUM.html", "name": "Issey Miyake Parfums — Le Sel d'Issey Parfum", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'eau d'Issey pour Homme Eau Essentielle",
+      "collection": "L'eau d'Issey pour Homme",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l%E2%80%99eau-d%E2%80%99issey-pour-homme-eau-essentielle-eau-de-parfum-EIH_ESSENTIELLE.html", "name": "Issey Miyake Parfums — L'eau d'Issey pour Homme Eau Essentielle", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'eau d'Issey pour Homme Eau de Toilette",
+      "collection": "L'eau d'Issey pour Homme",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l%E2%80%99eau-d%E2%80%99issey-pour-homme-eau-de-toilette-EIH_EDT.html", "name": "Issey Miyake Parfums — L'eau d'Issey pour Homme Eau de Toilette", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'eau d'Issey pour Homme Eau de Parfum",
+      "collection": "L'eau d'Issey pour Homme",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l%E2%80%99eau-d%E2%80%99issey-pour-homme-eau-de-parfum-EIH_EDP.html", "name": "Issey Miyake Parfums — L'eau d'Issey pour Homme Eau de Parfum", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'eau d'Issey pour Homme Wood&Wood",
+      "collection": "L'eau d'Issey pour Homme",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l%E2%80%99eau-d%E2%80%99issey-pour-homme-woodandwood-eau-de-parfum-EI_WOOD.html", "name": "Issey Miyake Parfums — L'eau d'Issey pour Homme Wood&Wood", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'eau d'Issey pour Homme Eau & Cèdre",
+      "collection": "L'eau d'Issey pour Homme",
+      "concentration": "Eau de Toilette Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l-eau-d-issey-pour-homme-eau-and-c%C3%A8dre-eau-de-toilette-intense-EI_CEDRE.html", "name": "Issey Miyake Parfums — L'eau d'Issey pour Homme Eau & Cèdre", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "L'eau d'Issey pour Homme Solar Lavender",
+      "collection": "L'eau d'Issey pour Homme",
+      "concentration": "Eau de Toilette Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.isseymiyakeparfums.com/en/issey-miyake-l-eau-d-issey-pour-homme-solar-lavender-eau-de-toilette-intense-LEDIPHSLEDTI.html", "name": "Issey Miyake Parfums — L'eau d'Issey pour Homme Solar Lavender", "type": "official", "supports": ["concentration"] }
+      ]
+    }
+  ]
+}

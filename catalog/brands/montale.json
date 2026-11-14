@@ -1,0 +1,751 @@
+{
+  "brand": "Montale",
+  "slug": "montale",
+  "officialSite": "https://montaleparfums.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site (montaleparfums.com) read: collection listing pages (Mystical Escape, Garden of Eden, Wild Refuge, Sweet Reverie, Ocean Breeze, Solar Mirage, Land of Conquest) and the official product pages. The Mystical Escape collection (28 perfumes) is covered in full, plus a selection of other Montale perfumes; the catalogue is partial (roughly 100 unique perfumes are listed across collections). Gift sets, discovery sets, body care and candles are excluded. Concentration is Eau de Parfum on the pages read. Perfumer and release year are not stated, so they are null. Family values are the breadcrumb category on the product page. Brand country is not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Attar",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["saffron", "ylang-ylang", "lemon", "leather"],
+        "heart": ["rose", "geranium", "jasmine"],
+        "base": ["sandalwood", "patchouli", "amber", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/29-attar-or-mat.html", "name": "Montale - Attar", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Aoud Queen Roses",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["saffron", "pepper"],
+        "heart": ["rose", "jasmine", "ylang-ylang", "patchouli", "oud"],
+        "base": ["oakmoss", "sandalwood", "guaiacwood", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/22-aoud-queen-roses-or-mat.html", "name": "Montale - Aoud Queen Roses", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Aoud Musk",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": ["elemi", "saffron"],
+        "heart": ["violet", "clove", "patchouli", "oud"],
+        "base": ["sandalwood", "amber", "musk", "oakmoss"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/amber/20-aoud-musk-marron.html", "name": "Montale - Aoud Musk", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Dallachai",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": ["cardamom", "clove", "saffron", "passion fruit"],
+        "heart": ["coffee", "milk"],
+        "base": ["amber", "musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/spicy/347-dallachai.html", "name": "Montale - Dallachai", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Beast Love",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["pear", "plum", "bergamot"],
+        "heart": ["leather", "white cedar", "rose", "vetiver"],
+        "base": ["vanilla", "tonka bean", "musk", "amber"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/leathery/342-beast-love.html", "name": "Montale - Beast Love", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Intense Amber",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": ["rose", "red berries"],
+        "heart": ["grey amber", "sandalwood", "saffron"],
+        "base": ["white musk", "raspberry", "vanilla"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/amber/334-so-amber.html", "name": "Montale - Intense Amber", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Wood On Fire",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["lemon", "cedarwood", "incense"],
+        "heart": ["vetiver", "oud", "sandalwood"],
+        "base": ["amber", "vanilla", "toffee", "labdanum"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/311-wood-on-fire.html", "name": "Montale - Wood On Fire", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Oud Edition",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": ["pink pepper", "black pepper", "incense", "bergamot"],
+        "heart": ["patchouli leaves", "leather", "oud", "rose"],
+        "base": ["labdanum", "sandalwood", "vanilla", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/woody/300-oud-edition.html", "name": "Montale - Oud Edition", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Oud Pashmina",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": ["saffron", "incense", "lemon", "sugar"],
+        "heart": ["leather", "rose", "oud", "patchouli"],
+        "base": ["amber", "mate", "oakmoss", "musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/amber/291-oud-pashmina.html", "name": "Montale - Oud Pashmina", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Oud Tobacco",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["sumac", "lemon", "black pepper", "clove", "cumin"],
+        "heart": ["tobacco", "incense", "orange blossom", "patchouli leaves"],
+        "base": ["oud", "grey amber", "sandalwood", "musk", "tonka bean"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/leathery/288-oud-tobacco.html", "name": "Montale - Oud Tobacco", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Oudrising",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["leather", "bergamot", "grapefruit", "pepper"],
+        "heart": ["rose", "jasmine", "oud", "patchouli leaves", "labdanum", "black tea"],
+        "base": ["sandalwood", "cedarwood", "amber", "musk", "incense", "vanilla", "tobacco"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/287-oudrising.html", "name": "Montale - Oudrising", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Oud Dream",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["honey", "cinnamon", "nutmeg", "saffron", "cardamom", "lavender", "leather"],
+        "heart": ["rose", "tuberose", "oud", "patchouli leaves"],
+        "base": ["cedarwood", "sandalwood", "grey amber", "labdanum", "vanilla"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/276-oud-dream.html", "name": "Montale - Oud Dream", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Vetiver Patchouli",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "mandarin", "pink pepper"],
+        "heart": ["carrot", "jasmine", "patchouli leaves"],
+        "base": ["vetiver", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/woody/275-vetiver-patchouli.html", "name": "Montale - Vetiver Patchouli", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Fantastic Oud",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "lemon", "oud", "incense", "black pepper", "cumin", "saffron"],
+        "heart": ["patchouli leaves", "rose", "jasmine"],
+        "base": ["vanilla", "sandalwood", "amber", "leather", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/258-fantastic-oud.html", "name": "Montale - Fantastic Oud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "INTENSE Black Aoud",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["oud", "lemon", "mandarin", "geranium", "saffron"],
+        "heart": ["rose", "patchouli leaves"],
+        "base": ["leather", "amber", "guaiacwood", "sandalwood", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/251-black-aoud-intense.html", "name": "Montale - INTENSE Black Aoud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Oudmazing",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["orange", "bergamot", "pear", "fig", "saffron", "oud"],
+        "heart": ["orris", "jasmine", "patchouli leaves"],
+        "base": ["leather", "vanilla", "grape", "guaiacwood", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/226-oudmazing.html", "name": "Montale - Oudmazing", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Honey Aoud",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": {
+        "top": ["cinnamon", "honey"],
+        "heart": ["patchouli leaves"],
+        "base": ["amber", "leather", "oud", "vanilla", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/gourmand/203-honey-aoud.html", "name": "Montale - Honey Aoud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Aoud Night",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "lemon", "oud"],
+        "heart": ["patchouli leaves", "rose"],
+        "base": ["amber", "leather", "white musk", "guaiacwood", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/189-aoud-night.html", "name": "Montale - Aoud Night", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Nepal Aoud",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["oud", "nutmeg", "saffron"],
+        "heart": ["rose", "cedar"],
+        "base": ["vanilla", "leather", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/186-nepal-aoud.html", "name": "Montale - Nepal Aoud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "White Aoud",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "lemon", "cardamom", "lavender"],
+        "heart": ["oud", "rose", "jasmine", "patchouli leaves"],
+        "base": ["amber", "leather", "oakmoss", "vetiver", "sandalwood", "vanilla", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/83-white-aoud-blanc.html", "name": "Montale - White Aoud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Patchouli Leaves",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": ["patchouli leaves"],
+        "heart": ["vanilla", "grey amber"],
+        "base": ["white musk", "cistus"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/woody/60-patchouli-leaves-argent.html", "name": "Montale - Patchouli Leaves", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Full Incense",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["incense oil", "elemi", "clove", "chamomile"],
+        "heart": ["vetiver", "aldehydes", "cedarwood", "patchouli"],
+        "base": ["incense resin", "amber", "cistus", "vanilla"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/47-full-incense-marron.html", "name": "Montale - Full Incense", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Dark Purple",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity",
+      "accords": [],
+      "notes": {
+        "top": ["plum", "orange"],
+        "heart": ["rose", "geranium", "patchouli", "red berries"],
+        "base": ["grey amber", "teakwood", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/fruity/41-dark-purple-prune.html", "name": "Montale - Dark Purple", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Dark Aoud",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": ["black pepper", "saffron", "cardamom"],
+        "heart": ["oud", "leather", "cedar"],
+        "base": ["sandalwood", "vetiver", "grey amber"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/woody/40-dark-aoud-bulles.html", "name": "Montale - Dark Aoud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Blue Amber",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": ["coriander", "lavender", "nutmeg", "bergamot"],
+        "heart": ["patchouli", "geranium", "vetiver", "thyme"],
+        "base": ["vanilla", "balsam", "cistus", "musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/amber/32-blue-amber-bleu.html", "name": "Montale - Blue Amber", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Black Aoud",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["lemon", "mandarin", "oud", "saffron"],
+        "heart": ["rose", "patchouli"],
+        "base": ["leather", "guaiacwood", "sandalwood", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/30-black-aoud-noir.html", "name": "Montale - Black Aoud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Amber & Spices",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": ["nutmeg", "saffron", "clove", "lemon"],
+        "heart": ["rose", "geranium", "oud"],
+        "base": ["sandalwood", "amber", "patchouli", "musk", "guaiacwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/amber/9-amandes-orientales-argent.html", "name": "Montale - Amber & Spices", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Cedrat Lova",
+      "collection": "Mystical Escape",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": ["sicilian citron", "bergamot", "calabrian lemon", "warm ginger"],
+        "heart": ["mysore sandalwood", "indian jasmine", "cambodian oud"],
+        "base": ["cuban tobacco", "brazilian tonka bean", "ambergris", "oakmoss"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/floral/367-cedrat-lova.html", "name": "Montale - Cedrat Lova", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Aoud Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "lemon", "nutmeg", "black pepper", "rosemary"],
+        "heart": ["rose", "violet", "leather", "cedarwood"],
+        "base": ["guaiacwood", "white musk", "oakmoss"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/leathery/17-aoud-leather-or-brillant.html", "name": "Montale - Aoud Leather", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Arabians",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["lavender", "cardamom", "black pepper", "nutmeg", "clove", "cinnamon", "saffron"],
+        "heart": ["leather", "patchouli leaves", "vetiver", "rose", "jasmine"],
+        "base": ["black musk", "guaiacwood", "oakmoss", "amber"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/241-arabians.html", "name": "Montale - Arabians", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Arabians Tonka",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "saffron"],
+        "heart": ["rose", "oud"],
+        "base": ["amber", "oakmoss", "tonka bean", "leather", "brown sugar", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/282-arabians-tonka.html", "name": "Montale - Arabians Tonka", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Holy Musk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": ["rose water"],
+        "heart": ["damask rose", "italian violet"],
+        "base": ["tahara musk", "ambergris", "brazilian tonka bean"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/floral/368-holy-musk.html", "name": "Montale - Holy Musk", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Omahata Love",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["raspberry", "lychee", "blackcurrant"],
+        "heart": ["rose", "suede", "cashmeran"],
+        "base": ["ambrocenide", "muscenone", "leather oud"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/leathery/372-omahata-love.html", "name": "Montale - Omahata Love", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Oudyssee",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["pink pepper", "black pepper", "bergamot", "lemon", "sage", "lavender"],
+        "heart": ["oud", "leather", "ginger", "amber", "patchouli"],
+        "base": ["mate", "oakmoss", "grey amber"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/330-oudyssee.html", "name": "Montale - Oudyssee", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Oud Sapparot",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["pineapple", "oud", "saffron"],
+        "heart": ["leather", "birch", "cinnamon"],
+        "base": ["vanilla", "coconut", "white musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/oriental/357-oud-sapparot.html", "name": "Montale - Oud Sapparot", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Aqua Palma",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": ["mandarin", "bergamot", "cardamom", "pepper", "peach"],
+        "heart": ["tuberose", "rose", "ginger", "sandalwood", "cedarwood", "orris"],
+        "base": ["teakwood", "amber", "vanilla", "tonka bean"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/woody/305-aqua-palma.html", "name": "Montale - Aqua Palma", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Rendez-vous a Milan",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": ["coffee", "thai basil"],
+        "heart": ["rose", "basil", "clove", "tuberose"],
+        "base": ["vanilla", "toffee", "musk", "amber"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://montaleparfums.com/en/floral/323-rendez-vous-a-milan.html", "name": "Montale - Rendez-vous a Milan", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    }
+  ]
+}

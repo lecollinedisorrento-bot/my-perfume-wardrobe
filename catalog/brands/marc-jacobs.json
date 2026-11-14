@@ -1,0 +1,148 @@
+{
+  "brand": "Marc Jacobs",
+  "slug": "marc-jacobs",
+  "officialSite": "https://www.marcjacobs.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The official US Daisy listing page was readable (18 products, with prices and product URLs), so the Daisy range is taken from it. Official product pages returned HTTP 403 to WebFetch, so no notes come from the brand site; notes for two Daisy entries come from Lookfantastic product pages (reported). The official Perfect fragrance page returned 403 and no Perfect product URLs were readable, so the Perfect line is not included. Daisy Hair and Body Mists, pen sprays and gift sets are excluded. Daisy Eau de Toilette 100 mL, Daisy Murakami and Daisy Wild Intense/Eau So Extra are listed with concentration only; their notes were not readable. Brand-level country not stated.",
+  "fragrances": [
+    {
+      "name": "Daisy Eau de Toilette",
+      "collection": "Daisy",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.marcjacobs.com/us-en/daisy-eau-de-toilette-100-ml/31655513034-000.html", "name": "Marc Jacobs — Daisy Eau de Toilette 100 mL", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Daisy Eau So Intense",
+      "collection": "Daisy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["strawberry", "pear"], "heart": ["honey", "rosebud"], "base": ["vanilla", "green moss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://lookfantastic.com/p/marc-jacobs-daisy-eau-so-intense-eau-de-parfum-100ml/12748561", "name": "Lookfantastic — Marc Jacobs Daisy Eau So Intense Eau de Parfum 100ml", "type": "retailer", "supports": ["notes", "concentration"] },
+        { "url": "https://www.marcjacobs.com/us-en/daisy-eau-so-intense-eau-de-parfum-100-ml/3616301776024-000.html", "name": "Marc Jacobs — Daisy Eau So Intense Eau de Parfum 100 mL", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Daisy Wild Eau de Parfum",
+      "collection": "Daisy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["banana blossom accord"], "heart": ["jasmine", "macadamia accord"], "base": ["sandalwood", "vetiver des sables"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lookfantastic.com/p/marc-jacobs-daisy-wild-eau-de-parfum-50ml/15363203", "name": "Lookfantastic — Marc Jacobs Daisy Wild Eau de Parfum 50ml", "type": "retailer", "supports": ["notes", "concentration"] },
+        { "url": "https://www.marcjacobs.com/us-en/daisy-wild-eau-de-parfum-100-ml/3616303466060-000.html", "name": "Marc Jacobs — Daisy Wild Eau de Parfum 100 mL", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Daisy Wild Eau So Extra",
+      "collection": "Daisy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.marcjacobs.com/us-en/daisy-wild-eau-so-extra-eau-de-parfum-50-ml/3616306701670-000.html", "name": "Marc Jacobs — Daisy Wild Eau So Extra Eau De Parfum 50 mL", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Daisy Wild Intense",
+      "collection": "Daisy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.marcjacobs.com/us-en/daisy-wild-intense-eau-de-parfum-50-ml/3616305033048-000.html", "name": "Marc Jacobs — Daisy Wild Intense Eau De Parfum 50 mL", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Daisy Murakami Pink",
+      "collection": "Daisy Murakami",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.marcjacobs.com/us-en/daisy-murakami-eau-de-parfum-50-ml/3616305033130-000.html", "name": "Marc Jacobs — Daisy Murakami Pink Eau De Parfum 50 mL", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Daisy Murakami Green",
+      "collection": "Daisy Murakami",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.marcjacobs.com/us-en/daisy-murakami-eau-de-parfum-50-ml/3616307085229-000.html", "name": "Marc Jacobs — Daisy Murakami Green Eau De Parfum 50 mL", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Daisy Murakami Yellow",
+      "collection": "Daisy Murakami",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.marcjacobs.com/us-en/daisy-murakami-eau-de-parfum-50-ml/3616305033147-000.html", "name": "Marc Jacobs — Daisy Murakami Yellow Eau De Parfum 50 mL", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Daisy Murakami Blue",
+      "collection": "Daisy Murakami",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.marcjacobs.com/us-en/daisy-murakami-eau-de-parfum-50-ml/3616305033154-000.html", "name": "Marc Jacobs — Daisy Murakami Blue Eau De Parfum 50 mL", "type": "official", "supports": ["concentration"] }
+      ]
+    }
+  ]
+}

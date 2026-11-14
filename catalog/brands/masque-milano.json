@@ -1,0 +1,889 @@
+{
+  "brand": "Masque Milano",
+  "slug": "masque-milano",
+  "officialSite": "https://masquemilano.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "masquemilano.com pages (Emerald and Le Donne collections) returned empty content, so the collection structure comes from the official site's search snippet and the ArtisticFragrances shop page (the brand's official partner store, 28 items listed in Opera, Le Donne di MASQUE, Ruby and Emerald collections). Concentration Eau de Parfum is taken from the MaxAroma listing for the items it covers; other items have no concentration stated. Notes come from retailer pages only: Perfumarie (Terralba, incl. perfumer Delphine Thierry, as listed) and 50 ML (Dolceacqua, Tango, Madeleine, Petra; Dolceacqua and Tango have top/heart/base, the others are a single list). The ArtisticFragrances shop page and 50 ML list show no notes for the rest. Vaiana notes were seen only in a search snippet and not recorded. Year, family and country are not stated on fetched pages. Prices and stock were not recorded.",
+  "fragrances": [
+    {
+      "name": "Terralba",
+      "collection": "Opera",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Delphine Thierry",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "clary sage",
+          "lemon",
+          "green tangerine"
+        ],
+        "heart": [
+          "myrtle",
+          "thyme",
+          "curry leaf",
+          "everlasting flower"
+        ],
+        "base": [
+          "lentisc",
+          "juniper",
+          "cypress",
+          "cedar wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://perfumarie.com/products/masque-milano-perfumes-terralba-edp",
+          "name": "Perfumarie — Terralba",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Montecristo",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Russian Tea",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Times Square",
+      "collection": "Opera",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.maxaroma.com/masque-milano-fragrances/smid-908",
+          "name": "MaxAroma — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Luci ed Ombre",
+      "collection": "Opera",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.maxaroma.com/masque-milano-fragrances/smid-908",
+          "name": "MaxAroma — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Mandala",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Homage to Hemingway",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Kintsugi",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "L'Attesa",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Romanza",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Love Kills",
+      "collection": "Opera",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.maxaroma.com/masque-milano-fragrances/smid-908",
+          "name": "MaxAroma — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Tango",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "black pepper",
+          "cardamom"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "cumin",
+          "patchouli"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "melilot",
+          "amber",
+          "leather",
+          "benzoin",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/brands/masque-milano",
+          "name": "50 ML — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Lost Alice",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Ray-Flection",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Sleight of Fern",
+      "collection": "Opera",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.maxaroma.com/masque-milano-fragrances/smid-908",
+          "name": "MaxAroma — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "White Whale",
+      "collection": "Opera",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Dolceacqua",
+      "collection": "Le Donne di MASQUE",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sea breeze",
+          "lily of the valley",
+          "ivy",
+          "marjoram"
+        ],
+        "heart": [
+          "mimosa",
+          "almond blossom",
+          "white rose",
+          "ylang ylang"
+        ],
+        "base": [
+          "saffron",
+          "cedarwood",
+          "benzoin",
+          "oakmoss",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/brands/masque-milano",
+          "name": "50 ML — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.maxaroma.com/masque-milano-fragrances/smid-908",
+          "name": "MaxAroma — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Petra",
+      "collection": "Le Donne di MASQUE",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "mandarin",
+          "pink pepper",
+          "jasmine",
+          "rose",
+          "luqaimat",
+          "frankincense",
+          "patchouli",
+          "benzoin",
+          "myrrh",
+          "leather",
+          "grey amber"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/brands/masque-milano",
+          "name": "50 ML — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Madeleine",
+      "collection": "Le Donne di MASQUE",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "chestnut",
+          "whipped cream",
+          "cumin",
+          "tuberose",
+          "cypress",
+          "geranium",
+          "tonka bean",
+          "milk musk",
+          "vanilla"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/brands/masque-milano",
+          "name": "50 ML — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Diana",
+      "collection": "Le Donne di MASQUE",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.maxaroma.com/masque-milano-fragrances/smid-908",
+          "name": "MaxAroma — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Catherine",
+      "collection": "Le Donne di MASQUE",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.maxaroma.com/masque-milano-fragrances/smid-908",
+          "name": "MaxAroma — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Vaiana",
+      "collection": "Le Donne di MASQUE",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.maxaroma.com/masque-milano-fragrances/smid-908",
+          "name": "MaxAroma — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Tango Oud",
+      "collection": "Ruby",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Russian Tea Oud",
+      "collection": "Ruby",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Mandala Oud",
+      "collection": "Ruby",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.maxaroma.com/masque-milano-fragrances/smid-908",
+          "name": "MaxAroma — Masque Milano",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Love Kills Oud",
+      "collection": "Ruby",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Ribot",
+      "collection": "Emerald",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Alcove",
+      "collection": "Emerald",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://artisticfragrances.com/shop/",
+          "name": "ArtisticFragrances — MASQUE Milano shop",
+          "type": "retailer",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}
