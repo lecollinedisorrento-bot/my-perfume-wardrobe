@@ -808,8 +808,8 @@ input[type='range'] {
   display: grid;
   place-items: center;
   background: var(--surface);
-  border: 2px solid var(--ink);
-  color: var(--ink);
+  border: 2px solid var(--line);
+  color: var(--text);
   transition: transform 220ms var(--ease-out);
 }
 .fav-btn svg {
