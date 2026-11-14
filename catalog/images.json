@@ -48,11 +48,46 @@
   "source": "Afnan — 9 PM Rebel",
   "type": "official"
  },
+ "Afnan|Abiyad Mukhallat": {
+  "file": "afnan--abiyad-mukhallat.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/ABIYAD-Mukhallat-01.jpg?v=1728127367&width=1000",
+  "page": "https://www.afnan.com/products/mukhallat-abiyad",
+  "source": "Afnan — Abiyad Mukhallat",
+  "type": "official"
+ },
+ "Afnan|Abiyad Musk": {
+  "file": "afnan--abiyad-musk.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Abiyad-Musk-CPO-Product-01.jpg?v=1728127363&width=1000",
+  "page": "https://www.afnan.com/products/musk-abiyad-cpo",
+  "source": "Afnan — Abiyad Musk",
+  "type": "official"
+ },
+ "Afnan|Abiyad Sandal": {
+  "file": "afnan--abiyad-sandal.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Abiyad-Sandal-CPO-Product-01.jpg?v=1728127360&width=1000",
+  "page": "https://www.afnan.com/products/sandal-abiyad",
+  "source": "Afnan — Abiyad Sandal",
+  "type": "official"
+ },
+ "Afnan|Adwaa Al Sharq": {
+  "file": "afnan--adwaa-al-sharq.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Adwaa-Al-Sharq-Product-01.jpg?v=1728127380&width=1000",
+  "page": "https://www.afnan.com/products/adwaa-al-sharq",
+  "source": "Afnan — Adwaa Al Sharq",
+  "type": "official"
+ },
  "Afnan|Cherry Bouquet": {
   "file": "afnan--cherry-bouquet.webp",
   "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/CherryBouquetFront.png?v=1727708962&width=1000",
   "page": "https://www.afnan.com/products/cherry-bouquet",
   "source": "Afnan — Cherry Bouquet",
+  "type": "official"
+ },
+ "Afnan|Dehn Al Oudh Abiyad": {
+  "file": "afnan--dehn-al-oudh-abiyad.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Abiyad-Dehn-Al-Oudh-CPO-Product-01.jpg?v=1728127373&width=1000",
+  "page": "https://www.afnan.com/products/dehn-al-oudh-abiyad-1",
+  "source": "Afnan — Dehn Al Oudh Abiyad",
   "type": "official"
  },
  "Afnan|Delicious Bouquet": {
@@ -67,6 +102,34 @@
   "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/81.png?v=1776685996&width=1000",
   "page": "https://www.afnan.com/products/ebdaa-perfume-oil",
   "source": "Afnan — Ebdaa",
+  "type": "official"
+ },
+ "Afnan|Edict Amberythme": {
+  "file": "afnan--edict-amberythme.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Edict-Amberythme-01.jpg?v=1727708639&width=1000",
+  "page": "https://www.afnan.com/products/edict-amberythme",
+  "source": "Afnan — Edict Amberythme",
+  "type": "official"
+ },
+ "Afnan|Edict Musctique": {
+  "file": "afnan--edict-musctique.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Edict-Musctique-01.jpg?v=1727708652&width=1000",
+  "page": "https://www.afnan.com/products/edict-musctique",
+  "source": "Afnan — Edict Musctique",
+  "type": "official"
+ },
+ "Afnan|Edict Ouddiction": {
+  "file": "afnan--edict-ouddiction.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Edict-Ouddiction-01.jpg?v=1727708664&width=1000",
+  "page": "https://www.afnan.com/products/edict-ouddiction",
+  "source": "Afnan — Edict Ouddiction",
+  "type": "official"
+ },
+ "Afnan|Fakhar Al Jamaal": {
+  "file": "afnan--fakhar-al-jamaal.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/FakharAlJamaal-Product-01.jpg?v=1728127370&width=1000",
+  "page": "https://www.afnan.com/products/fakhar-al-jamaal",
+  "source": "Afnan — Fakhar Al Jamaal",
   "type": "official"
  },
  "Afnan|Historic Doria": {
@@ -125,6 +188,13 @@
   "source": "Afnan — La Fleur Bouquet",
   "type": "official"
  },
+ "Afnan|Lilia": {
+  "file": "afnan--lilia.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Lilia-Product-01.jpg?v=1728127387&width=1000",
+  "page": "https://www.afnan.com/products/lilia",
+  "source": "Afnan — Lilia",
+  "type": "official"
+ },
  "Afnan|Lynked Forever": {
   "file": "afnan--lynked-forever.webp",
   "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Lynked-forever-2.png?v=1763975491&width=1000",
@@ -146,11 +216,81 @@
   "source": "Afnan — Malak",
   "type": "official"
  },
+ "Afnan|Mirsaal Of Trust": {
+  "file": "afnan--mirsaal-of-trust.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Mirsaal-Trust-Product-01.jpg?v=1727708063&width=1000",
+  "page": "https://www.afnan.com/products/mirsaal-of-trust",
+  "source": "Afnan — Mirsaal Of Trust",
+  "type": "official"
+ },
+ "Afnan|Mirsaal With Love": {
+  "file": "afnan--mirsaal-with-love.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Mirsaal-Love-Product-01.jpg?v=1727708080&width=1000",
+  "page": "https://www.afnan.com/products/mirsaal-with-love",
+  "source": "Afnan — Mirsaal With Love",
+  "type": "official"
+ },
+ "Afnan|Modest Deux": {
+  "file": "afnan--modest-deux.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Modest-Pink-01.jpg?v=1727708343&width=1000",
+  "page": "https://www.afnan.com/products/modest-deux",
+  "source": "Afnan — Modest Deux",
+  "type": "official"
+ },
+ "Afnan|Modest Une": {
+  "file": "afnan--modest-une.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Modest-Black-01.jpg?v=1727708352&width=1000",
+  "page": "https://www.afnan.com/products/modest-une",
+  "source": "Afnan — Modest Une",
+  "type": "official"
+ },
  "Afnan|Mystique Bouquet": {
   "file": "afnan--mystique-bouquet.webp",
   "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/MystiqueBouquetfront.png?v=1727708890&width=1000",
   "page": "https://www.afnan.com/products/mystique-bouquet",
   "source": "Afnan — Mystique Bouquet",
+  "type": "official"
+ },
+ "Afnan|Ornament Pour Femme": {
+  "file": "afnan--ornament-pour-femme.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Ornament-Femme-Product-01.jpg?v=1727708096&width=1000",
+  "page": "https://www.afnan.com/products/ornament-pour-femme",
+  "source": "Afnan — Ornament Pour Femme",
+  "type": "official"
+ },
+ "Afnan|Ornament Pour Homme": {
+  "file": "afnan--ornament-pour-homme.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Ornament-Homme-Product-01.jpg?v=1727708110&width=1000",
+  "page": "https://www.afnan.com/products/ornament-pour-homme",
+  "source": "Afnan — Ornament Pour Homme",
+  "type": "official"
+ },
+ "Afnan|Ornament Purple": {
+  "file": "afnan--ornament-purple.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Ornament-Purple-Product-01.jpg?v=1727708432&width=1000",
+  "page": "https://www.afnan.com/products/ornament-purple",
+  "source": "Afnan — Ornament Purple",
+  "type": "official"
+ },
+ "Afnan|Oud Rising": {
+  "file": "afnan--oud-rising.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/OudRisingFront_e9e320b1-415e-4bed-991a-0725916ad465.png?v=1727708879&width=1000",
+  "page": "https://www.afnan.com/products/oud-rising",
+  "source": "Afnan — Oud Rising",
+  "type": "official"
+ },
+ "Afnan|Paris Oud": {
+  "file": "afnan--paris-oud.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Paris-Oud-01.jpg?v=1727708336&width=1000",
+  "page": "https://www.afnan.com/products/paris-oud",
+  "source": "Afnan — Paris Oud",
+  "type": "official"
+ },
+ "Afnan|Patchouli on Fire": {
+  "file": "afnan--patchouli-on-fire.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Patchouli-01.jpg?v=1727708579&width=1000",
+  "page": "https://www.afnan.com/products/patchouli-on-fire",
+  "source": "Afnan — Patchouli on Fire",
   "type": "official"
  },
  "Afnan|Portrait Abstract": {
@@ -165,6 +305,13 @@
   "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/RevivalFront_1d9bd3a1-0ae0-4bcd-b9a5-73697febb2c2.png?v=1727708866&width=1000",
   "page": "https://www.afnan.com/products/portrait-revival",
   "source": "Afnan — Portrait Revival",
+  "type": "official"
+ },
+ "Afnan|Pure Musk": {
+  "file": "afnan--pure-musk.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Pure-Musk-Product-01.jpg?v=1727708327&width=1000",
+  "page": "https://www.afnan.com/products/pure-musk",
+  "source": "Afnan — Pure Musk",
   "type": "official"
  },
  "Afnan|Rare Carbon": {
@@ -186,6 +333,34 @@
   "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Rare_Reef_1.png?v=1746801626&width=1000",
   "page": "https://www.afnan.com/products/rare-reef",
   "source": "Afnan — Rare Reef",
+  "type": "official"
+ },
+ "Afnan|Silver Musk": {
+  "file": "afnan--silver-musk.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Silver-Musk.jpg?v=1728127401&width=1000",
+  "page": "https://www.afnan.com/products/musk-silver",
+  "source": "Afnan — Silver Musk",
+  "type": "official"
+ },
+ "Afnan|Souvenir Blooming Bliss": {
+  "file": "afnan--souvenir-blooming-bliss.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/BloomingBlissfront.png?v=1727708983&width=1000",
+  "page": "https://www.afnan.com/products/souvenir-blooming-bliss",
+  "source": "Afnan — Souvenir Blooming Bliss",
+  "type": "official"
+ },
+ "Afnan|Souvenir Desert Rose": {
+  "file": "afnan--souvenir-desert-rose.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Souvenir-Desert-Product-01.jpg?v=1727708150&width=1000",
+  "page": "https://www.afnan.com/products/souvenir-desert-rose",
+  "source": "Afnan — Souvenir Desert Rose",
+  "type": "official"
+ },
+ "Afnan|Souvenir Floral Bouquet": {
+  "file": "afnan--souvenir-floral-bouquet.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Souvenir-Floral-Product-01.jpg?v=1727708167&width=1000",
+  "page": "https://www.afnan.com/products/souvenir-floral-bouquet",
+  "source": "Afnan — Souvenir Floral Bouquet",
   "type": "official"
  },
  "Afnan|Stardust": {
@@ -279,6 +454,27 @@
   "source": "Afnan — Supremacy Tapis Rouge",
   "type": "official"
  },
+ "Afnan|Tasneem": {
+  "file": "afnan--tasneem.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Tasneem-01.jpg?v=1728127397&width=1000",
+  "page": "https://www.afnan.com/products/tasneem",
+  "source": "Afnan — Tasneem",
+  "type": "official"
+ },
+ "Afnan|Tobacco Rush": {
+  "file": "afnan--tobacco-rush.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Tobacco-01.jpg?v=1727708596&width=1000",
+  "page": "https://www.afnan.com/products/tobacco-rush",
+  "source": "Afnan — Tobacco Rush",
+  "type": "official"
+ },
+ "Afnan|Tribute Blue": {
+  "file": "afnan--tribute-blue.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/TributeBlue-Product-01.jpg?v=1727708287&width=1000",
+  "page": "https://www.afnan.com/products/tribute-blue",
+  "source": "Afnan — Tribute Blue",
+  "type": "official"
+ },
  "Afnan|Turathi Blue": {
   "file": "afnan--turathi-blue.webp",
   "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/1_Co32.png?v=1793603337&width=1000",
@@ -314,6 +510,48 @@
   "source": "Afnan — Violet Bouquet",
   "type": "official"
  },
+ "Afnan|Ward Al Usshaq": {
+  "file": "afnan--ward-al-usshaq.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Wardat-Al-Ushaq-01.jpg?v=1728127390&width=1000",
+  "page": "https://www.afnan.com/products/wardat-al-ushaq",
+  "source": "Afnan — Ward Al Usshaq",
+  "type": "official"
+ },
+ "Afnan|Zabarjad": {
+  "file": "afnan--zabarjad.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0655/0473/9421/files/Zabarjad-Product-01.jpg?v=1728127393&width=1000",
+  "page": "https://www.afnan.com/products/zarberjad",
+  "source": "Afnan — Zabarjad",
+  "type": "official"
+ },
+ "Alex Perfume|Golpar+": {
+  "file": "alex-perfume--golpar.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/a/l/alexplus_by_alex_perfume_golpar_extrait_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/alexplus-by-alex-perfume-golpar-extrait-de-parfum",
+  "source": "50 ml — Alex+ Golpar+",
+  "type": "retailer"
+ },
+ "Alex Perfume|Rum+": {
+  "file": "alex-perfume--rum.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/a/l/alexplus_by_alex_perfume_rum_extrait_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/alexplus-by-alex-perfume-rum-extrait-de-parfum",
+  "source": "50 ml — Alex+ Rum+",
+  "type": "retailer"
+ },
+ "Alex Perfume|Salvia+": {
+  "file": "alex-perfume--salvia.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/a/l/alexplus_by_alex_perfume_salvia_extrait_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/alexplus-by-alex-perfume-salvia-extrait-de-parfum",
+  "source": "50 ml — Alex+ Salvia+",
+  "type": "retailer"
+ },
+ "Alex Perfume|Tabacco+": {
+  "file": "alex-perfume--tabacco.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/a/l/alexplus_by_alex_perfume_tabacco_extrait_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/alexplus-by-alex-perfume-tabacco-extrait-de-parfum",
+  "source": "50 ml — Alex+ Tabacco+",
+  "type": "retailer"
+ },
  "Alexandre.J|Mandarine Sultane": {
   "file": "alexandre-j--mandarine-sultane.webp",
   "image": "https://cdn.shopify.com/s/files/1/0604/0341/7223/files/MandarineSultane1.jpg?v=1784813602&width=1000",
@@ -321,33 +559,964 @@
   "source": "Alexandre.J - Mandarine Sultane 100 ml",
   "type": "official"
  },
- "Asghar Adam Ali|Absolute": {
-  "file": "asghar-adam-ali--absolute.webp",
-  "image": "https://media.assettype.com/gulfnews%2F2025-03-27%2Fz0fugdpn%2FSU250326Best-PerfumesadvNabeel-Perfumes-Asghar-Adam-Ali-Al-Attar-FOR-WEB.jpg?rect=0%2C135%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-  "page": "https://gulfnews.com/gn-focus/experience-the-art-of-perfumery-with-asghar-adam-ali-parfums-1.500074462",
-  "source": "Gulf News — Asghar Adam Ali Parfums Signature Collection",
-  "type": "publication"
+ "Amouage|Reflection Man": {
+  "file": "amouage--reflection-man.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0823/5099/7796/files/REFLECTION_100_ML.jpg?v=1758803038&width=1000",
+  "page": "https://www.amouage.com/products/reflection-man-100ml",
+  "source": "Amouage — Reflection Man",
+  "type": "official"
  },
- "Asghar Adam Ali|Ashjan": {
-  "file": "asghar-adam-ali--ashjan.webp",
-  "image": "https://media.assettype.com/gulfnews%2F2025-03-27%2Fz0fugdpn%2FSU250326Best-PerfumesadvNabeel-Perfumes-Asghar-Adam-Ali-Al-Attar-FOR-WEB.jpg?rect=0%2C135%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-  "page": "https://gulfnews.com/gn-focus/experience-the-art-of-perfumery-with-asghar-adam-ali-parfums-1.500074462",
-  "source": "Gulf News — Asghar Adam Ali Parfums Signature Collection",
-  "type": "publication"
+ "Anfasic|#3": {
+  "file": "anfasic--3.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME__375mlPicture2.jpg?v=1747726330&width=1000",
+  "page": "https://www.anfasic.ae/products/one-time-shay-3",
+  "source": "Anfasic — #3",
+  "type": "official"
  },
- "Asghar Adam Ali|Asiya": {
-  "file": "asghar-adam-ali--asiya.webp",
-  "image": "https://media.assettype.com/gulfnews%2F2025-03-27%2Fz0fugdpn%2FSU250326Best-PerfumesadvNabeel-Perfumes-Asghar-Adam-Ali-Al-Attar-FOR-WEB.jpg?rect=0%2C135%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-  "page": "https://gulfnews.com/gn-focus/experience-the-art-of-perfumery-with-asghar-adam-ali-parfums-1.500074462",
-  "source": "Gulf News — Asghar Adam Ali Parfums Signature Collection",
-  "type": "publication"
+ "Anfasic|Aghla Shay": {
+  "file": "anfasic--aghla-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/Aghla-Shay-_75ml_MHGB_2_0efc3dec-45ea-493f-8b4a-fafd578b8f55.jpg?v=1782804585&width=1000",
+  "page": "https://www.anfasic.ae/products/aghla-shay-parfum-75ml",
+  "source": "Anfasic — Aghla Shay",
+  "type": "official"
  },
- "Asghar Adam Ali|Avtar": {
-  "file": "asghar-adam-ali--avtar.webp",
-  "image": "https://media.assettype.com/gulfnews%2F2025-03-27%2Fz0fugdpn%2FSU250326Best-PerfumesadvNabeel-Perfumes-Asghar-Adam-Ali-Al-Attar-FOR-WEB.jpg?rect=0%2C135%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-  "page": "https://gulfnews.com/gn-focus/experience-the-art-of-perfumery-with-asghar-adam-ali-parfums-1.500074462",
-  "source": "Gulf News — Asghar Adam Ali Parfums Signature Collection",
-  "type": "publication"
+ "Anfasic|Ahla Shay": {
+  "file": "anfasic--ahla-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME_AHLASHAY75mlPicture2.jpg?v=1747724466&width=1000",
+  "page": "https://www.anfasic.ae/products/ahla-shay-parfum-75ml",
+  "source": "Anfasic — Ahla Shay",
+  "type": "official"
+ },
+ "Anfasic|Amyaz Shay": {
+  "file": "anfasic--amyaz-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME2_AMYAZSHAY75mlPicture2.jpg?v=1747725187&width=1000",
+  "page": "https://www.anfasic.ae/products/amyaz-shay-75ml",
+  "source": "Anfasic — Amyaz Shay",
+  "type": "official"
+ },
+ "Anfasic|Asa'd Shay": {
+  "file": "anfasic--asa-d-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/ASSADPERFUME_3057898f-a32f-45e9-b2ad-a6efc5dd4b2e.jpg?v=1779084712&width=1000",
+  "page": "https://www.anfasic.ae/products/asad-shay-75ml",
+  "source": "Anfasic — Asa'd Shay",
+  "type": "official"
+ },
+ "Anfasic|Baby Spray #6": {
+  "file": "anfasic--baby-spray-6.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME_BABY_650MLPICTURE2_1a908897-3416-402f-8a08-3fb24173cd6e.jpg?v=1750405949&width=1000",
+  "page": "https://www.anfasic.ae/products/baby-6-spray",
+  "source": "Anfasic — Baby Spray #6",
+  "type": "official"
+ },
+ "Anfasic|Hide Shay": {
+  "file": "anfasic--hide-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/HIDE-SHAY-PERFUME-50ML-Picture2.jpg?v=1768822452&width=1000",
+  "page": "https://www.anfasic.ae/products/hide-shay",
+  "source": "Anfasic — Hide Shay",
+  "type": "official"
+ },
+ "Anfasic|I Am Shay": {
+  "file": "anfasic--i-am-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME-TORCH-CAP-I-AM-SHAY-PICTURE-4.jpg?v=1781173976&width=1000",
+  "page": "https://www.anfasic.ae/products/i-am-shay-perfume-75ml",
+  "source": "Anfasic — I Am Shay",
+  "type": "official"
+ },
+ "Anfasic|Mrs. Always Shay": {
+  "file": "anfasic--mrs-always-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME-TORCH-CAP-MRS-ALWAYS-SHAY-PICTURE-4_1.jpg?v=1786084424&width=1000",
+  "page": "https://www.anfasic.ae/products/mrs-always-shay-perfume",
+  "source": "Anfasic — Mrs. Always Shay",
+  "type": "official"
+ },
+ "Anfasic|One Time Shay #6": {
+  "file": "anfasic--one-time-shay-6.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME__6-NEW-BOTTLE-75ML-PICTURE-2_86bf7dd9-e42d-405f-8782-bf179d0045a3.jpg?v=1753345863&width=1000",
+  "page": "https://www.anfasic.ae/products/one-time-shay-6-75ml",
+  "source": "Anfasic — One Time Shay #6",
+  "type": "official"
+ },
+ "Anfasic|Shay": {
+  "file": "anfasic--shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME-TORCH-CAP-SHAY-PICTURE-1.jpg?v=1788781288&width=1000",
+  "page": "https://www.anfasic.ae/products/shay-perfume-lux",
+  "source": "Anfasic — Shay",
+  "type": "official"
+ },
+ "Anfasic|Shay Being": {
+  "file": "anfasic--shay-being.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME_SHAYBEING75mlPicture2.jpg?v=1747725591&width=1000",
+  "page": "https://www.anfasic.ae/products/shay-being-75ml",
+  "source": "Anfasic — Shay Being",
+  "type": "official"
+ },
+ "Anfasic|Shay But Not Oud": {
+  "file": "anfasic--shay-but-not-oud.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/SHAY-BUT-NOT-OUD-PERFUME-75ml-Picture-1_fc97cb7a-b722-4c98-bd2b-622df0c2aa59.jpg?v=1781429995&width=1000",
+  "page": "https://www.anfasic.ae/products/shay-but-not-oud-perfume-lux",
+  "source": "Anfasic — Shay But Not Oud",
+  "type": "official"
+ },
+ "Anfasic|Shay Flora": {
+  "file": "anfasic--shay-flora.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/SHAY-FLORA-PERFUME-75ml-Picture-1_7f8a3a73-5ede-4657-9624-c39c2b2e87ba.jpg?v=1781613123&width=1000",
+  "page": "https://www.anfasic.ae/products/shay-flora-perfume",
+  "source": "Anfasic — Shay Flora",
+  "type": "official"
+ },
+ "Anfasic|Shay Much": {
+  "file": "anfasic--shay-much.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME_SHAYMUCH75MLPICTURE2.jpg?v=1747727028&width=1000",
+  "page": "https://www.anfasic.ae/products/shay-much-perfume-75ml",
+  "source": "Anfasic — Shay Much",
+  "type": "official"
+ },
+ "Anfasic|Shay Oud": {
+  "file": "anfasic--shay-oud.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME-TORCH-CAP-SHAY-OUD-PICTURE-1.jpg?v=1787213540&width=1000",
+  "page": "https://www.anfasic.ae/products/shay-oud-perfume-lux",
+  "source": "Anfasic — Shay Oud",
+  "type": "official"
+ },
+ "Anfasic|Shay Touch": {
+  "file": "anfasic--shay-touch.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME_SHAYTOUCH75MLPICTURE2.jpg?v=1747726983&width=1000",
+  "page": "https://www.anfasic.ae/products/shay-touch-75ml",
+  "source": "Anfasic — Shay Touch",
+  "type": "official"
+ },
+ "Anfasic|Shay Yaqoot": {
+  "file": "anfasic--shay-yaqoot.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME_SHAYYAQOOT75mlPicture1.jpg?v=1747727529&width=1000",
+  "page": "https://www.anfasic.ae/products/yaqoot-shay-perfume",
+  "source": "Anfasic — Shay Yaqoot",
+  "type": "official"
+ },
+ "Anfasic|Shay'lish": {
+  "file": "anfasic--shay-lish.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/SHAY_LiSH-75ML-Picture-1.jpg?v=1794553065&width=1000",
+  "page": "https://www.anfasic.ae/products/shaylish-perfume",
+  "source": "Anfasic — Shay'lish",
+  "type": "official"
+ },
+ "Anfasic|Shaykh Shay": {
+  "file": "anfasic--shaykh-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME_SHAYKHSHAY75mlPicture2.jpg?v=1747727102&width=1000",
+  "page": "https://www.anfasic.ae/products/shaykh-shay-75ml",
+  "source": "Anfasic — Shaykh Shay",
+  "type": "official"
+ },
+ "Anfasic|Shoushou Shay": {
+  "file": "anfasic--shoushou-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME_SHOUSHOUSHAY50MLPICTURE2.jpg?v=1750412028&width=1000",
+  "page": "https://www.anfasic.ae/products/shoushou-shay-perfume",
+  "source": "Anfasic — Shoushou Shay",
+  "type": "official"
+ },
+ "Anfasic|Together Shay": {
+  "file": "anfasic--together-shay.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/PERFUME-TORCH-CAP-TOGETHER-SHAY-PICTURE-1.jpg?v=1788782125&width=1000",
+  "page": "https://www.anfasic.ae/products/together-shay-perfume-lux",
+  "source": "Anfasic — Together Shay",
+  "type": "official"
+ },
+ "Anfasic|Wow (50 ml)": {
+  "file": "anfasic--wow-50-ml.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/WOWPERFUME-50ML-Picture2.jpg?v=1794404375&width=1000",
+  "page": "https://www.anfasic.ae/products/wow-perfume-50ml",
+  "source": "Anfasic — Wow (50 ml)",
+  "type": "official"
+ },
+ "Anfasic|Wow (75 ml)": {
+  "file": "anfasic--wow-75-ml.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/6290360525211_1.jpg?v=1788781767&width=1000",
+  "page": "https://www.anfasic.ae/products/wow-perfume",
+  "source": "Anfasic — Wow (75 ml)",
+  "type": "official"
+ },
+ "Anfasic|Wowin'": {
+  "file": "anfasic--wowin.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0836/5113/3755/files/WOWIN_PERFUME-50ML-Picture2.jpg?v=1794404383&width=1000",
+  "page": "https://www.anfasic.ae/products/wowin-perfume-50ml",
+  "source": "Anfasic — Wowin'",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Al Shaghaf Black": {
+  "file": "atyab-al-marshoud--al-shaghaf-black.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/SHAGHAFBLACK1.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/al-shaghaf-black",
+  "source": "Atyab Al Marshoud — Al Shaghaf Black",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Al Shaghaf Grey": {
+  "file": "atyab-al-marshoud--al-shaghaf-grey.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/SHAGHAFGRAY1.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/al-shaghaf-grey",
+  "source": "Atyab Al Marshoud — Al Shaghaf Grey",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|All Over Spray Salt": {
+  "file": "atyab-al-marshoud--all-over-spray-salt.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/ALLOVERSALT1.jpg?v=1788504569&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/alloverspray/products/all-over-spray-salt",
+  "source": "Atyab Al Marshoud — All Over Spray Salt",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|All in All EDP": {
+  "file": "atyab-al-marshoud--all-in-all-edp.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/ALLINALL100ML1.jpg?v=1788504569&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/all-in-all-edp",
+  "source": "Atyab Al Marshoud — All in All EDP",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Amaya Blue": {
+  "file": "atyab-al-marshoud--amaya-blue.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/AMAYABLUE1.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/amaya-blue",
+  "source": "Atyab Al Marshoud — Amaya Blue",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Aurora Northern Lights": {
+  "file": "atyab-al-marshoud--aurora-northern-lights.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/AURORANORTHERNLIGHTS1.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/aurora-northern-lights",
+  "source": "Atyab Al Marshoud — Aurora Northern Lights",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Century Perfume": {
+  "file": "atyab-al-marshoud--century-perfume.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/CENTURY_1.jpg?v=1788504572&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/century-perfume",
+  "source": "Atyab Al Marshoud — Century Perfume",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Ekhtilaf": {
+  "file": "atyab-al-marshoud--ekhtilaf.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/EKTHELAF1.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/ekhtilaf",
+  "source": "Atyab Al Marshoud — Ekhtilaf",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Lily Musk Eau de Parfum": {
+  "file": "atyab-al-marshoud--lily-musk-eau-de-parfum.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/LILYMUSK100ML1.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/lily-musk-parfum",
+  "source": "Atyab Al Marshoud — Lily Musk Eau de Parfum",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Marshoud 4 Black": {
+  "file": "atyab-al-marshoud--marshoud-4-black.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/Marshoud4Black1.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/marshoud4-black",
+  "source": "Atyab Al Marshoud — Marshoud 4 Black",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Marshoud 4 Blue": {
+  "file": "atyab-al-marshoud--marshoud-4-blue.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/Marshoud4Blue1.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/marshoud4-blue",
+  "source": "Atyab Al Marshoud — Marshoud 4 Blue",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Marshoud 4 White": {
+  "file": "atyab-al-marshoud--marshoud-4-white.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/Marshoud4White1.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/marshoud4-white",
+  "source": "Atyab Al Marshoud — Marshoud 4 White",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Marshoud No.4": {
+  "file": "atyab-al-marshoud--marshoud-no-4.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/Marshoud_4_White_30ml_1_c98fe0f8-2ea4-4197-b163-1269213310c7.jpg?v=1788504577&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/marshoud-no-4",
+  "source": "Atyab Al Marshoud — Marshoud No.4",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Pink Eau de Parfum": {
+  "file": "atyab-al-marshoud--pink-eau-de-parfum.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/PINK_100ML_1.jpg?v=1788504569&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/pink-eau-de-parfum-30ml",
+  "source": "Atyab Al Marshoud — Pink Eau de Parfum",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Turquoise Eau de Parfum": {
+  "file": "atyab-al-marshoud--turquoise-eau-de-parfum.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/TURQUOISE100ML1.jpg?v=1788504572&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/turquoise-eau-de-parfum",
+  "source": "Atyab Al Marshoud — Turquoise Eau de Parfum",
+  "type": "official"
+ },
+ "Atyab Al Marshoud|Violet Eau de Parfum": {
+  "file": "atyab-al-marshoud--violet-eau-de-parfum.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0833/1965/2578/files/VIOLET100ML1.jpg?v=1788504569&width=1000",
+  "page": "https://www.atyabalmarshoud.com/collections/perfumes/products/violet-eau-de-parfum-100ml",
+  "source": "Atyab Al Marshoud — Violet Eau de Parfum",
+  "type": "official"
+ },
+ "Birkholz|Amber Intense": {
+  "file": "birkholz--amber-intense.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/AmberIntense_100ml.jpg?v=1786369383",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/amber-intense-en",
+  "source": "Birkholz — Amber Intense",
+  "type": "official"
+ },
+ "Birkholz|Aura of Amalfi": {
+  "file": "birkholz--aura-of-amalfi.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Amalfi_100ml_19cd6d76-8a24-461c-a71b-2898aee94bb6.jpg?v=1786359079&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/aura-of-amalfi",
+  "source": "Birkholz — Aura of Amalfi",
+  "type": "official"
+ },
+ "Birkholz|Berlin Fever": {
+  "file": "birkholz--berlin-fever.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/BerlinFever_100ml.jpg?v=1786369383",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/berlin-fever-2-en",
+  "source": "Birkholz — Berlin Fever",
+  "type": "official"
+ },
+ "Birkholz|Berlin Heaven": {
+  "file": "birkholz--berlin-heaven.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/BerlinHeaven_100ml.jpg?v=1787747808&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/berlin-heaven-2",
+  "source": "Birkholz — Berlin Heaven",
+  "type": "official"
+ },
+ "Birkholz|Berlin Soul": {
+  "file": "birkholz--berlin-soul.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/BerlinSoul_100ml.jpg?v=1786369383&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/berlin-soul-3",
+  "source": "Birkholz — Berlin Soul",
+  "type": "official"
+ },
+ "Birkholz|Bordeaux - Plaisir de la nuit": {
+  "file": "birkholz--bordeaux-plaisir-de-la-nuit.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/Bordeaux_100ml.jpg?v=1786357289",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/bordeaux-plaisir-de-la-nuit-en",
+  "source": "Birkholz — Bordeaux - Plaisir de la nuit",
+  "type": "official"
+ },
+ "Birkholz|Cedar N' Pepper": {
+  "file": "birkholz--cedar-n-pepper.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/CedarNPepper_100ml.jpg?v=1786354622&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/cedar-n-pepper",
+  "source": "Birkholz — Cedar N' Pepper",
+  "type": "official"
+ },
+ "Birkholz|Charm Mystery": {
+  "file": "birkholz--charm-mystery.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/CharmMystery_100ml.jpg?v=1786369383&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/charm-mystery",
+  "source": "Birkholz — Charm Mystery",
+  "type": "official"
+ },
+ "Birkholz|Citrus Splash": {
+  "file": "birkholz--citrus-splash.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/CitrusSplash_100ml.jpg?v=1786369383&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/citrus-splash",
+  "source": "Birkholz — Citrus Splash",
+  "type": "official"
+ },
+ "Birkholz|Colours of Capri": {
+  "file": "birkholz--colours-of-capri.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Capri-100ml_Flacon.jpg?v=1786359077&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/colours-of-capri",
+  "source": "Birkholz — Colours of Capri",
+  "type": "official"
+ },
+ "Birkholz|Corsica - Baiser de la mer": {
+  "file": "birkholz--corsica-baiser-de-la-mer.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/Corsica_100ml.jpg?v=1786358297",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/corsica-baiser-de-la-mer-en",
+  "source": "Birkholz — Corsica - Baiser de la mer",
+  "type": "official"
+ },
+ "Birkholz|Dark Amber": {
+  "file": "birkholz--dark-amber.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/DarkAmber_100ml.jpg?v=1785918303&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/dark-amber-100ml",
+  "source": "Birkholz — Dark Amber",
+  "type": "official"
+ },
+ "Birkholz|First Spring": {
+  "file": "birkholz--first-spring.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/FirstSpring_100ml.jpg?v=1786369383&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/first-spring",
+  "source": "Birkholz — First Spring",
+  "type": "official"
+ },
+ "Birkholz|Flora Femina": {
+  "file": "birkholz--flora-femina.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/FloraFemina_100ml.jpg?v=1787747457&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/flora-femina",
+  "source": "Birkholz — Flora Femina",
+  "type": "official"
+ },
+ "Birkholz|Grasse - Fleur de Provence": {
+  "file": "birkholz--grasse-fleur-de-provence.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/Grasse_100ml.jpg?v=1786357548",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/grasse-fleur-de-provence-en",
+  "source": "Birkholz — Grasse - Fleur de Provence",
+  "type": "official"
+ },
+ "Birkholz|Iconic Oud": {
+  "file": "birkholz--iconic-oud.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/IconicOud_100ml.jpg?v=1785918440&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/iconic-oud-100ml",
+  "source": "Birkholz — Iconic Oud",
+  "type": "official"
+ },
+ "Birkholz|Incense N' Fire": {
+  "file": "birkholz--incense-n-fire.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/IncenseNFire_100ml.jpg?v=1786354423&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/incense-n-fire",
+  "source": "Birkholz — Incense N' Fire",
+  "type": "official"
+ },
+ "Birkholz|Intimate Incense": {
+  "file": "birkholz--intimate-incense.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Intimate-Incense-US-100_3.jpg?v=1787747018&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/intimate-incense-100ml",
+  "source": "Birkholz — Intimate Incense",
+  "type": "official"
+ },
+ "Birkholz|Iris N' Wood": {
+  "file": "birkholz--iris-n-wood.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/IrisNWood_100ml.jpg?v=1786354774&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/iris-n-wood",
+  "source": "Birkholz — Iris N' Wood",
+  "type": "official"
+ },
+ "Birkholz|Luxury Passion": {
+  "file": "birkholz--luxury-passion.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/LuxuryPassion_100ml.jpg?v=1786369382&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/luxury-passion",
+  "source": "Birkholz — Luxury Passion",
+  "type": "official"
+ },
+ "Birkholz|Mornings in Milano": {
+  "file": "birkholz--mornings-in-milano.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Milano_100ml.jpg?v=1786359079&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/mornings-in-milano",
+  "source": "Birkholz — Mornings in Milano",
+  "type": "official"
+ },
+ "Birkholz|Mystic Haze": {
+  "file": "birkholz--mystic-haze.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/MysticHaze_100ml.jpg?v=1785918524&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/mystic-haze-100ml",
+  "source": "Birkholz — Mystic Haze",
+  "type": "official"
+ },
+ "Birkholz|Nights in Noto": {
+  "file": "birkholz--nights-in-noto.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Noto_100ml.jpg?v=1786359079&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/nights-in-noto",
+  "source": "Birkholz — Nights in Noto",
+  "type": "official"
+ },
+ "Birkholz|Nuances of Napoli": {
+  "file": "birkholz--nuances-of-napoli.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Napoli_100ml.jpg?v=1786359079&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/nuances-of-napoli",
+  "source": "Birkholz — Nuances of Napoli",
+  "type": "official"
+ },
+ "Birkholz|Paris - Mon amour": {
+  "file": "birkholz--paris-mon-amour.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/Paris_100ml.jpg?v=1786356496",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/paris-mon-amour-en",
+  "source": "Birkholz — Paris - Mon amour",
+  "type": "official"
+ },
+ "Birkholz|Poetry in Palermo": {
+  "file": "birkholz--poetry-in-palermo.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Palermo-100ml_Flacon.jpg?v=1786359077&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/poetry-in-palermo",
+  "source": "Birkholz — Poetry in Palermo",
+  "type": "official"
+ },
+ "Birkholz|Portraits of Portofino": {
+  "file": "birkholz--portraits-of-portofino.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Portofino_100ml.jpg?v=1786359080&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/portraits-of-portofino",
+  "source": "Birkholz — Portraits of Portofino",
+  "type": "official"
+ },
+ "Birkholz|Roads of Rome": {
+  "file": "birkholz--roads-of-rome.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Rome_100ml.jpg?v=1786359079&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/roads-of-rome",
+  "source": "Birkholz — Roads of Rome",
+  "type": "official"
+ },
+ "Birkholz|Romance in Florence": {
+  "file": "birkholz--romance-in-florence.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/Florence_100ml.jpg?v=1786359079",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/romance-in-florence-en",
+  "source": "Birkholz — Romance in Florence",
+  "type": "official"
+ },
+ "Birkholz|Royal Amber": {
+  "file": "birkholz--royal-amber.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/RoyalAmber_100ml.jpg?v=1786354684",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/royal-amber-en",
+  "source": "Birkholz — Royal Amber",
+  "type": "official"
+ },
+ "Birkholz|Satin Vanilla": {
+  "file": "birkholz--satin-vanilla.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/SatinVanilla_100ml.jpg?v=1786369383&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/satin-vanilla",
+  "source": "Birkholz — Satin Vanilla",
+  "type": "official"
+ },
+ "Birkholz|Seductive Rose": {
+  "file": "birkholz--seductive-rose.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/SeductiveRose_100ml.jpg?v=1786369383&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/seductive-rose",
+  "source": "Birkholz — Seductive Rose",
+  "type": "official"
+ },
+ "Birkholz|Sir Santal": {
+  "file": "birkholz--sir-santal.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/Sir-Santal-US-100.jpg?v=1787747283",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/test-woody-collection-sir-santal-en",
+  "source": "Birkholz — Sir Santal",
+  "type": "official"
+ },
+ "Birkholz|Soho Sunday": {
+  "file": "birkholz--soho-sunday.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Soho_Flacon.jpg?v=1786614249&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/soho-sunday",
+  "source": "Birkholz — Soho Sunday",
+  "type": "official"
+ },
+ "Birkholz|Sol e Samba": {
+  "file": "birkholz--sol-e-samba.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/SolESamba_100ml.jpg?v=1786369383&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/sol-e-samba-1",
+  "source": "Birkholz — Sol e Samba",
+  "type": "official"
+ },
+ "Birkholz|Tales of Torino": {
+  "file": "birkholz--tales-of-torino.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Torino_100ml_2f2dc7a2-5a9f-45c2-94a1-2d99ded5f330.jpg?v=1786359079&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/tales-of-torino",
+  "source": "Birkholz — Tales of Torino",
+  "type": "official"
+ },
+ "Birkholz|Tobacco Sense": {
+  "file": "birkholz--tobacco-sense.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/TobaccoSense_100ml.jpg?v=1785918615&width=1000",
+  "page": "https://birkholz-perfumes.com/en/products/tobacco-sense-100ml",
+  "source": "Birkholz — Tobacco Sense",
+  "type": "official"
+ },
+ "Birkholz|Versailles - Trésor de jardin": {
+  "file": "birkholz--versailles-tresor-de-jardin.webp",
+  "image": "https://www.birkholz-perfumes.com/cdn/shop/files/Versailles_100ml.jpg?v=1786356725",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/versailles-tresor-de-jardin-en",
+  "source": "Birkholz — Versailles - Trésor de jardin",
+  "type": "official"
+ },
+ "Birkholz|Visions of Venice": {
+  "file": "birkholz--visions-of-venice.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Venice_100ml.jpg?v=1786359080&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/visions-of-venice",
+  "source": "Birkholz — Visions of Venice",
+  "type": "official"
+ },
+ "Birkholz|Vivid in Verona": {
+  "file": "birkholz--vivid-in-verona.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/Verona_100ml.jpg?v=1786359079&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/vividin-verona",
+  "source": "Birkholz — Vivid in Verona",
+  "type": "official"
+ },
+ "Birkholz|Wild Desires": {
+  "file": "birkholz--wild-desires.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0080/0473/0970/files/WildDesires_100ml.jpg?v=1786369383&width=1000",
+  "page": "https://www.birkholz-perfumes.com/en/collections/all/products/wild-desires",
+  "source": "Birkholz — Wild Desires",
+  "type": "official"
+ },
+ "Botanicae|En Route": {
+  "file": "botanicae--en-route.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_en_route_eau_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-en-route-eau-de-parfum",
+  "source": "50 ml — Botanicae En Route",
+  "type": "retailer"
+ },
+ "Botanicae|Epoque": {
+  "file": "botanicae--epoque.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_epoque_eau_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-epoque-eau-de-parfum",
+  "source": "50 ml — Botanicae Epoque",
+  "type": "retailer"
+ },
+ "Botanicae|Euria": {
+  "file": "botanicae--euria.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_euria_eau_de_toilette_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-euria-eau-de-toilette",
+  "source": "50 ml — Botanicae Euria",
+  "type": "retailer"
+ },
+ "Botanicae|Highlands": {
+  "file": "botanicae--highlands.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_highlands_eau_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-highlands-eau-de-parfum",
+  "source": "50 ml — Botanicae Highlands",
+  "type": "retailer"
+ },
+ "Botanicae|Matin a Mogador": {
+  "file": "botanicae--matin-a-mogador.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_matin_a_mogador_eau_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-matin-a-mogador-eau-de-parfum",
+  "source": "50 ml — Botanicae Matin a Mogador",
+  "type": "retailer"
+ },
+ "Botanicae|Onda": {
+  "file": "botanicae--onda.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_onda_eau_de_toilette_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-onda-eau-de-toilette",
+  "source": "50 ml — Botanicae Onda",
+  "type": "retailer"
+ },
+ "Botanicae|Petit": {
+  "file": "botanicae--petit.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_petit_eau_de_toilette_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-petit-eau-de-toilette",
+  "source": "50 ml — Botanicae Petit",
+  "type": "retailer"
+ },
+ "Botanicae|Shomal": {
+  "file": "botanicae--shomal.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_shomal_eau_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-shomal-eau-de-parfum",
+  "source": "50 ml — Botanicae Shomal",
+  "type": "retailer"
+ },
+ "Botanicae|Stereo": {
+  "file": "botanicae--stereo.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_stereo_eau_de_toilette_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-stereo-eau-de-toilette",
+  "source": "50 ml — Botanicae Stereo",
+  "type": "retailer"
+ },
+ "Botanicae|Tramonte": {
+  "file": "botanicae--tramonte.webp",
+  "image": "https://cdn.50-ml.media/media/catalog/product/b/o/botanicae_tramonte_eau_de_parfum_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200",
+  "page": "https://50-ml.com/botanicae-tramonte-eau-de-parfum",
+  "source": "50 ml — Botanicae Tramonte",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Man Catch-Me": {
+  "file": "chris-adams--active-man-catch-me.webp",
+  "image": "https://cdn.shopwice.com/products/208004/main-208005/v1/image-800.webp",
+  "page": "https://shopwice.com/product/active-man-catch-me-100ml-spray-perfume",
+  "source": "Shopwice — Chris Adams Active Man Catch-Me",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Man Cool": {
+  "file": "chris-adams--active-man-cool.webp",
+  "image": "https://cdn.shopwice.com/products/206557/main-206559/v1/image-320.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-man-cool-eau-de-parfum-100ml",
+  "source": "Shopwice — Chris Adams Active Man Cool",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Man Intense": {
+  "file": "chris-adams--active-man-intense.webp",
+  "image": "https://cdn.shopwice.com/products/206554/main-206556/v1/image-640.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-man-intense-eau-de-parfum-100ml",
+  "source": "Shopwice — Chris Adams Active Man Intense",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Man Noir": {
+  "file": "chris-adams--active-man-noir.webp",
+  "image": "https://cdn.shopwice.com/products/208003/main-208001/v1/image-800.webp",
+  "page": "https://shopwice.com/product/active-man-noir-100ml-spray-perfume",
+  "source": "Shopwice — Chris Adams Active Man Noir",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Blanche": {
+  "file": "chris-adams--active-woman-blanche.webp",
+  "image": "https://cdn.shopwice.com/products/208053/main-208054/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-blanche-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Blanche",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Blumine": {
+  "file": "chris-adams--active-woman-blumine.webp",
+  "image": "https://cdn.shopwice.com/products/208067/main-208068/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-blumine-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Blumine",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Bombastic": {
+  "file": "chris-adams--active-woman-bombastic.webp",
+  "image": "https://cdn.shopwice.com/products/208070/main-208071/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-bombastic-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Bombastic",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Boss Babe": {
+  "file": "chris-adams--active-woman-boss-babe.webp",
+  "image": "https://cdn.shopwice.com/products/208072/main-208073/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-boss-babe-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Boss Babe",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman CA Classic Denim": {
+  "file": "chris-adams--active-woman-ca-classic-denim.webp",
+  "image": "https://cdn.shopwice.com/products/208077/main-208078/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-ca-classic-denim-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman CA Classic Denim",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman CA Dreams Bloom": {
+  "file": "chris-adams--active-woman-ca-dreams-bloom.webp",
+  "image": "https://cdn.shopwice.com/products/208082/main-208083/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-ca-dreams-bloom-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman CA Dreams Bloom",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman CA Woman": {
+  "file": "chris-adams--active-woman-ca-woman.webp",
+  "image": "https://cdn.shopwice.com/products/208085/main-208086/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-ca-woman-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman CA Woman",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Cheers": {
+  "file": "chris-adams--active-woman-cheers.webp",
+  "image": "https://cdn.shopwice.com/products/208088/main-208089/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-cheers-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Cheers",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Gifted": {
+  "file": "chris-adams--active-woman-gifted.webp",
+  "image": "https://cdn.shopwice.com/products/208092/main-208093/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-gifted-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Gifted",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Intense": {
+  "file": "chris-adams--active-woman-intense.webp",
+  "image": "https://cdn.shopwice.com/products/208060/main-208061/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-intense-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Intense",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Into Me": {
+  "file": "chris-adams--active-woman-into-me.webp",
+  "image": "https://cdn.shopwice.com/products/208096/main-208097/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-into-me-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Into Me",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Kyss": {
+  "file": "chris-adams--active-woman-kyss.webp",
+  "image": "https://cdn.shopwice.com/products/208098/main-208100/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-kyss-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Kyss",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Let's Imagine Woman": {
+  "file": "chris-adams--active-woman-let-s-imagine-woman.webp",
+  "image": "https://cdn.shopwice.com/products/208101/main-208102/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-lets-imagine-woman-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Let's Imagine Woman",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Noire": {
+  "file": "chris-adams--active-woman-noire.webp",
+  "image": "https://cdn.shopwice.com/products/208063/main-208064/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-noire-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Noire",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Paloma": {
+  "file": "chris-adams--active-woman-paloma.webp",
+  "image": "https://cdn.shopwice.com/products/208105/main-208106/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-paloma-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Paloma",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Prize": {
+  "file": "chris-adams--active-woman-prize.webp",
+  "image": "https://cdn.shopwice.com/products/208109/main-208110/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-prize-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Prize",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Prize D'or": {
+  "file": "chris-adams--active-woman-prize-d-or.webp",
+  "image": "https://cdn.shopwice.com/products/208113/main-208114/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-prize-dor-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Prize D'or",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Rebellion": {
+  "file": "chris-adams--active-woman-rebellion.webp",
+  "image": "https://cdn.shopwice.com/products/208116/main-208126/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-rebellion-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Rebellion",
+  "type": "retailer"
+ },
+ "Chris Adams|Active Woman Reflection": {
+  "file": "chris-adams--active-woman-reflection.webp",
+  "image": "https://cdn.shopwice.com/products/208119/main-208120/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-reflection-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Reflection",
+  "type": "retailer"
+ },
+ "Chris Adams|Africano": {
+  "file": "chris-adams--africano.webp",
+  "image": "https://cdn.shopwice.com/products/208042/main-208043/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-africano-100ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Africano",
+  "type": "retailer"
+ },
+ "Chris Adams|Bronze Conduroy": {
+  "file": "chris-adams--bronze-conduroy.webp",
+  "image": "https://cdn.shopwice.com/products/208044/main-208045/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-bronze-conduroy-100ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Bronze Conduroy",
+  "type": "retailer"
+ },
+ "Chris Adams|Choice Pour Femme": {
+  "file": "chris-adams--choice-pour-femme.webp",
+  "image": "https://cdn.shopwice.com/products/171189/main-171191/v1/image-1200.webp",
+  "page": "https://shopwice.com/product/chris-adams-choice-perfume-pour-femme",
+  "source": "Shopwice — Chris Adams Choice Pour Femme",
+  "type": "retailer"
+ },
+ "Chris Adams|Classic Denim Man": {
+  "file": "chris-adams--classic-denim-man.webp",
+  "image": "https://cdn.shopwice.com/products/204162/main-204164/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-classic-denim-man-100ml-edp",
+  "source": "Shopwice — Chris Adams Classic Denim Man",
+  "type": "retailer"
+ },
+ "Chris Adams|DX77 Man": {
+  "file": "chris-adams--dx77-man.webp",
+  "image": "https://cdn.shopwice.com/products/209362/main-209363/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-dx77-man-100ml-spray-perfume",
+  "source": "Shopwice — Chris Adams DX77 Man",
+  "type": "retailer"
+ },
+ "Chris Adams|Dolby Man Sport": {
+  "file": "chris-adams--dolby-man-sport.webp",
+  "image": "https://cdn.shopwice.com/products/208047/main-208048/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-dolby-man-sport-100ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Dolby Man Sport",
+  "type": "retailer"
+ },
+ "Chris Adams|Dreamz Blue": {
+  "file": "chris-adams--dreamz-blue.webp",
+  "image": "https://cdn.shopwice.com/products/171205/main-171207/v1/image-1200.webp",
+  "page": "https://shopwice.com/product/chris-adams-dreamz-perfume-blue",
+  "source": "Shopwice — Chris Adams Dreamz Blue",
+  "type": "retailer"
+ },
+ "Chris Adams|Dreamz Pink": {
+  "file": "chris-adams--dreamz-pink.webp",
+  "image": "https://cdn.shopwice.com/products/171164/main-171166/v1/image-1200.webp",
+  "page": "https://shopwice.com/product/chris-adams-dreamz-pink",
+  "source": "Shopwice — Chris Adams Dreamz Pink",
+  "type": "retailer"
+ },
+ "Chris Adams|Dreamz Pour Femme": {
+  "file": "chris-adams--dreamz-pour-femme.webp",
+  "image": "https://cdn.shopwice.com/products/171198/main-171199/v2/image-1200.webp",
+  "page": "https://shopwice.com/product/chris-adams-dreamz-pour-femme",
+  "source": "Shopwice — Chris Adams Dreamz Pour Femme",
+  "type": "retailer"
+ },
+ "Chris Adams|Dreamz Pour Homme": {
+  "file": "chris-adams--dreamz-pour-homme.webp",
+  "image": "https://cdn.shopwice.com/products/171201/main-171204/v1/image-1200.webp",
+  "page": "https://shopwice.com/product/chris-adams-dreamz-pour-homme-perfume",
+  "source": "Shopwice — Chris Adams Dreamz Pour Homme",
+  "type": "retailer"
+ },
+ "Chris Adams|Let Imagine Pour Homme": {
+  "file": "chris-adams--let-imagine-pour-homme.webp",
+  "image": "https://cdn.shopwice.com/products/171182/main-171184/v1/image-1200.webp",
+  "page": "https://shopwice.com/product/chris-adams-let-imagine-pour-homme-perfume",
+  "source": "Shopwice — Chris Adams Let Imagine Pour Homme",
+  "type": "retailer"
+ },
+ "Chris Adams|Let's Imagine Blue": {
+  "file": "chris-adams--let-s-imagine-blue.webp",
+  "image": "https://cdn.shopwice.com/products/208017/main-208022/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-lets-imagine-blue-perfume-spray",
+  "source": "Shopwice — Chris Adams Let's Imagine Blue",
+  "type": "retailer"
+ },
+ "Chris Adams|Lifetime Pour Homme": {
+  "file": "chris-adams--lifetime-pour-homme.webp",
+  "image": "https://cdn.shopwice.com/products/171169/main-171174/v1/image-1200.webp",
+  "page": "https://shopwice.com/product/chris-adams-men-lifetime-perfume",
+  "source": "Shopwice — Chris Adams Lifetime Pour Homme",
+  "type": "retailer"
+ },
+ "Chris Adams|Marcus": {
+  "file": "chris-adams--marcus.webp",
+  "image": "https://cdn.shopwice.com/products/208039/main-208040/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-marcus-100ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Marcus",
+  "type": "retailer"
+ },
+ "Chris Adams|Pour Homme Man": {
+  "file": "chris-adams--pour-homme-man.webp",
+  "image": "https://cdn.shopwice.com/products/171193/main-171195/v1/image-1200.webp",
+  "page": "https://shopwice.com/product/chris-adams-pour-homme-man-perfume",
+  "source": "Shopwice — Chris Adams Pour Homme Man",
+  "type": "retailer"
+ },
+ "Chris Adams|Powerful Pour Homme": {
+  "file": "chris-adams--powerful-pour-homme.webp",
+  "image": "https://cdn.shopwice.com/products/171175/main-171180/v1/image-1200.webp",
+  "page": "https://shopwice.com/product/chris-adams-powerful-pour-homme-perfume",
+  "source": "Shopwice — Chris Adams Powerful Pour Homme",
+  "type": "retailer"
+ },
+ "Chris Adams|Pure Red": {
+  "file": "chris-adams--pure-red.webp",
+  "image": "https://cdn.shopwice.com/products/139434/gallery-171163/v2/image-800.webp",
+  "page": "https://shopwice.com/product/pure-red-chris-adams-perfume",
+  "source": "Shopwice — Chris Adams Pure Red",
+  "type": "retailer"
+ },
+ "Chris Adams|Rover": {
+  "file": "chris-adams--rover.webp",
+  "image": "https://cdn.shopwice.com/products/208035/main-208036/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-rover-100ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Rover",
+  "type": "retailer"
+ },
+ "Chris Adams|Volante": {
+  "file": "chris-adams--volante.webp",
+  "image": "https://cdn.shopwice.com/products/208032/main-208033/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-volante-100ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Volante",
+  "type": "retailer"
+ },
+ "Chris Adams|What's Up?": {
+  "file": "chris-adams--what-s-up.webp",
+  "image": "https://cdn.shopwice.com/products/208029/main-208030/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-whats-up-100ml-perfume-spray",
+  "source": "Shopwice — Chris Adams What's Up?",
+  "type": "retailer"
+ },
+ "Chris Adams|Wild Leopard": {
+  "file": "chris-adams--wild-leopard.webp",
+  "image": "https://cdn.shopwice.com/products/208025/main-208026/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-wild-leopard-100ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Wild Leopard",
+  "type": "retailer"
  },
  "Eight & Bob|Egypt": {
   "file": "eight-bob--egypt.webp",
@@ -356,12 +1525,369 @@
   "source": "Eight & Bob - Egypt 100 ml",
   "type": "official"
  },
+ "Electimuss|Amber Aquilaria": {
+  "file": "electimuss--amber-aquilaria.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/products-electimuss-purple-aquilaria-WEB.jpg?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/amber-aquilaria",
+  "source": "Electimuss - Amber Aquilaria",
+  "type": "official"
+ },
+ "Electimuss|Amber Bloom": {
+  "file": "electimuss--amber-bloom.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/AMBER_BLOOM_100ml_with_shadow_72dpi.jpg?v=1775047809&width=1000",
+  "page": "https://www.electimuss.com/products/amber-bloom",
+  "source": "Electimuss - Amber Bloom",
+  "type": "official"
+ },
+ "Electimuss|Aquila Absolute": {
+  "file": "electimuss--aquila-absolute.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/Aquila-Absolute-100ml-Perfume.jpg?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/aquila-absolute",
+  "source": "Electimuss - Aquila Absolute",
+  "type": "official"
+ },
+ "Electimuss|Astrum Nova": {
+  "file": "electimuss--astrum-nova.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/ASTRUM_NOVA_100ml_new_badge.jpg?v=1792493436&width=1000",
+  "page": "https://www.electimuss.com/products/astrum-nova",
+  "source": "Electimuss - Astrum Nova",
+  "type": "official"
+ },
+ "Electimuss|Aurora": {
+  "file": "electimuss--aurora.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/AURORA.png?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/aurora",
+  "source": "Electimuss - Aurora",
+  "type": "official"
+ },
+ "Electimuss|Auster": {
+  "file": "electimuss--auster.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/products-electimuss-clear-auster-WEB.jpg?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/auster",
+  "source": "Electimuss - Auster",
+  "type": "official"
+ },
+ "Electimuss|Black Caviar": {
+  "file": "electimuss--black-caviar.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/products-electimuss-smokey-black-caviar-WEB.webp?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/black-caviar",
+  "source": "Electimuss - Black Caviar",
+  "type": "official"
+ },
+ "Electimuss|Capua": {
+  "file": "electimuss--capua.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/products-electimuss-smokey-capua-WEB.jpg?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/capua",
+  "source": "Electimuss - Capua",
+  "type": "official"
+ },
+ "Electimuss|Caspian Cherry": {
+  "file": "electimuss--caspian-cherry.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/CASPIAN_CHERRY_100ml_new_badge.jpg?v=1792493369&width=1000",
+  "page": "https://www.electimuss.com/products/caspian-cherry",
+  "source": "Electimuss - Caspian Cherry",
+  "type": "official"
+ },
+ "Electimuss|Celestial": {
+  "file": "electimuss--celestial.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/CELESTIAL.png?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/celestial",
+  "source": "Electimuss - Celestial",
+  "type": "official"
+ },
+ "Electimuss|Cupid's Kiss": {
+  "file": "electimuss--cupid-s-kiss.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/ELECTIMUSS_LONDON_CUPID_S_KISS.jpg?v=1775748406&width=1000",
+  "page": "https://www.electimuss.com/products/cupids-kiss",
+  "source": "Electimuss - Cupid's Kiss",
+  "type": "official"
+ },
+ "Electimuss|Fortuna": {
+  "file": "electimuss--fortuna.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/products-electimuss-clear-fortuna-WEB.jpg?v=1708619583&width=1000",
+  "page": "https://www.electimuss.com/products/fortuna",
+  "source": "Electimuss - Fortuna",
+  "type": "official"
+ },
+ "Electimuss|Gladiator Oud": {
+  "file": "electimuss--gladiator-oud.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/GLADIATOR_OUD.png?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/gladiator-oud",
+  "source": "Electimuss - Gladiator Oud",
+  "type": "official"
+ },
+ "Electimuss|Imperium": {
+  "file": "electimuss--imperium.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/IMPERIUM.png?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/imperium",
+  "source": "Electimuss - Imperium",
+  "type": "official"
+ },
+ "Electimuss|Jupiter": {
+  "file": "electimuss--jupiter.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/products-electimuss-clear-jupiter-WEB.jpg?v=1708619592&width=1000",
+  "page": "https://www.electimuss.com/products/jupiter",
+  "source": "Electimuss - Jupiter",
+  "type": "official"
+ },
+ "Electimuss|MCX": {
+  "file": "electimuss--mcx.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/MCX.png?v=1756813331&width=1000",
+  "page": "https://www.electimuss.com/products/mcx",
+  "source": "Electimuss - MCX",
+  "type": "official"
+ },
  "Electimuss|Mercurial Cashmere": {
   "file": "electimuss--mercurial-cashmere.webp",
   "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/products-electimuss-MERCURIAL_CASHMERE-WEB_0a80ba67-6e5d-4a10-a02e-476c213e7ece.jpg?v=1790860288&width=1000",
   "page": "https://www.electimuss.com/products/mercurial-cashmere",
   "source": "Electimuss - Mercurial Cashmere",
   "type": "official"
+ },
+ "Electimuss|Moroccan Medjool": {
+  "file": "electimuss--moroccan-medjool.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/MOROCCAN_MEDJOOL_100ml_new_badge.jpg?v=1792493514&width=1000",
+  "page": "https://www.electimuss.com/products/moroccan-medjool",
+  "source": "Electimuss - Moroccan Medjool",
+  "type": "official"
+ },
+ "Electimuss|Octavian": {
+  "file": "electimuss--octavian.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/products-electimuss-purple-octavian-WEB.jpg?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/octavian",
+  "source": "Electimuss - Octavian",
+  "type": "official"
+ },
+ "Electimuss|Patchouli of the Underworld": {
+  "file": "electimuss--patchouli-of-the-underworld.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/electimuss-teal-pluto-WEB.jpg?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/patchouli-of-the-underworld",
+  "source": "Electimuss - Patchouli of the Underworld",
+  "type": "official"
+ },
+ "Electimuss|Persephone's Patchouli": {
+  "file": "electimuss--persephone-s-patchouli.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/electimuss-teal-persephone-WEB.jpg?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/persephones-patchouli",
+  "source": "Electimuss - Persephone's Patchouli",
+  "type": "official"
+ },
+ "Electimuss|Pomona Vitalis": {
+  "file": "electimuss--pomona-vitalis.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/POMONA-VITALIS.png?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/pomona-vitalis",
+  "source": "Electimuss - Pomona Vitalis",
+  "type": "official"
+ },
+ "Electimuss|Puritas": {
+  "file": "electimuss--puritas.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/PURITAS.png?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/puritas",
+  "source": "Electimuss - Puritas",
+  "type": "official"
+ },
+ "Electimuss|Reverie Haze": {
+  "file": "electimuss--reverie-haze.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/REVERIE_HAZE_with_shadow.png?v=1764773447&width=1000",
+  "page": "https://www.electimuss.com/products/reverie-haze",
+  "source": "Electimuss - Reverie Haze",
+  "type": "official"
+ },
+ "Electimuss|Rhodanthe": {
+  "file": "electimuss--rhodanthe.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/RHODANTHE.png?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/rhodanthe",
+  "source": "Electimuss - Rhodanthe",
+  "type": "official"
+ },
+ "Electimuss|Silvanus": {
+  "file": "electimuss--silvanus.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/SILVANUS.png?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/silvanus",
+  "source": "Electimuss - Silvanus",
+  "type": "official"
+ },
+ "Electimuss|Spice d'Arno": {
+  "file": "electimuss--spice-d-arno.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/SPICE_D_ARNO.png?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/spice-darno",
+  "source": "Electimuss - Spice d'Arno",
+  "type": "official"
+ },
+ "Electimuss|Summanus": {
+  "file": "electimuss--summanus.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/products/products-electimuss-smokey-summanus-WEB.jpg?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/summanus",
+  "source": "Electimuss - Summanus",
+  "type": "official"
+ },
+ "Electimuss|Trajan": {
+  "file": "electimuss--trajan.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/Electimuss_Trajan_2000x2000_e283e61d-c6f0-40f9-abd6-fa5a5f97be76.png?v=1759413747&width=1000",
+  "page": "https://www.electimuss.com/products/trajan",
+  "source": "Electimuss - Trajan",
+  "type": "official"
+ },
+ "Electimuss|Trajan Noir": {
+  "file": "electimuss--trajan-noir.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/Trajan-Noir-packshot.png?v=1787583042&width=1000",
+  "page": "https://www.electimuss.com/products/trajan-noir",
+  "source": "Electimuss - Trajan Noir",
+  "type": "official"
+ },
+ "Electimuss|Vanilla Edesia": {
+  "file": "electimuss--vanilla-edesia.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/VANILLA_EDESIA.png?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/vanilla-edesia",
+  "source": "Electimuss - Vanilla Edesia",
+  "type": "official"
+ },
+ "Electimuss|Vesper Reverie": {
+  "file": "electimuss--vesper-reverie.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/VESPER_REVERIE.png?v=1756476113&width=1000",
+  "page": "https://www.electimuss.com/products/vesper-reverie",
+  "source": "Electimuss - Vesper Reverie",
+  "type": "official"
+ },
+ "Electimuss|Vici Leather": {
+  "file": "electimuss--vici-leather.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/VICI_LEATHER.png?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/vici-leather",
+  "source": "Electimuss - Vici Leather",
+  "type": "official"
+ },
+ "Electimuss|Vixere": {
+  "file": "electimuss--vixere.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0812/7928/7636/files/VIXERE.png?v=1760374832&width=1000",
+  "page": "https://www.electimuss.com/products/vixere",
+  "source": "Electimuss - Vixere",
+  "type": "official"
+ },
+ "Ghawali|4 Walls Oud": {
+  "file": "ghawali--4-walls-oud.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/4WallsOud1.png?v=1724846567&width=1000",
+  "page": "https://ae.ghawali.com/collections/november-sale/products/4-walls-oud-75ml",
+  "source": "Ghawali UAE — 4 Walls Oud",
+  "type": "official"
+ },
+ "Ghawali|Bottled Emotions": {
+  "file": "ghawali--bottled-emotions.webp",
+  "image": "https://bljm-prd.my.commercecloud.salesforce.com/on/demandware.static/-/Sites-bloomingdales-master-catalog/default/dw94f752a9/sfcc-new-blm-production/2/1/7/7/9/217794631_IN.jpg",
+  "page": "https://bloomingdales.ae/ghawali-bottled-emotions-parfum-BEA217794630.html",
+  "source": "Bloomingdale's UAE — Bottled Emotions Parfum",
+  "type": "retailer"
+ },
+ "Ghawali|Dusk Outro": {
+  "file": "ghawali--dusk-outro.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/164117241348_1_8e51b797-5fc5-4d70-9eac-da23dea36d69.png?v=1753692920&width=1000",
+  "page": "https://ae.ghawali.com/collections/new-collection/products/dusk-outro",
+  "source": "Ghawali UAE — Dusk Outro",
+  "type": "official"
+ },
+ "Ghawali|Heirloom": {
+  "file": "ghawali--heirloom.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/164117241346_1.png?v=1747046351&width=1000",
+  "page": "https://ae.ghawali.com/collections/new-collection/products/heirloom-parfum",
+  "source": "Ghawali UAE — Heirloom",
+  "type": "official"
+ },
+ "Ghawali|Kin Musk": {
+  "file": "ghawali--kin-musk.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/image_32.png?v=1762759182&width=1000",
+  "page": "https://ae.ghawali.com/collections/new-collection/products/kin-musk-parfum",
+  "source": "Ghawali UAE — Kin Musk",
+  "type": "official"
+ },
+ "Ghawali|Laylaa": {
+  "file": "ghawali--laylaa.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/Laylapf2_39a06949-42a9-40ca-adcd-61af3bdadd47.png?v=1724846260&width=1000",
+  "page": "https://ae.ghawali.com/collections/ghawalis-best-sellers/products/laylaa-parfum",
+  "source": "Ghawali UAE — Laylaa",
+  "type": "official"
+ },
+ "Ghawali|Love Note": {
+  "file": "ghawali--love-note.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/lovenotepf2_48d85ee1-03e7-42c9-b35e-2e4889563b62.png?v=1761282413&width=1000",
+  "page": "https://ae.ghawali.com/collections/ghawalis-best-sellers/products/love-note-75ml",
+  "source": "Ghawali UAE — Love Note",
+  "type": "official"
+ },
+ "Ghawali|Midnight Noise": {
+  "file": "ghawali--midnight-noise.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/MIDNIGHTNOISEPERFUME164116036620-1.png?v=1769514395&width=1000",
+  "page": "https://ae.ghawali.com/collections/ghawalis-best-sellers/products/parfum-midnight-noise-75ml",
+  "source": "Ghawali UAE — Midnight Noise",
+  "type": "official"
+ },
+ "Ghawali|Musical Vibrations": {
+  "file": "ghawali--musical-vibrations.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/MUSICALVIBRATIONS_1_7af9d2a7-6913-4570-89fb-86b512072f1e.jpg?v=1739790525&width=1000",
+  "page": "https://ae.ghawali.com/collections/ghawalis-best-sellers/products/musical-vibrations-75ml",
+  "source": "Ghawali UAE — Musical Vibrations",
+  "type": "official"
+ },
+ "Ghawali|Noble": {
+  "file": "ghawali--noble.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/Noble2.png?v=1779253557&width=1000",
+  "page": "https://ae.ghawali.com/collections/november-sale/products/parfum-al-nobl-75ml",
+  "source": "Ghawali UAE — Noble",
+  "type": "official"
+ },
+ "Ghawali|Nomadic Dreams": {
+  "file": "ghawali--nomadic-dreams.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/Nomadicdreamspf2_7e3d5f03-ad5a-486d-8ddc-785afaa1acc8.png?v=1724847239&width=1000",
+  "page": "https://ae.ghawali.com/collections/november-sale/products/nomadic-dreams",
+  "source": "Ghawali UAE — Nomadic Dreams",
+  "type": "official"
+ },
+ "Ghawali|Untold": {
+  "file": "ghawali--untold.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0524/4000/6812/files/untoldpf3.png?v=1724847408&width=1000",
+  "page": "https://ae.ghawali.com/collections/november-sale/products/untold-parfum",
+  "source": "Ghawali UAE — Untold",
+  "type": "official"
+ },
+ "Gulf Orchid|Cherry Kokomo": {
+  "file": "gulf-orchid--cherry-kokomo.webp",
+  "image": "https://scentadvice.com/wp-content/uploads/2025/06/01_1-e1750040246427.webp",
+  "page": "https://scentadvice.com/cherry-kokomo-2025-gulf-orchid/",
+  "source": "Scent Advice — Cherry Kokomo (2025)",
+  "type": "database"
+ },
+ "Gulf Orchid|Cotton Candy": {
+  "file": "gulf-orchid--cotton-candy.webp",
+  "image": "https://vivir.com/images/articles/bs_the-musk-collection-cotton-candy.webp",
+  "page": "https://vivir.com/article/the-musk-collection-cotton-candy",
+  "source": "Vivir — The Musk Collection Cotton Candy",
+  "type": "publication"
+ },
+ "Gulf Orchid|Mangotini": {
+  "file": "gulf-orchid--mangotini.webp",
+  "image": "https://scentadvice.com/wp-content/uploads/2025/06/MANGOTINI_GulfOrchidPerfume_1b381b1f-be35-4abf-965a-fe1f56ecfd89-e1750040175913.webp",
+  "page": "https://scentadvice.com/mangotini-2025-gulf-orchid/",
+  "source": "Scent Advice — Mangotini (2025)",
+  "type": "database"
+ },
+ "Gulf Orchid|Mojito Obsession": {
+  "file": "gulf-orchid--mojito-obsession.webp",
+  "image": "https://scentadvice.com/wp-content/uploads/2025/06/MOJITO_OBESSESION_Gulf_Orchid_Perfume-e1750039373825.webp",
+  "page": "https://scentadvice.com/mojito-obsession-2025-gulf-orchid/",
+  "source": "Scent Advice — Mojito Obsession (2025)",
+  "type": "database"
+ },
+ "Gulf Orchid|Ruby Fizz": {
+  "file": "gulf-orchid--ruby-fizz.webp",
+  "image": "https://scentadvice.com/wp-content/uploads/2025/06/RUBY_FIZZ_Gulf_Orchid_Perfume-e1750040028537.webp",
+  "page": "https://scentadvice.com/ruby-fizz-2025-gulf-orchid/",
+  "source": "Scent Advice — Ruby Fizz (2025)",
+  "type": "database"
+ },
+ "Gulf Orchid|Tahiti Colada": {
+  "file": "gulf-orchid--tahiti-colada.webp",
+  "image": "https://scentadvice.com/wp-content/uploads/2025/06/TAHITICOLADA_GulfOrchidPerfume-e1750039939296.webp",
+  "page": "https://scentadvice.com/tahiti-colada-2025-gulf-orchid/",
+  "source": "Scent Advice — Tahiti Colada (2025)",
+  "type": "database"
  },
  "Initio|Absolute Aphrodisiac": {
   "file": "initio--absolute-aphrodisiac.webp",
@@ -384,12 +1910,369 @@
   "source": "Initio official — Oud for Happiness",
   "type": "official"
  },
+ "Nabeel|Al Bashiq": {
+  "file": "nabeel--al-bashiq.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/al-bashiq-01-1024x1024.webp?v=1771073497&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/al-bashiq-nabeel-100ml",
+  "source": "Arabic Parfums — Al Bashiq",
+  "type": "retailer"
+ },
+ "Nabeel|Aqua di Nabeel Absolute": {
+  "file": "nabeel--aqua-di-nabeel-absolute.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/acqua-di-selva-bliss-of-italy-con-ingredientes-naturales.png?v=1771092384&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/aqua-di-nabeel-absolute-nabeel",
+  "source": "Arabic Parfums — Aqua di Nabeel Absolute",
+  "type": "retailer"
+ },
+ "Nabeel|Bahi": {
+  "file": "nabeel--bahi.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/bahi-3.avif?v=1771079574&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/bahi-nabeel",
+  "source": "Arabic Parfums — Bahi",
+  "type": "retailer"
+ },
+ "Nabeel|Dan Dana": {
+  "file": "nabeel--dan-dana.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/dan-dana-nabeel-fond-alb.png?v=1788189770&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/dan-dana-nabeel",
+  "source": "Arabic Parfums — Dan Dana",
+  "type": "retailer"
+ },
+ "Nabeel|Fulad Azm": {
+  "file": "nabeel--fulad-azm.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/487831598_1096350679203023_6106230213081923506_n.jpg?v=1771072378&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/fulad-azm-nabeel-100ml",
+  "source": "Arabic Parfums — Fulad Azm",
+  "type": "retailer"
+ },
  "Nabeel|Irth": {
   "file": "nabeel--irth.webp",
   "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/Irth-01-1024x1024.png?v=1771073523&width=1000",
   "page": "https://arabicparfums.com/en/collections/perfumes-unisex/products/irth-nabeel-100ml",
   "source": "Arabic Parfums — Irth",
   "type": "retailer"
+ },
+ "Nabeel|Irth Fairooz": {
+  "file": "nabeel--irth-fairooz.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/irth-fairooz-100ml-edp-1024x1024.webp?v=1771073536&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/irth-fairooz-nabeel-100ml",
+  "source": "Arabic Parfums — Irth Fairooz",
+  "type": "retailer"
+ },
+ "Nabeel|Ma' Alaina": {
+  "file": "nabeel--ma-alaina.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/308547902_1101666943790186_5338837559837171799_n-1024x1024.jpg?v=1771073412&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/ma-alaina-nabeel-100ml",
+  "source": "Arabic Parfums — Ma' Alaina",
+  "type": "retailer"
+ },
+ "Nabeel|Master Mind Noir": {
+  "file": "nabeel--master-mind-noir.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/mastermind-noir-100ml-eau-de-parfum-spray-bottle.webp?v=1771073489&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/master-mind-noir-nabeel-100ml",
+  "source": "Arabic Parfums — Master Mind Noir",
+  "type": "retailer"
+ },
+ "Nabeel|Master Mind Rouge": {
+  "file": "nabeel--master-mind-rouge.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/mastermind-rouge-100ml-eau-de-parfum-spray-bottle.webp?v=1771073482&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/master-mind-rouge-nabeel-100ml",
+  "source": "Arabic Parfums — Master Mind Rouge",
+  "type": "retailer"
+ },
+ "Nabeel|Modern": {
+  "file": "nabeel--modern.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/modern-100ml-spray-bottle.webp?v=1771073474&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/modern-nabeel-100ml",
+  "source": "Arabic Parfums — Modern",
+  "type": "retailer"
+ },
+ "Nabeel|Nader Juri": {
+  "file": "nabeel--nader-juri.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/nader-juri-100ml-edp-1024x1024_jpg.webp?v=1771071817&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/nader-juri-nabeel-100ml",
+  "source": "Arabic Parfums — Nader Juri",
+  "type": "retailer"
+ },
+ "Nabeel|Ocean": {
+  "file": "nabeel--ocean.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/ocean-01-1024x1024.png?v=1771073510&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/ocean-nabeel-100ml",
+  "source": "Arabic Parfums — Ocean",
+  "type": "retailer"
+ },
+ "Nabeel|Ocean Blue": {
+  "file": "nabeel--ocean-blue.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/ocean-blue-100ml-edp-1024x1024_jpg.webp?v=1771071826&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/ocean-blue-nabeel-100ml",
+  "source": "Arabic Parfums — Ocean Blue",
+  "type": "retailer"
+ },
+ "Nabeel|Oody Woody": {
+  "file": "nabeel--oody-woody.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/oody-woody-100ml-spray-eau-de-parfum.webp?v=1771073466&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/oody-woody-nabeel-100ml",
+  "source": "Arabic Parfums — Oody Woody",
+  "type": "retailer"
+ },
+ "Nabeel|Oud Cafu": {
+  "file": "nabeel--oud-cafu.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/307276224_454417249992768_4678375877946013469_n-1024x1024.jpg?v=1771073435&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/oud-cafu-nabeel-100ml",
+  "source": "Arabic Parfums — Oud Cafu",
+  "type": "retailer"
+ },
+ "Nabeel|Raunaq": {
+  "file": "nabeel--raunaq.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/305034127_637877547855649_6420548535733341338_n-1024x1024.jpg?v=1771073423&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/raunaq-nabeel-100ml",
+  "source": "Arabic Parfums — Raunaq",
+  "type": "retailer"
+ },
+ "Nabeel|Sa'ada": {
+  "file": "nabeel--sa-ada.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/saada-fond-alb.png?v=1787647411&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/saada-nabeel",
+  "source": "Arabic Parfums — Sa'ada",
+  "type": "retailer"
+ },
+ "OJAR|Ciel d'Orage": {
+  "file": "ojar--ciel-d-orage.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_CIEL_D_ORAGE_EDP_100ML.png?v=1775738587&width=1000",
+  "page": "https://www.ojarofficial.com/collections/all/products/ciel_dorage_eau_de_parfum",
+  "source": "OJAR - Ciel d'Orage",
+  "type": "official"
+ },
+ "OJAR|Eagle Eyed Stranger": {
+  "file": "ojar--eagle-eyed-stranger.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_EAGLE_EYED_STRANGER_100ML_EDP.png?v=1775737827&width=1000",
+  "page": "https://www.ojarofficial.com/products/eagle-eyed-stranger-eau-de-parfum",
+  "source": "OJAR - Eagle Eyed Stranger",
+  "type": "official"
+ },
+ "OJAR|Encens Cuivre": {
+  "file": "ojar--encens-cuivre.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_ENCENS_CUIVRE_100ML_EDP.png?v=1775738046&width=1000",
+  "page": "https://www.ojarofficial.com/products/encens-cuivre-eau-de-parfum",
+  "source": "OJAR - Encens Cuivre",
+  "type": "official"
+ },
+ "OJAR|Epine du Desert": {
+  "file": "ojar--epine-du-desert.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_EPINE_DU_DESERT_EDP_100ML.png?v=1775738103&width=1000",
+  "page": "https://www.ojarofficial.com/collections/all/products/epine-du-desert-eau-de-parfum",
+  "source": "OJAR - Epine du Desert",
+  "type": "official"
+ },
+ "OJAR|Ever Lit": {
+  "file": "ojar--ever-lit.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_EVER_LIT_EXT_100ML.png?v=1775739928&width=1000",
+  "page": "https://www.ojarofficial.com/products/ever-lit",
+  "source": "OJAR - Ever Lit",
+  "type": "official"
+ },
+ "OJAR|Halwa Kiss": {
+  "file": "ojar--halwa-kiss.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_HALWA_KISS_EDP_100ML.png?v=1775737868&width=1000",
+  "page": "https://www.ojarofficial.com/collections/all/products/halwa_kiss_eau_de_parfum",
+  "source": "OJAR - Halwa Kiss",
+  "type": "official"
+ },
+ "OJAR|Infusion Velours": {
+  "file": "ojar--infusion-velours.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_INFUSION_VELOURS_EDP_100ML.png?v=1775738313&width=1000",
+  "page": "https://www.ojarofficial.com/products/infusion-velours-eau-de-parfum",
+  "source": "OJAR - Infusion Velours",
+  "type": "official"
+ },
+ "OJAR|Kashmir Print": {
+  "file": "ojar--kashmir-print.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_KASHMIR_PRINT_EDP_100ML.png?v=1775737917&width=1000",
+  "page": "https://www.ojarofficial.com/collections/all/products/kashmir_print_eau_de_parfum",
+  "source": "OJAR - Kashmir Print",
+  "type": "official"
+ },
+ "OJAR|Musk Colada": {
+  "file": "ojar--musk-colada.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_MUSK_COLADA_100ML_EXTRAIT_DE_PARFUM.png?v=1782792666&width=1000",
+  "page": "https://www.ojarofficial.com/products/musk-colada",
+  "source": "OJAR - Musk Colada",
+  "type": "official"
+ },
+ "OJAR|Oud Whisper": {
+  "file": "ojar--oud-whisper.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_OUD_WHISPER_EXT_100ML.png?v=1775739976&width=1000",
+  "page": "https://www.ojarofficial.com/products/oud-whisper",
+  "source": "OJAR - Oud Whisper",
+  "type": "official"
+ },
+ "OJAR|Red Redemption": {
+  "file": "ojar--red-redemption.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_RED_REDEMPTION_EDP_100ML.png?v=1775738720&width=1000",
+  "page": "https://www.ojarofficial.com/collections/all/products/red-redemption-eau-de-parfum",
+  "source": "OJAR - Red Redemption",
+  "type": "official"
+ },
+ "OJAR|Routes Nomades": {
+  "file": "ojar--routes-nomades.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_ROUTES_NOMADES__EDP_100ML.png?v=1775738647&width=1000",
+  "page": "https://www.ojarofficial.com/collections/all/products/routes-nomades-eau-de-parfum",
+  "source": "OJAR - Routes Nomades",
+  "type": "official"
+ },
+ "OJAR|Solar Flair": {
+  "file": "ojar--solar-flair.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_SOLAR_FLAIR_EDP_100ML.png?v=1775738768&width=1000",
+  "page": "https://www.ojarofficial.com/products/solar-flair",
+  "source": "OJAR - Solar Flair",
+  "type": "official"
+ },
+ "OJAR|Stallion Soul": {
+  "file": "ojar--stallion-soul.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_STALLION_SOUL_EDP_100ML.png?v=1775739402&width=1000",
+  "page": "https://www.ojarofficial.com/collections/all/products/stallion_soul_eau_de_parfum",
+  "source": "OJAR - Stallion Soul",
+  "type": "official"
+ },
+ "OJAR|Wood Whisper": {
+  "file": "ojar--wood-whisper.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0613/2898/2131/files/OJAR_WOOD_WHISPER_EDP_100ML.png?v=1775737744&width=1000",
+  "page": "https://www.ojarofficial.com/products/wood-whisper-eau-de-parfum",
+  "source": "OJAR - Wood Whisper",
+  "type": "official"
+ },
+ "Olibanum|Ambrette": {
+  "file": "olibanum--ambrette.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Ambrette.jpg?v=1643724138&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-ambrette",
+  "source": "Olibanum — Ambrette",
+  "type": "official"
+ },
+ "Olibanum|Cardamome": {
+  "file": "olibanum--cardamome.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Cardamome.jpg?v=1643724191&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-cardamome",
+  "source": "Olibanum — Cardamome",
+  "type": "official"
+ },
+ "Olibanum|Cuir végétal": {
+  "file": "olibanum--cuir-vegetal.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Cuir-vegetal.jpg?v=1643724223&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-cuir-vegetal",
+  "source": "Olibanum — Cuir végétal",
+  "type": "official"
+ },
+ "Olibanum|Gingembre": {
+  "file": "olibanum--gingembre.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Gingembre.jpg?v=1643724253&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-gingembre",
+  "source": "Olibanum — Gingembre",
+  "type": "official"
+ },
+ "Olibanum|Iris": {
+  "file": "olibanum--iris.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Iris.jpg?v=1643724279&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-iris",
+  "source": "Olibanum — Iris",
+  "type": "official"
+ },
+ "Olibanum|Maté": {
+  "file": "olibanum--mate.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Mate.jpg?v=1643724306&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-mate",
+  "source": "Olibanum — Maté",
+  "type": "official"
+ },
+ "Olibanum|Neroli": {
+  "file": "olibanum--neroli.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/files/Olibanum_Packshot-flacon-50ml_Neroli.jpg?v=1712219024&width=1000",
+  "page": "https://www.olibanum.com/products/neroli",
+  "source": "Olibanum — Neroli",
+  "type": "official"
+ },
+ "Olibanum|Opoponax": {
+  "file": "olibanum--opoponax.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Opoponax.jpg?v=1643724335&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-opoponax",
+  "source": "Olibanum — Opoponax",
+  "type": "official"
+ },
+ "Olibanum|Osmanthus": {
+  "file": "olibanum--osmanthus.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Osmanthus.jpg?v=1643724361&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-osmanthus",
+  "source": "Olibanum — Osmanthus",
+  "type": "official"
+ },
+ "Olibanum|Oud": {
+  "file": "olibanum--oud.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Oud.jpg?v=1643724480&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-oud",
+  "source": "Olibanum — Oud",
+  "type": "official"
+ },
+ "Olibanum|Patchouli": {
+  "file": "olibanum--patchouli.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Patchouli.jpg?v=1643724496&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-patchouli",
+  "source": "Olibanum — Patchouli",
+  "type": "official"
+ },
+ "Olibanum|Rose": {
+  "file": "olibanum--rose.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Rose.jpg?v=1643724521&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-rose",
+  "source": "Olibanum — Rose",
+  "type": "official"
+ },
+ "Olibanum|Sacra": {
+  "file": "olibanum--sacra.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Sacra.jpg?v=1643724551&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-sacra",
+  "source": "Olibanum — Sacra",
+  "type": "official"
+ },
+ "Olibanum|Safran": {
+  "file": "olibanum--safran.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Safran.jpg?v=1643724578&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-safran",
+  "source": "Olibanum — Safran",
+  "type": "official"
+ },
+ "Olibanum|Santal": {
+  "file": "olibanum--santal.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Santal.jpg?v=1643724605&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-santal",
+  "source": "Olibanum — Santal",
+  "type": "official"
+ },
+ "Olibanum|Tubéreuse": {
+  "file": "olibanum--tubereuse.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Tubereuse.jpg?v=1643724632&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-tubereuse",
+  "source": "Olibanum — Tubéreuse",
+  "type": "official"
+ },
+ "Olibanum|Vanille": {
+  "file": "olibanum--vanille.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Vanille.jpg?v=1643724658&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-vanille",
+  "source": "Olibanum — Vanille",
+  "type": "official"
+ },
+ "Olibanum|Vétiver": {
+  "file": "olibanum--vetiver.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Vetiver.jpg?v=1643724684&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-vetiver",
+  "source": "Olibanum — Vétiver",
+  "type": "official"
+ },
+ "Olibanum|Yuzu": {
+  "file": "olibanum--yuzu.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0611/5445/9903/products/Olibanum_Packshot-flacon-50ml_Yuzu.jpg?v=1643724712&width=1000",
+  "page": "https://www.olibanum.com/products/olibanum-yuzu",
+  "source": "Olibanum — Yuzu",
+  "type": "official"
  },
  "Pantheon Roma|Annone": {
   "file": "pantheon-roma--annone.webp",
@@ -417,6 +2300,251 @@
   "image": "https://cdn.shopify.com/s/files/1/0525/0239/7079/files/PERCIVAL-PERFUME-125-PACK1-1X1_CENTERED_1_5476f34c-058e-4eae-a180-3e4526067d70.png?v=1759501457&width=1000",
   "page": "https://www.parfums-de-marly.com/products/percival",
   "source": "Parfums de Marly official — Percival",
+  "type": "official"
+ },
+ "Street Origins|Amsterdam Red": {
+  "file": "street-origins--amsterdam-red.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_d94b0ff9-bc3d-404e-ba24-8241c500e3f9.jpg?v=1759158611&width=1000",
+  "page": "https://streetorigins.co/products/amsterdam-red",
+  "source": "Street Origins — Amsterdam Red",
+  "type": "official"
+ },
+ "Street Origins|Auckland Craze": {
+  "file": "street-origins--auckland-craze.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_49a24a87-de71-485b-8cff-4b4ae027260b.jpg?v=1759158422&width=1000",
+  "page": "https://streetorigins.co/products/auckland-craze",
+  "source": "Street Origins — Auckland Craze",
+  "type": "official"
+ },
+ "Street Origins|Auckland Rush": {
+  "file": "street-origins--auckland-rush.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_f6d7158c-936a-46e9-b545-2c85e1cc509b.jpg?v=1759199550&width=1000",
+  "page": "https://streetorigins.co/products/auckland-rush",
+  "source": "Street Origins — Auckland Rush",
+  "type": "official"
+ },
+ "Street Origins|Bangkok Bang": {
+  "file": "street-origins--bangkok-bang.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_3a9e7263-45fc-4e19-805e-9dbbd179e6f0.jpg?v=1759199368&width=1000",
+  "page": "https://streetorigins.co/products/bangkok-bang",
+  "source": "Street Origins — Bangkok Bang",
+  "type": "official"
+ },
+ "Street Origins|Bangkok Guilt": {
+  "file": "street-origins--bangkok-guilt.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_db1ac84b-8785-4899-9abe-42590d13a65f.jpg?v=1759158228&width=1000",
+  "page": "https://streetorigins.co/products/bangkok-guilt",
+  "source": "Street Origins — Bangkok Guilt",
+  "type": "official"
+ },
+ "Street Origins|Berlin Bash": {
+  "file": "street-origins--berlin-bash.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_a3e20ad4-3c7f-4b3e-8c2a-09feffbf4307.jpg?v=1759158040&width=1000",
+  "page": "https://streetorigins.co/products/berlin-bash",
+  "source": "Street Origins — Berlin Bash",
+  "type": "official"
+ },
+ "Street Origins|Bisous Bisous, Paris": {
+  "file": "street-origins--bisous-bisous-paris.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_1_5fa88210-75cc-4707-b912-25e0e3b0102a.jpg?v=1761042752&width=1000",
+  "page": "https://streetorigins.co/products/bisous-bisous-paris",
+  "source": "Street Origins — Bisous Bisous, Paris",
+  "type": "official"
+ },
+ "Street Origins|Cape Town Dream": {
+  "file": "street-origins--cape-town-dream.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_9318fce4-e2e8-4510-a6e9-8ba5a668005d.jpg?v=1759198919&width=1000",
+  "page": "https://streetorigins.co/products/cape-town-dream",
+  "source": "Street Origins — Cape Town Dream",
+  "type": "official"
+ },
+ "Street Origins|Cape Town Grace": {
+  "file": "street-origins--cape-town-grace.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_9637d45a-22f8-49bc-a72a-554a724c0c16.jpg?v=1759157835&width=1000",
+  "page": "https://streetorigins.co/products/cape-town-grace",
+  "source": "Street Origins — Cape Town Grace",
+  "type": "official"
+ },
+ "Street Origins|Coffee, You and Venice": {
+  "file": "street-origins--coffee-you-and-venice.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_1_256e442d-b13e-4a40-a31f-3edb7e02e357.jpg?v=1761043153&width=1000",
+  "page": "https://streetorigins.co/products/coffee-you-and-venice",
+  "source": "Street Origins — Coffee, You and Venice",
+  "type": "official"
+ },
+ "Street Origins|Drenched In London": {
+  "file": "street-origins--drenched-in-london.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_1.jpg?v=1761038332&width=1000",
+  "page": "https://streetorigins.co/products/drenched-in-london",
+  "source": "Street Origins — Drenched In London",
+  "type": "official"
+ },
+ "Street Origins|Hanoi Drizzle": {
+  "file": "street-origins--hanoi-drizzle.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_f9458166-5cf4-4fde-b81a-54abc04778f9.jpg?v=1759198707&width=1000",
+  "page": "https://streetorigins.co/products/hanoi-drizzle",
+  "source": "Street Origins — Hanoi Drizzle",
+  "type": "official"
+ },
+ "Street Origins|Hawaii Beau": {
+  "file": "street-origins--hawaii-beau.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_ec3494a8-dfbb-4840-9ea6-6e3df8d6bdfd.jpg?v=1759198500&width=1000",
+  "page": "https://streetorigins.co/products/hawaii-beau",
+  "source": "Street Origins — Hawaii Beau",
+  "type": "official"
+ },
+ "Street Origins|Hot Drip Dubai": {
+  "file": "street-origins--hot-drip-dubai.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_1_0ec65f11-a194-44b5-b16d-888fb1a700af.jpg?v=1761038915&width=1000",
+  "page": "https://streetorigins.co/products/hot-drip-dubai",
+  "source": "Street Origins — Hot Drip Dubai",
+  "type": "official"
+ },
+ "Street Origins|Ibiza Boom": {
+  "file": "street-origins--ibiza-boom.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_c839825a-3795-4494-93a3-7e7a1cdbab04.jpg?v=1759159887&width=1000",
+  "page": "https://streetorigins.co/products/ibiza-boom",
+  "source": "Street Origins — Ibiza Boom",
+  "type": "official"
+ },
+ "Street Origins|Ibiza Trap": {
+  "file": "street-origins--ibiza-trap.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_f8fcaa75-fc99-4204-bf65-1d3225066a7b.jpg?v=1759157235&width=1000",
+  "page": "https://streetorigins.co/products/ibiza-trap",
+  "source": "Street Origins — Ibiza Trap",
+  "type": "official"
+ },
+ "Street Origins|Love Daze, Santorini": {
+  "file": "street-origins--love-daze-santorini.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_1_add8694a-00f1-470c-98b0-469054686d04.jpg?v=1761039794&width=1000",
+  "page": "https://streetorigins.co/products/love-daze-santorini",
+  "source": "Street Origins — Love Daze, Santorini",
+  "type": "official"
+ },
+ "Street Origins|Manila Glee": {
+  "file": "street-origins--manila-glee.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_f2c54dfc-3afe-4a1d-90a6-1a1de5a7a52b.jpg?v=1759156998&width=1000",
+  "page": "https://streetorigins.co/products/manila-glee",
+  "source": "Street Origins — Manila Glee",
+  "type": "official"
+ },
+ "Street Origins|Manila Manic": {
+  "file": "street-origins--manila-manic.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_6df66f87-31c5-456a-b487-acd10e431590.jpg?v=1759159585&width=1000",
+  "page": "https://streetorigins.co/products/manila-manic",
+  "source": "Street Origins — Manila Manic",
+  "type": "official"
+ },
+ "Street Origins|Mauritius Touch": {
+  "file": "street-origins--mauritius-touch.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_fb561f89-0a36-4596-852f-cab1088d00b7.jpg?v=1759159379&width=1000",
+  "page": "https://streetorigins.co/products/mauritius-touch",
+  "source": "Street Origins — Mauritius Touch",
+  "type": "official"
+ },
+ "Street Origins|Miami Magic": {
+  "file": "street-origins--miami-magic.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_5b4eb19a-3934-4327-acf4-e244996f85b9.jpg?v=1759159187&width=1000",
+  "page": "https://streetorigins.co/products/miami-magic",
+  "source": "Street Origins — Miami Magic",
+  "type": "official"
+ },
+ "Street Origins|Mumbai Hustle": {
+  "file": "street-origins--mumbai-hustle.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_01ae7bff-50a5-446f-a208-3ad8c8c7d65d.jpg?v=1759156091&width=1000",
+  "page": "https://streetorigins.co/products/mumbai-hustle",
+  "source": "Street Origins — Mumbai Hustle",
+  "type": "official"
+ },
+ "Street Origins|Oui Belong In Paris": {
+  "file": "street-origins--oui-belong-in-paris.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_1_be58493f-a8c8-4d30-9f61-e62f878b815e.jpg?v=1761040954&width=1000",
+  "page": "https://streetorigins.co/products/oui-belong-in-paris",
+  "source": "Street Origins — Oui Belong In Paris",
+  "type": "official"
+ },
+ "Street Origins|Rio Beleza": {
+  "file": "street-origins--rio-beleza.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/2_59bc7beb-d3d0-4d76-90d8-7dcd6252e330.png?v=1788791502&width=1000",
+  "page": "https://streetorigins.co/products/rio-beleza",
+  "source": "Street Origins — Rio Beleza",
+  "type": "official"
+ },
+ "Street Origins|Seoul Fever": {
+  "file": "street-origins--seoul-fever.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/2_f9d88985-3267-4161-b0a6-f25ed7cc4327.png?v=1788791504&width=1000",
+  "page": "https://streetorigins.co/products/seoul-fever",
+  "source": "Street Origins — Seoul Fever",
+  "type": "official"
+ },
+ "Street Origins|Skin, Sand and Santorini": {
+  "file": "street-origins--skin-sand-and-santorini.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_1_3a1dfd1a-8627-49e3-be7c-4dbd1022779b.jpg?v=1761045971&width=1000",
+  "page": "https://streetorigins.co/products/skin-sand-and-santorini",
+  "source": "Street Origins — Skin, Sand and Santorini",
+  "type": "official"
+ },
+ "Street Origins|That's London, Love": {
+  "file": "street-origins--that-s-london-love.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/1_1_7fa68ef0-4e57-4597-843c-65c8c12ec77b.jpg?v=1761046386&width=1000",
+  "page": "https://streetorigins.co/products/thats-london-love",
+  "source": "Street Origins — That's London, Love",
+  "type": "official"
+ },
+ "Street Origins|Tokyo Kirei": {
+  "file": "street-origins--tokyo-kirei.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0681/0796/0497/files/2_3930b065-05fe-4de3-b524-a2edabf730de.png?v=1788791501&width=1000",
+  "page": "https://streetorigins.co/products/tokyo-kirie",
+  "source": "Street Origins — Tokyo Kirei",
+  "type": "official"
+ },
+ "The Orientalist|Amber Dukhan": {
+  "file": "the-orientalist--amber-dukhan.webp",
+  "image": "https://www.theorientalistfragrances.com/wp-content/uploads/2025/09/THEORIENTALIST_ECOMERCE5-1.webp",
+  "page": "https://www.theorientalistfragrances.com/en/product/amber-dukhan/",
+  "source": "The Orientalist — Amber Dukhan",
+  "type": "official"
+ },
+ "The Orientalist|Crystal Bahar": {
+  "file": "the-orientalist--crystal-bahar.webp",
+  "image": "https://www.theorientalistfragrances.com/wp-content/uploads/2025/09/THEORIENTALIST_ECOMERCE7-1.webp",
+  "page": "https://www.theorientalistfragrances.com/en/product/crystal-bahar/",
+  "source": "The Orientalist — Crystal Bahar",
+  "type": "official"
+ },
+ "The Orientalist|Golden Kunafa": {
+  "file": "the-orientalist--golden-kunafa.webp",
+  "image": "https://www.theorientalistfragrances.com/wp-content/uploads/2025/08/THEORIENTALIST_ECOMERCE4-1.webp",
+  "page": "https://www.theorientalistfragrances.com/en/product/golden-kunafa/",
+  "source": "The Orientalist — Golden Kunafa",
+  "type": "official"
+ },
+ "The Orientalist|Noor Zest": {
+  "file": "the-orientalist--noor-zest.webp",
+  "image": "https://www.theorientalistfragrances.com/wp-content/uploads/2025/09/THEORIENTALIST_ECOMERCE2-1.webp",
+  "page": "https://www.theorientalistfragrances.com/en/product/noor-zest/",
+  "source": "The Orientalist — Noor Zest",
+  "type": "official"
+ },
+ "The Orientalist|Silver Saffron": {
+  "file": "the-orientalist--silver-saffron.webp",
+  "image": "https://www.theorientalistfragrances.com/wp-content/uploads/2025/09/THEORIENTALIST_ECOMERCE3-1.webp",
+  "page": "https://www.theorientalistfragrances.com/en/product/silver-saffron/",
+  "source": "The Orientalist — Silver Saffron",
+  "type": "official"
+ },
+ "The Orientalist|Taif Bloom": {
+  "file": "the-orientalist--taif-bloom.webp",
+  "image": "https://www.theorientalistfragrances.com/wp-content/uploads/2025/09/THEORIENTALIST_ECOMERCE8-2.webp",
+  "page": "https://www.theorientalistfragrances.com/en/product/taif-bloom/",
+  "source": "The Orientalist — Taif Bloom",
+  "type": "official"
+ },
+ "The Orientalist|Velvet Khashab": {
+  "file": "the-orientalist--velvet-khashab.webp",
+  "image": "https://www.theorientalistfragrances.com/wp-content/uploads/2025/09/THEORIENTALIST_ECOMERCE6-2.webp",
+  "page": "https://www.theorientalistfragrances.com/en/product/velvet-khashab/",
+  "source": "The Orientalist — Velvet Khashab",
   "type": "official"
  }
 }

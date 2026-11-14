@@ -27,6 +27,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 BRANDS = ROOT / 'catalog' / 'brands'
 MAP = ROOT / 'catalog' / 'images.json'
+# Photos rejected on visual review (box shots, logos, lifestyle scenes, wrong subject).
+REJECTED = ROOT / 'catalog' / 'images-rejected.json'
 OUT = ROOT / 'public' / 'catalog' / 'img'
 UA = 'Mozilla/5.0 (compatible; MyPerfumeWardrobe-images/1.0)'
 MAX_SIDE = 640
@@ -84,12 +86,68 @@ def og_image(url: str):
     return None
 
 
+_feeds = {}
+
+
+def norm(s: str) -> str:
+    s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
+    return re.sub(r'[^a-z0-9]+', ' ', s).strip()
+
+
+def shopify_feed(origin: str):
+    """All products of a Shopify store (cached per host), or [] if not Shopify."""
+    if origin not in _feeds:
+        items = []
+        for page in range(1, 21):
+            try:
+                ps = json.loads(get(f'{origin}/products.json?limit=250&page={page}')).get('products', [])
+            except Exception:
+                break
+            if not ps:
+                break
+            items += ps
+        _feeds[origin] = items
+    return _feeds[origin]
+
+
+SKIP_TYPES = re.compile(r'sample|set|gift|kit|candle|lotion|gel|cream|soap|diffuser|travel|mini|bundle|refill', re.I)
+
+
+def shopify_by_name(url: str, name: str):
+    """For a collection/listing source: find this perfume's own product in the store's feed."""
+    p = urllib.parse.urlparse(url)
+    if '/products/' in p.path:
+        return None
+    origin = f'{p.scheme}://{p.netloc}'
+    want = norm(name)
+    best = None
+    for prod in shopify_feed(origin):
+        title = norm(prod.get('title', ''))
+        if not (title == want or title.startswith(want + ' ')):
+            continue
+        if SKIP_TYPES.search(prod.get('title', '') + ' ' + prod.get('product_type', '')):
+            continue
+        imgs = prod.get('images') or []
+        if not imgs:
+            continue
+        score = (title == want, 'spray' in title or 'parfum' in title or 'cologne' in title)
+        if best is None or score > best[0]:
+            best = (score, imgs[0]['src'], f"{origin}/products/{prod['handle']}")
+    if not best:
+        return None
+    img = best[1] + ('&' if '?' in best[1] else '?') + 'width=1000'
+    return img, best[2]
+
+
 def find_image(fr: dict):
     srcs = sorted(fr.get('sources', []), key=lambda s: 0 if s.get('type') == 'official' else 1)
     for s in srcs:
         u = s.get('url')
         if not u:
             continue
+        hit = shopify_by_name(u, fr['name'])
+        if hit:
+            return hit[0], {**s, 'url': hit[1]}
         img = shopify_image(u) or og_image(u)
         if img and not re.search(r'logo|favicon|placeholder', img, re.I):
             return img, s
@@ -160,6 +218,7 @@ def merge():
     for f in sorted(MAP.parent.glob('images.shard*.json')):
         mapping.update(json.loads(f.read_text()))
         f.unlink()
+    drop_generic(mapping)
     MAP.write_text(json.dumps(mapping, indent=1, ensure_ascii=False, sort_keys=True))
     print('merged, total mapped', len(mapping))
 
@@ -180,7 +239,8 @@ def main():
         i, n = map(int, args.shard.split('/'))
         MAP = MAP.with_name(f'images.shard{i}.json')  # merged with --merge afterwards
     mapping = json.loads(MAP.read_text()) if MAP.exists() else {}
-    done = set(base) | set(mapping)
+    rejected = set(json.loads(REJECTED.read_text())) if REJECTED.exists() else set()
+    done = set(base) | set(mapping) | rejected
     OUT.mkdir(parents=True, exist_ok=True)
     todo = [t for t in targets(args) if args.redo or key(t[0], t[1]['name']) not in done]
     if args.shard:
@@ -204,8 +264,22 @@ def main():
             if i % 25 == 0:
                 MAP.write_text(json.dumps(mapping, indent=1, ensure_ascii=False, sort_keys=True))
                 print(f'  {i}/{len(todo)}')
+    drop_generic(mapping)
     MAP.write_text(json.dumps(mapping, indent=1, ensure_ascii=False, sort_keys=True))
     print('done', stats, 'total mapped', len(mapping))
+
+
+def drop_generic(mapping: dict):
+    """The same picture for 3+ different perfumes is a site-wide placeholder, not a bottle."""
+    seen = {}
+    for k, v in mapping.items():
+        seen.setdefault(re.sub(r'[?&]width=\d+', '', v['image']), []).append(k)
+    for img, keys in seen.items():
+        if len(keys) >= 3:
+            for k in keys:
+                (OUT / mapping[k]['file']).unlink(missing_ok=True)
+                del mapping[k]
+            print(f'  dropped generic image used by {len(keys)} perfumes: {img[:80]}')
 
 
 if __name__ == '__main__':
