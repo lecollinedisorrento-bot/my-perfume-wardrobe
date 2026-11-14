@@ -53,8 +53,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/electimuss-amber-bloom-parfum",
+          "name": "Venba Fragrance - Electimuss Amber Bloom Parfum (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Electimuss/amber-bloom",
+          "name": "Parfumo - Amber Bloom (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba retailer (search result): 10+ hours, strong sillage. Perfumer-linked Instagram post (not used as a source) gave 7-8+ hours; Parfumo community averages about 7.9 longevity and 7.7 sillage (out of 10). Longevity set from the Parfumo average and the retailer claim; sillage from the retailer and Parfumo view. Conflicting 10+ hour figure is a retailer claim."
     },
     {
       "name": "Astrum Nova",
@@ -146,8 +173,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/electimuss-imperium",
+          "name": "Scents Angel - Electimuss Imperium (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Electimuss/imperium-extrait-de-parfum",
+          "name": "Parfumo - Imperium extrait de parfum (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentsangel retailer (search result): 8-10 hours on skin, sillage moderate. Perfuum retailer: 10+ hours, impressive sillage. Scent Base community: 4-6 hours. Parfumo users: longevity about 8/10, sillage about 7.6/10. Middle view used for longevity; sillage follows the 'moderate' wording most sources use."
     },
     {
       "name": "Trajan",
@@ -188,8 +242,27 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/electimuss-trajan-edp-1",
+          "name": "Venba Fragrance - Electimuss Trajan EDP (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search results (Venba retailer listing, Scents Angel): 8-10 hours on skin, sillage moderate; Parfumo community 8.0 longevity, 8.2 sillage on a 10-point scale; official page only says 'fantastic longevity and projection' with no levels. Middle view used; one outlier reviewer reported 1 hour."
     },
     {
       "name": "Trajan Noir",
@@ -286,8 +359,27 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://www.maxaroma.com/fragrance/unisex/electimuss-vesper-reverie/pid/38764/4",
+          "name": "Maxaroma - Electimuss Vesper Reverie (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Maxaroma retailer listing (search result): 8-10+ hours with a bold, room-catching trail; Parfumo user rated 8 for longevity and 8 for sillage. Official page gives only a brand-wide 'excellent projection and longevity' claim. No seasons or times stated."
     },
     {
       "name": "Reverie Haze",
@@ -381,8 +473,27 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://scentsangel.com/products/caspian-cherry",
+          "name": "Scents Angel - Caspian Cherry (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel retailer (search result): 10-12 hours on skin, 24+ on fabric; Wanderlust set listings 8-10 hours with a warm, noticeable trail; Parfumo users 8-12 hours and sillage 8/10 in one review. Middle view used (4 = 6-10 h); sillage described as moderate to noticeable."
     },
     {
       "name": "Mercurial Cashmere",
@@ -499,8 +610,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-spice-darno-extrait-de-parfum/",
+          "name": "Beautinow - Electimuss London Spice D'Arno Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/electimuss-spice-darno",
+          "name": "Scents Angel - Electimuss Spice d'Arno (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow extrait listing (search result): 8-10 hours, moderate projection; Scents Angel listing: 12+ hours on skin with a strong, smoky trail for the first 4-5 hours; Fragplace reviewer: strong, noticeable presence through the day. Sources disagree; longevity 4 from the most cited figure, sillage 4 from two of three views."
     },
     {
       "name": "Persephone's Patchouli",
@@ -541,8 +679,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/persephones-patchouli",
+          "name": "Scents Angel - Persephone's Patchouli (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-consort-persephones-patchouli-extrait-de-parfum/",
+          "name": "Beautinow - Electimuss London Consort Persephone's Patchouli Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel listing (search result): 10-12+ hours on skin, moderate to heavy sillage; Beautinow extrait listing: 8-10 hours, moderate to strong sillage; ScentVerdict: long, 6-10 hours. Parfumo user longevity 8-9 and sillage 5-9 out of 10. Most sources 8-10 hours, so 4 used; sillage set at moderate."
     },
     {
       "name": "Gladiator Oud",
@@ -585,8 +750,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/gladiator-oud",
+          "name": "Scents Angel - Gladiator Oud (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/25239/electimuss/gladiator-oud",
+          "name": "Fragplace - Gladiator Oud FAQ (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel retailer (search result): 12-16 hours on skin, strong sillage. Fragplace user reviews: 10+ hours, sillage 4/5. Scentissime quoting Fragrantica: longevity 5/5, sillage 4/5. One Parfumo reviewer found moderate wear on their skin."
     },
     {
       "name": "Black Caviar",
@@ -626,8 +818,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://perfuum.com/products/electimuss-black-caviar",
+          "name": "Perfuum - Electimuss Black Caviar (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/Electimuss/black-caviar",
+          "name": "Parfumo - Black Caviar (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Extrait listings: Perfuum 10+ hours with strong projection; another seller 10-12+ hours with moderate to strong sillage; a London Nero listing 8-10 hours with moderate sillage. Parfumo community averages about 8.2 longevity and 7.8 sillage (out of 10). Most sellers say over 10 hours, so 5 is used; concentration (extrait) matters."
     },
     {
       "name": "Moroccan Medjool",
@@ -674,8 +893,35 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/electimuss-moroccan-medjool-parfum",
+          "name": "Venba Fragrance - Electimuss Moroccan Medjool Parfum (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-moroccan-medjool-extrait-de-parfum",
+          "name": "Beautinow - Electimuss London Moroccan Medjool Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba retailer (search result): 8-10 hours on skin, sillage moderate to strong; Beautinow extrait listing: 8-10 hours, moderate sillage; Scents Angel EDP listing: 10-12+ hours (different concentration). Most sellers give 8-10 hours, so 4 is used."
     },
     {
       "name": "Vixere",
@@ -721,8 +967,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fleekfellows.com/products/electimuss-vixere-extrait-de-parfum",
+          "name": "Fleek Fellows - Electimuss Vixere Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fleek Fellows listing (search result): 6-9 hours, moderate projection; Scent Base community reports range from 4-6 hours to above average 6+ hours; ScentVerdict calls longevity strong and sillage moderate. Middle view used (4 = 6-10 h) with a caveat that the community figures are lower."
     },
     {
       "name": "Auster",
@@ -761,8 +1026,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/electimuss-auster",
+          "name": "Scents Angel - Electimuss Auster (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfuum.com/products/electimuss-auster",
+          "name": "Perfuum - Electimuss Auster (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Extrait listings: a retailer 12+ hours on skin with heavy sillage early; Perfuum 10+ hours; a lower listing 8-10 hours with moderate sillage. Parfumo users: longevity 8.3 and sillage 7.8 out of 10, one reporting over 10 hours and enormous projection. Most extrait sources say over 10 hours, so 5 is used; EDP figures are lower."
     },
     {
       "name": "Vanilla Edesia",
@@ -814,8 +1106,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://scentsangel.com/products/vanilla-edesia",
+          "name": "Scents Angel - Vanilla Edesia (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-vanilla-edesia-extrait-de-parfum/",
+          "name": "Beautinow - Electimuss London Nero Vanilla Edesia Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel listing (search result): 10-12 hours on skin, even longer on fabric; Beautinow London Nero listing: 8-10 hours, moderate sillage. Parfinity reviewers split on sillage. Mid-range longevity used; the 10-12 hour figure is a retailer claim."
     },
     {
       "name": "Aquila Absolute",
@@ -855,8 +1174,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-aquila-absolute-extrait-de-parfum/",
+          "name": "Beautinow - Electimuss London Lustrous Aquila Absolute Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/aquila-absolute",
+          "name": "Scents Angel - Aquila Absolute (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewers: about 8-9 hours, moderate sillage; Beautinow extrait listing: 8-10 hours, moderate sillage; an Australian retailer: about 10 hours; Scents Angel: 12-14 hours with strong sillage. Most sources 8-10 hours and moderate sillage, so 4 and 3 used."
     },
     {
       "name": "Rhodanthe",
@@ -902,8 +1248,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentsangel.com/products/electimuss-rhodanthe",
+          "name": "Scents Angel - Electimuss Rhodanthe (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-eternal-rhodanthe-extrait-de-parfum",
+          "name": "Beautinow - Electimuss London Eternal Rhodanthe Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel main listing: 10-12+ hours on skin, 24+ on fabric, travel set page 'strong' sillage, gift set 'medium to strong'; Scents Angel gift set page: 10-14 hours. Beautinow extrait listing: 8-10 hours, moderate sillage. Two of three sellers claim over 10 hours, so 5 used; these are seller claims, no independent test."
     },
     {
       "name": "Amber Aquilaria",
@@ -947,8 +1320,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-emperor-amber-aqularia-extrait-de-parfum",
+          "name": "Beautinow - Electimuss London Emperor Amber Aquilaria Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/electimuss-amber-aquilaria",
+          "name": "Scents Angel - Electimuss Amber Aquilaria (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow extrait listing (search result): about 8-10 hours, moderate to strong sillage; another listing 10 hours; Scents Angel: 10-12 hours on skin and strong sillage; ScentVerdict EDP: long, 6-10 hours, strong projection; Scentissime citing Fragrantica: longevity 5/5, sillage 4/5. The 8-10 hour view is the most consistent, so 4 used; the 24+ hour figure is treated as marketing."
     },
     {
       "name": "Capua",
@@ -990,8 +1390,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/electimuss-capua",
+          "name": "Scents Angel - Electimuss Capua (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-nero-capua-extrait-de-parfum/",
+          "name": "Beautinow - Electimuss London Nero Capua Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel listing (search result): 8-10 hours on skin, longer on fabric; Beautinow Nero Extrait listing: 8-10 hours; sillage listed as moderate, 7/10 in one listing. A travel-set listing claims 10-12+ hours but that set is a different concentration. Community wear reports not found."
     },
     {
       "name": "Octavian",
@@ -1031,8 +1458,39 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/electimuss-octavian-eau-de-parfum",
+          "name": "ScentVerdict - Electimuss Octavian EDP (search result only)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-emperor-octavian-extrait-de-parfum",
+          "name": "Beautinow - Electimuss London Emperor Octavian Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict (EDP, search result): about 6-10 hours on skin, fills a room, best in autumn and winter. Beautinow extrait listing (one buyer review): above-average sillage and long wear. Fleek Fellows: strong sillage, two to four sprays enough. Longevity 4 from the 6-10 hour figure; the seasons come only from ScentVerdict."
     },
     {
       "name": "Celestial",
@@ -1075,8 +1533,35 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/electimuss-celestial",
+          "name": "Scents Angel - Electimuss Celestial (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-lustrous-celestial-extrait-de-parfum/",
+          "name": "Beautinow - Electimuss London Lustrous Celestial Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel listing (search result): 10-12 hours on skin, moderate to strong sillage, strong projection early on; Beautinow extrait listing: 8-10 hours, moderate sillage and projection; ScentVerdict: moderate sillage. Most figures 8-12 hours, so 4 used; community data is thin."
     },
     {
       "name": "Silvanus",
@@ -1115,8 +1600,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en-PL/fragrances/35891/electimuss/silvanus",
+          "name": "Fragplace - Silvanus FAQ (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-eternal-silvanus-extrait-de-parfum",
+          "name": "Beautinow - Electimuss London Eternal Silvanus Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace user reviews (search result): moderate longevity, typically 4-6 hours; Parfumo reviewer: about 4 hours on their skin; Beautinow Extrait listing: 8-10 hours; another retailer 8-10+ hours. Community figures are lower and more numerous, so 3 used. Sillage moderate in most sources, close to skin but noticeable."
     },
     {
       "name": "Cupid's Kiss",
@@ -1155,8 +1667,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.cityperfume.com.au/electimuss-cupids-kiss-parfum-extrait-100ml",
+          "name": "City Perfume - Electimuss Cupid's Kiss Parfum Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-emperor-cupids-kiss-eau-de-parfum/",
+          "name": "Beautinow - Electimuss London Emperor Cupid's Kiss EDP (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "City Perfume extrait listing (search result): 10-12 hours on skin, moderate to strong sillage; Beautinow EDP listing: 8-12 hours, moderate sillage. Parfumo calls longevity above average without hours. Sources range 8-12 hours and call sillage moderate, so 4 and 3 used."
     },
     {
       "name": "Puritas",
@@ -1202,8 +1741,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/electimuss-puritas",
+          "name": "Scents Angel - Electimuss Puritas (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-lustrous-puritas-extrait-de-parfum/",
+          "name": "Beautinow - Electimuss London Lustrous Puritas Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel extrait listing (search result): 8-10+ hours on skin, moderate sillage. Beautinow listing: 8-10 hours, moderate sillage. Parfinity community: 9.0/10 from only 3 reviews with no hour figure. Retailers agree, so 4 and 3 used."
     },
     {
       "name": "Summanus",
@@ -1250,8 +1816,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/summanus",
+          "name": "Scents Angel - Electimuss Summanus (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel listing (search result): 12+ hours on skin, strong sillage. A London Nero listing (search result): 8-10 hours, moderate sillage, but its notes differ from other listings so it is not used as a source. Fragrantica figures quoted by a retailer: 5/5 longevity and 5/5 sillage. Parfumo user: 8/8 for the 2019 version. Longevity 5 follows the seller and Fragrantica figures; the 12+ hours is a seller claim."
     },
     {
       "name": "Vici Leather",
@@ -1289,8 +1874,39 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/vici-leather",
+          "name": "Scents Angel - Vici Leather (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/electimuss-vici-leather-eau-de-parfum",
+          "name": "ScentVerdict - Electimuss Vici Leather EDP (search result only)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel listing (search result): 12-14 hours on skin, moderate to strong sillage. ScentVerdict (EDP): strong projection and exceptional longevity, suited to dates and formal events in cooler weather, too assertive for the office. A retailer lists 4/5 for both longevity and sillage. Season 'cooler weather' from ScentVerdict is read as autumn/winter; no time of day is stated."
     },
     {
       "name": "Pomona Vitalis",
@@ -1332,8 +1948,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-eternal-pomona-vitalis-extrait-de-parfum/",
+          "name": "Beautinow - Electimuss London Eternal Pomona Vitalis Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfuum.com/products/electimuss-pomona-vitalis",
+          "name": "Perfuum - Electimuss Pomona Vitalis (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow Eternal extrait listing (search result): 8-10 hours, moderate sillage, 7/10 for sillage described as noticeable but refined. Perfuum listing: 10+ hours and impressive sillage. Buyer comments say it lasts for hours. Most listings give 8-10 hours and moderate sillage, so 4 and 3 used."
     },
     {
       "name": "Alkout",
@@ -1408,8 +2051,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/electimuss-london-consort-patchouli-of-the-underworld-extrait-de-parfum",
+          "name": "Beautinow - Electimuss London Consort Patchouli of the Underworld Extrait (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Electimuss/patchouli-of-the-underworld",
+          "name": "Parfumo - Patchouli of the Underworld (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listing (search result): about 8-10 hours, moderate to strong sillage, moderate projection. Another seller claims 12-14 hours, which is treated as a marketing claim. Parfumo users: longevity 8.2 and sillage 7.6 out of 10 across about 120 ratings. Middle view used."
     },
     {
       "name": "Jupiter",
@@ -1454,8 +2124,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/94001/electimuss/jupiter",
+          "name": "Fragplace - Jupiter FAQ (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/electimuss-jupiter",
+          "name": "Scents Angel - Electimuss Jupiter (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace user reviews (search result): 6-10 hours, sillage 2/5. The Scent Base community: 6-10 hours, intimate projection (2.6). Scents Angel retailer listing: 12+ hours and strong sillage, which conflicts with the community data; Perfuum: 10+ hours. Community view used: 6-10 hours (4) and close-to-skin sillage (2)."
     },
     {
       "name": "Aurora",
@@ -1494,8 +2191,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/electimuss-aurora",
+          "name": "Scents Angel - Electimuss Aurora (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel listing (search result): 10-12 hours on skin, 24+ on fabric; a second Scents Angel travel-refill listing: 10-12+ hours. PerfumeM says the release lasts past 10 hours. All figures are seller claims; concentration not confirmed. No sillage figure found, so sillage is null."
     },
     {
       "name": "Fortuna",
@@ -1534,8 +2250,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/electimuss-fortuna-parfum",
+          "name": "ScentVerdict - Electimuss Fortuna Parfum (search result only)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/fortuna",
+          "name": "Scents Angel - Electimuss Fortuna (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict (search result): about 6-10 hours on skin, fills a room. Scents Angel listing: 10-12+ hours, moderate to strong sillage (seller claim). Parfumo users: longevity 7.9 and sillage 7.6 out of 10 from about 20-27 ratings; the page notes the production seems discontinued, which is not set as a flag because no source states it outright. Longevity 4 used."
     },
     {
       "name": "MCX",

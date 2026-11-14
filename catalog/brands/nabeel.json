@@ -292,8 +292,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/nabeel/dan-dana",
+          "name": "Scentbase - Nabeel Dan Dana (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://frenchfragrance.com/nabeel-dan-dana-unisex-eau-de-parfum-100ml.html",
+          "name": "French Fragrance - Nabeel Dan Dana (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Base community data (search result): longevity around 3 hours, intimate projection. French Fragrance listing (search result): lasts moderately long with moderate sillage, no hours given. Sources conflict; the lower community figure is used, sillage set between the two views."
     },
     {
       "name": "Sukoon",
@@ -385,8 +412,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.fragrancenet.com/fn/fragrances/nabeel/nabeel-noble/eau-de-parfum",
+          "name": "FragranceNet - Nabeel Noble (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/noble",
+          "name": "Parfumo - Nabeel Noble (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "FragranceNet customer review (search result): fades within a few hours, skin-close, layered for more sillage. Parfumo: 6.7 longevity and 6.7 sillage out of 10 from only 6 ratings, no hours. Single anecdote plus a thin community score; low evidence."
     },
     {
       "name": "Mamnoon",
@@ -511,8 +565,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/gold-24k-eau-de-parfum",
+          "name": "Parfumo - Gold 24K Eau de Parfum (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo users (search result): longevity 7.3/10 and sillage 6.9/10 from only 7 ratings. One retailer-page reviewer reports 7+ hours only when layered with the companion oil. Another reviewer finds it weak. Rough 6-8 hour view used, with moderate projection; evidence is thin."
     },
     {
       "name": "Antar",
@@ -578,8 +651,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.desertcart.sg/products/253486581-nabeel-perfumes-antar-eau-de-perfume-for-unisex-100-ml",
+          "name": "Desertcart - Nabeel Antar 100 ml (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/antar-eau-de-parfum",
+          "name": "Parfumo - Antar Eau de Parfum (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Desertcart listing (search result): lasting aroma 4-6 hours, and one reviewer reports about 4-6 hours on clothes. Parfumo users rate longevity above average (8.4/10). Nottier user tags mix 'briefly lasting' and 'long lasting' and sillage from soft to extreme. Longevity 3 from the consistent 4-6 hour figure; sillage left null because the views conflict."
     },
     {
       "name": "Desert Leather",
@@ -971,8 +1071,27 @@
             "year",
             "family"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/nabeel/ocean",
+          "name": "Scentbase - Nabeel Ocean community wear report (search result only)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Base community data (search result): longevity score 3.3 with an estimate of 4-6 hours, sillage 2.3 (closer to intimate); its projection note says about 3 hours on average. Nottier reviews range from briefly to long lasting and soft to extreme sillage. Arabic Parfums marketing copy is not used. Community data only, no lab figures."
     },
     {
       "name": "Al Bashiq",
@@ -1321,8 +1440,27 @@
             "year",
             "family"
           ]
+        },
+        {
+          "url": "https://www.fragrancenet.com/fragrances/nabeel/nabeel-acqua-di-nabeel/eau-de-parfum",
+          "name": "FragranceNet - Nabeel Acqua di Nabeel (search result only)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "FragranceNet 4-star user review (search result): does not last long on skin, maybe a few hours, and the reviewer layers it with a perfume oil for more sillage. Only one user review found; the seller's 'long-lasting' claim is marketing copy and not used. Low confidence."
     },
     {
       "name": "Oud Cafu",
