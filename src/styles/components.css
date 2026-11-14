@@ -1207,3 +1207,60 @@ a.chip::after,
   padding-bottom: 8px;
   text-wrap: balance;
 }
+
+/* ───────────────────────── Layout robustness (QA pass) ───────────────────────── */
+/* Page headers: actions drop under a long title instead of leaving the screen. */
+.topbar {
+  flex-wrap: wrap;
+  row-gap: 8px;
+}
+.topbar h1 {
+  min-width: 0;
+  overflow-wrap: break-word;
+}
+/* Segmented controls never exceed the screen: options share the width and may wrap their label. */
+.segmented {
+  display: flex;
+  flex-wrap: wrap; /* too many options for the screen: a second row, never a cut word */
+  width: fit-content;
+  max-width: 100%;
+  border-radius: 22px;
+}
+.segmented button {
+  flex: 1 1 auto;
+  min-width: min-content;
+  padding: 4px 12px;
+  line-height: 1.1;
+  text-align: center;
+  white-space: normal;
+}
+@media (max-width: 360px) {
+  .segmented button {
+    padding: 4px 9px;
+    font-size: 12.5px;
+  }
+}
+/* Buttons wrap a long label rather than overflow. */
+.btn {
+  max-width: 100%;
+  white-space: normal;
+  text-align: center;
+  line-height: 1.15;
+}
+/* Long tags (e.g. the source line) wrap instead of running off the card. */
+.tag {
+  white-space: normal;
+  max-width: 100%;
+}
+/* Text links get a 44px-tall tap area without changing the layout. */
+.section-head a,
+.section-head button,
+.link-btn {
+  display: inline-block;
+  padding-block: 12px;
+  margin-block: -12px;
+}
+/* Form labels wrap between words. */
+.label {
+  overflow-wrap: break-word;
+}

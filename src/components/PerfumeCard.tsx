@@ -39,7 +39,9 @@ export function PerfumeCard({
       </div>
       <div className="pcard-body">
         <span className="pcard-brand">{f.brand}</span>
-        <span className="pcard-name">{f.name}</span>
+        <span className="pcard-name" style={{ ['--longest' as string]: Math.max(9, ...f.name.split(/\s+/).map((w) => w.length)) }}>
+          {f.name}
+        </span>
         {!mini && (
           <>
             {f.family && <span className="pcard-family">{resolveFamily(f.family)?.id ?? f.family}</span>}

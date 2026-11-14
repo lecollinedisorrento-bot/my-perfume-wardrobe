@@ -35,7 +35,10 @@ export function Home() {
   const ranked = useRanking(ctx);
   const today = localDay();
   const wornToday = wears.filter((w) => w.day === today);
-  const local = ranked.length ? ranked[offset % ranked.length] : null;
+  // After "Wear it today" the card keeps showing that perfume (now "Worn today");
+  // otherwise the ranking, which skips what you wore, would swap it instantly.
+  const [kept, setKept] = useState<(typeof ranked)[number] | null>(null);
+  const local = kept ?? (ranked.length ? ranked[offset % ranked.length] : null);
   const pick: Fragrance | null = aiPick ? fragrances.find((f) => f.id === aiPick.id) ?? null : local?.fragrance ?? null;
   const tod = timeOfDay();
   const name = prefs.name.trim() || t('home.hi.anon');
@@ -82,7 +85,8 @@ export function Home() {
   };
 
   const wear = async (f: Fragrance, e: React.MouseEvent) => {
-    await wearToday(f.id, aiPick ? 'recommendation' : 'recommendation');
+    if (!aiPick && local) setKept(local);
+    await wearToday(f.id, 'recommendation');
     vibrate(20);
     confetti({ x: e.clientX, y: e.clientY });
     toast(`${t('home.worn')}: ${f.name}`, 'lime');
@@ -168,6 +172,7 @@ export function Home() {
               className="btn"
               onClick={() => {
                 setAiPick(null);
+                setKept(null);
                 setOffset((o) => o + 1);
               }}
             >
@@ -195,7 +200,7 @@ export function Home() {
         </div>
       </section>
 
-      <section className="section grid-2">
+      <section className="section feature-grid">
         <Link to="/spin" className="card card-press c-pink feature-card" data-testid="surprise-card">
           <Art name="home-surprise" className="feature-art" />
           <h3 className="display feature-title">
