@@ -1,0 +1,208 @@
+{
+  "brand": "Ermenegildo Zegna",
+  "slug": "zegna",
+  "officialSite": "https://www.zegna.com/ww-en/essenze-collection/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official zegna.com Essenze pages and fragrantica.com product pages returned HTTP 403 to WebFetch, so no official notes were obtained. Zegna's own page was only seen as a WebSearch result, which described the Essenze men's line (six scents) and a refill service without listing products. Retailer and database pages (myperfumeshop.co.uk, osmoz.com) were opened; notes for Roman Wood, Italian Bergamot and Florentine Iris come from WebSearch result summaries of basenotes/parfumo/fragrantica, and those summaries conflict between sources, so they are recorded only where the summary named a note list. Madras Cardamom and the 2019 Indonesian Oud EDP were found but left out because the sources conflicted on notes and dates. The range is partial: only five Essenze fragrances are listed. Country not stated on any page read.",
+  "fragrances": [
+    {
+      "name": "Mediterranean Neroli",
+      "collection": "Essenze",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "neroli"
+        ],
+        "heart": [
+          "patchouli",
+          "cardamom",
+          "ambrette"
+        ],
+        "base": [
+          "oud",
+          "iris"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.myperfumeshop.co.uk/products/ermenegildo-zegna-essenze-mediterranean-neroli-edp",
+          "name": "My Perfume Shop — Essenze Mediterranean Neroli EDP",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Indonesian Oud",
+      "collection": "Essenze",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2012,
+      "perfumer": "Jacques Cavallier",
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "oud"
+        ],
+        "base": [
+          "myrrh",
+          "patchouli",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.osmoz.com/perfumes/ermenegildo-zegna/7264/indonesian-oud",
+          "name": "Osmoz — Indonesian Oud by Ermenegildo Zegna",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roman Wood",
+      "collection": "Essenze",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2020,
+      "perfumer": null,
+      "family": "Woody Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cypress",
+          "rosemary",
+          "sage"
+        ],
+        "heart": [
+          "cedarwood",
+          "moss"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "pine"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://basenotes.com/fragrances/roman-wood-by-ermenegildo-zegna.26161293",
+          "name": "Basenotes — Roman Wood by Ermenegildo Zegna",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Ermenegildo_Zegna/essenze-roman-wood",
+          "name": "Parfumo — Essenze Roman Wood",
+          "type": "database",
+          "supports": [
+            "year",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Italian Bergamot",
+      "collection": "Essenze",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "neroli",
+          "pepper",
+          "rosemary",
+          "vetiver",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.parfumo.com/Perfumes/Ermenegildo_Zegna/Essenze__Italian_Bergamot_Eau_de_Parfum",
+          "name": "Parfumo — Essenze Italian Bergamot Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Florentine Iris",
+      "collection": "Essenze",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "iris",
+          "jasmine",
+          "bergamot",
+          "musk",
+          "violet"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fragrantica.com/perfume/Ermenegildo-Zegna/Florentine-Iris-Eau-de-Parfum-70636.html",
+          "name": "Fragrantica — Florentine Iris Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
