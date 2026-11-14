@@ -1,0 +1,872 @@
+{
+  "brand": "Jusbox",
+  "slug": "jusbox",
+  "officialSite": "https://www.jusboxperfumes.com/en",
+  "distributors": [],
+  "country": "Italy",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify product feed (products.json) read in full. Kept the 21 eau de parfum / extrait entries; gift sets, discovery kits, customising extras and accessories were skipped. Pyramids (top/heart/base) come from the official product pages (Italian, translated). Family and perfumer (the 'Naso' line) come from the official product JSON. Concentration kept only where the page states it. Release years are not stated on the pages read. Country 'Italy' is from the brand page stating the fragrances are 'designed and produced in Italy'.",
+  "fragrances": [
+    {
+      "name": "London Hall",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy Leather Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "cumin",
+          "lemon"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "freesia",
+          "jasmine",
+          "labdanum resinoid",
+          "olibanum"
+        ],
+        "base": [
+          "leather",
+          "vetiver",
+          "cedarwood",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/profumo-artistico-london-hall",
+          "name": "Jusbox Perfumes - London Hall",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wave of Freedom",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Bruno Jovanovic",
+      "family": "Fruity Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "firgood pear",
+          "sri lankan cinnamon"
+        ],
+        "heart": [
+          "creamy coconut accord",
+          "pineapple accord"
+        ],
+        "base": [
+          "indonesian patchouli",
+          "amberever",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/wave-of-freedom",
+          "name": "Jusbox Perfumes - Wave of Freedom",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Off the Cuff",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Bruno Jovanovic",
+      "family": "Woody Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lime"
+        ],
+        "heart": [
+          "cistus essence",
+          "vinyl record accord",
+          "cypress"
+        ],
+        "base": [
+          "styrax gum",
+          "sandalwood",
+          "cedarwood",
+          "amberever"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/off-the-cuff",
+          "name": "Jusbox Perfumes - Off the Cuff",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carioca Heart",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": "Fruity Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "pineapple",
+          "mango accord"
+        ],
+        "heart": [
+          "peony",
+          "rum absolute",
+          "sandalwood"
+        ],
+        "base": [
+          "vanilla",
+          "labdanum",
+          "opoponax",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/carioca-heart-profumo-fruttato-legnoso",
+          "name": "Jusbox Perfumes - Carioca Heart",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fifty Four",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": "Gourmand Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pina colada",
+          "cardamom",
+          "davana"
+        ],
+        "heart": [
+          "saffron",
+          "chocolate accord",
+          "cypriol",
+          "cinnamon"
+        ],
+        "base": [
+          "rum",
+          "vanilla absolute",
+          "sandalwood",
+          "patchouli",
+          "tobacco"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/fifty-four-profumo-gourmand-orientale",
+          "name": "Jusbox Perfumes - Fifty Four",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Visionary Eye",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": "Floral Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "wormwood",
+          "white thyme"
+        ],
+        "heart": [
+          "ceylon cinnamon",
+          "lavender",
+          "orris"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla accord",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/visionary-eye-fragranza-floreale-e-legnosa",
+          "name": "Jusbox Perfumes - Visionary Eye",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Good Morning",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": "Ozonic Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "sea breeze"
+        ],
+        "heart": [
+          "magnolia",
+          "egyptian violet leaf absolute"
+        ],
+        "base": [
+          "cashmeran",
+          "cold musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/good-morning-profumo-ozonico-muschiato",
+          "name": "Jusbox Perfumes - Good Morning",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spring Dance",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": "Floral Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "tunisian rosemary"
+        ],
+        "heart": [
+          "honeysuckle accord",
+          "sambac jasmine absolute"
+        ],
+        "base": [
+          "dry amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/spring-dance-fragranza-floreale-muschiata-unisex",
+          "name": "Jusbox Perfumes - Spring Dance",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Feather Supreme",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": "Floral Chypre",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "apple"
+        ],
+        "heart": [
+          "rose",
+          "ylang-ylang",
+          "jasmine",
+          "tuberose"
+        ],
+        "base": [
+          "patchouli heart",
+          "labdanum resinoid",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/feather-supreme-fragranza-fiorita-chypre",
+          "name": "Jusbox Perfumes - Feather Supreme",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "14Hour Dream",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Antoine Lie",
+      "family": "Gourmand Woody",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [
+          "patchouli leaf",
+          "iris butter",
+          "black pepper absolute",
+          "saffron",
+          "vanilla flower",
+          "ginger"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "guaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/14hour-dream-profumo-gourmand-legnoso-unisex",
+          "name": "Jusbox Perfumes - 14Hour Dream",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Suit of Lights",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": "Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin oil",
+          "violet leaf",
+          "honeysuckle"
+        ],
+        "heart": [
+          "orange blossom absolute",
+          "sambac jasmine absolute",
+          "freesia",
+          "geranium"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/suit-of-lights-fragranza-muschiata",
+          "name": "Jusbox Perfumes - Suit of Lights",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Night Flow",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": "Fruity Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "raspberry",
+          "pink pepper"
+        ],
+        "heart": [
+          "osmanthus",
+          "davana oil",
+          "sambac jasmine"
+        ],
+        "base": [
+          "ambergris accord",
+          "indonesian patchouli oil",
+          "leather accord",
+          "tolu balm"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/night-flow-profumo-fruttato-ambrato-unisex",
+          "name": "Jusbox Perfumes - Night Flow",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Feel 'n' Chill",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": "Ozonic Green",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "watermelon"
+        ],
+        "heart": [
+          "coconut water",
+          "fig leaf"
+        ],
+        "base": [
+          "vetiver",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/feel-n-chill-fragranza-ozonica-verde",
+          "name": "Jusbox Perfumes - Feel 'n' Chill",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Golden Serenade",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": "Woody Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "clove"
+        ],
+        "heart": [
+          "incense",
+          "patchouli heart"
+        ],
+        "base": [
+          "oud oil",
+          "vanilla",
+          "opoponax",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/golden-serenade-estratto-profumo-legnoso-orientale",
+          "name": "Jusbox Perfumes - Golden Serenade",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green Bubble",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "marijuana accord",
+          "wormwood"
+        ],
+        "heart": [
+          "saffron",
+          "honey",
+          "cedarwood"
+        ],
+        "base": [
+          "labdanum",
+          "patchouli",
+          "sandalwood",
+          "dry amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/green-bubble-fragranza-orientale-legnosa",
+          "name": "Jusbox Perfumes - Green Bubble",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Micro Love",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": "Ozonic Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ozonic accord",
+          "crisp apple",
+          "neroli"
+        ],
+        "heart": [
+          "cinnamon",
+          "violet",
+          "clary sage"
+        ],
+        "base": [
+          "white cedarwood",
+          "suede",
+          "grey amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/micro-love-fragranza-ozonica-legnosa",
+          "name": "Jusbox Perfumes - Micro Love",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Powder",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": "Leather",
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "crisp apple",
+          "allspice"
+        ],
+        "heart": [
+          "suede",
+          "tobacco leaf",
+          "incense"
+        ],
+        "base": [
+          "sandalwood",
+          "tonka bean",
+          "patchouli heart"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/black-powder-fragranza-cuoiata",
+          "name": "Jusbox Perfumes - Black Powder",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beat Café",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "coriander",
+          "cognac accord"
+        ],
+        "heart": [
+          "cistus labdanum",
+          "black leather",
+          "tobacco"
+        ],
+        "base": [
+          "vetiver",
+          "cedarwood",
+          "benzoin balm"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/beat-cafe-fragranza-orientale-legnosa",
+          "name": "Jusbox Perfumes - Beat Café",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheeky Smile",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Dominique Moellhausen",
+      "family": "Woody Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "iso e super",
+          "ambrocenide"
+        ],
+        "heart": [
+          "ambroxan",
+          "ambercore"
+        ],
+        "base": [
+          "cashmeran",
+          "amber extreme"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/cheeky-smile-profumo-legnoso-ambrato",
+          "name": "Jusbox Perfumes - Cheeky Smile",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Siren & Sailors",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": "Floral Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "peach",
+          "osmanthus"
+        ],
+        "heart": [
+          "rose",
+          "rum accord",
+          "whisky accord"
+        ],
+        "base": [
+          "patchouli oil",
+          "vanilla",
+          "suede",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/siren-and-sailors-fragranza-floreale-muschiata",
+          "name": "Jusbox Perfumes - Siren & Sailors",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sisters B4 Misters",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Nelly Hachem-Ruiz",
+      "family": "Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "lime heart",
+          "blackcurrant absolute"
+        ],
+        "heart": [
+          "banana and strawberry accord",
+          "lily of the valley",
+          "orris resinoid"
+        ],
+        "base": [
+          "sweet milk accord",
+          "sandalwood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.jusboxperfumes.com/products/sisters-b4-misters-profumo-gourmand",
+          "name": "Jusbox Perfumes - Sisters B4 Misters",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "brand": "Officine Universelle Buly",
+  "slug": "buly-1803",
+  "officialSite": "https://buly1803.com/",
+  "distributors": [],
+  "country": "France",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Scope: Eaux Triples (water-based perfumes), the only perfume-type items in the official feed; 16 entries. Official product pages carry no note lists, so notes come from Fragrantica search results (type database, noteSource reported). Fragrantica gave no separate Eau Triple page for Foret de Komi and Oud de Medine, so those keep no notes. Concentration is not stated in the sources read; the brand describes the line as water-based and alcohol-free. Country 'France' is from a Fragrantica description of the brand as a French house.",
+  "fragrances": [
+    {
+      "name": "Eau Triple Verveine des Andes et Basilic d'Ulu",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": "Aromatic Green",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-verveine-des-andes-et-basilic-d-ulu",
+          "name": "Officine Universelle Buly - Eau Triple Verveine des Andes et Basilic d'Ulu",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Verveine-des-Andes-et-Basilic-d-Ulu-104099.html",
+          "name": "Fragrantica - Eau Triple Verveine des Andes et Basilic d'Ulu",
+          "type": "database",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Myrrhe d'Érythrée",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-myrrhe-derythtree",
+          "name": "Officine Universelle Buly - Eau Triple Myrrhe d'Érythrée",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Myrrhe-D-Erythree-93394.html",
+          "name": "Fragrantica - Eau Triple Myrrhe d'Érythrée",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Cèdre du Liban",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-cedre-du-liban",
+          "name": "Officine Universelle Buly - Eau Triple Cèdre du Liban",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Cedre-du-Liban-93390.html",
+          "name": "Fragrantica - Eau Triple Cèdre du Liban",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Al Kassir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-al-kassir",
+          "name": "Officine Universelle Buly - Eau Triple Al Kassir",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Al-Kassir-47224.html",
+          "name": "Fragrantica - Eau Triple Al Kassir",
+          "type": "database",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Héliotrope du Pérou",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-heliotrope-du-perou",
+          "name": "Officine Universelle Buly - Eau Triple Héliotrope du Pérou",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Heliotrope-du-Perou-47236.html",
+          "name": "Fragrantica - Eau Triple Héliotrope du Pérou",
+          "type": "database",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Tubéreuse du Mexique",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-tubereuse-du-mexique",
+          "name": "Officine Universelle Buly - Eau Triple Tubéreuse du Mexique",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Tubereuse-du-Mexique-47242.html",
+          "name": "Fragrantica - Eau Triple Tubéreuse du Mexique",
+          "type": "database",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Iris de Malte",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-iris-de-malte",
+          "name": "Officine Universelle Buly - Eau Triple Iris de Malte",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Iris-de-Malte-92131.html",
+          "name": "Fragrantica - Eau Triple Iris de Malte",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Lichen d'Écosse",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-lichen-decosse",
+          "name": "Officine Universelle Buly - Eau Triple Lichen d'Écosse",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Lichen-d-Ecosse-47237.html",
+          "name": "Fragrantica - Eau Triple Lichen d'Écosse",
+          "type": "database",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Forêt de Komi",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-foret-de-komi",
+          "name": "Officine Universelle Buly - Eau Triple Forêt de Komi",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Yuzu de Kiso",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-eau-triple-yuzu-de-kiso",
+          "name": "Officine Universelle Buly - Eau Triple Yuzu de Kiso",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Yuzu-De-Kizo-47243.html",
+          "name": "Fragrantica - Eau Triple Yuzu de Kiso",
+          "type": "database",
+          "supports": [
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Ambre de Madagascar",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-ambre-de-madagascar",
+          "name": "Officine Universelle Buly - Eau Triple Ambre de Madagascar",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Ambre-de-Madagascar-93388.html",
+          "name": "Fragrantica - Eau Triple Ambre de Madagascar",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Rose de Damas",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-rose-de-damas",
+          "name": "Officine Universelle Buly - Eau Triple Rose de Damas",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Rose-De-Damas-47240.html",
+          "name": "Fragrantica - Eau Triple Rose de Damas",
+          "type": "database",
+          "supports": [
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Oud de Médine",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-oud-de-medine",
+          "name": "Officine Universelle Buly - Eau Triple Oud de Médine",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Fleur d'Oranger de Berkane",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-fleur-doranger-de-berkane",
+          "name": "Officine Universelle Buly - Eau Triple Fleur d'Oranger de Berkane",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Eau-Triple-Berkane-Fleur-d-Oranger-47235.html",
+          "name": "Fragrantica - Eau Triple Fleur d'Oranger de Berkane",
+          "type": "database",
+          "supports": [
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Groseille de Scandinavie et Tomate du Pérou",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": "Fresh Fruity",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-groseille-de-scandinavie-et-tomate-du-perou",
+          "name": "Officine Universelle Buly - Eau Triple Groseille de Scandinavie et Tomate du Pérou",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Groseille-de-Scandinavie-et-Tomate-du-Perou-104098.html",
+          "name": "Fragrantica - Eau Triple Groseille de Scandinavie et Tomate du Pérou",
+          "type": "database",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Triple Concombre d'Inde et Menthe de Syrie",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://buly1803.com/products/eau-triple-concombre-d-inde-et-menthe-de-syrie",
+          "name": "Officine Universelle Buly - Eau Triple Concombre d'Inde et Menthe de Syrie",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Buly-1803/Concombre-d-Inde-et-Menthe-de-Syrie-104100.html",
+          "name": "Fragrantica - Eau Triple Concombre d'Inde et Menthe de Syrie",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    }
+  ]
+}

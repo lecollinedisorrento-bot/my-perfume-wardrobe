@@ -1,0 +1,302 @@
+{
+  "brand": "Marc-Antoine Barrois",
+  "slug": "marc-antoine-barrois",
+  "officialSite": "https://marcantoinebarrois.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed read in full. Kept the 8 eau de parfum and extrait perfumes; discovery kits, soaps, candles, clothing, cards, books, gift cards and the C-series seating/furniture items were skipped. Notes come from the 'Olfactory notes' list on each official product page (published as a flat list, no pyramid). Concentration from the official pages. B683 year 2016 and Ganymede year 2019 are stated on the pages; perfumer Quentin Bisch is stated on the pages where it is named. Country not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Aldebaran",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose absolute",
+          "paprika accord",
+          "maté",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://marcantoinebarrois.com/en/products/aldebaran",
+          "name": "Marc-Antoine Barrois - Aldebaran",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tilia",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "linden blossom",
+          "broom",
+          "jasmine sambac",
+          "vetiver",
+          "heliotrope",
+          "georgywood",
+          "ambroxan"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://marcantoinebarrois.com/en/products/tilia",
+          "name": "Marc-Antoine Barrois - Tilia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B683",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black pepper",
+          "saffron",
+          "chili",
+          "violet leaf",
+          "leather accord",
+          "patchouli",
+          "sandalwood",
+          "oak moss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://marcantoinebarrois.com/en/products/b683",
+          "name": "Marc-Antoine Barrois - B683",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ganymede",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2019,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "osmanthus",
+          "leather accord",
+          "akigalawood",
+          "immortelle"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://marcantoinebarrois.com/en/products/ganymede",
+          "name": "Marc-Antoine Barrois - Ganymede",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encelade",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rhubarb",
+          "atlas cedar",
+          "vetiver",
+          "leather accord",
+          "tonka bean",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://marcantoinebarrois.com/en/products/encelade",
+          "name": "Marc-Antoine Barrois - Encelade",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ganymede Extrait",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "immortelle",
+          "incense",
+          "myrrh",
+          "saffron",
+          "leather accord",
+          "akigalawood",
+          "mandarin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://marcantoinebarrois.com/en/products/ganymede-extrait",
+          "name": "Marc-Antoine Barrois - Ganymede Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B683 Extrait",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "green apple",
+          "laos oud",
+          "saffron",
+          "leather accord",
+          "patchouli",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://marcantoinebarrois.com/en/products/b683-extrait",
+          "name": "Marc-Antoine Barrois - B683 Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B87.135 Extrait",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink peppercorn",
+          "ambrette seed",
+          "myrrh",
+          "saffron",
+          "rose oil",
+          "iris butter",
+          "cedarwood",
+          "patchouli",
+          "vetiver",
+          "georgywood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://marcantoinebarrois.com/en/products/b87-135-extrait",
+          "name": "Marc-Antoine Barrois - B87.135 Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    }
+  ]
+}

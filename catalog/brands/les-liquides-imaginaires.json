@@ -1,0 +1,1558 @@
+{
+  "brand": "Les Liquides Imaginaires",
+  "slug": "les-liquides-imaginaires",
+  "officialSite": "https://www.liquidesimaginaires.com/",
+  "distributors": [],
+  "country": "France",
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Storefront is not a plain Shopify feed (products.json returns 404), so the catalogue came from the official sitemap (products list) and each product page. Pyramids (top/heart/base) read from the page data. Kept the 36 items in the 'perfumes' category; hand creams, candles, gift cards, sets, bracelets and the Blanche Bete limited edition (not in the perfumes category) were skipped. Family is the brand's own category label on each product page. Concentration, year and perfumer are not stated on the pages read. Country 'France' is from the About page calling it a French brand.",
+  "fragrances": [
+    {
+      "name": "Abyssis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "calypsone",
+          "white pepper co2",
+          "black pepper"
+        ],
+        "heart": [
+          "cedarwood",
+          "ambrofix",
+          "sandalwood"
+        ],
+        "base": [
+          "styrax",
+          "cosmone",
+          "sylkolide"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/abyssis",
+          "name": "Liquides Imaginaires - Abyssis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Âme de Fleur",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose crystal",
+          "heliotrope accord",
+          "mate absolute",
+          "green pear"
+        ],
+        "heart": [
+          "tuberose",
+          "solar accord",
+          "saffron",
+          "jasmine sambac absolute"
+        ],
+        "base": [
+          "cashmere wood",
+          "ambrox super",
+          "clearwood",
+          "z11"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/ame-de-fleur",
+          "name": "Liquides Imaginaires - Âme de Fleur",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Âme du Coeur",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "blood orange",
+          "grapefruit",
+          "ginger",
+          "pink pepper",
+          "black pepper",
+          "cardamom",
+          "cypress",
+          "elemi"
+        ],
+        "heart": [
+          "cocoa",
+          "guaiac",
+          "pomarose"
+        ],
+        "base": [
+          "tonka bean",
+          "vanillin",
+          "vetiver",
+          "cedarwood",
+          "akigalawood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/ame-du-coeur",
+          "name": "Liquides Imaginaires - Âme du Coeur",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beauté du Diable",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "coriander",
+          "bitter orange gin",
+          "absinthe"
+        ],
+        "heart": [
+          "clove",
+          "cypress",
+          "geranium",
+          "ylang ylang",
+          "carnation"
+        ],
+        "base": [
+          "vetiver",
+          "gaiac wood",
+          "cistus"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/beaute-du-diable",
+          "name": "Liquides Imaginaires - Beauté du Diable",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bello Rabelo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "porto",
+          "dried fruit"
+        ],
+        "heart": [
+          "balm note",
+          "everlasting flower",
+          "ciste"
+        ],
+        "base": [
+          "amber wood",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/bello-rabelo",
+          "name": "Liquides Imaginaires - Bello Rabelo",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bergamot Brother",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "italian bergamot vert",
+          "italian mandarin",
+          "orange",
+          "angelica seed",
+          "indian cardamom"
+        ],
+        "heart": [
+          "indian ginger",
+          "laos cinnamon",
+          "orange blossom absolute north africa"
+        ],
+        "base": [
+          "akigalawood",
+          "orange",
+          "atlas cedarwood",
+          "laos benzoin",
+          "cosmone",
+          "ambrocenide",
+          "leather",
+          "ambrofix"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/bergamot-brother",
+          "name": "Liquides Imaginaires - Bergamot Brother",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bête Humaine",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "chestnut",
+          "cumin",
+          "violet leaf",
+          "mastic tree"
+        ],
+        "heart": [
+          "cistus labdanum",
+          "virginian cedarwood",
+          "karmawood",
+          "sandalwood"
+        ],
+        "base": [
+          "haitian vetyver",
+          "burned pine needle",
+          "cypriol",
+          "gaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/bete-humaine",
+          "name": "Liquides Imaginaires - Bête Humaine",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blanche Bête",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambrette seed",
+          "milk accord",
+          "mystikal"
+        ],
+        "heart": [
+          "jasmine vintage",
+          "tuberose petal",
+          "mahonial",
+          "incense"
+        ],
+        "base": [
+          "tonka",
+          "cacao",
+          "musky vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/blanche-bete",
+          "name": "Liquides Imaginaires - Blanche Bête",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bloody Wood",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "white wine lee",
+          "violet",
+          "rose oxyde"
+        ],
+        "heart": [
+          "fruity red wine accord",
+          "cherry",
+          "raspberry"
+        ],
+        "base": [
+          "woody accord",
+          "sandalwood",
+          "oak barrel accord"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/bloody-wood",
+          "name": "Liquides Imaginaires - Bloody Wood",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Buddha Blend",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "caviar lemon accord",
+          "ginger",
+          "yuzu delight accord",
+          "lemon &"
+        ],
+        "heart": [
+          "levistamel",
+          "vanillin",
+          "sharry baby orchid"
+        ],
+        "base": [
+          "toasted tonka bean venezuela",
+          "indian vetiver",
+          "georgywood",
+          "ebanolo",
+          "ambrofix"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/buddha-blend",
+          "name": "Liquides Imaginaires - Buddha Blend",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Buveur de Vent",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "petitgrain",
+          "juniper",
+          "cypress",
+          "lavender",
+          "tarragon",
+          "cistus"
+        ],
+        "heart": [
+          "clary sage",
+          "galbanum",
+          "cedarwood"
+        ],
+        "base": [
+          "sandalwood",
+          "oakmoss",
+          "mate",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/buveur-de-vent",
+          "name": "Liquides Imaginaires - Buveur de Vent",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cedrat Tonic",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "london dry gin accord",
+          "grapefruit zest",
+          "sparkling citrus accord",
+          "lemon &",
+          "rosemary"
+        ],
+        "heart": [
+          "ginger",
+          "bergamot mint",
+          "pink pepper",
+          "jasmine bud"
+        ],
+        "base": [
+          "icy musk",
+          "amber wood",
+          "ambrette seed absolute",
+          "elemi",
+          "akigalawood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/cedrat-tonic",
+          "name": "Liquides Imaginaires - Cedrat Tonic",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Désert Suave",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "mandarin",
+          "clove"
+        ],
+        "heart": [
+          "orange blossom",
+          "rose",
+          "date"
+        ],
+        "base": [
+          "cistus",
+          "toasted sesame seed",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/desert-suave",
+          "name": "Liquides Imaginaires - Désert Suave",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dom Rosa Millésimé",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "champagne accord",
+          "grapefruit",
+          "pear"
+        ],
+        "heart": [
+          "damascena rose",
+          "clove",
+          "incense"
+        ],
+        "base": [
+          "woody accord",
+          "cedarwood",
+          "vetiver",
+          "gaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/dom-rosa-millesime",
+          "name": "Liquides Imaginaires - Dom Rosa Millésimé",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dom Rosa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "champagne accord",
+          "grapefruit",
+          "pear"
+        ],
+        "heart": [
+          "damascena rose",
+          "clove",
+          "incense"
+        ],
+        "base": [
+          "woody accord",
+          "cedarwood",
+          "vetiver",
+          "gaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/dom-rosa",
+          "name": "Liquides Imaginaires - Dom Rosa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fleur de Sable",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "water & salt",
+          "wind note"
+        ],
+        "heart": [
+          "eglantine",
+          "paprika",
+          "everlasting flower"
+        ],
+        "base": [
+          "black pepper",
+          "myrrhe",
+          "orris",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/fleur-de-sable",
+          "name": "Liquides Imaginaires - Fleur de Sable",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fleuve Tendre",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "black pepper",
+          "cardamom",
+          "coriander",
+          "cumin",
+          "saffron",
+          "nutmeg"
+        ],
+        "heart": [
+          "petalia",
+          "rose water",
+          "geranium",
+          "aldron"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli",
+          "incense",
+          "animalis",
+          "civet",
+          "muscarome",
+          "tonka bean",
+          "suede"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/fleuve-tendre",
+          "name": "Liquides Imaginaires - Fleuve Tendre",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fortis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "cumin",
+          "oud",
+          "cypriol"
+        ],
+        "heart": [
+          "gaiac wood",
+          "cedarwood",
+          "amyris",
+          "vetiver"
+        ],
+        "base": [
+          "amber",
+          "patchouli",
+          "sandalwood",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/fortis",
+          "name": "Liquides Imaginaires - Fortis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Île Pourpre",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "shiso",
+          "angelica seed",
+          "incense",
+          "italian bergamot",
+          "ginger"
+        ],
+        "heart": [
+          "black fig",
+          "fenugreek",
+          "davana",
+          "iris"
+        ],
+        "base": [
+          "cedar",
+          "patchouli",
+          "cashmeran",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/ile-pourpre",
+          "name": "Liquides Imaginaires - Île Pourpre",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lacrima",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "elemi"
+        ],
+        "heart": [
+          "smoked wood",
+          "benzoin"
+        ],
+        "base": [
+          "castoreum",
+          "moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/lacrima",
+          "name": "Liquides Imaginaires - Lacrima",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lime Sister",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lime",
+          "italian lemon",
+          "italian bitter orange",
+          "blood orange"
+        ],
+        "heart": [
+          "indian jasmine absolute",
+          "mimosa accord",
+          "gorse accord",
+          "pomarose",
+          "cosmone"
+        ],
+        "base": [
+          "vanilla",
+          "ambrofix",
+          "galaxolide"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/lime-sister",
+          "name": "Liquides Imaginaires - Lime Sister",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liquide",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "saffron",
+          "carrot seed",
+          "coriander",
+          "orange"
+        ],
+        "heart": [
+          "carrot seed",
+          "coriander",
+          "orange flower",
+          "transparent jasmine",
+          "solar accord"
+        ],
+        "base": [
+          "patchouli",
+          "georgywood",
+          "ambrofix",
+          "cistus",
+          "vanilla",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/liquide",
+          "name": "Liquides Imaginaires - Liquide",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunatique",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "juniper",
+          "sichuan pepper",
+          "tagette",
+          "pink berrie",
+          "neroli"
+        ],
+        "heart": [
+          "frankincense",
+          "blackcurrant",
+          "ginger",
+          "pear",
+          "carrot",
+          "iris",
+          "cyclamen"
+        ],
+        "base": [
+          "leather",
+          "sandalwood",
+          "musk",
+          "oud",
+          "vetiver",
+          "ambergris",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/lunatique",
+          "name": "Liquides Imaginaires - Lunatique",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Melancolia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "mint"
+        ],
+        "heart": [
+          "lemongrass"
+        ],
+        "base": [
+          "cardamom",
+          "laurel",
+          "suave musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/melancolia",
+          "name": "Liquides Imaginaires - Melancolia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Morning Star",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink peppercorn",
+          "cinnamon",
+          "incense accord",
+          "sclarene"
+        ],
+        "heart": [
+          "muguet accord",
+          "fresh jasmine",
+          "milky note"
+        ],
+        "base": [
+          "cedarwood",
+          "georgywood",
+          "akigalawood",
+          "patchouli heart",
+          "vetiver",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/morning-star",
+          "name": "Liquides Imaginaires - Morning Star",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Navis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambrette seed",
+          "pink peppercorn",
+          "grapefruit",
+          "bergamot"
+        ],
+        "heart": [
+          "laminaria algae"
+        ],
+        "base": [
+          "oak moss",
+          "amyris",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/navis",
+          "name": "Liquides Imaginaires - Navis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phantasma",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "black tea",
+          "yuzu",
+          "rice powder"
+        ],
+        "heart": [
+          "ginger",
+          "juniper"
+        ],
+        "base": [
+          "sensual wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/phantasma",
+          "name": "Liquides Imaginaires - Phantasma",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pistachio Cousin",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pistachio accord",
+          "italian bergamot",
+          "italian lemon",
+          "elemi",
+          "italian orange",
+          "incense"
+        ],
+        "heart": [
+          "black lemon accord",
+          "lemon petitgrain",
+          "neroli"
+        ],
+        "base": [
+          "cipriolo",
+          "patchouli",
+          "vetiver",
+          "australian sandalwood",
+          "akigalawood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/pistachio-cousin",
+          "name": "Liquides Imaginaires - Pistachio Cousin",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roasted Tangerine",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "italian whole mandarin",
+          "italian whole bergamot",
+          "blood orange"
+        ],
+        "heart": [
+          "petitgrain",
+          "coffee absolute",
+          "ginger",
+          "toasted fennel seed",
+          "incense"
+        ],
+        "base": [
+          "atlas cedarwood",
+          "smoky woody accord",
+          "tonka bean absolute",
+          "akigalawood",
+          "ambrofix",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/roasted-tangerine",
+          "name": "Liquides Imaginaires - Roasted Tangerine",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saffron Mandarin",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "italian lemon",
+          "italian mandarin oil coeur",
+          "blood orange",
+          "italian mandarin vert",
+          "lemon petitgrain"
+        ],
+        "heart": [
+          "jasmine absolute",
+          "comoros ylang ylang",
+          "saffron"
+        ],
+        "base": [
+          "oak wood",
+          "venezuelan tonka bean",
+          "laos benzoin",
+          "spanish labdanum cistus"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/saffron-mandarin",
+          "name": "Liquides Imaginaires - Saffron Mandarin",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sancti",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "grapefruit",
+          "cypress"
+        ],
+        "heart": [
+          "fir balsam",
+          "lavander",
+          "rosemary",
+          "cardamome",
+          "coriander"
+        ],
+        "base": [
+          "cedarwood",
+          "amber",
+          "vetiver",
+          "patchouli",
+          "incense",
+          "myrrh",
+          "benzoin",
+          "ciste",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/sancti",
+          "name": "Liquides Imaginaires - Sancti",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seductive Cedrat",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "green mandarin",
+          "pink peppercorn",
+          "yuzu accord"
+        ],
+        "heart": [
+          "jasmine ab",
+          "methyl laitone",
+          "roasted sesame absolute"
+        ],
+        "base": [
+          "cedarwood atla",
+          "sandalwood",
+          "vanilla",
+          "musk",
+          "ambery note"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/seductive-cedrat",
+          "name": "Liquides Imaginaires - Seductive Cedrat",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sirenis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "sage",
+          "cardamom",
+          "marine accord"
+        ],
+        "heart": [
+          "rose",
+          "transparent flower",
+          "genet",
+          "sandalwood"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "patchouli",
+          "moss",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/sirenis",
+          "name": "Liquides Imaginaires - Sirenis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tapis Volant",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "aldehyde",
+          "carrot seed"
+        ],
+        "heart": [
+          "cold spice",
+          "iris",
+          "floral jasmin"
+        ],
+        "base": [
+          "white musk",
+          "ambrofix",
+          "vetiver",
+          "sandalwood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/tapis-volant",
+          "name": "Liquides Imaginaires - Tapis Volant",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tumultu",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit"
+        ],
+        "heart": [
+          "coconut milk"
+        ],
+        "base": [
+          "cedarwood",
+          "patchouli",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/tumultu",
+          "name": "Liquides Imaginaires - Tumultu",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Upcycled Mandarin",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin vert",
+          "italian whole mandarin",
+          "pink pepper",
+          "indian cardamom",
+          "italian lemon"
+        ],
+        "heart": [
+          "french lavender",
+          "orange blossom accord solaire",
+          "apricot",
+          "mahonal"
+        ],
+        "base": [
+          "helichrysum absolute",
+          "almond",
+          "heliotropine",
+          "laos benzoin",
+          "atlas cedarwood",
+          "amber facet"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.liquidesimaginaires.com/products/upcycled-mandarin",
+          "name": "Liquides Imaginaires - Upcycled Mandarin",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

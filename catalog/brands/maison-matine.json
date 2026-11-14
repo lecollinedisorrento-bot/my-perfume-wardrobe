@@ -1,0 +1,708 @@
+{
+  "brand": "Maison Matine",
+  "slug": "maison-matine",
+  "officialSite": "https://maisonmatine.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed (products.json) read in full; the 50 ml and 100 ml eau de parfum listings were kept as one entry per fragrance, 15 ml minis, soaps, candles, hand creams, pins, sample sets and gift sets were skipped. Notes and olfactory family come from the official product descriptions (French, translated to English). Years and perfumers are not stated on the pages read. Country not stated on the official pages read (the flagship is in Paris, which is an address, not a country statement).",
+  "fragrances": [
+    {
+      "name": "Disco Inferno",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Floral Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear blossom",
+          "pineapple",
+          "peach blossom"
+        ],
+        "heart": [
+          "rose",
+          "orange blossom",
+          "frangipani"
+        ],
+        "base": [
+          "indonesian patchouli",
+          "assafi oud",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/disco-inferno",
+          "name": "Maison Matine - Disco Inferno",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Un Jour Sans Fin",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber White Floral Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "iced pistachio"
+        ],
+        "heart": [
+          "orange blossom",
+          "incense",
+          "tonka bean absolute"
+        ],
+        "base": [
+          "ambrettolide",
+          "dreamwood",
+          "vanilla",
+          "cetalox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/un-jour-sans-fin",
+          "name": "Maison Matine - Un Jour Sans Fin",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bain de Minuit",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Fruity Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cherry",
+          "aquatic accord",
+          "strawberry"
+        ],
+        "heart": [
+          "monoi",
+          "sambac jasmine absolute",
+          "pink praline"
+        ],
+        "base": [
+          "cashmere wood",
+          "leather",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/bain-de-minuit",
+          "name": "Maison Matine - Bain de Minuit",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Faire le Mur",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Fruity Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "bay leaf",
+          "pear"
+        ],
+        "heart": [
+          "indian jasmine absolute",
+          "lily of the valley",
+          "osmanthus"
+        ],
+        "base": [
+          "indonesian patchouli",
+          "musk",
+          "dry wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/faire-le-mur",
+          "name": "Maison Matine - Faire le Mur",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shifumi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Hesperidic Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "yellow mandarin",
+          "cascalone"
+        ],
+        "heart": [
+          "magnolia",
+          "apple",
+          "orange blossom",
+          "guatemalan cardamom"
+        ],
+        "base": [
+          "virginia cedarwood",
+          "moss",
+          "haitian vetiver",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/shifumi",
+          "name": "Maison Matine - Shifumi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ukhu Pacha",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Fruity White Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "italian bergamot",
+          "salty spray",
+          "coconut"
+        ],
+        "heart": [
+          "brazilian tonka bean",
+          "orange blossom",
+          "tuberose",
+          "jasmine",
+          "ylang-ylang"
+        ],
+        "base": [
+          "driftwood",
+          "praline",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/ukhu-pacha",
+          "name": "Maison Matine - Ukhu Pacha",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bain de Midi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "coconut"
+        ],
+        "heart": [
+          "tiare flower",
+          "ylang-ylang",
+          "gardenia"
+        ],
+        "base": [
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/bain-de-midi",
+          "name": "Maison Matine - Bain de Midi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tu te calmes",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "neroli",
+          "sfumato lemon oil"
+        ],
+        "heart": [
+          "fig leaf",
+          "bigarade petitgrain"
+        ],
+        "base": [
+          "virginia cedarwood",
+          "haitian vetiver",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/tu-te-calmes",
+          "name": "Maison Matine - Tu te calmes",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arashi no Umi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity Floral Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "green apple",
+          "freesia",
+          "peach"
+        ],
+        "heart": [
+          "jasmine",
+          "damask rose",
+          "ylang"
+        ],
+        "base": [
+          "virginia cedarwood",
+          "firsantol",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/arashi-no-umi",
+          "name": "Maison Matine - Arashi no Umi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poom Poom",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Woody Musky",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "mandarin blossom",
+          "orange",
+          "kiwi"
+        ],
+        "heart": [
+          "orchid",
+          "peony",
+          "freesia",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "ebony wood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/poom-poom",
+          "name": "Maison Matine - Poom Poom",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nature Insolente",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "lily of the valley",
+          "mint leaf",
+          "honeydew melon"
+        ],
+        "base": [
+          "vetiver",
+          "floating cedar",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/nature-insolente",
+          "name": "Maison Matine - Nature Insolente",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lost in Translation",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Spicy Aquatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "transparent note",
+          "violet leaf",
+          "juniper"
+        ],
+        "heart": [
+          "rosewood",
+          "black pepper",
+          "white tea"
+        ],
+        "base": [
+          "patchouli",
+          "dry wood",
+          "tobacco",
+          "leather",
+          "cotton musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/lost-in-translation",
+          "name": "Maison Matine - Lost in Translation",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hasard Bazar",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Vanilla",
+      "accords": [],
+      "notes": {
+        "top": [
+          "sichuan pepper"
+        ],
+        "heart": [
+          "rose",
+          "ambrox"
+        ],
+        "base": [
+          "patchouli",
+          "tonka bean",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/hasard-bazar",
+          "name": "Maison Matine - Hasard Bazar",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Avant l'Orage",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper"
+        ],
+        "heart": [
+          "sambac jasmine",
+          "benzoin"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/avant-l-orage",
+          "name": "Maison Matine - Avant l'Orage",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Esprit de Contradiction",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Hesperidic Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "yellow mandarin",
+          "black pepper",
+          "coriander"
+        ],
+        "heart": [
+          "ginger",
+          "ylang-ylang",
+          "iris root",
+          "clove"
+        ],
+        "base": [
+          "musk",
+          "vetiver",
+          "sage",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/esprit-de-contradiction",
+          "name": "Maison Matine - Esprit de Contradiction",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warni Warni",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "tea",
+          "cardamom"
+        ],
+        "heart": [
+          "freesia",
+          "orange blossom"
+        ],
+        "base": [
+          "cedarwood",
+          "coumarin",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/warni-warni",
+          "name": "Maison Matine - Warni Warni",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Into the Wild",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "juniper berry",
+          "pepper"
+        ],
+        "heart": [
+          "ginger",
+          "magnolia",
+          "frangipani flower"
+        ],
+        "base": [
+          "chocolate"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://maisonmatine.com/products/into-the-wild",
+          "name": "Maison Matine - Into the Wild",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

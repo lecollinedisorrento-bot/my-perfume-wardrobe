@@ -1,0 +1,1199 @@
+{
+  "brand": "Ramón Monegal",
+  "slug": "ramon-monegal",
+  "officialSite": "https://monegalperfumes.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "ramonmonegal.com redirects to monegalperfumes.com (the brand's own store, read for every product). Perfume product pages read for the 'Key notes' list (flat, no pyramid) and the concentration written in each page's product intro. Excluded: Atmospheres home products (diffusers, home perfumes, candles, Lucky Spray, Dopamine), body and hair products, samples and bonbons, and pages with no notes (Fiesta Art edition, Pura Sangre Art edition). Not fetched or unavailable: Atractone Musk, Velodrom (connection error), All Night Long (404; the live page is #allnightlong), Sunset Cafe/Flowe Power/La Isla Blanca/Love Reaction/Flamenco Hair Mist (404; the live #-named pages were used where they exist). Some product pages were blocked by an anti-robot check (Dopamine, Velodrom, Wonderland candle). Collection pages list the whole site, so collection membership is not recorded. Year, perfumer, family and brand country not stated.",
+  "fragrances": [
+    {
+      "name": "Agar Musk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "nutmeg",
+          "cypress",
+          "agarwood",
+          "oud",
+          "leather",
+          "cedarwood",
+          "vetiver",
+          "amber",
+          "white musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/agar-musk/",
+          "name": "Monegal Perfumes - Agar Musk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alhambra Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "apple",
+          "orange blossom",
+          "rose",
+          "jasmine",
+          "vintage assam",
+          "ambroxan",
+          "birch"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/alhambra-oud/",
+          "name": "Monegal Perfumes - Alhambra Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "#allnightlong",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pina colada",
+          "cascalone",
+          "lemon",
+          "minty lactone",
+          "jasmine",
+          "neroli",
+          "heliotrope",
+          "patchouli",
+          "sandalwood",
+          "salty musk",
+          "vanilla",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/allnightlong/",
+          "name": "Monegal Perfumes - #allnightlong",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Sheep",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "citrus",
+          "rum",
+          "cassis",
+          "coconut",
+          "jasmine",
+          "artemisia",
+          "cedarwood",
+          "patchouli",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/black-sheep/",
+          "name": "Monegal Perfumes - Black Sheep",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blanco",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "citron",
+          "fig",
+          "coconut",
+          "iris",
+          "jasmine",
+          "cedarwood",
+          "sandalwood",
+          "amber",
+          "tonka bean",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/blanco/",
+          "name": "Monegal Perfumes - Blanco",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bravo",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "grapefruit",
+          "pine needle",
+          "strawberry",
+          "clove",
+          "jasmine",
+          "rose",
+          "oud",
+          "smoke",
+          "amberwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/bravo/",
+          "name": "Monegal Perfumes - Bravo",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Campus Martius",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lemon",
+          "saffron",
+          "jasmine",
+          "rose",
+          "cedarwood",
+          "myrrh",
+          "dry amber",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/campus-martius/",
+          "name": "Monegal Perfumes - Campus Martius",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cherry Musk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cherry",
+          "raspberry",
+          "blackcurrant",
+          "jasmine",
+          "white rose",
+          "cedar",
+          "oakmoss",
+          "amber",
+          "white musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/cherry-musk/",
+          "name": "Monegal Perfumes - Cherry Musk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cordoban",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ginger",
+          "cumin",
+          "nutmeg",
+          "tuberose",
+          "orange blossom",
+          "red berries",
+          "sandalwood",
+          "amberwood",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/cordoban/",
+          "name": "Monegal Perfumes - Cordoban",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cotton Musk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "anise",
+          "gardenia",
+          "lily of the valley",
+          "rose",
+          "jasmine",
+          "lilac",
+          "vanilla",
+          "white musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/cotton-musk/",
+          "name": "Monegal Perfumes - Cotton Musk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eleven Forever",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "gingerbread",
+          "lemon",
+          "pink pepper",
+          "cocoa",
+          "waffle",
+          "tuberose",
+          "marshmallow",
+          "tonka bean",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/eleven-forever/",
+          "name": "Monegal Perfumes - Eleven Forever",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Faïsa",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "saffron",
+          "ylang ylang",
+          "jasmine",
+          "mimosa",
+          "red rose",
+          "vanilla",
+          "amber",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/faisa/",
+          "name": "Monegal Perfumes - Faïsa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flamenco Extrait",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "rose",
+          "raspberry",
+          "jasmine",
+          "orange blossom",
+          "cedarwood",
+          "iris",
+          "oud",
+          "leather",
+          "amberwood",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/flamenco-extrait/",
+          "name": "Monegal Perfumes - Flamenco Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flamenco",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "raspberry",
+          "violet",
+          "iris",
+          "jasmine",
+          "rosewood",
+          "red rose",
+          "musk",
+          "amberwood",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/flamenco/",
+          "name": "Monegal Perfumes - Flamenco",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "#flowerpower",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "strawberry",
+          "blackberry",
+          "pink pepper",
+          "rose",
+          "lily of the valley",
+          "iris",
+          "patchouli",
+          "styrax",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/flowerpower/",
+          "name": "Monegal Perfumes - #flowerpower",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Funghi Fan",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pear",
+          "funghi accord",
+          "orris",
+          "cedarwood",
+          "vetiver",
+          "oud",
+          "amber",
+          "leather",
+          "kephalis"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/funghi-fan/",
+          "name": "Monegal Perfumes - Funghi Fan",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hazy Rose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ginger",
+          "saffron",
+          "cashmeran",
+          "damask rose",
+          "pink pepper",
+          "cedar",
+          "siam benzoin",
+          "oakmoss",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/hazy-rose/",
+          "name": "Monegal Perfumes - Hazy Rose",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heritage Drops",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lemon",
+          "tangerine",
+          "petitgrain",
+          "thyme",
+          "rosemary",
+          "lavender",
+          "geranium",
+          "neroli",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/heritage-drops/",
+          "name": "Monegal Perfumes - Heritage Drops",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Invisible But Cool",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "sweet orange",
+          "coriander",
+          "jasmine",
+          "neroli",
+          "violet",
+          "sandalwood",
+          "maté",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/invisible-but-cool/",
+          "name": "Monegal Perfumes - Invisible But Cool",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "#laislablanca",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "date",
+          "blackcurrant",
+          "pine",
+          "almond blossom",
+          "heliotrope",
+          "ylang ylang",
+          "sandalwood",
+          "incense",
+          "guaiac wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/laislablanca/",
+          "name": "Monegal Perfumes - #laislablanca",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "#lovereaction",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "jasmine",
+          "cedar",
+          "sandalwood",
+          "moss",
+          "vanilla",
+          "cotton candy",
+          "musk",
+          "caramel"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/lovereaction/",
+          "name": "Monegal Perfumes - #lovereaction",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Matador",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cumin",
+          "frankincense",
+          "pear",
+          "rosewood",
+          "magnolia",
+          "jasmine",
+          "rose",
+          "passionfruit",
+          "leather",
+          "sandalwood",
+          "coconut",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/matador/",
+          "name": "Monegal Perfumes - Matador",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mon Égal",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "fig",
+          "coconut",
+          "red berries",
+          "osmanthus",
+          "oud buaya",
+          "sandalwood",
+          "vanilla",
+          "burnt sugar",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/mon-egal/",
+          "name": "Monegal Perfumes - Mon Égal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ocean Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "calone",
+          "cistus",
+          "amberwood",
+          "oud assam",
+          "oud padong",
+          "jasmine",
+          "ambergris",
+          "musk",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/ocean-oud/",
+          "name": "Monegal Perfumes - Ocean Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud on Fire",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cinnamon",
+          "black pepper",
+          "geranium",
+          "oud",
+          "oud padong",
+          "patchouli",
+          "earwood",
+          "tonka bean",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/oud-on-fire/",
+          "name": "Monegal Perfumes - Oud on Fire",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Siesta",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "honey",
+          "lemon",
+          "cedarwood",
+          "jasmine",
+          "iris",
+          "vetiver",
+          "leather",
+          "tonka bean",
+          "vanilla",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/siesta/",
+          "name": "Monegal Perfumes - Siesta",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soul of Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cashmeran",
+          "nutmeg",
+          "coriander",
+          "oud assam",
+          "oud padong",
+          "laos rose",
+          "vetiver",
+          "amber",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/soul-of-oud/",
+          "name": "Monegal Perfumes - Soul of Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ten Fresh Notes",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lime",
+          "grapefruit",
+          "jasmine",
+          "galbanum",
+          "peach",
+          "blackcurrant",
+          "vetiver",
+          "musk",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/ten-fresh-notes/",
+          "name": "Monegal Perfumes - Ten Fresh Notes",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yummy Jamm",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "cocoa",
+          "coffee",
+          "jasmine",
+          "koumalactone",
+          "sandalwood",
+          "vanilla",
+          "tonka bean",
+          "burnt sugar"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/yummy-jamm/",
+          "name": "Monegal Perfumes - Yummy Jamm",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "#sunsetcafe",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coconut",
+          "coffee",
+          "seaweed",
+          "jasmine",
+          "rose",
+          "strawberry",
+          "holm oak moss",
+          "amberwood",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/sunsetcafe/",
+          "name": "Monegal Perfumes - #sunsetcafe",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Olé",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pineapple",
+          "raspberry",
+          "coriander",
+          "jasmine",
+          "black orchid",
+          "cedarwood",
+          "amber",
+          "holm oak moss",
+          "white musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://monegalperfumes.com/product/ole/",
+          "name": "Monegal Perfumes - Olé",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

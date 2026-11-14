@@ -1,0 +1,515 @@
+{
+  "brand": "Aesop",
+  "slug": "aesop",
+  "officialSite": "https://www.aesop.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Eau de parfum only. The main aesop.com and aesop.ca pages return HTTP 403 to the fetcher, so the official regional storefronts were used: malaysia.aesop.com (products.json feed and product pages; family and key characteristics), thailand.aesop.com (feed) and aesop.com product pages returned by search (pyramids). Concentration comes from the official product titles. Tacit Truths and Aurner have no notes source and keep none; Ouranon likewise (its Thai page has no English note list). Gloam's family comes from an aesop.com listing. Years not stated. Brand country not stated on a page read.",
+  "fragrances": [
+    {
+      "name": "Gloam",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, spicy, green",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.aesop.com/fragrance/floral/gloam-eau-de-parfum/FR27.html",
+          "name": "Aesop - Gloam Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.aesop.com/fragrance/floral/gloam-eau-de-parfum/FR27.html",
+          "name": "Aesop - Gloam notes",
+          "type": "official",
+          "supports": [
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Above Us, Steorra",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery, woody, spicy",
+      "accords": [
+        "cardamom"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/above-us-steorra-fable",
+          "name": "Aesop - Above Us, Steorra Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords"
+          ]
+        },
+        {
+          "url": "https://www.aesop.com/fragrance/opulent/above-us--steorra-eau-de-parfum/FR32.html",
+          "name": "Aesop - Above Us, Steorra notes",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entirely Aurner",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, herbaceous, fresh",
+      "accords": [
+        "magnolia leaf"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/entirely-aurner-eau-de-parfum",
+          "name": "Aesop - Entirely Aurner Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords"
+          ]
+        },
+        {
+          "url": "https://www.aesop.com/fragrance/entirely-aurner-eau-de-parfum/FR38.html",
+          "name": "Aesop - Entirely Aurner notes",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aurner",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thailand.aesop.com/products/aurner-eau-de-parfum",
+          "name": "Aesop - Aurner Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seeking Virēre",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus, green, woody",
+      "accords": [
+        "cypress"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/seeking-virere-fable",
+          "name": "Aesop - Seeking Virēre Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords"
+          ]
+        },
+        {
+          "url": "https://www.aesop.com/fragrance/seeking-virere-eau-de-parfum/FR42.html",
+          "name": "Aesop - Seeking Virēre notes",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Silently, Hwyl",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Smoky, woody, spicy",
+      "accords": [
+        "frankincense"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/silently-hwyl-fable",
+          "name": "Aesop - Silently, Hwyl Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords"
+          ]
+        },
+        {
+          "url": "https://www.aesop.com/fragrance/silently--hwyl-eau-de-parfum/FR43.html",
+          "name": "Aesop - Silently, Hwyl notes",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tacit Truths",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh, citrus notes, green",
+      "accords": [
+        "basil"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/tacit-truths-fable",
+          "name": "Aesop - Tacit Truths Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unforeseen, Aer",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh, aromatic, mineral",
+      "accords": [
+        "nutmeg"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/unforseen-aer-fable",
+          "name": "Aesop - Unforeseen, Aer Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords"
+          ]
+        },
+        {
+          "url": "https://www.aesop.com/fragrance/fresh/unforeseen-aer-eau-de-parfum/FR44.html",
+          "name": "Aesop - Unforeseen, Aer notes",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boundless Erémia",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Green, floral, citrus",
+      "accords": [
+        "tomato leaf"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/boundless-eremia-fable",
+          "name": "Aesop - Boundless Erémia Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords"
+          ]
+        },
+        {
+          "url": "https://www.aesop.com/fragrance/boundless-eremia-eau-de-parfum/FR35.html",
+          "name": "Aesop - Boundless Erémia notes",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marrakech Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, spicy, floral",
+      "accords": [
+        "jasmine"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/marrakech-intense-fable",
+          "name": "Aesop - Marrakech Intense Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords"
+          ]
+        },
+        {
+          "url": "https://www.aesop.com/fragrance/marrakech-intense-eau-de-parfum/FR39.html",
+          "name": "Aesop - Marrakech Intense notes",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eternal Karst",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh, herbaceous, marine",
+      "accords": [
+        "juniper",
+        "sea foam"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "calone",
+          "sage",
+          "pink pepper",
+          "juniper"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/eternal-karst-fable",
+          "name": "Aesop - Eternal Karst Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evoking Eidesis",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody, spicy, ambery",
+      "accords": [
+        "sandalwood"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "neroli",
+          "petitgrain",
+          "black pepper",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/evoking-eidesis-fable",
+          "name": "Aesop - Evoking Eidesis Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rōzu Arises",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, green, woody",
+      "accords": [
+        "rose"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "shiso",
+          "vetiver",
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://malaysia.aesop.com/products/rozu-arises-fable",
+          "name": "Aesop - Rōzu Arises Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "accords",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ouranon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://thailand.aesop.com/products/ouranon-eau-de-parfum",
+          "name": "Aesop - Ouranon Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
