@@ -160,6 +160,52 @@ def find_image(fr: dict):
 _session = None
 
 
+def fill_holes(cut, src):
+    """Background removal (and some brand photos) leave clear glass and white
+    bottles see-through. Make everything inside the bottle's outline solid,
+    showing see-through glass as it would look photographed on white, except a
+    big, completely empty area — a real gap in the design (ring-shaped flacons)."""
+    import numpy as np
+    from PIL import Image, ImageDraw
+    a = np.array(cut.getchannel('A')).astype(int)
+    src_a = np.array(src.getchannel('A')).astype(int) if src.mode == 'RGBA' else np.full(a.shape, 255)
+    eff = np.minimum(a, src_a)  # how opaque each pixel really is
+    rgb = np.array(src.convert('RGB')).astype(float)
+
+    def label(mask):
+        """Connected components of a boolean mask (flood fill on a real PIL copy)."""
+        img = Image.fromarray(mask.astype('uint8') * 255).copy()
+        comps = []
+        arr = np.array(img)
+        for y, x in zip(*np.nonzero(arr == 255)):
+            if np.array(img.getpixel((int(x), int(y)))) != 255:
+                continue
+            ImageDraw.floodfill(img, (int(x), int(y)), 100)
+            arr = np.array(img)
+            comp = arr == 100
+            comps.append(comp)
+            img.paste(0, mask=Image.fromarray(comp.astype('uint8') * 255))
+        return comps
+
+    solid = eff > 60
+    pad = Image.fromarray(np.pad(solid, 1).astype('uint8') * 255).copy()
+    ImageDraw.floodfill(pad, (0, 0), 128)
+    outside = np.array(pad)[1:-1, 1:-1] == 128
+    interior = ~outside
+    silhouette = interior.sum()
+    keep_clear = np.zeros(a.shape, bool)
+    gaps = interior & (eff < 40)
+    if gaps.any():
+        for comp in label(gaps):
+            if comp.sum() > 0.06 * silhouette:  # a real hole in the bottle design
+                keep_clear |= comp
+    fill = interior & ~keep_clear
+    k = (eff / 255.0)[..., None]
+    rgb_out = np.where(fill[..., None], rgb * k + 255 * (1 - k), rgb)
+    alpha = np.where(fill, 255, np.where(keep_clear, 0, a))
+    return Image.fromarray(np.dstack([rgb_out.clip(0, 255), alpha]).astype('uint8'), 'RGBA')
+
+
 def cutout(data: bytes):
     global _session
     from PIL import Image
@@ -169,6 +215,7 @@ def cutout(data: bytes):
     im = Image.open(io.BytesIO(data)).convert('RGBA')
     im.thumbnail((1100, 1100))
     out = remove(im, session=_session)
+    out = fill_holes(out, im)
     alpha = out.getchannel('A')
     bbox = alpha.point(lambda a: 255 if a > 24 else 0).getbbox()
     if not bbox:
@@ -226,15 +273,47 @@ def merge():
     print('merged, total mapped', len(mapping))
 
 
+def refresh(keys_file, shard):
+    mapping = json.loads(MAP.read_text())
+    keys = [k for k in json.loads(Path(keys_file).read_text()) if k in mapping]
+    if shard:
+        i, n = map(int, shard.split('/'))
+        keys = keys[i::n]
+    print(f'{len(keys)} to refresh')
+    def dl(k):
+        try:
+            return k, get(mapping[k]['image'])
+        except Exception as e:
+            return k, None
+    with cf.ThreadPoolExecutor(max_workers=6) as ex:
+        for j, (k, data) in enumerate(ex.map(dl, keys), 1):
+            if not data:
+                print('  - download failed', k)
+                continue
+            webp, why = cutout(data)
+            if webp:
+                (OUT / mapping[k]['file']).write_bytes(webp)
+            else:
+                print('  -', k, why)
+            if j % 25 == 0:
+                print(f'  {j}/{len(keys)}')
+    print('refresh done')
+
+
 def main():
     if '--merge' in sys.argv:
         return merge()
+    if '--refresh' in sys.argv:
+        i = sys.argv.index('--refresh')
+        shard = sys.argv[sys.argv.index('--shard') + 1] if '--shard' in sys.argv else None
+        return refresh(sys.argv[i + 1], shard)
     ap = argparse.ArgumentParser()
     ap.add_argument('--sample', action='store_true')
     ap.add_argument('--distributed', action='store_true')
     ap.add_argument('--brand', action='append')
     ap.add_argument('--redo', action='append')
     ap.add_argument('--force', action='store_true', help='redo targets even if already mapped')
+    ap.add_argument('--refresh', help='JSON list of mapped keys to re-cut from their recorded image URL')
     ap.add_argument('--shard', help='i/n: process only every n-th target (parallel runs)')
     args = ap.parse_args()
     global MAP
