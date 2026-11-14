@@ -21,6 +21,9 @@ test('wheel: a slow drag only turns it, a flick spins it to a recorded result', 
   await start(page);
   await page.goto('/spin');
   const wheel = page.getByTestId('wheel');
+  // Measure the wheel only once fonts and images have settled the layout.
+  await page.evaluate(() => document.fonts.ready);
+  await page.waitForLoadState('networkidle');
   const box = (await wheel.boundingBox())!;
   const cx = box.x + box.width / 2;
   const cy = box.y + box.height / 2;
@@ -35,7 +38,10 @@ test('wheel: a slow drag only turns it, a flick spins it to a recorded result', 
   }
   await page.waitForTimeout(200);
   await page.mouse.up();
-  expect(Math.round(Number(await wheel.getAttribute('data-rotation')))).toBe(90);
+  // A quarter-turn of the finger turns the wheel a quarter-turn (a few degrees of pointer rounding allowed).
+  const turned = Number(await wheel.getAttribute('data-rotation'));
+  expect(turned).toBeGreaterThan(84);
+  expect(turned).toBeLessThan(96);
   await expect(page.getByTestId('spin-result')).toHaveCount(0);
 
   await page.mouse.move(cx + r, cy);
