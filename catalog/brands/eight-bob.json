@@ -1,0 +1,251 @@
+{
+  "brand": "Eight & Bob",
+  "slug": "eight-bob",
+  "officialSite": "https://eightandbob.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify storefront (eightandbob.com). Range taken from the fragrances collection page and the products.json feed, then each product page was opened for notes. The Original notes come from a WebSearch result that states them for the official 100 ml product page; that page was not separately opened. Notes are taken from the description, and the Notes-graphic variants were not used where they differed. Perfumer names are not given on the official pages (Albert Fouquet is credited as creator, which is not recorded as perfumer). Only the 100 ml (Eau de Parfum) and 50 ml (Extrait) product for each fragrance was used; 30 ml, 9 ml and 2 ml sizes, special editions (JIMMY, Robert F. Kennedy), sets, home fragrance and the Discovery sets were excluded. Egypt's 1935 year is the year the page gives for developing the formula. Concentration percentages are not stated.",
+  "fragrances": [
+    {
+      "name": "The Original",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cardamom", "pink pepper", "lemon"], "heart": [], "base": ["sandalwood", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/the-original-perfume-100-ml", "name": "Eight & Bob - The Original 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Il Giardino dell'Anima",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "bergamot"], "heart": ["ylang ylang", "jasmine"], "base": ["musk", "pistachio"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/il-giardino-dellanima-perfume-100-ml", "name": "Eight & Bob - Il Giardino dell'Anima 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cap d'Antibes",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["birch", "mint", "violet leaf"], "heart": ["cardamom", "moss"], "base": ["cedar", "incense", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/cap-dantibes-perfume-100-ml", "name": "Eight & Bob - Cap d'Antibes 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Le Pari d'Honfleur",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cardamom", "fig", "violet"], "heart": ["tonka bean", "papyrus", "coconut"], "base": ["sandalwood", "cedarwood", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/le-pari-dhonfleur-perfume-100-ml", "name": "Eight & Bob - Le Pari d'Honfleur 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Le Trou 19 du Phare",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["black pepper", "lemon"], "heart": ["cinnamon", "leather"], "base": ["vetiver", "cedarwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/le-trou-19-du-phare-perfume-100-ml", "name": "Eight & Bob - Le Trou 19 du Phare 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Egypt",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1935,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lavender", "lemon", "moss"], "heart": ["cardamom", "nutmeg"], "base": ["leather", "patchouli", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/egypt-perfume-100-ml", "name": "Eight & Bob - Egypt 100 ml", "type": "official", "supports": ["notes", "concentration", "year"] }
+      ]
+    },
+    {
+      "name": "Pure Vienne",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["ivy leaf", "mandarin", "peony"], "heart": ["jasmine", "lily of the valley", "cyclamen"], "base": ["driftwood", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/pure-vienne-perfume-100ml", "name": "Eight & Bob - Pure Vienne 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Belvedere",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lily of the valley", "rum"], "heart": ["honey", "plum", "amber"], "base": ["patchouli", "caramel", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/belvedere-perfume-100-ml", "name": "Eight & Bob - Belvedere 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Sérénité en Bourgogne",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron", "pink pepper"], "heart": ["boya", "myrrh"], "base": ["patchouli", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/serenite-en-bourgogne-perfume-100-ml", "name": "Eight & Bob - Sérénité en Bourgogne 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Nuit de Megève",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "nutmeg"], "heart": ["clove", "violet", "tonka bean"], "base": ["ambrostar", "cedarwood", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/nuit-de-megeve-perfume-100-ml", "name": "Eight & Bob - Nuit de Megève 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Champs de Provence",
+      "collection": "Fouquet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["jasmine", "rose", "orange blossom"], "heart": ["ambroxan", "mate", "moss"], "base": ["bergamot", "orange", "pear"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/champs-de-provence-perfume-100-ml", "name": "Eight & Bob - Champs de Provence 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Le Gant Blanc",
+      "collection": "Les Extraits",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["violet leaf", "pink pepper", "coriander", "bergamot"], "heart": ["rose", "black pepper", "lily of the valley", "incense"], "base": ["patchouli", "vanilla", "tonka bean", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/le-gant-blanc-50-ml", "name": "Eight & Bob - Le Gant Blanc 50 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Agneta",
+      "collection": "Les Extraits",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "pepper", "nutmeg", "olibanum", "cardamom"], "heart": ["coffee", "burnt incense"], "base": ["roasted woods", "sandalwood", "musk", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/agneta", "name": "Eight & Bob - Agneta 50 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "La Musique de Christie",
+      "collection": "Les Extraits",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron", "nutmeg"], "heart": ["leather", "patchouli"], "base": ["musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/la-musique-de-christie", "name": "Eight & Bob - La Musique de Christie 50 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Guéthary",
+      "collection": "Les Extraits",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pear flower", "salt", "tagete"], "heart": ["black ink", "jasmine sambac", "suede"], "base": ["black sugar", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/guethary", "name": "Eight & Bob - Guéthary 50 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Le Geste d'Edmond",
+      "collection": "Les Extraits",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["ginger"], "heart": ["cinnamon", "clove"], "base": ["vanilla", "tonka bean", "ambrostar"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://eightandbob.com/products/le-geste-d-edmond-perfume-extract", "name": "Eight & Bob - Le Geste d'Edmond 50 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    }
+  ]
+}

@@ -174,7 +174,7 @@
     },
     {
       "name": "Brompton Immortals",
-      "collection": "Immortals",
+      "collection": null,
       "concentration": "Extrait de Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -279,7 +279,7 @@
     },
     {
       "name": "Gold Immortals",
-      "collection": "Immortals",
+      "collection": null,
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": "Jordi Fernández",

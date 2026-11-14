@@ -1,0 +1,146 @@
+{
+  "brand": "Clive Christian",
+  "slug": "clive-christian",
+  "officialSite": "https://www.clivechristian.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The official domains (clivechristian.com, www and us. subdomains) did not resolve in this session (DNS lookup failed on every attempt), and the official products.json feed could not be read. All notes here are therefore reported from authorised or specialist retailers and fragrance databases (noteSource reported). The range is partial: nine perfume entries for which retailer pages were reachable. Retailers that returned HTTP 403 or 404 (Neiman Marcus, Fragrantica brand and product pages, Beverly Hills Perfumery) were not used. Crab Apple Blossom and other Crown and Private Collection perfumes were not verified. Collection names are left null because they were not confirmed on pages read. Concentration, year and perfumer are only recorded where the retailer page states them. Retailers disagree on some note lists, so the retailer-specific lists are kept as written.",
+  "fragrances": [
+    {
+      "name": "No.1 Masculine",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": 2001,
+      "perfumer": "Patricia Choux",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["thyme", "nutmeg"], "heart": ["lily of the valley", "cardamom", "nutmeg", "pimento oil", "artemisia oil", "bergamot", "lime", "sicilian mandarin", "pink grapefruit"], "base": ["tonka bean", "amber", "sandalwood", "madagascan vanilla", "musk", "vetiver"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/products/no-1-masculine", "name": "Parfumerie Nasreen - No. 1 Masculine", "type": "retailer", "supports": ["notes", "concentration", "perfumer", "year"] }
+      ]
+    },
+    {
+      "name": "No.1 Masculine Edition",
+      "collection": null,
+      "concentration": "Extrait",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lime", "sicilian mandarin", "nutmeg", "thyme", "pimento oil", "pink grapefruit"], "heart": ["vintage iris", "ylang-ylang", "neroli", "heliotrope", "rose", "jasmine", "lily of the valley"], "base": ["indian sandalwood", "vetiver", "madagascan vanilla", "cedarwood", "musk", "tonka bean", "amber"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lessenteurs.com/products/no-1-masculine-edition", "name": "Les Senteurs - No.1 Masculine Edition", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "No.1 Feminine Edition",
+      "collection": null,
+      "concentration": "Extrait",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["plum", "white peach", "mandarin", "pimento", "lemon", "cardamom", "mirabelle"], "heart": ["ylang-ylang", "osmanthus", "carnation", "orchid", "rose", "jasmine", "vintage iris"], "base": ["sandalwood", "vetiver", "madagascan vanilla", "cedarwood", "tonka bean"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lessenteurs.com/products/no-1-feminine-edition", "name": "Les Senteurs - No.1 Feminine Edition", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "1872 Feminine",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "pineapple", "blueberry"], "heart": ["rose de mai", "osmanthus", "jasmine", "purple violet", "freesia", "orchid", "lily of the valley"], "base": ["patchouli", "oakmoss", "sandalwood", "cedarwood", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/products/1872-feminine", "name": "Parfumerie Nasreen - 1872 Feminine", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "1872 Masculine",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["grapefruit", "lime", "bergamot", "coriander", "galbanum", "rosemary", "black pepper", "nutmeg", "petitgrain", "lavender", "peach"], "heart": ["clary sage", "neroli", "freesia", "jasmine", "tagete oil"], "base": ["amber", "musk", "cedarwood", "patchouli", "frankincense", "sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://perfumology.com/products/1872-masculine", "name": "Perfumology - 1872 Masculine", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "X Masculine",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2001,
+      "perfumer": "Geza Schoen",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["rhubarb", "pineapple", "bergamot"], "heart": ["iris", "paprika", "jasmine"], "base": ["virginia cedar", "cinnamon", "amber", "oakmoss", "vetiver", "styrax", "vanilla", "french labdanum"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.decantx.com/products/clive-christian-x-masculine-eau-de-parfum-for-men", "name": "DecantX - Clive Christian X Masculine", "type": "retailer", "supports": ["notes", "concentration", "perfumer", "year"] }
+      ]
+    },
+    {
+      "name": "X Feminine",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["peach", "rhubarb", "mandarin orange", "pineapple", "bergamot", "ivy"], "heart": ["jasmine", "orris root", "rose", "mignonette", "lily of the valley"], "base": ["patchouli", "musk", "vanilla", "french labdanum", "vetiver", "virginia cedar"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.theperfumetics.com/products/x-feminine", "name": "The Perfumetics - X Feminine", "type": "retailer", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Blonde Amber",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["sparkling pink pepper", "bitter orange", "rum", "bold blonde tobacco", "tuberose", "sweet dried fruit", "sumptuous tonka", "vetiver", "myrrh"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.luckyscent.com/products/blonde-amber-by-clive-christian", "name": "Lucky Scent - Blonde Amber", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+      ]
+    },
+    {
+      "name": "Matsukita",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2021,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "nutmeg", "pink pepper"], "heart": ["mate", "chinese jasmine", "jasmine sambac", "guaiac wood"], "base": ["woodsy notes", "balsam fir", "amber", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://chicagofragrance.com/products/clive-christian-matsukita-edp", "name": "Chicago Fragrance - Clive Christian Matsukita EDP", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+      ]
+    }
+  ]
+}

@@ -144,7 +144,7 @@
     },
     {
       "name": "Aoud",
-      "collection": "Aoud",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": "Roja Dove",
@@ -174,7 +174,7 @@
     },
     {
       "name": "Aoud Crystal",
-      "collection": "Aoud",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -189,7 +189,7 @@
     },
     {
       "name": "Amber Aoud Crystal",
-      "collection": "Aoud",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -204,7 +204,7 @@
     },
     {
       "name": "United Arab Emirates",
-      "collection": "Aoud",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -219,7 +219,7 @@
     },
     {
       "name": "Sultanate of Oman",
-      "collection": "Aoud",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -234,7 +234,7 @@
     },
     {
       "name": "Qatar",
-      "collection": "Aoud",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -249,7 +249,7 @@
     },
     {
       "name": "Kingdom of Saudi Arabia",
-      "collection": "Aoud",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -264,7 +264,7 @@
     },
     {
       "name": "Enigma Aoud",
-      "collection": "Enigma",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -324,7 +324,7 @@
     },
     {
       "name": "Harrods Black Tier",
-      "collection": "Harrods",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -339,7 +339,7 @@
     },
     {
       "name": "Harrods Pour Homme",
-      "collection": "Harrods",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -369,7 +369,7 @@
     },
     {
       "name": "Apex Pour Homme",
-      "collection": "Apex",
+      "collection": null,
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
@@ -399,7 +399,7 @@
     },
     {
       "name": "Elixir Pour Femme",
-      "collection": "Elixir",
+      "collection": null,
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
