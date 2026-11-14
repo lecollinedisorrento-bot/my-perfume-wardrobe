@@ -95,24 +95,12 @@
       "family": "Woody Spicy",
       "accords": [],
       "notes": {
-        "top": [
-          "bergamot",
-          "cypress",
-          "rosemary",
-          "sage"
-        ],
-        "heart": [
-          "cedarwood",
-          "moss"
-        ],
-        "base": [
-          "amber",
-          "vanilla",
-          "pine"
-        ],
+        "top": [],
+        "heart": [],
+        "base": [],
         "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "none",
       "discontinued": false,
       "sources": [
         {
@@ -120,7 +108,7 @@
           "name": "Basenotes — Roman Wood by Ermenegildo Zegna",
           "type": "database",
           "supports": [
-            "notes"
+            "name"
           ]
         },
         {
@@ -182,15 +170,9 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": [
-          "iris",
-          "jasmine",
-          "bergamot",
-          "musk",
-          "violet"
-        ]
+        "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "none",
       "discontinued": false,
       "sources": [
         {
@@ -198,7 +180,6 @@
           "name": "Fragrantica — Florentine Iris Eau de Parfum",
           "type": "database",
           "supports": [
-            "notes",
             "concentration"
           ]
         }

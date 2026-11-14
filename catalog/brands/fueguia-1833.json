@@ -1,0 +1,2093 @@
+{
+  "brand": "Fueguia 1833",
+  "slug": "fueguia-1833",
+  "officialSite": "https://www.fueguia.eu/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify catalogue (fueguia.eu products.json and per-product feed) read; 116 perfume-type items, deduplicated, first 60 kept. Year, collection, family and the English note list come from the official product descriptions. The official pages do not state concentration, perfumer or a top/heart/base pyramid, so those are left empty. Note lists are the English 'Melodia' lists; Spanish key-note names are not translated.",
+  "fragrances": [
+    {
+      "name": "Ronroco",
+      "collection": "Armonías",
+      "concentration": null,
+      "releaseYear": 2026,
+      "perfumer": null,
+      "family": "Resinous Ceremonial",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedarwood",
+          "patchouli",
+          "rose",
+          "incense",
+          "elemi",
+          "palo santo",
+          "myrrh",
+          "fir douglas"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/ronroco-copy",
+          "name": "Fueguia 1833 - Ronroco",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quilombo",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2016,
+      "perfumer": null,
+      "family": "Gourmand Lactonic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "pampa milk",
+          "sugar cane",
+          "benzoin",
+          "ambergris",
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/quilombo1-24",
+          "name": "Fueguia 1833 - Quilombo",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Durazno",
+      "collection": "Alquimia",
+      "concentration": null,
+      "releaseYear": 2026,
+      "perfumer": null,
+      "family": "Floral Fruit",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom",
+          "guava",
+          "jasmine",
+          "rose",
+          "ambrette"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/durazno-1",
+          "name": "Fueguia 1833 - Durazno",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Darwin",
+      "collection": "Personajes",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Wood Citric",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedar",
+          "bergamot",
+          "grapefruit",
+          "cardamom",
+          "palo santo chaco",
+          "oakmoss",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/darwin",
+          "name": "Fueguia 1833 - Darwin",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nocturna",
+      "collection": "Personajes",
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": "Amber Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cacao"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/nocturna",
+          "name": "Fueguia 1833 - Nocturna",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Huemul",
+      "collection": "Fabula Fauna",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Musk Lactonic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "musk",
+          "ambrette seed",
+          "jasmine",
+          "massoia",
+          "tonka",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/huemul",
+          "name": "Fueguia 1833 - Huemul",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Mono de la Tinta",
+      "collection": "Literatura",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Spicy Resinous",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "copaiba",
+          "nutmeg",
+          "cinnamon",
+          "sandalwood",
+          "benzoin",
+          "black pepper",
+          "tuberose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/el-monodelatinta",
+          "name": "Fueguia 1833 - El Mono de la Tinta",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ámbar de los Andes",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2016,
+      "perfumer": null,
+      "family": "Amber Translucent",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "sandalwood",
+          "cedar",
+          "cypress"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/ambar-de-los-andes",
+          "name": "Fueguia 1833 - Ámbar de los Andes",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alba",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2017,
+      "perfumer": null,
+      "family": "Wood Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedar",
+          "fir needles",
+          "oakwood",
+          "juniper berries"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/alba",
+          "name": "Fueguia 1833 - Alba",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tinta Roja",
+      "collection": "Armonias",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Floral Powdery",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "jasmine",
+          "musk",
+          "benzoin",
+          "amber",
+          "tonka",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/tinta-roja",
+          "name": "Fueguia 1833 - Tinta Roja",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muskara Cacao",
+      "collection": "Muskara",
+      "concentration": null,
+      "releaseYear": 2018,
+      "perfumer": null,
+      "family": "Gourmand Intimate",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/muskara-cacao",
+          "name": "Fueguia 1833 - Muskara Cacao",
+          "type": "official",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Misiones",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Resinous Translucent",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "olibanum",
+          "myrrh",
+          "musk",
+          "cistus",
+          "lemon",
+          "nutmeg"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/misiones",
+          "name": "Fueguia 1833 - Misiones",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cactus Azul",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2015,
+      "perfumer": null,
+      "family": "Aromatic Herbal",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cactus flower",
+          "cedar",
+          "camphor",
+          "bergamot",
+          "grapefruit",
+          "patchouli",
+          "vetiver",
+          "sandalwood",
+          "mint"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/cactus-azul",
+          "name": "Fueguia 1833 - Cactus Azul",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Biblioteca de Babel",
+      "collection": "Literatura",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Spicy Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cinnamon",
+          "violet",
+          "oakmoss",
+          "tobacco",
+          "vanilla",
+          "vetiver",
+          "tonka",
+          "palo santo chaco"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/bibliotecadebabel",
+          "name": "Fueguia 1833 - Biblioteca de Babel",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amalia Gourmand",
+      "collection": "Personajes",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Gourmand Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "vanilla",
+          "sugar cane"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/amalia-gourmand",
+          "name": "Fueguia 1833 - Amalia Gourmand",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jacarandá",
+      "collection": "Linneo",
+      "concentration": null,
+      "releaseYear": 2016,
+      "perfumer": null,
+      "family": "Wood Leather",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rosewood",
+          "benzoin",
+          "palo santo chaco",
+          "styrax",
+          "cabreuva",
+          "amyris",
+          "caoba",
+          "ponderosa pine",
+          "palo santo andes",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/jacaranda",
+          "name": "Fueguia 1833 - Jacarandá",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Los Humos Sagrados",
+      "collection": "Antropologia",
+      "concentration": null,
+      "releaseYear": 2017,
+      "perfumer": null,
+      "family": "Wood Ceremonial",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sage",
+          "cedar",
+          "amyris",
+          "copaiba"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/loshumossagrados",
+          "name": "Fueguia 1833 - Los Humos Sagrados",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vicuña",
+      "collection": "Fabula Fauna",
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Wood Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/vicuna",
+          "name": "Fueguia 1833 - Vicuña",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elogio de la Sombra",
+      "collection": "Literatura",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Powdery Citric",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "iris",
+          "lemon",
+          "rose",
+          "violet",
+          "jasmine",
+          "chamomile",
+          "cistus",
+          "cedar",
+          "sandalwood",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/elogio-de-la-sombra",
+          "name": "Fueguia 1833 - Elogio de la Sombra",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Néctar de Coral",
+      "collection": "Personajes",
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": "Powdery Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lilac",
+          "elderflower",
+          "vanilla",
+          "iris",
+          "grapefruit",
+          "lemon"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/nectar-decoral",
+          "name": "Fueguia 1833 - Néctar de Coral",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Linnaeus",
+      "collection": "Linneo",
+      "concentration": null,
+      "releaseYear": 2014,
+      "perfumer": null,
+      "family": "Wood Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "red cedar",
+          "ambergris",
+          "cardamom",
+          "copaiba",
+          "olibanum",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/linnaeus",
+          "name": "Fueguia 1833 - Linnaeus",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": "Wood Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "maple resin",
+          "tobacco",
+          "cedar virginia",
+          "vanilla",
+          "rose",
+          "sakura",
+          "black pepper",
+          "palo santo andes",
+          "patchouli",
+          "tonka",
+          "nutmeg"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/new-york",
+          "name": "Fueguia 1833 - New York",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entre Rios",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2016,
+      "perfumer": null,
+      "family": "Citric Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "laurel del río",
+          "jacarandá wood",
+          "timbó"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/entre-rios",
+          "name": "Fueguia 1833 - Entre Rios",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amalia",
+      "collection": "Personajes",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Floral Musk",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "musk",
+          "cistus",
+          "ambergris",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/amalia",
+          "name": "Fueguia 1833 - Amalia",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mbucuruyá",
+      "collection": "Linneo",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Gourmand Amazonic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "passionfruit",
+          "lemon",
+          "pampa milk",
+          "vanilla",
+          "grapefruit"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/mbucuruya",
+          "name": "Fueguia 1833 - Mbucuruyá",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muskara Phero J.",
+      "collection": "Muskara",
+      "concentration": null,
+      "releaseYear": 2016,
+      "perfumer": null,
+      "family": "Musk Intimate",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "musk",
+          "desert herb"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/muskara-phero-j",
+          "name": "Fueguia 1833 - Muskara Phero J.",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pampa Seca",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2016,
+      "perfumer": null,
+      "family": "Green Dry",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pampa grass",
+          "galbanum",
+          "cedar",
+          "cypress",
+          "lavender"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/pampaseca",
+          "name": "Fueguia 1833 - Pampa Seca",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Patagonia",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2018,
+      "perfumer": null,
+      "family": "Wood Forest",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "juniper berries",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/la-patagonia",
+          "name": "Fueguia 1833 - La Patagonia",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pulpería",
+      "collection": "Literatura",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Leather Spicy",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "red cedar",
+          "black pepper",
+          "palo santo chaco"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/pulperia",
+          "name": "Fueguia 1833 - Pulpería",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Cautiva",
+      "collection": "Personajes",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Gourmand Fruit",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "passion flower",
+          "musk",
+          "jasmine",
+          "iris",
+          "patchouli",
+          "blackcurrant",
+          "vanilla",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/la-cautiva",
+          "name": "Fueguia 1833 - La Cautiva",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Agua Magnoliana",
+      "collection": "Linneo",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Floral Fresh",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "jasmine",
+          "sandalwood",
+          "cassis",
+          "palo santo chaco",
+          "cistus",
+          "magnolia leaves",
+          "rose",
+          "ylang-ylang"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/agua-magnoliana",
+          "name": "Fueguia 1833 - Agua Magnoliana",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Patagonia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2021,
+      "perfumer": null,
+      "family": "Oud Forest",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/oudpatagonia",
+          "name": "Fueguia 1833 - Oud Patagonia",
+          "type": "official",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Caledonia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2021,
+      "perfumer": null,
+      "family": "Oud Dry",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/oudcaledonia",
+          "name": "Fueguia 1833 - Oud Caledonia",
+          "type": "official",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Endeavour",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2015,
+      "perfumer": null,
+      "family": "Aromatic Translucent",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "palisander",
+          "pink pepper",
+          "olibanum",
+          "lemon",
+          "geranium",
+          "mate flower"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/endeavour",
+          "name": "Fueguia 1833 - Endeavour",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Azafrán",
+      "collection": "Linneo",
+      "concentration": null,
+      "releaseYear": 2018,
+      "perfumer": null,
+      "family": "Aromatic Spicy",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "rose",
+          "cistus",
+          "musk",
+          "olibanum",
+          "jasmine",
+          "pink pepper"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/azafran",
+          "name": "Fueguia 1833 - Azafrán",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arábica",
+      "collection": "Linneo",
+      "concentration": null,
+      "releaseYear": 2021,
+      "perfumer": null,
+      "family": "Aromatic Roasted",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coffee",
+          "walnut",
+          "hazelnut",
+          "tobacco",
+          "oud",
+          "cistus",
+          "olibanum"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/arabica",
+          "name": "Fueguia 1833 - Arábica",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Komorebi",
+      "collection": "Literatura",
+      "concentration": null,
+      "releaseYear": 2016,
+      "perfumer": null,
+      "family": "Floral Translucent",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sakura",
+          "ambergris",
+          "ginger",
+          "mint",
+          "lavender",
+          "cardamom",
+          "copal blanco",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/komorebi",
+          "name": "Fueguia 1833 - Komorebi",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rin",
+      "collection": "Linneo",
+      "concentration": null,
+      "releaseYear": 2020,
+      "perfumer": null,
+      "family": "Aromatic Forest",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink pepper",
+          "yuzu"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/rin",
+          "name": "Fueguia 1833 - Rin",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Cambodia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Oud",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/oud-cambodia",
+          "name": "Fueguia 1833 - Oud Cambodia",
+          "type": "official",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muskara Vetiveria",
+      "collection": "Muskara",
+      "concentration": null,
+      "releaseYear": 2016,
+      "perfumer": null,
+      "family": "Wood Intimate",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/muskara-vetiveria",
+          "name": "Fueguia 1833 - Muskara Vetiveria",
+          "type": "official",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muskara Pogostemon",
+      "collection": "Muskara",
+      "concentration": null,
+      "releaseYear": 2017,
+      "perfumer": null,
+      "family": "Wood Intimate",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/muskara-pogostemon",
+          "name": "Fueguia 1833 - Muskara Pogostemon",
+          "type": "official",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muskara Pelargonium",
+      "collection": "Muskara",
+      "concentration": null,
+      "releaseYear": 2017,
+      "perfumer": null,
+      "family": "Green Intimate",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/muskara-pelargonium",
+          "name": "Fueguia 1833 - Muskara Pelargonium",
+          "type": "official",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Equation",
+      "collection": "Alquimia",
+      "concentration": null,
+      "releaseYear": 2014,
+      "perfumer": null,
+      "family": "Leather Mineral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "birch",
+          "olibanum"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/equation",
+          "name": "Fueguia 1833 - Equation",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yakeñ",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2015,
+      "perfumer": null,
+      "family": "Aromatic Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ambergris",
+          "austrocedrus palo santo chaco",
+          "ponderosa pine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/yaken",
+          "name": "Fueguia 1833 - Yakeñ",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Luna Roja",
+      "collection": "Alquimia",
+      "concentration": null,
+      "releaseYear": 2017,
+      "perfumer": null,
+      "family": "Wood Fruit",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oakwood",
+          "hay",
+          "rose",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/luna-roja",
+          "name": "Fueguia 1833 - Luna Roja",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thays",
+      "collection": "Personajes",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Green Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mate flower",
+          "green tea",
+          "lemon",
+          "magnolia",
+          "benzoin",
+          "clove",
+          "cardamom",
+          "grapefruit"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/thays",
+          "name": "Fueguia 1833 - Thays",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muskara Rosa",
+      "collection": "Muskara",
+      "concentration": null,
+      "releaseYear": 2017,
+      "perfumer": null,
+      "family": "Floral Intimate",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/muskara-rosa",
+          "name": "Fueguia 1833 - Muskara Rosa",
+          "type": "official",
+          "supports": [
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muskara Neroli",
+      "collection": "Muskara",
+      "concentration": null,
+      "releaseYear": 2020,
+      "perfumer": null,
+      "family": "Floral Intimate",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "neroli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/muskara-neroli",
+          "name": "Fueguia 1833 - Muskara Neroli",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flor de Hueso",
+      "collection": "Linneo",
+      "concentration": null,
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": "Floral Translucent",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "vanilla",
+          "copal",
+          "astrocedrus",
+          "sandalwood",
+          "jasmine",
+          "ambrette"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/flor-de-hueso",
+          "name": "Fueguia 1833 - Flor de Hueso",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paysandú",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": "Floral Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "espinillo",
+          "jasmine",
+          "dama de noche",
+          "cedrón",
+          "coronilla",
+          "cabreuva",
+          "butiá",
+          "copaiba resin",
+          "palo santo andes"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/paysandu",
+          "name": "Fueguia 1833 - Paysandú",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Humboldt",
+      "collection": "Personajes",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Citric Amazonic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "passionfruit",
+          "quince",
+          "bergamot",
+          "grapefruit",
+          "green mandarin",
+          "lemon",
+          "orange",
+          "rose",
+          "jasmine",
+          "patchouli",
+          "oakmoss",
+          "neroli",
+          "benzoin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/humboldt",
+          "name": "Fueguia 1833 - Humboldt",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Negus - Yasiin Bey",
+      "collection": "Armonias",
+      "concentration": null,
+      "releaseYear": 2019,
+      "perfumer": null,
+      "family": "Resinous Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "olibanum",
+          "oud",
+          "grapefruit",
+          "ambrette seed",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/negus-yasiin-bey",
+          "name": "Fueguia 1833 - Negus - Yasiin Bey",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xocoatl",
+      "collection": "Linneo",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Gourmand Balsamic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla flower",
+          "cacao",
+          "rum",
+          "pink pepper",
+          "bergamot",
+          "tuberose",
+          "jasmine",
+          "rose",
+          "clove",
+          "patchouli",
+          "peru balsam",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/xocoatl",
+          "name": "Fueguia 1833 - Xocoatl",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Milonga Verde",
+      "collection": "Armonias",
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Green Smoke",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cypress leaf",
+          "olibanum",
+          "palo santo chaco",
+          "cistus",
+          "benzoin",
+          "myrrh"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/milonga-verde",
+          "name": "Fueguia 1833 - Milonga Verde",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Malena",
+      "collection": "Armonias",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Floral Amazonic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "blackberry",
+          "cassis",
+          "grapefruit",
+          "geranium",
+          "rose",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/malena",
+          "name": "Fueguia 1833 - Malena",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Conquista",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2014,
+      "perfumer": null,
+      "family": "Aromatic Fresh",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "juniper berries",
+          "cedar",
+          "violet"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/conquista",
+          "name": "Fueguia 1833 - Conquista",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Malabrigo",
+      "collection": "Fabula Fauna",
+      "concentration": null,
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": "Wood Leather",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedar",
+          "patchouli",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/malabrigo",
+          "name": "Fueguia 1833 - Malabrigo",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tierra del Fuego",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2014,
+      "perfumer": null,
+      "family": "Spicy Dry",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "jasmine",
+          "musk",
+          "benzoin",
+          "amber",
+          "tonka",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/tierra-del-fuego",
+          "name": "Fueguia 1833 - Tierra del Fuego",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cuarzo de los Andes",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Amber Mineral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ambergris",
+          "rose",
+          "iris",
+          "licorice"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/cuarzo-de-los-andes",
+          "name": "Fueguia 1833 - Cuarzo de los Andes",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chamber",
+      "collection": "Destinos",
+      "concentration": null,
+      "releaseYear": 2015,
+      "perfumer": null,
+      "family": "Green Mineral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oakmoss",
+          "mate leaf",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fueguia.eu/products/chamber",
+          "name": "Fueguia 1833 - Chamber",
+          "type": "official",
+          "supports": [
+            "year",
+            "family",
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "brand": "Coach",
+  "slug": "coach",
+  "officialSite": "https://www.coach.com/shop/women/accessories/fragrance",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "coach.com returned HTTP 403 to WebFetch and curl, so no official product pages were read. Coach Love notes and EDP concentration come from the Olfastory composition page (opened with WebFetch); its year comes from a Fragrantica listing seen in search. Dreams Sunset family and year come from retailer and blog snippets from search; its notes were not confirmed, so none are recorded. Coach For Men and Coach Blue are named on the official outlet fragrance listing seen in search, with EDT concentration only. Range is partial; sizes and travel sprays were skipped. Country not stated.",
+  "fragrances": [
+    {
+      "name": "Love",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "wild strawberry",
+          "mandarin"
+        ],
+        "heart": [
+          "red velvet rose",
+          "indian sambac jasmine",
+          "osmanthus"
+        ],
+        "base": [
+          "cedarwood",
+          "benzoin",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.olfastory.com/en/perfume/coach-coach-love-eau-de-parfum/composition",
+          "name": "Olfastory — Coach Love Eau de Parfum composition",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Coach/Coach-Love-Eau-de-Parfum-83465.html",
+          "name": "Fragrantica — Coach Love Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dreams Sunset",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2021,
+      "perfumer": null,
+      "family": "Floral Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.dillards.com/p/coach-coach-dreams-sunset-eau-de-parfum/513404746",
+          "name": "Dillard's — Coach Dreams Sunset Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "family",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://southbeachperfumes.com/blogs/the-fragrance-encyclopedia-by-south-beach-perfumes/coach-dreams-sunset-by-coach-notes-longevity-review-complete-guide",
+          "name": "South Beach Perfumes — Coach Dreams Sunset",
+          "type": "retailer",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coach For Men",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.coach.com/shop/outlet/accessories/fragrance",
+          "name": "Coach outlet — Fragrance",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coach Blue",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.coach.com/shop/outlet/accessories/fragrance",
+          "name": "Coach outlet — Fragrance",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "brand": "Salvatore Ferragamo",
+  "slug": "ferragamo",
+  "officialSite": "https://www.ferragamo.com/shop/us/en/men/fragrances-men-usa",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "ferragamo.com returned HTTP 403 to both WebFetch and curl, so no official pages were read. Notes come from retailer pages opened with WebFetch (lyko.com for Fiamma) and from WebSearch result summaries of macys.com, labelle, and fragrantica.com for Intense Leather and Signorina; those summaries were not opened and were not always consistent (Signorina top/base and Fiamma heart differ between sources, so the union is recorded for Fiamma). The official Fiamma gallery page was seen only as a WebSearch summary. Launch years, perfumers and families are not stated except as noted. Range is partial (three fragrances from search results). Country not stated.",
+  "fragrances": [
+    {
+      "name": "Intense Leather",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.macys.com/shop/product/salvatore-ferragamo-mens-ferragamo-intense-leather-eau-de-parfum-spray-3.4-oz.?ID=12095112",
+          "name": "Macy's — Ferragamo Intense Leather Eau de Parfum Spray",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Signorina",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2011,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fragrantica.com/perfume/Salvatore-Ferragamo/Signorina-13639.html",
+          "name": "Fragrantica — Signorina",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        },
+        {
+          "url": "https://labelleperfumes.com/products/signorina-3-4-oz-edp-for-spray-women",
+          "name": "La Belle Perfumes — Signorina EDP 3.4 oz",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fiamma",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "white pear",
+          "saffron",
+          "cherry"
+        ],
+        "heart": [
+          "jasmine",
+          "gardenia",
+          "honeysuckle",
+          "damask rose"
+        ],
+        "base": [
+          "ambrox",
+          "patchouli",
+          "musk",
+          "sugar musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://lyko.com/en/ferragamo/ferragamo-fiamma-eau-de-parfum-100ml",
+          "name": "Lyko — Ferragamo Fiamma Eau de Parfum 100 ml",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ferragamo.com/shop/us/en/sf/gallery-fiamma-fragrance",
+          "name": "Ferragamo — Fiamma gallery",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}
