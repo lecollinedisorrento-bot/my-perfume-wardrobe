@@ -1,0 +1,550 @@
+{
+  "brand": "Goutal",
+  "slug": "goutal",
+  "officialSite": "https://www.annickgoutal.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Brand now trades as Annick Goutal; the Goutal Paris site (goutalparis.com) returned old pages, so the official annickgoutal.com site was used. The official /en/collections/les-parfums/products.json feed (15 rows) was read, and each product page was opened and read. Eau d'Hadrien appears in the feed three times (50-100 ml, 100 ml unisex, 450 ml large format): the 100 ml unisex page is the one entry and the 450 ml large format is skipped. Current eau de parfum range only; candles, body care and samples skipped. Notes are on the official pages, so noteSource is official. Notes are split top/heart/base on all pages read. Family/accords only where the page states them. Perfumers are listed as the page states them. Country and year not stated on the pages read. Discontinued status not stated for any product.",
+  "fragrances": [
+    {
+      "name": "Voile de Santal",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Romain Almairac",
+      "family": "Woody Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "neroli",
+          "blackcurrant",
+          "fig milk"
+        ],
+        "heart": [
+          "sandalwood",
+          "cedar"
+        ],
+        "base": [
+          "moss",
+          "oud",
+          "ambroxan",
+          "powdered musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/voile-de-santal",
+          "name": "Annick Goutal - Voile de Santal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanille des Roches",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Coralie Spicher",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "madagascan vanilla",
+          "almond",
+          "plum"
+        ],
+        "heart": [
+          "jasmine",
+          "tahitian vanilla",
+          "benzoin"
+        ],
+        "base": [
+          "cypriol",
+          "indonesian patchouli",
+          "vanilla tahitensis"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/vanille-des-roches",
+          "name": "Annick Goutal - Vanille des Roches",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau d'Hadrien",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Annick Goutal and Henri Sorsana",
+      "family": "Fresh Citrus",
+      "accords": [],
+      "notes": {
+        "top": [
+          "sicilian lemon",
+          "citron",
+          "grapefruit",
+          "bergamot"
+        ],
+        "heart": [
+          "green mandarin",
+          "juniper berries"
+        ],
+        "base": [
+          "cypress",
+          "white musks"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/eau-dhadrien-mixte",
+          "name": "Annick Goutal - Eau d'Hadrien",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Petite Chérie",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Annick Goutal and Isabelle Doyen",
+      "family": "Fruity Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "cut grass"
+        ],
+        "heart": [
+          "musk rose"
+        ],
+        "base": [
+          "vanilla",
+          "white musks"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/petite-cherie",
+          "name": "Annick Goutal - Petite Chérie",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sables",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Annick Goutal",
+      "family": "Warm Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "wild immortelle",
+          "black pepper",
+          "jasmine"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/sables",
+          "name": "Annick Goutal - Sables",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Un Matin d'Orage",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Camille Goutal and Isabelle Doyen",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "shiso",
+          "ginger"
+        ],
+        "heart": [
+          "tuberose",
+          "gardenia",
+          "nutmeg"
+        ],
+        "base": [
+          "guaiac wood",
+          "myrrh",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/un-matin-dorage",
+          "name": "Annick Goutal - Un Matin d'Orage",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encens Flamboyant",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Camille Goutal and Isabelle Doyen",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper"
+        ],
+        "heart": [
+          "resinoid incense",
+          "nutmeg",
+          "cardamom"
+        ],
+        "base": [
+          "incense essence",
+          "lentisk",
+          "balsam fir"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/encens-flamboyant",
+          "name": "Annick Goutal - Encens Flamboyant",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Le Chèvrefeuille",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Camille Goutal and Isabelle Doyen",
+      "family": "Green Floral",
+      "accords": [
+        "cut grass"
+      ],
+      "notes": {
+        "top": [
+          "lemon petitgrain",
+          "verbena",
+          "cut grass accord"
+        ],
+        "heart": [
+          "honeysuckle",
+          "jasmine"
+        ],
+        "base": [
+          "narcissus",
+          "white musks"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/le-chevrefeuille",
+          "name": "Annick Goutal - Le Chèvrefeuille",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ambre Sauvage",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Camille Goutal and Isabelle Doyen",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "lavender"
+        ],
+        "heart": [
+          "iris",
+          "vanilla"
+        ],
+        "base": [
+          "amber",
+          "labdanum",
+          "patchouli",
+          "papyrus",
+          "styrax"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/ambre-sauvage",
+          "name": "Annick Goutal - Ambre Sauvage",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Le Temps des Rêves",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Julie Massé and Mathieu Nardin",
+      "family": null,
+      "accords": [
+        "milky",
+        "cereal"
+      ],
+      "notes": {
+        "top": [
+          "bergamot",
+          "moroccan neroli"
+        ],
+        "heart": [
+          "moroccan absolute orange blossom",
+          "myrrh"
+        ],
+        "base": [
+          "milky accord",
+          "cereal accord",
+          "sandalwood",
+          "white musks"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/le-temps-des-reves",
+          "name": "Annick Goutal - Le Temps des Rêves",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musc Nomade",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Camille Goutal and Isabelle Doyen",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "papyrus"
+        ],
+        "heart": [
+          "white musks",
+          "angelica",
+          "ambrette"
+        ],
+        "base": [
+          "patchouli",
+          "labdanum",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/musc-nomade",
+          "name": "Annick Goutal - Musc Nomade",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tenue de Soirée",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mathieu Nardin",
+      "family": "Chypre",
+      "accords": [
+        "praline",
+        "musk"
+      ],
+      "notes": {
+        "top": [
+          "bergamot",
+          "red fruits",
+          "pink peppercorns"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "iris"
+        ],
+        "base": [
+          "patchouli",
+          "praline",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/tenue-de-soiree",
+          "name": "Annick Goutal - Tenue de Soirée",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose Pompon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Camille Goutal and Philippine Courtière",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "raspberry",
+          "blackcurrant",
+          "pink peppercorns"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "taif rose",
+          "violet"
+        ],
+        "base": [
+          "indonesian patchouli",
+          "benzoin",
+          "vanilla",
+          "ambrette",
+          "white musks"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.annickgoutal.com/en/products/rose-pompon",
+          "name": "Annick Goutal - Rose Pompon",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    }
+  ]
+}

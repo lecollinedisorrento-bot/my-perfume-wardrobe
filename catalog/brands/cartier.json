@@ -1,0 +1,378 @@
+{
+  "brand": "Cartier",
+  "slug": "cartier",
+  "officialSite": "https://www.cartier.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official US site (cartier.com/en-us) High Perfumery listing read: 23 fragrances, each with concentration. Product pages read for perfumer (Mathilde Laurent on all), olfactory family and, where stated, accords and collection. Product pages show only an INCI ingredient list, not a notes pyramid, so no notes are recorded (noteSource null). Launch years are not stated on the pages. Discovery set excluded. Signature lines (Pasha, Baiser Volé, Déclaration, Santos, Must, La Panthère) not yet researched. VI L'Heure Brillante product page title reads 'Lemon Eau de Toilette'; family taken from that page, name from the listing.",
+  "fragrances": [
+    {
+      "name": "Oud Vanillé",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Woody Amber",
+      "accords": ["oud", "vanilla"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/oud-vanille-CRFV075026.html", "name": "Cartier — Oud Vanillé", "type": "official", "supports": ["perfumer", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "Oud & Santal",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/oud-%26-santal-CRFV075009.html", "name": "Cartier — Oud & Santal", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "VIII L'Heure Diaphane",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Fresh Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/viii-lheure-diaphane-CRFC075013.html", "name": "Cartier — VIII L'Heure Diaphane", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Oud & Ambre",
+      "collection": "Les Heures Voyageuses",
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Woody Amber",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/oud-%26-ambre-CRFV075014.html", "name": "Cartier — Oud & Ambre", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "XI L'Heure Perdue",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Powdery",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/xi-lheure-perdue-CRFC075025.html", "name": "Cartier — XI L'Heure Perdue", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Oud & Pink",
+      "collection": "Les Heures Voyageuses",
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Chypre",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/oud-%26-pink-CRFV075023.html", "name": "Cartier — Oud & Pink", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Oud Absolu",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/oud-absolu-CRFV045019.html", "name": "Cartier — Oud Absolu", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Pur Rose",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/pur-rose-CRFG075010.html", "name": "Cartier — Pur Rose", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Pur Magnolia",
+      "collection": "Les Épures de Parfum",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/pur-magnolia-CRFG075004.html", "name": "Cartier — Pur Magnolia", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "VI L'Heure Brillante",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Citrus",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/vi-lheure-brillante-CRFC075011.html", "name": "Cartier — VI L'Heure Brillante", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Pur Muguet",
+      "collection": "Les Épures de Parfum",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/pur-muguet-CRFG075003.html", "name": "Cartier — Pur Muguet", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Pur Lilas",
+      "collection": "Les Épures de Parfum",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/pur-lilas-CRFG075011.html", "name": "Cartier — Pur Lilas", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "XII L'Heure Mystérieuse",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Ambery",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/xii-lheure-mysterieuse-CRFC075016.html", "name": "Cartier — XII L'Heure Mystérieuse", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Oud & Musc",
+      "collection": "Les Heures Voyageuses",
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Woody Musky",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/oud-%26-musc-CRFV075011.html", "name": "Cartier — Oud & Musc", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "II L'Heure Convoitée",
+      "collection": "Les Heures de Parfum",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Spicy Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/ii-lheure-convoitee-CRFC075008.html", "name": "Cartier — II L'Heure Convoitée", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Oud & Santal Les Heures Voyageuses Limited Edition",
+      "collection": "Les Heures Voyageuses",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/fragrances/oud-%26-santal-les-heures-voyageuses-limited-edition-fragrance-CRFV075029.html", "name": "Cartier — Oud & Santal Les Heures Voyageuses Limited Edition", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Oud & Oud",
+      "collection": "Les Heures Voyageuses",
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Woody Leathery",
+      "accords": ["balsamic", "leather", "woody"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/oud-%26-oud-CRFV075010.html", "name": "Cartier — Oud & Oud", "type": "official", "supports": ["perfumer", "family", "accords"] }
+      ]
+    },
+    {
+      "name": "I L'Heure Promise",
+      "collection": "Les Heures de Parfum",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Woody Powdery",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/i-lheure-promise-CRFC075007.html", "name": "Cartier — I L'Heure Promise", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "XIII La Treizième Heure",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Leathery",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/xiii-la-treizieme-heure-CRFC075017.html", "name": "Cartier — XIII La Treizième Heure", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Oud Radieux",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Fresh Woody",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/oud-radieux-CRFV075013.html", "name": "Cartier — Oud Radieux", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "IV L'Heure Fougueuse",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Leathery Animal",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/iv-lheure-fougueuse-CRFC075010.html", "name": "Cartier — IV L'Heure Fougueuse", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "V L'Heure Osée",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/v-lheure-osee-CRFC075024.html", "name": "Cartier — V L'Heure Osée", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Pur Kinkan",
+      "collection": "Les Épures de Parfum",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Citrus",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
+        { "url": "https://www.cartier.com/en-us/fragrances/pur-kinkan-CRFG075002.html", "name": "Cartier — Pur Kinkan", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    }
+  ]
+}

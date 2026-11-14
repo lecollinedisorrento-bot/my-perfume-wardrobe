@@ -1,0 +1,1443 @@
+{
+  "brand": "Diptyque",
+  "slug": "diptyque",
+  "officialSite": "https://www.diptyqueparis.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Shopify store: /products.json was too large to read in full, so the range came from the US collection feeds /en-us/collections/eaux-de-parfum/products.json (26 items), /collections/les-essences-de-diptyque/products.json (7) and /collections/eaux-de-toilette/products.json (30), read via us.diptyqueparis.com. Each fragrance uses its own official product page as the only source. Included the core 100/75 ml eaux de parfum, Eau de Parfum Intense flankers (Benjoin Bohème, Eau Nabati, Eau Rihla), the Les Essences de Diptyque line, and the core eaux de toilette. Entries with the same name in different concentrations are separate entries. Skipped sets, holiday editions, large formats, candles, room sprays and body care. Notes are reported as one list on every page, so top/heart/base are empty. Year and perfumer only where a page states them. Country not stated on the pages read. Not read: any discontinued Diptyque fragrances, which the feeds do not list.",
+  "fragrances": [
+    {
+      "name": "Do Son",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "orange blossom",
+          "jasmine",
+          "amberwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-do-son-dosonp75cv1",
+          "name": "Diptyque US - Do Son Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Do Son",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [
+        "marine"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "orange blossom",
+          "jasmine",
+          "marine accord"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-do-son-doson100v2",
+          "name": "Diptyque US - Do Son Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orphéon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "juniper berry",
+          "cedar",
+          "tonka bean",
+          "jasmine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-orpheon-orphp75c",
+          "name": "Diptyque US - Orphéon Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lilyphéa",
+      "collection": "Les Essences de Diptyque",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Nathalie Cetto",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom",
+          "violet leaves",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-lilyphea-lilyphea100",
+          "name": "Diptyque US - Lilyphéa Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tam Dao",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "cedar",
+          "cypress",
+          "coriander"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-tam-dao-tamdaop75cv1",
+          "name": "Diptyque US - Tam Dao Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fleur de Peau",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "musk",
+          "iris",
+          "ambrette",
+          "pink peppercorn"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-fleur-de-peau-fleurp75cv1",
+          "name": "Diptyque US - Fleur de Peau Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Rose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "damascena rose",
+          "centifolia rose",
+          "chamomile",
+          "litchi",
+          "artichoke"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-eau-rose-rosep75c",
+          "name": "Diptyque US - Eau Rose Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Philosykos",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "fig leaves",
+          "fig tree sap",
+          "fig tree wood",
+          "black pepper"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-philosykos-philop75cv1",
+          "name": "Diptyque US - Philosykos Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Capitale",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Chypre",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "bergamot",
+          "patchouli",
+          "pink peppercorn"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-eau-capitale-capitap75cv1",
+          "name": "Diptyque US - Eau Capitale Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Duelle",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "pink peppercorn",
+          "cypriol",
+          "incense"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-eau-duelle-duellep75cv1",
+          "name": "Diptyque US - Eau Duelle Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tempo",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "patchouli",
+          "mate",
+          "clary sage",
+          "violet"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-tempo-tempop75cv1",
+          "name": "Diptyque US - Tempo Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "34 Boulevard Saint Germain",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "vanilla",
+          "pink peppercorn"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-34-boulevard-saint-germain-34bedp75v1",
+          "name": "Diptyque US - 34 Boulevard Saint Germain Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volutes",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "honey",
+          "opoponax",
+          "cinnamon",
+          "iris"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-volutes-volutep75cv1",
+          "name": "Diptyque US - Volutes Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vetyverio",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "haitian vetiver",
+          "grapefruit",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-vetyverio-vetyp75cv1",
+          "name": "Diptyque US - Vetyverio Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau de Minthé",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fougère",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "patchouli",
+          "geranium",
+          "mint",
+          "rose oxide"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-eau-de-minthe-mintp75cv2",
+          "name": "Diptyque US - Eau de Minthé Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Ombre dans l'Eau",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1983,
+      "perfumer": null,
+      "family": "Floral fruity",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rose",
+          "blackcurrant buds",
+          "petitgrain",
+          "blackcurrant leaves"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-ombre-dans-eau-ombrep75cv2",
+          "name": "Diptyque US - L'Ombre dans l'Eau Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Benjoin Bohème",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "benzoin",
+          "peru balsam",
+          "rockrose",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-benjoin-boheme-bohemep75c",
+          "name": "Diptyque US - Benjoin Bohème Eau de Parfum Intense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Nabati",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "petitgrain",
+          "peru balsam"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-eau-nabati-nabatip75c",
+          "name": "Diptyque US - Eau Nabati Eau de Parfum Intense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Rihla",
+      "collection": null,
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "leather",
+          "iris",
+          "cedar core",
+          "raspberry"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-parfum-eau-rihla-meastp75c",
+          "name": "Diptyque US - Eau Rihla Eau de Parfum Intense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lazulio",
+      "collection": "Les Essences de Diptyque",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rhubarb",
+          "benzoin",
+          "vetiver",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-lazulio-prem06100",
+          "name": "Diptyque US - Lazulio Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corail Oscuro",
+      "collection": "Les Essences de Diptyque",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alexandra Carlin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "rose bourbon",
+          "salty mineral accord"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-corail-oscuro-corail100",
+          "name": "Diptyque US - Corail Oscuro Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois Corsé",
+      "collection": "Les Essences de Diptyque",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Nathalie Cetto",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coffee arabica",
+          "sandalwood",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-bois-corse-boiscor100",
+          "name": "Diptyque US - Bois Corsé Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose Roche",
+      "collection": "Les Essences de Diptyque",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Fabrice Pellegrin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "centifolia rose",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-rose-roche-roseroc100",
+          "name": "Diptyque US - Rose Roche Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunamaris",
+      "collection": "Les Essences de Diptyque",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Fabrice Pellegrin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink peppercorn",
+          "incense",
+          "rockrose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-lunamaris-lunamar100",
+          "name": "Diptyque US - Lunamaris Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orphéon",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "green mandarin",
+          "juniper berry",
+          "cedar"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-orpheon-orphedt100",
+          "name": "Diptyque US - Orphéon Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Philosykos",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "fig leaves",
+          "fig tree sap",
+          "fig tree wood",
+          "black pepper"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-philosykos-philo100v2",
+          "name": "Diptyque US - Philosykos Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau des Sens",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "orange blossom",
+          "angelica root",
+          "patchouli",
+          "juniper berry"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-eau-des-sens-sens100v2",
+          "name": "Diptyque US - Eau des Sens Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Eau Papier",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [
+        "blonde woods",
+        "rice steam"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white musks",
+          "mimosa",
+          "blonde woods accord",
+          "rice steam accord"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-eau-papier-papier100",
+          "name": "Diptyque US - L'Eau Papier Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ilio",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "prickly pear",
+          "bergamot",
+          "jasmine",
+          "iris"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-ilio-ilio100v4",
+          "name": "Diptyque US - Ilio Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fleur de Peau",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "iris",
+          "magnolia",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-fleur-de-peau-fleur100",
+          "name": "Diptyque US - Fleur de Peau Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Rose",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [
+        "litchi"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "damascena rose",
+          "centifolia rose",
+          "litchi accord",
+          "ambroxan"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-eau-rose-rose100v2",
+          "name": "Diptyque US - Eau Rose Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Duelle",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "pink peppercorn",
+          "cypriol",
+          "calamus"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-eau-duelle-duelle100v2",
+          "name": "Diptyque US - Eau Duelle Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "34 Boulevard Saint Germain",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [
+        "amber/patchouli"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "amber/patchouli accord",
+          "rose",
+          "cinnamon",
+          "blackcurrant buds"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-34-boulevard-saint-germain-34bedt100v1",
+          "name": "Diptyque US - 34 Boulevard Saint Germain Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Olène",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "wisteria",
+          "honeysuckle",
+          "jasmine",
+          "narcissus"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-olene-olene100v3",
+          "name": "Diptyque US - Olène Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Lente",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "opoponax",
+          "cedar",
+          "cinnamon",
+          "red tangerine"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-eau-lente-lente100v2",
+          "name": "Diptyque US - Eau Lente Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Eau Trois",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "myrrh",
+          "rockrose",
+          "incense",
+          "rosemary"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-eau-trois-trois100v2",
+          "name": "Diptyque US - L'Eau Trois Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Eau des Hespérides",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bitter orange",
+          "lemon",
+          "peppermint",
+          "immortelle"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-eau-des-hesperides-hesp100v2",
+          "name": "Diptyque US - L'Eau des Hespérides Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tam Dao",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "cedar",
+          "cypress",
+          "myrtle"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-tam-dao-tamdao100v2",
+          "name": "Diptyque US - Tam Dao Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vetyverio",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "haitian vetiver",
+          "grapefruit",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-vetyverio-vety50v2",
+          "name": "Diptyque US - Vetyverio Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Eau de Néroli",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "neroli",
+          "bergamot",
+          "orange blossom",
+          "beeswax"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-eau-de-neroli-nero100v2",
+          "name": "Diptyque US - L'Eau de Néroli Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ofrésia",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "white freesia",
+          "carnation",
+          "guaiac wood",
+          "black pepper"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-ofresia-ofresia100v2",
+          "name": "Diptyque US - Ofrésia Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geranium Odorata",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "geranium",
+          "cardamom",
+          "tonka bean",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-geranium-odorata-gera100v2",
+          "name": "Diptyque US - Geranium Odorata Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau de Lierre",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "galbanum",
+          "cyclamen",
+          "rosewood",
+          "pink peppercorn"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://us.diptyqueparis.com/products/eau-de-toilette-eau-de-lierre-lierre100v3",
+          "name": "Diptyque US - Eau de Lierre Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
