@@ -1,0 +1,461 @@
+{
+  "brand": "Armaf",
+  "slug": "armaf",
+  "officialSite": "https://armaf.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify site armaf.com: /products.json readable (first ~41 product entries read, feed truncated; page 2 read in part). Notes and families taken from official product pages (noteSource official). Years and perfumers not stated on any official page: null. Uniq 2.0 oz pages give family and concentration but no notes. Club de Nuit Woman 26945, Club de Nuit Sillage 8.4 oz, Club de Nuit Intense Woman 23014, Odyssey Tyrant 2.02 and Odyssey Limoni 3.4 duplicate entries in the feed were skipped (same notes as the kept entry or same product in another size). Club de Nuit Intense Man all-over spray and other body sprays, gift sets and bundles skipped. Christian Provenzano, SHK and Arturetto Landi lines not covered. Brand country not stated on official pages.",
+  "fragrances": [
+    {
+      "name": "Club de Nuit Timeless",
+      "collection": "Club de Nuit",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leather Woody",
+      "accords": [],
+      "notes": { "top": ["black pepper", "nutmeg"], "heart": ["cinnamon", "frankincense", "rose", "hazelnut"], "base": ["tobacco", "amber", "leather", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/club-de-nuit-timeless", "name": "Armaf - Club de Nuit Timeless", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Uniq Oud Forever",
+      "collection": "Uniq",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Oriental",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/uniq-oud-forever-2-0-oz", "name": "Armaf - Uniq Oud Forever 2.0 oz", "type": "official", "supports": ["concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Uniq Effects of Uniq",
+      "collection": "Uniq",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh and Contemporary",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/uniq-effects-of-uniq-2-0-oz", "name": "Armaf - UNIQ Effects of UNIQ 2.0 oz", "type": "official", "supports": ["concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Club de Nuit Intenso Fuego",
+      "collection": "Club de Nuit",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh Woody",
+      "accords": [],
+      "notes": { "top": ["bergamot", "grapefruit", "mandarin", "pineapple", "plum", "blackcurrant", "pink pepper", "terebinth"], "heart": ["geranium", "lavender", "solar blossom"], "base": ["honey", "tonka bean", "vanilla", "cedar", "patchouli", "white musk", "ambrettolide"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/club-de-nuit-intenso-fuego", "name": "Armaf - Club de Nuit Intenso Fuego", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Bloody Hot",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy Fruity Amber",
+      "accords": [],
+      "notes": { "top": ["black pepper", "strawberry", "bergamot"], "heart": ["bloody mary accord", "rose", "geranium", "osmanthus"], "base": ["patchouli", "benzoin", "labdanum"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-bloody-hot", "name": "Armaf - Odyssey Bloody Hot", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Jalapeach-O",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy Fruity Gourmand",
+      "accords": [],
+      "notes": { "top": ["timur pepper", "lemon", "peach"], "heart": ["freesia", "jalapeno accord"], "base": ["patchouli", "praline", "moss", "tonka bean"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-jalapeach-o", "name": "Armaf - Odyssey Jalapeach-O", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Ring My Bell",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy Green Woody",
+      "accords": [],
+      "notes": { "top": ["timur pepper", "grapefruit"], "heart": ["bell pepper", "black pepper"], "base": ["vetiver", "patchouli", "cedarwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-ring-my-bell", "name": "Armaf - Odyssey Ring My Bell", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Nexus",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh Aromatic Aquatic",
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "sea notes"], "heart": ["sage", "geranium", "rosemary", "ginger"], "base": ["frankincense", "patchouli", "balsamic", "woody notes"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-nexus", "name": "Armaf - Odyssey Nexus", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey French Kiss",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Gourmand",
+      "accords": [],
+      "notes": { "top": ["apple", "pear", "strawberry", "bergamot", "lemon", "coconut"], "heart": ["rose", "jasmine", "orange blossom", "lily of the valley", "monoi accord", "sugar"], "base": ["amber", "vanilla", "praline", "benzoin", "musky woody"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-french-kiss", "name": "Armaf - Odyssey French Kiss", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Limoni",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": { "top": ["lemon", "sweet orange", "bergamot", "mandarin"], "heart": ["ginger", "orange blossom", "marine notes"], "base": ["amber", "musk", "blue tea"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-limoni-311929", "name": "Armaf - Odyssey Limoni", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Mandarin Sky",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh",
+      "accords": [],
+      "notes": { "top": ["sage", "mandarin", "orange", "saffron"], "heart": ["caramel", "tonka bean", "tagetes"], "base": ["vetiver", "cedar", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-mandarin-sky-33436", "name": "Armaf - Odyssey Mandarin Sky", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Homme",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": { "top": ["mandarin", "neroli", "cardamom"], "heart": ["rose", "orange blossom"], "base": ["sandalwood", "vanilla", "amber", "woody accords"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-homme-29562", "name": "Armaf - Odyssey Homme", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Tyrant",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["grapefruit", "citrus"], "heart": ["pepper", "lavender", "geranium", "elemi"], "base": ["vetiver", "cedar", "woody notes", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-tyrant-34766", "name": "Armaf - Odyssey Tyrant", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Aqua",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fougere",
+      "accords": [],
+      "notes": { "top": ["grapefruit", "orange", "artemisia"], "heart": ["lavender", "mint"], "base": ["cypress", "patchouli", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-aqua-34767", "name": "Armaf - Odyssey Aqua", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Aoud",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leather",
+      "accords": [],
+      "notes": { "top": ["saffron", "nutmeg", "lavender"], "heart": ["oud", "woody notes"], "base": ["patchouli", "musk", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-aoud-34765", "name": "Armaf - Odyssey Aoud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Wild One",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["bergamot", "pepper", "lemon", "mint"], "heart": ["pink pepper", "lavender", "vetiver", "ginger"], "base": ["patchouli", "sandalwood", "cedar", "elemi", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-wild-one-34774", "name": "Armaf - Odyssey Wild One", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Spectra",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leather",
+      "accords": [],
+      "notes": { "top": ["cinnamon", "bergamot", "apple"], "heart": ["lavender", "lily of the valley", "orange blossom"], "base": ["tobacco", "amber", "tonka bean", "patchouli", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-spectra-311930", "name": "Armaf - Odyssey Spectra", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Odyssey Candee Special Edition",
+      "collection": "Odyssey",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["green notes", "orange"], "heart": ["honeysuckle", "tuberose", "egyptian jasmine"], "base": ["vanilla", "orris", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/odyssey-candee-special-edition-311931", "name": "Armaf - Odyssey Candee Special Edition", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Club de Nuit Imperiale",
+      "collection": "Club de Nuit",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["litchi", "bergamot", "nutmeg"], "heart": ["turkish rose", "peony", "musk", "vanilla"], "base": ["cashmeran", "cedar", "incense", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/club-de-nuit-imperiale-34769", "name": "Armaf - Club de Nuit Imperiale", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Club de Nuit Iconic",
+      "collection": "Club de Nuit",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber",
+      "accords": [],
+      "notes": { "top": ["grapefruit", "lemon", "mint", "pink pepper", "coriander"], "heart": ["ginger", "nutmeg", "jasmine", "melon"], "base": ["incense", "amber", "cedar", "sandalwood", "patchouli", "labdanum", "woody notes"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/club-de-nuit-iconic-34768", "name": "Armaf - Club de Nuit Iconic", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Club de Nuit Woman",
+      "collection": "Club de Nuit",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["bergamot", "grapefruit", "peach", "orange"], "heart": ["geranium", "jasmine", "litchi", "rose"], "base": ["musk", "patchouli", "vanilla", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/club-de-nuit-woman-21545", "name": "Armaf - Club de Nuit Woman", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Club de Nuit Intense Woman",
+      "collection": "Club de Nuit Intense",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leather",
+      "accords": [],
+      "notes": { "top": ["rose", "saffron", "geranium"], "heart": ["nutmeg", "pepper", "violet", "caraway"], "base": ["patchouli", "agarwood", "vanilla", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/club-de-nuit-intense-woman-35721", "name": "Armaf - Club de Nuit Intense Woman", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Club de Nuit Untold",
+      "collection": "Club de Nuit",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["saffron", "jasmine"], "heart": ["amberwood", "ambergris"], "base": ["fir resin", "cedar"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/club-de-nuit-untold-34770", "name": "Armaf - Club de Nuit Untold", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Club de Nuit Elite",
+      "collection": "Club de Nuit",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus Aromatic",
+      "accords": [],
+      "notes": { "top": ["green tea", "bergamot", "apple", "sichuan pepper", "pink pepper"], "heart": ["rosa centiflora", "geranium", "blackcurrant", "aromatic", "earthy"], "base": ["vetiver", "amber", "cedarwood", "musk", "cashmeran"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/club-de-nuit-elite-1", "name": "Armaf - Club de Nuit Elite", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Club de Nuit Sillage",
+      "collection": "Club de Nuit",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lemon", "lime", "ginger", "blackcurrant", "violet leaves"], "heart": ["jasmine", "iris", "rose"], "base": ["sandalwood", "cedarwood", "musk", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/club-de-nuit-sillage-3-6", "name": "Armaf - Club de Nuit Sillage 3.6", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Niche Red Ruby",
+      "collection": "Armaf Niche",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["lily of the valley", "mandarin", "bergamot"], "heart": ["lychee", "tuberose"], "base": ["musk", "vanilla", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/armaf-niche-red-ruby", "name": "Armaf - Niche Red Ruby", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Hunter For Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["cardamom", "cedar leaf", "rosemary", "grapefruit"], "heart": ["olibanum", "ylang-ylang", "tuberose"], "base": ["cedarwood", "sandalwood", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/hunter-for-man", "name": "Armaf - Hunter For Man", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Aura",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["apple", "cardamom", "lemon", "bergamot"], "heart": ["geranium", "lavender", "pepper", "violet", "iris"], "base": ["amber", "musk", "sandalwood", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/aura", "name": "Armaf - Aura", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Oros Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leather",
+      "accords": [],
+      "notes": { "top": ["raspberry", "saffron", "rose"], "heart": ["orange blossom", "carnation"], "base": ["oud", "patchouli", "amber", "musk", "vanilla", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/oros-oud", "name": "Armaf - Oros Oud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Miss Armaf Attitude",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["almond", "rose", "jasmine", "bergamot"], "heart": ["tuberose", "orange blossom", "narcissus", "coffee"], "base": ["vanilla", "tonka bean", "amber", "sandalwood", "cedar"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://armaf.com/products/miss-armaf-attitude", "name": "Armaf - Miss Armaf Attitude", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    }
+  ]
+}

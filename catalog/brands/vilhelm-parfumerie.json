@@ -1,0 +1,161 @@
+{
+  "brand": "Vilhelm Parfumerie",
+  "slug": "vilhelm-parfumerie",
+  "officialSite": "https://vilhelmparfumerie.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Shopify store; products.json feed read (first 30 and a 49-item page, feed truncated by the fetch tool). Notes read from official product pages. Oligarch product page returned 404, so it is omitted. Limited editions and 2 ml samples skipped. 3x10 ml kits used only as the source page for the same fragrance. Family and release year not stated on the official pages.",
+  "fragrances": [
+    {
+      "name": "Machiavelli",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["green apple", "pineapple", "black pepper"], "heart": ["patchouli", "white tobacco", "tonka bean"], "base": ["musk", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/machiavelli", "name": "Vilhelm Parfumerie - Machiavelli", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Morning Chess",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot"], "heart": ["tuscan leather", "galbanum"], "base": ["patchouli", "black amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/fggddgstthrdthtsrhrhdfeededed", "name": "Vilhelm Parfumerie - Morning Chess", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Modest Mimosa",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["neroli", "carrot"], "heart": ["mimosa", "violet"], "base": ["musk", "leather"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/modest-mimosa-50-ml", "name": "Vilhelm Parfumerie - Modest Mimosa", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Poets of Berlin",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["blueberry", "lemon"], "heart": ["vanilla", "green wild orris"], "base": ["vanilla", "sandalwood", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/poets-of-berlin-50-ml", "name": "Vilhelm Parfumerie - Poets of Berlin", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Faces of Francis",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["aldehydes", "saffron"], "heart": ["grilled pistachio", "juniper wood", "driftwood"], "base": ["oud", "ambergris", "cypriol", "vetiver", "fumed styrax"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/yjdtydytfgfxuktthgdet", "name": "Vilhelm Parfumerie - Faces of Francis", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Room Service",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin nectar", "blackberry"], "heart": ["pink orchid", "bamboo", "violet"], "base": ["black amber", "musk", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/room-service-3-x10-ml", "name": "Vilhelm Parfumerie - Room Service", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Dear Lord",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot"], "heart": ["papyrus", "vanilla"], "base": ["sandalwood", "palo santo"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/dear-lord", "name": "Vilhelm Parfumerie - Dear Lord", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Dear Polly",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "apple"], "heart": ["ceylon black tea"], "base": ["oakmoss", "musk", "black amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/dear-polly-3-x10-ml", "name": "Vilhelm Parfumerie - Dear Polly", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "To My Father",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Bertrand Duchaufour",
+      "family": null,
+      "accords": ["whisky"],
+      "notes": { "top": ["ambrette seed", "bitter orange", "davana"], "heart": ["cabreuva", "whisky", "cade"], "base": ["aetoxylon", "oakwood", "leather"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/to-my-father-3-x10-ml", "name": "Vilhelm Parfumerie - To My Father", "type": "official", "supports": ["notes", "concentration", "perfumer", "accords"] }
+      ]
+    },
+    {
+      "name": "Purple Fig",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["sichuan pepper", "angelica seed"], "heart": ["galbanum", "green fig", "jasmine absolute"], "base": ["vetiver", "cashmere wood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://vilhelmparfumerie.com/products/purple-fig", "name": "Vilhelm Parfumerie - Purple Fig", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    }
+  ]
+}

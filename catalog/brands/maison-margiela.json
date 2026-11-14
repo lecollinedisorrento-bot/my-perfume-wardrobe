@@ -1,0 +1,281 @@
+{
+  "brand": "Maison Margiela",
+  "slug": "maison-margiela",
+  "officialSite": "https://www.maisonmargiela.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The official boutique (maisonmargiela.com men's fragrance page) and the official fragrance site (maisonmargiela-fragrances.us, Replica EDP page) returned HTTP 403 on every fetch, so no official product page could be read. The range was taken from the Olfastory brand listing (pages 1 and 2, 18 fragrances; the listing has no page 3) and each product's Olfastory page, so all notes are recorded as reported. Parfumo and Fragrantica brand or product pages returned 403 and were not used. Mutiny (2018) and Coffee Break were not included: retailer pages for Mutiny returned 403, and the Coffee Break notes conflicted between sources, so no note list could be confirmed. Launch years and perfumers are included only where the Olfastory page states them; REPLICA By the Fireplace, Afternoon Delight, Greenwood Getaway and Letter Never Sent have no stated perfumer, so those are null. Greenwood Getaway and Letter Never Sent have notes not split into top, heart and base, so Greenwood Getaway's are in flat and Letter Never Sent's heart and base are kept as stated. Brand-level country not stated on any page read.",
+  "fragrances": [
+    {
+      "name": "Greenwood Getaway",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2026,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rosemary", "hinoki", "fir balsam"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-greenwood-getaway", "name": "Olfastory — Maison Margiela Greenwood Getaway", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Under the Stars",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2023,
+      "perfumer": "Meabh McCurtin",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["black pepper", "cinnamon"], "heart": ["cypriol", "cedar"], "base": ["labdanum", "oud", "leather"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-under-the-stars", "name": "Olfastory — Maison Margiela REPLICA Under the Stars", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Ideal One",
+      "collection": "Replica",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": "Christophe Raynaud",
+      "family": "Fougère",
+      "accords": [],
+      "notes": { "top": ["elemi", "orange", "bergamot"], "heart": ["orange blossom", "lavender"], "base": ["vanilla", "guaiac wood", "styrax", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-ideal-one", "name": "Olfastory — Maison Margiela REPLICA Ideal One", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Chasing Sunsets",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2026,
+      "perfumer": "Elise Bénat, Dora Baghriche, Coralie Spicher, Gabriela Chelariu",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["mango", "cardamom"], "heart": ["tuberose"], "base": ["sandalwood", "vanilla", "moss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-chasing-sunsets", "name": "Olfastory — Maison Margiela REPLICA Chasing Sunsets", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Autumn Vibes",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2021,
+      "perfumer": "Fanny Bal",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["pink pepper", "coriander", "cardamom"], "heart": ["carrot", "nutmeg", "olibanum"], "base": ["cedar", "moss", "fir"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-autumn-vibes", "name": "Olfastory — Maison Margiela REPLICA Autumn Vibes", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA When the Rain Stops",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2021,
+      "perfumer": "Fanny Bal",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["bergamot", "green note", "pink pepper"], "heart": ["marine note", "rose", "jasmine"], "base": ["pine", "patchouli", "moss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-when-the-rain-stops", "name": "Olfastory — Maison Margiela REPLICA When the Rain Stops", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Bubble Bath",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2020,
+      "perfumer": "Violaine Collas",
+      "family": "Chypre",
+      "accords": [],
+      "notes": { "top": ["pink pepper", "bergamot"], "heart": ["lavender", "rose", "jasmine"], "base": ["patchouli", "coconut milk", "white musks"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-bubble-bath", "name": "Olfastory — Maison Margiela REPLICA Bubble Bath", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Lost Eden",
+      "collection": "Replica",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Honorine Blanc",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["apple"], "heart": ["vanilla"], "base": ["oud"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-lost-eden", "name": "Olfastory — Maison Margiela REPLICA Lost Eden", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA On a Date",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2022,
+      "perfumer": "Carlos Benaïm",
+      "family": "Chypre",
+      "accords": [],
+      "notes": { "top": ["blackcurrant", "bergamot", "pink pepper"], "heart": ["rose", "geranium", "davana"], "base": ["patchouli", "vetiver", "moss", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-on-a-date", "name": "Olfastory — Maison Margiela REPLICA On a Date", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Sailing Day",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2017,
+      "perfumer": "Violaine Collas",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["marine note", "calone", "aldehydes", "juniper berries"], "heart": ["coriander", "iris", "rose"], "base": ["seaweed", "ambergris", "amber woods"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-sailing-day", "name": "Olfastory — Maison Margiela REPLICA Sailing Day", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Never Ending Summer",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2025,
+      "perfumer": "Christophe Raynaud",
+      "family": "Citrus",
+      "accords": [],
+      "notes": { "top": ["bitter orange", "pepper"], "heart": ["tea", "cardamom", "nutmeg"], "base": ["vetiver", "cedar", "patchouli"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-never-ending-summer", "name": "Olfastory — Maison Margiela REPLICA Never Ending Summer", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Letter Never Sent",
+      "collection": "Replica",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": [], "heart": ["cedar"], "base": ["white musks"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-letter-never-sent", "name": "Olfastory — Maison Margiela REPLICA Letter Never Sent", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
+      ]
+    },
+    {
+      "name": "Replica Beach Walk",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2012,
+      "perfumer": "Jacques Cavallier, Marie Salamagne",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["bergamot", "lemon", "pink pepper"], "heart": ["ylang-ylang", "coconut milk", "heliotrope"], "base": ["musk", "cedar", "benzoin"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-beach-walk", "name": "Olfastory — Maison Margiela Replica Beach Walk", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Jazz Club",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2013,
+      "perfumer": "Aliénor Massenet",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["pink pepper", "lemon", "neroli"], "heart": ["rum", "clary sage", "vetiver"], "base": ["tobacco", "vanilla", "styrax"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-jazz-club", "name": "Olfastory — Maison Margiela REPLICA Jazz Club", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA Lazy Sunday Morning",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2013,
+      "perfumer": "Louise Turner",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["aldehydes", "pear", "lily of the valley"], "heart": ["iris", "rose", "orange blossom"], "base": ["white musks", "patchouli", "ambrette"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/replica-lazy-sunday-morning", "name": "Olfastory — Maison Margiela REPLICA Lazy Sunday Morning", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Afternoon Delight Eau de Toilette",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["bitter almond", "angelica"], "heart": ["madeleine", "carrot", "ambrette"], "base": ["sandalwood", "vanilla", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/afternoon-delight-eau-de-toilette", "name": "Olfastory — Maison Margiela Afternoon Delight Eau de Toilette", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
+      ]
+    },
+    {
+      "name": "REPLICA By the Fireplace",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2015,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["orange blossom", "pink pepper", "clove"], "heart": ["guaiac wood", "juniper berries", "chestnut"], "base": ["vanilla", "peru balsam", "cashmeran"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/replica-by-the-fireplace", "name": "Olfastory — Maison Margiela REPLICA By the Fireplace", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
+      ]
+    },
+    {
+      "name": "Replica Up At Dawn",
+      "collection": "Replica",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2026,
+      "perfumer": "Juliette Karagueuzoglou",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["pink pepper"], "heart": ["rose"], "base": ["musk", "patchouli", "oakmoss", "cashmere wood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/replica-up-at-dawn", "name": "Olfastory — Maison Margiela REPLICA Up At Dawn", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    }
+  ]
+}

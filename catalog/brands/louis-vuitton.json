@@ -1,0 +1,326 @@
+{
+  "brand": "Louis Vuitton",
+  "slug": "louis-vuitton",
+  "officialSite": "https://us.louisvuitton.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The official Louis Vuitton perfume listing (us.louisvuitton.com all-perfumes page) returned HTTP 403, and so did Parfumo and Fragrantica brand pages, so no official or database listing page could be read for the range. The range was taken from the Olfastory Louis Vuitton brand listing (louis-vuitton-malletier, pages 1 and 2, 20 fragrances) and each product's Olfastory page, so notes are recorded as reported. Ombre Nomade is not on the Olfastory listing; it was added from a Scento product page that states its notes and perfumer, with concentration not stated, so it is null. Concentration is null where the page gives none (California Dream, City Of Stars, Symphony, Pacific Chill, which also conflicts between eau de parfum and eau de cologne on its page). Pacific Chill's notes are not split into tiers on the page, so they are in flat. Launch years and perfumers are included only where the page states them. Other Louis Vuitton fragrances named only in search summaries (for example L'Immensite, Spell on You, Sun Song) were not added because no opened page confirmed their notes. Brand-level country not stated on any page read.",
+  "fragrances": [
+    {
+      "name": "California Dream",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2020,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": [], "heart": ["mandarin", "benzoin"], "base": ["musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-california-dream", "name": "Olfastory — Louis Vuitton California Dream", "type": "database", "supports": ["notes", "family", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Rain Tea",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": "Jacques Cavallier",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["lemongrass"], "heart": ["tea", "magnolia", "rose"], "base": [], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-rain-tea", "name": "Olfastory — Louis Vuitton Rain Tea", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Attrape-Rêves",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2018,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["lychee", "bergamot", "ginger"], "heart": ["peony", "cocoa", "rose", "patchouli"], "base": [], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-attrape-reves", "name": "Olfastory — Louis Vuitton Attrape-Rêves", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Imagination Keith Haring Edition",
+      "collection": "Imagination",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Jacques Cavallier",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["bergamot", "orange", "citron"], "heart": ["neroli", "ginger", "cinnamon"], "base": ["ambroxan", "black tea", "guaiac wood", "olibanum"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-imagination-keith-haring-edition", "name": "Olfastory — Louis Vuitton Imagination Keith Haring Edition", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "City Of Stars",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2022,
+      "perfumer": "Jacques Cavallier",
+      "family": "Citrus",
+      "accords": [],
+      "notes": { "top": ["blood orange", "lemon", "mandarin", "bergamot", "lime"], "heart": ["tiare flower"], "base": ["sandalwood", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-city-of-stars", "name": "Olfastory — Louis Vuitton City Of Stars", "type": "database", "supports": ["notes", "family", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Pacific Chill",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "family": "Aromatic",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["blackcurrant", "citron", "lemon", "coriander", "ambrette", "basil", "mint", "orange", "carrot", "apricot", "dates", "fig", "rose"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-pacific-chill", "name": "Olfastory — Louis Vuitton Pacific Chill", "type": "database", "supports": ["notes", "family", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Imagination",
+      "collection": "Imagination",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2021,
+      "perfumer": "Jacques Cavallier",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["bergamot", "orange", "citron"], "heart": ["neroli", "ginger", "cinnamon"], "base": ["ambroxan", "black tea", "guaiac wood", "olibanum"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/imagination-louis-vuitton/composition", "name": "Olfastory — Louis Vuitton Imagination composition", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Symphony",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2021,
+      "perfumer": "Jacques Cavallier",
+      "family": "Citrus",
+      "accords": [],
+      "notes": { "top": [], "heart": ["grapefruit", "bergamot", "ginger", "orange"], "base": [], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/symphony-louis-vuitton", "name": "Olfastory — Louis Vuitton Symphony", "type": "database", "supports": ["notes", "family", "year", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Météore",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2020,
+      "perfumer": "Jacques Cavallier",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "orange"], "heart": ["neroli", "black pepper", "pink pepper", "sichuan pepper", "cardamom", "nutmeg"], "base": ["vetiver"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/meteore", "name": "Olfastory — Louis Vuitton Météore", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Nuit De Feu",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2020,
+      "perfumer": "Jacques Cavallier",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["incense", "resin"], "heart": ["leather"], "base": ["musk", "oud"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/nuit-de-feu", "name": "Olfastory — Louis Vuitton Nuit De Feu", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Heures d'Absence",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2020,
+      "perfumer": "Jacques Cavallier",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["rose", "jasmine"], "heart": ["pittosporum", "raspberry", "mimosa"], "base": ["musk", "sandalwood", "vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/heures-dabsence", "name": "Olfastory — Louis Vuitton Heures d'Absence", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cœur Battant",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2019,
+      "perfumer": "Jacques Cavallier",
+      "family": "Chypre",
+      "accords": [],
+      "notes": { "top": ["pear", "ambrette", "marine note"], "heart": ["jasmine", "ylang-ylang", "narcissus"], "base": ["tree moss", "patchouli"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/coeur-battant", "name": "Olfastory — Louis Vuitton Cœur Battant", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Le Jour se Lève",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2018,
+      "perfumer": "Jacques Cavallier",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": ["mandarin", "blackcurrant"], "heart": ["jasmine", "magnolia", "osmanthus"], "base": ["musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/le-jour-se-leve", "name": "Olfastory — Louis Vuitton Le Jour se Lève", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Contre Moi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": "Jacques Cavallier",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["green note"], "heart": ["magnolia", "orange blossom", "rose"], "base": ["ambrette", "cocoa", "vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/contre-moi", "name": "Olfastory — Louis Vuitton Contre Moi", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Turbulences",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": "Jacques Cavallier",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["jasmine"], "heart": ["magnolia", "rose", "tuberose"], "base": ["leather", "sandalwood", "white musks"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/turbulences-0", "name": "Olfastory — Louis Vuitton Turbulences", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Matière Noire",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": "Jacques Cavallier",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["blackcurrant"], "heart": ["narcissus", "jasmine"], "base": ["oud", "patchouli"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/matiere-noire", "name": "Olfastory — Louis Vuitton Matière Noire", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Apogée",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": ["lily of the valley", "jasmine", "magnolia", "rose"], "base": ["guaiac wood", "sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/apogee", "name": "Olfastory — Louis Vuitton Apogée", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Mille Feux",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "family": "Leather",
+      "accords": [],
+      "notes": { "top": ["raspberry"], "heart": ["osmanthus", "iris", "saffron"], "base": ["leather"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/mille-feux", "name": "Olfastory — Louis Vuitton Mille Feux", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Rose des Vents",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": "Jacques Cavallier",
+      "family": "Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": ["centifolia rose", "iris", "osmanthus"], "base": ["cedar", "pepper"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/rose-des-vents", "name": "Olfastory — Louis Vuitton Rose des Vents", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Dans la Peau",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2016,
+      "perfumer": "Jacques Cavallier",
+      "family": "Chypre",
+      "accords": [],
+      "notes": { "top": ["apricot", "marine note"], "heart": ["jasmine", "magnolia", "narcissus"], "base": ["leather", "white musks"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/dans-la-peau", "name": "Olfastory — Louis Vuitton Dans la Peau", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Ombre Nomade",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2018,
+      "perfumer": "Jacques Cavallier Belletrud",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["oud", "raspberry"], "heart": ["rose", "saffron", "geranium"], "base": ["frankincense", "benzoin"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.scento.com/perfumes/ombre-nomade-louis-vuitton", "name": "Scento — Louis Vuitton Ombre Nomade", "type": "retailer", "supports": ["notes", "year", "perfumer"] }
+      ]
+    }
+  ]
+}
