@@ -1,0 +1,527 @@
+{
+  "brand": "Moschino",
+  "slug": "moschino",
+  "officialSite": "https://www.moschinobeauty.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Moschino Beauty shop (moschinobeauty.com, the brand's dedicated fragrance site) Shopify feed read with curl; product descriptions read from each product's .js endpoint. Concentration comes from the product type on each official page. Notes are taken only where the description names them; several descriptions name no notes (Pink Fresh Couture, Gold Fresh Couture, I Love Love), so those have no notes. Flankers in the feed (sizes, gift sets, body care, deodorant, hair mist) were skipped; the classic 1987 Moschino fragrance was not found on the official feed and is not listed. Launch years, perfumers and families are not stated on the pages read. moschino.com men's and women's fragrance pages were not used, and country is not stated on any page read.",
+  "fragrances": [
+    {
+      "name": "Toy Boy",
+      "collection": "Toy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "nutmeg",
+          "pear"
+        ],
+        "heart": [
+          "rose",
+          "magnolia",
+          "flax flower"
+        ],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/toy-boy",
+          "name": "Moschino Beauty — TOY BOY",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toy Boy 2",
+      "collection": "Toy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "nutmeg",
+          "ginger"
+        ],
+        "heart": [
+          "coffee",
+          "cedarwood"
+        ],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/toy-boy-2",
+          "name": "Moschino Beauty — TOY BOY 2",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toy 2",
+      "collection": "Toy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "apple",
+          "mandarin",
+          "magnolia",
+          "peony",
+          "jasmine",
+          "musk",
+          "sandalwood",
+          "amberwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/toy-2",
+          "name": "Moschino Beauty — TOY 2",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toy 2 Pearl",
+      "collection": "Toy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "lemon sorbet"
+        ],
+        "heart": [
+          "jasmine",
+          "sand",
+          "freesia"
+        ],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/toy-2-pearl",
+          "name": "Moschino Beauty — TOY 2 PEARL",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toy 2 Bubble Gum",
+      "collection": "Toy",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bubble gum",
+          "candied citrus",
+          "peach",
+          "spices",
+          "woods",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/toy-2-bubble-gum",
+          "name": "Moschino Beauty — TOY 2 BUBBLE GUM",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toy 2 Gummy",
+      "collection": "Toy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "blood orange"
+        ],
+        "heart": [
+          "praline",
+          "milk"
+        ],
+        "base": [
+          "madagascar vanilla",
+          "benzoin",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/toy-2-gummy",
+          "name": "Moschino Beauty — TOY 2 GUMMY",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toy 2 Yummy",
+      "collection": "Toy",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine sambac",
+          "geranium",
+          "timut",
+          "black pepper"
+        ],
+        "base": [
+          "rose",
+          "vetiver",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/toy-2-yummy",
+          "name": "Moschino Beauty — TOY 2 YUMMY",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fresh Couture",
+      "collection": "Fresh Couture",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "mandarin",
+          "ylang-ylang",
+          "raspberry",
+          "white peony",
+          "osmanthus",
+          "woods"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/fresh-couture",
+          "name": "Moschino Beauty — FRESH COUTURE",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pink Fresh Couture",
+      "collection": "Fresh Couture",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/pink-fresh-couture",
+          "name": "Moschino Beauty — PINK FRESH COUTURE",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gold Fresh Couture",
+      "collection": "Fresh Couture",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/gold-fresh-couture",
+          "name": "Moschino Beauty — GOLD FRESH COUTURE",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheap and Chic",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "yuzu"
+        ],
+        "heart": [
+          "peony",
+          "wild rose"
+        ],
+        "base": [
+          "sandalwood",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/cheap-and-chic",
+          "name": "Moschino Beauty — CHEAP AND CHIC",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Funny!",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bitter orange",
+          "pink pepper",
+          "jasmine",
+          "peony"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/funny",
+          "name": "Moschino Beauty — FUNNY!",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I Love Love",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [
+        "citrus",
+        "floral",
+        "woody"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/i-love-love",
+          "name": "Moschino Beauty — I LOVE LOVE",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uomo?",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "kumquat",
+          "coriander",
+          "cyclamen",
+          "cinnamon leaf",
+          "musk",
+          "woods"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/uomo",
+          "name": "Moschino Beauty — UOMO?",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pour Femme",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "amber",
+          "woods",
+          "pepper",
+          "gardenia",
+          "rose"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.moschinobeauty.com/products/pour-femme",
+          "name": "Moschino Beauty — POUR FEMME",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

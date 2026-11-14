@@ -1,0 +1,652 @@
+{
+  "brand": "Ariana Grande",
+  "slug": "ariana-grande",
+  "officialSite": "https://arianagrandefragrances.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed (products.json) read in full; notes taken from the official product descriptions. Vault, gift sets, duos and travel sets skipped. Concentration only where the page states Eau de Parfum; no release years stated. Tags mention \"Legacy\" but no page states discontinued.",
+  "fragrances": [
+    {
+      "name": "Cloud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender",
+          "pear",
+          "bergamot"
+        ],
+        "heart": [
+          "coconut",
+          "praline",
+          "vanilla"
+        ],
+        "base": [
+          "musk",
+          "wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/cloud",
+          "name": "Ariana Grande Fragrances — Cloud",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cloud Pink",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "berry",
+          "fruit"
+        ],
+        "heart": [
+          "vanilla",
+          "ambrette"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "wood"
+        ],
+        "flat": [
+          "moss",
+          "praline"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/cloud-pink",
+          "name": "Ariana Grande Fragrances — Cloud Pink",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cloud Aurora",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "blackcurrant",
+          "sugar",
+          "musk",
+          "vanilla",
+          "petal",
+          "wood",
+          "amber",
+          "smoke"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/cloud-aurora",
+          "name": "Ariana Grande Fragrances — Cloud Aurora",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cloud 2.0 Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/cloud-2-0-intense",
+          "name": "Ariana Grande Fragrances — Cloud 2.0 Intense",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thank U, Next",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "raspberry"
+        ],
+        "heart": [
+          "coconut",
+          "rose"
+        ],
+        "base": [
+          "musk"
+        ],
+        "flat": [
+          "macaroon"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/thank-u-next",
+          "name": "Ariana Grande Fragrances — Thank U, Next",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thank U Next 2.0",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "strawberry",
+          "pomegranate"
+        ],
+        "heart": [],
+        "base": [
+          "marshmallow",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/thank-u-next-2-0",
+          "name": "Ariana Grande Fragrances — Thank U Next 2.0",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "God Is A Woman",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "ambrette"
+        ],
+        "heart": [
+          "rose",
+          "orris"
+        ],
+        "base": [
+          "vanilla",
+          "cedar",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/god-is-a-woman",
+          "name": "Ariana Grande Fragrances — God Is A Woman",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sweet Like Candy",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackberry",
+          "bergamot"
+        ],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cassis",
+          "marshmallow",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/sweet-like-candy",
+          "name": "Ariana Grande Fragrances — Sweet Like Candy",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "R.E.M.",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "fig",
+          "caramel",
+          "lavender",
+          "pear blossom",
+          "musk",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/r-e-m",
+          "name": "Ariana Grande Fragrances — R.E.M.",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "R.E.M. Cherry Eclipse",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "honeysuckle",
+          "black cherry"
+        ],
+        "heart": [
+          "jasmine",
+          "marshmallow"
+        ],
+        "base": [
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/r-e-m-cherry-eclipse",
+          "name": "Ariana Grande Fragrances — R.E.M. Cherry Eclipse",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ari",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "grapefruit",
+          "raspberry"
+        ],
+        "heart": [
+          "muguet",
+          "rose",
+          "vanilla"
+        ],
+        "base": [
+          "musk",
+          "wood",
+          "marshmallow"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/ari-by-ariana-grande",
+          "name": "Ariana Grande Fragrances — Ari",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Moonlight",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/moonlight",
+          "name": "Ariana Grande Fragrances — Moonlight",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "MOD Blush",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "passion fruit",
+          "raspberry",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose",
+          "magnolia",
+          "pear"
+        ],
+        "base": [
+          "ambrox",
+          "dreamwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/mod-blush",
+          "name": "Ariana Grande Fragrances — MOD Blush",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MOD Vanilla",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "plum",
+          "musk",
+          "freesia"
+        ],
+        "heart": [
+          "orris",
+          "praline"
+        ],
+        "base": [
+          "vanilla",
+          "cocoa"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/mod-vanilla",
+          "name": "Ariana Grande Fragrances — MOD Vanilla",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LOVENOTES Vanilla Suede",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [
+          "sandalwood",
+          "rice milk"
+        ],
+        "base": [
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/lovenotes-vanilla-suede",
+          "name": "Ariana Grande Fragrances — LOVENOTES Vanilla Suede",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LOVENOTES Angels Kiss",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "berry",
+          "rose water"
+        ],
+        "heart": [
+          "musk",
+          "rose"
+        ],
+        "base": [
+          "amber",
+          "wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/lovenotes-angels-kiss",
+          "name": "Ariana Grande Fragrances — LOVENOTES Angels Kiss",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LOVENOTES Pink Woods",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "vetiver",
+          "lotus"
+        ],
+        "base": [
+          "tonka bean",
+          "cashmere wood",
+          "cotton candy"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/lovenotes-pink-woods",
+          "name": "Ariana Grande Fragrances — LOVENOTES Pink Woods",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LOVENOTES Pressed Petals",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "violet leaf",
+          "jasmine",
+          "raspberry"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "marshmallow"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://arianagrandefragrances.com/products/lovenotes-pressed-petals",
+          "name": "Ariana Grande Fragrances — LOVENOTES Pressed Petals",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

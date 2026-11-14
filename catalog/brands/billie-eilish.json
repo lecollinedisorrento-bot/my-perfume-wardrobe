@@ -1,0 +1,213 @@
+{
+  "brand": "Billie Eilish",
+  "slug": "billie-eilish",
+  "officialSite": "https://store.billieeilish.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed (products.json) read in full; the Eilish fragrance range is on the official store Fragrance page. Notes from the official product descriptions; concentration from the official product titles. Body oil, diffuser, duo, gift sets, refills and merchandise skipped. Release years not stated on the pages.",
+  "fragrances": [
+    {
+      "name": "Eilish",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "petal",
+          "vanilla",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://store.billieeilish.com/products/eilish-eau-de-parfum",
+          "name": "Billie Eilish Store — Eilish",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eilish Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "amber",
+          "spice",
+          "wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://store.billieeilish.com/products/eilish-intense-eau-de-parfum",
+          "name": "Billie Eilish Store — Eilish Intense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eilish No. 2",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "apple blossom",
+          "poppy",
+          "palo santo"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://store.billieeilish.com/products/eilish-no-2-eau-de-parfum",
+          "name": "Billie Eilish Store — Eilish No. 2",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eilish No. 3",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Woody",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pink peppercorn",
+          "fir needle",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://store.billieeilish.com/products/eilish-no-3-eau-de-parfum",
+          "name": "Billie Eilish Store — Eilish No. 3",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "YOUR TURN",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ginger",
+          "peach",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://store.billieeilish.com/products/your-turn-eau-de-parfum",
+          "name": "Billie Eilish Store — YOUR TURN",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "YOUR TURN II",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pimento berry",
+          "cassis leaf"
+        ],
+        "heart": [
+          "fig",
+          "black tea",
+          "vanilla"
+        ],
+        "base": [
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://store.billieeilish.com/products/your-turn-ii-eau-de-parfum",
+          "name": "Billie Eilish Store — YOUR TURN II",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

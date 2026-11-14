@@ -1,0 +1,58 @@
+{
+  "brand": "Fenty Beauty",
+  "slug": "fenty-beauty",
+  "officialSite": "https://fentybeauty.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed (products.json, all pages) read in full. Only the Eau de Parfum itself is listed: solid, hair/body mists and gift sets skipped. Notes combined from the EDP page and the official travel set page, which lists the EDP notes in full. No release year or country stated on the pages.",
+  "fragrances": [
+    {
+      "name": "Fenty Eau de Parfum",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Warm Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "magnolia",
+          "musk",
+          "tangerine",
+          "rose",
+          "vanilla",
+          "blueberry",
+          "coconut",
+          "geranium",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fentybeauty.com/products/fenty-eau-de-parfum",
+          "name": "Fenty Beauty — Fenty Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://fentybeauty.com/products/fenty-eau-de-parfum-travel-set",
+          "name": "Fenty Beauty — Fenty Eau De Parfum Travel Set + Refills",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

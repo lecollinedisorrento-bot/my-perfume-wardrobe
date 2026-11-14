@@ -1,0 +1,191 @@
+{
+  "brand": "Glossier",
+  "slug": "glossier",
+  "officialSite": "https://www.glossier.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed (products.json) read in full; notes from the official product descriptions. Only the Glossier You eau de parfum range listed; sets, duos, solid, body spritz, candles and sample cards skipped. Concentration not stated on the pages. No release year stated.",
+  "fragrances": [
+    {
+      "name": "Glossier You",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper"
+        ],
+        "heart": [
+          "iris"
+        ],
+        "base": [
+          "ambrox",
+          "ambrette"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.glossier.com/products/glossier-you",
+          "name": "Glossier — Glossier You",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glossier You Soie",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "rice milk",
+          "tiare",
+          "jasmine"
+        ],
+        "base": [
+          "ambrox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.glossier.com/products/glossier-you-soie",
+          "name": "Glossier — Glossier You Soie",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glossier You Fleur",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mineral salt"
+        ],
+        "heart": [
+          "osmanthus",
+          "ylang ylang",
+          "apricot",
+          "cashmeran"
+        ],
+        "base": [
+          "ambrox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.glossier.com/products/glossier-you-fleur",
+          "name": "Glossier — Glossier You Fleur",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glossier You Rêve",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "buttercream"
+        ],
+        "heart": [
+          "plum butter",
+          "toasted almond",
+          "iris",
+          "sandalwood"
+        ],
+        "base": [
+          "ambrox",
+          "ambrette"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.glossier.com/products/glossier-you-reve",
+          "name": "Glossier — Glossier You Rêve",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glossier You Doux",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "violet"
+        ],
+        "heart": [
+          "palo santo",
+          "frankincense",
+          "myrrh"
+        ],
+        "base": [
+          "ambrette",
+          "ambrox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.glossier.com/products/glossier-you-doux",
+          "name": "Glossier — Glossier You Doux",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
+      ]
+    }
+  ]
+}

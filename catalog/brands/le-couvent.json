@@ -1,0 +1,1030 @@
+{
+  "brand": "Le Couvent Maison de Parfum",
+  "slug": "le-couvent",
+  "officialSite": "https://fr.lecouventparfums.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify catalogue (products.json) read in full: 80 items, of which 29 are main-line perfumes (Signatures, Remarquables, Eaux de parfum singulières, Botaniques). Notes from the official product descriptions. Concentration only where the product text states it; 10 ml vials, samples, gift sets and body care skipped. Years, perfumers and families are not stated on the official pages and are left empty.",
+  "fragrances": [
+    {
+      "name": "Tonka",
+      "collection": "Parfums Signatures",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "cardamom",
+          "almond"
+        ],
+        "heart": [
+          "rose",
+          "patchouli"
+        ],
+        "base": [
+          "vanilla",
+          "benzoin",
+          "tonka"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/tonka-orange-douce-feve-tonka",
+          "name": "Le Couvent Parfums - Tonka",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peonia",
+      "collection": "Parfums Signatures",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "peony",
+          "magnolia"
+        ],
+        "heart": [
+          "geranium",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/peonia-floral-ambre-delicat",
+          "name": "Le Couvent Parfums - Peonia",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tuberosa",
+      "collection": "Parfums Signatures",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [
+          "tuberose"
+        ],
+        "base": [
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/tuberosa-tubereuse-santal",
+          "name": "Le Couvent Parfums - Tuberosa",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vetivera",
+      "collection": "Parfums Signatures",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "vetiver",
+          "black pepper"
+        ],
+        "base": [
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/vetivera-essence-de-vetiver-et-poivre-noir",
+          "name": "Le Couvent Parfums - Vetivera",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mimosa",
+      "collection": "Parfums Signatures",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "mimosa"
+        ],
+        "base": [
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/mimosa",
+          "name": "Le Couvent Parfums - Mimosa",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ambra",
+      "collection": "Parfums Signatures",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "immortelle"
+        ],
+        "base": [
+          "cistus",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/ambra-ciste-immortelle-corse",
+          "name": "Le Couvent Parfums - Ambra",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fuli",
+      "collection": "Parfums Remarquables",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "cinnamon"
+        ],
+        "heart": [
+          "osmanthus",
+          "almond"
+        ],
+        "base": [
+          "white musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/fuli-mandarine-verte-osmanthus-1",
+          "name": "Le Couvent Parfums - Fuli",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ilhabela",
+      "collection": "Parfums Remarquables",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandora",
+          "cinnamon",
+          "sweet almond"
+        ],
+        "heart": [
+          "heliotrope",
+          "vanilla"
+        ],
+        "base": [
+          "cane sugar",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/ilhabela-vanille-noire-ambroxan",
+          "name": "Le Couvent Parfums - Ilhabela",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sperone",
+      "collection": "Parfums Remarquables",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "thyme"
+        ],
+        "heart": [
+          "immortelle",
+          "black pepper"
+        ],
+        "base": [
+          "cedar",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/sperone",
+          "name": "Le Couvent Parfums - Sperone",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tinharé",
+      "collection": "Parfums Remarquables",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "red mandarin"
+        ],
+        "heart": [
+          "white wood",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/parfum-remarquable-tinhare",
+          "name": "Le Couvent Parfums - Tinharé",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fort Royal",
+      "collection": "Parfums Remarquables",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "wild berries",
+          "orange"
+        ],
+        "heart": [
+          "cistus"
+        ],
+        "base": [
+          "benzoin",
+          "vanilla",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/parfum-remarquable-fort-royal",
+          "name": "Le Couvent Parfums - Fort Royal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Smyrna",
+      "collection": "Parfums Remarquables",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "black pepper"
+        ],
+        "base": [
+          "sandalwood",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/parfum-remarquable-smyrna",
+          "name": "Le Couvent Parfums - Smyrna",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Valparaiso",
+      "collection": "Parfums Remarquables",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom"
+        ],
+        "heart": [
+          "incense"
+        ],
+        "base": [
+          "cedar",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/parfum-remarquable-valparaiso",
+          "name": "Le Couvent Parfums - Valparaiso",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Porto-Bello",
+      "collection": "Parfums Remarquables",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sweet orange"
+        ],
+        "heart": [
+          "davana"
+        ],
+        "base": [
+          "incense",
+          "cognac"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/parfum-remarquable-porto-bello",
+          "name": "Le Couvent Parfums - Porto-Bello",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santa-Cruz",
+      "collection": "Parfums Remarquables",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
+          "eucalyptus"
+        ],
+        "base": [
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/parfum-remarquable-santa-cruz",
+          "name": "Le Couvent Parfums - Santa-Cruz",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anori",
+      "collection": "Parfums Remarquables",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom"
+        ],
+        "heart": [
+          "magnolia"
+        ],
+        "base": [
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/parfum-remarquable-anori",
+          "name": "Le Couvent Parfums - Anori",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saïga",
+      "collection": "Eaux de parfum singulières",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant bud"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/eau-de-parfum-singuliere-saiga",
+          "name": "Le Couvent Parfums - Saïga",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hattaï",
+      "collection": "Eaux de parfum singulières",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "red berries"
+        ],
+        "heart": [
+          "cacao"
+        ],
+        "base": [
+          "cinnamon",
+          "cade"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/eau-de-parfum-singuliere-hattai",
+          "name": "Le Couvent Parfums - Hattaï",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lysandra",
+      "collection": "Eaux de parfum singulières",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin"
+        ],
+        "heart": [
+          "jasmine"
+        ],
+        "base": [
+          "vetiver",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/eau-de-parfum-singuliere-lysandra",
+          "name": "Le Couvent Parfums - Lysandra",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nubica",
+      "collection": "Eaux de parfum singulières",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin"
+        ],
+        "heart": [
+          "patchouli"
+        ],
+        "base": [
+          "tonka",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/eau-de-parfum-singuliere-nubica",
+          "name": "Le Couvent Parfums - Nubica",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theria",
+      "collection": "Eaux de parfum singulières",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "narcissus",
+          "iris",
+          "cardamom"
+        ],
+        "base": [
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/eau-de-parfum-singuliere-theria",
+          "name": "Le Couvent Parfums - Theria",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Agapi",
+      "collection": "Eaux de parfum singulières",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandora"
+        ],
+        "heart": [
+          "passion fruit",
+          "ylang-ylang"
+        ],
+        "base": [
+          "clove",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/agapi-mandora-fruit-de-la-passion",
+          "name": "Le Couvent Parfums - Agapi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua Mahana",
+      "collection": "Botaniques",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sea salt"
+        ],
+        "heart": [
+          "ylang-ylang",
+          "frangipani"
+        ],
+        "base": [
+          "black vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/aqua-mahana-absolu-de-frangipanier-sunrise",
+          "name": "Le Couvent Parfums - Aqua Mahana",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua Sacrae",
+      "collection": "Botaniques",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin"
+        ],
+        "heart": [
+          "jasmine",
+          "tuberose"
+        ],
+        "base": [
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/cologne-botanique-aqua-sacrae",
+          "name": "Le Couvent Parfums - Aqua Sacrae",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua Paradisi",
+      "collection": "Botaniques",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "pelargonium"
+        ],
+        "base": [
+          "violet"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/cologne-aqua-paradisi",
+          "name": "Le Couvent Parfums - Aqua Paradisi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua Mysteri",
+      "collection": "Botaniques",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit"
+        ],
+        "heart": [
+          "orange blossom",
+          "palmarosa"
+        ],
+        "base": [
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/cologne-botanique-aqua-mysteri",
+          "name": "Le Couvent Parfums - Aqua Mysteri",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua Minimes",
+      "collection": "Botaniques",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "citron"
+        ],
+        "heart": [
+          "litsea"
+        ],
+        "base": [
+          "vetiver",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/cologne-botanique-aqua-minimes",
+          "name": "Le Couvent Parfums - Aqua Minimes",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua Majestae",
+      "collection": "Botaniques",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "acacia"
+        ],
+        "heart": [
+          "osmanthus"
+        ],
+        "base": [
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/cologne-aqua-majestae",
+          "name": "Le Couvent Parfums - Aqua Majestae",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aqua Millefolia",
+      "collection": "Botaniques",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "citron",
+          "peppermint"
+        ],
+        "heart": [
+          "vervain",
+          "galbanum"
+        ],
+        "base": [
+          "guaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fr.lecouventparfums.com/products/cologne-botanique-absolue-aqua-millefolia",
+          "name": "Le Couvent Parfums - Aqua Millefolia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
