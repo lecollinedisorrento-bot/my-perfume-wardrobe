@@ -1,0 +1,344 @@
+{
+  "brand": "Davidoff",
+  "slug": "davidoff",
+  "officialSite": "https://www.zinodavidoff.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site (zinodavidoff.com) category listing gives the Cool Water and Cool Elixir range with concentrations; notes read from official product pages for 8 products. Listing pagination (?page=2) returned the same items, so the list may be partial. Other names (Hot Water, Hot, Zino, Adventure, Champion, The Game, Echo, Good Life, Indigo, Silver Shadow, Horizon) come from a WebSearch result on the official site with no concentration; Zino, Adventure and Silver Shadow notes/years from Fragrantica search snippets. Hot Water, Champion and Horizon notes not found.",
+  "fragrances": [
+    {
+      "name": "Cool Water",
+      "collection": "Cool Water",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1988,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["peppermint", "lavender"], "heart": ["oakmoss", "geranium", "sandalwood"], "base": ["amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-eau-de-toilette-75-ml", "name": "DAVIDOFF - Cool Water Eau de Toilette 75 ml", "type": "official", "supports": ["notes", "year", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Water Woman",
+      "collection": "Cool Water",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "floral aquatic",
+      "accords": [],
+      "notes": { "top": ["watermelon", "pineapple"], "heart": ["lily of the valley"], "base": ["blackcurrant", "sensual woods"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-woman-eau-de-toilette-50-ml", "name": "DAVIDOFF - Cool Water Woman Eau de Toilette 50 ml", "type": "official", "supports": ["notes", "family", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Water Reborn Man",
+      "collection": "Cool Water",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["rosemary"], "heart": ["galbanum"], "base": ["vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-reborn-man-eau-de-toilette-75-ml", "name": "DAVIDOFF - Cool Water Reborn Man Eau de Toilette 75 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Water Reborn Woman",
+      "collection": "Cool Water",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/category/fragrances/all", "name": "DAVIDOFF - Fragrances listing", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Water Intense Man",
+      "collection": "Cool Water",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["green mandarin"], "heart": ["coconut water"], "base": ["amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-intense-eau-de-parfum-40-ml", "name": "DAVIDOFF - Cool Water Intense Eau de Parfum 40 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Water Parfum Man",
+      "collection": "Cool Water",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper"], "heart": ["vetiver"], "base": ["sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-parfum-50-ml", "name": "DAVIDOFF - Cool Water Parfum Man 50 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Water Parfum Woman",
+      "collection": "Cool Water",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/category/fragrances/all", "name": "DAVIDOFF - Fragrances listing", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Elixir Man",
+      "collection": "Cool Elixir",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "woody aromatic",
+      "accords": [],
+      "notes": { "top": ["rose oxide"], "heart": ["lavandin absolute"], "base": ["oud accord"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/fragrances/cool-elixir-parfum-30-ml", "name": "DAVIDOFF - Cool Elixir Man Parfum 30 ml", "type": "official", "supports": ["notes", "family", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Elixir Woman",
+      "collection": "Cool Elixir",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/category/fragrances/all", "name": "DAVIDOFF - Fragrances listing", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Elixir Safran Mineral",
+      "collection": "Cool Elixir",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron accord"], "heart": ["cedarwood"], "base": ["apple accord"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/fragrances/cool-elixir-safran-mineral---30-ml", "name": "DAVIDOFF - Cool Elixir Safran Mineral Parfum 30 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Cool Elixir Floral Vanilla Woman",
+      "collection": "Cool Elixir",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/category/fragrances/all", "name": "DAVIDOFF - Fragrances listing", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Zino",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 1986,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lavender", "bergamot", "clary sage"], "heart": ["rose", "jasmine"], "base": ["patchouli", "sandalwood", "vanilla", "cedar"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Davidoff/Zino-Davidoff-590.html", "name": "Fragrantica - Zino Davidoff", "type": "database", "supports": ["notes", "year"] },
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2008,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": ["vetiver", "cedar", "white musk"], "flat": ["pimento", "sesame"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Davidoff/Adventure-1728.html", "name": "Fragrantica - Adventure Davidoff", "type": "database", "supports": ["notes", "year"] },
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Silver Shadow",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2005,
+      "perfumer": null,
+      "family": "oriental woody",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": ["amber", "benzoin", "oakmoss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.fragrantica.com/perfume/Davidoff/Silver-Shadow-1314.html", "name": "Fragrantica - Silver Shadow Davidoff", "type": "database", "supports": ["notes", "family", "year"] },
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Hot Water",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Hot",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Champion",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "The Game",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Echo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Good Life",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Indigo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Horizon",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1152 @@
+{
+  "brand": "Profumum Roma",
+  "slug": "profumum-roma",
+  "officialSite": "https://www.profumum.com/en/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Range from the official Profumum Roma eau de parfum category page (41 items, sample kits and home fragrance excluded). Official product pages were fetched for 7 fragrances; the others returned empty pages on repeated attempts, so their notes, concentration and year are null. Product pages state the concentration only in the page title (Eau de Parfum). No perfumer or family was stated on any fetched product page. Retailer searches were not run for the remaining items.",
+  "fragrances": [
+    {
+      "name": "Acqua Viva",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2006,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon"
+        ],
+        "heart": [
+          "broom flower"
+        ],
+        "base": [
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product/acqua-viva/",
+          "name": "Profumum Roma — Acqua Viva",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Alba",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2004,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "amber"
+        ],
+        "heart": [
+          "iris",
+          "hazelnut"
+        ],
+        "base": [
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product/alba/",
+          "name": "Profumum Roma — Alba",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Ambra Aurea",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1998,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "amber",
+          "incense",
+          "myrrh"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product/ambra-aurea/",
+          "name": "Profumum Roma — Ambra Aurea",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.profumum.com/en/collection/ambra/",
+          "name": "Profumum Roma — Ambra collection",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Antico Caruso",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2001,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange blossom"
+        ],
+        "heart": [
+          "almond"
+        ],
+        "base": [
+          "amber",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product/antico-caruso/",
+          "name": "Profumum Roma — Antico Caruso",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Arso",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2010,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cedar"
+        ],
+        "heart": [
+          "leather"
+        ],
+        "base": [
+          "incense",
+          "pine resin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product/arso/",
+          "name": "Profumum Roma — Arso",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Audace",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2015,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bitter orange"
+        ],
+        "heart": [
+          "cedar"
+        ],
+        "base": [
+          "licorice",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product/audace/",
+          "name": "Profumum Roma — Audace",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Thundra",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 1996,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "oakmoss"
+        ],
+        "heart": [
+          "patchouli",
+          "aromatic woods"
+        ],
+        "base": [
+          "resins",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product/thundra/",
+          "name": "Profumum Roma — Thundra",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Acqua di Sale",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Acqua di Sale 2026 Limited Edition",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Acqua e Zucchero",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Battito d'Ali",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Confetto",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Confetto – Acquerello 2023",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Dambrosia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Dincanto",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Dolce Acqua",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Dolci Pensieri",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Dulcis in Fundo",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Eccelso",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Fiore d'Ambra",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/collection/ambra/",
+          "name": "Profumum Roma — Ambra collection",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Fumidus",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Gioiosa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Ichnusa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Neroli",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Ninfea",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Olibanum",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/collection/incenso/",
+          "name": "Profumum Roma — Incenso collection",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Orangea",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Oxiana",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Roma Kyoto",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Patchouly",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Rosae Mundi",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Sabbia Bianca",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Santalum",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Soavissima",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Sorriso",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Tagete",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Tuberosa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Vanitas",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Victrix",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Vir",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Auriga",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.profumum.com/en/product-category/fragrances/",
+          "name": "Profumum Roma — Eau de Parfum category",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

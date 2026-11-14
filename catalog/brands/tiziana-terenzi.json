@@ -1,0 +1,877 @@
+{
+  "brand": "Tiziana Terenzi",
+  "slug": "tiziana-terenzi",
+  "officialSite": "https://tizianaterenzi.com/en/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Range from the official collection pages (Classic Gold, Luna, Vulcani) and the Parfumerie Nasreen Tiziana Terenzi listing (retailer, first page of 23 items; the page text was truncated, so the range is incomplete). Official product pages on terenziboutique.com redirect to terenziboutique.us, where the product URLs I tried returned 404, so no official notes were obtained; all notes are reported from the Parfumerie Nasreen listing. Concentration, year, perfumer and family were not stated on any fetched page, so they are null. Items without notes in the sources are listed with official source only.",
+  "fragrances": [
+    {
+      "name": "Draconis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "grapefruit", "lemon", "neroli"], "heart": ["juniper", "black pepper", "green pepper", "geranium"], "base": ["frankincense", "vetiver", "patchouli", "ambergris", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Bianco Puro",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "bergamot", "lemon"], "heart": ["clove", "saffron", "lavender", "caramel", "orange", "mango"], "base": ["patchouli", "sandalwood", "vetiver", "oud", "myrrh", "vanilla", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Cas",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["black pepper", "pink pepper", "green pepper", "oud", "birch", "vanilla", "grey amber", "musk"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Chiron",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["vanilla", "musk", "tonka bean"], "heart": ["tobacco", "ambergris"], "base": ["vanilla", "sandalwood", "oud", "palo santo"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Mirach",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["neroli", "rose", "saffron", "nutmeg"], "heart": ["rose", "musk", "patchouli", "oud", "davana", "grey amber"], "base": ["vanilla", "benzoin", "oud", "sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Hyakutake",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "bergamot", "cardamom", "eucalyptus"], "heart": ["pansy", "orris", "ambergris", "incense"], "base": ["larch", "sandalwood", "iroko", "tobacco", "vetiver"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Kaff",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "pink pepper", "ginger"], "heart": ["iris", "magnolia", "leather", "orris", "amber"], "base": ["cedar", "sandalwood", "tonka bean"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Laudano Nero",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["camphor", "labdanum", "cognac", "wood", "resin", "slate", "bay leaf"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Siené",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["juniper", "cypress", "olive", "poplar bark"], "heart": ["patchouli", "frankincense", "myrrh", "leather"], "base": ["acacia honey", "ambergris", "musk", "sandalwood", "oud"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Vittoriale",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cardamom", "leather", "peat", "tobacco"], "heart": ["jasmine", "violet", "labdanum", "musk"], "base": ["patchouli", "ambergris", "oud", "oakmoss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Gemini",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["rose", "lavender", "saffron", "clary sage"], "heart": ["nutmeg", "incense", "marigold", "jasmine", "cypriol"], "base": ["patchouli", "oakmoss", "ambergris", "vetiver"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Iddu",
+      "collection": "Vulcani",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["vanilla", "magnolia", "lotus"], "heart": ["ambergris", "tobacco", "oud"], "base": ["vanilla", "birch moss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/vulcani/", "name": "Tiziana Terenzi — Vulcani collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Idnà",
+      "collection": "Vulcani",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cardamom", "pine", "pine resin", "chamomile"], "heart": ["jasmine", "lavender", "broom", "artemisia"], "base": ["sandalwood", "fig", "vanilla", "tonka bean"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/vulcani/", "name": "Tiziana Terenzi — Vulcani collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Struò",
+      "collection": "Vulcani",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "saffron"], "heart": ["cedar", "green tea", "clove", "cardamom", "oud"], "base": ["leather", "birch", "beeswax", "ambergris", "tobacco", "oud"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/vulcani/", "name": "Tiziana Terenzi — Vulcani collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "O'Vesù",
+      "collection": "Vulcani",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["grapefruit", "pink pepper", "rhubarb"], "heart": ["jasmine", "leather", "ambergris", "lava stone"], "base": ["vetiver", "sandalwood", "cedar", "birch", "moss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/vulcani/", "name": "Tiziana Terenzi — Vulcani collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Burdèl",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cumin", "cardamom", "cistus", "bergamot"], "heart": ["balm", "cypriol", "guaiac", "lily of the valley"], "base": ["musk", "vanilla", "ambergris", "oud", "sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Alioth",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron", "black pepper", "green pepper", "cardamom"], "heart": ["rose", "ylang ylang", "cypriol"], "base": ["oud", "vanilla", "grey amber", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Chi",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["coffee", "almond", "milk", "caramel"], "heart": ["vanilla", "patchouli", "oud", "truffle"], "base": ["oud", "cypriol", "caramel", "tonka bean", "vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Ecstasy",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["frankincense"], "heart": ["white flowers", "bakhoor"], "base": ["wood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Gold Rose Oudh",
+      "collection": "Classic Gold",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rose", "spice", "honey", "oud"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/classic-gold/", "name": "Tiziana Terenzi — Classic Gold collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Nero Oudh",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron", "rose", "geranium", "magnolia", "ylang ylang", "cypriol"], "heart": ["orris", "cedar", "guaiac", "balm"], "base": ["ambergris", "oud", "musk", "patchouli", "vanilla", "sandalwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Deriva",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lemon", "lavender", "cardamom", "pineapple"], "heart": ["geranium", "gardenia", "pink pepper", "patchouli", "raspberry"], "base": ["tobacco", "vanilla", "tonka bean", "sandalwood", "rosewood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Dionisio",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["ambergris", "musk"], "heart": ["amber", "vanilla", "jasmine", "lily of the valley"], "base": ["oud", "vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Leonis I",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["orange", "saffron", "davana", "black pepper"], "heart": ["nutmeg", "cedar", "myrrh", "incense", "cypriol", "jasmine", "oud"], "base": ["sandalwood", "ambergris", "vanilla", "benzoin"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Orionis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron", "frankincense"], "heart": ["ambergris", "musk", "patchouli"], "base": ["tolu balm", "woods"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Spirito Fiorentino",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lily", "jasmine", "saffron", "orange"], "heart": ["ylang ylang", "magnolia", "ambergris", "lily of the valley"], "base": ["sandalwood", "birch", "musk", "leather", "oakmoss"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Tempel",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lily of the valley", "magnolia", "narcissus"], "heart": ["oud"], "base": ["oud", "ambergris"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Wirtanen",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "ylang ylang", "rose"], "heart": ["black pepper", "oud", "jasmine", "peony"], "base": ["caramel", "vanilla", "sandalwood", "ambergris", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Zubenel",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["ambergris", "frankincense", "ambrette"], "heart": ["chocolate", "ambergris", "vanilla"], "base": ["patchouli", "sandalwood", "birch", "caramel"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Abbrivio",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["orange", "blackcurrant", "strawberry", "santolina"], "heart": ["ambergris", "coumarin", "seaweed", "tonka bean", "sugar cane"], "base": ["cedar", "patchouli", "oak", "sandalwood", "oakmoss", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Hale Bopp",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["nutmeg", "cinnamon", "lemon"], "heart": ["geranium", "sage", "patchouli", "vanilla"], "base": ["sandalwood", "musk", "ambergris", "labdanum", "amber"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Leo",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["orange", "kumquat", "bergamot", "mandarin"], "heart": ["jasmine", "rose", "violet leaf", "magnolia", "ambergris", "myrrh"], "base": ["oak", "cedar", "sandalwood", "musk", "benzoin", "tonka bean"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Lyncis",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "grapefruit", "pink pepper"], "heart": ["rose", "jasmine", "orange blossom", "iris", "ambergris"], "base": ["patchouli", "sandalwood", "cedar", "vetiver", "musk", "tonka bean"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Moro di Venezia",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "grapefruit", "blackcurrant", "pineapple"], "heart": ["violet", "lily of the valley", "jasmine", "amber"], "base": ["hinoki", "oakmoss", "musk", "vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://parfumerienasreen.com/collections/tiziana-terenzi", "name": "Parfumerie Nasreen — Tiziana Terenzi", "type": "retailer", "supports": ["notes"] },
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Kirké",
+      "collection": "Classic Gold",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/classic-gold/", "name": "Tiziana Terenzi — Classic Gold collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Arethusa",
+      "collection": "Classic Gold",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/classic-gold/", "name": "Tiziana Terenzi — Classic Gold collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Borea",
+      "collection": "Classic Gold",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/classic-gold/", "name": "Tiziana Terenzi — Classic Gold collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Delox",
+      "collection": "Classic Gold",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/classic-gold/", "name": "Tiziana Terenzi — Classic Gold collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Lillipur",
+      "collection": "Classic Gold",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/classic-gold/", "name": "Tiziana Terenzi — Classic Gold collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Tyrenum",
+      "collection": "Classic Gold",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/classic-gold/", "name": "Tiziana Terenzi — Classic Gold collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "White Fire",
+      "collection": "Classic Gold",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/classic-gold/", "name": "Tiziana Terenzi — Classic Gold collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Torpe",
+      "collection": "Classic Gold",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/classic-gold/", "name": "Tiziana Terenzi — Classic Gold collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Andromeda",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Cassiopea",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Draco",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Ursa",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Orion",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Lince",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Libra",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Vele",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Caput Mundi",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Eclix",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Porpora",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Rosso Pompei",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Smeralda",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Verna",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    },
+    {
+      "name": "Pisces",
+      "collection": "Luna",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://tizianaterenzi.com/en/luna/", "name": "Tiziana Terenzi — Luna collection", "type": "official", "supports": [] }
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official US site (cartier.com/en-us) High Perfumery listing read: 23 fragrances, each with concentration. Product pages read for perfumer (Mathilde Laurent on all), olfactory family and, where stated, accords and collection. Product pages show only an INCI ingredient list, not a notes pyramid, so no notes are recorded (noteSource null). Launch years are not stated on the pages. Discovery set excluded. Signature lines (Pasha, Baiser Volé, Déclaration, Santos, Must, La Panthère) not yet researched. VI L'Heure Brillante product page title reads 'Lemon Eau de Toilette'; family taken from that page, name from the listing.",
+  "researchNotes": "Official US site (cartier.com/en-us) High Perfumery listing read: 23 fragrances, each with concentration. Product pages read for perfumer (Mathilde Laurent on all), olfactory family and, where stated, accords and collection. Product pages show only an INCI ingredient list, not a notes pyramid, so no notes are recorded (noteSource null). Launch years are not stated on the pages. Discovery set excluded. Signature lines: Baiser Volé, Santos de Cartier, Déclaration, Must de Cartier and La Panthère added from Olfastory composition pages (reported notes; Must's page gives two conflicting pyramids, the Michael Edwards one is recorded). Pasha de Cartier not added: notino and the other retailer pages were not readable, so its notes could not be verified. Cartier.com fragrance pages blocked nothing; the US High Perfumery listing was read via WebFetch. VI L'Heure Brillante product page title reads 'Lemon Eau de Toilette'; family taken from that page, name from the listing.",
   "fragrances": [
     {
       "name": "Oud Vanillé",
@@ -372,6 +372,82 @@
       "sources": [
         { "url": "https://www.cartier.com/en-us/high-perfumery/", "name": "Cartier High Perfumery", "type": "official", "supports": ["concentration"] },
         { "url": "https://www.cartier.com/en-us/fragrances/pur-kinkan-CRFG075002.html", "name": "Cartier — Pur Kinkan", "type": "official", "supports": ["perfumer", "family"] }
+      ]
+    },
+    {
+      "name": "Baiser Volé",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2011,
+      "perfumer": "Mathilde Laurent",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["lily", "galbanum", "carnation", "white musk", "vanillin"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/parfum/baiser-vole/composition", "name": "Olfastory — Baiser Volé composition", "type": "database", "supports": ["notes", "perfumer", "concentration"] },
+        { "url": "https://www.olfastory.com/parfum/baiser-vole", "name": "Olfastory — Baiser Volé Eau de Parfum (Cartier, 2011)", "type": "database", "supports": ["year"] }
+      ]
+    },
+    {
+      "name": "Santos de Cartier",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1981,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["lavender", "basil", "juniper berry"], "heart": ["nutmeg", "vetiver"], "base": ["patchouli", "sandalwood", "cedar", "vanilla"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/cartier-santos/composition", "name": "Olfastory — Santos composition", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
+      ]
+    },
+    {
+      "name": "Déclaration",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Jean-Claude Ellena",
+      "family": "Woody",
+      "accords": [],
+      "notes": { "top": ["mandarin", "neroli", "mugwort", "coriander"], "heart": ["iris", "jasmine", "pepper", "cardamom"], "base": ["vetiver", "cedarwood", "leather", "amber"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/declaration/composition", "name": "Olfastory — Déclaration composition", "type": "database", "supports": ["notes", "family", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Must de Cartier",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1981,
+      "perfumer": "Jean-Jacques Diener",
+      "family": "Oriental",
+      "accords": [],
+      "notes": { "top": ["galbanum", "mandarin", "neroli"], "heart": ["rose", "narcissus", "jasmine"], "base": ["vanilla", "sandalwood", "vetiver", "musk", "tonka bean", "civet"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/must/composition", "name": "Olfastory — Must composition", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "La Panthère",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Mathilde Laurent",
+      "family": "Chypre",
+      "accords": [],
+      "notes": { "top": ["anise", "bergamot"], "heart": ["gardenia"], "base": ["oakmoss", "white musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.olfastory.com/en/perfume/la-panthere/composition", "name": "Olfastory — La Panthère Eau de Parfum composition", "type": "database", "supports": ["notes", "perfumer", "family", "concentration"] }
       ]
     }
   ]

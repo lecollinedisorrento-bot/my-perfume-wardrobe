@@ -1,0 +1,831 @@
+{
+  "brand": "Nishane",
+  "slug": "nishane",
+  "officialSite": "https://nishane.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site (nishane.com) perfumes category read: 66 listed items across six pages. Minis/15 ml travel bottles, samples, travel and discovery sets and hair perfumes excluded. Each full-size perfume was read on its official product page for notes, concentration and family. Perfumer is stated only for Tuberóza X. Release years are not stated on the product pages, so they are null. Brand country is not stated on the pages read. Hold Me Closer's page gives no concentration.",
+  "fragrances": [
+    {
+      "name": "Hold Me Closer",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody / Musky / Spicy",
+      "accords": [],
+      "notes": {
+        "top": ["angelica", "pink pepper", "pear liqueur"],
+        "heart": ["earth co2", "hawthorn", "chamomile"],
+        "base": ["tonka bean", "warm skin", "papyrus"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/hold-me-closer/", "name": "Nishane - Hold Me Closer", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Hacivat",
+      "collection": "Shadow Play Trilogy",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus / Chypre / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "pineapple", "grapefruit"],
+        "heart": ["jasmine", "patchouli", "cedarwood"],
+        "base": ["clearwood", "oakmoss", "dry timberwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/hacivat/", "name": "Nishane - Hacivat", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Thorns Become Roses",
+      "collection": "Rumi Collection",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity / Ambery / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["lychee", "raspberry", "saffron"],
+        "heart": ["rose", "mimosa", "blackcurrant"],
+        "base": ["patchouli", "amberwood", "aetoxylon"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/thorns-become-roses/", "name": "Nishane - Thorns Become Roses", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Meant To Be Seen",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Powdery / Nutty",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "violet"],
+        "heart": ["orris butter", "moxalone", "civettone"],
+        "base": ["sandalwood", "ambrettolide", "akigalawood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/meant-to-be-seen/", "name": "Nishane - Meant To Be Seen", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Deziro",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aquatic / Fougere",
+      "accords": [],
+      "notes": {
+        "top": ["mandarin", "ambergris", "marine accord"],
+        "heart": ["star anise", "carrot", "mint", "cypriol", "geranium"],
+        "base": ["musk", "ambrettolide", "sandalwood", "haitian vetiver"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/deziro/", "name": "Nishane - Deziro", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Tuberoza X",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": "Floral / Powdery",
+      "accords": [],
+      "notes": {
+        "top": ["ylang-ylang", "mandarin"],
+        "heart": ["indian tuberose", "violet", "lipstick accord"],
+        "base": ["velvet musk", "amber", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/tuberoza-x/", "name": "Nishane - Tuberoza X", "type": "official", "supports": ["notes", "concentration", "family", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Shinanay",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Amber",
+      "accords": [],
+      "notes": {
+        "top": ["aldehydes", "blood orange", "elemi", "galbanum"],
+        "heart": ["gardenia", "tuberose", "magnolia", "muguet", "mastic"],
+        "base": ["sandalwood", "civettone", "cedarwood", "opoponax", "oakmoss", "benzoin"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/shinanay/", "name": "Nishane - Shinanay", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Hesperide Colognise",
+      "collection": "Extrait de Cologne",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus / Aromatic / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "orange", "lime"],
+        "heart": ["jasmine", "orris", "cedarwood", "cashmere"],
+        "base": ["ambergris", "moss", "musk", "vetiver"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/hesperide-colognise/", "name": "Nishane - Hesperide Colognise", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Hacivat Oud",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Chypre / Woody / Oriental",
+      "accords": [],
+      "notes": {
+        "top": ["pineapple", "citrus", "pink pepper", "black pepper"],
+        "heart": ["jasmine", "olibanum", "retinoid"],
+        "base": ["haitian vetiver", "indonesian patchouli", "vanilla", "oud"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/hacivat-oud/", "name": "Nishane - Hacivat Oud", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Fan Your Flames X",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Boozy / Gourmand / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["coconut", "rum", "lentisque"],
+        "heart": ["tobacco", "tonka bean", "thyme", "carrot"],
+        "base": ["cedar", "oakmoss", "patchouli"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/fan-your-flames-x/", "name": "Nishane - Fan Your Flames X", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Hundred Silent Ways X",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Gourmand / Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["tuberose", "mandarin", "peach"],
+        "heart": ["gardenia", "orris", "jasmine", "heliotrope"],
+        "base": ["vanilla", "leather", "patchouli"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/hundred-silent-ways-x/", "name": "Nishane - Hundred Silent Ways X", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Hacivat X",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus / Chypre / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "pineapple", "pink pepper"],
+        "heart": ["lime", "jasmine", "orange flower"],
+        "base": ["patchouli", "cedarwood", "haitian vetiver"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/hacivat-x/", "name": "Nishane - Hacivat X", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Wulong Cha X",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus / Green / Musky",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "yuzu", "litsea", "mandarin"],
+        "heart": ["magnolia", "thyme oil", "green tea"],
+        "base": ["musk", "fig"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/wulong-cha-x/", "name": "Nishane - Wulong Cha X", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Ani X",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus / Spicy / Vanilla",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "lemon", "honeydew melon", "cardamom", "blue ginger", "pink pepper"],
+        "heart": ["lavender", "sage", "green apple", "blackcurrant", "rose", "patchouli"],
+        "base": ["cedarwood", "cashmere wood", "vanilla", "ambergris", "white musk", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/ani-x/", "name": "Nishane - Ani X", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Ambra Calabria",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus Green / Fresh Floral / Ambery",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "galbanum", "green leaves"],
+        "heart": ["jasmine", "coriander seeds"],
+        "base": ["sweet amber", "musk", "vanilla"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/ambra-calabria/", "name": "Nishane - Ambra Calabria", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Sultan Vetiver",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic / Woody / Ambery",
+      "accords": [],
+      "notes": {
+        "top": ["javanese vetiver", "absinthe", "schinus molle", "bergamot"],
+        "heart": ["bourbon vetiver", "haitian vetiver", "neroli", "tonka"],
+        "base": ["amberwood", "leather", "brazilian vetiver"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/sultan-vetiver/", "name": "Nishane - Sultan Vetiver", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Wulong Cha",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus / Green / Musky",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "orange", "litsea", "mandarin"],
+        "heart": ["oolong tea", "nutmeg"],
+        "base": ["musk", "fig"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/wulong-cha/", "name": "Nishane - Wulong Cha", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Tuberoza",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Ambery",
+      "accords": [],
+      "notes": {
+        "top": ["ylang ylang", "sweet orange", "armoise", "orange blossom"],
+        "heart": ["tuberose", "gardenia", "jasmine", "marigold"],
+        "base": ["amberwood", "vetiver", "sandalwood", "musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/tuberoza/", "name": "Nishane - Tuberoza", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Suede et Safran",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy / Leathery / Musky",
+      "accords": [],
+      "notes": {
+        "top": ["ambrette seed", "saffron"],
+        "heart": ["suede", "ginger"],
+        "base": ["musk", "leather"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/suede-et-safran/", "name": "Nishane - Suede et Safran", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Pachuli Kozha",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Aromatic / Woody / Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["hyacinth", "ylang ylang", "armoise", "camomile"],
+        "heart": ["patchouli", "black pepper"],
+        "base": ["leather", "honey", "incense"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/pachuli-kozha/", "name": "Nishane - Pachuli Kozha", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Afrika-Olifant",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Ambery / Animalic / Musky",
+      "accords": [],
+      "notes": {
+        "top": ["ambergris", "frankincense", "myrrh", "labdanum"],
+        "heart": ["castoreum", "leather", "oud"],
+        "base": ["muscenone", "thibetone", "muscone", "civettone"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/afrika-olifant/", "name": "Nishane - Afrika-Olifant", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Fan Your Flames",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Boozy / Gourmand / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["coconut", "rum"],
+        "heart": ["tobacco", "tonka bean"],
+        "base": ["oakmoss", "chinese cedarwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/fan-your-flames/", "name": "Nishane - Fan Your Flames", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Hundred Silent Ways",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Gourmand / Musky",
+      "accords": [],
+      "notes": {
+        "top": ["tuberose", "mandarin", "peach"],
+        "heart": ["white jasmine", "gardenia", "orris"],
+        "base": ["vanilla", "sandalwood", "vetiver"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/hundred-silent-ways/", "name": "Nishane - Hundred Silent Ways", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Zenne",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity / Floral / Musky",
+      "accords": [],
+      "notes": {
+        "top": ["grapefruit", "blackcurrant", "rhubarb"],
+        "heart": ["turkish rose", "gardenia", "sandalwood"],
+        "base": ["vanilla", "ambergris", "musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/zenne/", "name": "Nishane - Zenne", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Karagoz",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity / Green / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["pineapple", "black grape", "bouquet garni"],
+        "heart": ["neroli", "jasmine", "patchouli"],
+        "base": ["vetiver", "agarwood", "amber"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/karagoz/", "name": "Nishane - Karagoz", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "B-612",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic / Balsamic / Fougere",
+      "accords": [],
+      "notes": {
+        "top": ["lavender", "geranium", "cypress"],
+        "heart": ["cashmeran wood", "cedarwood", "sandalwood", "patchouli"],
+        "base": ["musk", "oakmoss", "tonka bean"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/b-612/", "name": "Nishane - B-612", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Vain & Naive",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Balsamic / Floral / Sweet",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "orange"],
+        "heart": ["rose", "jasmine", "cedarwood", "plum", "raspberry"],
+        "base": ["sandalwood", "amber", "patchouli", "benzoin", "tonka bean", "musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/vain-naive/", "name": "Nishane - Vain & Naive", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Colognise",
+      "collection": "Extrait de Cologne",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus / Floral / Musky",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "lemon", "green tea", "jasmine"],
+        "heart": ["grapefruit", "muguet"],
+        "base": ["vetiver", "neroli", "musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/colognise/", "name": "Nishane - Colognise", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Safran Colognise",
+      "collection": "Extrait de Cologne",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus / Leathery / Musky",
+      "accords": [],
+      "notes": {
+        "top": ["cedrat", "passion fruit", "pink grapefruit"],
+        "heart": ["saffron", "magnolia", "pink pepper"],
+        "base": ["musk", "ambergris", "leather"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/safran-colognise/", "name": "Nishane - Safran Colognise", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Ani",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy / Woody / Vanilla",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "green notes", "blue ginger", "pink pepper"],
+        "heart": ["blackcurrant", "turkish rose", "cardamom"],
+        "base": ["patchouli", "cedarwood", "vanilla", "benzoin", "ambergris", "musk", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/ani/", "name": "Nishane - Ani", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Nefs",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Gourmand / Musky",
+      "accords": [],
+      "notes": {
+        "top": ["honey", "violet", "sage", "saffron", "fig"],
+        "heart": ["rose", "osmanthus", "geranium", "jasmine", "nutmeg"],
+        "base": ["amber", "whiskey", "oud", "cinnamon", "cedarwood", "gurjum", "leather", "vanilla"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/nefs/", "name": "Nishane - Nefs", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Shem",
+      "collection": "Prestige Collection",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Ambery / Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["cardamom", "turkish rose", "geranium"],
+        "heart": ["osmanthus", "amber", "cypriol"],
+        "base": ["elemi", "vetiver", "leather"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/shem/", "name": "Nishane - Shem", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Mana",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy / Oriental / Leathery",
+      "accords": [],
+      "notes": {
+        "top": ["cardamom", "saffron", "geranium", "black pepper"],
+        "heart": ["turkish rose", "castoreum", "suede", "oud"],
+        "base": ["cistus labdanum", "patchouli", "sandalwood", "moss guaiacwood", "benzoin", "olibanum", "musk"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/mana/", "name": "Nishane - Mana", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Unutamam",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic / Spicy / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["lavender", "rosemary", "mint", "juniper"],
+        "heart": ["jasmine", "carnation", "patchouli", "amber", "oregano"],
+        "base": ["castoreum", "cistus", "oakmoss", "caramel"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/unutamam/", "name": "Nishane - Unutamam", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Nanshe",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Woody / Powdery",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "carrot seeds", "cardamom", "yuzu"],
+        "heart": ["water fruits", "flowers", "rose absolute", "jasmine sambac absolute", "ylang ylang"],
+        "base": ["orris", "powdery notes", "musk", "patchouli", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/nanshe/", "name": "Nishane - Nanshe", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Papilefiko",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy / Floral / Balsamic",
+      "accords": [],
+      "notes": {
+        "top": ["cardamom", "coriander", "citrus"],
+        "heart": ["lavandin", "artemisia", "jasmine"],
+        "base": ["fir balsam", "moss", "styrax"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/papilefiko/", "name": "Nishane - Papilefiko", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Tempfluo",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral / Gourmand / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "mandarin", "saffron"],
+        "heart": ["jasmine sambac absolute", "orange flower", "praline"],
+        "base": ["cashmere wood", "cedarwood", "vanilla"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/tempfluo/", "name": "Nishane - Tempfluo", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Tero",
+      "collection": "Time Capsule Collection",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy / Aromatic / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["salty caramel", "black pepper", "sichuan pepper absolute"],
+        "heart": ["patchouli", "cinnamon bark"],
+        "base": ["haiti vetiver oil", "amber", "oakwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/tero/", "name": "Nishane - Tero", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Kredo",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy / Leathery / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["pink pepper", "cardamom"],
+        "heart": ["osmanthus absolute"],
+        "base": ["oud", "sandalwood", "suede"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/kredo/", "name": "Nishane - Kredo", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Favonius",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy / Floral / Woody",
+      "accords": [],
+      "notes": {
+        "top": ["bergamot", "pink pepper", "incense"],
+        "heart": ["geranium", "cypriol", "rose", "armoise", "clary sage"],
+        "base": ["oud", "cedarwood", "patchouli", "sandalwood"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/favonius/", "name": "Nishane - Favonius", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "EGE / AIGAIO",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Green / Aromatic / Aquatic",
+      "accords": [],
+      "notes": {
+        "top": ["yuzu", "violet leaves", "anise"],
+        "heart": ["basil", "green cardamom", "mint"],
+        "base": ["olibanum", "licorice"],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://nishane.com/product/ege-%ce%b1%ce%b9%ce%b3%ce%b1%ce%b9%ce%bf/", "name": "Nishane - EGE / AIGAIO", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    }
+  ]
+}

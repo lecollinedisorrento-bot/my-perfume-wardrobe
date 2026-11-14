@@ -1,0 +1,191 @@
+{
+  "brand": "Bvlgari",
+  "slug": "bvlgari",
+  "officialSite": "https://www.bulgari.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "The official site (bulgari.com) returned HTTP 403 to WebFetch on every listing and product page tried, so it could not be read directly. Its product pages and listings were only seen as WebSearch results (names, concentrations and some notes from search summaries). Facts are therefore taken from authorised retailers (Nordstrom, LookFantastic) and one database (Osmoz); all notes are recorded as reported. Perfumers, concentrations and families are as stated on those pages. Le Gemme Empyr (Bloomingdale's page 403), the Allegra line (bulgari.com and Bloomingdale's/Saks 403, no readable retailer page) and and the Eau Parfumée Thé Blanc and Thé Impérial are not included. Only Eau Parfumée au Thé Vert is included from that line. Omnia Amethyste and the Man In Black/Wood Essence flankers beyond those listed were not researched. Brand-level country not stated.",
+  "fragrances": [
+    {
+      "name": "Le Gemme Tygar",
+      "collection": "Le Gemme",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus Woody",
+      "accords": [],
+      "notes": { "top": ["grapefruit", "ambergris"], "heart": ["ginger", "ambrette seed"], "base": ["ambrox", "musk", "patchouli", "vetiver"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.nordstrom.com/s/le-gemme-tygar-eau-de-parfum/7994987", "name": "Nordstrom — Le Gemme Tygar Eau de Parfum", "type": "retailer", "supports": ["notes", "family", "concentration"] }
+      ]
+    },
+    {
+      "name": "Le Gemme Gyan",
+      "collection": "Le Gemme",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Floral",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["jasmine sambac", "patchouli"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.nordstrom.com/s/le-gemme-gyan-eau-de-parfum/7994988", "name": "Nordstrom — Le Gemme Gyan Eau de Parfum", "type": "retailer", "supports": ["notes", "family", "concentration"] }
+      ]
+    },
+    {
+      "name": "Le Gemme Orom",
+      "collection": "Le Gemme",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Sophie Labbé",
+      "family": "Amber Woody",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla bourbon", "oud assam"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.nordstrom.com/s/le-gemme-orom-eau-de-parfum/7994989", "name": "Nordstrom — Le Gemme Orom Eau de Parfum", "type": "retailer", "supports": ["notes", "family", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Le Gemme Sahare",
+      "collection": "Le Gemme",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Amber",
+      "accords": ["rose", "ambergris"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["taif rose", "ambergris"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.nordstrom.com/s/bvlgari-le-gemme-sahare-eau-de-parfum/7996817", "name": "Nordstrom — Le Gemme Sahare Eau de Parfum", "type": "retailer", "supports": ["notes", "family", "concentration", "accords"] }
+      ]
+    },
+    {
+      "name": "Man Wood Essence",
+      "collection": "Bvlgari Man",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Woody",
+      "accords": [],
+      "notes": { "top": ["coriander", "italian citrus zest"], "heart": ["cypress", "guaiac wood"], "base": ["virginia cedarwood", "benzoin siam"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lookfantastic.com/p/bvlgari-man-wood-essence-eau-de-parfum-60ml/11995879/", "name": "LookFantastic — Bvlgari Man Wood Essence Eau de Parfum", "type": "retailer", "supports": ["notes", "family", "concentration"] }
+      ]
+    },
+    {
+      "name": "Omnia Crystalline",
+      "collection": "Omnia",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Alberto Morillas",
+      "family": "Floral Woody",
+      "accords": [],
+      "notes": { "top": ["nashi pear", "bamboo"], "heart": ["lotus", "white peony"], "base": ["balsa wood", "crystal musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lookfantastic.com/p/bvlgari-omnia-crystalline-eau-de-toilette-100ml/14853480/", "name": "LookFantastic — Bvlgari Omnia Crystalline Eau de Toilette", "type": "retailer", "supports": ["notes", "family", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Omnia Coral",
+      "collection": "Omnia",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": "Alberto Morillas",
+      "family": "Floral Fruity",
+      "accords": ["goji berry", "pomegranate"],
+      "notes": { "top": ["goji berry", "bergamot"], "heart": ["hibiscus", "water lily"], "base": ["pomegranate", "cedarwood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lookfantastic.com/p/bvlgari-omnia-coral-eau-de-toilette-100ml/14853484/", "name": "LookFantastic — Bvlgari Omnia Coral Eau de Toilette", "type": "retailer", "supports": ["notes", "family", "perfumer", "concentration", "accords"] }
+      ]
+    },
+    {
+      "name": "Omnia",
+      "collection": "Omnia",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2003,
+      "perfumer": "Alberto Morillas",
+      "family": "Oriental Spicy",
+      "accords": [],
+      "notes": { "top": ["mandarin", "orange"], "heart": ["masala tea"], "base": ["white chocolate"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.osmoz.com/perfumes/bulgari/435/omnia", "name": "Osmoz — Omnia", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+      ]
+    },
+    {
+      "name": "Le Gemme Yasep",
+      "collection": "Le Gemme",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Musk",
+      "accords": ["sandalwood", "woody musk"],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["sandalwood", "woody musk"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.nordstrom.com/s/le-gemme-yasep-eau-de-parfum/7994986", "name": "Nordstrom — Le Gemme Yasep Eau de Parfum", "type": "retailer", "supports": ["notes", "family", "concentration", "accords"] }
+      ]
+    },
+    {
+      "name": "Man Glacial Essence",
+      "collection": "Bvlgari Man",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Aromatic",
+      "accords": [],
+      "notes": { "top": ["juniper berry", "ginger", "geranium"], "heart": ["australian sandalwood", "orris", "artemisia"], "base": ["cedarwood", "clearwood", "musk"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.nordstrom.com/s/bvlgari-man-glacial-essence-eau-de-parfum/6417900", "name": "Nordstrom — Bvlgari Man Glacial Essence Eau de Parfum", "type": "retailer", "supports": ["notes", "family", "concentration"] }
+      ]
+    },
+    {
+      "name": "Man In Black",
+      "collection": "Bvlgari Man",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Neo-Oriental",
+      "accords": ["leather"],
+      "notes": { "top": ["spices", "ambery rum"], "heart": ["tuberose", "iris", "leather"], "base": ["benzoin", "tonka bean", "guaiac wood"], "flat": [] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lookfantastic.com/p/bvlgari-man-in-black-eau-de-parfum-60ml/13442417/", "name": "LookFantastic — Bvlgari Man In Black Eau De Parfum 60ml", "type": "retailer", "supports": ["notes", "family", "concentration", "accords"] }
+      ]
+    },
+    {
+      "name": "Eau Parfumée au Thé Vert",
+      "collection": "Eau Parfumée",
+      "concentration": "Eau de Toilette",
+      "releaseYear": 1992,
+      "perfumer": "Jean-Claude Ellena",
+      "family": "Citrus Aromatic",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["green tea", "neroli petal"] },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.nordstrom.com/s/eau-parfumee-the-vert-eau-de-toilette/8217236", "name": "Nordstrom — Eau Parfumée Thé Vert Eau de Toilette", "type": "retailer", "supports": ["notes", "family", "concentration", "perfumer", "year"] }
+      ]
+    }
+  ]
+}
