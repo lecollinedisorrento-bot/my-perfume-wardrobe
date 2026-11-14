@@ -81,6 +81,21 @@
       "sources": [
         { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50181556.html", "name": "Chloé — Eau de Parfum Lumineuse 1.7 fl oz", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
       ]
+    },
+    {
+      "name": "Atelier des Fleurs Rosa Damascena Eau de Parfum",
+      "collection": "Atelier des Fleurs",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Amandine Clerc-Marie",
+      "family": "Floral Spicy",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50217680.html", "name": "Chloé — Atelier des Fleurs Rosa Damascena Eau de Parfum 1.7 fl oz", "type": "official", "supports": ["concentration", "family", "perfumer"] }
+      ]
     }
   ]
 }
