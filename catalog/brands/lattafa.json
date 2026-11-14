@@ -1,0 +1,506 @@
+{
+  "brand": "Lattafa",
+  "slug": "lattafa",
+  "officialSite": "https://lattafa.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "lattafa.com returned HTTP 403 to every request (products.json, llms.txt, product pages), so the brand's regional Shopify site lattafaindia.com was used: products.json readable (first ~1.2 MB of feed scanned by listing only, product pages opened for each entry). All notes are from official product pages (noteSource official), recorded as top/heart/base as the page labels them. Concentration recorded only where the page states EDP/EDT/Parfum; names like 'Elixir' alone are not treated as a concentration. Years only where the page text states a launch year (Hayaati Gold Elixir 2023, Jasoor 2023, Najdia Tribute 2021). Deodorants, body sprays, hair mists, discovery sets, gift sets, minis, home fragrance and Pride/Niche sub-lines beyond Pride Art of Arabia I were skipped or not reached; the Lattafa catalogue is larger than this list (the feed was not read to the end). Teriaq, Badee Al Oud and Khamrah (base) were not found in the parts of the feed read and are not included. Brand country not stated on any page read.",
+  "fragrances": [
+    {
+      "name": "Khamrah Waha",
+      "collection": "Khamrah",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": { "top": ["bergamot", "juniper", "yuzu", "ginger"], "heart": ["iris", "cucumber", "sage", "sea salt accord"], "base": ["akigalawood", "tonka bean", "vanilla", "musk", "ambrofix"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/khamrah-waha", "name": "Lattafa India - Khamrah Waha", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Yara",
+      "collection": "Yara",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Sweet Fruity Floral",
+      "accords": [],
+      "notes": { "top": ["tangerine", "heliotrope", "orchid"], "heart": ["tropical notes", "gourmand"], "base": ["vanilla", "sandalwood", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/yara", "name": "Lattafa India - Yara", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Fahad",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "pineapple", "black pepper"], "heart": ["orange blossom", "lavender", "artemisia"], "base": ["incense", "patchouli", "cedarwood", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/fahad", "name": "Lattafa India - Fahad", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Mashrabya",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["apple shisha accord", "pink pepper"], "heart": ["cinnamon", "dates", "tobacco"], "base": ["vanilla", "caramel", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/mashrabya", "name": "Lattafa India - Mashrabya", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Asad Elixir",
+      "collection": "Asad",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Oriental Woody",
+      "accords": [],
+      "notes": { "top": ["pink pepper", "saffron", "grapefruit"], "heart": ["tobacco", "cedarwood", "vanilla"], "base": ["patchouli", "olibanum", "cashmeran", "dry amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/asad-elixir", "name": "Lattafa India - Asad Elixir", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Sheikh Al Shuyukh Supreme",
+      "collection": "Sheikh Al Shuyukh",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cinnamon", "rose", "saffron"], "heart": ["caramel", "patchouli"], "base": ["woody notes", "ambroxan", "vanilla", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/sheikh-al-shuyukh-supreme", "name": "Lattafa India - Sheikh Al Shuyukh Supreme", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Yara Elixir",
+      "collection": "Yara",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["strawberry", "black currant"], "heart": ["jasmine", "orange flower"], "base": ["vanilla", "caramel", "amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/yara-elixir", "name": "Lattafa India - Yara Elixir", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Yara Tous",
+      "collection": "Yara",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["coconut", "mango", "passionfruit"], "heart": ["jasmine", "heliotrope", "orange blossom"], "base": ["cashmeran", "vanilla", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/yara-tous", "name": "Lattafa India - Yara Tous", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Nasmaat",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["blackcurrant", "pineapple", "apricot"], "heart": ["magnolia", "orange blossom", "rose", "cyclamen", "jasmine"], "base": ["caramel", "vanilla", "sandalwood", "cashmeran"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/nasmaat", "name": "Lattafa India - Nasmaat", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Layaan",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["green pear", "mandarin"], "heart": ["gardenia", "jasmine", "muguet"], "base": ["cedarwood", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/layaan", "name": "Lattafa India - Layaan", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Ameer Al Arab Imperium",
+      "collection": "Ameer Al Arab",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "sage", "ginger"], "heart": ["geranium", "cashmeran", "apple"], "base": ["amber", "musk", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/ameer-al-arab-imperium", "name": "Lattafa India - Ameer Al Arab Imperium", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Ana Abiyedh Scarlet",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["black cherry", "pink pepper"], "heart": ["white rose", "peony", "tonka bean", "nutmeg"], "base": ["patchouli", "crystal caramel sugar", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/ana-abiyedh-scarlet", "name": "Lattafa India - Ana Abiyedh Scarlet", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Dynasty",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "ginger", "clary sage", "nutmeg", "raspberry"], "heart": ["rooibos tea", "suede"], "base": ["amberwood", "cedarwood", "cashmeran"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/dynasty", "name": "Lattafa India - Dynasty", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Khamrah Dukhan",
+      "collection": "Khamrah",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "pimento", "smoked spices"], "heart": ["cistus", "orange flower", "incense", "patchouli"], "base": ["tobacco", "amber", "tonka bean", "benzoin", "praline"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/khamrah-dukhan", "name": "Lattafa India - Khamrah Dukhan", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Qaa'ed",
+      "collection": "Qaed",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cinnamon", "cardamom", "bergamot"], "heart": ["saffron", "sandalwood", "cedar", "carnation"], "base": ["vanilla", "agarwood", "amber", "leather"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/qaaed", "name": "Lattafa India - Qaa'ed", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Qaed Al Fursan Black",
+      "collection": "Qaed Al Fursan",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["saffron", "pineapple"], "heart": ["jasmine", "fir balsam"], "base": ["oud wood", "cedarwood", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/qaed-al-fursan-black", "name": "Lattafa India - Qaed Al Fursan Black", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Qaed Al Fursan Unlimited White",
+      "collection": "Qaed Al Fursan",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pineapple", "citrus", "coconut"], "heart": ["jasmine", "frangipani", "ylang"], "base": ["vanilla", "white musk", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/qaed-al-fursan-unlimited-white", "name": "Lattafa India - Qaed Al Fursan Unlimited White", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Eclaire Banoffi",
+      "collection": "Eclaire",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Gourmand",
+      "accords": [],
+      "notes": { "top": ["banana cream", "whipped cream", "pastry cream"], "heart": ["banana", "dulce de leche accord"], "base": ["vanilla", "praline", "biscuit", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/eclaire-banoffi", "name": "Lattafa India - Eclaire Banoffi", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Eclaire Pistache",
+      "collection": "Eclaire",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pistachio cream", "toasted pistachio"], "heart": ["pastry cream", "coconut", "cacao"], "base": ["vanilla", "milk", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/eclaire-pistache", "name": "Lattafa India - Eclaire Pistache", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Velvet Oud",
+      "collection": "Velvet",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cardamom", "bergamot"], "heart": ["violet leaf", "patchouli"], "base": ["suede", "oud", "amber musk", "oak moss"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/velvet-oud", "name": "Lattafa India - Velvet Oud", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "The Kingdom Man",
+      "collection": "The Kingdom",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["sage", "lavender", "mint"], "heart": ["tobacco", "vanilla", "orange flower"], "base": ["benzoin", "tonka bean", "labdanum"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/the-kingdom-man", "name": "Lattafa India - The Kingdom Man", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "The Kingdom Women",
+      "collection": "The Kingdom",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["blackcurrant", "peony", "pear"], "heart": ["jasmine", "praline", "tonka bean"], "base": ["vanilla", "sandalwood", "amber", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/the-kingdom-women", "name": "Lattafa India - The Kingdom Women", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Raghba For Man",
+      "collection": "Raghba",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon verbena", "iris", "lemon"], "heart": ["violet leaf"], "base": ["sandalwood", "ambergris", "leather", "cedar"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/raghba-for-man", "name": "Lattafa India - Raghba For Man", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Raghba Wood Intense",
+      "collection": "Raghba",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["caramel", "licorice", "guaiac wood", "cedar"], "heart": ["agarwood", "sugar", "sandalwood", "cashmere wood"], "base": ["incense", "vanilla", "amber", "oakmoss", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/raghba-wood-intense", "name": "Lattafa India - Raghba Wood Intense", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Oud Mood",
+      "collection": "Oud Mood",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["nutmeg", "cinnamon", "bark saffron"], "heart": ["sandalwood", "oud wood", "leather"], "base": ["vanilla", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/oud-mood", "name": "Lattafa India - Oud Mood", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Her Confession",
+      "collection": "Confession",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["accord", "cinnamon", "mystikal"], "heart": ["jasmine", "tuberose", "incense", "mahonial"], "base": ["tonka bean", "musk", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/her-confession-for-women", "name": "Lattafa India - Her Confession", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "His Confession",
+      "collection": "Confession",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "cinnamon", "lavender"], "heart": ["iris", "cypress", "benzoin", "mahonial"], "base": ["vanilla", "tonka bean", "patchouli", "cedarwood", "incense", "amber"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/his-confession-for-men", "name": "Lattafa India - His Confession", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Maahir Legancy",
+      "collection": "Maahir",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lime", "grapefruit", "lavender", "spearmint", "pineapple"], "heart": ["juniper berry", "rosemary", "olibanum resinoid", "geranium", "black pepper"], "base": ["vetiver", "cashmeran", "ambrox", "oak moss", "tonka bean"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/maahir-legancy", "name": "Lattafa India - Maahir Legancy", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Mohra",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Woody",
+      "accords": [],
+      "notes": { "top": ["bergamot", "blood orange", "lavender", "saffron"], "heart": ["rose", "black pepper", "cashmeran"], "base": ["cedarwood", "sandalwood", "patchouli", "cistus labdanum", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/mohra", "name": "Lattafa India - Mohra", "type": "official", "supports": ["notes", "family"] }
+      ]
+    },
+    {
+      "name": "Hayaati Gold Elixir",
+      "collection": "Hayaati",
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["grapefruit", "bergamot", "cassis"], "heart": ["peach", "saffron", "leather"], "base": ["vetiver", "vanilla", "musk", "amber accord"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/hayaati-gold-elixir", "name": "Lattafa India - Hayaati Gold Elixir", "type": "official", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "Jasoor",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2023,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "cardamom", "apple"], "heart": ["lavender", "tobacco", "geranium"], "base": ["leather", "tonka", "patchouli", "vetiver"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/jasoor", "name": "Lattafa India - Jasoor", "type": "official", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "Najdia Tribute",
+      "collection": "Najdia",
+      "concentration": null,
+      "releaseYear": 2021,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin orange", "apple", "ginger"], "heart": ["violet leaf", "guaiac wood", "saffron", "cedar"], "base": ["leather", "ambergris", "agarwood", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/najdia-tribute-new", "name": "Lattafa India - Najdia Tribute", "type": "official", "supports": ["notes", "year"] }
+      ]
+    },
+    {
+      "name": "Pride Art of Arabia I",
+      "collection": "Pride",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "mint"], "heart": ["black tea", "ginger", "lavender"], "base": ["ambroxan", "frankincense", "cinnamon"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.lattafaindia.com/products/pride-art-of-arabia-i", "name": "Lattafa India - Pride Art of Arabia I", "type": "official", "supports": ["notes"] }
+      ]
+    }
+  ]
+}

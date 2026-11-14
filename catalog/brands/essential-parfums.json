@@ -1,0 +1,207 @@
+{
+  "brand": "Essential Parfums",
+  "slug": "essential-parfums",
+  "officialSite": "https://us.essentialparfums.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify storefront (us.essentialparfums.com) read via /products.json (pages 1-3). Only the Eau de Parfum range was kept; sets, samples, soaps, mists, laundry, hand cream and gift cards were excluded. Several 100 ml product pages have empty feed bodies, so notes for those fragrances come from the official 10 ml travel-bottle pages of the same fragrance, or from the 100 ml product page description. Ingredient-list sections and trade-name molecules were not used as notes. Perfumer names are from official product titles or descriptions. Release years are not stated on the official pages.",
+  "fragrances": [
+    {
+      "name": "Ambre Latte",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["almond milk", "tonka bean", "dulce de leche", "vanilla", "benzoin", "musk", "sandalwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/ambre-latte-eau-de-parfum-natural-spray-refillable-100-ml", "name": "Essential Parfums - Ambre Latte 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Osmanthus Absolu",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "cardamom", "osmanthus", "black tea", "cedarwood", "vanilla"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/osmanthus-absolu-eau-de-parfum-spray-10-ml", "name": "Essential Parfums - Osmanthus Absolu 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "The Musc",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Calice Becker",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["red ginger", "lavandin", "beeswax", "musk", "sandalwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/the-musc-eau-de-parfum-refillable-spray-100-ml", "name": "Essential Parfums - The Musc 100 ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Nice Bergamote",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "rose petal", "jasmine", "ylang ylang", "cedarwood", "tonka bean"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/nice-bergamote-eau-de-parfum-spray-10-ml", "name": "Essential Parfums - Nice Bergamote 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Bois Impérial",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["thai basil", "timut pepper", "vetiver", "patchouli"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/bois-imperial-eau-de-parfum-refillable-spray-100-ml", "name": "Essential Parfums - Bois Impérial 100 ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Neroli Botanica",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Anne Flipo",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["turmeric leaf", "ginger", "pink pepper", "black pepper", "neroli", "jasmine sambac", "orange blossom", "vetiver", "sandalwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/neroli-botanica-eau-de-parfum-refillable-spray-100-ml", "name": "Essential Parfums - Néroli Botanica 100 ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Orange X Santal",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Natalie Gracia-Cetto",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bitter orange", "basil", "oakmoss", "cypress wood", "sandalwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/orange-x-santal-eau-de-parfum-refillable-spray-100-ml", "name": "Essential Parfums - Orange X Santal 100 ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] },
+        { "url": "https://us.essentialparfums.com/products/orange-x-santal-eau-de-parfum-spray-10-ml", "name": "Essential Parfums - Orange X Santal 10 ml", "type": "official", "supports": ["notes"] }
+      ]
+    },
+    {
+      "name": "Velvet Iris",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Dominique Ropion",
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["pink pepper", "turmeric leaf", "buchu leaf", "galbanum", "lentisque", "iris", "labdanum", "sandalwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/velvet-iris-eau-de-parfum-refillable-spray-100-ml", "name": "Essential Parfums - Velvet Iris 100 ml", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Rose Magnetic",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bitter grapefruit", "peppermint", "rose", "lychee", "cedar", "musk", "vanilla"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/rose-magnetic-eau-de-parfum-refillable-spray-100-ml", "name": "Essential Parfums - Rose Magnetic 100 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Patchouli Mania",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["davana", "green hazelnut", "coriander seed", "cocoa", "clearwood", "tea", "vetiver", "patchouli"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/patchouli-mania-eau-de-parfum-spray-10-ml", "name": "Essential Parfums - Patchouli Mania 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Mon Vétiver",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vetiver", "juniper", "lime", "lavender", "gentian", "cashmere wood", "patchouli"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/mon-vetiver-eau-de-parfum-spray-10-ml", "name": "Essential Parfums - Mon Vétiver 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Fig Infusion",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["fig", "mandarin", "clementine", "freesia", "orange blossom", "black tea", "cedar", "sandalwood", "benzoin"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/fig-infusion-eau-de-parfum-spray-10-ml", "name": "Essential Parfums - Fig Infusion 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Divine Vanille",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla", "tonka bean", "benzoin", "cinnamon bark", "osmanthus", "cedar", "patchouli", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://us.essentialparfums.com/products/divine-vanille-eau-de-parfum-spray-10-ml", "name": "Essential Parfums - Divine Vanille 10 ml", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    }
+  ]
+}

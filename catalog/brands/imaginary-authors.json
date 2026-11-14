@@ -1,0 +1,347 @@
+{
+  "brand": "Imaginary Authors",
+  "slug": "imaginary-authors",
+  "officialSite": "https://imaginaryauthors.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Shopify site (imaginaryauthors.com). Range from /collections/fragrances/products.json and /products.json feeds; one official product page per fragrance for notes (the site publishes a flat list, no top/heart/base). Concentration: the product-info page states that all fragrances are Eau de Parfum (18-22%), so each entry cites it. No perfumer, family or release years are stated on the site. Handles 'o-unknown', 'telegrama' and 'whispered-myths' from the feed did not return a product page (they returned other products), so they are not included. 'Dipped in Chocolate' page is login-protected and was skipped. Sets, candles, soap, mugs and samplers skipped. Not blocked.",
+  "fragrances": [
+    {
+      "name": "Impassable Wilderness",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["grand fir", "scotch pine", "resurrection fern", "red cedar", "oakmoss", "petrichor", "the ancient grove"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/impassable-wilderness", "name": "Imaginary Authors — Impassable Wilderness", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Yesterday Haze",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["fig", "iris", "cream", "tonka", "tree bark", "walnut bitters", "orchard dust"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/yesterday-haze", "name": "Imaginary Authors — Yesterday Haze", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "A Little Secret",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rainier cherry", "marzipan", "patchouli", "saffron", "demerara sugar", "rum-soaked tonka", "pastry crust"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/a-little-secret", "name": "Imaginary Authors — A Little Secret", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "The Abandoned Mansion",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cedar", "quince", "petitgrain", "pimento berry", "oakmoss absolute", "ambreine", "paperbacks"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/the-abandoned-mansion-fragrance", "name": "Imaginary Authors — The Abandoned Mansion", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "First Peach of the Season",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["yellow peach", "bigarade", "chantilly cream", "jasmine lactone", "honeydew melon", "benzoin", "soft flesh"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/first-peach-of-the-season-fragrance", "name": "Imaginary Authors — First Peach of the Season", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Falling into the Sea",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["lemon", "bergamot", "grapefruit", "lychee", "tropical flowers", "warm sand"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/falling-into-the-sea", "name": "Imaginary Authors — Falling into the Sea", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Cape Heartache",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["douglas fir", "pine resin", "western hemlock", "vanilla leaf", "strawberry", "old growth", "mountain fog"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/cape-heartache", "name": "Imaginary Authors — Cape Heartache", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "In Love With Everything",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["raspberry", "citrus pulp", "coconut palm sugar", "madame isaac pereire", "sandalwood", "tropical punch", "stardust"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/in-love-with-everything", "name": "Imaginary Authors — In Love With Everything", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Memoirs of a Trespasser",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["madagascar vanilla", "guaiacwood", "myrrh", "benzoin resin", "ambrette seeds", "oak barrels"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/memoirs-of-a-trespasser", "name": "Imaginary Authors — Memoirs of a Trespasser", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Saint Julep",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["sweet mint", "tangerine", "southern magnolia", "bourbon", "grisalva", "sugarcube"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/saint-julep", "name": "Imaginary Authors — Saint Julep", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "The Soft Lawn",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["linden blossom", "grapefruit", "laurel leaf", "ivy leaf", "vetiver", "oakmoss", "fresh tennis balls"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/the-soft-lawn", "name": "Imaginary Authors — The Soft Lawn", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Sundrunk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["neroli", "rhubarb", "honeysuckle", "rose water", "orange zest", "first kiss"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/sundrunk", "name": "Imaginary Authors — Sundrunk", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Untamable",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["leather saddle", "tonka resin", "saguaro blossom", "texas yellowstar", "cumin", "tumbleweed", "paso fino"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/untamable", "name": "Imaginary Authors — Untamable", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Slow Explosions",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["saffron", "rose absolute", "leather", "apple", "benzoin", "cashmeran", "arpora night market"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/slow-explosions", "name": "Imaginary Authors — Slow Explosions", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Every Storm a Serenade",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["eucalyptus absolute", "vetiver", "spruce oil", "calone", "ambergris", "heather", "baltic sea mist"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/every-storm-a-serenade-fragrance-v2", "name": "Imaginary Authors — Every Storm a Serenade", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "The Language of Glaciers",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["white pine", "lilac", "cashmere", "juniper", "forget me not", "blue bugle", "virgin snowfall"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/the-language-of-glaciers", "name": "Imaginary Authors — The Language of Glaciers", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Bull's Blood",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["geranium", "spanish rose", "patchouli", "black musk", "tobacco", "sandalwood", "bull's blood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/bulls-blood-2nd-edition", "name": "Imaginary Authors — Bull's Blood", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "How to Say Bicycle in French",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["sweet basil", "rosemary", "white thyme", "clary sage", "lavender", "gentian oil", "provence"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/how-to-say-bicycle-in-french", "name": "Imaginary Authors — How to Say Bicycle in French", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "A City on Fire",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cade oil", "spikenard", "cardamom", "clearwood", "dark berries", "labdanum", "burnt match"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/a-city-on-fire", "name": "Imaginary Authors — A City on Fire", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "Fox in the Flowerbed",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["jasmine", "tulips", "frankincense", "wildflower honey", "pink peppercorns", "silver thistle", "alpine air"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/fox-in-the-flowerbed", "name": "Imaginary Authors — Fox in the Flowerbed", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    },
+    {
+      "name": "A Whiff of Waffle Cone",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla", "salted caramel", "saigon cinnamon", "heavy cream", "sandalwood", "orgeat", "scoop shop"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://imaginaryauthors.com/products/a-whiff-of-wafflecone", "name": "Imaginary Authors — A Whiff of Waffle Cone", "type": "official", "supports": ["notes"] },
+        { "url": "https://imaginaryauthors.com/pages/product-info", "name": "Imaginary Authors — Product info", "type": "official", "supports": ["concentration"] }
+      ]
+    }
+  ]
+}
