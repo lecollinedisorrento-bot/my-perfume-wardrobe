@@ -405,6 +405,12 @@ function initialSegments(eligible: Fragrance[]) {
 // ───────────────────────────── Slot machine ─────────────────────────────
 
 const ITEM_H = 104;
+/** The three reel windows of public/art/slot-cabinet.webp, measured from the artwork (percent). */
+const SLOT_WINDOWS: React.CSSProperties[] = [
+  { left: '14.44%', top: '38.93%', width: '21.22%', height: '36.47%' },
+  { left: '39.67%', top: '38.93%', width: '20.44%', height: '36.47%' },
+  { left: '64.11%', top: '38.93%', width: '21.11%', height: '36.47%' },
+];
 const STRIP_LEN = 26;
 
 /**
@@ -413,7 +419,7 @@ const STRIP_LEN = 26;
  * still work. `pulled` plays the automatic pull when the big button is used.
  */
 function Lever({ pulled, disabled, onPull, label }: { pulled: boolean; disabled: boolean; onPull: () => void; label: string }) {
-  const TRAVEL = 96;
+  const TRAVEL = 130; // px the knob travels (matches .lever-knob)
   const [drag, setDrag] = useState<number | null>(null); // 0..1 while dragging
   const start = useRef<{ y: number; id: number } | null>(null);
   const lastTick = useRef(0);
@@ -466,9 +472,9 @@ function Lever({ pulled, disabled, onPull, label }: { pulled: boolean; disabled:
       data-testid="spin-button"
       aria-label={label}
     >
-      <span className="lever-base" />
-      <span className="lever-stick" />
-      <span className="lever-knob" />
+      <Art name="slot-base" className="lever-base" eager />
+      <Art name="slot-arm" className="lever-stick" eager />
+      <Art name="slot-knob" className="lever-knob" eager />
     </button>
   );
 }
@@ -482,6 +488,18 @@ function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult
   const [animate, setAnimate] = useState(false);
   const [outcome, setOutcome] = useState<SlotOutcome | null>(null);
   const [lever, setLever] = useState(false);
+  // Reel windows scale with the screen, so one reel symbol = the window's real height.
+  const reelRef = useRef<HTMLDivElement>(null);
+  const [itemH, setItemH] = useState(ITEM_H);
+  useEffect(() => {
+    const el = reelRef.current;
+    if (!el || typeof ResizeObserver === 'undefined') return;
+    const ro = new ResizeObserver(() => {
+      if (el.clientHeight) setItemH(el.clientHeight);
+    });
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
   const durations = reduced ? [200, 250, 300] : [1700, 2400, 3100];
 
   useEffect(() => {
@@ -515,7 +533,7 @@ function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult
     requestAnimationFrame(() =>
       requestAnimationFrame(() => {
         setAnimate(true);
-        setOffsets(next.map((s) => (s.length - 1) * ITEM_H));
+        setOffsets(next.map((s) => (s.length - 1) * itemH));
       }),
     );
     durations.forEach((d, i) =>
@@ -535,36 +553,49 @@ function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult
 
   return (
     <div className="slots-wrap">
-      <div className="slots c-blue dots" data-testid="slots">
-        <div className="slots-marquee display" aria-hidden="true">
-          ★ {t('spin.slots')} ★
-        </div>
-        <div className="reels">
-          {[0, 1, 2].map((r) => (
-            <div key={r} className={`reel ${outcome?.winnerReels.includes(r) ? 'win' : ''}`} data-testid={`reel-${r}`} data-result={outcome ? outcome.reels[r] : ''}>
-              <div
-                className="reel-strip"
-                style={{
-                  transform: `translateY(-${offsets[r]}px)`,
-                  transition: animate ? `transform ${durations[r]}ms cubic-bezier(0.2, 0.75, 0.25, 1.06)` : 'none',
-                  filter: spinning && animate ? 'blur(0.6px)' : 'none',
-                }}
-              >
-                {strips[r].map((id, i) => {
-                  const f = byId.get(id);
-                  return f ? (
-                    <div key={i} className={`reel-item c-${familyColor(f.family) === 'ink' ? 'lilac' : familyColor(f.family)}`} style={{ height: ITEM_H }}>
-                      <BottleImage fragrance={f} />
-                      <span>{truncate(f.name, 14)}</span>
-                    </div>
-                  ) : (
-                    <div key={i} className="reel-item" style={{ height: ITEM_H }} />
-                  );
-                })}
-              </div>
+      <div className={`slot-machine ${spinning ? 'spinning' : ''}`} data-testid="slots">
+        {/* Reels sit behind the cabinet artwork and show through its three windows. */}
+        {[0, 1, 2].map((r) => (
+          <div
+            key={r}
+            ref={r === 0 ? reelRef : undefined}
+            className={`reel ${outcome?.winnerReels.includes(r) ? 'win' : ''}`}
+            style={SLOT_WINDOWS[r]}
+            data-testid={`reel-${r}`}
+            data-result={outcome ? outcome.reels[r] : ''}
+          >
+            <div
+              className="reel-strip"
+              style={{
+                transform: `translateY(-${offsets[r]}px)`,
+                transition: animate ? `transform ${durations[r]}ms cubic-bezier(0.2, 0.75, 0.25, 1.06)` : 'none',
+                filter: spinning && animate ? 'blur(0.6px)' : 'none',
+              }}
+            >
+              {strips[r].map((id, i) => {
+                const f = byId.get(id);
+                return f ? (
+                  <div key={i} className={`reel-item c-${familyColor(f.family) === 'ink' ? 'lilac' : familyColor(f.family)}`} style={{ height: itemH }}>
+                    <BottleImage fragrance={f} />
+                    <span>{truncate(f.name, 14)}</span>
+                  </div>
+                ) : (
+                  <div key={i} className="reel-item" style={{ height: itemH }} />
+                );
+              })}
             </div>
-          ))}
-        </div>
+          </div>
+        ))}
+        <Art name="slot-cabinet" className="slot-cabinet" eager />
+        <span className="slot-sign display" aria-hidden="true">
+          {t('spin.slots')}
+        </span>
+        {outcome && outcome.match > 1 && (
+          <div className="slot-win" aria-hidden="true">
+            <Art name="slot-win" className="slot-win-burst" eager />
+            <span className="display">{outcome.match === 3 ? t('spin.triple') : t('spin.double')}</span>
+          </div>
+        )}
         {outcome && (
           <div className="slots-banner display" role="status">
             {outcome.match === 3 ? t('spin.triple') : outcome.match === 2 ? t('spin.double') : t('spin.single', { n: outcome.winnerReels[0] + 1 })}

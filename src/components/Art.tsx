@@ -18,7 +18,12 @@ export type ArtName =
   | 'empty-history'
   | 'spin-win'
   | 'lab-mix'
-  | 'badge-frame';
+  | 'badge-frame'
+  | 'slot-cabinet'
+  | 'slot-win'
+  | 'slot-knob'
+  | 'slot-arm'
+  | 'slot-base';
 
 export function Art({ name, className = '', size, eager = false }: { name: ArtName; className?: string; size?: number; eager?: boolean }) {
   return (
