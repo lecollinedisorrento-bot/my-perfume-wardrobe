@@ -8,3 +8,4 @@ playwright-report
 public/catalog/*
 !public/catalog/img/
 catalog/images.shard*.json
+__pycache__/
