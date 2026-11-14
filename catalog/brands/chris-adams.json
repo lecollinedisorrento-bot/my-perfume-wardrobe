@@ -11,7 +11,7 @@
   ],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "No official brand website found via search (search results say Nabeel Perfumes Industries, UAE; other sources say Paris or UK; origin unresolved so country is null). Parfumo, Scentverdict, FragranceNet, Desertcart, Ubuy returned 403 and Carrefour UAE 503. Catalogue built from the retailer Shopwice brand listing (58 items, 3 pages): 49 single fragrances recorded; excluded 7 gift sets, and the duplicate listings Pure Red (2nd entry) and Dreamz Pink (Dreamz Woman Pink). All notes are 'reported' from Shopwice product pages; family is the retailer's olfactive/scent-family text. Concentration null for Active Man (page says EDP in title but EDT in technical details). Active Woman Rebellion and Prize D'or pages list identical pyramids (Rebellion page text calls it Prize D'Or), possibly one product listed twice. No launch years or perfumers stated on any page. Shopwice page 'Dolby Man Sport' and 'DX77 Man' are EDT. Retailer pages may carry inconsistencies (e.g. Dreamz Pour Femme lists gender Men).",
+  "researchNotes": "No official brand website found via search (search results say Nabeel Perfumes Industries, UAE; other sources say Paris or UK; origin unresolved so country is null). Parfumo, Scentverdict, FragranceNet, Desertcart, Ubuy returned 403 and Carrefour UAE 503. Catalogue built from the retailer Shopwice brand listing (58 items, 3 pages): 49 single fragrances recorded; excluded 7 gift sets, and the duplicate listings Pure Red (2nd entry) and Dreamz Pink (Dreamz Woman Pink). All notes are 'reported' from Shopwice product pages; family is the retailer's olfactive/scent-family text. Concentration null for Active Man (page says EDP in title but EDT in technical details). Active Woman Rebellion and Prize D'or pages list identical pyramids (Rebellion page text calls it Prize D'Or), possibly one product listed twice. No launch years or perfumers stated on any page. Shopwice page 'Dolby Man Sport' and 'DX77 Man' are EDT. Retailer pages may carry inconsistencies (e.g. Dreamz Pour Femme lists gender Men). Editorial review: Active Woman Rebellion notes removed — its page text describes Prize D'Or.",
   "fragrances": [
     {
       "name": "Active Man",
@@ -2202,24 +2202,12 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": "Fruity, Vanilla",
+      "family": null,
       "accords": [],
       "notes": {
-        "top": [
-          "blackcurrant",
-          "milky",
-          "apple"
-        ],
-        "heart": [
-          "jasmine",
-          "rum",
-          "coconut"
-        ],
-        "base": [
-          "vanilla",
-          "caramel",
-          "sandalwood"
-        ],
+        "top": [],
+        "heart": [],
+        "base": [],
         "flat": []
       },
       "noteSource": "reported",
@@ -2230,8 +2218,6 @@
           "name": "Shopwice — Chris Adams Active Woman Rebellion",
           "type": "retailer",
           "supports": [
-            "notes",
-            "family",
             "concentration"
           ]
         }

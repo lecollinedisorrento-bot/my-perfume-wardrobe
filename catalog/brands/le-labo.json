@@ -1,0 +1,642 @@
+{
+  "brand": "Le Labo",
+  "slug": "le-labo",
+  "officialSite": "https://www.lelabofragrances.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Le Labo pages (opened one by one from the site navigation) confirm the 20 Classic Collection names but give no note lists, concentration or year (except Another 13: Eau de Parfum). Notes for 6 fragrances come from Scento (retailer/database, some relayed from Harrods). Parfumo and Fragrantica returned 403. City Exclusive fragrances are not listed individually on any page opened, so none are included. Gaiac 10, Hinoki 2 etc. were not in the navigation seen and are not included.",
+  "fragrances": [
+    {
+      "name": "Another 13",
+      "collection": "Classic Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "apple"
+        ],
+        "heart": [
+          "ambroxan",
+          "moss",
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "ambrette"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "offSup": [
+        "concentration"
+      ],
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/another-13-463.html",
+          "name": "Le Labo — Another 13",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/another-13-le-labo",
+          "name": "Scento — Another 13",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santal 33",
+      "collection": "Classic Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2011,
+      "perfumer": "Frank Voelkl",
+      "family": "Woody Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "violet"
+        ],
+        "heart": [
+          "virginia cedar",
+          "papyrus"
+        ],
+        "base": [
+          "sandalwood",
+          "leather",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/santal-33.html",
+          "name": "Le Labo — Santal 33",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://www.scento.com/perfumes/santal-33-le-labo",
+          "name": "Scento — Santal 33",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thé Matcha 26",
+      "collection": "Classic Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Frank Voelkl",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fig",
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
+          "matcha",
+          "white tea",
+          "jasmine"
+        ],
+        "base": [
+          "vetiver",
+          "musk",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/th-matcha-26.html",
+          "name": "Le Labo — Thé Matcha 26",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://www.scento.com/perfumes/the-matcha-26-le-labo",
+          "name": "Scento — The Matcha 26",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thé Noir 29",
+      "collection": "Classic Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fig",
+          "bay leaf",
+          "bergamot"
+        ],
+        "heart": [
+          "black pepper",
+          "rose",
+          "black tea"
+        ],
+        "base": [
+          "cedarwood",
+          "tobacco",
+          "musk",
+          "hay"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/th-noir-29.html",
+          "name": "Le Labo — Thé Noir 29",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://www.scento.com/perfumes/the-noir-29-by-le-labo",
+          "name": "Scento — Thé Noir 29",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose 31",
+      "collection": "Classic Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "cumin"
+        ],
+        "heart": [
+          "rose",
+          "vetiver",
+          "cedarwood"
+        ],
+        "base": [
+          "musk",
+          "guaiac wood",
+          "frankincense",
+          "labdanum",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/rose-31.html",
+          "name": "Le Labo — Rose 31",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://www.scento.com/perfume-database/perfumes/le-labo-rose-31-parfum",
+          "name": "Scento — Rose 31",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neroli 36",
+      "collection": "Classic Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange blossom",
+          "mandarin",
+          "aldehydes"
+        ],
+        "heart": [
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "tonka bean",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/neroli-36.html",
+          "name": "Le Labo — Neroli 36",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://www.scento.com/perfume-database/perfumes/le-labo-neroli-36",
+          "name": "Scento — Neroli 36",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bergamote 22",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/bergamote-22.html",
+          "name": "Le Labo — Bergamote 22",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Lavande 31",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/lavande-31.html",
+          "name": "Le Labo — Lavande 31",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Eucalyptus 20",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/classic-collection/eucalyptus-20.html",
+          "name": "Le Labo — Eucalyptus 20",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Violette 30",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/classic-collection/violette-30",
+          "name": "Le Labo — Violette 30",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Baie 19",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/baie-19.html",
+          "name": "Le Labo — Baie 19",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Lys 41",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/lys-41.html",
+          "name": "Le Labo — Lys 41",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Jasmin 17",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/classic-collection/jasmin-17.html",
+          "name": "Le Labo — Jasmin 17",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Fleur d'Oranger 27",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/fleur-doranger-27.html",
+          "name": "Le Labo — Fleur d'Oranger 27",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Tonka 25",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/tonka-25.html",
+          "name": "Le Labo — Tonka 25",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Vetiver 46",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/vetiver-46.html",
+          "name": "Le Labo — Vetiver 46",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Patchouli 24",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/patchouli-24.html",
+          "name": "Le Labo — Patchouli 24",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Ambrette 9",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/ambrette-9.html",
+          "name": "Le Labo — Ambrette 9",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Ylang 49",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/ylang-49.html",
+          "name": "Le Labo — Ylang 49",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Labdanum 18",
+      "collection": "Classic Collection",
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lelabofragrances.com/labdanum-18.html",
+          "name": "Le Labo — Labdanum 18",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}
