@@ -1,0 +1,871 @@
+{
+  "brand": "Versace",
+  "slug": "versace",
+  "officialSite": "https://www.versace.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "versace.com returned HTTP 403 to every fetch, so the official site could not be read. The range comes from the Escentual (retailer) Shopify product feed, read in three pages; the feed was truncated in places, so coverage is partial. Gift sets, travel sprays, body care and deodorants were skipped. Concentration is taken from each product title on the retailer. Notes were read only for Eros Eau de Parfum (LookFantastic product page, type retailer, so noteSource is reported); the other entries have no notes because their retailer pages were truncated and the search snippets conflicted. Release years, perfumers and families are not stated on the pages read. Brand country not stated.",
+  "fragrances": [
+    {
+      "name": "Dylan Blush Pink",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-dylan-blush-pink-eau-de-parfum",
+          "name": "Escentual - Versace Dylan Blush Pink Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crystal Emerald",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-crystal-emerald-eau-de-parfum",
+          "name": "Escentual - Versace Crystal Emerald Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eau Fraiche Extreme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-eau-fraiche-extreme-eau-de-parfum",
+          "name": "Escentual - Versace Eau Fraiche Extreme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eros Najim",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-eros-najim-parfum-spray",
+          "name": "Escentual - Versace Eros Najim Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eros Energy",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-eros-energy-eau-de-parfum-spray",
+          "name": "Escentual - Versace Eros Energy Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bright Crystal",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-bright-crystal-parfum-spray-50ml",
+          "name": "Escentual - Versace Bright Crystal Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crystal Noir",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-crystal-noir-parfum-spray-50ml",
+          "name": "Escentual - Versace Crystal Noir Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dylan Purple",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-dylan-purple-eau-de-parfum-spray",
+          "name": "Escentual - Versace Dylan Purple Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eros",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-eros-parfum-spray-100ml",
+          "name": "Escentual - Versace Eros Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dylan Turquoise",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-dylan-turquoise-eau-de-toilette-spray",
+          "name": "Escentual - Versace Dylan Turquoise Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eros",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "italian lemon",
+          "mandarin",
+          "mint",
+          "candied apple"
+        ],
+        "heart": [
+          "geranium",
+          "clary sage",
+          "ambermax"
+        ],
+        "base": [
+          "cedarwood",
+          "vetiver",
+          "patchouli",
+          "sandalwood",
+          "vanilla"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-eros-eau-de-parfum-spray",
+          "name": "Escentual - Versace Eros Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.lookfantastic.com/p/versace-eros-eau-de-parfum-50ml/13034004",
+          "name": "LookFantastic - Versace Eros Eau de Parfum 50ml",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eros Flame",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-eros-flame-eau-de-parfum-spray",
+          "name": "Escentual - Versace Eros Flame Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dylan Blue Pour Femme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-dylan-blue-pour-femme-eau-de-parfum-spray",
+          "name": "Escentual - Versace Dylan Blue Pour Femme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pour Homme Dylan Blue",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-pour-homme-dylan-blue-eau-de-toilette-spray",
+          "name": "Escentual - Versace Pour Homme Dylan Blue Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eros Pour Femme",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-eros-pour-femme-eau-de-toilette-spray",
+          "name": "Escentual - Versace Eros Pour Femme Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blue Jeans",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-blue-jeans-eau-de-toilette-spray-75ml",
+          "name": "Escentual - Versace Blue Jeans Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Jeans",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-red-jeans-eau-de-toilette-spray-75ml",
+          "name": "Escentual - Versace Red Jeans Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Noir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-oud-noir-eau-de-parfum-spray-100ml",
+          "name": "Escentual - Versace Oud Noir Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Oriental",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-oud-oriental-eau-de-parfum-100ml",
+          "name": "Escentual - Versace Oud Oriental Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eros Pour Femme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-eros-pour-femme-eau-de-parfum-spray",
+          "name": "Escentual - Versace Eros Pour Femme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bright Crystal Absolu",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-bright-crystal-absolu-eau-de-parfum-spray",
+          "name": "Escentual - Versace Bright Crystal Absolu Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eros",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-eros-eau-de-toilette-spray",
+          "name": "Escentual - Versace Eros Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yellow Diamond",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-yellow-diamond-eau-de-toilette-spray",
+          "name": "Escentual - Versace Yellow Diamond Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pour Homme",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-pour-homme-eau-de-toilette-spray",
+          "name": "Escentual - Versace Pour Homme Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Dreamer",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-the-dreamer-eau-de-toilette-spray",
+          "name": "Escentual - Versace The Dreamer Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Homme",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-lhomme-eau-de-toilette-spray",
+          "name": "Escentual - Versace L'Homme Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woman",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-woman-eau-de-parfum-spray",
+          "name": "Escentual - Versace Woman Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bright Crystal",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-bright-crystal-eau-de-toilette-spray",
+          "name": "Escentual - Versace Bright Crystal Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crystal Noir",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-crystal-noir-eau-de-toilette-spray",
+          "name": "Escentual - Versace Crystal Noir Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crystal Noir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-crystal-noir-eau-de-parfum-spray",
+          "name": "Escentual - Versace Crystal Noir Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Man Eau Fraiche",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://escentual.com/products/versace-man-eau-fraiche-eau-de-toilette-spray",
+          "name": "Escentual - Versace Man Eau Fraiche Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

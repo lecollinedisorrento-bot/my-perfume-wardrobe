@@ -1,0 +1,632 @@
+{
+  "brand": "Dolce & Gabbana",
+  "slug": "dolce-gabbana",
+  "officialSite": "https://www.dolcegabbana.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official dolcegabbana.com (en-gb) women and men perfume listing pages were read; each listing shows 24 of 47 or 76 items, so coverage is partial (the Load more pages were not opened). Only main EDP, EDT, Parfum and EDP Intense items are included: gift sets, perfume gels, Elixirs and the Bambola look were skipped. Concentration is the form named on the listing. Product pages were not opened, so no notes, perfumer or year are recorded. The product pages gave notes only in part (one page listed a fragrance description, no notes). Brand country not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Your Devotion",
+      "collection": "Devotion",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - Devotion fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dolce Magnolia",
+      "collection": "Dolce",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - Dolce fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Devotion",
+      "collection": "Devotion",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - Devotion fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The One",
+      "collection": "The One",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - The One fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The One",
+      "collection": "The One",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - The One fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The One Gold",
+      "collection": "The One",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - The One fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "My Devotion",
+      "collection": "Devotion",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - Devotion fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Velvet Crystal Smoke",
+      "collection": "Velvet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - Velvet Collection fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Velvet Infusion",
+      "collection": "Velvet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - Velvet Collection fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Velvet Zafferano",
+      "collection": "Velvet Collection",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-her/",
+          "name": "Dolce&Gabbana UK - Velvet Collection fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The One For Men",
+      "collection": "The One for Men",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - The One for Men fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The One For Men",
+      "collection": "The One for Men",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - The One for Men fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The One for Men",
+      "collection": "The One for Men",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - The One for Men fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The One for Men Gold",
+      "collection": "The One for Men",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - The One for Men fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Blue Capri In Love Pour Homme",
+      "collection": "Light Blue",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - Light Blue fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Blue Pour Homme",
+      "collection": "Light Blue",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - Light Blue fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Devotion For Men",
+      "collection": "Devotion",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - Devotion fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Devotion For Men",
+      "collection": "Devotion",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - Devotion fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K by Dolce&Gabbana",
+      "collection": "K by Dolce&Gabbana",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - K by Dolce&Gabbana fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K by Dolce&Gabbana",
+      "collection": "K by Dolce&Gabbana",
+      "concentration": "Eau de Parfum Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - K by Dolce&Gabbana fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K by Dolce&Gabbana",
+      "collection": "K by Dolce&Gabbana",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - K by Dolce&Gabbana fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K by Dolce&Gabbana",
+      "collection": "K by Dolce&Gabbana",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - K by Dolce&Gabbana fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pour Homme",
+      "collection": "Classic",
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://dolcegabbana.com/en-gb/beauty/perfumes-for-him/",
+          "name": "Dolce&Gabbana UK - Classic fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
