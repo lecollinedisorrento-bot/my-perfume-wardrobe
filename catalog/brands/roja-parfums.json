@@ -1,0 +1,431 @@
+{
+  "brand": "Roja Parfums",
+  "slug": "roja-parfums",
+  "officialSite": "https://rojalondon.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify feed (rojalondon.com/products.json, pages 1 to 3 at limit 40 or 250) read; the feed is cut off in places, so the range is partial. Eleven entries have notes taken from their official product pages (perfumer named on the page where stated). Other entries have notes and concentration taken only from the feed listing text, with the product URL recorded as the source; these carry flat notes and no perfumer. Gift sets, travel sprays, discovery sets, candles, diffusers, reed sets and placeholder gift items skipped. Roja Dove is named as perfumer on the Roja product pages where a perfumer is stated. Official pages state no launch year, so releaseYear is null. Brand country is not stated on the pages read.",
+  "fragrances": [
+    {
+      "name": "Scandal Pour Homme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Roja Dove",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "bergamot", "petitgrain", "spearmint", "lavender", "basil", "tarragon"], "heart": ["lily of the valley", "rose de mai", "jasmin de grasse", "violet"], "base": ["rhubarb", "cardamom", "clove", "nutmeg", "patchouli", "vetiver", "cedarwood", "cashmere wood", "sandalwood", "tonka bean", "labdanum", "ambergris", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/scandal-pour-homme-1", "name": "Roja Parfums - Scandal Pour Homme", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Reckless Pour Femme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Roja Dove",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "mandarin", "orange"], "heart": ["geranium", "rose de mai", "neroli", "jasmin de grasse"], "base": ["coriander", "pink pepper", "cinnamon", "sandalwood", "benzoin", "vanilla", "styrax", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/reckless-femme-edp", "name": "Roja Parfums - Reckless Pour Femme", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Danger Pour Femme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Roja Dove",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "bergamot", "grapefruit", "mandarin"], "heart": ["rose de mai", "gardenia", "jasmin de grasse", "ylang ylang", "violet", "peach"], "base": ["clove", "patchouli", "sandalwood", "vanilla", "tonka bean", "orris", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/danger-femme-parfum", "name": "Roja Parfums - Danger Pour Femme", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Taif Aoud",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": "Roja Dove",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["aldehydes", "bergamot"], "heart": ["geranium", "rose", "jasmin de grasse", "ylang ylang", "clove buds", "cassis"], "base": ["patchouli", "oud", "benzoin", "vanilla", "frankincense", "labdanum", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/taif-aoud", "name": "Roja Parfums - Taif Aoud", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Espresso Aoud",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": ["orange blossom", "rose", "violet"], "base": ["cinnamon", "roasted coffee beans", "pistachio", "caramelised nuts", "patchouli", "mosses", "saffron", "coconut", "cedarwood", "sandalwood", "oud", "tonka bean", "vanilla", "milk", "benzoin", "cashmeran", "leather", "birch", "musks"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/espresso-aoud-100", "name": "Roja Parfums - Espresso Aoud", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Elysium Absolue",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Julie Lerendu",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["fig", "lychee", "raspberry", "cassis"], "heart": ["rose", "ylang ylang", "neroli", "tuberose"], "base": ["pink pepper", "patchouli", "vetiver", "orris butter", "elemodor", "benzoin", "sandalwood", "ambergris", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/elysium-absolue", "name": "Roja Parfums - Elysium Absolue", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Elysium Eau Intense",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Roja Dove",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "grapefruit", "lime", "rhubarb", "lavender", "thyme", "artemisia", "musk"], "heart": ["lily of the valley", "orange blossom", "rose de mai", "jasmin de grasse", "tuberose", "apple", "blackcurrant"], "base": ["galbanum", "black pepper", "cypriol", "vetiver", "cedarwood", "dry woods", "violet leaf", "juniper berry", "benzoin", "vanilla", "labdanum", "leather", "ambergris", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/elysium-eau-intense", "name": "Roja Parfums - Elysium Eau Intense", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Elysium Noir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Antoine Cotton",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lemon", "mandarin", "orange", "lavender"], "heart": ["rose", "blackberry"], "base": ["juniper berry", "cypress", "pink pepper", "cardamom", "cypriol", "frankincense", "patchouli", "sandalwood", "soft leather", "ambroxan"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/elysium-noir", "name": "Roja Parfums - Elysium Noir", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Serenity Blend",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Roja Dove",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lemon", "orange", "jasmine", "litsea cubeba", "clary sage"], "heart": ["rhubarb", "chamomile", "magnolia", "gardenia", "jasmine sambac", "violet"], "base": ["ginger", "cardamom", "black tea", "mate", "cashmere wood", "sandalwood", "coumarin", "tonka bean", "vanilla", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/serenity-blend", "name": "Roja Parfums - Serenity Blend", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Aoud",
+      "collection": "Aoud",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": "Roja Dove",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "bergamot", "verbena"], "heart": ["geranium", "rose de mai", "jasmin de grasse", "ylang ylang"], "base": ["rhubarb", "cinnamon", "nutmeg", "saffron", "patchouli", "cedarwood", "cashmere wood", "sandalwood", "oud", "vanilla", "leather", "ambergris", "musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/aoud-100ml", "name": "Roja Parfums - Aoud", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "NüWa",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Roja Dove",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "grapefruit"], "heart": ["rose de mai", "orange blossom", "jasmin de grasse"], "base": ["clove", "cumin", "pepper", "sandalwood", "benzoin", "vanilla", "peru balsam"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/nuwa-edp", "name": "Roja Parfums - NuWa", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Aoud Crystal",
+      "collection": "Aoud",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["saffron", "rose", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/aoud-crystal-100ml", "name": "Roja Parfums - Aoud Crystal", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Amber Aoud Crystal",
+      "collection": "Aoud",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rose", "fig", "cinnamon", "saffron", "oud", "benzoin"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/amber-aoud-crystal-2", "name": "Roja Parfums - Amber Aoud Crystal", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "United Arab Emirates",
+      "collection": "Aoud",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rose", "blackcurrant", "pink pepper", "oud", "frankincense"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/united-arab-emirates-new", "name": "Roja Parfums - United Arab Emirates", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Sultanate of Oman",
+      "collection": "Aoud",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["orange", "saffron", "sandalwood", "oud", "papyrus", "frankincense"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/sultanate-of-oman-new", "name": "Roja Parfums - Sultanate of Oman", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Qatar",
+      "collection": "Aoud",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["peach", "pear", "candyfloss", "cashmere wood", "oud", "saffron", "labdanum", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/qatar-new", "name": "Roja Parfums - Qatar", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Kingdom of Saudi Arabia",
+      "collection": "Aoud",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["strawberry", "cedarwood", "pink pepper"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/kingdom-of-saudi-arabia", "name": "Roja Parfums - Kingdom of Saudi Arabia", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Enigma Aoud",
+      "collection": "Enigma",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "geranium", "peach", "sandalwood", "oud"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/enigma-aoud-100ml", "name": "Roja Parfums - Enigma Aoud", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "A Midsummer Dream",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["grapefruit", "rose", "orange blossom", "cardamom", "oakmoss", "vanilla", "benzoin"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/midsummer-dream", "name": "Roja Parfums - A Midsummer Dream", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Parfum De La Nuit",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rose de mai", "saffron", "sandalwood", "leather"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/parfum-de-la-nuit", "name": "Roja Parfums - Parfum De La Nuit", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Parfum De La Nuit 1",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cistus", "vanilla", "tonka bean", "labdanum"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/nuit1", "name": "Roja Parfums - Parfum De La Nuit 1", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Harrods Black Tier",
+      "collection": "Harrods",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rose", "raspberry", "saffron", "orris", "opoponax", "suede", "oud", "ambergris"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/black-tier", "name": "Roja Parfums - Harrods Black Tier", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Harrods Pour Homme",
+      "collection": "Harrods",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fougère",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["citrus", "lavender", "galbanum", "vetiver", "patchouli"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/harrods-homme", "name": "Roja Parfums - Harrods Pour Homme", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Bergdorf",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["gardenia", "may flower", "sandalwood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/bergdorf", "name": "Roja Parfums - Bergdorf", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Apex Pour Homme",
+      "collection": "Apex",
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Chypré",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["mandarin", "pineapple", "patchouli", "leather", "musk"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/apex-pour-homme", "name": "Roja Parfums - Apex Pour Homme", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Chypré",
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["rose", "violet", "patchouli", "oakmoss", "leather"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/great-britain-1", "name": "Roja Parfums - Great Britain", "type": "official", "supports": ["notes", "concentration", "family"] }
+      ]
+    },
+    {
+      "name": "Elixir Pour Femme",
+      "collection": "Elixir",
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla", "amber", "musk", "rose", "raspberry", "peach"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/elixir-femme-parfum", "name": "Roja Parfums - Elixir Pour Femme", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Reckless Pour Homme",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["cardamom", "pepper", "oakmoss", "cedarwood", "cypress wood"] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://rojalondon.com/products/reckless-homme", "name": "Roja Parfums - Reckless Pour Homme", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    }
+  ]
+}

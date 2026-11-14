@@ -1,0 +1,266 @@
+{
+  "brand": "Goldfield & Banks",
+  "slug": "goldfield-banks",
+  "officialSite": "https://www.goldfieldandbanks.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official Shopify storefront (goldfieldandbanks.com). The range was taken from the 100ml-50ml collection page; the products.json feed was truncated, so it was used only for Sunset Hour Dark Peach and Pacific Rock Swell. Each fragrance's top/heart/base pyramid comes from its official product page. Botanicals & Essences lists and ingredients outside the pyramid were not used as notes. Concentration is stated as 'Eau de Parfum' or 'Extrait de Parfum' where the page labels it; the percentage of essences and botanicals on the pages was not recorded. Release years are not stated on the official pages. Holiday gift sets, the discovery set, candles and the Pacific Rock Moss collector banner were excluded.",
+  "fragrances": [
+    {
+      "name": "Sunset Hour Dark Peach",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["rum", "pink berry", "mandarin"], "heart": ["ginger", "benzoin", "ylang ylang"], "base": ["vanilla", "woody amber", "tonka bean"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/sunset-hour-dark-peach", "name": "Goldfield & Banks - Sunset Hour Dark Peach", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Pacific Rock Flower",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Emilie Bouge",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["sea salt", "tea tree"], "heart": ["cocowax", "coral flower"], "base": ["moss", "patchouli"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/pacific-rock-flower", "name": "Goldfield & Banks - Pacific Rock Flower", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Ingenious Ginger",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Hamid Merati-Kashani",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "ginger flower"], "heart": ["magnolia", "neroli"], "base": ["amber", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/ingenious-ginger", "name": "Goldfield & Banks - Ingenious Ginger", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Tales of Amber",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Suzy Le Helley",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["moss", "orange blossom"], "heart": ["orris", "cinnamon"], "base": ["labdanum", "ambergris"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/tales-of-amber", "name": "Goldfield & Banks - Tales of Amber", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Bohemian Lime",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["finger lime", "coriander"], "heart": ["aromatic greens", "vetiver"], "base": ["cedarwood", "sandalwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/bohemian-lime", "name": "Goldfield & Banks - Bohemian Lime", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    },
+    {
+      "name": "Pacific Rock Moss",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "François Merle-Baudoin & Carine Certain Boin",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["lemon", "coastal moss"], "heart": ["sage", "geranium"], "base": ["cedarwood", "white musk"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/pacific-rock-moss", "name": "Goldfield & Banks - Pacific Rock Moss", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Sunset Hour",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Honorine Blanc",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["desert peach", "mandarin"], "heart": ["jasmine sambac", "salty caramel"], "base": ["vanilla", "benzoin"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/sunset-hour", "name": "Goldfield & Banks - Sunset Hour", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Silky Woods",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Hamid Merati Kashani",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["cinnamon", "peach"], "heart": ["tobacco leaf", "ylang ylang"], "base": ["vanilla", "agarwood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/silky-woods", "name": "Goldfield & Banks - Silky Woods", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Wood Infusion",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Hamid Merati-Kashani",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "lavender"], "heart": ["clary sage", "orris"], "base": ["patchouli", "exotic woods"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/wood-infusion", "name": "Goldfield & Banks - Wood Infusion", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Desert Rosewood",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "François Merle-Baudoin",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["mandarin", "ginger"], "heart": ["patchouli", "guaiacwood"], "base": ["amber", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/desert-rosewood", "name": "Goldfield & Banks - Desert Rosewood", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Southern Bloom",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "François Merle-Baudoin",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["boronia", "blackcurrant"], "heart": ["ylang ylang", "jasmine sambac"], "base": ["vetiver", "iris"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/southern-bloom", "name": "Goldfield & Banks - Southern Bloom", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Silky Woods Elixir",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Olivier Cresp & Hamid Merati Kashani",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["fig", "saffron"], "heart": ["orris", "caramel"], "base": ["oud", "vanilla"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/silky-woods-elixir", "name": "Goldfield & Banks - Silky Woods Elixir", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Mystic Bliss",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Florian Gallo",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["kunzea", "fig"], "heart": ["cardamom", "orris"], "base": ["patchouli", "immortelle"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/mystic-bliss", "name": "Goldfield & Banks - Mystic Bliss", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Purple Suede",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Ilias Ermenidis",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["pink pepper", "bergamot"], "heart": ["lavender", "coriander seed"], "base": ["patchouli", "woodleather"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/purple-suede", "name": "Goldfield & Banks - Purple Suede", "type": "official", "supports": ["notes", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Island Lush",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Amélie Jacquin",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["nutmeg", "cardamom"], "heart": ["white flowers", "geranium"], "base": ["vetiver", "guaiac wood"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/island-lush", "name": "Goldfield & Banks - Island Lush", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Rose Magnitude",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Clément Marx",
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["raspberry", "cumin", "orris", "buckwheat"], "heart": ["damask rose", "ginger", "violet", "geranium"], "base": ["black vanilla", "tonka bean", "sandalwood", "papyrus"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/rose-magnitude", "name": "Goldfield & Banks - Rose Magnitude", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+      ]
+    },
+    {
+      "name": "Pacific Rock Swell",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": { "top": ["bergamot", "cardamom", "clary sage"], "heart": ["seaweed", "clary sage", "geranium", "mimosa", "fir balsam", "labdanum"], "base": ["ylang ylang", "patchouli", "sandalwood", "ambergris"], "flat": [] },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        { "url": "https://www.goldfieldandbanks.com/products/pacific-rock-swell", "name": "Goldfield & Banks - Pacific Rock Swell", "type": "official", "supports": ["notes", "concentration"] }
+      ]
+    }
+  ]
+}
