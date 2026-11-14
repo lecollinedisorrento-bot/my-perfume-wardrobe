@@ -65,8 +65,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-stardust",
+          "name": "Vivir — Afnan Stardust",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: about 5-7 h on skin, longer on clothing; longevity 3.0/5, sillage 3.0/5 moderate, projection strong only for the first hour or two. Single review; the product is recent (2026)."
     },
     {
       "name": "Malak",
@@ -163,8 +182,39 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-kiaana-vibes",
+          "name": "Vivir — Afnan Kiaana Vibes",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/afnan/afnan-kiaana-vibes/women-perfume",
+          "name": "Perfume.com — Afnan Kiaana Vibes (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity, projection and sillage each 3.0/5; calls it a good everyday scent for warm weather. Perfume.com: 5-7 h typical; a retailer lists 6-8 h and moderate sillage. Most common view: about 5-8 h, moderate sillage."
     },
     {
       "name": "Kiaana Crush",
@@ -212,8 +262,46 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-kiaana-crush",
+          "name": "Vivir — Afnan Kiaana Crush",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/afnan/afnan-kiaana-crush-perfume",
+          "name": "FragranceX — Afnan Kiaana Crush (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/afnan-kiaana-crush-eau-de-parfum",
+          "name": "ScentVerdict — Afnan Kiaana Crush (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Vivir: longevity 4.0, projection 3.0, sillage 3.0; ScentVerdict and FragranceX: about 4-6 h; Parfumo users about 6.5/10 longevity and 7/10 sillage. Most common view: about 4-6 h with moderate projection. ScentVerdict recommends it for dates and evening events."
     },
     {
       "name": "Kiaana Angel",
@@ -261,8 +349,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-kiaana-angel",
+          "name": "Vivir — Afnan Kiaana Angel",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 3.0, projection 3.5, sillage 3.0 out of 5; ScentVerdict tables: about 4-6 h, moderate sillage; retailer copy claims 6-8 h; one review says it fades faster on dry skin. Most common view: about 4-6 h, moderate sillage."
     },
     {
       "name": "Ebdaa",
@@ -495,8 +602,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/afnan/afnan-9pm-rebel/men-cologne",
+          "name": "Perfume.com — Afnan 9PM Rebel",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://blog.flash.co/fragrance/afnan-9pm-rebel-eau-de-parfum-100ml-for-men-women/",
+          "name": "Flash — Afnan 9PM Rebel",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume.com: about 6-8 hours on skin (three customer reviews); Flash: moderate to strong sillage that clings to clothing. One buyer reported only 1-2 hours (outlier)."
     },
     {
       "name": "9 PM",
@@ -545,8 +679,34 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-afnan-9-pm",
+          "name": "Vivir — Afnan 9 PM review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Vivir review: 10-12 hours, often over 10; strong sillage, trail up to 6 ft at first, moderating after 4 h; fall/winter best, night use. Search summaries of retailer listings say 8-10 h (not used)."
     },
     {
       "name": "9 PM Pour Femme",
@@ -640,8 +800,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/9am",
+          "name": "Parfumo — Afnan 9AM (user review, search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo user review (search snippet): sillage solid but not outstanding, longevity about 7 hours; only one direct review found, so treated as tentative."
     },
     {
       "name": "9 AM Pour Femme",
@@ -739,8 +918,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-9am-dive",
+          "name": "Vivir — Afnan 9AM Dive review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Most sources: moderate longevity, roughly 4-8 hours, moderate sillage; Vivir rates longevity 4.0, projection 3.0, sillage 3.0; a Parfumo user says about 7 hours; ThesCentBase community score is lower (about 3 hours)."
     },
     {
       "name": "Lynked Freedom",
@@ -787,8 +985,31 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-lynked-freedom",
+          "name": "Vivir — Afnan Lynked Freedom",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: longevity 4.0 (about 6-8 h on skin), sillage 3.0 moderate, best in fall and winter. Retailers say 6-10 h; Parfumo community reports about 11 h on a vintage bottle (not used)."
     },
     {
       "name": "Lynked Forever",
@@ -836,8 +1057,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-lynked-forever",
+          "name": "Vivir — Afnan Lynked Forever",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://aromatica.one/products/lynked-forever",
+          "name": "Aromatica — Afnan Lynked Forever",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 4.5/5 (8+ h), sillage 3.5, projection 3.0, strongest for the first hours; TRB (seller) claims 8-10 h; Aromatica (seller) 6-7 h on skin, moderate sillage. Most common view: about 6-10 h, moderate sillage."
     },
     {
       "name": "Historic Sahara",
@@ -888,8 +1136,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/afnan/historic-sahara",
+          "name": "The Scent Base — Afnan Historic Sahara (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base community data: about 6-10 h; retailer listings 6-8 h and 7-8 h; one site calls projection strong. Sillage score unrated, so kept moderate; the bottle concentration is listed inconsistently across retailers."
     },
     {
       "name": "Historic Olmeda",
@@ -940,8 +1207,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/afnan/historic-olmeda",
+          "name": "The Scent Base — Afnan Historic Olmeda (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragranzo.com/perfume/afnan-historic-olmeda-cologne-for-men/",
+          "name": "Fragranzo — Afnan Historic Olmeda (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base community: about 4-6 h, sillage 2.3 (intimate); retailers say 8-12 h (Khayest, Fragranzo) or 6-8 h (Perfume Outlet), moderate sillage. Most common view: several hours, soft to moderate sillage; retailer figures are higher."
     },
     {
       "name": "Historic Doria",
@@ -990,8 +1284,39 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/afnan/afnan-historic-doria/men-cologne",
+          "name": "Perfume.com — Afnan Historic Doria (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/afnan-historic-doria-eau-de-parfum",
+          "name": "ScentVerdict — Afnan Historic Doria (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Retailer: 6-8 h; Perfume.com: up to 5 h on skin and suggests spring/summer; Parfumo: above-average longevity; Scent Verdict calls its projection nuclear and polarising. Most common view: long wear and strong projection; the sillage view rests on one reviewer."
     },
     {
       "name": "Turathi Electric",
@@ -1041,8 +1366,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/afnan/afnan-turathi-electric/men-cologne",
+          "name": "Perfume.com — Afnan Turathi Electric (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/turathi-electric",
+          "name": "Parfumo — Afnan Turathi Electric (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retail listings: about 6-8 h, moderate sillage (promotional copy); Vivir: longevity 4.0, projection 3.0, sillage 4.0; Parfumo reviews split (8/10 praise, 5/10 criticism). Most common view: several hours of wear and moderate sillage."
     },
     {
       "name": "Turathi Red",
@@ -1089,8 +1441,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/afnan/afnan-turathi-red/women-perfume",
+          "name": "Perfume.com — Afnan Turathi Red (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-turathi-red",
+          "name": "Vivir — Afnan Turathi Red",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listing: 4-8 h and moderate sillage; Perfume.com: about 6-8 h; community averages 4.1 longevity and 3.9 sillage (page has blank fields). Most common view: moderate performance, roughly 4-8 h."
     },
     {
       "name": "Turathi Brown Homme",
@@ -1138,8 +1517,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/turathi-brown",
+          "name": "Parfumo — Afnan Turathi Brown (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/afnan/turathi-brown",
+          "name": "The Scent Base — Afnan Turathi Brown (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo users: longevity 8.0/10 and sillage 7.8/10 (about 250 ratings); reviews range from 4-5 h to 8-10 h; The Scent Base lists 4-6 h wear; Fragella lists longevity and sillage as strong. Most common view: good longevity (about 6-10 h), moderate-to-strong sillage."
     },
     {
       "name": "Turathi Purple",
@@ -1223,8 +1629,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/turathi-blue",
+          "name": "Parfumo — Afnan Turathi Blue (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/afnan/turathi-blue",
+          "name": "The Scent Base — Afnan Turathi Blue (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviews: about 4 h to 6-8 h on skin, community summary 4-6 h; sillage mixed (community 7.4/10, one reviewer says noticeable only 1.5 h); the Scent Base describes moderate sillage. Most common view: moderate longevity and moderate sillage."
     },
     {
       "name": "Rare Reef",
@@ -1277,8 +1710,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/afnan/rare-reef",
+          "name": "The Scent Base — Afnan Rare Reef (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-rare-reef",
+          "name": "Vivir — Afnan Rare Reef",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base community: typically 4-6 h, sillage 2.6/5; Vivir: sillage 3.8/5, moderate for a fresh scent; Parfumo reviews split (one 8/10 longevity, one says it does not last all day). Most common view: moderate wear and moderate projection (EDP); Extrait may be stronger."
     },
     {
       "name": "Rare Passion",
@@ -1326,8 +1786,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-rare-passion",
+          "name": "Vivir — Afnan Rare Passion",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumem.com/products/afnan-rare-passion-eau-de-parfum-for-women",
+          "name": "PerfumeM — Afnan Rare Passion (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listings: about 6-9 h (several say 6-8 h or 7-9 h); sillage moderate to strong (retailer copy). Vivir: longevity, projection and sillage each 3.0/5. Most common view: good longevity, moderate projection."
     },
     {
       "name": "Rare Carbon",
@@ -1377,8 +1864,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/rare-carbon",
+          "name": "Parfumo — Afnan Rare Carbon (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/afnan/afnan-rare-carbon/men-cologne",
+          "name": "Perfume.com — Afnan Rare Carbon (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Database and Parfumo reviewer: about 6-10 h, around 8 h; retailer copy 6-8 h. Parfumo calls sillage superb; Perfume.com says medium to strong; one buyer found it light (outlier). Most common view: good longevity, strong early sillage."
     },
     {
       "name": "Delicious Bouquet",
@@ -1430,8 +1944,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-delicious-bouquet",
+          "name": "Vivir — Afnan Delicious Bouquet",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/afnan-delicious-bouquet-eau-de-parfum",
+          "name": "ScentVerdict — Afnan Delicious Bouquet (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir blog: 8+ hours and strong projection (its 5.0 scores look promotional); ScentVerdict: impressive longevity; Perfumes.la listing: moderate longevity and moderate sillage. Most common view: about 8 hours on skin with moderate sillage."
     },
     {
       "name": "Cherry Bouquet",
@@ -1483,8 +2024,39 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-cherry-bouquet",
+          "name": "Vivir — Afnan Cherry Bouquet",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://perfumem.com/products/afnan-cherry-bouquet-eau-de-parfum-for-women",
+          "name": "PerfumeM — Afnan Cherry Bouquet (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 3.0 and sillage 3.0, about 5-6 h, settles close to skin after a few hours, best in cold weather (below about 19 C). PerfumeM: 8 h spec, 4.3/5 longevity; Parfumo: about 6-7 h; The Scent Base community about 3 h (outlier). Most common view: 5-8 h, moderate sillage."
     },
     {
       "name": "Mystique Bouquet",
@@ -1535,8 +2107,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/8813/afnan/mystique-bouquet",
+          "name": "Fragplace — Afnan Mystique Bouquet",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/afnan-mystique-bouquet-eau-de-parfum",
+          "name": "ScentVerdict — Afnan Mystique Bouquet (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict and Fragplace user data: about 4-6 h longevity (Fragplace 3.0/5); projection moderate per Scent Verdict; Fragplace sillage 4.0/5 but reviewers split. Most common view: moderate longevity and moderate projection."
     },
     {
       "name": "La Fleur Bouquet",
@@ -1728,8 +2327,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-supremacy-collector-s-edition",
+          "name": "Vivir — Afnan Supremacy Collector's Edition",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: 8-10 hours on skin, projection 4.0/5 (strong for the first 2-3 hours); separate Vivir page rates sillage 4.5/5; retailer copy says long-lasting. Vivir figures are rough."
     },
     {
       "name": "Supremacy Silver",
@@ -1777,8 +2395,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://larose.az/en/product/afnan-perfumes-supremacy-silver",
+          "name": "Larose — Afnan Supremacy Silver (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search snippets disagree: Larose says sillage very strong, longevity 10-12 h; Dubai Aroma listing says 6-10 h on skin (retailer copy); Parfumo users average about 7/10 for longevity and sillage; one editorial review reports weak performance (outlier). Most common view: moderate-to-good longevity, strong sillage."
     },
     {
       "name": "Supremacy Purple",
@@ -1922,8 +2559,39 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/36207/afnan/supremacy-noir",
+          "name": "Fragplace — Supremacy Noir",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://jadof.com/en/perfume/supremacy-noir-by-afnan",
+          "name": "Jadof — Supremacy Noir by Afnan",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: typically 4-6 hours, longevity 3.0/5, moderate sillage. Jadof: mild longevity, moderate sillage, a daytime scent for spring and summer. Khayest claims 8-10 hours (outlier, not used for the level)."
     },
     {
       "name": "Supremacy Incense",
@@ -1972,8 +2640,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/26270/afnan/supremacy-incense",
+          "name": "Fragplace — Afnan Supremacy Incense (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/supremacy-incense/reviews/229512",
+          "name": "Parfumo — Afnan Supremacy Incense review (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailers: 8-12 h or 10-12 h; Fragplace (user reviews): typically 4-6 h, moderate sillage; Parfumo users: strong sillage early, 8/10 longevity. Most common view: long-lasting with strong early sillage."
     },
     {
       "name": "Supremacy In Heaven",
@@ -2067,8 +2762,33 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-supremacy-gold",
+          "name": "Vivir — Afnan Supremacy Gold",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Vivir: longevity 4.0, sillage 3.8 out of 5 (its meter shows 0.0 for some figures, so rough); Parfumo user: good sillage, very good longevity; retailer says 10-12 h, retailer FAQ says 6-10 h. Vivir says strongest in cold weather and evening wear."
     },
     {
       "name": "Supremacy Tapis Rouge",
@@ -2117,8 +2837,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/Afnan_Perfumes/supremacy-tapis-rouge",
+          "name": "Parfumo — Afnan Supremacy Tapis Rouge (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/afnan-supremacy-tapis-rouge-eau-de-parfum",
+          "name": "ScentVerdict — Afnan Supremacy Tapis Rouge (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo: one user 5-7 h on skin; aggregate longevity 8/10 and sillage 7/10 from 22 ratings; ScentVerdict lists long (6-10 h) with moderate projection. Most common view: moderate-to-long wear, moderate sillage; reviewers find it soft."
     },
     {
       "name": "Supremacy Gala",
@@ -2168,8 +2915,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-supremacy-gala",
+          "name": "Vivir — Afnan Supremacy Gala",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumem.com/products/afnan-supremacy-gala-eau-de-parfum-for-women",
+          "name": "PerfumeM — Afnan Supremacy Gala (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 4.0, projection 4.0 (good value for a 100 ml EDP); PerfumeM: about 8 h, moderate sillage, above-average projection; a buyer says lots of sillage. Most common view: solid all-day wear, moderate projection."
     },
     {
       "name": "Supremacy In Oud",
@@ -2214,8 +2988,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/supremacy-in-oud",
+          "name": "Parfumo — Afnan Supremacy In Oud (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.notino.ie/reviews/afnan/supremacy-in-oud-eau-de-parfum-unisex",
+          "name": "Notino — Afnan Supremacy In Oud reviews (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community: longevity 8.6/10, sillage 8.2/10; reviews say 6-10 h on skin and projection about 7 ft for 3 h; one buyer reports about 2 h (outlier). Most common view: strong projection and 6-10 h wear."
     },
     {
       "name": "Supremacy Not Only Intense",
@@ -2263,8 +3064,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/supremacy-not-only-intense",
+          "name": "Parfumo — Afnan Supremacy Not Only Intense (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo users: about 12 h, or strong sillage for about 4 h then 8-10 h on skin; one buyer reports only about 2 h. Most common view among reviewers: long-lasting with strong early sillage."
     },
     {
       "name": "Portrait Revival",
@@ -2314,8 +3134,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/afnan-portrait-revival",
+          "name": "Vivir — Afnan Portrait Revival",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/32262/afnan/portrait-revival",
+          "name": "Fragplace — Afnan Portrait Revival (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: 8-10 h with strong projection for the first hours; a FAQ page says 10+ h and powerful sillage; Parfumo community about 8/10 longevity and 7.6/10 sillage (9 ratings). Most common view: long-lasting with strong sillage."
     },
     {
       "name": "Portrait Abstract",
@@ -2412,8 +3259,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumem.com/products/afnan-oud-rising-eau-de-parfum",
+          "name": "PerfumeM — Afnan Oud Rising (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "PerfumeM: about 9 h, moderate sillage, above-average projection (editorial 4.2/5 longevity, 3.5/5 sillage). Retailer copy claims a strong trail (not used). Only one substantive source found."
     },
     {
       "name": "Tobacco Rush",
@@ -2461,8 +3327,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.riah.ae/en/product/ra-63263/tobacco-rush-eau-de-parfum-women-and-men-afnan",
+          "name": "Riah — Afnan Tobacco Rush (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://whatscent.app/perfume/tobacco-rush",
+          "name": "WhatScent — Afnan Tobacco Rush (search snippet)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retail copy: projects 2-3 h and lasts up to 8 h, or 8-10 h; WhatScent user rates longevity and sillage 5/5; Parfumo user rates sillage 8/10; one retailer calls sillage moderate. Most common view: good longevity, moderate noticeable projection."
     },
     {
       "name": "Patchouli on Fire",
@@ -2509,8 +3402,33 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.fragranzo.com/?p=4576",
+          "name": "Fragranzo — Afnan Patchouli On Fire (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Retailer listings: about 8-12 h and moderate to strong sillage; one listing suggests night wear and cooler seasons. Retailer copy only; no independent review found."
     },
     {
       "name": "Edict Ouddiction",
@@ -2563,8 +3481,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumem.com/products/afnan-edict-ouddiction-extrait-de-parfum",
+          "name": "PerfumeM — Afnan Edict Ouddiction (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "PerfumeM: longevity about 9 h, sillage 4.4/5 (strong); a retailer listing says 8-10 h and strong sillage. Concentration is listed inconsistently across sources (extrait vs EDP), not changed here."
     },
     {
       "name": "Edict Musctique",
@@ -2611,8 +3548,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.fragranzo.com/?p=4573",
+          "name": "Fragranzo — Afnan Edict Musctique (search snippet)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragranzo: about 6-8 h, moderate sillage close to the skin; another retailer says up to 8 h. No independent review with wear data found; retailer copy used as the basis."
     },
     {
       "name": "Edict Amberythme",
