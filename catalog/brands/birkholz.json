@@ -294,8 +294,23 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Birkholz/cedar-n-pepper/reviews/235467",
+          "name": "Parfumo reviews — Cedar N' Pepper (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Single Parfumo review of the 2019 release (via search) scores longevity 7/10 and sillage 8/10; levels are my mapping of that score, one reviewer only"
     },
     {
       "name": "Charm Mystery",
@@ -333,8 +348,23 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Birkholz/charm-mystery-eau-de-parfum",
+          "name": "Parfumo — Charm Mystery ratings (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo community ratings (via search): longevity 7.3/10, sillage 7.1/10 from about 120 votes; levels are my mapping of those scores, reviewer comments say sillage is noticeable"
     },
     {
       "name": "Citrus Splash",
@@ -494,8 +524,23 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Birkholz/dark-amber/reviews/292646",
+          "name": "Parfumo reviews — Dark Amber (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Single Parfumo review (via search): longevity 'absolutely excellent', sillage 'very good for amber'; no hours stated, one reviewer only"
     },
     {
       "name": "First Spring",
@@ -860,8 +905,39 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.4doutfitters.com/en/products/mornings-in-milano-birkholz-perfumes-italian-collection",
+          "name": "4doutfitters — Mornings in Milano",
+          "type": "retailer",
+          "supports": [
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Birkholz/mornings-in-milano/reviews/691049",
+          "name": "Parfumo reviews — Mornings in Milano (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Retailer 4doutfitters: 'perfect for mild early-summer and summer days', 'close indoors in the evening'; Parfumo reviews (via search): about 8–9 h on skin, moderate-to-good projection that softens after a few hours"
     },
     {
       "name": "Mystic Haze",
@@ -1349,8 +1425,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Birkholz/sir-santal/reviews/710791",
+          "name": "Parfumo reviews — Sir Santal (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo reviews (via search): modest sillage and longevity is the most common view, a few find it good on their skin; no official figures"
     },
     {
       "name": "Soho Sunday",
@@ -1512,8 +1603,26 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsplit.com/products/birkholz-tobacco-sense-sample-decants",
+          "name": "Scentsplit — Birkholz Tobacco Sense",
+          "type": "retailer",
+          "supports": [
+            "usage"
+          ]
         }
-      ]
+      ],
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Retailer Scentsplit: 'ideal for cooler seasons and elegant evenings'; no longevity or sillage stated"
     },
     {
       "name": "Versailles - Trésor de jardin",

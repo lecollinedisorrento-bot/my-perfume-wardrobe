@@ -392,10 +392,18 @@
           "name": "Olibanum — Rose",
           "type": "official",
           "supports": [
-            "notes"
+            "notes",
+            "usage"
           ]
         }
-      ]
+      ],
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Brand page: 'to wear when spring is right around the corner'; no longevity or sillage stated"
     },
     {
       "name": "Sacra",
@@ -455,10 +463,32 @@
           "name": "Olibanum — Safran",
           "type": "official",
           "supports": [
-            "notes"
+            "notes",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/olibanum/safran",
+          "name": "Parfumo — Olibanum Safran (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Brand page: 'wear it at night'; Parfumo community averages (via search, about 21 ratings): longevity 7.5/10, sillage 6.8/10; levels are my mapping of those scores"
     },
     {
       "name": "Santal",
@@ -487,10 +517,20 @@
           "name": "Olibanum — Santal",
           "type": "official",
           "supports": [
-            "notes"
+            "notes",
+            "usage"
           ]
         }
-      ]
+      ],
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Brand page: 'ideal for endless summer nights by the fire'; no longevity or sillage stated"
     },
     {
       "name": "Tubéreuse",
@@ -549,10 +589,18 @@
           "name": "Olibanum — Vanille",
           "type": "official",
           "supports": [
-            "notes"
+            "notes",
+            "usage"
           ]
         }
-      ]
+      ],
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Brand page: 'to wear as autumn falls and the sun shies away'; no longevity or sillage stated"
     },
     {
       "name": "Vétiver",

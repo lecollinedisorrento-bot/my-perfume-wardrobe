@@ -261,8 +261,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Ghawali/midnight-noise",
+          "name": "Parfumo — Ghawali Midnight Noise ratings (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo community ratings (via search, about 15 votes): longevity 8.8/10, sillage 8.7/10, described as above average; levels are my mapping of those scores; brand copy says 'long-lasting' (not used)"
     },
     {
       "name": "Love Note",
@@ -298,8 +313,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Ghawali/love-note/reviews/585547",
+          "name": "Parfumo reviews — Ghawali Love Note (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "One Parfumo review of the 2023 release (via search): longevity 8/10, sillage 9/10; levels are my mapping of those scores, single reviewer only"
     },
     {
       "name": "Laylaa",
@@ -374,8 +404,23 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Ghawali/kin-musk/reviews/649462",
+          "name": "Parfumo reviews — Ghawali Kin Musk (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "performanceEvidence": "One Parfumo review (via search): longevity good, about 8 hours; sillage subtle to moderate, close-to-skin; single reviewer only"
     },
     {
       "name": "Dusk Outro",

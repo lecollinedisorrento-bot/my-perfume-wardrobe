@@ -52,8 +52,34 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/ojar/products/ojar-ciel-dorage-edp",
+          "name": "Venba — OJAR Ciel d'Orage EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Retailer Venba (EDP): longevity 'strong, typically 7–9 hours', sillage 'moderate-to-strong', projection 2–3 ft in the first hour; suited to fall/winter and evenings"
     },
     {
       "name": "Eagle Eyed Stranger",
@@ -250,8 +276,34 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/ojar-halwa-kiss-edp",
+          "name": "Venba — OJAR Halwa Kiss EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Retailer Venba (EDP): 'strong, typically 7–9 hours', sillage 'moderate-to-strong', 2–3 ft in the first hour; best for fall/winter evenings and night out; Parfumo reviews (search) report about 7 h"
     },
     {
       "name": "Infusion Velours",
@@ -330,8 +382,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/ojar-kashmir-print-edp",
+          "name": "Venba — OJAR Kashmir Print EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Retailer Venba (EDP): 'strong, typically 7–9 hours', sillage 'moderate-to-strong', projection 1–2 ft after the first hour; best seasons spring/fall/winter, evening and night out"
     },
     {
       "name": "Musk Colada",
@@ -410,8 +489,34 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/unisex/products/ojar-oud-whisper-extrait",
+          "name": "Venba — OJAR Oud Whisper Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Retailer Venba (Extrait): 'most describe strong 8–10 hour performance', sillage 'smooth and enveloping rather than loud'; some say it settles close to skin after a couple of hours; suited to winter/fall/spring evenings"
     },
     {
       "name": "Red Redemption",
@@ -450,8 +555,33 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/unisex/products/ojar-red-redemption-edp",
+          "name": "Venba — OJAR Red Redemption EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Retailer Venba (EDP): 'strong, typically 7–9 hours', sillage 'moderate-to-strong'; best for fall/winter evenings; one Parfumo review reports about 10 h (search)"
     },
     {
       "name": "Routes Nomades",
@@ -573,8 +703,34 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/pt/products/ojar-stallion-soul-edp",
+          "name": "Venba — OJAR Stallion Soul EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Retailer Venba (EDP): 'normalmente 7–9 horas' of longevity, sillage 'de moderado a forte'; best for autumn/winter night outings; projection 60–90 cm in the first hour"
     },
     {
       "name": "Wood Whisper",
@@ -613,8 +769,34 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/all/products/ojar-wood-whisper-edp",
+          "name": "Venba — OJAR Wood Whisper EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "spring",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Retailer Venba (EDP): 'strong, typically 7–9 hours', sillage 'moderate'; projection close to skin after the first hour; suited to fall/spring/winter evenings"
     }
   ]
 }
