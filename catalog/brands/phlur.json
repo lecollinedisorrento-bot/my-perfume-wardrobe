@@ -1,0 +1,578 @@
+{
+  "brand": "Phlur",
+  "slug": "phlur",
+  "officialSite": "https://phlur.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "phlur.com, Sephora, Nordstrom, Fragrantica and Space NK answered direct fetches with HTTP 403 (Shopify products.json also 403), so the facts here come from WebSearch result text that names each source page. Only URLs returned by WebSearch are recorded. Notes marked official come from pages the search summary attributes to phlur.com; all others are reported. Vanilla Skin is a body mist and is excluded; body care, candles, minis and sets are excluded. Coverage is partial: the official range could not be listed, so only the 15 perfumes whose notes a search result stated are included. Country not stated.",
+  "fragrances": [
+    {
+      "name": "Missing Person",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nordstrom.com/s/missing-person-eau-de-parfum/7593321",
+          "name": "Nordstrom — Missing Person Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Phlur/Missing-Person-72665.html",
+          "name": "Fragrantica — Missing Person",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Father Figure",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2023,
+      "perfumer": "Frank Voelkl",
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.fragrantica.com/perfume/Phlur/Father-Figure-83775.html",
+          "name": "Fragrantica — Father Figure",
+          "type": "database",
+          "supports": [
+            "year",
+            "family",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://www.sephora.com/product/father-figure-50ml-edp-P506729",
+          "name": "Sephora — Father Figure Eau De Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cherry Stem",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.sephora.co.uk/p/phlur-cherry-stem-eau-de-parfum",
+          "name": "Sephora UK — Cherry Stem Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Phlur/Cherry-Stem-114035.html",
+          "name": "Fragrantica — Cherry Stem",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strawberry Letter",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cassis leaf",
+          "plum nectar",
+          "strawberry gariguette"
+        ],
+        "heart": [
+          "wild lily",
+          "red poppy",
+          "apple blossom"
+        ],
+        "base": [
+          "earthy wood",
+          "tonka bean",
+          "sugared amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.spacenk.com/us/fragrance/personal-fragrance/fragrance/strawberry-letter-eau-de-parfum-MUK200049609.html",
+          "name": "Space NK — Strawberry Letter Eau De Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.sephora.com/product/phlur-strawberry-letter-eau-de-parfum-P512420",
+          "name": "Sephora — Strawberry Letter Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mood Ring",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nordstrom.com/s/phlur-mood-ring-eau-de-parfum/7895130",
+          "name": "Nordstrom — PHLUR Mood Ring Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.sephora.com/product/phlur-mood-ring-eau-de-parfum-P507947",
+          "name": "Sephora — Mood Ring Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soft Spot",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.sephora.com/product/phlur-soft-spot-eau-de-parfum-P514197",
+          "name": "Sephora — Soft Spot Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Phlur/Soft-Spot-93322.html",
+          "name": "Fragrantica — Soft Spot",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose Whip",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2025,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://phlur.com/products/rose-whip-50ml",
+          "name": "PHLUR — Rose Whip Perfume",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Phlur/Rose-Whip-104604.html",
+          "name": "Fragrantica — Rose Whip",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Afterglow",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://phlur.com/products/afterglow-travel-size",
+          "name": "PHLUR — Afterglow Travel Size",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honey Moon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "lavender"
+        ],
+        "heart": [
+          "orange blossom",
+          "manuka honey",
+          "saffron"
+        ],
+        "base": [
+          "tonka bean",
+          "vanilla bean",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.spacenk.com/uk/fragrance/personal-fragrance/fragrance/honey-moon-eau-de-parfum-MUK200061315.html",
+          "name": "Space NK — Honey Moon Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.sephora.com/product/honey-moon-edp-P520678",
+          "name": "Sephora — Honey Moon Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Cream",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://phlur.com/products/heavy-cream-50ml",
+          "name": "PHLUR — Heavy Cream 50mL",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.sephora.com/product/heavy-cream-eau-de-parfum-P526144",
+          "name": "Sephora — Heavy Cream Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Not Your Baby",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cardamom",
+          "bergamot"
+        ],
+        "heart": [
+          "mimosa",
+          "violet"
+        ],
+        "base": [
+          "vanilla milk",
+          "sandalwood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.spacenk.com/us/fragrance/personal-fragrance/fragrance/not-your-baby-eau-de-parfum-MUK200049607.html",
+          "name": "Space NK — Not Your Baby Eau De Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://beta.fragrantica.com/perfume/Phlur/Not-Your-Baby-73292.html",
+          "name": "Fragrantica — Not Your Baby",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tangerine Boy",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.sephora.com/product/tangerine-boy-eau-de-parfum-P503911",
+          "name": "Sephora — Tangerine Boy Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/news/Phlur-Tangerine-Boy-17502.html",
+          "name": "Fragrantica — Tangerine Boy",
+          "type": "database",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Somebody Wood",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://phlur.com/products/somebody-wood-50ml",
+          "name": "PHLUR — Somebody Wood Perfume",
+          "type": "official",
+          "supports": [
+            "name"
+          ]
+        },
+        {
+          "url": "https://www.spacenk.com/uk/fragrance/personal-fragrance/fragrance/somebody-wood-eau-de-parfum-MUK200049619.html",
+          "name": "Space NK — Somebody Wood Eau De Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Canyon",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.sephora.com/product/vanilla-canyon-eau-de-parfum-P525743",
+          "name": "Sephora — Vanilla Canyon Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.selfridges.com/US/en/product/phlur-vanilla-canyon-eau-de-parfum-50ml_R04690447/",
+          "name": "Selfridges — Phlur Vanilla Canyon Eau de Parfum 50ml",
+          "type": "retailer",
+          "supports": [
+            "name"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Golden Rule",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin",
+          "pink pepper",
+          "golden pear"
+        ],
+        "heart": [
+          "orange flower",
+          "jasmine",
+          "coconut milk"
+        ],
+        "base": [
+          "benzoin",
+          "sandalwood",
+          "vanilla cream"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.sephora.com/product/golden-rule-eau-de-parfum-P514701",
+          "name": "Sephora — Golden Rule Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.mecca.com/en-au/phlur/golden-rule-eau-de-parfum-V-079090/",
+          "name": "Mecca — Phlur Golden Rule Eau De Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    }
+  ]
+}

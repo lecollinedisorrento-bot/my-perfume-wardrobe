@@ -19,9 +19,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "mango",
+          "papaya",
+          "orange blossom",
+          "sea breeze",
+          "amber",
+          "musk"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -48,9 +55,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "mandarin",
+          "grapefruit",
+          "bergamot",
+          "tonka bean",
+          "cedarwood",
+          "vetiver"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -76,9 +90,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "laundry accord",
+          "apple",
+          "rice",
+          "sublimolide",
+          "orcanox",
+          "amberwood"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -104,9 +125,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "strawberry",
+          "vanilla",
+          "cedar",
+          "creme brulee"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -132,9 +158,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "lavender",
+          "purple ube",
+          "milk froth",
+          "black tea",
+          "palo santo",
+          "date sugar"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -160,9 +193,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "orris",
+          "plum",
+          "peach",
+          "white moss",
+          "musk",
+          "sandalwood"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -189,9 +229,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "maple syrup",
+          "melted butter",
+          "berry compote",
+          "buttermilk pancake accord",
+          "sugared musk"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -218,9 +264,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "musk",
+          "sandalwood",
+          "milk",
+          "vanilla absolute",
+          "fir balsam",
+          "cedarwood"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -246,9 +299,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "juniper",
+          "bergamot",
+          "fir balsam",
+          "tonka bean",
+          "vanilla bean",
+          "white moss"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -274,9 +334,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "coconut",
+          "pineapple",
+          "sunscreen",
+          "surf wax",
+          "sandalwood",
+          "tonka bean"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -302,9 +369,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "ice cream accord",
+          "vanilla bean",
+          "jasmine sambac",
+          "amberwood",
+          "musk",
+          "orcanox"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -331,9 +405,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "rose",
+          "strawberry",
+          "clean laundry accord",
+          "ambrette seeds",
+          "pear",
+          "white moss",
+          "saffron",
+          "orcanox"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -360,9 +443,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "pistachio cream",
+          "davana",
+          "palo santo",
+          "vanilla absolute",
+          "musk",
+          "amber"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -389,9 +479,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "apricot",
+          "orange blossom",
+          "sesame milk",
+          "musk"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -417,9 +512,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "fresh dairy accord",
+          "lactones",
+          "milk carton accord",
+          "vanilla",
+          "praline",
+          "caramel"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {

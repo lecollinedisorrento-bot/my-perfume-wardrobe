@@ -1,0 +1,663 @@
+{
+  "brand": "Frapin",
+  "slug": "frapin",
+  "officialSite": null,
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "No official Frapin site was returned by search, so all entries come from authorised retailers: 50-ml.com and aedes.com product pages. Covers the 15 Eau de Parfum products listed on those two retailers (discovery kit excluded). Notes are reported by the retailers (noteSource reported). Fragrantica, Parfumo and Basenotes were blocked (403) or gave conflicting search snippets, so older lines (Terre de Sarment, Caravelle Epicee, Passion Boisee, Esprit de Fleurs, Paradis Perdu, 1697, Nevermore) are not included. Brand country not stated on the pages read, so null.",
+  "fragrances": [
+    {
+      "name": "L'Humaniste",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon oil",
+          "bergamot oil",
+          "cardamom",
+          "pink berry",
+          "black pepper"
+        ],
+        "heart": [
+          "juniper berry",
+          "nutmeg",
+          "thyme",
+          "peony"
+        ],
+        "base": [
+          "gin",
+          "oak moss",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/frapin-l-humaniste-eau-de-parfum",
+          "name": "50-ml - Frapin L'Humaniste",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1270",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Sidonie Lancesseur",
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "candied orange",
+          "nuts",
+          "raisin",
+          "prune",
+          "cocoa",
+          "tonka bean",
+          "coffee"
+        ],
+        "heart": [
+          "vine flower",
+          "everlasting flower",
+          "linden",
+          "pepper",
+          "spices"
+        ],
+        "base": [
+          "precious woods",
+          "guaiac wood",
+          "white honey",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/frapin-1270-eau-de-parfum",
+          "name": "50-ml - Frapin 1270",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1270 Extreme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Sidonie Lancesseur",
+      "family": "Sweet",
+      "accords": [],
+      "notes": {
+        "top": [
+          "candied orange",
+          "nuts",
+          "raisin",
+          "prune",
+          "cocoa",
+          "tonka bean",
+          "coffee"
+        ],
+        "heart": [
+          "vine flower",
+          "everlasting flower",
+          "linden",
+          "pepper",
+          "spices"
+        ],
+        "base": [
+          "precious woods",
+          "guaiac wood",
+          "white honey",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/frapin-1270-extreme-eau-de-parfum",
+          "name": "50-ml - Frapin 1270 Extreme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Checkmate",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Leather",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "cardamom"
+        ],
+        "heart": [
+          "green leather",
+          "heliotrope",
+          "iris"
+        ],
+        "base": [
+          "suede leather",
+          "virginia cedar",
+          "cashmere wood",
+          "modern woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/frapin-checkmate-eau-de-parfum",
+          "name": "50-ml - Frapin Checkmate",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speakeasy",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Oriental",
+      "accords": [
+        "mojito",
+        "oriental leather",
+        "tobacco"
+      ],
+      "notes": {
+        "top": [
+          "rum",
+          "davana",
+          "orange",
+          "lime"
+        ],
+        "heart": [
+          "mint",
+          "geranium"
+        ],
+        "base": [
+          "ciste",
+          "labdanum",
+          "styrax",
+          "tobacco",
+          "liatrix",
+          "everlasting flower",
+          "tonka bean",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/frapin-speakeasy-eau-de-parfum",
+          "name": "50-ml - Frapin Speakeasy",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Humaniste Extreme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "bergamot",
+          "cardamom",
+          "pink berry",
+          "black pepper"
+        ],
+        "heart": [
+          "nutmeg",
+          "patchouli",
+          "quince"
+        ],
+        "base": [
+          "tolu balm",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/frapin-l-humaniste-extreme-eau-de-parfum",
+          "name": "50-ml - Frapin L'Humaniste Extreme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Six Hours to Rio",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "ginger",
+          "mandarin"
+        ],
+        "heart": [
+          "cardamom",
+          "rose",
+          "musk"
+        ],
+        "base": [
+          "sandalwood",
+          "vetiver",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/frapin-six-hours-to-rio-eau-de-parfum",
+          "name": "50-ml - Frapin Six Hours to Rio",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attendre & Espérer",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [
+        "walnut and vetiver"
+      ],
+      "notes": {
+        "top": [
+          "neroli",
+          "lemon",
+          "black pepper"
+        ],
+        "heart": [
+          "cardamom",
+          "iris"
+        ],
+        "base": [
+          "black walnut",
+          "vetiver",
+          "atlas cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.aedes.com/products/attendre-esperer-eau-de-parfum",
+          "name": "Aedes - Frapin Attendre & Espérer",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Orchid Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jérôme Epinette",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "bergamot"
+        ],
+        "heart": [
+          "leather",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "black amber",
+          "oak moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.aedes.com/products/the-orchid-man-eau-de-parfum",
+          "name": "Aedes - Frapin The Orchid Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois Blanc",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bitter orange",
+          "virginian cedarwood",
+          "eucalyptus",
+          "rosemary",
+          "ginger"
+        ],
+        "heart": [
+          "sage",
+          "violet leaf"
+        ],
+        "base": [
+          "cade",
+          "guaiac wood",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.aedes.com/products/bois-blanc-eau-de-parfum",
+          "name": "Aedes - Frapin Bois Blanc",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Isle of Man",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Aliénor Massenet",
+      "family": null,
+      "accords": [
+        "salt accord"
+      ],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "bitter orange",
+          "basil"
+        ],
+        "heart": [
+          "salt",
+          "freesia",
+          "violet"
+        ],
+        "base": [
+          "guaiac wood",
+          "haitian vetiver",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.aedes.com/products/isle-of-man-eau-de-parfum",
+          "name": "Aedes - Frapin Isle of Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laskarina",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Amélie Bourgeois",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "italian bergamot",
+          "grapefruit",
+          "pink peppercorn",
+          "pear"
+        ],
+        "heart": [
+          "tunisian orange blossom",
+          "bulgarian rose"
+        ],
+        "base": [
+          "olibanum",
+          "black pepper",
+          "iris",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.aedes.com/products/laskarina-eau-de-parfum",
+          "name": "Aedes - Frapin Laskarina",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IF by R.K.",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ginger",
+          "pepper",
+          "italian bergamot"
+        ],
+        "heart": [
+          "fig milk",
+          "ceylon cinnamon",
+          "cashmere wood"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "guaiac wood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.aedes.com/products/if-by-rk-eau-de-parfum",
+          "name": "Aedes - Frapin IF by R.K.",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bonne Chauffe",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2023,
+      "perfumer": "Maebh Mc Curtin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "davana",
+          "black pepper"
+        ],
+        "heart": [
+          "plum",
+          "wood",
+          "cereal"
+        ],
+        "base": [
+          "vetiver",
+          "cedarwood",
+          "benzoin",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.aedes.com/products/bonne-chauffe-eau-de-parfum",
+          "name": "Aedes - Frapin Bonne Chauffe",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orchid Man The Last Fight",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jérôme Epinette",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "passion fruit",
+          "saffron",
+          "bergamot"
+        ],
+        "heart": [
+          "labdanum",
+          "davana",
+          "raspberry"
+        ],
+        "base": [
+          "patchouli",
+          "papyrus",
+          "crystallized sugar",
+          "black leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.aedes.com/products/orchid-man-the-last-fight-eau-de-parfum",
+          "name": "Aedes - Frapin Orchid Man The Last Fight",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    }
+  ]
+}

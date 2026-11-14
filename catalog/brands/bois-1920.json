@@ -1,0 +1,1626 @@
+{
+  "brand": "Bois 1920",
+  "slug": "bois-1920",
+  "officialSite": "https://www.bois1920.it/en/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "bois1920.it (WooCommerce) category pages read for the Bois 1920 range (Artistic, Cannabis, Classici, Elite, Exclusive, Giardinomirabile, Limited Art, Orientali, Oro, Prestige, Trasparenti, Voluttuose). Notes from each product page's Olfactory Pyramid (top/heart/dry down). Concentration only where the product page title states it. Excluded: kits, miniatures, discovery sets, home fragrance, body lotions, beauty, and the Touch of Oud, Profumo di Firenze, Jousset, Olfattology and other brands listed in the same shop. Family, year, perfumer and country not stated on the site.",
+  "fragrances": [
+    {
+      "name": "Art1920",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "violet leaves",
+          "green tea",
+          "bergamot",
+          "grapefruit",
+          "apple",
+          "peach",
+          "prune",
+          "mango",
+          "raspberry",
+          "melon",
+          "blackberry",
+          "black currant",
+          "passion fruit",
+          "guava"
+        ],
+        "heart": [
+          "orange blossoms",
+          "sambac jasmine",
+          "lily of the valley",
+          "rose",
+          "iris"
+        ],
+        "base": [
+          "agarwood",
+          "sandalwood",
+          "patchouli",
+          "cedarwood",
+          "labdanum",
+          "frankincense",
+          "leather",
+          "vanilla",
+          "tonka bean",
+          "white musk",
+          "siam benzoin",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/art1920/",
+          "name": "Bois 1920 - Art1920",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Astratto",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "davana",
+          "pineapple",
+          "milk"
+        ],
+        "heart": [
+          "lavender",
+          "jasmine",
+          "rose",
+          "guaiac wood",
+          "peach",
+          "raspberry"
+        ],
+        "base": [
+          "amber",
+          "white musk",
+          "vanilla",
+          "benzoin",
+          "caramel"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/astratto/",
+          "name": "Bois 1920 - Astratto",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cannabis",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cannabis"
+        ],
+        "heart": [
+          "cannabis",
+          "patchouli"
+        ],
+        "base": [
+          "light wood",
+          "cannabis"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/cannabis/",
+          "name": "Bois 1920 - Cannabis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cannabis Dolce",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bigarade",
+          "cocoa beans",
+          "pimento"
+        ],
+        "heart": [
+          "cannabis",
+          "iris",
+          "cardamom",
+          "black pepper"
+        ],
+        "base": [
+          "vanilla beans",
+          "cisto",
+          "amber woods",
+          "patchouli",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/cannabis-dolce/",
+          "name": "Bois 1920 - Cannabis Dolce",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cannabis Fruttata",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "origan",
+          "rosemary",
+          "fig leaves"
+        ],
+        "heart": [
+          "cannabis",
+          "blueberry",
+          "lily of the valley"
+        ],
+        "base": [
+          "patchouli",
+          "ambergris",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/cannabis-fruttata/",
+          "name": "Bois 1920 - Cannabis Fruttata",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cannabis Salata",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "coriander"
+        ],
+        "heart": [
+          "cannabis",
+          "aquatic accord",
+          "cardamom"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli",
+          "salty accord",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/cannabis-salata/",
+          "name": "Bois 1920 - Cannabis Salata",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Centenario",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ylang ylang",
+          "tiarè flower",
+          "bergamot"
+        ],
+        "heart": [
+          "iris",
+          "coconut",
+          "poudrée"
+        ],
+        "base": [
+          "sandalwood",
+          "jasmine",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/centenario/",
+          "name": "Bois 1920 - Centenario",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Classic 1920",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "nutmeg",
+          "apricot",
+          "basil"
+        ],
+        "heart": [
+          "rose",
+          "osmanthus",
+          "lavender",
+          "jasmine",
+          "juniper berries"
+        ],
+        "base": [
+          "amber",
+          "vetiver",
+          "cedarwood",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/classic-1920/",
+          "name": "Bois 1920 - Classic 1920",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Decisamente Rosa",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "hazelnut",
+          "pear",
+          "apple",
+          "coconut",
+          "mango",
+          "plum",
+          "ginger"
+        ],
+        "heart": [
+          "damask rose",
+          "rose of may",
+          "magnolia",
+          "iris",
+          "lily of the valley"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "white musk",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/decisamente-rosa/",
+          "name": "Bois 1920 - Decisamente Rosa",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dolce Di Giorno",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cinnamon",
+          "pepper",
+          "grapefruit"
+        ],
+        "heart": [
+          "cardamom",
+          "thyme",
+          "nargamutta",
+          "prune"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "labdanum",
+          "sandalwood",
+          "gaiac wood",
+          "cashmere wood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/dolce-di-giorno/",
+          "name": "Bois 1920 - Dolce Di Giorno",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Durocaffè",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "coffee",
+          "sugar"
+        ],
+        "heart": [
+          "damask rose",
+          "dark chocolate",
+          "vanilla"
+        ],
+        "base": [
+          "amber",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/durocaffe/",
+          "name": "Bois 1920 - Durocaffè",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite I",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "mandarin"
+        ],
+        "heart": [
+          "marine",
+          "tuberose",
+          "gardenia",
+          "lily"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/elite-i/",
+          "name": "Bois 1920 - Elite I",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite II",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "acquatic"
+        ],
+        "heart": [
+          "rose",
+          "caramel sugar",
+          "white flowers"
+        ],
+        "base": [
+          "white musk",
+          "vanilla",
+          "precious woods",
+          "amber",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/elite-ii/",
+          "name": "Bois 1920 - Elite II",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite III",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black currant",
+          "aldehydes"
+        ],
+        "heart": [
+          "rose",
+          "ylang ylang",
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "incense",
+          "sandalwood",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/elite-iii/",
+          "name": "Bois 1920 - Elite III",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite IV",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "tobacco",
+          "honey",
+          "iris",
+          "sandalwood"
+        ],
+        "heart": [
+          "incense",
+          "rose",
+          "hay"
+        ],
+        "base": [
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/elite-iv/",
+          "name": "Bois 1920 - Elite IV",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite Zhor",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "red thyme",
+          "bergamot",
+          "geranium",
+          "rose"
+        ],
+        "heart": [
+          "cardamom",
+          "incens",
+          "nutmeg",
+          "cinnamon"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli",
+          "amber",
+          "cedarwood",
+          "benzoin",
+          "animalic",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/elite-zhor/",
+          "name": "Bois 1920 - Elite Zhor",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fondentarancio",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "tangerine",
+          "orange",
+          "chocolate accord"
+        ],
+        "heart": [
+          "orange flower",
+          "magnolia",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "vanilla",
+          "almond",
+          "orris",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/fondentarancio/",
+          "name": "Bois 1920 - Fondentarancio",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frammenti",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "rhubarb",
+          "black currant",
+          "green"
+        ],
+        "heart": [
+          "magnolia",
+          "violet",
+          "incense",
+          "geranium",
+          "rose"
+        ],
+        "base": [
+          "white musk",
+          "amber",
+          "vanilla",
+          "caramel",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/frammenti/",
+          "name": "Bois 1920 - Frammenti",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gioco all'Alba",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "whisky accord",
+          "saffron"
+        ],
+        "heart": [
+          "boronia",
+          "davana",
+          "tobacco leaves",
+          "demerara sugar",
+          "peat"
+        ],
+        "base": [
+          "leather accord",
+          "vanilla",
+          "cedarwood",
+          "guaiac wood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/gioco-allalba/",
+          "name": "Bois 1920 - Gioco all'Alba",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heudorf Privè I",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "orange",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine",
+          "lily of the valley"
+        ],
+        "base": [
+          "amber",
+          "praline",
+          "vanilla",
+          "pink musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/heudorf-prive-i/",
+          "name": "Bois 1920 - Heudorf Privè I",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marasma",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ananas",
+          "cardamom",
+          "bergamot",
+          "maracujá",
+          "finger lime"
+        ],
+        "heart": [
+          "artemisia",
+          "salt crystals",
+          "black pepper",
+          "sea lily"
+        ],
+        "base": [
+          "patchouli",
+          "guaiac wood",
+          "cedarwood",
+          "amberwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/marasma/",
+          "name": "Bois 1920 - Marasma",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk1920",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "plum",
+          "pineapple",
+          "mango",
+          "black currant",
+          "peach",
+          "marine"
+        ],
+        "heart": [
+          "lavender",
+          "iris",
+          "lily of the valley"
+        ],
+        "base": [
+          "tonka",
+          "vanilla",
+          "sandalwood",
+          "ambergris",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/musk1920/",
+          "name": "Bois 1920 - Musk1920",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oltremare",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "green lemon",
+          "bergamot",
+          "sweet orange",
+          "bigarade",
+          "sicilian yellow",
+          "lemon"
+        ],
+        "heart": [
+          "maté leaves",
+          "red tea",
+          "juniper berries",
+          "rhubarb",
+          "geranium",
+          "violet leaves",
+          "dutch hyacinth"
+        ],
+        "base": [
+          "sandalwood",
+          "white musk",
+          "ambergris",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/oltremare/",
+          "name": "Bois 1920 - Oltremare",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oro 1920",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "raspberry",
+          "ginger",
+          "incense",
+          "fir"
+        ],
+        "heart": [
+          "may rose",
+          "iris",
+          "guaiac wood"
+        ],
+        "base": [
+          "benzoin",
+          "leather",
+          "vanilla",
+          "beeswax",
+          "tobacco"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/oro-1920/",
+          "name": "Bois 1920 - Oro 1920",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oro Bianco",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "ginger",
+          "pink pepper"
+        ],
+        "heart": [
+          "damask rose",
+          "peony",
+          "ylang ylang"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "cedarwood",
+          "guaiac wood",
+          "precious woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/oro-bianco/",
+          "name": "Bois 1920 - Oro Bianco",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oro Nero",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "bergamot",
+          "orange",
+          "cloves"
+        ],
+        "heart": [
+          "patchouli",
+          "sandalwood",
+          "cedarwood",
+          "ylang ylang"
+        ],
+        "base": [
+          "leather",
+          "amber",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/oro-nero/",
+          "name": "Bois 1920 - Oro Nero",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oro Rosa",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "apple",
+          "melon",
+          "orange"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "heliotrope",
+          "lychee"
+        ],
+        "base": [
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/oro-rosa/",
+          "name": "Bois 1920 - Oro Rosa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oro Rosso",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "blood orange",
+          "citrus"
+        ],
+        "heart": [
+          "jasmine",
+          "lavender",
+          "sage",
+          "saffron"
+        ],
+        "base": [
+          "woody",
+          "oak musk",
+          "oak wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/oro-rosso/",
+          "name": "Bois 1920 - Oro Rosso",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paranà",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "birch",
+          "bergamot",
+          "cardamom",
+          "cassis",
+          "galbanum",
+          "blackcurrant"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "neroli"
+        ],
+        "base": [
+          "white musk",
+          "patchouli",
+          "oakmoss",
+          "amber",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/parana/",
+          "name": "Bois 1920 - Paranà",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Policromia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "raspberry",
+          "tangerine",
+          "baies rose"
+        ],
+        "heart": [
+          "jasmine",
+          "orchid",
+          "salt",
+          "tuberose"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/policromia/",
+          "name": "Bois 1920 - Policromia",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rebus",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "galbanum",
+          "orris",
+          "lemon"
+        ],
+        "heart": [
+          "lavender",
+          "violet",
+          "oud"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "musk",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/rebus/",
+          "name": "Bois 1920 - Rebus",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rosa di Filare",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "blackcurrant",
+          "litchi"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "turkish rose",
+          "lily of the valley",
+          "bamboo flower"
+        ],
+        "base": [
+          "cedar",
+          "patchouli",
+          "amber",
+          "iris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/rosa-di-filare/",
+          "name": "Bois 1920 - Rosa di Filare",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sacro e Profano",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose",
+          "saffron"
+        ],
+        "base": [
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/sacro-e-profano/",
+          "name": "Bois 1920 - Sacro e Profano",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sandalvia",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom",
+          "incense"
+        ],
+        "heart": [
+          "clary sage",
+          "helichrysum",
+          "saffron"
+        ],
+        "base": [
+          "cedar",
+          "sandalwood",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/sandalvia/",
+          "name": "Bois 1920 - Sandalvia",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scorzaforza",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "mandarin",
+          "bergamot",
+          "petit grain"
+        ],
+        "heart": [
+          "mint",
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "white musk",
+          "amber",
+          "cedarwood",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/scorzaforza/",
+          "name": "Bois 1920 - Scorzaforza",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scuro",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "elemi",
+          "bergamot",
+          "grapefruit",
+          "black pepper",
+          "incense"
+        ],
+        "heart": [
+          "sichuan pepper",
+          "cardamom",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "guaiac wood",
+          "cashmere wood",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/scuro/",
+          "name": "Bois 1920 - Scuro",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sensual Tuberose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "coriander",
+          "tuberose",
+          "peach"
+        ],
+        "heart": [
+          "orange blossom",
+          "heliotrope",
+          "jasmine",
+          "coconut"
+        ],
+        "base": [
+          "benzoin",
+          "sandalwood",
+          "white musk",
+          "iris",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/sensual-tuberose/",
+          "name": "Bois 1920 - Sensual Tuberose",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sushi Imperiale",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarine",
+          "lemon"
+        ],
+        "heart": [
+          "pepper",
+          "nutmeg",
+          "rose",
+          "cinnamon"
+        ],
+        "base": [
+          "sandalwood",
+          "tonka beans",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.bois1920.it/en/shop/sushi-imperiale/",
+          "name": "Bois 1920 - Sushi Imperiale",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

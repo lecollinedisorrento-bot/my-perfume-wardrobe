@@ -1,0 +1,566 @@
+{
+  "brand": "Parle Moi de Parfum",
+  "slug": "parle-moi-de-parfum",
+  "officialSite": "https://parlemoideparfum.com/en/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official site (parlemoideparfum.com/en/) homepage lists 19 perfumes; each product page was read. The site gives only 50 ml and 100 ml sizes, so concentration is null. Notes are the ingredients named on each page, stored flat because no top/heart/base pyramid is shown. Year is stated only for Chypre Mojo / 45 (2017), perfumer only for Papyrus Oud / 71. Brand country not stated (Paris address only), so null. Nine pages name no notes and are kept as listings with no facts. The lab page says the collection has fifteen eaux de parfum, which does not match the 19 listed, so no per-product concentration was inferred.",
+  "fragrances": [
+    {
+      "name": "Looking for Vanilla / 43",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "indian jasmine",
+          "orange",
+          "bitter almond",
+          "tonka bean",
+          "cherry",
+          "vanilla",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/looking-for-vanilla-43/",
+          "name": "Parle Moi de Parfum - Looking for Vanilla / 43",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chypre Mojo / 45",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2017,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "carnation",
+          "mango",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/chypre-mojo-45/",
+          "name": "Parle Moi de Parfum - Chypre Mojo / 45",
+          "type": "official",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Milky Musk / 39",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/perfume-milky-musk-39/",
+          "name": "Parle Moi de Parfum - Milky Musk / 39",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Comète Paradis / 62",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cocoa butter",
+          "tonka bean",
+          "vanilla",
+          "sandalwood",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/comete-paradis-62/",
+          "name": "Parle Moi de Parfum - Comète Paradis / 62",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wake Up World / ∞",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "green apple",
+          "tonka bean",
+          "benzoin"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/wake-up-world/",
+          "name": "Parle Moi de Parfum - Wake Up World / ∞",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woody Perfecto / 107",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "coffee",
+          "vetiver",
+          "leather"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/perfume-woody-perfecto-107/",
+          "name": "Parle Moi de Parfum - Woody Perfecto / 107",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orris Tattoo / 29",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/orris-tattoo29/",
+          "name": "Parle Moi de Parfum - Orris Tattoo / 29",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Papyrus Oud / 71",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Michel Almairac",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "precious woods",
+          "papyrus"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/papyrus-oud-71/",
+          "name": "Parle Moi de Parfum - Papyrus Oud / 71",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tomboy Neroli / 65",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "neroli",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/perfume-tomboy-neroli-65/",
+          "name": "Parle Moi de Parfum - Tomboy Neroli / 65",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Une Tonne de Roses / 8",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/perfume-une-tonne-de-roses-8/",
+          "name": "Parle Moi de Parfum - Une Tonne de Roses / 8",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Totally White / 126",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/perfume-totally-white-126/",
+          "name": "Parle Moi de Parfum - Totally White / 126",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Haute Provence / 89",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavender",
+          "melon",
+          "watermelon",
+          "narcissus"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/haute-provence-89/",
+          "name": "Parle Moi de Parfum - Haute Provence / 89",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cedar Woodpecker / 10",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedarwood",
+          "iris"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/perfume-cedar-woodpecker-10/",
+          "name": "Parle Moi de Parfum - Cedar Woodpecker / 10",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mile High / 38",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pineapple",
+          "tonka bean",
+          "immortelle",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/mile-high-38/",
+          "name": "Parle Moi de Parfum - Mile High / 38",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flavia Vanilla / 82",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/perfume-flavia-vanilla-82/",
+          "name": "Parle Moi de Parfum - Flavia Vanilla / 82",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Guimauve de Noël / 31",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/perfume-guimauve-de-noel-31/",
+          "name": "Parle Moi de Parfum - Guimauve de Noël / 31",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Blossoms Smoke / 57",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/blossoms-smoke-57/",
+          "name": "Parle Moi de Parfum - Blossoms Smoke / 57",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Gardens of India / 79",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "jasmine",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/gardens-of-india-79/",
+          "name": "Parle Moi de Parfum - Gardens of India / 79",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orange Hyper Essence / X",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://parlemoideparfum.com/en/boutique/orange-hyper-essence-x/",
+          "name": "Parle Moi de Parfum - Orange Hyper Essence / X",
+          "type": "official",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}
