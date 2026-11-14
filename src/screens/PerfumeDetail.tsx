@@ -18,7 +18,7 @@ import type { ImageCandidate } from '../shared/api';
 import { useTemp } from '../components/Weather';
 import { vibrate } from '../services/feedback';
 import { allNotes, hasProfile } from '../domain/fragrance';
-import { applyCatalog, findCatalogMatch, loadCatalog, type CatalogItem } from '../services/catalog';
+import { applyCatalog, catalogHasNews, findCatalogMatch, loadCatalog, type CatalogItem } from '../services/catalog';
 
 export function PerfumeDetail() {
   const { id } = useParams();
@@ -161,7 +161,7 @@ export function PerfumeDetail() {
         )}
       </div>
 
-      {catMatch && !f.research && (
+      {catMatch && catalogHasNews(f, catMatch) && (
         <section className="card c-lime dots section stack" style={{ ['--gap' as string]: '10px' }} data-testid="catalog-fill">
           <p style={{ fontWeight: 700 }}>{t('profile.catalogFound')}</p>
           <button
@@ -172,7 +172,7 @@ export function PerfumeDetail() {
               toast(t('profile.updated'), 'lime');
             }}
           >
-            {t('profile.catalogFill')}
+            {f.research ? t('profile.catalogUpdate') : t('profile.catalogFill')}
           </button>
         </section>
       )}

@@ -58,9 +58,26 @@ from a web page that was actually opened during research, and that page's URL is
 - `notes.flat` is for brands that publish notes without a top/heart/base pyramid.
 - `type` must be one of `official` | `retailer` | `database` | `publication`.
 - `supports` lists the facts that source states; allowed values: `notes`, `accords`,
-  `family`, `year`, `perfumer`, `concentration`, `discontinued`.
+  `family`, `year`, `perfumer`, `concentration`, `discontinued`, `performance`, `usage`.
 - Each of `releaseYear`, `perfumer`, `family` and `accords` must be backed by a
   source whose `supports` includes it, or else set to `null` / `[]`.
 - Note names: lowercase English, singular, e.g. `"bergamot"`, `"oud"`, `"vanilla"`.
 
 Validate with `node scripts/validate-catalog.mjs`.
+
+## Performance and usage (optional)
+
+```json
+"performance": { "longevity": 4, "sillage": 3, "projection": null, "basis": "reported" },
+"usage": { "seasons": ["autumn", "winter"], "times": ["evening", "night"] },
+"performanceEvidence": "Retailer: 'lasts 8–10 hours'; review: 'moderate sillage'"
+```
+
+- Levels are 1–5, a tendency, never a measurement:
+  - longevity: 1 = under 2 h, 2 = 2–4 h, 3 = 4–6 h, 4 = 6–10 h, 5 = over 10 h;
+  - sillage / projection: 1 = skin scent, 2 = soft, 3 = moderate, 4 = strong, 5 = enormous.
+- `basis`: `"official"` (brand states it), `"retailer"`, `"reviews"` (independent
+  reviews or publications), `"search"` (a search-result summary that states it).
+- `seasons` from `spring, summer, autumn, winter`; `times` from `morning, afternoon, evening, night`.
+- A source supports `performance` / `usage` only if it states it; otherwise use null / [].
+- `performanceEvidence`: one short line in your own words saying what each source states.

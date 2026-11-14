@@ -7,7 +7,11 @@ import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync } from 
 const root = new URL('..', import.meta.url);
 const dir = new URL('catalog/brands/', root);
 const SOURCE_TYPES = new Set(['official', 'retailer', 'database', 'publication']);
-const FACTS = new Set(['notes', 'accords', 'family', 'year', 'perfumer', 'concentration', 'discontinued']);
+const FACTS = new Set(['notes', 'accords', 'family', 'year', 'perfumer', 'concentration', 'discontinued', 'performance', 'usage']);
+const LEVEL = (x) => (Number.isInteger(x) && x >= 1 && x <= 5 ? x : null);
+const SEASONS = new Set(['spring', 'summer', 'autumn', 'winter']);
+const TIMES = new Set(['morning', 'afternoon', 'evening', 'night']);
+const BASES = new Set(['official', 'retailer', 'reviews', 'search']);
 
 const errors = [];
 const warnings = [];
@@ -75,6 +79,19 @@ for (const file of files) {
     };
     const img = images[`${b.brand}|${f.name}`];
     if (img?.file && existsSync(new URL(img.file, imgDir))) entry.i = { f: img.file, u: img.page, n: img.source || new URL(img.page).hostname, t: img.type || 'official' };
+    const pf = f.performance ?? {};
+    const perf = { l: LEVEL(pf.longevity), s: LEVEL(pf.sillage), p: LEVEL(pf.projection) };
+    if (perf.l || perf.s || perf.p) {
+      if (!supported.has('performance')) warnings.push(where(i, 'performance removed: no source supports "performance"'));
+      else entry.pf = { ...perf, b: BASES.has(pf.basis) ? pf.basis : 'reviews', e: typeof f.performanceEvidence === 'string' ? f.performanceEvidence.slice(0, 240) : null };
+    }
+    const us = f.usage ?? {};
+    const seasons = list(us.seasons).filter((x) => SEASONS.has(x));
+    const times = list(us.times).filter((x) => TIMES.has(x));
+    if (seasons.length || times.length) {
+      if (!supported.has('usage')) warnings.push(where(i, 'usage removed: no source supports "usage"'));
+      else entry.u = { s: seasons, t: times };
+    }
     if (hasNotes && !supported.has('notes')) warnings.push(where(i, 'notes removed: no source supports "notes"'));
     out.push(entry);
   });

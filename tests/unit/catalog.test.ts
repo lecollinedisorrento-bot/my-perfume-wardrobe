@@ -60,6 +60,21 @@ describe('catalogue → profile', () => {
   });
 });
 
+describe('catalogue performance and usage', () => {
+  it('fills a sourced tendency but never overrides the user experience', () => {
+    const it2 = item({ pf: { l: 4, s: 3, p: null, b: 'reviews', e: 'x' }, u: { s: ['autumn', 'winter'], t: ['evening'] } });
+    const a = applyCatalog(blankFragrance(), it2);
+    expect(a.performance).toMatchObject({ longevity: 4, sillage: 3, basis: 'estimate' });
+    expect(a.usage.seasons).toEqual(['autumn', 'winter']);
+    const mine = blankFragrance();
+    mine.performance = { longevity: 2, basis: 'user' };
+    mine.usage.seasons = ['summer'];
+    const b = applyCatalog(mine, it2);
+    expect(b.performance).toEqual({ longevity: 2, basis: 'user' });
+    expect(b.usage.seasons).toEqual(['summer']);
+  });
+});
+
 describe('catalogue bottle photos', () => {
   it('finds the cut-out by brand + name, accent and case insensitive', async () => {
     setCatalogForTests({

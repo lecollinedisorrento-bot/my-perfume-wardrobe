@@ -2,7 +2,7 @@
 // catalog/brands/*.json by scripts/validate-catalog.mjs). Every entry carries
 // the sources it was researched from; nothing here is AI-generated at runtime.
 
-import type { Fragrance, ResearchInfo, SourceRef, Verification } from '../domain/types';
+import type { Fragrance, Level, ResearchInfo, Season, SourceRef, TimeOfDay, Verification } from '../domain/types';
 import { normalizeKey } from '../domain/util';
 import { matchConcentration } from '../screens/research';
 import { appUrl } from './base';
@@ -21,6 +21,10 @@ export interface CatalogItem {
   d?: boolean; // discontinued
   s: { u: string; n: string; t: 'official' | 'retailer' | 'database' | 'publication'; f: string[] }[];
   r: string | null; // retrieved date
+  /** Performance tendency 1–5 (longevity, sillage, projection), its basis and a short evidence line. */
+  pf?: { l: number | null; s: number | null; p: number | null; b: 'official' | 'retailer' | 'reviews' | 'search'; e: string | null };
+  /** When it is typically worn, as stated by its sources. */
+  u?: { s: string[]; t: string[] };
   /** Cut-out bottle photo in /catalog/img/ and the page it was taken from. */
   i?: { f: string; u: string; n: string; t: 'official' | 'retailer' | 'database' | 'publication' };
 }
@@ -110,7 +114,19 @@ export function findCatalogMatch(items: CatalogItem[], brand: string, name: stri
   return null;
 }
 
-const FACT_MAP: Record<string, string> = { year: 'year', notes: 'notes', accords: 'accords', family: 'family', perfumer: 'perfumer', concentration: 'concentration', discontinued: 'discontinued' };
+const FACT_MAP: Record<string, string> = {
+  year: 'year',
+  notes: 'notes',
+  accords: 'accords',
+  family: 'family',
+  perfumer: 'perfumer',
+  concentration: 'concentration',
+  discontinued: 'discontinued',
+  performance: 'performance',
+  usage: 'usage',
+};
+
+const level = (n: number | null | undefined) => (n && n >= 1 && n <= 5 ? (n as Level) : undefined);
 
 export function catalogResearch(item: CatalogItem): ResearchInfo {
   const sources: SourceRef[] = item.s.map((s) => ({
@@ -135,6 +151,19 @@ export function catalogResearch(item: CatalogItem): ResearchInfo {
   };
 }
 
+/** True when a catalogue entry can add something to a profile that came from the catalogue (or nowhere). */
+export function catalogHasNews(f: Fragrance, item: CatalogItem): boolean {
+  if (f.research && f.research.engine !== CATALOG_ENGINE) return false; // AI-researched profiles are not overwritten
+  if (!f.research) return true;
+  const notes = (x: { top: string[]; heart: string[]; base: string[]; flat: string[] }) => x.top.length + x.heart.length + x.base.length + x.flat.length;
+  const perfEmpty = f.performance.basis !== 'user' && !f.performance.longevity && !f.performance.sillage && !f.performance.projection;
+  return (
+    notes(item.t) > notes(f.notes) ||
+    (!!item.pf && perfEmpty) ||
+    (!!item.u && (item.u.s.length > 0 && !f.usage.seasons.length || item.u.t.length > 0 && !f.usage.times.length))
+  );
+}
+
 /** Fills a fragrance profile from a catalogue entry, keeping personal data. */
 export function applyCatalog(f: Fragrance, item: CatalogItem): Fragrance {
   return {
@@ -149,6 +178,18 @@ export function applyCatalog(f: Fragrance, item: CatalogItem): Fragrance {
     accords: item.a.length ? item.a : f.accords,
     notes: { top: item.t.top, heart: item.t.heart, base: item.t.base, flat: item.t.flat },
     noteSource: item.ns === 'none' ? 'none' : item.ns,
+    // Catalogue performance is a sourced tendency; the user's own experience always wins.
+    performance:
+      item.pf && f.performance.basis !== 'user'
+        ? { longevity: level(item.pf.l), sillage: level(item.pf.s), projection: level(item.pf.p), intensity: f.performance.intensity, basis: 'estimate' }
+        : f.performance,
+    usage: item.u
+      ? {
+          ...f.usage,
+          seasons: f.usage.seasons.length ? f.usage.seasons : (item.u.s as Season[]),
+          times: f.usage.times.length ? f.usage.times : (item.u.t as TimeOfDay[]),
+        }
+      : f.usage,
     research: catalogResearch(item),
   };
 }

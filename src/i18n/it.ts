@@ -298,7 +298,8 @@ export const it: Record<MessageKey, string> = {
   'profile.dropped': 'Rimossi perché nessuna fonte li confermava: {fields}',
   'profile.engine': 'Motore: {engine}',
   'profile.notFound': 'Questo profumo non è sul tuo scaffale.',
-  'profile.catalogFound': 'Questo profumo è nel catalogo, con note e fonti consultate.',
+  'profile.catalogFound': 'Il catalogo ha dati per questo profumo (note, durata, stagioni), con le fonti consultate.',
+  'profile.catalogUpdate': 'Aggiorna dal catalogo',
   'profile.catalogFill': 'Compila dal catalogo',
   'profile.updated': 'Profilo aggiornato.',
 

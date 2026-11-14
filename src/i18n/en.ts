@@ -306,7 +306,8 @@ export const en = {
   'profile.dropped': 'Removed because no source backed it up: {fields}',
   'profile.engine': 'Engine: {engine}',
   'profile.notFound': 'This perfume isn’t on your shelf.',
-  'profile.catalogFound': 'This perfume is in the catalogue, with researched notes and sources.',
+  'profile.catalogFound': 'The catalogue has data for this perfume (notes, longevity, seasons), with the sources it read.',
+  'profile.catalogUpdate': 'Update from the catalogue',
   'profile.catalogFill': 'Fill from the catalogue',
   'profile.updated': 'Profile updated.',
 
