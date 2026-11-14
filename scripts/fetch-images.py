@@ -110,7 +110,9 @@ def shopify_feed(origin: str):
     return _feeds[origin]
 
 
-SKIP_TYPES = re.compile(r'sample|set|gift|kit|candle|lotion|gel|cream|soap|diffuser|travel|mini|bundle|refill', re.I)
+SKIP_TYPES = re.compile(r'sample|set|gift|kit|candle|lotion|gel|cream|soap|diffuser|travel|mini|bundle|refill|shower|body oil|roll on|roll-on', re.I)
+SMALL = re.compile(r'purse|splash|pen\b|humongous|miniature|10 ?ml|15 ?ml|5 ?ml', re.I)
+PLACEHOLDER = re.compile(r'coming[-_ ]?soon|placeholder|no[-_]image|logo|favicon', re.I)
 
 
 def shopify_by_name(url: str, name: str):
@@ -127,10 +129,11 @@ def shopify_by_name(url: str, name: str):
             continue
         if SKIP_TYPES.search(prod.get('title', '') + ' ' + prod.get('product_type', '')):
             continue
-        imgs = prod.get('images') or []
+        imgs = [i for i in (prod.get('images') or []) if not PLACEHOLDER.search(i.get('src', ''))]
         if not imgs:
             continue
-        score = (title == want, 'spray' in title or 'parfum' in title or 'cologne' in title)
+        label = prod.get('title', '') + ' ' + prod.get('product_type', '')
+        score = (not SMALL.search(label), bool(re.search(r'cologne|parfum|perfume|eau de', label, re.I)), title == want)
         if best is None or score > best[0]:
             best = (score, imgs[0]['src'], f"{origin}/products/{prod['handle']}")
     if not best:
@@ -149,7 +152,7 @@ def find_image(fr: dict):
         if hit:
             return hit[0], {**s, 'url': hit[1]}
         img = shopify_image(u) or og_image(u)
-        if img and not re.search(r'logo|favicon|placeholder', img, re.I):
+        if img and not PLACEHOLDER.search(img):
             return img, s
     return None, None
 
@@ -231,6 +234,7 @@ def main():
     ap.add_argument('--distributed', action='store_true')
     ap.add_argument('--brand', action='append')
     ap.add_argument('--redo', action='append')
+    ap.add_argument('--force', action='store_true', help='redo targets even if already mapped')
     ap.add_argument('--shard', help='i/n: process only every n-th target (parallel runs)')
     args = ap.parse_args()
     global MAP
@@ -242,7 +246,7 @@ def main():
     rejected = set(json.loads(REJECTED.read_text())) if REJECTED.exists() else set()
     done = set(base) | set(mapping) | rejected
     OUT.mkdir(parents=True, exist_ok=True)
-    todo = [t for t in targets(args) if args.redo or key(t[0], t[1]['name']) not in done]
+    todo = [t for t in targets(args) if args.redo or args.force or key(t[0], t[1]['name']) not in done]
     if args.shard:
         todo = todo[i::n]
     print(f'{len(todo)} to process')
