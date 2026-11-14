@@ -10,6 +10,16 @@ A pop, playful, installable fragrance playground. Collect your perfumes, spin fo
 
 ---
 
+## Fragrance catalogue (works offline)
+
+`catalog/brands/*.json` holds researched perfumes: all the brands distributed in Italy by BJ Distribuzione, plus a growing set of niche and artistic houses. The rules in [`catalog/SPEC.md`](catalog/SPEC.md) apply: every fact comes from a page that was actually opened, with its URL; official sources come first; only facts are recorded, with no copied descriptions and no images.
+
+`scripts/validate-catalog.mjs` runs before `dev` and `build`. It rejects entries without sources, strips facts no source supports, and writes `public/catalog/index.json`, which the service worker caches for offline use. In the app:
+
+- **Add a perfume:** catalogue matches appear as you type, and picking one fills a profile labelled "Catalogue · from researched sources, not AI", with its sources listed.
+- **`/catalog`:** browse and search by house, and add a perfume with one tap.
+- **Shelf perfumes without a profile** (such as the sample collection) are offered "Fill from the catalogue".
+
 ## Quick start
 
 ```bash
