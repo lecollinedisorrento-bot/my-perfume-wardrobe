@@ -1,0 +1,716 @@
+{
+  "brand": "Jo Malone London",
+  "slug": "jo-malone-london",
+  "officialSite": "https://www.jomalone.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official jomalone.com collection pages and /products.json (on jomalone.co.uk) returned HTTP 403 in every attempt, so no official notes were read and noteSource is reported for all entries. Range taken from the authorised retailer listing scento.com/brands/jo-malone-london (14 products, read in full) plus 7 colognes whose names and notes were in WebSearch results from Harrods and Selfridges (the pages themselves returned 403); those 7 come from search result text only. Harrods, Selfridges and lookfantastic pages blocked. Only 100 ml colognes or the cologne product lines are included; decants, gift sets, candles, body care and minis skipped. Perfumers stated only where the page says so. Country and years are not stated on the pages read, except 2026 release statements on Sea Salt & Bergamot. Concentration on scento pages is often absent: Hinoki & Cedarwood, Myrrh & Tonka, Red Hibiscus, Scarlet Poppy Intense and Velvet Rose & Oud keep concentration null. Notes not separated into tiers on some pages (flat used). The full JO MALONE range is larger than the 21 entries here; limited-edition and archive items beyond the retailer listing were not covered.",
+  "fragrances": [
+    {
+      "name": "English Pear & Freesia",
+      "collection": null,
+      "concentration": "Eau de Cologne",
+      "releaseYear": null,
+      "perfumer": "Christine Nagel",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "melon"
+        ],
+        "heart": [
+          "freesia",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "rhubarb",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/english-pear-freesia-jo-malone-london",
+          "name": "Scento - English Pear & Freesia",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cypress & Grapevine",
+      "collection": null,
+      "concentration": "Cologne Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cypress"
+        ],
+        "heart": [],
+        "base": [
+          "woody notes",
+          "vine"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/cypress-grapevine-cologne-intense-jo-malone-london",
+          "name": "Scento - Cypress & Grapevine Cologne Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hinoki & Cedarwood",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "hinoki"
+        ],
+        "heart": [],
+        "base": [
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/hinoki-cedarwood-jo-malone-london",
+          "name": "Scento - Hinoki & Cedarwood",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iris & White Musk",
+      "collection": null,
+      "concentration": "Cologne Intense",
+      "releaseYear": null,
+      "perfumer": "Christine Nagel",
+      "family": "Floral Woody Musk",
+      "accords": [],
+      "notes": {
+        "top": [
+          "casablanca lily"
+        ],
+        "heart": [
+          "iris"
+        ],
+        "base": [
+          "white musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/iris-white-musk-jo-malone-london",
+          "name": "Scento - Iris & White Musk",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Myrrh & Tonka",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Mathilde Bijaoui",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lavender"
+        ],
+        "heart": [
+          "myrrh"
+        ],
+        "base": [
+          "tonka bean",
+          "vanilla",
+          "almond"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/myrrh-tonka-jo-malone-london",
+          "name": "Scento - Myrrh & Tonka",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pomegranate Noir",
+      "collection": null,
+      "concentration": "Eau de Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pomegranate"
+        ],
+        "heart": [
+          "casablanca lily",
+          "pink pepper"
+        ],
+        "base": [
+          "patchouli",
+          "musk",
+          "guaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/pomegranate-noir-jo-malone-london",
+          "name": "Scento - Pomegranate Noir",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Hibiscus",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin orange",
+          "ginger",
+          "black cardamom"
+        ],
+        "heart": [
+          "jasmine",
+          "hibiscus",
+          "black orchid",
+          "water lily"
+        ],
+        "base": [
+          "vanilla",
+          "amber",
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/red-hibiscus-jo-malone-london",
+          "name": "Scento - Red Hibiscus",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose & Oud Leather",
+      "collection": null,
+      "concentration": "Cologne Intense",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "oud",
+          "leather"
+        ],
+        "heart": [
+          "damask rose"
+        ],
+        "base": [
+          "patchouli",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/rose-oud-leather-jo-malone-london",
+          "name": "Scento - Rose & Oud Leather",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scarlet Poppy Intense",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": "Mathilde Bijaoui",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ambrette"
+        ],
+        "heart": [
+          "orris",
+          "fig",
+          "poppy"
+        ],
+        "base": [
+          "heliotrope",
+          "barley",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/scarlet-poppy-intense-jo-malone-london",
+          "name": "Scento - Scarlet Poppy Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sea Salt & Bergamot",
+      "collection": null,
+      "concentration": "Cologne",
+      "releaseYear": 2026,
+      "perfumer": null,
+      "family": "Citrus Aromatic",
+      "accords": [
+        "sea salt"
+      ],
+      "notes": {
+        "top": [
+          "bergamot",
+          "mineral notes"
+        ],
+        "heart": [
+          "sea salt",
+          "immortelle"
+        ],
+        "base": [
+          "driftwood",
+          "moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/sea-salt-bergamot-jo-malone-london",
+          "name": "Scento - Sea Salt & Bergamot",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tangerine & Honey",
+      "collection": null,
+      "concentration": "Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus Gourmand",
+      "accords": [],
+      "notes": {
+        "top": [
+          "tangerine"
+        ],
+        "heart": [
+          "honey",
+          "clove"
+        ],
+        "base": [
+          "tobacco leaf"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/tangerine-honey-jo-malone-london",
+          "name": "Scento - Tangerine & Honey",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanilla Scotch",
+      "collection": "Limited Edition",
+      "concentration": "Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [
+        "scotch whisky"
+      ],
+      "notes": {
+        "top": [
+          "whiskey"
+        ],
+        "heart": [
+          "vanilla"
+        ],
+        "base": [
+          "tonka bean",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/vanilla-scotch-jo-malone-london",
+          "name": "Scento - Vanilla Scotch",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "accords"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Velvet Rose & Oud",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "clary sage",
+          "rose",
+          "agarwood (oud)",
+          "praline"
+        ],
+        "heart": [],
+        "base": [
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/velvet-rose-oud-jo-malone-london",
+          "name": "Scento - Velvet Rose & Oud",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wood Sage & Sea Salt",
+      "collection": null,
+      "concentration": "Eau de Cologne",
+      "releaseYear": null,
+      "perfumer": "Christine Nagel",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sage",
+          "grapefruit",
+          "sea salt"
+        ],
+        "heart": [],
+        "base": [
+          "ambrette",
+          "seaweed"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.scento.com/perfumes/wood-sage-sea-salt-jo-malone-london",
+          "name": "Scento - Wood Sage & Sea Salt",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nutmeg & Ginger",
+      "collection": null,
+      "concentration": "Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.harrods.com/en-us/p/jo-malone-london-no-colour-nutmeg-and-ginger-cologne-100ml-000000000006174984",
+          "name": "Harrods - Jo Malone London Nutmeg & Ginger Cologne 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beach Blossom",
+      "collection": null,
+      "concentration": "Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.harrods.com/en-us/p/jo-malone-london-beach-blossom-cologne-100ml-000000000007731377",
+          "name": "Harrods - Jo Malone London Beach Blossom Cologne 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Star Magnolia",
+      "collection": null,
+      "concentration": "Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.selfridges.com/US/en/product/jo-malone-london-star-magnolia-cologne-100ml_R04100146/",
+          "name": "Selfridges - Jo Malone London Star Magnolia Cologne 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Silk Blossom",
+      "collection": null,
+      "concentration": "Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.selfridges.com/US/en/product/jo-malone-london-silk-blossom-cologne-100ml_R03890861/",
+          "name": "Selfridges - Jo Malone London Silk Blossom Cologne 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Waterlily",
+      "collection": null,
+      "concentration": "Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.selfridges.com/US/en/product/jo-malone-london-waterlily-cologne-100ml_R04100150/",
+          "name": "Selfridges - Jo Malone London Waterlily Cologne 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frangipani Flower",
+      "collection": null,
+      "concentration": "Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.selfridges.com/US/en/product/jo-malone-london-frangipani-flower-cologne-100ml_701-10020-L8E7010001/",
+          "name": "Selfridges - Jo Malone London Frangipani Flower Cologne 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orange Bitters",
+      "collection": null,
+      "concentration": "Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": "none",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.selfridges.com/US/en/product/jo-malone-london-orange-bitters-cologne-100ml_R04031808/",
+          "name": "Selfridges - Jo Malone London Orange Bitters Cologne 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
