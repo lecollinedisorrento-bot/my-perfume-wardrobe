@@ -135,20 +135,12 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [
-          "rose",
-          "mandarin"
-        ],
-        "heart": [
-          "caramel"
-        ],
-        "base": [
-          "evernayle",
-          "amber"
-        ],
+        "top": [],
+        "heart": [],
+        "base": [],
         "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "none",
       "discontinued": false,
       "sources": [
         {
@@ -156,8 +148,7 @@
           "name": "Sultani Amberwood",
           "type": "retailer",
           "supports": [
-            "concentration",
-            "notes"
+            "concentration"
           ]
         }
       ]
@@ -171,20 +162,12 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [
-          "bergamot"
-        ],
-        "heart": [
-          "marine",
-          "seaweed"
-        ],
-        "base": [
-          "papyrus",
-          "musk"
-        ],
+        "top": [],
+        "heart": [],
+        "base": [],
         "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "none",
       "discontinued": false,
       "sources": [
         {
@@ -192,8 +175,7 @@
           "name": "Ramz",
           "type": "retailer",
           "supports": [
-            "concentration",
-            "notes"
+            "concentration"
           ]
         }
       ]
@@ -207,23 +189,12 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [
-          "tangerine",
-          "peach"
-        ],
-        "heart": [
-          "orange blossom",
-          "rose",
-          "vanilla"
-        ],
-        "base": [
-          "praline",
-          "sandalwood",
-          "musk"
-        ],
+        "top": [],
+        "heart": [],
+        "base": [],
         "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "none",
       "discontinued": false,
       "sources": [
         {
@@ -231,8 +202,7 @@
           "name": "Solid Black",
           "type": "retailer",
           "supports": [
-            "concentration",
-            "notes"
+            "concentration"
           ]
         }
       ]

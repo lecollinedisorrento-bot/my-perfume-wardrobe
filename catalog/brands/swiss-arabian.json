@@ -859,33 +859,6 @@
       ]
     },
     {
-      "name": "Musk Malaki",
-      "collection": null,
-      "concentration": "Concentrated perfume oil",
-      "releaseYear": null,
-      "perfumer": null,
-      "family": null,
-      "accords": [],
-      "notes": {
-        "top": [
-          "ripe fruits"
-        ],
-        "heart": [
-          "lily of the valley",
-          "musky florals"
-        ],
-        "base": [
-          "sandalwood",
-          "amber",
-          "musk"
-        ],
-        "flat": []
-      },
-      "noteSource": "official",
-      "discontinued": false,
-      "sources": []
-    },
-    {
       "name": "Spirit of Valencia",
       "collection": null,
       "concentration": null,
@@ -1195,42 +1168,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Jannet El Firdaus",
-      "collection": null,
-      "concentration": null,
-      "releaseYear": null,
-      "perfumer": null,
-      "family": null,
-      "accords": [],
-      "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": []
-      },
-      "noteSource": null,
-      "discontinued": false,
-      "sources": []
-    },
-    {
-      "name": "Jannet El Firdaus BL",
-      "collection": null,
-      "concentration": null,
-      "releaseYear": null,
-      "perfumer": null,
-      "family": null,
-      "accords": [],
-      "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": []
-      },
-      "noteSource": null,
-      "discontinued": false,
-      "sources": []
     },
     {
       "name": "Attar Bakhoor",
