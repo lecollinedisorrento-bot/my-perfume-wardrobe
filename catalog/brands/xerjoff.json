@@ -29,10 +29,26 @@
           "name": "ZGO Perfumery - Xerjoff TORINO21",
           "type": "retailer",
           "supports": [
-            "concentration"
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragman.com/blogs/fragrance-guide/xerjoff-torino-21-edp-review-is-this-the-best-fresh-xerjoff-nobody-talks-about",
+          "name": "Fragman — Xerjoff Torino 21 EDP review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragman 2026 review: 6-8 h consistently; reviewers say the trail is short (1-2 h beyond an arm's length) and fades after 2-3 h. Set to soft."
     },
     {
       "name": "Naxos",
@@ -73,8 +89,31 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/xerjoff/xj-1861-naxos",
+          "name": "The Scent Base — XJ 1861 Naxos",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/xerjoff-naxos-review-golden-voyage-edp-review",
+          "name": "Vivir — Xerjoff Naxos review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scent Base community: about 6-10 h. Other review sites say 10-12 h, and some Parfumo users 8-10 h. Sillage is strong in the first 3-4 h, then softer, so set to moderate. Some owners report newer batches as weaker."
     },
     {
       "name": "Erba Pura",
@@ -113,8 +152,31 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://jadof.com/en/news/xerjoff-erba-pura-review",
+          "name": "Jadof — Xerjoff Erba Pura review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/tropical-breezy/products/xerjoff-erba-pura-edp",
+          "name": "Venba — Xerjoff Erba Pura EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Jadof review: 8-10 h typical; Venba lists reviewers commonly reporting 8-12+ h (set to 4). Sillage described as strong, especially early."
     },
     {
       "name": "Erba Gold",
@@ -140,8 +202,31 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.fragman.com/blogs/fragrance-guide/erba-gold-edp-by-xerjoff-review-is-this-the-luxe-fruity-scent-worth-300",
+          "name": "Fragman — Erba Gold EDP review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Xerjoff/Erba_Gold",
+          "name": "Parfumo — Erba Gold",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragman 2026 reviews: 8-10 h easily; Parfumo users range 6-12 h. Projection is strong for the first 3-4 h, then moderate, so set to moderate. Sillage is divisive."
     },
     {
       "name": "La Capitale",
@@ -356,8 +441,31 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/xerjoff-accento-original",
+          "name": "Vivir — Xerjoff Accento",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Xerjoff/Accento/reviews/710368",
+          "name": "Parfumo — Xerjoff Accento reviews",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo users give about 7-10 h; retailer listings say 7-8 h; Vivir says 8-10 h. Reviewers call sillage moderate and close to the body."
     },
     {
       "name": "Alexandria II",

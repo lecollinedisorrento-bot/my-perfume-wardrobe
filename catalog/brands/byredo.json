@@ -90,8 +90,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Byredo/Bal_d_Afrique_Eau_de_Parfum/reviews/92844",
+          "name": "Parfumo — Bal d'Afrique EDP user review",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries of reviews: most cite 6-8 h on skin (Parfumo reviewer ~7 h); sillage described as moderate. One outlier source says 4-6 h."
     },
     {
       "name": "Mojave Ghost",
@@ -130,8 +145,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/blog/byredo-mojave-ghost-review-notes-sillage-honest-verdict",
+          "name": "Scento — Byredo Mojave Ghost review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summary of a Scento review: a retailer puts it at about 5-7 h, another review 4-7 h; EDP described as soft, intimate and close to skin, not a projector."
     },
     {
       "name": "Gypsy Water",
@@ -172,8 +202,30 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/byredo-gypsy-water-fragrance-edp-review",
+          "name": "Vivir — Byredo Gypsy Water EDP review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review (opened): 3-5 h on skin, softly projecting, subtle trail, rated 2.5/5 longevity; Spring rated best, fall to avoid. Retailer FAQ 4-6 h and Parfumo reviewers 6-8 h; most reviewers call sillage weak."
     },
     {
       "name": "Blanche",
@@ -210,8 +262,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.fragman.com/blogs/fragrance-guide/blanche-edp-by-byredo-review-the-cleanest-fragrance-money-can-buy",
+          "name": "Fragman — Blanche EDP review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: most sources give 4-8 h on skin (retailer 6-8 h, a lower estimate 4-6 h); sillage described as moderate."
     },
     {
       "name": "Rose of No Man's Land",
@@ -248,8 +315,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/byredo-rose-of-no-man-s-land",
+          "name": "Vivir — Byredo Rose of No Man's Land review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: retailer and review pages mostly 6-8 h, Vivir review 8-10 h; sillage moderate (Vivir 3.0/5, projects at arm's length for a few hours)."
     },
     {
       "name": "Alto Astral",
@@ -328,8 +410,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/byredo-black-saffron-edp",
+          "name": "Venba — Byredo Black Saffron EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: most estimates 4-6 h on skin (up to 8 h on clothing); a retailer lists 6-8 h. Sillage moderate per retailer, tight in an older blog review."
     },
     {
       "name": "Desert Dawn",
@@ -434,8 +531,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Byredo/Super_Cedar",
+          "name": "Parfumo — Super Cedar",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: listings say 6-8 h and moderate sillage; individual reviews are mixed (some say it fades within hours, one says long-lasting with great sillage). Most common view used."
     },
     {
       "name": "Young Rose",
@@ -662,8 +774,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/byredo-parfums/products/sample-byredo-eleventh-hour-edp",
+          "name": "Venba — Byredo Eleventh Hour EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries: retailers give 4-6 h on skin, one info page 6-8 h, a Parfumo reviewer 8-9 h; sillage moderate, close to skin."
     },
     {
       "name": "Mixed Emotions",
@@ -934,8 +1061,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Byredo/Pulp/reviews/84677",
+          "name": "Parfumo — Byredo Pulp user review",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Search summaries of Parfumo and Hwahae reviews: roughly 8+ h on skin, strong projection and very strong sillage at the start; Scentverdict calls it potent. Competitor claim of 6-8 h not used."
     },
     {
       "name": "Slow Dance",

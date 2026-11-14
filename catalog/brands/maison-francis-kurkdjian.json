@@ -1,848 +1,950 @@
 {
- "brand": "Maison Francis Kurkdjian",
- "slug": "maison-francis-kurkdjian",
- "officialSite": "https://www.franciskurkdjian.com/",
- "distributors": [],
- "country": null,
- "retrievedAt": "2026-11-14",
- "researchNotes": "franciskurkdjian.com and Galeries Lafayette returned 403. Names and concentrations from one retailer listing (page 1 of 2; some entries sold out there); no notes shown there so notes left empty. Not exhaustive.",
- "fragrances": [
-  {
-   "name": "Oud Velvet Mood",
-   "collection": null,
-   "concentration": "Extrait de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+  "brand": "Maison Francis Kurkdjian",
+  "slug": "maison-francis-kurkdjian",
+  "officialSite": "https://www.franciskurkdjian.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "franciskurkdjian.com and Galeries Lafayette returned 403. Names and concentrations from one retailer listing (page 1 of 2; some entries sold out there); no notes shown there so notes left empty. Not exhaustive.",
+  "fragrances": [
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Oud Silk Mood",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Oud Velvet Mood",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Oud Silk Mood",
-   "collection": null,
-   "concentration": "Extrait de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Oud Silk Mood",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Baccarat Rouge 540",
-   "collection": null,
-   "concentration": "Extrait de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Oud Silk Mood",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Baccarat Rouge 540",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Baccarat Rouge 540",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://jadof.com/en/news/baccarat-rouge-540-review",
+          "name": "Jadof — Baccarat Rouge 540 review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Jadof review: about 8-12 h on skin for most wearers (set to 4); reviews praise strong sillage. Some sellers' pages report poor longevity, which I did not count (one thin summary)."
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Grand Soir",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Baccarat Rouge 540",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://jadof.com/en/news/baccarat-rouge-540-review",
+          "name": "Jadof — Baccarat Rouge 540 review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Jadof review: about 8-12 h on skin for most wearers (set to 4, the lower-middle of that range); reviews praise strong sillage. The page is generic to the line, so I applied it to the EDP too."
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Gentle Fluidity Silver",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Grand Soir",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/blog/mfk-grand-soir-review-niche-amber-outlasts-everything",
+          "name": "Scento — MFK Grand Soir review (2026)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scento 2026 review: about 8-10 h on skin (range 8-12 h), so set to 4. Projection is strong for the first 4-6 h, then a 45-60 cm bubble. Scento notes it performs best in cold weather."
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Gentle Fluidity Gold",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Gentle Fluidity Silver",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Kurky",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Gentle Fluidity Gold",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragman.com/blogs/fragrance-guide/mfk-gentle-fluidity-gold-review-the-vanilla-whiskey-scent-that-broke-the-internet",
+          "name": "Fragman — MFK Gentle Fluidity Gold review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragman review: 6-8 h; Vivir: 8-10 h on skin. Sillage is restrained: arm's length for the first 2-3 h, then closer to the skin."
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "724",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Kurky",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/kurky-by-maison-francis-kurkdjian",
+          "name": "Scento — Kurky",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-francis-kurkdjian-kurky",
+          "name": "Vivir — Maison Francis Kurkdjian Kurky",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/maison-francis-kurkdjian-kurky-edp-1",
+          "name": "Venba — Maison Francis Kurkdjian Kurky EDP",
+          "type": "retailer",
+          "supports": [
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Vivir 2025 review scores longevity 3.0 and projection 2.0 out of 5, and calls it a whisper. Scento's user aggregate says moderate longevity and moderate projection, so I set sillage to 2 because the majority of its sources say light. Venba recommends it for spring and summer, casual daytime wear (usage).",
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      }
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Amyris Homme",
-   "collection": null,
-   "concentration": "Eau de Toilette",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "724",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Amyris Femme",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Amyris Homme",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Satin Mood",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Amyris Femme",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Satin Mood",
-   "collection": null,
-   "concentration": "Extrait de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Satin Mood",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Aqua Media",
-   "collection": null,
-   "concentration": "Cologne Forte",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Satin Mood",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Pluriel Masculin",
-   "collection": null,
-   "concentration": "Eau de Toilette",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Aqua Media",
+      "collection": null,
+      "concentration": "Cologne Forte",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Pluriel Féminin",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Pluriel Masculin",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "À la Rose",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Pluriel Féminin",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Apom",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "À la Rose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Aqua Celestia",
-   "collection": null,
-   "concentration": "Cologne Forte",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Apom",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Aqua Celestia",
-   "collection": null,
-   "concentration": "Eau de Toilette",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Aqua Celestia",
+      "collection": null,
+      "concentration": "Cologne Forte",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Aqua Celestia Forte",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Aqua Celestia",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Petit Matin",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Aqua Celestia Forte",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Aqua Universalis",
-   "collection": null,
-   "concentration": "Eau de Toilette",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Petit Matin",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Aqua Universalis",
-   "collection": null,
-   "concentration": "Cologne Forte",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Aqua Universalis",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Oud",
-   "collection": null,
-   "concentration": "Extrait de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Aqua Universalis",
+      "collection": null,
+      "concentration": "Cologne Forte",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Oud",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Oud",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "L'Homme À la Rose",
-   "collection": null,
-   "concentration": "Eau de Parfum",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Oud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "L'Eau À la Rose",
-   "collection": null,
-   "concentration": "Eau de Toilette",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "L'Homme À la Rose",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Aqua Vitae",
-   "collection": null,
-   "concentration": "Cologne Forte",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "L'Eau À la Rose",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Aqua Vitae",
-   "collection": null,
-   "concentration": "Eau de Toilette",
-   "releaseYear": null,
-   "perfumer": null,
-   "family": null,
-   "accords": [],
-   "notes": {
-    "top": [],
-    "heart": [],
-    "base": [],
-    "flat": []
-   },
-   "noteSource": null,
-   "discontinued": false,
-   "sources": [
+      "name": "Aqua Vitae",
+      "collection": null,
+      "concentration": "Cologne Forte",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
+    },
     {
-     "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
-     "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
-     "type": "retailer",
-     "supports": [
-      "concentration"
-     ]
+      "name": "Aqua Vitae",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

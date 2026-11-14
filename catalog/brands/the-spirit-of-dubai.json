@@ -63,8 +63,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfinity.com/en/perfume/spirit-of-dubai-marsa",
+          "name": "Parfinity - Dubai Marsa",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/dubai-marsa",
+          "name": "Parfumo - Dubai Marsa",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Fragrantica user reviews 9-10 h; Steam Perfume over 12 h with intense sillage early on; Parfinity 9/10 longevity and 8/10 sillage; Parfumo about 8.9 longevity and 8.4 sillage. Most views: 9-12 h, strong sillage, so longevity 4 and sillage 4. One review disagrees, not used."
     },
     {
       "name": "Dubai Ajyal",
@@ -133,8 +156,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://theparfums.com/products/ajyal",
+          "name": "The Parfums - Ajyal",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/dubai-ajyal",
+          "name": "Parfumo - Dubai Ajyal",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Parfums: often 10 hours or more with strong, bold sillage; Maxaroma 10+ h; community reviews about 8-10 h (Parfumo averages about 8.4 longevity and 8.1 sillage). Most views: 8-10+ h and strong sillage, so longevity 4 and sillage 4."
     },
     {
       "name": "Dubai Roeya",
@@ -178,8 +224,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/the-spirit-of-dubai-roeya-eau-de-parfum",
+          "name": "Scents Angel - Roeya",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/dubai-roeya",
+          "name": "Parfumo - Dubai Roeya",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Retailers 10-12 h with strong sillage (up to 12-15 h with caveats); Parfumo users 8.2 longevity and 7.8 sillage; Fragrantica reviewers moderate to strong sillage. Dissent: one reviewer says almost no lasting power. Most views: 10-12 h, moderate to strong sillage."
     },
     {
       "name": "Dubai Oud",
@@ -253,8 +322,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/oud",
+          "name": "Scents Angel - Oud",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/dubai-oud",
+          "name": "Parfumo - Dubai Oud",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scentsangel over 8 h with strong sillage; Beautinow 8-10 h, moderate to heavy; Maxaroma 8-10+ h; Parfumo about 9.2 longevity and 8.8 sillage. Most views: 8+ h and strong sillage. One reviewer reports only 4-5 h, not used as the common view."
     },
     {
       "name": "Dubai Bahar",
@@ -932,8 +1024,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/narjesi",
+          "name": "Scents Angel - Narjesi",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/narjesi",
+          "name": "Parfumo - Narjesi",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scents Angel 8-10 h with moderate to strong sillage; Parfumo users about 9/10 longevity and 8.7/10 sillage (community scores, read as strong longevity). Longevity 4; sillage 3 as the retailer's moderate-to-strong view is the more conservative one."
     },
     {
       "name": "Durra",
@@ -1052,8 +1167,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/durra",
+          "name": "Scents Angel - Durra",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/durra",
+          "name": "Parfumo - Durra",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scentsangel 8-12 h and strong sillage; Beautinow 8-10 h, moderate to heavy; Maxaroma 12-14+ h; Parfumo averages about 9.1 longevity and 8.8 sillage. Most figures give 8-12 h, so longevity 4; sillage strong, so 4."
     },
     {
       "name": "Baz",
@@ -1134,8 +1272,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/the-spirit-of-dubai/baz",
+          "name": "Parfumo - Baz",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/the-spirit-of-dubai-baz-for-unisex",
+          "name": "Scents Angel - Baz",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Retailers 8-12 h and a summary of moderate-to-strong sillage; Parfumo reviewers report very strong sillage at first, then a skin scent after about 12 h, with longevity scored 9-10/10 by some. Most views: 8-12 h, sillage moderate to strong."
     },
     {
       "name": "Aamal",
@@ -1291,8 +1452,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/abjar",
+          "name": "Scents Angel - Abjar",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/the-spirit-of-dubai-abjar-eau-de-parfum/",
+          "name": "Beauti Now - Abjar",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scents Angel 10-14 h with strong sillage; Beauti Now 8-10 h with heavy sillage; one Fragrantica reviewer about 12 h with very strong projection; another reviewer says only several hours. Most views: 8-14 h and strong to heavy sillage, so longevity 4 and sillage 4."
     },
     {
       "name": "Haibah",
@@ -1361,8 +1545,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/haibah",
+          "name": "Scents Angel - Haibah",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/haibah",
+          "name": "Parfumo - Haibah",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scents Angel 8-12 h with moderate to strong sillage; Beauti Now 8-10 h, moderate to heavy sillage; Parfumo users rate longevity and sillage above average. Maxaroma's 12-24 h is marketing copy and not used. Most views: 8-12 h, sillage moderate to strong, so 3."
     },
     {
       "name": "Diwan",
@@ -1448,8 +1655,31 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/the-spirit-of-dubai-diwan-eau-de-parfum/",
+          "name": "Beauti Now - Diwan",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/diwan",
+          "name": "Parfumo - Diwan",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo users 9.2 longevity and 9.0 sillage; Beauti Now 8-10 h, moderate to heavy sillage; Fragrantica reviewers moderate to strong sillage; some vendors claim 12-14+ h. Most views: longevity strong, sillage moderate to strong, so 3 for sillage."
     },
     {
       "name": "Narjesi Fleur",

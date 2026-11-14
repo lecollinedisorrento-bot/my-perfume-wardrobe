@@ -39,8 +39,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://jadof.com/en/news/tom-ford-ombre-leather-review",
+          "name": "Jadof — Tom Ford Ombre Leather review (search result text)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Tom_Ford/ombre-leather-2018-eau-de-parfum/reviews/120760",
+          "name": "Parfumo — Ombre Leather 2018 EDP reviews (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Jadof estimates 8-10 h on skin (about 12 h on clothing); one Parfumo reviewer reports almost 11 h with everyday sillage. Most common view: longevity 4, sillage 3 (moderate to strong). Parfum, Reserve and Eau d Ombre flankers not used."
     },
     {
       "name": "Ombré Leather Parfum",
@@ -596,8 +623,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Tom_Ford/noir-extreme-eau-de-parfum",
+          "name": "Parfumo — Tom Ford Noir Extreme EDP (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/noir-extreme",
+          "name": "Thescentbase — Noir Extreme (search result text)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community averages (search text): longevity about 7.7/10, sillage about 7.5/10; reviews range from about 9 h to a few hours; Scentbase rates projection intimate (2.3). Most common view: longevity 4, sillage 3. Noir Extreme Parfum flanker not used."
     },
     {
       "name": "Noir Extreme Parfum",
@@ -772,8 +826,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/blog/tom-ford-oud-wood-review-beginner-oud-done-right",
+          "name": "Scento — Tom Ford Oud Wood review 2026 (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentgrail.com/holy-grail-scents/tom-ford-oud-wood-review/",
+          "name": "Scentgrail — Tom Ford Oud Wood review (search result text)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento: soft projection, 4-8 h longevity; Scentgrail: low projection and moderate longevity; Fragman and one Parfumo reviewer: 4-6 h, moderate to weak sillage. Most common view: longevity 3, sillage 2. The Parfum concentration (reported longer-lasting) is not covered by this entry."
     },
     {
       "name": "Oud Wood Parfum",
@@ -842,8 +923,31 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/blog/tom-ford-tobacco-vanille-review-notes-longevity-real-world-wear.md",
+          "name": "Scento — Tom Ford Tobacco Vanille review 2026 (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Scento guide: about 8-16 h on skin, strong sillage, and cold weather recommended; a Parfumo reviewer reports about 10 h on skin. Most common view: longevity 4 (typical 8-10 h), sillage 4. Dissent: one reviewer finds it faint the next day. Seasons from Scento recommendation for cold weather; no times stated."
     },
     {
       "name": "Tobacco Vanille Parfum",
@@ -913,8 +1017,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://everfumed.com/tom-ford-lost-cherry",
+          "name": "EveryFumed — Tom Ford Lost Cherry (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumem.com/products/tom-ford-lost-cherry-eau-de-parfum-for-unisex",
+          "name": "PerfumeM — Tom Ford Lost Cherry EDP (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "EveryFumed: 7-10 h longevity and good sillage; PerfumeM: 4.7/5 longevity, 4.5/5 sillage; Parfumo reviewers range 4-7 h with sillage good but not exceptional; Scentbase community data says about 3 h. Most common view: longevity 4, sillage 3."
     },
     {
       "name": "Fucking Fabulous",
@@ -948,8 +1079,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Tom_Ford/Fucking_Fabulous",
+          "name": "Parfumo — Tom Ford Fucking Fabulous (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community averages (search text): longevity about 7.7/10 and sillage about 7.5/10; most reports put longevity at 6-8 h on skin, with sillage moderate and fading for some. Most common view: longevity 4, sillage 3. Vivir review covers the 2025 Fabulous Parfum, not used."
     },
     {
       "name": "Fucking Fabulous Parfum",
@@ -1440,8 +1590,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/tuscan-leather-tom-ford",
+          "name": "Scento — Tuscan Leather (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento aggregated user data (search text): long-lasting with strong projection; Parfumo reviews give 8-9 h-type longevity and strong sillage; Microperfumes calls longevity weak. Most common view: longevity 4, sillage 4."
     },
     {
       "name": "White Suede",

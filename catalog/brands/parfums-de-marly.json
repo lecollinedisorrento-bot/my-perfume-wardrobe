@@ -146,14 +146,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "cinnamon",
+          "pepper"
+        ],
+        "heart": [
           "tobacco leaf",
-          "vanilla"
-        ]
+          "incense",
+          "cistus",
+          "osmanthus"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "cedarwood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -165,8 +173,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://scentchronicles.com/herod-review-parfums-de-marlys-elegant-tobacco/",
+          "name": "Scent Chronicles — Herod review (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries: many wearers 8-12 hours; Scent Chronicles 10-11 hours on most skin; projection moderate, close to skin after 2-3 hours. Official page states no longevity, sillage or season. Longevity 4, sillage 3."
     },
     {
       "name": "Palatine",
@@ -823,14 +850,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "apple",
+          "bergamot",
+          "cardamom"
+        ],
+        "heart": [
           "lavender",
-          "patchouli"
-        ]
+          "violet",
+          "geranium"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla",
+          "guaiac wood",
+          "praline"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -842,8 +878,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Layton-39314.html",
+          "name": "Fragrantica — Layton (search result summary)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://blog.profumobase.com/articles/parfums-de-marly-layton-review/",
+          "name": "Profumobase — Layton review (search result summary)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries of reviews: 'around 8 to 10 hours' (Fragrantica), some 6-12; sillage 'strong early, then a closer moderate trail' (Profumobase). Longevity 4, sillage 3. Official page states no longevity or season."
     },
     {
       "name": "Sedley",
@@ -982,14 +1045,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "anise",
           "bergamot",
-          "almond",
-          "vanilla"
-        ]
+          "almond"
+        ],
+        "heart": [
+          "cypress",
+          "violet leaf",
+          "orange blossom"
+        ],
+        "base": [
+          "ambrox",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1001,8 +1072,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Pegasus-16938.html",
+          "name": "Fragrantica — Pegasus (search result summary)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summaries of reviews: mostly 8-10 hours on skin (range 6-12); sillage strong at first, moderate-to-strong for 2-3 hours then close to skin. Official page states no longevity, sillage or season. Longevity 4, sillage 3."
     },
     {
       "name": "Delina La Rosée",
@@ -1177,15 +1267,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "bergamot",
           "lychee",
+          "rhubarb"
+        ],
+        "heart": [
           "damascena rose",
+          "nutmeg"
+        ],
+        "base": [
+          "cashmeran",
           "musk",
-          "cashmeran"
-        ]
+          "vetiver"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1195,10 +1291,33 @@
           "name": "Parfums de Marly official — Delina",
           "type": "official",
           "supports": [
-            "notes"
+            "notes",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Parfums_de_Marly/Delina",
+          "name": "Parfumo — Delina (search result summary)",
+          "type": "database",
+          "supports": [
+            "performance"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Official page calls it 'the daytime icon' (read as daytime wear). Search summaries: 6-12 hours on skin, most often 8-10; strong early projection; Parfumo community averages about 8.4 longevity, 8.1 sillage. Longevity 4, sillage 4."
     }
   ]
 }

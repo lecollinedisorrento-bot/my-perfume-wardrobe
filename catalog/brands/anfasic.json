@@ -42,8 +42,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/anfasic/anfasic-shay/",
+          "name": "The Sniff Test — Anfasic Shay (via search)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 5,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "The Sniff Test page labels Shay 'Eternal' longevity and 'Enormous' sillage (its own labels, mapped to 5/5); the numeric scores on that page belong to a clone and were ignored"
     },
     {
       "name": "Shay Flora",

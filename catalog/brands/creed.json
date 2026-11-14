@@ -46,8 +46,23 @@
             "family",
             "year"
           ]
+        },
+        {
+          "url": "https://www.scento.com/blog/creed-aventus-review-notes-longevity-honest-verdict",
+          "name": "Scento — Creed Aventus review (2026)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scento 2026 review: about 6-10 h on skin, newer batches can fade in 3-4 h; the page gives no sillage level, and reviewers say projection is strongest in the first 2-3 h."
     },
     {
       "name": "Iris Debonair",
@@ -88,8 +103,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/creed/products/creed-iris-debonair-edp",
+          "name": "Venba — Creed Iris Debonair EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Venba estimates 6-8 h and a close-to-skin trail, since the iris and fig stay soft. Other reviews range 4-12 h. Sillage is described as moderate, close to the skin."
     },
     {
       "name": "Wild Vetiver",
@@ -525,8 +555,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/Creed/absolu-aventus",
+          "name": "Parfumo — Absolu Aventus",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Most sources give 6-10 h on skin, with a 2025 batch reported at 4-6 h. Sillage is strong early and fades after about 3 h, so set to moderate."
     },
     {
       "name": "Carmina",
@@ -789,8 +834,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://scentgrail.com/perfume-reviews/creed-viking-review/",
+          "name": "Scentgrail — Creed Viking review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Reviews of the 2017 EDP mostly give 6-8 h (some 8-10 h, some 5-7 h); sillage described as moderate. Search summary only; some pages mix up the Cologne version."
     },
     {
       "name": "Love in White for Summer",
@@ -1371,8 +1431,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Creed/Silver_Mountain_Water",
+          "name": "Parfumo — Silver Mountain Water",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Reviews split on longevity (under 2 h to 8-15 h, depending on batch, age and application), so no level is set; sillage is generally described as moderate."
     },
     {
       "name": "Néroli Sauvage",
@@ -1457,8 +1532,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Creed/Millesime_Imperial/reviews/48339",
+          "name": "Parfumo — Millesime Imperial reviews",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Most user reports put it at 4-6 h; a Parfumo reviewer found it gone by about 4 h. Sillage is soft to moderate and fades after 3-4 h. Vivir and vendor pages claim 6-10 h, which I did not count."
     },
     {
       "name": "Green Irish Tweed",
@@ -1501,8 +1591,23 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/creed/green-irish-tweed",
+          "name": "The Scent Base — Green Irish Tweed",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "thescentbase aggregate: longevity 6+ h, reviews cluster around 8 h; projection listed as intimate (soft). Basenotes thread is split on longevity."
     },
     {
       "name": "Erolfa",

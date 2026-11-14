@@ -111,8 +111,22 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fraganty.ai/compare/active-man-intense/vs/percival",
+          "name": "Fraganty — Active Man Intense comparison (via search)",
+          "type": "database",
+          "supports": [
+            "usage"
+          ]
         }
-      ]
+      ],
+      "usage": {
+        "seasons": [],
+        "times": [
+          "evening"
+        ]
+      }
     },
     {
       "name": "Active Man Cool",
@@ -404,8 +418,23 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Chris_Adams/Dolby_pour_Homme",
+          "name": "Parfumo — Dolby pour Homme (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo community scores about 6/10 longevity and 6.5 sillage (few ratings), mapped to mid levels; Scentverdict notes some wearers report poor longevity"
     },
     {
       "name": "Dolby Man Sport",
@@ -717,8 +746,23 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Chris_Adams/CA_Dreamz_pour_Homme",
+          "name": "Parfumo — CA Dreamz pour Homme (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Parfumo CA Dreamz pour Homme community scores 5.84/10 longevity and 5.73/10 sillage from few ratings, mapped to mid levels; Scentverdict's Dreamz Man profile (4-6 h) not used as the match is unconfirmed"
     },
     {
       "name": "Dreamz Blue",
@@ -1214,8 +1258,30 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/chris-adams-active-woman-eau-de-parfum",
+          "name": "Scentverdict — Chris Adams Active Woman EDP",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scentverdict profile estimates longevity moderate at 4-6 h and projection moderate, best for fall; a blog reviewer says it lasts a long time; retailer 'long lasting' wording is marketing only",
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Pure Red",

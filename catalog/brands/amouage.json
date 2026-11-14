@@ -186,8 +186,32 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/interlude-53-man-amouage",
+          "name": "Scento — Interlude 53 Man (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scento product page (search result text): very long-lasting, projection described as enormous, recommended for winter and night; Scento sillage/longevity wording used. Sillage set 4 (Scento enormous vs a retailer note of strong); reviews of the 2012 Interlude Man not used."
     },
     {
       "name": "Elsewhere",
@@ -2055,8 +2079,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/amouage-jubilation-xxv-man-edp",
+          "name": "Venba — Amouage Jubilation XXV Man EDP (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Amouage/Jubilation_25_for_Men/reviews/534289",
+          "name": "Parfumo — Jubilation 25 for Men reviews (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Mixed: Venba retailer text says 10-14 h and strong sillage (level 5 / 4); Parfumo review snippets are split, with longevity good to excellent but sillage moderate and fading after the first hours. Most common view used: longevity 4, sillage 3; no seasons stated."
     },
     {
       "name": "Memoir Woman",
@@ -2381,8 +2432,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/epic-man-amouage",
+          "name": "Scento — Amouage Epic Man (search result text)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Amouage/Epic_Man/reviews/700744",
+          "name": "Parfumo — Amouage Epic Man reviews (search result text only, page not opened)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento aggregated user data: long-lasting with strong projection; Parfumo reviews range from over 12 h to a few sprays lasting all day, one reviewer says 6 h; sillage described as moderate to strong and moderate by some. Most common view: longevity 4, sillage 3. No season or time stated."
     },
     {
       "name": "Reflection Man",

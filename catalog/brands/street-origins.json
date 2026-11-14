@@ -179,8 +179,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://zaoud.it/products/manila-glee-edp",
+          "name": "Zaoud — Manila Glee EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "performanceEvidence": "Retailer zaoud.it claims a warm sweet trail of 6-8 hours (self-reported); sillage described only as persistent marketing copy, no level"
     },
     {
       "name": "Manila Manic",
@@ -264,8 +279,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-amsterdam-red-eau-de-parfum",
+          "name": "Scentverdict — Street Origins Amsterdam Red EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scentverdict rates longevity moderate (4-6 h) and projection moderate; single aggregator, no community figures found"
     },
     {
       "name": "Bangkok Guilt",
@@ -348,8 +378,37 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://zaoud.it/products/love-daze-santorini-exdp",
+          "name": "Zaoud — Love Daze Santorini EXdP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-love-daze-santorini-extrait-de-parfum",
+          "name": "Scentverdict — Street Origins Love Daze Santorini",
+          "type": "database",
+          "supports": [
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "performanceEvidence": "Retailer zaoud.it claims 6-8 hours of wear (its own testing, unverified); no sillage level stated; Scentverdict calls it a polarizing summer freshie",
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      }
     },
     {
       "name": "Oui Belong In Paris",
@@ -390,8 +449,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-oui-belong-in-paris-extrait-de-parfum",
+          "name": "Scentverdict — Street Origins Oui Belong In Paris Extrait",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scentverdict rates longevity moderate (4-6 h) and projection moderate; seller claim of 8-10+ h is a self-reported testing claim and not used"
     },
     {
       "name": "Hot Drip Dubai",
@@ -693,8 +767,23 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/compare/street-origins-cape-town-grace-eau-de-parfum/al-haramain-perfumes-maze-eau-de-parfum",
+          "name": "Scentverdict — Cape Town Grace EDP comparison (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scentverdict comparison table gives the EDP short longevity (2-4 h), moderate projection, light intensity; retailer 'long-lasting' copy has no hours and is not used"
     },
     {
       "name": "Skin, Sand and Santorini",
@@ -819,8 +908,31 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-ibiza-boom-eau-de-parfum",
+          "name": "Scentverdict — Street Origins Ibiza Boom EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/96218/street-origins/ibiza-boom",
+          "name": "Fragplace — Ibiza Boom FAQ (via search)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scentverdict and a database both put longevity at moderate, 4-6 h; Scentverdict rates projection moderate, while Fragplace gives sillage 4.0/5 (mapped to 4) and the view that is more common, moderate, is used; one blog review reports fading within ten minutes"
     },
     {
       "name": "Coffee, You and Venice",
