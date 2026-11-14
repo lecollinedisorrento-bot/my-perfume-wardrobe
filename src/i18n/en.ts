@@ -482,6 +482,16 @@ export const en = {
   'discover.localNone': 'The AI isn’t available, and this question needs it. Try one of the mood cards — they work offline.',
   'discover.emptyCollection': 'Discover works best with a few bottles on your shelf.',
 
+  // catalogue
+  'cat.title': 'Catalogue',
+  'cat.sub': '{n} perfumes from {b} houses, researched from official pages and named sources. Works offline.',
+  'cat.search': 'Search a perfume or house…',
+  'cat.owned': 'On your shelf',
+  'cat.more': 'Show more ({n})',
+  'cat.empty': 'The catalogue is not available yet.',
+  'cat.note': 'Facts only, each with its sources. Open a perfume after adding it to see them.',
+  'cat.open': 'Browse the catalogue',
+
   // stats
   'stats.title': 'Collection stats',
   'stats.total': 'Bottles',

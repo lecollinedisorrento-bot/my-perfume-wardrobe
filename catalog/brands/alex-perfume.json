@@ -1,0 +1,170 @@
+{
+  "brand": "Alex Perfume",
+  "slug": "alex-perfume",
+  "officialSite": null,
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/alex-perfume/"
+    }
+  ],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "No official brand site found. The 'Alex+ by Alex Perfume' line (4 extraits) is listed on the 50-ml.com retailer brand page and product pages; the brand page says it was created by content creator Alex Perfume with perfumer Arturetto Landi (not credited per-fragrance, so perfumer left null). No source opened mentioned Alessandro Malandruccolo, so that link is unverified. Collection name 'Alex+' from retailer. Brand country not stated.",
+  "fragrances": [
+    {
+      "name": "Salvia+",
+      "collection": "Alex+",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lime"
+        ],
+        "heart": [
+          "clary sage",
+          "ginger"
+        ],
+        "base": [
+          "sandalwood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/alexplus-by-alex-perfume-salvia-extrait-de-parfum",
+          "name": "50 ml — Alex+ Salvia+",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rum+",
+      "collection": "Alex+",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Sweet",
+      "accords": [],
+      "notes": {
+        "top": [
+          "dried fruit",
+          "cherry"
+        ],
+        "heart": [
+          "rum",
+          "vanilla"
+        ],
+        "base": [
+          "oud",
+          "cocoa",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/alexplus-by-alex-perfume-rum-extrait-de-parfum",
+          "name": "50 ml — Alex+ Rum+",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tabacco+",
+      "collection": "Alex+",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "hazelnut",
+          "blackcurrant",
+          "coconut"
+        ],
+        "heart": [
+          "tobacco",
+          "honey",
+          "bitter orange"
+        ],
+        "base": [
+          "vanilla",
+          "tobacco",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/alexplus-by-alex-perfume-tabacco-extrait-de-parfum",
+          "name": "50 ml — Alex+ Tabacco+",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Golpar+",
+      "collection": "Alex+",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "golpar"
+        ],
+        "heart": [
+          "black pepper",
+          "golpar"
+        ],
+        "base": [
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/alexplus-by-alex-perfume-golpar-extrait-de-parfum",
+          "name": "50 ml — Alex+ Golpar+",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

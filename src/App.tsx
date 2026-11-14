@@ -18,6 +18,7 @@ const Discover = lazy(() => import('./screens/Discover'));
 const Settings = lazy(() => import('./screens/Settings'));
 const Stats = lazy(() => import('./screens/Stats'));
 const Achievements = lazy(() => import('./screens/Achievements'));
+const Catalog = lazy(() => import('./screens/Catalog'));
 
 export function App() {
   return (
@@ -91,6 +92,7 @@ function MainRoutes() {
           <Route path="/discover" element={<Discover />} />
           <Route path="/settings" element={<Settings />} />
           <Route path="/badges" element={<Achievements />} />
+          <Route path="/catalog" element={<Catalog />} />
           <Route path="/index.html" element={<Navigate to="/" replace />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

@@ -46,3 +46,18 @@ test('catalogue: offline suggestion fills a sourced profile, without AI', async 
   await page.getByRole('button', { name: /Sources \(1\)/ }).click();
   await expect(page.getByRole('link', { name: 'Electimuss — Mercurial Cashmere' })).toHaveAttribute('href', /electimuss\.com/);
 });
+
+test('catalogue page: browse by house and add in one tap', async ({ page }) => {
+  await page.route('**/catalog/index.json', (r) => r.fulfill({ json: fixture }));
+  await page.route('https://api.open-meteo.com/**', (r) => r.fulfill({ json: { current: { temperature_2m: 20, apparent_temperature: 20, relative_humidity_2m: 50, precipitation: 0, weather_code: 0, wind_speed_10m: 5, is_day: 1 } } }));
+  await page.goto('/');
+  await page.getByTestId('onb-start').click();
+  for (let i = 0; i < 3; i++) await page.getByTestId('onb-next').click();
+  await page.getByTestId('onb-finish').click();
+  await page.goto('/catalog');
+  await expect(page.getByTestId('catalog-list').locator('li')).toHaveCount(1);
+  await page.getByRole('button', { name: 'Add Electimuss Mercurial Cashmere' }).click();
+  await expect(page.getByText('On your shelf')).toBeVisible();
+  await page.goto('/wardrobe');
+  await expect(page.locator('.pcard')).toHaveCount(1);
+});

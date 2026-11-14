@@ -96,6 +96,9 @@ export function Wardrobe() {
             <IconPlus />
             {t('wardrobe.add')}
           </Link>
+          <Link to="/catalog" className="btn btn-lime">
+            {t('cat.open')}
+          </Link>
           <button
             className="btn"
             onClick={async () => {
@@ -115,6 +118,10 @@ export function Wardrobe() {
       <div className="topbar">
         <h1>{t('wardrobe.title')}</h1>
         <span className="spacer" />
+        <Link to="/catalog" className="btn btn-sm" data-testid="open-catalog">
+          <IconSearch style={{ width: 18, height: 18 }} />
+          {t('cat.title')}
+        </Link>
         <Link to="/wardrobe/stats" className="btn btn-icon btn-sm" aria-label={t('wardrobe.stats')}>
           <IconChart />
         </Link>

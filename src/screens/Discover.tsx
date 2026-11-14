@@ -209,6 +209,12 @@ export default function Discover() {
       <p className="dim" style={{ fontWeight: 600, marginBottom: 16 }}>
         {t('discover.sub')}
       </p>
+      <Link to="/catalog" className="card card-press c-lilac dots" style={{ marginBottom: 18, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
+        <span className="display" style={{ fontSize: 18 }}>
+          {t('cat.open')}
+        </span>
+        <span aria-hidden="true" style={{ fontSize: 22 }}>→</span>
+      </Link>
       {fragrances.length === 0 && <Notice>{t('discover.emptyCollection')}</Notice>}
 
       <section>

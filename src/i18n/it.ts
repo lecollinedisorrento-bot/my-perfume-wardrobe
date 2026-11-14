@@ -468,6 +468,15 @@ export const it: Record<MessageKey, string> = {
   'discover.localNone': 'L’IA non è disponibile e questa domanda ne ha bisogno. Prova una card mood: funzionano offline.',
   'discover.emptyCollection': 'Scopri funziona meglio con qualche bottiglia sullo scaffale.',
 
+  'cat.title': 'Catalogo',
+  'cat.sub': '{n} profumi di {b} maison, ricercati da pagine ufficiali e fonti citate. Funziona offline.',
+  'cat.search': 'Cerca un profumo o una maison…',
+  'cat.owned': 'Già sul tuo scaffale',
+  'cat.more': 'Mostra altri ({n})',
+  'cat.empty': 'Il catalogo non è ancora disponibile.',
+  'cat.note': 'Solo fatti, ciascuno con le sue fonti. Aggiungi un profumo e aprilo per vederle.',
+  'cat.open': 'Sfoglia il catalogo',
+
   'stats.title': 'Statistiche della collezione',
   'stats.total': 'Bottiglie',
   'stats.favorites': 'Preferiti',

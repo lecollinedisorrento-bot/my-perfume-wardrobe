@@ -1,0 +1,599 @@
+{
+  "brand": "Botanicae",
+  "slug": "botanicae",
+  "officialSite": null,
+  "distributors": [
+    {
+      "name": "BJ Distribuzione",
+      "country": "IT",
+      "url": "https://www.bjdistribuzione.it/en/our-brands/botanicae/"
+    }
+  ],
+  "country": null,
+  "retrievedAt": "2026-11-14",
+  "researchNotes": "Official brand website not found via search (also trades as 'Botanicae Expressions'); cavaniboutique.it collection page was empty, Parfumo/Fragplace product pages/Scentverdict returned 403, perfumerialaura.com 403. Ten fragrances have notes/family from the 50-ml.com retailer pages (concentration from product type/title, no percentages); six more (Meraki, Patio, Ebano, Taro, Chan Chan, Endurance) are named on the Fragplace brand listing only, so notes are empty. Search results mention other names (Noa Noa, Itaca, Saudade, Manana Blanca, Flower Cafe) but no page listing them as products was opened, so they are not included. Brand country not stated on any opened page (search snippets say Spain, unverified).",
+  "fragrances": [
+    {
+      "name": "Tramonte",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "nutmeg",
+          "yuzu"
+        ],
+        "heart": [
+          "cedarwood",
+          "incense"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-tramonte-eau-de-parfum",
+          "name": "50 ml — Botanicae Tramonte",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Highlands",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2022,
+      "perfumer": null,
+      "family": "Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [
+          "juniper",
+          "earl grey tea"
+        ],
+        "heart": [
+          "tuberose",
+          "cedarwood"
+        ],
+        "base": [
+          "oakmoss",
+          "leather",
+          "hay",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-highlands-eau-de-parfum",
+          "name": "50 ml — Botanicae Highlands",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Matin a Mogador",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "violet",
+          "cumin",
+          "incense",
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
+          "leather",
+          "cedarwood",
+          "rose",
+          "nutmeg",
+          "iris"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "amber",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-matin-a-mogador-eau-de-parfum",
+          "name": "50 ml — Botanicae Matin a Mogador",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epoque",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "peach",
+          "neroli"
+        ],
+        "heart": [
+          "tuberose",
+          "fig",
+          "lily of the valley"
+        ],
+        "base": [
+          "benzoin",
+          "vanilla",
+          "iris",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-epoque-eau-de-parfum",
+          "name": "50 ml — Botanicae Epoque",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shomal",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2019,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "hyacinth",
+          "mandarin",
+          "green tea"
+        ],
+        "heart": [
+          "iris",
+          "jasmine",
+          "patchouli",
+          "saffron"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-shomal-eau-de-parfum",
+          "name": "50 ml — Botanicae Shomal",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "En Route",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2019,
+      "perfumer": null,
+      "family": "Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "jasmine",
+          "cedarwood",
+          "leather"
+        ],
+        "base": [
+          "ambergris",
+          "patchouli",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-en-route-eau-de-parfum",
+          "name": "50 ml — Botanicae En Route",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Euria",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Sweet",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "caramel",
+          "cherry",
+          "amber",
+          "jasmine",
+          "fir",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-euria-eau-de-toilette",
+          "name": "50 ml — Botanicae Euria",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stereo",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "orange",
+          "tropical mix",
+          "white musk",
+          "madagascar vanilla"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-stereo-eau-de-toilette",
+          "name": "50 ml — Botanicae Stereo",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Onda",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lavender",
+          "heliotrope",
+          "jasmine",
+          "sandalwood",
+          "cedarwood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-onda-eau-de-toilette",
+          "name": "50 ml — Botanicae Onda",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Petit",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lime",
+          "galbanum",
+          "lily",
+          "jasmine",
+          "musk",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://50-ml.com/botanicae-petit-eau-de-toilette",
+          "name": "50 ml — Botanicae Petit",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meraki",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2024,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Patio",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2019,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ebano",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Taro",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": []
+        }
+      ]
+    },
+    {
+      "name": "Chan Chan",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2021,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Endurance",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
+      "noteSource": null,
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://fragplace.com/pt-IT/brands/1036/botanicae",
+          "name": "Fragplace — Botanicae brand page",
+          "type": "database",
+          "supports": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+ "brand": "Frédéric Malle",
+ "slug": "frederic-malle",
+ "officialSite": "https://www.fredericmalle.com/",
+ "distributors": [],
+ "country": null,
+ "retrievedAt": "2026-11-14",
+ "researchNotes": "fredericmalle.com, editionsdeparfums.com and Parfumo returned 403, so no official notes. Data comes from one retailer listing (Le Secret du Marais, 2 pages, ~45 items); only facts stated there are recorded, ambiguous ones left null. Listing was partial (e.g. Acne Studios, Dans Mon Lit, Hope notes not included).",
+ "fragrances": [
+  {
+   "name": "Angéliques Sous la Pluie",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Jean-Claude Ellena",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bigarade Concentrée",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "Carnal Flower",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Dominique Ropion",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cologne Indélébile",
+   "collection": null,
+   "concentration": "Eau de Cologne",
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "concentration"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Contre-Jour",
+   "collection": null,
+   "concentration": "Eau de Parfum",
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [
+     "immortelle"
+    ],
+    "heart": [
+     "rose"
+    ],
+    "base": [
+     "sandalwood"
+    ],
+    "flat": []
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "concentration",
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Dans Tes Bras",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "Dawn",
+   "collection": null,
+   "concentration": "Eau de Parfum",
+   "releaseYear": null,
+   "perfumer": "Carlos Benaïm",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "concentration",
+      "perfumer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Eau de Magnolia",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Carlos Benaïm",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "En Passant",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "French Lover",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Pierre Bourdon",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Géranium pour Monsieur",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "Heaven Can Wait",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "Hope",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "Iris Poudre",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "L'Eau d'Hiver",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "Lipstick Rose",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Ralf Schwieger",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lys Méditerranée",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "Monsieur",
+   "collection": null,
+   "concentration": "Eau de Parfum",
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [
+     "mandarin",
+     "aldehyde",
+     "rum absolute",
+     "patchouli",
+     "saffron",
+     "suede"
+    ],
+    "heart": [
+     "cedar"
+    ],
+    "base": [
+     "incense",
+     "vanilla",
+     "amber"
+    ],
+    "flat": []
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "concentration",
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Musc Ravageur",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Maurice Roucel",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": [
+     "bergamot",
+     "tangerine",
+     "cinnamon",
+     "vanilla",
+     "musk",
+     "amber"
+    ]
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer",
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Music for a While",
+   "collection": null,
+   "concentration": "Eau de Parfum",
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": [
+     "lavender",
+     "patchouli",
+     "amber",
+     "vanilla",
+     "pineapple",
+     "mandarin"
+    ]
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "concentration",
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Noir Épices",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Michel Roudnitska",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": [
+     "nutmeg",
+     "cinnamon",
+     "clove",
+     "pepper",
+     "orange",
+     "geranium",
+     "sandalwood",
+     "patchouli"
+    ]
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer",
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Northern Love",
+   "collection": null,
+   "concentration": "Eau de Parfum",
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "concentration"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Outrageous",
+   "collection": null,
+   "concentration": "Eau de Toilette",
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": [
+     "bergamot",
+     "tangerine",
+     "green apple",
+     "cinnamon",
+     "musk",
+     "ambroxan"
+    ]
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "concentration",
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Portrait of a Lady",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "Promise",
+   "collection": null,
+   "concentration": "Eau de Parfum",
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [
+     "pink pepper",
+     "rosemary",
+     "apple"
+    ],
+    "heart": [
+     "rose",
+     "clove"
+    ],
+    "base": [
+     "patchouli",
+     "ambroxan",
+     "labdanum",
+     "castoreum"
+    ],
+    "flat": []
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "concentration",
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rose & Cuir",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": [
+     "rose",
+     "timut pepper",
+     "geranium",
+     "blackcurrant",
+     "vetiver",
+     "cedar",
+     "leather"
+    ]
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rose Tonnerre",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "Synthetic Nature",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": []
+    }
+   ]
+  },
+  {
+   "name": "The Moon",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": [
+     "rose",
+     "oud",
+     "incense",
+     "red fruits"
+    ]
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "The Night",
+   "collection": null,
+   "concentration": "Eau de Parfum",
+   "releaseYear": null,
+   "perfumer": null,
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "concentration"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Uncut Gem",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Maurice Roucel",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": [
+     "ginger",
+     "bergamot",
+     "mandarin",
+     "nutmeg",
+     "leather",
+     "vetiver",
+     "frankincense",
+     "amber",
+     "musk"
+    ]
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer",
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Une Fleur de Cassie",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Dominique Ropion",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": [
+     "mimosa",
+     "jasmine",
+     "cassia",
+     "rose"
+    ]
+   },
+   "noteSource": "reported",
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer",
+      "notes"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Vétiver Extraordinaire",
+   "collection": null,
+   "concentration": null,
+   "releaseYear": null,
+   "perfumer": "Dominique Ropion",
+   "family": null,
+   "accords": [],
+   "notes": {
+    "top": [],
+    "heart": [],
+    "base": [],
+    "flat": []
+   },
+   "noteSource": null,
+   "discontinued": false,
+   "sources": [
+    {
+     "url": "https://www.lesecretdumarais.com/en/perfume/frederic-malle-editions-de-parfums?page=2",
+     "name": "Le Secret du Marais — Frédéric Malle listing",
+     "type": "retailer",
+     "supports": [
+      "perfumer"
+     ]
+    }
+   ]
+  }
+ ]
+}
