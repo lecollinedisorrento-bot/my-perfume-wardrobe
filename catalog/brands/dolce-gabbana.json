@@ -5,7 +5,7 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official dolcegabbana.com (en-gb) women and men perfume listing pages were read; each listing shows 24 of 47 or 76 items, so coverage is partial (the Load more pages were not opened). Only main EDP, EDT, Parfum and EDP Intense items are included: gift sets, perfume gels, Elixirs and the Bambola look were skipped. Concentration is the form named on the listing. Product pages were not opened, so no notes, perfumer or year are recorded. The product pages gave notes only in part (one page listed a fragrance description, no notes). Brand country not stated on the pages read.",
+  "researchNotes": "Official dolcegabbana.com (en-gb) women and men perfume listing pages were read; each listing shows 24 of 47 or 76 items, so coverage is partial (the Load more pages were not opened). Only main EDP, EDT, Parfum and EDP Intense items are included: gift sets, perfume gels, Elixirs and the Bambola look were skipped. Concentration is the form named on the listing. Product pages were not opened, so no notes, perfumer or year are recorded. The product pages gave notes only in part (one page listed a fragrance description, no notes). Brand country not stated on the pages read. Round 2: dolcegabbana.com not reachable; notes from Nordstrom and Ulta product pages.",
   "fragrances": [
     {
       "name": "Your Devotion",
@@ -13,15 +13,21 @@
       "concentration": "Eau de Parfum Intense",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fruity Gourmand",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "sicilian melon"
+        ],
+        "heart": [
+          "orange blossom"
+        ],
+        "base": [
+          "vanilla milk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -30,6 +36,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/your-devotion-eau-de-parfum/9194328",
+          "name": "Nordstrom — Dolce&Gabbana Your Devotion Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -70,12 +85,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "candied citrus"
+        ],
+        "heart": [
+          "orange blossom"
+        ],
+        "base": [
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -84,6 +105,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/dolce-and-gabbana-devotion-eau-de-parfum/7756837",
+          "name": "Nordstrom — Dolce&Gabbana Devotion Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -94,15 +123,21 @@
       "concentration": "Eau de Parfum Intense",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Ambery Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "pink pepper"
+        ],
+        "heart": [
+          "jasmine"
+        ],
+        "base": [
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -111,6 +146,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/the-one-eau-de-parfum-intense/8789944",
+          "name": "Nordstrom — Dolce&Gabbana The One Eau de Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -124,12 +168,27 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "mandarin",
+          "bergamot",
+          "lychee",
+          "white peach"
+        ],
+        "heart": [
+          "rose",
+          "white lily",
+          "lily of the valley",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "haitian vetiver",
+          "amber",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -138,6 +197,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/the-one-eau-de-parfum-3-piece-gift-set-196-value/8000348",
+          "name": "Nordstrom — Dolce&Gabbana The One Eau de Parfum 3-piece set (search-result listing)",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -148,15 +215,21 @@
       "concentration": "Eau de Parfum Intense",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Fruity",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "plum"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "jasmine"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -165,6 +238,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/dolce-and-gabbana-the-one-gold-eau-de-parfum-intense/7987164",
+          "name": "Nordstrom — Dolce&Gabbana The One Gold Eau de Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -178,12 +260,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "pear blossom",
+          "blackcurrant"
+        ],
+        "heart": [
+          "peony",
+          "green note"
+        ],
+        "base": [
+          "madagascar vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -192,6 +282,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/my-devotion-eau-de-parfum-intense/8509034",
+          "name": "Nordstrom — Dolce&Gabbana My Devotion Eau de Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -205,12 +303,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "star anise",
+          "incense"
+        ],
+        "heart": [
+          "mineral wood",
+          "ambergris"
+        ],
+        "base": [
+          "patchouli",
+          "fir balsam"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -219,6 +326,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/velvet-crystal-smoke-eau-de-parfum/8950776",
+          "name": "Nordstrom — Dolce&Gabbana Velvet Crystal Smoke Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -229,15 +344,24 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Citrusy Woody",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "italian mandarin",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "black tea leaf"
+        ],
+        "base": [
+          "cedarwood",
+          "mate"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -246,6 +370,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/velvet-infusion-eau-de-parfum/8044124",
+          "name": "Nordstrom — Dolce&Gabbana Velvet Infusion Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -259,12 +392,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "saffron"
+        ],
+        "heart": [
+          "tobacco leaf"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla",
+          "cistus"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -273,6 +414,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/velvet-zafferano-eau-de-parfum/8044084",
+          "name": "Nordstrom — Dolce&Gabbana Velvet Zafferano Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -283,15 +432,22 @@
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Ambery Spicy",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "black pepper",
+          "tarocco orange"
+        ],
+        "heart": [
+          "labdanum"
+        ],
+        "base": [
+          "tobacco"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -300,6 +456,16 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/one-men-parfum-pimprod2057234?sku=2653215",
+          "name": "Ulta — Dolce&Gabbana The One For Men Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -313,12 +479,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "tarocco orange",
+          "grapefruit"
+        ],
+        "heart": [
+          "clary sage"
+        ],
+        "base": [
+          "tobacco",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -327,6 +501,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/one-men-eau-de-parfum-pimprod2057233",
+          "name": "Ulta — Dolce&Gabbana The One for Men Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -340,12 +523,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "grand vert basil",
+          "tarocco orange",
+          "bergamot"
+        ],
+        "heart": [
+          "french lavender",
+          "orange blossom",
+          "french clary sage"
+        ],
+        "base": [
+          "sandalwood",
+          "cedarwood",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -354,6 +549,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/dolce-and-gabbana-the-one-eau-de-toilette/7755945",
+          "name": "Nordstrom — Dolce&Gabbana The One Eau de Toilette (Men)",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -364,15 +567,21 @@
       "concentration": "Eau de Parfum Intense",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Spicy",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "clary sage"
+        ],
+        "heart": [
+          "bergamot"
+        ],
+        "base": [
+          "patchouli"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -381,6 +590,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/dolce-and-gabbana-the-one-for-men-gold-eau-de-parfum-intense/7988441",
+          "name": "Nordstrom — Dolce&Gabbana The One for Men Gold Eau de Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -394,12 +612,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "sicilian lemon"
+        ],
+        "heart": [
+          "rosemary"
+        ],
+        "base": [
+          "indonesian patchouli"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -408,6 +632,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/dolce-and-gabbana-light-blue-capri-in-love-pour-homme-eau-de-parfum/8231675",
+          "name": "Nordstrom — Dolce&Gabbana Light Blue Capri in Love Pour Homme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -421,12 +653,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "sicilian lemon",
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
+          "rosemary",
+          "pepper",
+          "brazilian rosewood"
+        ],
+        "base": [
+          "indonesian patchouli",
+          "incense",
+          "musk",
+          "oak moss"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -435,6 +680,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/dolce-and-gabbana-light-blue-pour-homme-eau-de-toilette/7755946",
+          "name": "Nordstrom — Dolce&Gabbana Light Blue pour Homme Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -445,15 +699,21 @@
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Fougere",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lavender"
+        ],
+        "heart": [
+          "coffee"
+        ],
+        "base": [
+          "woody amber accord"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -462,6 +722,16 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/devotion-men-parfum-pimprod2054148?sku=2645656",
+          "name": "Ulta — Dolce&Gabbana Devotion For Men Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -529,12 +799,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "saffron"
+        ],
+        "heart": [
+          "fig"
+        ],
+        "base": [
+          "leather"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -543,6 +819,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/dolce-and-gabbana-k-by-dolcegabbana-eau-de-parfum-intense/7755951",
+          "name": "Nordstrom — Dolce&Gabbana K by Dolce&Gabbana Eau de Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -556,12 +841,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "sicilian lemon",
+          "blood orange",
+          "juniper berry",
+          "cardamom"
+        ],
+        "heart": [
+          "fig",
+          "chili pepper",
+          "geranium",
+          "clary sage",
+          "lavender"
+        ],
+        "base": [
+          "virginian cedarwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -570,6 +868,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/k-by-dolcegabbana-eau-de-parfum/7755941",
+          "name": "Nordstrom — Dolce&Gabbana K by Dolce&Gabbana Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -580,15 +887,21 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Aromatic",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "chili pepper"
+        ],
+        "heart": [
+          "french lavender"
+        ],
+        "base": [
+          "haitian vetiver"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -597,6 +910,16 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/k-by-dolce-gabbana-eau-de-toilette-pimprod2008661?sku=2552508",
+          "name": "Ulta — Dolce&Gabbana K by Dolce&Gabbana Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]

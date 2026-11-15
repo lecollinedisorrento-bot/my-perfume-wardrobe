@@ -5,7 +5,7 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "versace.com returned HTTP 403 to every fetch, so the official site could not be read. The range comes from the Escentual (retailer) Shopify product feed, read in three pages; the feed was truncated in places, so coverage is partial. Gift sets, travel sprays, body care and deodorants were skipped. Concentration is taken from each product title on the retailer. Notes were read only for Eros Eau de Parfum (LookFantastic product page, type retailer, so noteSource is reported); the other entries have no notes because their retailer pages were truncated and the search snippets conflicted. Release years, perfumers and families are not stated on the pages read. Brand country not stated.",
+  "researchNotes": "versace.com returned HTTP 403 to every fetch, so the official site could not be read. The range comes from the Escentual (retailer) Shopify product feed, read in three pages; the feed was truncated in places, so coverage is partial. Gift sets, travel sprays, body care and deodorants were skipped. Concentration is taken from each product title on the retailer. Notes were read only for Eros Eau de Parfum (LookFantastic product page, type retailer, so noteSource is reported); the other entries have no notes because their retailer pages were truncated and the search snippets conflicted. Release years, perfumers and families are not stated on the pages read. Brand country not stated. Round 2: versace.com returned 403 to direct fetch; notes from Nordstrom and Ulta product pages.",
   "fragrances": [
     {
       "name": "Dylan Blush Pink",
@@ -13,15 +13,26 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Citrus",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "calabrian bergamot",
+          "strawberry apple",
+          "freesia"
+        ],
+        "heart": [
+          "orange blossom",
+          "marshmallow",
+          "tonka bean"
+        ],
+        "base": [
+          "madagascar vanilla",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -30,6 +41,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/dylan-blush-pink-eau-de-parfum/9183327",
+          "name": "Nordstrom — Versace Dylan Blush Pink Pour Femme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -40,15 +60,27 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fruity Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "calabrian bergamot",
+          "peach",
+          "pink peppercorn"
+        ],
+        "heart": [
+          "rosebud",
+          "jasmine",
+          "raspberry sorbet"
+        ],
+        "base": [
+          "white musk",
+          "tonka bean",
+          "incense"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -57,6 +89,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/crystal-emerald-eau-de-parfum/8837359",
+          "name": "Nordstrom — Versace Crystal Emerald Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -67,15 +108,26 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Aromatic",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lemon",
+          "geranium",
+          "orange blossom"
+        ],
+        "heart": [
+          "pink peppercorn",
+          "clary sage",
+          "lavender"
+        ],
+        "base": [
+          "virginian cedarwood",
+          "ambrox"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -84,6 +136,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/eau-fraiche-extreme-eau-de-parfum/8524810",
+          "name": "Nordstrom — Versace Eau Fraiche Extreme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -97,12 +158,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "yellow mandarin",
+          "clary sage",
+          "saffron",
+          "cardamom"
+        ],
+        "heart": [
+          "oud accord",
+          "virginia cedarwood",
+          "caramel"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "incense accord",
+          "tonka bean"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -111,6 +186,14 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-eros-najim-parfum-spray/8517907",
+          "name": "Nordstrom — Versace Eros Najim Parfum Spray",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -121,15 +204,28 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Citrus",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "italian bergamot",
+          "blood orange",
+          "lime",
+          "mandarin"
+        ],
+        "heart": [
+          "pink peppercorn",
+          "blackcurrant",
+          "white amber"
+        ],
+        "base": [
+          "patchouli",
+          "musk",
+          "oakmoss"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -138,6 +234,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-eros-energy-eau-de-parfum/7969331",
+          "name": "Nordstrom — Versace Eros Energy Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -148,15 +253,30 @@
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fruity Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "yuzu",
+          "pomegranate",
+          "caramelized red fruit",
+          "ice accord"
+        ],
+        "heart": [
+          "helvetolide",
+          "lotus",
+          "magnolia",
+          "peony"
+        ],
+        "base": [
+          "amber wood",
+          "acajou",
+          "ambrox",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -165,6 +285,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-bright-crystal-parfum-natural-spray/7977919",
+          "name": "Nordstrom — Versace Bright Crystal Parfum Natural Spray",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -175,15 +305,28 @@
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "yellow mandarin",
+          "pink peppercorn",
+          "blackcurrant"
+        ],
+        "heart": [
+          "tuberose",
+          "lily of the valley",
+          "caramel"
+        ],
+        "base": [
+          "sandalwood",
+          "akigalawood",
+          "amber",
+          "vanilla orchid"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -192,6 +335,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-crystal-noir-parfum-natural-spray/7977985",
+          "name": "Nordstrom — Versace Crystal Noir Parfum Natural Spray",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -202,15 +354,27 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fruity Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bitter orange",
+          "pear juice accord",
+          "italian bergamot"
+        ],
+        "heart": [
+          "purple freesia",
+          "pomarose",
+          "mahonia"
+        ],
+        "base": [
+          "iso e super",
+          "virginian cedarwood",
+          "ambrofix"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -219,6 +383,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/dylan-purple-eau-de-parfum/7300914",
+          "name": "Nordstrom — Versace Dylan Purple Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -229,15 +402,32 @@
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Aromatic",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lemon",
+          "mandarin",
+          "litsea cubeba",
+          "elemi",
+          "black pepper"
+        ],
+        "heart": [
+          "pomarose",
+          "geranium",
+          "lavender",
+          "clary sage"
+        ],
+        "base": [
+          "benzoin",
+          "cashmeran",
+          "patchouli",
+          "vanilla",
+          "vetiver"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -246,6 +436,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-eros-parfum-fragrance/6493589",
+          "name": "Nordstrom — Versace Eros Parfum Fragrance",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -256,15 +455,27 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "mandarin",
+          "lemon",
+          "pink pepper"
+        ],
+        "heart": [
+          "blackcurrant bud",
+          "jasmine",
+          "freesia",
+          "guava"
+        ],
+        "base": [
+          "clearwood",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -273,6 +484,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-dylan-turquoise-eau-de-toilette/5890312",
+          "name": "Nordstrom — Versace Dylan Turquoise Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -333,15 +553,24 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Spicy Oriental",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "chinotto",
+          "black pepper"
+        ],
+        "heart": [
+          "rosemary",
+          "pepperwood"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -350,6 +579,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/eros-flame-eau-de-parfum-pimprod2004721?sku=2543417",
+          "name": "Ulta — Versace Eros Flame Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -360,15 +599,32 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "blackcurrant",
+          "granny smith apple",
+          "clover accord",
+          "forget-me-not",
+          "shisolia"
+        ],
+        "heart": [
+          "eglantine rose",
+          "petalia",
+          "rosyfolia",
+          "icy peach",
+          "jasmine"
+        ],
+        "base": [
+          "styrax",
+          "white smooth wood",
+          "musk",
+          "patchouli"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -377,6 +633,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/dylan-blue-pour-femme-eau-de-parfum-xlsImpprod18381083?sku=2528228",
+          "name": "Ulta — Versace Dylan Blue Pour Femme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -387,15 +653,31 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Aromatic Fougere",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "calabrian bergamot",
+          "grapefruit",
+          "fig leaf",
+          "aquatic note"
+        ],
+        "heart": [
+          "violet leaf",
+          "black pepper",
+          "papyrus wood",
+          "ambroxan",
+          "patchouli"
+        ],
+        "base": [
+          "mineral musk",
+          "tonka bean",
+          "saffron",
+          "incense"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -404,6 +686,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/dylan-blue-eau-de-toilette-xlsImpprod14531023?sku=2500263",
+          "name": "Ulta — Versace Dylan Blue Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -498,12 +790,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bitter orange",
+          "neroli",
+          "black pepper"
+        ],
+        "heart": [
+          "cardamom",
+          "saffron",
+          "olibanum"
+        ],
+        "base": [
+          "oud",
+          "patchouli",
+          "leather wood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -512,6 +816,14 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-pour-homme-oud-noir-eau-de-parfum/4162984",
+          "name": "Nordstrom — Versace pour Homme Oud Noir Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -549,15 +861,19 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "calabrian bergamot",
+          "jasmine",
+          "sandalwood"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -566,6 +882,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-eros-pour-femme-eau-de-parfum/3992425",
+          "name": "Nordstrom — Versace Eros Pour Femme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -579,12 +904,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "yuzu",
+          "pomegranate",
+          "raspberry"
+        ],
+        "heart": [
+          "lotus",
+          "magnolia",
+          "peony"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "mahogany"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -593,6 +930,14 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-bright-crystal-absolu-eau-de-parfum/3698290",
+          "name": "Nordstrom — Versace Bright Crystal Absolu Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -606,12 +951,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "mint",
+          "lemon",
+          "green apple"
+        ],
+        "heart": [
+          "tonka bean",
+          "ambroxan",
+          "geranium"
+        ],
+        "base": [
+          "vanilla",
+          "vetiver",
+          "oak moss",
+          "cedarwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -620,6 +978,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/eros-eau-de-toilette-xlsImpprod5800032?sku=2265448",
+          "name": "Ulta — Versace Eros Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -633,12 +1000,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "lemon",
+          "neroli",
+          "pear sorbet"
+        ],
+        "heart": [
+          "freesia",
+          "mimosa",
+          "orange blossom",
+          "water lily"
+        ],
+        "base": [
+          "guaiac wood",
+          "amber",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -647,6 +1028,14 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-yellow-diamond-eau-de-toilette/3265651",
+          "name": "Nordstrom — Versace Yellow Diamond Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -663,9 +1052,22 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "bergamot",
+          "diamante citron",
+          "orange",
+          "neroli",
+          "geranium",
+          "hyacinth",
+          "cedar",
+          "clary sage",
+          "oud wood",
+          "amber",
+          "musk",
+          "tonka bean"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -674,6 +1076,14 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-pour-homme-eau-de-toilette-spray/2995935",
+          "name": "Nordstrom — Versace pour Homme Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -765,15 +1175,26 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fruity Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "pomegranate",
+          "yuzu"
+        ],
+        "heart": [
+          "magnolia",
+          "lotus",
+          "peony"
+        ],
+        "base": [
+          "vegetal amber",
+          "acajou",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -782,6 +1203,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-bright-crystal-eau-de-toilette/2916375",
+          "name": "Nordstrom — Versace Bright Crystal Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -792,15 +1223,19 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Warm Spicy",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "gardenia",
+          "tuberose",
+          "amber"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -809,6 +1244,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-crystal-noir-eau-de-toilette/2933290",
+          "name": "Nordstrom — Versace Crystal Noir Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -846,15 +1290,27 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Aromatic",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "white lemon",
+          "carambola",
+          "rosewood"
+        ],
+        "heart": [
+          "tarragon",
+          "cedar leaf",
+          "clary sage"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "sycamore wood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -863,6 +1319,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/versace-man-eau-frache-eau-de-toilette/2904616",
+          "name": "Nordstrom — Versace Man Eau Fraiche Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]

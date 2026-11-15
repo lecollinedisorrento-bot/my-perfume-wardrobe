@@ -5,7 +5,7 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "phlur.com, Sephora, Nordstrom, Fragrantica and Space NK answered direct fetches with HTTP 403 (Shopify products.json also 403), so the facts here come from WebSearch result text that names each source page. Only URLs returned by WebSearch are recorded. Notes marked official come from pages the search summary attributes to phlur.com; all others are reported. Vanilla Skin is a body mist and is excluded; body care, candles, minis and sets are excluded. Coverage is partial: the official range could not be listed, so only the 15 perfumes whose notes a search result stated are included. Country not stated.",
+  "researchNotes": "phlur.com, Sephora, Nordstrom, Fragrantica and Space NK answered direct fetches with HTTP 403 (Shopify products.json also 403), so the facts here come from WebSearch result text that names each source page. Only URLs returned by WebSearch are recorded. Notes marked official come from pages the search summary attributes to phlur.com; all others are reported. Vanilla Skin is a body mist and is excluded; body care, candles, minis and sets are excluded. Coverage is partial: the official range could not be listed, so only the 15 perfumes whose notes a search result stated are included. Country not stated. Round 2: phlur.com returned 403 to direct fetch; notes from Nordstrom product pages. Heavy Cream, Somebody Wood and Vanilla Canyon notes were read from a web-search summary of the phlur.com product pages (pages themselves 403), so treat as less firm.",
   "fragrances": [
     {
       "name": "Missing Person",
@@ -65,12 +65,25 @@
       "family": "Woody",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "waterlily",
+          "fig",
+          "cassis bud"
+        ],
+        "heart": [
+          "orris root",
+          "iris",
+          "jasmine"
+        ],
+        "base": [
+          "skin musk",
+          "madagascar vanilla",
+          "patchouli leaf",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -90,6 +103,14 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/phlur-father-figure-eau-de-parfum/7593325",
+          "name": "Nordstrom — Phlur Father Figure Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
         }
       ]
     },
@@ -102,12 +123,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "black cherry",
+          "orange brandy"
+        ],
+        "heart": [
+          "red freesia",
+          "sugared jasmine",
+          "plum nectar"
+        ],
+        "base": [
+          "ebony wood",
+          "caramel",
+          "soft leather accord"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -124,6 +156,14 @@
           "type": "database",
           "supports": [
             "year"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/cherry-stem-eau-de-parfum/8834268",
+          "name": "Nordstrom — Phlur Cherry Stem Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -232,12 +272,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot peel",
+          "mandarin",
+          "freesia"
+        ],
+        "heart": [
+          "jasmine",
+          "waterlily",
+          "vanilla orchid"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -254,6 +306,14 @@
           "type": "database",
           "supports": [
             "year"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/phlur-soft-spot-eau-de-parfum/7970129",
+          "name": "Nordstrom — Phlur Soft Spot Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -411,12 +471,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lemon",
+          "vanilla mousse"
+        ],
+        "heart": [
+          "orange blossom",
+          "white orchid",
+          "tiare flower"
+        ],
+        "base": [
+          "amber wood",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -424,7 +494,9 @@
           "name": "PHLUR — Heavy Cream 50mL",
           "type": "official",
           "supports": [
-            "name"
+            "name",
+            "concentration",
+            "notes"
           ]
         },
         {
@@ -492,12 +564,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lemon",
+          "ginger",
+          "black pepper"
+        ],
+        "heart": [
+          "apple",
+          "tangerine",
+          "jasmine petal"
+        ],
+        "base": [
+          "amber",
+          "moss"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -515,6 +598,14 @@
           "supports": [
             "name"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/tangerine-boy-eau-de-parfum/7593319",
+          "name": "Nordstrom — Phlur Tangerine Boy Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
         }
       ]
     },
@@ -527,12 +618,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "jasmine",
+          "saffron",
+          "cyclamen"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "musk",
+          "amber",
+          "moss",
+          "cedarwood"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -540,7 +645,9 @@
           "name": "PHLUR — Somebody Wood Perfume",
           "type": "official",
           "supports": [
-            "name"
+            "name",
+            "concentration",
+            "notes"
           ]
         },
         {
@@ -562,12 +669,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "plum",
+          "tonka bean"
+        ],
+        "heart": [
+          "jasmine",
+          "honey"
+        ],
+        "base": [
+          "madagascar vanilla",
+          "patchouli",
+          "oak wood"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -584,6 +701,15 @@
           "type": "retailer",
           "supports": [
             "name"
+          ]
+        },
+        {
+          "url": "https://phlur.com/products/vanilla-canyon-50ml",
+          "name": "Phlur — Vanilla Canyon Eau de Parfum 50ml (notes read from a web-search summary of this page; page returns 403 to direct fetch)",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]

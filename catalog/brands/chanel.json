@@ -5,7 +5,7 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official Chanel pages (chanel.com) returned HTTP 403 to WebFetch, so no notes are marked official. Notes come from John Lewis, ScentGrail, Jadof and Vivir pages that were opened. Vivir's Les Exclusifs page names Coromandel, Sycomore and Cuir de Russie but gives no notes or dates for them. Parfumo and Fragantica returned 403. Brand country not stated on any opened page, so left null. Only a selection of the range is covered; Bleu de Chanel, N°19, Gabrielle and other current lines were not reached.",
+  "researchNotes": "Official Chanel pages (chanel.com) returned HTTP 403 to WebFetch, so earlier notes are marked reported. Notes come from John Lewis, ScentGrail, Jadof and Vivir pages that were opened. Vivir's Les Exclusifs page names Coromandel, Sycomore and Cuir de Russie but gives no notes or dates for them. Parfumo and Fragantica returned 403. Brand country not stated on any opened page, so left null. Only a selection of the range is covered; Bleu de Chanel, N°19, Gabrielle and other current lines were not reached. Round 2: added Bleu de Chanel EDT, EDP and Parfum. chanel.com pages still return 403 to WebFetch; the Bleu EDT/EDP notes and the Cuir de Russie, Coromandel and Sycomore notes come from chanel.com text quoted in WebSearch results (page URLs recorded as returned by the search). Years and perfumers for Bleu come from Wikipedia (2010 EDT Jacques Polge, 2014 EDP Jacques Polge, 2018 Parfum Olivier Polge); the Parfum notes come from Nordstrom, which gives only cedar and sandalwood. Bleu notes are kept flat because no opened page gave a pyramid.",
   "fragrances": [
     {
       "name": "1957",
@@ -558,18 +558,22 @@
     {
       "name": "Coromandel",
       "collection": "Les Exclusifs de Chanel",
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Amber Woody Vanilla",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "patchouli",
+          "frankincense",
+          "benzoin"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -593,6 +597,16 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://www.chanel.com/ca-en/fragrance/p/122290/coromandel-les-exclusifs-de-chanel-eau-de-parfum/",
+          "name": "Chanel — Coromandel Les Exclusifs de Chanel (read via web-search result; page returns 403 to direct fetch)",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ],
       "performance": {
@@ -610,7 +624,7 @@
     {
       "name": "Sycomore",
       "collection": "Les Exclusifs de Chanel",
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
@@ -619,9 +633,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "smoke",
+          "vetiver",
+          "vanilla",
+          "cedar"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -645,6 +664,15 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://www.chanel.com/us/fragrance/p/122300/sycomore-eau-de-parfum-woody-amber-intense/",
+          "name": "Chanel — Sycomore Les Exclusifs de Chanel (read via web-search result; page returns 403 to direct fetch)",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
         }
       ],
       "performance": {
@@ -662,18 +690,23 @@
     {
       "name": "Cuir de Russie",
       "collection": "Les Exclusifs de Chanel",
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Amber Leather Floral",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "birch",
+          "labdanum",
+          "jasmine",
+          "ylang-ylang"
+        ]
       },
-      "noteSource": "none",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -696,6 +729,16 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://www.chanel.com/us/fragrance/p/122240/cuir-de-russie-les-exclusifs-de-chanel-eau-de-parfum/",
+          "name": "Chanel — Cuir de Russie Les Exclusifs de Chanel (read via web-search result; page returns 403 to direct fetch)",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ],

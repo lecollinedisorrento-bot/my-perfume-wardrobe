@@ -5,7 +5,7 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "franciskurkdjian.com and Galeries Lafayette returned 403. Names and concentrations from one retailer listing (page 1 of 2; some entries sold out there); no notes shown there so notes left empty. Not exhaustive.",
+  "researchNotes": "franciskurkdjian.com and Galeries Lafayette returned 403. Names and concentrations from one retailer listing (page 1 of 2; some entries sold out there); no notes shown there so notes left empty. Not exhaustive. Round 2: franciskurkdjian.com returned 403 to direct fetch; notes come from Nordstrom product pages (tiers as Nordstrom prints them, which differ in places from the brand's own 'aura' wording). Aqua Celestia and Aqua Vitae Cologne Forte notes come from a Nordstrom set page that gives prose only.",
   "fragrances": [
     {
       "name": "Oud Velvet Mood",
@@ -13,15 +13,20 @@
       "concentration": "Extrait de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Oriental",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "cinnamon",
+          "saffron",
+          "copaiba balm",
+          "oud"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -30,6 +35,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-oud-velvet-mood-exp-70ml/9209774",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Velvet Mood Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -46,9 +61,17 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "italian bergamot",
+          "blue chamomile",
+          "bulgarian rose",
+          "hedione",
+          "guaiac wood",
+          "oud",
+          "papyrus"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -57,6 +80,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-oud-silk-mood-eau-de-parfum/5495620",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Silk Mood Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -70,12 +102,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "italian bergamot",
+          "bulgarian rose"
+        ],
+        "heart": [
+          "guaiac wood"
+        ],
+        "base": [
+          "oud",
+          "papyrus"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -84,6 +124,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/oud-silk-mood-extrait-de-parfum/7591660",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Silk Mood Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -94,15 +143,25 @@
       "concentration": "Extrait de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Ambery Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "jasmine",
+          "saffron"
+        ],
+        "heart": [
+          "bitter almond",
+          "mossy woody accord"
+        ],
+        "base": [
+          "musky woody accord",
+          "ethyl maltol",
+          "ambroxan"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -119,6 +178,16 @@
           "type": "publication",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-baccarat-rouge-540-extrait-de-parfum/5495553",
+          "name": "Nordstrom — Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ],
@@ -136,15 +205,23 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Ambery Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "jasmine",
+          "saffron"
+        ],
+        "heart": [
+          "mossy woody accord"
+        ],
+        "base": [
+          "ethyl maltol",
+          "ambroxan"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -162,6 +239,16 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/baccarat-rouge-540-eau-de-parfum/5495565",
+          "name": "Nordstrom — Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ],
       "performance": {
@@ -178,15 +265,23 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Ambery Woody",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "cistus labdanum"
+        ],
+        "heart": [
+          "lavandin",
+          "cinnamon leaf"
+        ],
+        "base": [
+          "vanilla amber accord",
+          "benzoin"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -204,6 +299,16 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-grand-soir-eau-de-parfum/7276102",
+          "name": "Nordstrom — Maison Francis Kurkdjian Grand Soir Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ],
       "performance": {
@@ -220,15 +325,24 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Aromatic",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "juniper berry",
+          "nutmeg"
+        ],
+        "heart": [
+          "coriander seed"
+        ],
+        "base": [
+          "musk",
+          "amber wood",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -237,6 +351,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/gentle-fluidity-silver-eau-de-parfum/5495595",
+          "name": "Nordstrom — Maison Francis Kurkdjian Gentle Fluidity Silver Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -247,15 +371,24 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Musky Ambery",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "juniper berry",
+          "nutmeg"
+        ],
+        "heart": [
+          "coriander seed"
+        ],
+        "base": [
+          "musk",
+          "amber wood",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -273,6 +406,16 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-gentle-fluidity-gold-eau-de-parfum/7890729",
+          "name": "Nordstrom — Maison Francis Kurkdjian Gentle Fluidity Gold Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ],
       "performance": {
@@ -289,15 +432,20 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fruity Floral",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "tangy fruity accord",
+          "tutti-frutti",
+          "musk",
+          "vanilla"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -332,6 +480,16 @@
           "supports": [
             "usage"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-kurky-eau-de-parfum/8243949",
+          "name": "Nordstrom — Maison Francis Kurkdjian Kurky Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ],
       "performance": {
@@ -358,15 +516,24 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Musky Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "aldehyde",
+          "bergamot"
+        ],
+        "heart": [
+          "white floral accord",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood accord",
+          "white musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -384,6 +551,16 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-724-eau-de-parfum/7128144",
+          "name": "Nordstrom — Maison Francis Kurkdjian 724 Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ],
       "performance": {
@@ -400,15 +577,25 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Aromatic",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "mandarin",
+          "rosemary"
+        ],
+        "heart": [
+          "saffron accord",
+          "iris"
+        ],
+        "base": [
+          "amyris",
+          "cedarwood",
+          "tonka bean"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -417,6 +604,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-amyris-homme-eau-de-toilette/7276105",
+          "name": "Nordstrom — Maison Francis Kurkdjian Amyris Homme Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -427,15 +624,24 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Woody",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lemon blossom",
+          "pear accord"
+        ],
+        "heart": [
+          "sweet pea accord",
+          "iris"
+        ],
+        "base": [
+          "amyris",
+          "musky amber accord"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -461,6 +667,16 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/amyris-femme-eau-de-parfum/7054836",
+          "name": "Nordstrom — Maison Francis Kurkdjian Amyris Femme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ],
       "performance": {
@@ -477,15 +693,24 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Ambery Woody Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "damask rose",
+          "violet accord"
+        ],
+        "heart": [
+          "styrax"
+        ],
+        "base": [
+          "oud",
+          "benzoin",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -494,6 +719,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-oud-satin-mood-eau-de-parfum/5495542",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Satin Mood Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -507,12 +742,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "violet accord",
+          "geranium",
+          "rose"
+        ],
+        "heart": [
+          "styrax",
+          "cinnamon",
+          "rose absolute"
+        ],
+        "base": [
+          "oud",
+          "benzoin",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -521,6 +768,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/oud-satin-mood-extraits-de-parfum/7804839",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Satin Mood Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -531,15 +787,23 @@
       "concentration": "Cologne Forte",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fruity Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "verbena accord",
+          "bergamot"
+        ],
+        "heart": [
+          "sweet fennel",
+          "hedione"
+        ],
+        "base": [
+          "woody musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -548,6 +812,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/aqua-media-cologne-forte/7431200",
+          "name": "Nordstrom — Maison Francis Kurkdjian Aqua Media Cologne Forte",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -561,12 +835,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "grapefruit"
+        ],
+        "heart": [
+          "lavender",
+          "leather accord",
+          "cedarwood"
+        ],
+        "base": [
+          "vetiver accord",
+          "patchouli"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -575,6 +858,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/masculin-pluriel-eau-de-toilette/7804815",
+          "name": "Nordstrom — Maison Francis Kurkdjian Masculin Pluriel Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -585,15 +877,24 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fruity Floral",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "florentine iris",
+          "violet",
+          "grasse rose",
+          "egyptian jasmine",
+          "lily of the valley",
+          "orange blossom",
+          "vetiver",
+          "indonesian patchouli"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -611,6 +912,16 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-fminin-pluriel-eau-de-parfum/5495540",
+          "name": "Nordstrom — Maison Francis Kurkdjian Féminin Pluriel Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ],
       "performance": {
@@ -627,15 +938,24 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Musky",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "sweet pea accord",
+          "damask rose"
+        ],
+        "heart": [
+          "violet accord",
+          "magnolia"
+        ],
+        "base": [
+          "centifolia rose",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -644,6 +964,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/a-la-rose-eau-de-parfum/6599310",
+          "name": "Nordstrom — Maison Francis Kurkdjian À la Rose Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -654,15 +984,23 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "orange blossom",
+          "lavender"
+        ],
+        "heart": [
+          "ylang-ylang",
+          "vanilla"
+        ],
+        "base": [
+          "ambery woody accord"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -671,6 +1009,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-apom-eau-de-parfum/7962249",
+          "name": "Nordstrom — Maison Francis Kurkdjian APOM Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -687,9 +1035,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "bergamot",
+          "blackcurrant",
+          "jasmine",
+          "mimosa",
+          "musk"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -698,6 +1052,14 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/cologne-forte-collection-eau-de-parfum-set-limited-edition/6956356",
+          "name": "Nordstrom — Maison Francis Kurkdjian Cologne Forte Collection set (Aqua Vitae, Aqua Celestia)",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -768,9 +1130,17 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "litsea cubeba",
+          "calabrian lemon",
+          "lavandin",
+          "orange blossom",
+          "hawthorn accord",
+          "musk",
+          "ambroxan"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -779,6 +1149,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-petit-matin-eau-de-parfum/5495567",
+          "name": "Nordstrom — Maison Francis Kurkdjian Petit Matin Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -789,15 +1168,22 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fresh",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "white flower accord"
+        ],
+        "base": [
+          "light musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -806,6 +1192,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-aqua-universalis-eau-de-toilette/7054839",
+          "name": "Nordstrom — Maison Francis Kurkdjian Aqua Universalis Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -864,9 +1260,17 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "saffron",
+          "elemi",
+          "ambrettolide",
+          "cedarwood",
+          "vanilla accord",
+          "oud",
+          "patchouli"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -875,6 +1279,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-oud-extrait-de-parfum/5495538",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -891,9 +1304,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "saffron",
+          "elemi",
+          "oud",
+          "atlas cedarwood",
+          "patchouli"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -902,6 +1321,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-oud-eau-de-parfum/5495618",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -915,12 +1343,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "grapefruit accord",
+          "damask rose"
+        ],
+        "heart": [
+          "clary sage",
+          "ambery wood"
+        ],
+        "base": [
+          "centifolia rose",
+          "cistus"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -929,6 +1366,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-lhomme-la-rose-eau-de-parfum/5719401",
+          "name": "Nordstrom — Maison Francis Kurkdjian L'Homme À la Rose Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
           ]
         }
       ]
@@ -939,15 +1385,23 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lychee accord"
+        ],
+        "heart": [
+          "damask rose",
+          "peony accord"
+        ],
+        "base": [
+          "centifolia rose",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -956,6 +1410,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-leau-la-rose-eau-de-toilette/5719402",
+          "name": "Nordstrom — Maison Francis Kurkdjian L'Eau À la Rose Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -972,9 +1436,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "musk",
+          "sandalwood",
+          "mandarin",
+          "bergamot"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -983,6 +1452,14 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/cologne-forte-collection-eau-de-parfum-set-limited-edition/6956356",
+          "name": "Nordstrom — Maison Francis Kurkdjian Cologne Forte Collection set (Aqua Vitae, Aqua Celestia)",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]

@@ -5,7 +5,7 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "The official jeanpaulgaultier.com site did not appear in search results and was not opened, so no official sources are used. Range taken from two retailer brand listings (tendance-parfums.com, scento.com; both truncated to their first pages) and one retailer product page. Notes only for Scandal Pour Homme Le Parfum (retailer). Entries from the scento list without a concentration on the page are left concentration null. Years not stated on any page.",
+  "researchNotes": "The official jeanpaulgaultier.com site did not appear in search results and was not opened, so no official sources are used. Range taken from two retailer brand listings (tendance-parfums.com, scento.com; both truncated to their first pages) and one retailer product page. Notes only for Scandal Pour Homme Le Parfum (retailer). Entries from the scento list without a concentration on the page are left concentration null. Years not stated on any page. Round 2: notes added from official jeanpaulgaultier.com product pages (they list notes without tiers, so recorded as flat) and from Nordstrom/Ulta retailer pages (tiered, noteSource reported). Entries with no opened source stay empty.",
   "fragrances": [
     {
       "name": "Le Male",
@@ -13,15 +13,21 @@
       "concentration": "Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fresh",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "mint"
+        ],
+        "heart": [
+          "lavender"
+        ],
+        "base": [
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -30,6 +36,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/le-male-eau-de-toilette-xlsImpprod2980133?sku=2082116",
+          "name": "Ulta — Jean Paul Gaultier Le Male Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -119,15 +135,22 @@
       "concentration": "Eau de Parfum Intense",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "cardamom"
+        ],
+        "heart": [
+          "lavender",
+          "iris"
+        ],
+        "base": [
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -136,6 +159,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/le-male-le-parfum-pimprod2023265?sku=2581247",
+          "name": "Ulta — Jean Paul Gaultier Le Male Le Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -146,15 +178,21 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Spicy Aromatic",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "anis accord"
+        ],
+        "heart": [
+          "blue lavender"
+        ],
+        "base": [
+          "benzoin"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -163,6 +201,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/jean-paul-gaultier-jpg-lm-le26-edp-125ml/9300218",
+          "name": "Nordstrom — Jean Paul Gaultier Le Male in Blue Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -209,15 +256,19 @@
       "concentration": "Eau de Parfum Intense",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Leather Aromatic Woody",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "clary sage",
+          "leather",
+          "vetiver"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -226,6 +277,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.jeanpaulgaultier.com/us/en_US/p/range-scandal-pour-homme/scandal-pour-homme-intense-eau-de-parfum-intense-000000000065214934",
+          "name": "Jean Paul Gaultier — Scandal Pour Homme Intense",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -236,15 +297,19 @@
       "concentration": "Refillable Eau de Toilette",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Oriental Woody",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "clary sage",
+          "tonka bean",
+          "vetiver"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -253,6 +318,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.jeanpaulgaultier.com/ww/en/p/range-scandal-pour-homme/scandal-pour-homme-eau-de-toilette-000000000065154953",
+          "name": "Jean Paul Gaultier — Scandal pour Homme Eau de Toilette",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -263,15 +338,19 @@
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fruity Amber Chypre",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "patchouli",
+          "blackberry",
+          "iris"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -280,6 +359,16 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.jeanpaulgaultier.com/ww/en/p/range-scandal/scandal-elixir-parfum-000000000065227814",
+          "name": "Jean Paul Gaultier — Scandal Elixir Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
           ]
         }
       ]
@@ -290,15 +379,21 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "salty accord"
+        ],
+        "heart": [
+          "lily"
+        ],
+        "base": [
+          "meringue"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -307,6 +402,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/gaultier-divine-eau-de-parfum-pimprod2043865?sku=2616349",
+          "name": "Ulta — Jean Paul Gaultier Gaultier Divine Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -317,15 +421,22 @@
       "concentration": "Eau de Parfum Intense",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Amber Marine Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "salty accord"
+        ],
+        "heart": [
+          "lily",
+          "frangipani"
+        ],
+        "base": [
+          "benzoin"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -334,6 +445,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.ulta.com/p/gaultier-divine-le-parfum-pimprod2050462?sku=2638990",
+          "name": "Ulta — Jean Paul Gaultier Gaultier Divine Le Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -344,15 +464,21 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "salty accord"
+        ],
+        "heart": [
+          "lily"
+        ],
+        "base": [
+          "meringue"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -361,6 +487,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/gaultier-divine-couture-eau-de-parfum/7714198",
+          "name": "Nordstrom — Jean Paul Gaultier Gaultier Divine Couture Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -371,15 +506,19 @@
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Marine Amber",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "salty note",
+          "tuberose",
+          "tonka bean"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -388,6 +527,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.jeanpaulgaultier.com/us/en_US/p/range-gaultier-divine/gaultier-divine-elixir-parfum-000000000065216982",
+          "name": "Jean Paul Gaultier — Gaultier Divine Elixir Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -401,12 +549,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "green pear"
+        ],
+        "base": [
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -415,6 +569,14 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/la-belle-eau-de-parfum/7121904",
+          "name": "Nordstrom — Jean Paul Gaultier La Belle Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -425,15 +587,21 @@
       "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "blue water lily"
+        ],
+        "heart": [
+          "iris"
+        ],
+        "base": [
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -442,6 +610,15 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/la-belle-paradise-garden-eau-de-parfum/8553867",
+          "name": "Nordstrom — Jean Paul Gaultier La Belle Paradise Garden Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -455,12 +632,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "coconut wood"
+        ],
+        "base": [
+          "tonka bean"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -469,6 +652,14 @@
           "type": "retailer",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/le-beau-eau-de-toilette/8553651",
+          "name": "Nordstrom — Jean Paul Gaultier Le Beau Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -603,18 +794,22 @@
     {
       "name": "La Favorite",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Amber",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "queen of the night",
+          "benzoin",
+          "tonka bean"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -622,6 +817,16 @@
           "name": "Scento - Jean Paul Gaultier",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://www.jeanpaulgaultier.com/us/en_US/p/range-la-favorite/la-favorite-eau-de-parfum-000000000065220484",
+          "name": "Jean Paul Gaultier — La Favorite Eau de Parfum",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ]
     },
@@ -703,18 +908,22 @@
     {
       "name": "Scandal Le Parfum",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum Intense",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Amber Floral",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "jasmine",
+          "salted caramel",
+          "vanilla"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -722,6 +931,16 @@
           "name": "Scento - Jean Paul Gaultier",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://www.jeanpaulgaultier.com/ww/en/p/range-scandal/scandal-le-parfum-eau-de-parfum-intense-000000000065168248",
+          "name": "Jean Paul Gaultier — Scandal le Parfum Eau de Parfum Intense",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
         }
       ]
     },
@@ -734,12 +953,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "coconut wood"
+        ],
+        "heart": [
+          "tonka bean"
+        ],
+        "base": [
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -747,6 +972,14 @@
           "name": "Scento - Jean Paul Gaultier",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://www.nordstrom.com/s/le-beau-le-parfum/8553652",
+          "name": "Nordstrom — Jean Paul Gaultier Le Beau Le Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
         }
       ]
     }

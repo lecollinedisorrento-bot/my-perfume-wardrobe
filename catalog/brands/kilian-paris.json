@@ -5,21 +5,28 @@
   "distributors": [],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official site (bykilian.fr) returned HTTP 403 to every fetch, including products.json, so no official product page could be read. The range comes from an authorised retailer's Kilian Paris listing (lesecretdumarais.com, 56 items, 20 perfumes taken; hair mists, discovery sets excluded). Notes are therefore all 'reported'. Scento's A-Z index (scento.com/brand/by-kilian, 27 names) was also opened and lists further names (e.g. Back to Black, Dark Lord, Fievre Verte, Intoxicated) that were not added because their product pages were not read. Concentration, year and perfumer are null unless the retailer page states them. Brand-level country not stated on any page read.",
+  "researchNotes": "Official site (bykilian.fr) returned HTTP 403 to every fetch, including products.json, so no official product page could be read. The range comes from an authorised retailer's Kilian Paris listing (lesecretdumarais.com, 56 items, 20 perfumes taken; hair mists, discovery sets excluded). Notes are therefore all 'reported'. Scento's A-Z index (scento.com/brand/by-kilian, 27 names) was also opened and lists further names (e.g. Back to Black, Dark Lord, Fievre Verte, Intoxicated) that were not added because their product pages were not read. Concentration, year and perfumer are null unless the retailer page states them. Brand-level country not stated on any page read. Round 2: bykilian.com returned 403 to direct fetch; notes from Nordstrom, Breuninger, Liberty London and Scento pages.",
   "fragrances": [
     {
       "name": "Midnight Espresso",
       "collection": null,
       "concentration": null,
-      "releaseYear": null,
-      "perfumer": null,
+      "releaseYear": 2026,
+      "perfumer": "Mathieu Nardin",
       "family": null,
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "coffee",
+          "rum",
+          "chocolate",
+          "hazelnut",
+          "bourbon vanilla",
+          "benzoin"
+        ]
       },
       "noteSource": "reported",
       "discontinued": false,
@@ -45,6 +52,16 @@
           "type": "publication",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/blog/kilian-midnight-espresso-review",
+          "name": "Scento — Kilian Midnight Espresso review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
           ]
         }
       ],
@@ -591,7 +608,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "cognac",
+          "hazelnut",
+          "oak",
+          "cinnamon",
+          "tonka bean",
+          "sandalwood",
+          "praline",
+          "vanilla"
+        ]
       },
       "noteSource": "reported",
       "discontinued": false,
@@ -618,6 +644,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/kilian-paris-angels-share-fragrance/5758320",
+          "name": "Nordstrom — Kilian Paris Angels' Share Fragrance",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -773,9 +807,15 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "apple"
+        ],
+        "heart": [
+          "tobacco"
+        ],
+        "base": [
+          "bourbon vanilla"
+        ],
         "flat": []
       },
       "noteSource": "reported",
@@ -802,6 +842,14 @@
           "type": "retailer",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/kilian-paris-smoking-hot-refillable-perfume/7553813",
+          "name": "Nordstrom — Kilian Paris Smoking Hot Refillable Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -949,18 +997,22 @@
     {
       "name": "Imperial Tea",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": "Calice Becker",
-      "family": null,
+      "family": "Fresh",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "laminaria seaweed",
+          "green tea",
+          "jasmine sambac"
+        ]
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -985,6 +1037,26 @@
           "type": "retailer",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://www.breuninger.com/nl/en/b/kilian/imperial-tea/1001636711/p/",
+          "name": "Breuninger — Kilian Paris Imperial Tea",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.bykilian.com/product/19797/126313/perfume/imperial-tea",
+          "name": "By Kilian — Imperial Tea (perfumer and family read from a web-search summary of this page; page returns 403 to direct fetch)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "family",
+            "concentration"
           ]
         }
       ],
@@ -1062,15 +1134,28 @@
     {
       "name": "Princess",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
-      "perfumer": null,
+      "perfumer": "Honorine Blanc",
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lemon"
+        ],
+        "heart": [
+          "green tea",
+          "ginger",
+          "peach",
+          "hedione",
+          "jasmine",
+          "apple"
+        ],
+        "base": [
+          "marshmallow",
+          "vanilla",
+          "benzoin"
+        ],
         "flat": []
       },
       "noteSource": "reported",
@@ -1088,6 +1173,16 @@
           "type": "retailer",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://www.libertylondon.com/uk/PRINCESS-RFL-100ML/3.4FLOZ-R533231006.html",
+          "name": "Liberty London — Kilian Paris Princess",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "perfumer"
           ]
         }
       ],
