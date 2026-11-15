@@ -459,7 +459,10 @@ def refresh(keys_file, shard):
             if not data:
                 print('  - download failed', k)
                 continue
-            webp, why = cutout(data)
+            try:
+                webp, why = cutout(data)[:2]
+            except Exception as e:  # unreadable or corrupt image: skip it, keep going
+                webp, why = None, f'bad-image:{type(e).__name__}'
             if webp:
                 (OUT / mapping[k]['file']).write_bytes(webp)
             else:
@@ -505,7 +508,10 @@ def main():
                 stats[img.split(':')[0]] = stats.get(img.split(':')[0], 0) + 1
                 print(f'  - {brand} | {name}: {img}')
                 continue
-            webp, why = cutout(data)
+            try:
+                webp, why = cutout(data)[:2]
+            except Exception as e:  # unreadable or corrupt image: skip it, keep going
+                webp, why = None, f'bad-image:{type(e).__name__}'
             stats[why.split(':')[0]] = stats.get(why.split(':')[0], 0) + 1
             if webp is None:
                 print(f'  - {brand} | {name}: {why}')
