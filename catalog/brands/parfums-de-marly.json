@@ -43,8 +43,42 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/parfums-de-marly-crecy",
+          "name": "Vivir — Parfums de Marly Crécy review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/crecy-parfums-de-marly",
+          "name": "Scento — Crécy Parfums de Marly",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Vivir review scores longevity 4/5 and calls the wear intimate-to-moderate (own impressions); Scento says all-day capable, skin-dependent, best for spring/summer daytime."
     },
     {
       "name": "Oajan",
@@ -77,8 +111,40 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/oajan-parfums-de-marly",
+          "name": "Scento — Parfums de Marly Oajan",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://jadof.com/en/news/parfums-de-marly-oajan-review",
+          "name": "Jadof — Parfums de Marly Oajan review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting, strong projection, winter evenings; Jadof review: about 10-12 h; Parfumo reviewer notes up to 8 h and a 3 m trail."
     },
     {
       "name": "Althaïr Exclusif",
@@ -108,8 +174,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/parfums-de-marly-althair-exclusif",
+          "name": "Vivir — Parfums de Marly Althaïr Exclusif review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/althair-exclusif-parfums-de-marly",
+          "name": "Scento — Althaïr Exclusif",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir rates longevity 4/5 and sillage 4/5; Scento says long-lasting with strong projection, stronger than the original Althaïr."
     },
     {
       "name": "Pegasus Exclusif",
@@ -265,8 +358,41 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/palatine-parfums-de-marly",
+          "name": "Scento — Palatine Parfums de Marly",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/parfums-de-marly-palatine-edp",
+          "name": "Venba Fragrance — Parfums de Marly Palatine EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Retailer listings: about 7-9 h with moderate sillage, some find it less tenacious; Scento user data also moderate; suited to spring daytime."
     },
     {
       "name": "Athénaïs",
@@ -303,8 +429,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/parfums-de-marly-athenais-edp",
+          "name": "Venba Fragrance — Parfums de Marly Athenais EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/athenais-parfums-de-marly",
+          "name": "Scento — Athenais Parfums de Marly",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviews and retailers: roughly 5-7 h (one says 6-8 h), moderate sillage that settles close to the skin after the first hours."
     },
     {
       "name": "Oriana",
@@ -337,8 +490,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/31974/parfums-de-marly/oriana",
+          "name": "Fragplace — Oriana by Parfums de Marly",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.escentual.com/parfumsdemarly073",
+          "name": "Escentual — Parfums de Marly Oriana",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: typically 6-10 h, sillage rated 4/5; Escentual: airy but impressive longevity; a retailer lists moderate sillage."
     },
     {
       "name": "Valero",
@@ -379,8 +559,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/unisex/products/parfums-de-marly-valero-extrait",
+          "name": "Venba Fragrance — Parfums de Marly Valero Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/parfums-de-marly-valero",
+          "name": "Vivir — Parfums de Marly Valero review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba and Maxaroma: about 7-9 h, moderate sillage; Vivir rates longevity and sillage 3/5, moderate for an extrait."
     },
     {
       "name": "Eragon",
@@ -421,8 +628,40 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/eragon-by-parfums-de-marly",
+          "name": "Scento — Parfums de Marly Eragon",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/unisex/products/parfums-de-marly-eargon-edp",
+          "name": "Venba Fragrance — Parfums de Marly Eragon Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Venba/Maxaroma: 8-10 h, moderate skin-hugging sillage; Scento: long-lasting, fall and evening; Vivir finds only 4-6 h and modest projection."
     },
     {
       "name": "Carios",
@@ -504,8 +743,41 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/castley-by-parfums-de-marly",
+          "name": "Scento — Parfums de Marly Castley",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://perfumes.la/en-us/products/castley-by-parfums-de-marly-for-men-4-2-oz-edp-spray",
+          "name": "Perfumes.la — Castley by Parfums de Marly",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting, moderate projection, spring daytime; Perfumes.la: moderate longevity and sillage; Parfumo reviewer about 6 h."
     },
     {
       "name": "Valaya Exclusif",
@@ -544,22 +816,40 @@
             "notes",
             "usage"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/valaya-exclusif-by-parfums-de-marly",
+          "name": "Scento — Valaya Exclusif",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/94409/parfums-de-marly/valaya-exclusif",
+          "name": "Fragplace — Valaya Exclusif",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
       ],
       "usage": {
         "seasons": [
-          "spring",
-          "summer",
-          "autumn",
-          "winter"
+          "spring"
         ],
         "times": [
-          "morning",
-          "afternoon",
-          "evening",
-          "night"
+          "evening"
         ]
-      }
+      },
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scento: long-lasting, strong projection, spring evenings; Fragplace: powerful sillage; a Parfumo reviewer still smelled it after 8+ h."
     },
     {
       "name": "Haltane",
@@ -598,8 +888,41 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/haltane-parfums-de-marly",
+          "name": "Scento — Haltane Parfums de Marly",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/parfums-de-marly/haltane",
+          "name": "The Scent Base — Haltane",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting with strong trail, cooler months and night; The Scent Base: 8+ h with good projection."
     },
     {
       "name": "Valaya",
@@ -630,8 +953,41 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/valaya-parfums-de-marly",
+          "name": "Scento — Parfums de Marly Valaya",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/parfums-de-marly-valaya-edp-review",
+          "name": "Vivir — Parfums de Marly Valaya review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting, moderate projection, spring daytime; Fragplace: 6-10 h, moderate noticeable sillage; Vivir longevity 4.2/5, sillage 3.8/5."
     },
     {
       "name": "Perseus",
@@ -965,8 +1321,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/parfums-de-marly/kalan",
+          "name": "The Scent Base — Kalan",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/gr/perfumes/kalan-by-parfums-de-marly",
+          "name": "Scento — Kalan by Parfums de Marly",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: above-average 6+ h; Scento: moderate sillage; Parfumo reviewers find it strong and lasting into the next morning."
     },
     {
       "name": "Carlisle",
@@ -1268,8 +1651,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/all/products/parfums-de-marly-athalia-edp",
+          "name": "Venba Fragrance — Parfums de Marly Athalia EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/parfums-de-marly-athalia",
+          "name": "ScentsAngel — Parfums de Marly Athalia",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listings: about 6-9 h with moderate sillage and soft-to-moderate projection; review site gives longevity 8.7/10, sillage 6.8/10."
     },
     {
       "name": "Godolphin",
@@ -1557,8 +1967,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/parfums-de-marly/parfums-de-marly-meliora/",
+          "name": "The Sniff Test — Parfums de Marly Meliora",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/parfums-de-marly-meliora-eau-de-parfum-sample/",
+          "name": "Beautinow — Meliora Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailers and reviewers: roughly 6-8 h (one says 7-10 h), moderate noticeable-but-unobtrusive sillage."
     },
     {
       "name": "Delina Exclusif",
@@ -1648,8 +2085,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://jadof.com/en/news/pdm-cassili-review",
+          "name": "Jadof — PDM Cassili review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/parfums-de-marly-cassili",
+          "name": "ScentsAngel — Parfums de Marly Cassili",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Jadof: 7-9 h; ScentsAngel: 8-10 h, moderate intimate projection; one retailer says 4-6 h; John Lewis rates both moderate."
     },
     {
       "name": "Delina",

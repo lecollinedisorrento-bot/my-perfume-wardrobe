@@ -193,8 +193,41 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/initio-parfums-oud-for-grace-edp",
+          "name": "Venba Fragrance — Initio Oud for Grace EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/oud-for-grace-initio-parfums-prives",
+          "name": "Scento — Oud for Grace Initio",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Vivir verdict 8-12 h; Parfumo reviewer 7-8 h and average sillage; Venba calls it moderate to strong; Scento and Venba suggest fall/winter evenings."
     },
     {
       "name": "Absolute Aphrodisiac",
@@ -338,8 +371,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/all/products/initio-parfums-mystic-experience-edp",
+          "name": "Venba Fragrance — Initio Mystic Experience EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/initio-mystic-experience-eau-de-parfum/",
+          "name": "Beautinow — Initio Mystic Experience EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Sources disagree: Venba 10+ h with strong sillage, Vivir 12+ h, Beautinow 6-8 h with moderate sillage; Parfinity lists low sillage."
     },
     {
       "name": "Blessed Baraka",
@@ -371,8 +431,41 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/blessed-baraka-initio-parfums-prives",
+          "name": "Scento — Blessed Baraka Initio",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/unisex/products/initio-parfums-blessed-baraka-edp",
+          "name": "Venba Fragrance — Initio Blessed Baraka EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Venba: typically 8-12 h, moderate sillage; Scento: moderate to strong, best in winter/fall nights; some Parfumo reviewers find it weaker."
     },
     {
       "name": "Narcotic Delight",
@@ -632,8 +725,41 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/psychedelic-love-initio-parfums-prives",
+          "name": "Scento — Psychedelic Love Initio",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/initio-parfums-prives-psychedelic-love-eau-de-parfum",
+          "name": "Scentverdict — Initio Psychedelic Love EDP",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scento user data: long-lasting, strong projection, winter nights; Scentverdict: strong sillage and impressive longevity, evening wear; Parfumo reviewers say solid and not intrusive."
     },
     {
       "name": "High Frequency",
@@ -667,8 +793,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/initio-high-frequency-eau-de-parfum/",
+          "name": "Beautinow — Initio High Frequency EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/high-frequency-initio-parfums-prives",
+          "name": "Scento — Initio High Frequency",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: about 8-10 h, moderate sillage; Scento: long-lasting, moderate projection; a Parfumo reviewer says 8+ h."
     },
     {
       "name": "Lift Me Up",
@@ -702,8 +855,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/95607/initio-parfums-prives/lift-me-up",
+          "name": "Fragplace — Lift Me Up Initio",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/lift-me-up-initio-parfums-prives",
+          "name": "Scento — Lift Me Up Initio",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: typically 6-10 h, longevity 4/5, moderate sillage 3/5; Scento: long-lasting with moderate projection."
     },
     {
       "name": "Power Self",
@@ -739,8 +919,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/unisex/products/initio-power-self-extrait-1",
+          "name": "Venba Fragrance — Initio Power Self Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.maxaroma.com/fragrance/niche-fragrances/initio-power-self/pid/37860/2",
+          "name": "Maxaroma — Initio Power Self",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba lists 10+ h and strong, loud projection for the Extrait; Maxaroma copy mentions remarkable longevity; one review found it pleasant but unremarkable."
     },
     {
       "name": "Paragon",
@@ -772,8 +979,48 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/all/products/initio-parfums-paragon-extrait",
+          "name": "Venba Fragrance — Initio Paragon Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/paragon-initio-parfums-prives",
+          "name": "Scento — Paragon Initio",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en-US/fragrances/10655/initio-parfums-prives/paragon",
+          "name": "Fragplace — Paragon Initio",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Venba Extrait: 7-9 h, moderate to strong sillage settling after an hour; Fragplace: 6-10 h, moderate; Scento: best in fall evenings."
     },
     {
       "name": "Rehab",
@@ -857,8 +1104,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/de/perfumes/musk-therapy-initio-parfums-prives",
+          "name": "Scento — Musk Therapy Initio",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/initio-musk-therapy",
+          "name": "Vivir — Initio Musk Therapy review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewers 10-14 h on skin (one 5 h with heavy spraying); Scento: long-lasting, moderate projection; The Scent Base rates sillage low."
     },
     {
       "name": "Sugar Blast",
@@ -893,8 +1167,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/sugar-blast-initio-parfums-prives",
+          "name": "Scento — Sugar Blast Initio",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/all/products/initio-parfums-sugar-blast-edp",
+          "name": "Venba Fragrance — Initio Sugar Blast EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewers report about 8 to 10+ h and fine/average sillage; Scento describes strong projection; Venba says consensus is still forming."
     },
     {
       "name": "Wild Rush",
@@ -929,8 +1230,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/anio-parfums-wild-rush",
+          "name": "Vivir — Initio Wild Rush preview",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/unisex/products/initio-parfums-wild-rush-edp",
+          "name": "Venba Fragrance — Initio Wild Rush EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir preview: 8-10 h, sillage 3/5; Venba: moderate to strong for the first hours then a personal bubble; a Parfumo reviewer rates both strong."
     },
     {
       "name": "Magnetic Blend 7",
@@ -954,8 +1282,35 @@
           "name": "Initio official — Magnetic Blend 7",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/initio-parfums-priv-s-magnetic-blend-7",
+          "name": "Vivir — Initio Magnetic Blend 7 review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/initio-magnetic-blend-7-eau-de-parfum/",
+          "name": "Beautinow — Initio Magnetic Blend 7 EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Sources conflict on wear time: Vivir 3-4 h, Beautinow 6-8 h, Scento moderate; Vivir sillage 2/5 and Parfinity low, Beautinow moderate."
     }
   ]
 }

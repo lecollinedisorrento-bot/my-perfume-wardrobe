@@ -29,8 +29,41 @@
           "name": "Le Secret du Marais - Kilian Paris Midnight Espresso",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://www.scento.com/perfumes/midnight-espresso-by-kilian",
+          "name": "Scento — By Kilian Midnight Espresso",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/kilian-midnight-espresso",
+          "name": "Vivir — Kilian Midnight Espresso review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting, strong projection, fall/winter evenings, review tester about 6 h; Vivir reviews disagree (6-8 h and 3/5 sillage vs 2-4 h and 2/5)."
     },
     {
       "name": "Piña Paraíso",
@@ -68,8 +101,42 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/pina-paraiso-by-kilian",
+          "name": "Scento — Piña Paraíso",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/by-kilian-pina-paraiso",
+          "name": "Vivir — By Kilian Piña Paraíso review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Parfumo reviewer: 5-6 h, average sillage fading after ~30 min; Vivir longevity 4/5, sillage 3/5; Scento lists spring/summer daytime."
     },
     {
       "name": "Sparkling Royal",
@@ -107,8 +174,35 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/kilian-sparkling-royal",
+          "name": "Vivir — Kilian Sparkling Royal review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/sparkling-royal-by-kilian",
+          "name": "Scento — Sparkling Royal by Kilian",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: about 5-7 h, 3/5 sillage, noticeable but not overwhelming; Scento aggregates call it stronger (4.9/4.8 on its scale)."
     },
     {
       "name": "Vodka on the Rocks",
@@ -150,8 +244,35 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://venbafragrance.com/products/kilian-vodka-on-the-rocks-edp",
+          "name": "Venba Fragrance — Kilian Vodka On The Rocks EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.realmenrealstyle.com/vodka-on-the-rocks-kilian-review/",
+          "name": "Real Men Real Style — Vodka on the Rocks review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Several sites cite about 6-8 h (one 5-7 h); a retailer spec sheet lists moderate intensity and longevity; projection drops after the opening."
     },
     {
       "name": "Angels' Share On The Rocks",
@@ -184,8 +305,40 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/angels-share-on-the-rocks-by-kilian",
+          "name": "Scento — By Kilian Angels' Share On The Rocks",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.fragranzo.com/?p=9894",
+          "name": "Fragranzo — Angel's Share On The Rocks by Kilian",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Fragranzo: 6-8 h; Scento: long-lasting, strong projection, fall nights; Vivir longevity 4/5, sillage 3/5."
     },
     {
       "name": "Good Girl Gone Bad",
@@ -342,8 +495,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/by-kilian-angels-share-paradis",
+          "name": "Vivir — By Kilian Angels' Share Paradis review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Single Vivir review of the 2025 extrait: 12+ h longevity, sillage 4/5, staying close to skin after the initial projection."
     },
     {
       "name": "Love, Don't Be Shy",
@@ -495,8 +667,42 @@
             "notes",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/old-fashioned-by-kilian",
+          "name": "Scento — By Kilian Old Fashioned",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/by-kilian-old-fashioned",
+          "name": "Vivir — By Kilian Old Fashioned review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Retailers: Maxaroma 7-9 h, Cult Beauty about 10 h; Parfumo reviewer 6-7 h; Vivir sillage 3/5, fall/winter; Scento: fall and night."
     },
     {
       "name": "Apple Brandy On The Rocks",
@@ -528,8 +734,35 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/men/products/kilian-apple-brandy-on-the-rocks-edp",
+          "name": "Venba Fragrance — Kilian Apple Brandy On The Rocks EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/apple-brandy-on-the-rocks-by-kilian",
+          "name": "Scento — By Kilian Apple Brandy on the Rocks",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: typically 6-8 h, moderate close sillage; Scento: moderate longevity and projection; FragranceCart claims 8-10 h."
     },
     {
       "name": "Smoking Hot",
@@ -625,8 +858,41 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/kilian-her-majesty",
+          "name": "Vivir — Kilian Her Majesty review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/ro/perfumes/her-majesty-by-kilian",
+          "name": "Scento — Her Majesty by Kilian",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "A comparison site gives 4-6 h with moderate projection; Scento: moderate, spring daytime; Vivir longevity 4/5, sillage 3/5."
     },
     {
       "name": "Princess Eau Fraîche",
@@ -658,8 +924,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/by-kilian-princess-eau-fraiche",
+          "name": "Vivir — By Kilian Princess Eau Fraîche review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir page scores longevity 3/5, projection 2/5, sillage 2/5; a Parfumo user found longevity and sillage unsatisfying. Thin evidence."
     },
     {
       "name": "Imperial Tea",
@@ -685,8 +970,35 @@
           "supports": [
             "perfumer"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kilian-imperial-tea-eau-de-parfum",
+          "name": "Scentverdict — Kilian Imperial Tea EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.maxaroma.com/fragrance/niche-fragrances/by-kilian-imperial-tea/pid/38831/2",
+          "name": "Maxaroma — By Kilian Imperial Tea",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict: moderate, 4-6 h, moderate sillage; Maxaroma claims 6-8 h with a light-to-moderate trail."
     },
     {
       "name": "Born To Be Unforgettable",
@@ -717,8 +1029,35 @@
             "notes",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/by-kilian/by-kilian-born-to-be-unforgettable/",
+          "name": "The Sniff Test — By Kilian Born To Be Unforgettable",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://m.johnlewis.com/kilian-paris-born-to-be-unforgettable-eau-de-parfum-refillable-50ml/p111478684",
+          "name": "John Lewis — Kilian Paris Born to be Unforgettable EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Sniff Test: moderate longevity and sillage; Vivir longevity 3.5/5, sillage 3/5; retailers call it moderate in intensity and long-lasting; some need a midday refresh."
     },
     {
       "name": "Princess",
@@ -793,8 +1132,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/by-kilian-love-don-t-be-shy-eau-fra-che",
+          "name": "Vivir — By Kilian Love, Don't Be Shy Eau Fraîche",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Review text says shorter longevity than the original and a soft, non-offensive sillage; no hours or longevity level given, and the pages are inconsistent."
     },
     {
       "name": "Can't Stop Loving You",
@@ -822,8 +1180,40 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/cant-stop-loving-you-by-kilian",
+          "name": "Scento — By Kilian Can't Stop Loving You",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/by-kilian/by-kilian-cant-stop-loving-you/",
+          "name": "The Sniff Test — By Kilian Can't Stop Loving You",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "A retailer listing gives about 4-6 h and moderate sillage; Scento: moderate longevity and projection, best in fall evenings."
     }
   ]
 }

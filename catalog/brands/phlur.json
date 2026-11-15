@@ -16,12 +16,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "skin musk",
+          "bergamot",
+          "nectar",
+          "jasmine"
+        ],
+        "heart": [
+          "cyclamen",
+          "neroli",
+          "orange blossom"
+        ],
+        "base": [
+          "sandalwood",
+          "blonde wood",
+          "white musk"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -29,7 +42,8 @@
           "name": "Nordstrom — Missing Person Eau de Parfum",
           "type": "retailer",
           "supports": [
-            "concentration"
+            "concentration",
+            "notes"
           ]
         },
         {
@@ -170,12 +184,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "pitaya",
+          "sweet orange",
+          "fruit gummy"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine sambac",
+          "marigold"
+        ],
+        "base": [
+          "patchouli",
+          "glazed musk",
+          "sheer amber"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -183,7 +209,8 @@
           "name": "Nordstrom — PHLUR Mood Ring Eau de Parfum",
           "type": "retailer",
           "supports": [
-            "concentration"
+            "concentration",
+            "notes"
           ]
         },
         {
@@ -240,12 +267,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "pink pepper",
+          "black currant"
+        ],
+        "heart": [
+          "rose",
+          "osmanthus",
+          "nutmeg"
+        ],
+        "base": [
+          "amber",
+          "cashmere wood",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -263,6 +301,14 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/phlur-rose-whip-eau-de-parfum/8415225",
+          "name": "Nordstrom — Phlur Rose Whip Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
         }
       ]
     },
@@ -275,12 +321,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "frozen bergamot"
+        ],
+        "heart": [
+          "jasmine"
+        ],
+        "base": [
+          "amber",
+          "liquid musk"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -289,6 +342,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/afterglow-eau-de-parfum/9161584",
+          "name": "Nordstrom — Phlur Afterglow Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
           ]
         }
       ]

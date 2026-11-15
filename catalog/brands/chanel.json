@@ -710,6 +710,148 @@
         "times": []
       },
       "performanceEvidence": "Scent Verdict: Les Exclusifs EDP moderate, 4-6 h; Fragplace FAQ: moderate sillage close to skin; a Parfumo reviewer calls sillage extremely intimate."
+    },
+    {
+      "name": "Bleu de Chanel",
+      "collection": null,
+      "concentration": "Eau de Toilette",
+      "releaseYear": 2010,
+      "perfumer": "Jacques Polge",
+      "family": "Woody Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "citrus",
+          "grapefruit",
+          "pink pepper",
+          "ginger",
+          "cedar",
+          "vetiver",
+          "incense",
+          "sandalwood",
+          "labdanum"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.chanel.com/us/fragrance/p/107480/bleu-de-chanel-eau-de-toilette-spray/",
+          "name": "Chanel — Bleu de Chanel Eau de Toilette Spray (found via web search; page itself returned 403 to direct fetch)",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bleu_de_Chanel",
+          "name": "Wikipedia — Bleu de Chanel",
+          "type": "publication",
+          "supports": [
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bleu de Chanel",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": 2014,
+      "perfumer": "Jacques Polge",
+      "family": "Woody Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "citrus",
+          "cedar",
+          "tonka bean",
+          "vanilla",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.chanel.com/us/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/",
+          "name": "Chanel — Bleu de Chanel Eau de Parfum Spray (found via web search; page itself returned 403 to direct fetch)",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "notes",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bleu_de_Chanel",
+          "name": "Wikipedia — Bleu de Chanel",
+          "type": "publication",
+          "supports": [
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bleu de Chanel",
+      "collection": null,
+      "concentration": "Parfum",
+      "releaseYear": 2018,
+      "perfumer": "Olivier Polge",
+      "family": "Woody Aromatic",
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedar",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nordstrom.com/s/bleu-de-chanel-parfum-spray/4953678",
+          "name": "Nordstrom — Chanel Bleu de Chanel Parfum Spray",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bleu_de_Chanel",
+          "name": "Wikipedia — Bleu de Chanel",
+          "type": "publication",
+          "supports": [
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
     }
   ]
 }

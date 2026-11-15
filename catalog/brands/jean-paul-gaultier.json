@@ -15,11 +15,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -30,11 +42,35 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavender",
+          "benzoin",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/jean-paul-gaultier-le-male-elixir/7500591",
+          "name": "Nordstrom — Jean Paul Gaultier Le Male Elixir Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -45,11 +81,36 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "plum",
+          "tobacco",
+          "lavender",
+          "tonka bean"
+        ]
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/le-male-elixir-absolu-parfum-intense/8239139",
+          "name": "Nordstrom — Jean Paul Gaultier Le Male Elixir Absolu Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -60,11 +121,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -75,11 +148,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -90,11 +175,32 @@
       "perfumer": "Christophe Raynaud, Natalie Gracia-Cetto, Quentin Bisch",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["pelargonium"], "heart": ["tonka bean"], "base": ["sandalwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "pelargonium"
+        ],
+        "heart": [
+          "tonka bean"
+        ],
+        "base": [
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/scandal-pour-homme-le-parfum-jean-paul-gaultier.html", "name": "Tendance Parfums - Scandal pour Homme Le Parfum", "type": "retailer", "supports": ["notes", "concentration", "family", "perfumer"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/scandal-pour-homme-le-parfum-jean-paul-gaultier.html",
+          "name": "Tendance Parfums - Scandal pour Homme Le Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "family",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -105,11 +211,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -120,11 +238,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -135,11 +265,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -150,11 +292,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -165,11 +319,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -180,11 +346,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -195,11 +373,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -210,11 +400,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -225,11 +427,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -240,11 +454,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -255,11 +481,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier", "name": "Tendance Parfums - Jean Paul Gaultier", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/jean-paul-gaultier",
+          "name": "Tendance Parfums - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -270,11 +508,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -285,11 +533,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -300,11 +558,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -315,11 +583,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -330,11 +608,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -345,11 +633,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -360,11 +658,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -375,11 +683,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -390,11 +708,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -405,11 +733,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/fr/brand/jean-paul-gaultier", "name": "Scento - Jean Paul Gaultier", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/fr/brand/jean-paul-gaultier",
+          "name": "Scento - Jean Paul Gaultier",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     }
   ]

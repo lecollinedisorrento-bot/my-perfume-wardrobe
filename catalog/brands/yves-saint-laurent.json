@@ -16,15 +16,53 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["mandarin orange", "plum", "clove", "coriander", "pepper", "bay leaf"],
-        "heart": ["jasmine", "rose", "lily of the valley", "carnation", "cinnamon", "peach", "orris root"],
-        "base": ["sandalwood", "cedarwood", "myrrh", "opopanax", "labdanum", "benzoin", "castoreum", "amber", "musk", "patchouli", "tolu balsam", "vetiver"],
+        "top": [
+          "mandarin orange",
+          "plum",
+          "clove",
+          "coriander",
+          "pepper",
+          "bay leaf"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "lily of the valley",
+          "carnation",
+          "cinnamon",
+          "peach",
+          "orris root"
+        ],
+        "base": [
+          "sandalwood",
+          "cedarwood",
+          "myrrh",
+          "opopanax",
+          "labdanum",
+          "benzoin",
+          "castoreum",
+          "amber",
+          "musk",
+          "patchouli",
+          "tolu balsam",
+          "vetiver"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Opium_(perfume)", "name": "Wikipedia: Opium (perfume)", "type": "publication", "supports": ["notes", "concentration", "year", "perfumer"] }
+        {
+          "url": "https://en.wikipedia.org/wiki/Opium_(perfume)",
+          "name": "Wikipedia: Opium (perfume)",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -36,16 +74,76 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["aldehydes", "bergamot", "tarragon", "clary sage", "coriander"],
-        "heart": ["carnation", "vetiver", "patchouli", "cinnamon", "jasmine", "orris root", "geranium"],
-        "base": ["oakmoss", "amber", "incense", "honey", "leather", "civet", "musk", "tonka bean", "vanilla"],
+        "top": [
+          "aldehydes",
+          "bergamot",
+          "tarragon",
+          "clary sage",
+          "coriander"
+        ],
+        "heart": [
+          "carnation",
+          "vetiver",
+          "patchouli",
+          "cinnamon",
+          "jasmine",
+          "orris root",
+          "geranium"
+        ],
+        "base": [
+          "oakmoss",
+          "amber",
+          "incense",
+          "honey",
+          "leather",
+          "civet",
+          "musk",
+          "tonka bean",
+          "vanilla"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Kouros_(perfume)", "name": "Wikipedia: Kouros (perfume)", "type": "publication", "supports": ["notes", "year", "perfumer"] }
-      ]
+        {
+          "url": "https://en.wikipedia.org/wiki/Kouros_(perfume)",
+          "name": "Wikipedia: Kouros (perfume)",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/ysl-kouros",
+          "name": "Vivir — YSL Kouros review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/yves-saint-laurent-kouros-eau-de-toilette",
+          "name": "Scentverdict — YSL Kouros EDT (1981)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragrance Engine: roughly 8-12 h with strong sillage; Vivir scores longevity 4/5 and sillage 4/5; Scentverdict calls the 1981 EDT famous for strong longevity and sillage."
     },
     {
       "name": "Rive Gauche",
@@ -54,13 +152,57 @@
       "releaseYear": 1971,
       "perfumer": null,
       "family": null,
-      "accords": ["aldehydic", "floral", "woody"],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "accords": [
+        "aldehydic",
+        "floral",
+        "woody"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Rive_Gauche_(perfume)", "name": "Wikipedia: Rive Gauche (perfume)", "type": "publication", "supports": ["year", "accords"] }
-      ]
+        {
+          "url": "https://en.wikipedia.org/wiki/Rive_Gauche_(perfume)",
+          "name": "Wikipedia: Rive Gauche (perfume)",
+          "type": "publication",
+          "supports": [
+            "year",
+            "accords"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/ysl-rive-gauche",
+          "name": "Vivir — YSL Rive Gauche review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/rive-gauche-yves-saint-laurent/",
+          "name": "Best Men's Colognes — Rive Gauche Yves Saint Laurent",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir scores longevity 4/5 and sillage 4/5; a retailer listing says 6-8 h; Bestmenscolognes user ratings 8.3/10 longevity, 7.6/10 sillage."
     },
     {
       "name": "Parisienne",
@@ -70,11 +212,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Parisienne_(perfume)", "name": "Wikipedia: Parisienne (perfume)", "type": "publication", "supports": ["year"] }
+        {
+          "url": "https://en.wikipedia.org/wiki/Parisienne_(perfume)",
+          "name": "Wikipedia: Parisienne (perfume)",
+          "type": "publication",
+          "supports": [
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -85,11 +239,30 @@
       "perfumer": null,
       "family": "Floral",
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["lavender", "orange blossom", "musk accord", "vanilla"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavender",
+          "orange blossom",
+          "musk accord",
+          "vanilla"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.yslbeauty.co.uk/fragrances/fragrances-for-her/libre/libre-eau-de-parfum/WW-50424YSL.html", "name": "YSL Beauty UK: Libre Eau De Parfum", "type": "official", "supports": ["notes", "concentration", "family"] }
+        {
+          "url": "https://www.yslbeauty.co.uk/fragrances/fragrances-for-her/libre/libre-eau-de-parfum/WW-50424YSL.html",
+          "name": "YSL Beauty UK: Libre Eau De Parfum",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -100,12 +273,59 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["lavender"], "heart": ["orange blossom", "orchid"], "base": ["vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "lavender"
+        ],
+        "heart": [
+          "orange blossom",
+          "orchid"
+        ],
+        "base": [
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.ulta.com/p/libre-eau-de-parfum-intense-pimprod2018118?sku=2569352", "name": "Ulta: Yves Saint Laurent Libre Eau de Parfum Intense", "type": "retailer", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.ulta.com/p/libre-eau-de-parfum-intense-pimprod2018118?sku=2569352",
+          "name": "Ulta: Yves Saint Laurent Libre Eau de Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/yves-saint-laurent-libre-intense-eau-de-parfum",
+          "name": "ScentsAngel — YSL Libre Intense EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/yves-saint-laurent/libre-intense/women-perfume",
+          "name": "Perfume.com — YSL Libre Intense",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "A retailer listing gives 10-12 h and very dense projection; Perfume.com calls it impressively long-lasting; one Parfumo user scored 8/10 longevity, 9/10 sillage."
     },
     {
       "name": "Black Opium",
@@ -116,16 +336,56 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["pink pepper", "orange blossom", "pear"],
-        "heart": ["coffee", "jasmine"],
-        "base": ["vanilla", "patchouli", "cedarwood"],
+        "top": [
+          "pink pepper",
+          "orange blossom",
+          "pear"
+        ],
+        "heart": [
+          "coffee",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli",
+          "cedarwood"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Black_Opium_(perfume)", "name": "Wikipedia: Black Opium (perfume)", "type": "publication", "supports": ["notes", "concentration", "year", "perfumer"] }
-      ]
+        {
+          "url": "https://en.wikipedia.org/wiki/Black_Opium_(perfume)",
+          "name": "Wikipedia: Black Opium (perfume)",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://puckemerson.github.io/perfume-review-lab/posts/yves-saint-laurent-black-opium-eau-de-parfum/",
+          "name": "Perfume Review Lab — YSL Black Opium EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "A review blog reports 6-8 h on skin with noticeable projection for the first 3-4 h; the same range with moderate projection and trail appears on a second site."
     },
     {
       "name": "Mon Paris",
@@ -136,16 +396,40 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["pear", "raspberry", "strawberry", "tangerine"],
-        "heart": ["datura"],
-        "base": ["patchouli", "white musk"],
+        "top": [
+          "pear",
+          "raspberry",
+          "strawberry",
+          "tangerine"
+        ],
+        "heart": [
+          "datura"
+        ],
+        "base": [
+          "patchouli",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.ulta.com/p/mon-paris-eau-de-parfum-xlsImpprod14421031?sku=2306791", "name": "Ulta: Yves Saint Laurent Mon Paris Eau de Parfum", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.dillards.com/p/yves-saint-laurent-mon-paris-eau-de-parfum-spray/506320336", "name": "Dillard's: Yves Saint Laurent Mon Paris Eau de Parfum Spray", "type": "retailer", "supports": ["notes"] }
+        {
+          "url": "https://www.ulta.com/p/mon-paris-eau-de-parfum-xlsImpprod14421031?sku=2306791",
+          "name": "Ulta: Yves Saint Laurent Mon Paris Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.dillards.com/p/yves-saint-laurent-mon-paris-eau-de-parfum-spray/506320336",
+          "name": "Dillard's: Yves Saint Laurent Mon Paris Eau de Parfum Spray",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -157,16 +441,48 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["apple", "ginger", "bergamot"],
-        "heart": ["sage", "juniper berries", "geranium"],
-        "base": ["cedarwood", "amberwood", "tonka bean", "vetiver", "olibanum"],
+        "top": [
+          "apple",
+          "ginger",
+          "bergamot"
+        ],
+        "heart": [
+          "sage",
+          "juniper berries",
+          "geranium"
+        ],
+        "base": [
+          "cedarwood",
+          "amberwood",
+          "tonka bean",
+          "vetiver",
+          "olibanum"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Y-Eau-de-Parfum-50757.html", "name": "Fragrantica: Y Eau de Parfum", "type": "database", "supports": ["year", "concentration", "perfumer", "notes"] },
-        { "url": "https://basenotes.com/fragrances/y-eau-de-parfum-by-yves-saint-laurent.26157362", "name": "Basenotes: Y Eau de Parfum", "type": "database", "supports": ["notes", "year"] }
+        {
+          "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Y-Eau-de-Parfum-50757.html",
+          "name": "Fragrantica: Y Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "year",
+            "concentration",
+            "perfumer",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/y-eau-de-parfum-by-yves-saint-laurent.26157362",
+          "name": "Basenotes: Y Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -178,16 +494,41 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["calabrian bergamot", "bergamot"],
-        "heart": ["tunisian orange blossom"],
-        "base": ["ambrofix", "patchouli"],
+        "top": [
+          "calabrian bergamot",
+          "bergamot"
+        ],
+        "heart": [
+          "tunisian orange blossom"
+        ],
+        "base": [
+          "ambrofix",
+          "patchouli"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/MYSLF-Eau-de-Parfum-84094.html", "name": "Fragrantica: MYSLF Eau de Parfum", "type": "database", "supports": ["year", "concentration", "perfumer"] },
-        { "url": "https://www.parfumo.com/Perfumes/Yves_Saint_Laurent/myslf-eau-de-parfum", "name": "Parfumo: MYSLF Eau de Parfum", "type": "database", "supports": ["notes", "accords"] }
+        {
+          "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/MYSLF-Eau-de-Parfum-84094.html",
+          "name": "Fragrantica: MYSLF Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "year",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Yves_Saint_Laurent/myslf-eau-de-parfum",
+          "name": "Parfumo: MYSLF Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "notes",
+            "accords"
+          ]
+        }
       ]
     },
     {
@@ -199,17 +540,53 @@
       "family": "Woody Spicy",
       "accords": [],
       "notes": {
-        "top": ["calabria bergamot", "nutmeg", "pink pepper"],
-        "heart": ["violet leaf accord", "grand vert basil", "star anise"],
-        "base": ["indonesia patchouli", "haiti vetiver", "leather"],
+        "top": [
+          "calabria bergamot",
+          "nutmeg",
+          "pink pepper"
+        ],
+        "heart": [
+          "violet leaf accord",
+          "grand vert basil",
+          "star anise"
+        ],
+        "base": [
+          "indonesia patchouli",
+          "haiti vetiver",
+          "leather"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/L-Homme-Libre-12602.html", "name": "Fragrantica: L'Homme Libre", "type": "database", "supports": ["year", "notes", "perfumer"] },
-        { "url": "https://www.olfastory.com/en/perfume/lhomme-libre", "name": "Olfastory: L'Homme Libre", "type": "database", "supports": ["family", "perfumer"] },
-        { "url": "https://www.amazon.com/Saint-Laurent-LHomme-Libre-Toilette/dp/B0056Z278M", "name": "Amazon: L'Homme Libre Eau De Toilette Spray", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/L-Homme-Libre-12602.html",
+          "name": "Fragrantica: L'Homme Libre",
+          "type": "database",
+          "supports": [
+            "year",
+            "notes",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://www.olfastory.com/en/perfume/lhomme-libre",
+          "name": "Olfastory: L'Homme Libre",
+          "type": "database",
+          "supports": [
+            "family",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://www.amazon.com/Saint-Laurent-LHomme-Libre-Toilette/dp/B0056Z278M",
+          "name": "Amazon: L'Homme Libre Eau De Toilette Spray",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -221,16 +598,40 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["cardamom"],
-        "heart": ["lavender", "virginia cedar", "bergamot"],
-        "base": ["vetiver", "caraway"],
+        "top": [
+          "cardamom"
+        ],
+        "heart": [
+          "lavender",
+          "virginia cedar",
+          "bergamot"
+        ],
+        "base": [
+          "vetiver",
+          "caraway"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/La-Nuit-de-l-Homme-5521.html", "name": "Fragrantica: La Nuit de l'Homme", "type": "database", "supports": ["year", "notes"] },
-        { "url": "https://www.fragranceoutlet.com/products/yves-saint-laurent-l-homme-la-nuit-mens-eau-de-toilette-spray", "name": "Fragrance Outlet: L'Homme La Nuit EDT", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/La-Nuit-de-l-Homme-5521.html",
+          "name": "Fragrantica: La Nuit de l'Homme",
+          "type": "database",
+          "supports": [
+            "year",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.fragranceoutlet.com/products/yves-saint-laurent-l-homme-la-nuit-mens-eau-de-toilette-spray",
+          "name": "Fragrance Outlet: L'Homme La Nuit EDT",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     }
   ]
