@@ -45,10 +45,23 @@ export function Onboarding() {
         {step === 1 && (
           <section className="onb-welcome">
             <div className="onb-art" aria-hidden="true">
-              <Art name="onb-hero" className="onb-hero" eager />
+              <div className="onb-wobble">
+                <Art name="onb-hero" className="onb-hero" eager />
+              </div>
+              <span className="onb-twinkle t1">✦</span>
+              <span className="onb-twinkle t2">✦</span>
+              <span className="onb-twinkle t3">✦</span>
             </div>
             <span className="kicker">{t('app.name')}</span>
-            <h1 className="display onb-title">{t('onb.welcome')}</h1>
+            <h1 className="display onb-title" aria-label={t('onb.welcome')}>
+              {t('onb.welcome')
+                .split(' ')
+                .map((w, i) => (
+                  <span key={i} className="onb-word" style={{ ['--i' as string]: i }} aria-hidden="true">
+                    {w}{' '}
+                  </span>
+                ))}
+            </h1>
             <p className="onb-sub">{t('onb.welcomeSub')}</p>
             <button className="btn btn-ink btn-lg" onClick={() => setStep(2)} data-testid="onb-start">
               {t('onb.start')}

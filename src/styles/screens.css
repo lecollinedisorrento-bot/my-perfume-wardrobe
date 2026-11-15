@@ -1578,3 +1578,99 @@
     grid-template-columns: minmax(0, 1fr);
   }
 }
+
+/* ───────────────────────── Welcome: a little life ───────────────────────── */
+/* Stop-motion wobble: the sticker snaps between poses at 2 frames a second. */
+.onb-wobble {
+  animation: onb-boil 1.5s steps(1, end) infinite 700ms;
+}
+@keyframes onb-boil {
+  0% {
+    transform: rotate(-5deg);
+  }
+  33% {
+    transform: rotate(1deg) translateY(-3px);
+  }
+  66% {
+    transform: rotate(5deg);
+  }
+}
+/* Sparkles blink on and off around the wardrobe, out of step with each other. */
+.onb-twinkle {
+  position: absolute;
+  font-size: 26px;
+  line-height: 1;
+  color: var(--lime);
+  text-shadow: 0 2px 0 var(--ink);
+  animation: onb-twinkle 1.5s steps(1, end) infinite;
+}
+.onb-twinkle.t1 {
+  left: 8%;
+  top: 22%;
+}
+.onb-twinkle.t2 {
+  right: 10%;
+  top: 8%;
+  font-size: 20px;
+  color: #fff;
+  animation-delay: 0.5s;
+}
+.onb-twinkle.t3 {
+  right: 6%;
+  bottom: 18%;
+  font-size: 30px;
+  color: var(--pink);
+  animation-delay: 1s;
+}
+@keyframes onb-twinkle {
+  0% {
+    opacity: 1;
+    transform: scale(1) rotate(0deg);
+  }
+  33% {
+    opacity: 0.2;
+    transform: scale(0.6) rotate(20deg);
+  }
+  66% {
+    opacity: 1;
+    transform: scale(1.15) rotate(-10deg);
+  }
+}
+/* Title words drop in one after another. */
+.onb-word {
+  display: inline-block;
+  animation: onb-word-in 520ms var(--ease-pop) both;
+  animation-delay: calc(250ms + var(--i) * 90ms);
+}
+@keyframes onb-word-in {
+  from {
+    opacity: 0;
+    transform: translateY(26px) rotate(-6deg);
+  }
+}
+/* The start button gives a small nudge every few seconds. */
+.onb-1 .btn-ink {
+  animation: onb-nudge 3.2s var(--ease-out) infinite 1.6s;
+}
+@keyframes onb-nudge {
+  0%,
+  86%,
+  100% {
+    transform: none;
+  }
+  90% {
+    transform: rotate(-4deg) scale(1.05);
+  }
+  94% {
+    transform: rotate(3deg) scale(1.05);
+  }
+}
+/* The halftone dots drift slowly behind everything. */
+.onb-1 {
+  animation: onb-drift 18s linear infinite;
+}
+@keyframes onb-drift {
+  to {
+    background-position: 48px 48px;
+  }
+}
