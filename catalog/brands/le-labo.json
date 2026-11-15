@@ -359,8 +359,42 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/22511/le-labo/neroli-36",
+          "name": "Fragplace — Neroli 36 FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fraganty.ai/reviews/neroli-36",
+          "name": "Fraganty — Neroli 36 first impressions",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Fragplace FAQ: about 4-6 h, sillage near the skin but noticeable; Fraganty review suggests warm weather and daytime wear; Shay & Blue says it hugs the skin."
     },
     {
       "name": "Bergamote 22",
@@ -384,8 +418,35 @@
           "name": "Le Labo — Bergamote 22",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/le-labo/bergamote-22",
+          "name": "The Scent Base — Le Labo Bergamote 22",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/compare/givenchy-de-givenchy-eau-de-toilette/oil-perfumery-le-labo-bergamote-22-parfum",
+          "name": "Scentverdict — Bergamote 22 comparison",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: intimate projection with shorter longevity on the EDP; Scentverdict: moderate (4-6 h); sources conflict."
     },
     {
       "name": "Lavande 31",
@@ -409,8 +470,35 @@
           "name": "Le Labo — Lavande 31",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://fragplace.com/fragrances/2887/le-labo/lavande-31",
+          "name": "Fragplace — Lavande 31",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/le-labo-lavande-31-eau-de-parfum",
+          "name": "Scentverdict — Le Labo Lavande 31 EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace aggregates reviews at about 4-6 h with moderate sillage; Scentverdict also rates it moderate; a retailer claims 7-9 h."
     },
     {
       "name": "Eucalyptus 20",
@@ -434,8 +522,35 @@
           "name": "Le Labo — Eucalyptus 20",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/le-labo-eucalyptus-20",
+          "name": "Vivir — Le Labo Eucalyptus 20",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/le-labo-eucalyptus-20-eau-de-toilette",
+          "name": "Scentverdict — Le Labo Eucalyptus 20",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 4/5 (6-8 h, last hours very quiet), sillage 3/5 personal aura; Scentverdict is lower at moderate (4-6 h)."
     },
     {
       "name": "Violette 30",
@@ -459,8 +574,35 @@
           "name": "Le Labo — Violette 30",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/le-labo-violette-30",
+          "name": "Vivir — Le Labo Violette 30",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://whatscent.app/perfume/violette-30",
+          "name": "WhatScent — Violette 30",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 4/5, sillage 3/5 intimate to moderate; WhatScent users: longevity 4/5, sillage 2/5. 2026 release, so little long-term data."
     },
     {
       "name": "Baie 19",
@@ -484,8 +626,35 @@
           "name": "Le Labo — Baie 19",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/le-labo-baie-19",
+          "name": "Vivir — Le Labo Baie 19",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/le-labo-baie-19-eau-de-parfum",
+          "name": "Scentverdict — Le Labo Baie 19 EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir and Scentverdict: moderate longevity (4-6 h), subtle trail; Printemps calls it discreet and intimate; WhatScent sillage 2/5."
     },
     {
       "name": "Lys 41",
@@ -509,8 +678,35 @@
           "name": "Le Labo — Lys 41",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://scentverdict.com/perfume/le-labo-lys-41-eau-de-parfum",
+          "name": "Scentverdict — Le Labo Lys 41 EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/06/19/perfume-review-le-labo-lys-41-dancing-floral-princesses",
+          "name": "Kafkaesque — Perfume Review: Le Labo Lys 41",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict lists long wear (6-10 h) with moderate projection; John Lewis calls the EDP long-lasting; one blog review found sillage and longevity moderate to low."
     },
     {
       "name": "Jasmin 17",
@@ -534,8 +730,27 @@
           "name": "Le Labo — Jasmin 17",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://m.johnlewis.com/le-labo-jasmin-17-eau-de-parfum/p3756352",
+          "name": "John Lewis — Le Labo Jasmin 17 EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "John Lewis lists EDP intensity and longevity as moderate; reviewers disagree widely (from so-so to very long), no sillage level is stated consistently."
     },
     {
       "name": "Fleur d'Oranger 27",
@@ -559,8 +774,27 @@
           "name": "Le Labo — Fleur d'Oranger 27",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://m.johnlewis.com/le-labo-fleur-doranger-27-eau-de-parfum/p3756282",
+          "name": "John Lewis — Le Labo Fleur d'Oranger 27 EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "John Lewis lists longevity moderate and sillage strong; Perfume.com says an EDP of this kind generally lasts 4-6 h."
     },
     {
       "name": "Tonka 25",
@@ -584,8 +818,39 @@
           "name": "Le Labo — Tonka 25",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/le-labo-tonka-25",
+          "name": "Vivir — Le Labo Tonka 25",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/le-labo-tonka-25-eau-de-parfum",
+          "name": "Scentverdict — Le Labo Tonka 25 EDP",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 4/5 (about 6-8 h), sillage 3/5, moderate projection; Scentverdict: long (6-10 h), moderate projection, suits cooler weather."
     },
     {
       "name": "Vetiver 46",
@@ -609,8 +874,35 @@
           "name": "Le Labo — Vetiver 46",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://scentverdict.com/compare/the-essence-vault-sauvage-elixir-edp/le-labo-vetiver-46-eau-de-parfum",
+          "name": "Scentverdict — Le Labo Vetiver 46 EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://whatscent.app/perfume/le-labo-vetiver-46-2006.0?hl=en",
+          "name": "WhatScent — Le Labo Vetiver 46",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict rates the EDP moderate (4-6 h); WhatScent users give longevity 3/5 and projection 3/5; a retailer claim of 8-12 h is unverified and reports of fading vary by bottle."
     },
     {
       "name": "Patchouli 24",
@@ -634,8 +926,35 @@
           "name": "Le Labo — Patchouli 24",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://scentverdict.com/perfume/le-labo-patchouli-24-eau-de-parfum",
+          "name": "Scentverdict — Le Labo Patchouli 24 EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/threads/le-labo-patchouli-24-smokin.194317/",
+          "name": "Basenotes — Le Labo Patchouli 24 thread",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict lists long wear (6-10 h); Basenotes posters call it a longevity monster with good sillage; Parfumo reviewer reports 15 h or more; sillage rated moderate elsewhere."
     },
     {
       "name": "Ambrette 9",
@@ -659,8 +978,35 @@
           "name": "Le Labo — Ambrette 9",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://www.maxaroma.com/fragrance/niche-fragrances/le-labo-ambrette-9-unboxed/pid/35449/2",
+          "name": "MaxAroma — Le Labo Ambrette 9",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/le-labo/le-labo-ambrette-9-perfume",
+          "name": "FragranceX — Le Labo Ambrette 9",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Maxaroma and Midak Beauty list about 5-7 h with intimate to close projection; FragranceX says soft sillage; many user reports are much shorter (an hour or two)."
     },
     {
       "name": "Ylang 49",
@@ -684,8 +1030,35 @@
           "name": "Le Labo — Ylang 49",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://scentverdict.com/perfume/le-labo-ylang-49-eau-de-parfum",
+          "name": "Scentverdict — Le Labo Ylang 49 EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/tag/ylang-49-perfume/",
+          "name": "Kafkaesque — Perfume Review: Le Labo Ylang 49",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict lists long wear (6-10 h) and a 2013 blog says many report all-day wear; sillage reports conflict (gentle to very strong), so left unset."
     },
     {
       "name": "Labdanum 18",
@@ -709,8 +1082,39 @@
           "name": "Le Labo — Labdanum 18",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://scentverdict.com/perfume/le-labo-labdanum-18-eau-de-parfum",
+          "name": "Scentverdict — Le Labo Labdanum 18 EDP",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/le-labo/labdanum-18",
+          "name": "The Scent Base — Le Labo Labdanum 18",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict: 6-10 h, moderate projection, best in autumn and winter; The Scent Base 6+ h; Fragplace is shorter (4-6 h)."
     }
   ]
 }

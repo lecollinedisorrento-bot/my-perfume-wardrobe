@@ -14,13 +14,56 @@
       "releaseYear": 2019,
       "perfumer": null,
       "family": "Floral Woody",
-      "accords": ["white musk"],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "iris", "neroli", "cedar", "honey"] },
+      "accords": [
+        "white musk"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "iris",
+          "neroli",
+          "cedar",
+          "honey"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.johnlewis.com/chanel-1957-les-exclusifs-de-chanel-eau-de-parfum/p3995169", "name": "John Lewis - Chanel 1957 Eau de Parfum", "type": "retailer", "supports": ["notes", "accords", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.johnlewis.com/chanel-1957-les-exclusifs-de-chanel-eau-de-parfum/p3995169",
+          "name": "John Lewis - Chanel 1957 Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "accords",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/chanel/1957-eau-de-parfum",
+          "name": "The Scent Base - Chanel 1957 Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base community report: average about 3 h with intimate projection; blogs claiming 6-10 h look generic and conflict with it."
     },
     {
       "name": "No 5",
@@ -31,16 +74,73 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["aldehydes", "neroli", "lemon", "ylang-ylang", "bergamot"],
-        "heart": ["jasmine", "iris", "orris", "rose", "lily of the valley"],
-        "base": ["patchouli", "amber", "musk", "vanilla", "oakmoss", "vetiver", "sandalwood"],
+        "top": [
+          "aldehydes",
+          "neroli",
+          "lemon",
+          "ylang-ylang",
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine",
+          "iris",
+          "orris",
+          "rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "patchouli",
+          "amber",
+          "musk",
+          "vanilla",
+          "oakmoss",
+          "vetiver",
+          "sandalwood"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://scentgrail.com/holy-grail-scents/chanel-no-5-review/", "name": "ScentGrail - Chanel No 5 review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://scentgrail.com/holy-grail-scents/chanel-no-5-review/",
+          "name": "ScentGrail - Chanel No 5 review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/40345/chanel/chanel-no-5-eau-de-parfum",
+          "name": "Fragplace - Chanel No 5 Eau de Parfum FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/chanel/chanel-no-5-eau-de-parfum",
+          "name": "The Scent Base - Chanel No 5 Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace user-review FAQ: typically 6-10 h, moderate sillage close to skin but noticeable; The Scent Base: above average, 6+ h."
     },
     {
       "name": "Coco Mademoiselle",
@@ -51,16 +151,66 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["bergamot", "orange"],
-        "heart": ["jasmine", "rose", "ylang-ylang"],
-        "base": ["patchouli", "tonka", "vanilla", "white musk", "vetiver"],
+        "top": [
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "ylang-ylang"
+        ],
+        "base": [
+          "patchouli",
+          "tonka",
+          "vanilla",
+          "white musk",
+          "vetiver"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://jadof.com/en/news/chanel-coco-mademoiselle-review", "name": "Jadof - Chanel Coco Mademoiselle review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://jadof.com/en/news/chanel-coco-mademoiselle-review",
+          "name": "Jadof - Chanel Coco Mademoiselle review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://larose.az/en/product/chanel-coco-mademoiselle",
+          "name": "Larose - Chanel Coco Mademoiselle",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/chanel-coco-mademoiselle-eau-de-parfum",
+          "name": "Scent Verdict - Chanel Coco Mademoiselle Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Larose listing: about 8-10 h with dense projection; Scent Verdict: long (6-10 h), moderate projection; Vivir gives sillage 4/5."
     },
     {
       "name": "Allure Sensuelle",
@@ -71,16 +221,62 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["bergamot", "mandarin", "orange", "pink pepper"],
-        "heart": ["iris", "jasmine", "candied fruit", "rose", "vetiver"],
-        "base": ["amber", "patchouli", "vanilla", "frankincense"],
+        "top": [
+          "bergamot",
+          "mandarin",
+          "orange",
+          "pink pepper"
+        ],
+        "heart": [
+          "iris",
+          "jasmine",
+          "candied fruit",
+          "rose",
+          "vetiver"
+        ],
+        "base": [
+          "amber",
+          "patchouli",
+          "vanilla",
+          "frankincense"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://jadof.com/en/news/chanel-allure-sensuelle-review", "name": "Jadof - Chanel Allure Sensuelle review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://jadof.com/en/news/chanel-allure-sensuelle-review",
+          "name": "Jadof - Chanel Allure Sensuelle review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration",
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragrancecart.com/?p=41997",
+          "name": "FragranceCart - Chanel Allure Sensuelle",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "FragranceCart: 8-10 h with velvety sillage; a detailed review says 7-9 h on most skin and moderate sillage; community data for the EDT is lower (4-6 h)."
     },
     {
       "name": "Chance",
@@ -91,16 +287,68 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["patchouli", "pink pepper", "pineapple", "hyacinth", "iris"],
-        "heart": ["lemon", "jasmine", "rose"],
-        "base": ["patchouli", "musk", "vetiver", "vanilla"],
+        "top": [
+          "patchouli",
+          "pink pepper",
+          "pineapple",
+          "hyacinth",
+          "iris"
+        ],
+        "heart": [
+          "lemon",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "patchouli",
+          "musk",
+          "vetiver",
+          "vanilla"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/chanel-chance-eau-de-toilette", "name": "Vivir - Chanel Chance", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://vivir.com/article/chanel-chance-eau-de-toilette",
+          "name": "Vivir - Chanel Chance",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/chanel/chance-eau-de-parfum",
+          "name": "The Scent Base - Chanel Chance Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://everfumed.com/best-chanel-chance-perfume/",
+          "name": "Everfumed - Best Chanel Chance perfume",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: good projection, above average, 6+ h; Everfumed rates both longevity and sillage very good but not overwhelming."
     },
     {
       "name": "1932",
@@ -111,16 +359,65 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["aldehydes", "pear", "grapefruit"],
-        "heart": ["iris", "jasmine"],
-        "base": ["musk", "vetiver", "vanilla", "incense"],
+        "top": [
+          "aldehydes",
+          "pear",
+          "grapefruit"
+        ],
+        "heart": [
+          "iris",
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "vetiver",
+          "vanilla",
+          "incense"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/chanel-1932-eau-de-parfum", "name": "Vivir - Chanel 1932 Eau de Parfum", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://vivir.com/article/chanel-1932-eau-de-parfum",
+          "name": "Vivir - Chanel 1932 Eau de Parfum",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://johnlewis.com/chanel-1932-les-exclusifs-de-chanel-eau-de-parfum/p3941812",
+          "name": "John Lewis - Chanel 1932 Les Exclusifs Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/chanel/les-exclusifs-de-chanel-1932",
+          "name": "The Scent Base - Les Exclusifs de Chanel 1932",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "John Lewis lists the EDP with moderate longevity; The Scent Base community average about 3 h; reviewers describe sillage as soft and intimate, one reports 10-12 h on skin."
     },
     {
       "name": "Platinum Egoiste",
@@ -131,16 +428,67 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["lavender", "rosemary", "neroli", "petitgrain"],
-        "heart": ["geranium", "clary sage", "galbanum", "jasmine"],
-        "base": ["oakmoss", "vetiver", "cedar", "sandalwood", "amber"],
+        "top": [
+          "lavender",
+          "rosemary",
+          "neroli",
+          "petitgrain"
+        ],
+        "heart": [
+          "geranium",
+          "clary sage",
+          "galbanum",
+          "jasmine"
+        ],
+        "base": [
+          "oakmoss",
+          "vetiver",
+          "cedar",
+          "sandalwood",
+          "amber"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/chanel-platinum-ego-ste", "name": "Vivir - Chanel Platinum Egoiste", "type": "publication", "supports": ["notes", "year"] }
-      ]
+        {
+          "url": "https://vivir.com/article/chanel-platinum-ego-ste",
+          "name": "Vivir - Chanel Platinum Egoiste",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/chanel-platinum-egoiste-2",
+          "name": "Vivir - Chanel Platinum Egoiste",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragrancecart.com/product/chanel-platinum-egoiste-pour-homme-edt-for-men/",
+          "name": "FragranceCart - Chanel Platinum Egoiste EDT",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviews quoted in search: about 7-9 h on skin, moderate sillage; Vivir ratings 4/5 longevity, 3/5 sillage; a Basenotes thread says newer bottles project less."
     },
     {
       "name": "L'Exclusif",
@@ -152,15 +500,60 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": ["cedar", "guaiac wood"],
-        "base": ["amber", "labdanum", "sandalwood"],
+        "heart": [
+          "cedar",
+          "guaiac wood"
+        ],
+        "base": [
+          "amber",
+          "labdanum",
+          "sandalwood"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/chanel-l-exclusif", "name": "Vivir - Chanel L'Exclusif", "type": "publication", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://vivir.com/article/chanel-l-exclusif",
+          "name": "Vivir - Chanel L'Exclusif",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration",
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.fragman.com/blogs/fragrance-guide/bleu-de-chanel-lexclusif-parfum-review-is-this-the-final-boss-of-blue-fragrances",
+          "name": "Fragman - Bleu de Chanel L'Exclusif Parfum review",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Search result is for Bleu de Chanel L'Exclusif parfum: Fragman says longevity beats other Bleu versions, Chanel's page mentions a captivating sillage; Vivir 4/5 longevity, 3/5 sillage (templated page), a Parfumo reviewer suggests cooler months and evenings."
     },
     {
       "name": "Coromandel",
@@ -170,12 +563,49 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/chanel-les-exclusifs-de-chanel", "name": "Vivir - Les Exclusifs de Chanel", "type": "publication", "supports": [] }
-      ]
+        {
+          "url": "https://vivir.com/article/chanel-les-exclusifs-de-chanel",
+          "name": "Vivir - Les Exclusifs de Chanel",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/chanel/coromandel-eau-de-parfum",
+          "name": "The Scent Base - Chanel Coromandel Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/?p=23358",
+          "name": "Fragrance Review - Chanel Coromandel",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviewers quoted in search: EDP 6-10 h with moderate sillage and strong projection early on; the extrait gets mixed longevity reports."
     },
     {
       "name": "Sycomore",
@@ -185,12 +615,49 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/chanel-les-exclusifs-de-chanel", "name": "Vivir - Les Exclusifs de Chanel", "type": "publication", "supports": [] }
-      ]
+        {
+          "url": "https://vivir.com/article/chanel-les-exclusifs-de-chanel",
+          "name": "Vivir - Les Exclusifs de Chanel",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://perfumenez.com/blogs/perfume-faqs/how-good-is-the-performance-of-chanel-sycomore/",
+          "name": "Perfumenez - How good is the performance of Chanel Sycomore",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/chanel-sycomore-eau-de-parfum",
+          "name": "Scent Verdict - Chanel Sycomore Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Sources quoted in search give 6-10 h (Scent Verdict 2016 EDP: moderate, 4-6 h); sillage ranges from close to skin to moderate-strong depending on version, so left unrated."
     },
     {
       "name": "Cuir de Russie",
@@ -200,12 +667,49 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/chanel-les-exclusifs-de-chanel", "name": "Vivir - Les Exclusifs de Chanel", "type": "publication", "supports": [] }
-      ]
+        {
+          "url": "https://vivir.com/article/chanel-les-exclusifs-de-chanel",
+          "name": "Vivir - Les Exclusifs de Chanel",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://scentverdict.com/perfume/chanel-cuir-de-russie-eau-de-parfum",
+          "name": "Scent Verdict - Chanel Cuir de Russie Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/33737/chanel/cuir-de-russie-eau-de-parfum",
+          "name": "Fragplace - Cuir de Russie Eau de Parfum FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict: Les Exclusifs EDP moderate, 4-6 h; Fragplace FAQ: moderate sillage close to skin; a Parfumo reviewer calls sillage extremely intimate."
     }
   ]
 }

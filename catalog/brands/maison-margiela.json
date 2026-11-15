@@ -15,11 +15,30 @@
       "perfumer": null,
       "family": "Woody",
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["rosemary", "hinoki", "fir balsam"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "rosemary",
+          "hinoki",
+          "fir balsam"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-greenwood-getaway", "name": "Olfastory — Maison Margiela Greenwood Getaway", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-greenwood-getaway",
+          "name": "Olfastory — Maison Margiela Greenwood Getaway",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -30,12 +49,57 @@
       "perfumer": "Meabh McCurtin",
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["black pepper", "cinnamon"], "heart": ["cypriol", "cedar"], "base": ["labdanum", "oud", "leather"], "flat": [] },
+      "notes": {
+        "top": [
+          "black pepper",
+          "cinnamon"
+        ],
+        "heart": [
+          "cypriol",
+          "cedar"
+        ],
+        "base": [
+          "labdanum",
+          "oud",
+          "leather"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-under-the-stars", "name": "Olfastory — Maison Margiela REPLICA Under the Stars", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-under-the-stars",
+          "name": "Olfastory — Maison Margiela REPLICA Under the Stars",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-martin-margiela-under-the-stars",
+          "name": "Vivir — Maison Martin Margiela Under the Stars",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: community verdict about 3.5/5 longevity and 3.2/5 sillage; customer reviews range from lasts-all-day to weak."
     },
     {
       "name": "REPLICA Ideal One",
@@ -45,11 +109,39 @@
       "perfumer": "Christophe Raynaud",
       "family": "Fougère",
       "accords": [],
-      "notes": { "top": ["elemi", "orange", "bergamot"], "heart": ["orange blossom", "lavender"], "base": ["vanilla", "guaiac wood", "styrax", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "elemi",
+          "orange",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "lavender"
+        ],
+        "base": [
+          "vanilla",
+          "guaiac wood",
+          "styrax",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-ideal-one", "name": "Olfastory — Maison Margiela REPLICA Ideal One", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-ideal-one",
+          "name": "Olfastory — Maison Margiela REPLICA Ideal One",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -60,12 +152,56 @@
       "perfumer": "Elise Bénat, Dora Baghriche, Coralie Spicher, Gabriela Chelariu",
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["mango", "cardamom"], "heart": ["tuberose"], "base": ["sandalwood", "vanilla", "moss"], "flat": [] },
+      "notes": {
+        "top": [
+          "mango",
+          "cardamom"
+        ],
+        "heart": [
+          "tuberose"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "moss"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-chasing-sunsets", "name": "Olfastory — Maison Margiela REPLICA Chasing Sunsets", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-chasing-sunsets",
+          "name": "Olfastory — Maison Margiela REPLICA Chasing Sunsets",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.maisonmargiela-fragrances.us/fragrances/replica-chasing-sunsets-eau-de-toilette/MM183.html",
+          "name": "Maison Margiela US — Replica Chasing Sunsets",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Maison Margiela US page: EDT with moderate longevity, several hours on skin; no sillage level stated."
     },
     {
       "name": "REPLICA Autumn Vibes",
@@ -75,12 +211,59 @@
       "perfumer": "Fanny Bal",
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["pink pepper", "coriander", "cardamom"], "heart": ["carrot", "nutmeg", "olibanum"], "base": ["cedar", "moss", "fir"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper",
+          "coriander",
+          "cardamom"
+        ],
+        "heart": [
+          "carrot",
+          "nutmeg",
+          "olibanum"
+        ],
+        "base": [
+          "cedar",
+          "moss",
+          "fir"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-autumn-vibes", "name": "Olfastory — Maison Margiela REPLICA Autumn Vibes", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-autumn-vibes",
+          "name": "Olfastory — Maison Margiela REPLICA Autumn Vibes",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/maison-margiela/replica-autumn-vibes/women-perfume",
+          "name": "Perfume.com — Replica Autumn Vibes",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume.com: moderate longevity of about 6-8 hours depending on skin; listings call sillage moderate."
     },
     {
       "name": "REPLICA When the Rain Stops",
@@ -90,12 +273,59 @@
       "perfumer": "Fanny Bal",
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["bergamot", "green note", "pink pepper"], "heart": ["marine note", "rose", "jasmine"], "base": ["pine", "patchouli", "moss"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "green note",
+          "pink pepper"
+        ],
+        "heart": [
+          "marine note",
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "pine",
+          "patchouli",
+          "moss"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-when-the-rain-stops", "name": "Olfastory — Maison Margiela REPLICA When the Rain Stops", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-when-the-rain-stops",
+          "name": "Olfastory — Maison Margiela REPLICA When the Rain Stops",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-martin-margiela-when-the-rain-stops",
+          "name": "Vivir — Maison Martin Margiela When the Rain Stops",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: about 5-7 h, sillage 3/5; retailer listing says about 6 h; clone-comparison page cites 4-6 h and moderate-to-soft projection."
     },
     {
       "name": "REPLICA Bubble Bath",
@@ -105,12 +335,73 @@
       "perfumer": "Violaine Collas",
       "family": "Chypre",
       "accords": [],
-      "notes": { "top": ["pink pepper", "bergamot"], "heart": ["lavender", "rose", "jasmine"], "base": ["patchouli", "coconut milk", "white musks"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper",
+          "bergamot"
+        ],
+        "heart": [
+          "lavender",
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "coconut milk",
+          "white musks"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-bubble-bath", "name": "Olfastory — Maison Margiela REPLICA Bubble Bath", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-bubble-bath",
+          "name": "Olfastory — Maison Margiela REPLICA Bubble Bath",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/maison-margiela/replica-bubble-bath/women-perfume",
+          "name": "Perfume.com — Replica Bubble Bath",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/fr/perfumes/bubble-bath-maison-margiela",
+          "name": "Scento — Bubble Bath",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Fragrance guide: moderate longevity of about 4-6 h; Scento listing: moderate sillage, daytime wear in spring and summer."
     },
     {
       "name": "REPLICA Lost Eden",
@@ -120,12 +411,53 @@
       "perfumer": "Honorine Blanc",
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["apple"], "heart": ["vanilla"], "base": ["oud"], "flat": [] },
+      "notes": {
+        "top": [
+          "apple"
+        ],
+        "heart": [
+          "vanilla"
+        ],
+        "base": [
+          "oud"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-lost-eden", "name": "Olfastory — Maison Margiela REPLICA Lost Eden", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-lost-eden",
+          "name": "Olfastory — Maison Margiela REPLICA Lost Eden",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-margiela-replica-lost-eden",
+          "name": "Vivir — Maison Margiela Replica Lost Eden",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Two Vivir pages disagree on longevity (3.0 vs 4.0 of 5) but both rate sillage 3.0/5."
     },
     {
       "name": "REPLICA On a Date",
@@ -135,12 +467,60 @@
       "perfumer": "Carlos Benaïm",
       "family": "Chypre",
       "accords": [],
-      "notes": { "top": ["blackcurrant", "bergamot", "pink pepper"], "heart": ["rose", "geranium", "davana"], "base": ["patchouli", "vetiver", "moss", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose",
+          "geranium",
+          "davana"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "moss",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-on-a-date", "name": "Olfastory — Maison Margiela REPLICA On a Date", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-on-a-date",
+          "name": "Olfastory — Maison Margiela REPLICA On a Date",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-martin-margiela-on-a-date",
+          "name": "Vivir — Maison Martin Margiela On a Date",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer specs say moderate longevity; Vivir calls sillage intimate and longevity average for an EDT, so sillage is left open."
     },
     {
       "name": "REPLICA Sailing Day",
@@ -150,12 +530,60 @@
       "perfumer": "Violaine Collas",
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["marine note", "calone", "aldehydes", "juniper berries"], "heart": ["coriander", "iris", "rose"], "base": ["seaweed", "ambergris", "amber woods"], "flat": [] },
+      "notes": {
+        "top": [
+          "marine note",
+          "calone",
+          "aldehydes",
+          "juniper berries"
+        ],
+        "heart": [
+          "coriander",
+          "iris",
+          "rose"
+        ],
+        "base": [
+          "seaweed",
+          "ambergris",
+          "amber woods"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-sailing-day", "name": "Olfastory — Maison Margiela REPLICA Sailing Day", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-sailing-day",
+          "name": "Olfastory — Maison Margiela REPLICA Sailing Day",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragman.com/blogs/fragrance-guide/replica-sailing-day-edt-review-the-freshest-replica-that-nobody-talks-about",
+          "name": "Fragman — Replica Sailing Day EDT review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Sources conflict on longevity (about 4 h in a critical review vs 6-10 h in aggregates); retailer and Scento both call sillage moderate."
     },
     {
       "name": "REPLICA Never Ending Summer",
@@ -165,12 +593,58 @@
       "perfumer": "Christophe Raynaud",
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["bitter orange", "pepper"], "heart": ["tea", "cardamom", "nutmeg"], "base": ["vetiver", "cedar", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "bitter orange",
+          "pepper"
+        ],
+        "heart": [
+          "tea",
+          "cardamom",
+          "nutmeg"
+        ],
+        "base": [
+          "vetiver",
+          "cedar",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-never-ending-summer", "name": "Olfastory — Maison Margiela REPLICA Never Ending Summer", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-never-ending-summer",
+          "name": "Olfastory — Maison Margiela REPLICA Never Ending Summer",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-martin-margiela-never-ending-summer",
+          "name": "Vivir — Maison Martin Margiela Never Ending Summer",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir scores longevity, sillage and projection 3/5; a retailer claims 6-8+ h while a Sephora reviewer says it does not last."
     },
     {
       "name": "REPLICA Letter Never Sent",
@@ -180,12 +654,50 @@
       "perfumer": null,
       "family": "Woody",
       "accords": [],
-      "notes": { "top": [], "heart": ["cedar"], "base": ["white musks"], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [
+          "cedar"
+        ],
+        "base": [
+          "white musks"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-letter-never-sent", "name": "Olfastory — Maison Margiela REPLICA Letter Never Sent", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-letter-never-sent",
+          "name": "Olfastory — Maison Margiela REPLICA Letter Never Sent",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-margiela-letter-never-sent",
+          "name": "Vivir — Maison Margiela Letter Never Sent",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: about 6-8 h on the reviewer's skin (4/5); no sillage figure found."
     },
     {
       "name": "Replica Beach Walk",
@@ -195,12 +707,65 @@
       "perfumer": "Jacques Cavallier, Marie Salamagne",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["bergamot", "lemon", "pink pepper"], "heart": ["ylang-ylang", "coconut milk", "heliotrope"], "base": ["musk", "cedar", "benzoin"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "pink pepper"
+        ],
+        "heart": [
+          "ylang-ylang",
+          "coconut milk",
+          "heliotrope"
+        ],
+        "base": [
+          "musk",
+          "cedar",
+          "benzoin"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-beach-walk", "name": "Olfastory — Maison Margiela Replica Beach Walk", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-beach-walk",
+          "name": "Olfastory — Maison Margiela Replica Beach Walk",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/blog/maison-margiela-replica-beach-walk-review-summer-in-a-bottle",
+          "name": "Scento — Replica Beach Walk review 2026",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Scento 2026 review: about 4-7 h wear; its pages disagree on sillage (intimate vs moderate); suited to summer and daytime."
     },
     {
       "name": "REPLICA Jazz Club",
@@ -210,12 +775,59 @@
       "perfumer": "Aliénor Massenet",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["pink pepper", "lemon", "neroli"], "heart": ["rum", "clary sage", "vetiver"], "base": ["tobacco", "vanilla", "styrax"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper",
+          "lemon",
+          "neroli"
+        ],
+        "heart": [
+          "rum",
+          "clary sage",
+          "vetiver"
+        ],
+        "base": [
+          "tobacco",
+          "vanilla",
+          "styrax"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-jazz-club", "name": "Olfastory — Maison Margiela REPLICA Jazz Club", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/maison-margiela-replica-jazz-club",
+          "name": "Olfastory — Maison Margiela REPLICA Jazz Club",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/maison-margiela/replica-jazz-club-cologne",
+          "name": "FragranceX — Replica Jazz Club",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "FragranceX listing: typical wear about 6-8 hours; no sillage level stated."
     },
     {
       "name": "REPLICA Lazy Sunday Morning",
@@ -225,12 +837,59 @@
       "perfumer": "Louise Turner",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["aldehydes", "pear", "lily of the valley"], "heart": ["iris", "rose", "orange blossom"], "base": ["white musks", "patchouli", "ambrette"], "flat": [] },
+      "notes": {
+        "top": [
+          "aldehydes",
+          "pear",
+          "lily of the valley"
+        ],
+        "heart": [
+          "iris",
+          "rose",
+          "orange blossom"
+        ],
+        "base": [
+          "white musks",
+          "patchouli",
+          "ambrette"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/replica-lazy-sunday-morning", "name": "Olfastory — Maison Margiela REPLICA Lazy Sunday Morning", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/replica-lazy-sunday-morning",
+          "name": "Olfastory — Maison Margiela REPLICA Lazy Sunday Morning",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/fr/perfumes/lazy-sunday-morning-maison-margiela",
+          "name": "Scento — Lazy Sunday Morning",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento listing describes moderate longevity and moderate sillage; no hours given."
     },
     {
       "name": "Afternoon Delight Eau de Toilette",
@@ -240,12 +899,57 @@
       "perfumer": null,
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["bitter almond", "angelica"], "heart": ["madeleine", "carrot", "ambrette"], "base": ["sandalwood", "vanilla", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "bitter almond",
+          "angelica"
+        ],
+        "heart": [
+          "madeleine",
+          "carrot",
+          "ambrette"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/afternoon-delight-eau-de-toilette", "name": "Olfastory — Maison Margiela Afternoon Delight Eau de Toilette", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/afternoon-delight-eau-de-toilette",
+          "name": "Olfastory — Maison Margiela Afternoon Delight Eau de Toilette",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-margiela-replica-afternoon-delight",
+          "name": "Vivir — Maison Margiela Replica Afternoon Delight",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: about 4-6 h, sillage 3/5, projection 3/5; other retailers say moderate longevity and projection, Maxaroma estimates 7-9 h."
     },
     {
       "name": "REPLICA By the Fireplace",
@@ -255,12 +959,62 @@
       "perfumer": null,
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["orange blossom", "pink pepper", "clove"], "heart": ["guaiac wood", "juniper berries", "chestnut"], "base": ["vanilla", "peru balsam", "cashmeran"], "flat": [] },
+      "notes": {
+        "top": [
+          "orange blossom",
+          "pink pepper",
+          "clove"
+        ],
+        "heart": [
+          "guaiac wood",
+          "juniper berries",
+          "chestnut"
+        ],
+        "base": [
+          "vanilla",
+          "peru balsam",
+          "cashmeran"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/replica-by-the-fireplace", "name": "Olfastory — Maison Margiela REPLICA By the Fireplace", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/replica-by-the-fireplace",
+          "name": "Olfastory — Maison Margiela REPLICA By the Fireplace",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://thefashionisto.com/review/maison-margiela-replica-by-the-fireplace",
+          "name": "The Fashionisto — Maison Margiela Replica by the Fireplace review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Review roundup: roughly 6-8 h, soft-to-moderate sillage stronger early; reviewers rate it best in fall and winter, poor in summer."
     },
     {
       "name": "Replica Up At Dawn",
@@ -270,12 +1024,56 @@
       "perfumer": "Juliette Karagueuzoglou",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["pink pepper"], "heart": ["rose"], "base": ["musk", "patchouli", "oakmoss", "cashmere wood"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "oakmoss",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/replica-up-at-dawn", "name": "Olfastory — Maison Margiela REPLICA Up At Dawn", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/replica-up-at-dawn",
+          "name": "Olfastory — Maison Margiela REPLICA Up At Dawn",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.maisonmargiela-fragrances.us/fragrances/replica-eau-de-toilette/replica-up-at-dawn-eau-de-toilette/MM184.html",
+          "name": "Maison Margiela US — Replica Up At Dawn",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Maison Margiela US page: EDT with moderate longevity and a soft, intimate sillage close to the skin."
     }
   ]
 }

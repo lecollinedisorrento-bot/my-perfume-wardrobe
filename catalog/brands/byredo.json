@@ -394,8 +394,41 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/alto-astral-byredo",
+          "name": "Scento — Byredo Alto Astral",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.maxaroma.com/fragrance/niche-fragrances/byredo-alto-astral/pid/38828/2",
+          "name": "MaxAroma — Byredo Alto Astral",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting with moderate projection, suited to summer and daytime; Maxaroma estimates 6-8 h with an intimate-to-moderate aura."
     },
     {
       "name": "Black Saffron",
@@ -543,8 +576,39 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/10006/byredo/bibliotheque",
+          "name": "Fragplace — Bibliothèque FAQ",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/bibliotheque-byredo",
+          "name": "Scento — Byredo Bibliothèque",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "A review database gives 6-10 h and retailers 7-9 h; Scento describes moderate projection; reviewers point to autumn and winter as its best seasons."
     },
     {
       "name": "Super Cedar",
@@ -624,8 +688,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/byredo/byredo-young-rose/women-perfume",
+          "name": "Perfume.com — Byredo Young Rose",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/young-rose",
+          "name": "Scents Angel — Young Rose",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume.com and Scents Angel give 6-8 h with moderate sillage; some users report it fading within an hour."
     },
     {
       "name": "Inflorescence",
@@ -661,8 +752,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://whatscent.app/perfume/byredo-inflorescence?hl=en",
+          "name": "WhatScent — Byredo Inflorescence",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/?p=22179",
+          "name": "Fragrance Review — Byredo Inflorescence",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "WhatScent community ratings: longevity 3/5, projection 2/5, sillage 2/5; Fragrance Review calls longevity moderate and sillage mild."
     },
     {
       "name": "Flowerhead",
@@ -701,8 +819,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/byredo-flowerhead-eau-de-parfum",
+          "name": "Scentverdict — Byredo Flowerhead EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.maxaroma.com/fragrance/unisex/byredo-flowerhead/pid/32045/4",
+          "name": "MaxAroma — Byredo Flowerhead",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel 6-8 h and Maxaroma about 7 h; Scentverdict rates it moderate (4-6 h) with strong projection; most sources call sillage moderate."
     },
     {
       "name": "La Tulipe",
@@ -739,8 +884,42 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.beautytheshop.com/uk/fragrance/ladies-fragrance/byredo-la-tulipe-eau-de-parfum-spray-50ml-24",
+          "name": "Beauty The Shop — Byredo La Tulipe EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/fr/perfumes/la-tulipe-byredo",
+          "name": "Scento — Byredo La Tulipe",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "A retailer lists about 6-8 h and a moderate scent trail; Scento: moderate longevity and projection, suited to spring and summer daytime."
     },
     {
       "name": "Mister Marvelous",
@@ -867,8 +1046,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://viviensmells.blogspot.com/2023/07/byredo-gypsy-water-mixed-emotions.html",
+          "name": "Vivien's Smells — Byredo Gypsy Water & Mixed Emotions",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/byredo-mixed-emotions-eau-de-parfum",
+          "name": "Scentverdict — Byredo Mixed Emotions EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "A blogger reports 5-6 h with light to medium sillage; another retailer cites about 7 h; many reviewers say it wears close to the skin."
     },
     {
       "name": "Oud Immortel",
@@ -961,8 +1167,38 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/byredo-eyes-closed-edp-1",
+          "name": "Venba Fragrance — Byredo Eyes Closed EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Byredo/eyes-closed/reviews/297716",
+          "name": "Parfumo — Eyes Closed review",
+          "type": "database",
+          "supports": [
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Venba lists about 7-9 h with moderate-to-strong sillage; Scents Angel 6-8 h; The Sniff Test moderate longevity and sillage; a Parfumo reviewer finds it best in autumn and winter."
     },
     {
       "name": "M/Mink",
@@ -998,8 +1234,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://whatscent.app/perfume/mmink",
+          "name": "WhatScent — Byredo M/Mink",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Byredo/MMink",
+          "name": "Parfumo — M/Mink",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community ratings: longevity about 8.1/10, sillage about 7.1/10; a WhatScent user gave longevity 4/5."
     },
     {
       "name": "De Los Santos",
@@ -1037,8 +1300,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/de-los-santos-byredo",
+          "name": "Scento — Byredo De Los Santos",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://whatscent.app/perfume/de-los-santos?hl=en",
+          "name": "WhatScent — De Los Santos",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento aggregated reviews: longevity 4.3/5 with moderate projection; typical 6-8 h; WhatScent users give sillage 3-4/5."
     },
     {
       "name": "Mumbai Noise",
@@ -1075,8 +1365,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/mumbai-noise-by-byredo",
+          "name": "Scento — Byredo Mumbai Noise",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/mumbai-noisemumbai-noise",
+          "name": "Scents Angel — Mumbai Noise",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel: 8+ h and strong but refined sillage; Scento: long-lasting with strong projection; The Sniff Test calls sillage moderate."
     },
     {
       "name": "Pulp",
@@ -1169,8 +1486,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/byredo/byredo-slow-dance/women-perfume",
+          "name": "Perfume.com — Byredo Slow Dance",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/byredo-slow-dance",
+          "name": "Scents Angel — Byredo Slow Dance",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailers list about 6-8 h and 7-9 h, Perfume.com says six hours or more; sillage is usually described as moderate; a few guides put it nearer 4 h."
     },
     {
       "name": "Havana Tonka",

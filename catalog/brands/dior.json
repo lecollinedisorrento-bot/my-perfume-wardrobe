@@ -16,16 +16,63 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["bergamot"],
-        "heart": ["sichuan pepper", "lavender", "nutmeg", "star anise"],
-        "base": ["ambroxan", "vanilla"],
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "sichuan pepper",
+          "lavender",
+          "nutmeg",
+          "star anise"
+        ],
+        "base": [
+          "ambroxan",
+          "vanilla"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://scentgrail.com/holy-grail-scents/dior-sauvage-eau-de-parfum-review/", "name": "ScentGrail - Dior Sauvage Eau de Parfum review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://scentgrail.com/holy-grail-scents/dior-sauvage-eau-de-parfum-review/",
+          "name": "ScentGrail - Dior Sauvage Eau de Parfum review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.shopsavvy.com/reviews-tldr/sauvage-by-dior",
+          "name": "ShopSavvy - Sauvage by Dior EDP review roundup",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/dior/sauvage-eau-de-parfum",
+          "name": "The Scent Base - Dior Sauvage Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ShopSavvy roundup: excellent longevity and sillage; The Scent Base: above-average, 6+ hours, good projection (community estimate); Scentgrail: EDP improves on the EDT's longevity and sillage."
     },
     {
       "name": "Homme Intense",
@@ -36,16 +83,61 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["lavender", "bergamot", "sage"],
-        "heart": ["iris", "pear", "ambrette"],
-        "base": ["vanilla", "amber", "cacao", "virginia cedar", "vetiver", "tonka bean"],
+        "top": [
+          "lavender",
+          "bergamot",
+          "sage"
+        ],
+        "heart": [
+          "iris",
+          "pear",
+          "ambrette"
+        ],
+        "base": [
+          "vanilla",
+          "amber",
+          "cacao",
+          "virginia cedar",
+          "vetiver",
+          "tonka bean"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://scentgrail.com/holy-grail-scents/dior-homme-intense-review/", "name": "ScentGrail - Dior Homme Intense review", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://scentgrail.com/holy-grail-scents/dior-homme-intense-review/",
+          "name": "ScentGrail - Dior Homme Intense review",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration",
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/sample-dior-homme-intense-edp",
+          "name": "Venba Fragrance - Dior Homme Intense EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer/review pages quoted in search: roughly 8-10 h (some say 10-12 h, one blog 6-8 h); projection strong in the first hours, then closer to skin."
     },
     {
       "name": "Dior Paradise",
@@ -56,16 +148,55 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["orange", "mandarin", "lime"],
-        "heart": ["bitter almond", "orgeat syrup"],
-        "base": ["tonka bean"],
+        "top": [
+          "orange",
+          "mandarin",
+          "lime"
+        ],
+        "heart": [
+          "bitter almond",
+          "orgeat syrup"
+        ],
+        "base": [
+          "tonka bean"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/blog/dior-paradise-review", "name": "Scento - Dior Paradise review", "type": "retailer", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.scento.com/blog/dior-paradise-review",
+          "name": "Scento - Dior Paradise review",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration",
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/dior-paradise-2",
+          "name": "Vivir - Dior Paradise",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento review: about 5-7 h wear; Vivir community ratings about 3/5 for both longevity and sillage; Venba says it is meant to be worn close, not for heavy projection."
     },
     {
       "name": "Rouge Trafalgar",
@@ -76,16 +207,63 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["raspberry", "strawberry", "cherry", "mandarin orange"],
-        "heart": ["blackcurrant", "grapefruit"],
-        "base": ["musk", "patchouli"],
+        "top": [
+          "raspberry",
+          "strawberry",
+          "cherry",
+          "mandarin orange"
+        ],
+        "heart": [
+          "blackcurrant",
+          "grapefruit"
+        ],
+        "base": [
+          "musk",
+          "patchouli"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/blog/dior-rouge-trafalgar-review", "name": "Scento - Dior Rouge Trafalgar review", "type": "retailer", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.scento.com/blog/dior-rouge-trafalgar-review",
+          "name": "Scento - Dior Rouge Trafalgar review",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration",
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/dior-rouge-trafalgar-edp",
+          "name": "Venba Fragrance - Dior Rouge Trafalgar EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Venba: most wearers report about 6-8 h, sillage noticeable at first then close to skin; Scento (aggregated user reviews): long-lasting, best for fall and night."
     },
     {
       "name": "Miss Dior",
@@ -96,16 +274,64 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["rose de mai", "rose"],
-        "heart": ["palisander rosewood", "patchouli"],
-        "base": ["vanilla", "tonka bean", "sandalwood", "patchouli"],
+        "top": [
+          "rose de mai",
+          "rose"
+        ],
+        "heart": [
+          "palisander rosewood",
+          "patchouli"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "sandalwood",
+          "patchouli"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-miss-dior-eau-de-parfum-2026", "name": "Vivir - Miss Dior Eau de Parfum 2026", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://vivir.com/article/dior-miss-dior-eau-de-parfum-2026",
+          "name": "Vivir - Miss Dior Eau de Parfum 2026",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/miss-dior-eau-de-parfum-2021-dior",
+          "name": "Scento - Miss Dior Eau de Parfum (2021)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/48968/dior/miss-dior-eau-de-parfum-2021",
+          "name": "Fragplace - Miss Dior Eau de Parfum (2021) FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento (aggregated user reviews): moderate longevity and moderate projection; other pages conflict (fragplace 6-10 h but low sillage, Scent Base about 3 h), so values are tentative."
     },
     {
       "name": "Gris Dior",
@@ -116,16 +342,62 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["bergamot"],
-        "heart": ["rose", "patchouli"],
-        "base": ["oakmoss", "cedar", "amber", "sandalwood"],
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "patchouli"
+        ],
+        "base": [
+          "oakmoss",
+          "cedar",
+          "amber",
+          "sandalwood"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/maison-christian-dior-gris-dior", "name": "Vivir - Maison Christian Dior Gris Dior", "type": "publication", "supports": ["notes", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://vivir.com/article/maison-christian-dior-gris-dior",
+          "name": "Vivir - Maison Christian Dior Gris Dior",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "concentration",
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/gris-dior-dior",
+          "name": "Scento - Gris Dior",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting with strong projection, best for fall and night; Vivir pages disagree (12-16 h in one, moderate longevity and soft sillage in another), so sillage is set moderate."
     },
     {
       "name": "Gris Dior Esprit de Parfum",
@@ -136,16 +408,59 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["bergamot", "pink pepper"],
-        "heart": ["jasmine", "rose"],
-        "base": ["cedarwood", "patchouli", "amber", "oakmoss"],
+        "top": [
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "cedarwood",
+          "patchouli",
+          "amber",
+          "oakmoss"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-gris-dior-esprit-de-parfum", "name": "Vivir - Dior Gris Dior Esprit de Parfum", "type": "publication", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://vivir.com/article/dior-gris-dior-esprit-de-parfum",
+          "name": "Vivir - Dior Gris Dior Esprit de Parfum",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "concentration",
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/dior/dior-gris-esprit-de-parfum/",
+          "name": "The Sniff Test - Dior Gris Dior Esprit de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Review pages quoted in search: typically 8-10 h, sillage moderate to strong, suited to evening wear; several of these pages look templated, so treat as tentative."
     },
     {
       "name": "Ambre Nuit",
@@ -155,12 +470,57 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
-      ]
+        {
+          "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior",
+          "name": "Vivir - Dior La Collection Privee Christian Dior",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://www.scento.com/perfumes/ambre-nuit-dior",
+          "name": "Scento - Dior Ambre Nuit",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-christian-dior-ambre-nuit",
+          "name": "Vivir - Maison Christian Dior Ambre Nuit",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Vivir: about 6-8 h; Scento: strong sillage, best for fall and night; other reviewers call sillage subtle to moderate and suggest cooler weather and evenings."
     },
     {
       "name": "Oud Ispahan",
@@ -170,12 +530,49 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
-      ]
+        {
+          "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior",
+          "name": "Vivir - Dior La Collection Privee Christian Dior",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://www.scentsangel.com/products/oud-ispahan",
+          "name": "Scent's Angel - Christian Dior Oud Ispahan",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.thenonblonde.com/2012/10/dior-oud-ispahan-la-collection-privee.html",
+          "name": "The Non-Blonde - Dior Oud Ispahan (La Collection Privee)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent's Angel listing: 8-12 h; Fraganty: over 8 h; The Non Blonde (2012) calls the sillage a 'sledgehammer', Fragrance Review strong but not overpowering."
     },
     {
       "name": "Vanilla Diorama",
@@ -185,12 +582,49 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
-      ]
+        {
+          "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior",
+          "name": "Vivir - Dior La Collection Privee Christian Dior",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/dior/vanilla-diorama",
+          "name": "The Scent Base - Vanilla Diorama",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/40144/dior/vanilla-diorama?page=2",
+          "name": "Fragplace - Vanilla Diorama",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewers quoted in search report 8-10 h, sillage from intimate to strong; one community database estimates only 4-6 h with intimate projection, so mixed."
     },
     {
       "name": "Sakura",
@@ -200,11 +634,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+        {
+          "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior",
+          "name": "Vivir - Dior La Collection Privee Christian Dior",
+          "type": "publication",
+          "supports": []
+        }
       ]
     },
     {
@@ -215,11 +659,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+        {
+          "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior",
+          "name": "Vivir - Dior La Collection Privee Christian Dior",
+          "type": "publication",
+          "supports": []
+        }
       ]
     },
     {
@@ -230,12 +684,49 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
-      ]
+        {
+          "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior",
+          "name": "Vivir - Dior La Collection Privee Christian Dior",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://www.fragman.com/blogs/fragrance-guide/dior-bois-dargent-edp-review-the-silver-wood-masterpiece-that-flies-under-the-radar",
+          "name": "Fragman - Dior Bois d'Argent EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://besuitedaroma.com/dior-bois-dargent-review/",
+          "name": "Besuited Aroma - Dior Bois d'Argent review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragman and Besuited Aroma reviews: about 6-8 h (6-7 h on skin in one), projection intimate; several reviewers say performance is the weak point for the price."
     },
     {
       "name": "New Look 1947",
@@ -245,11 +736,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
+        {
+          "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior",
+          "name": "Vivir - Dior La Collection Privee Christian Dior",
+          "type": "publication",
+          "supports": []
+        }
       ]
     },
     {
@@ -260,27 +761,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
-      ]
-    },
-    {
-      "name": "Jardin d'Amalfi",
-      "collection": "La Collection Privee Christian Dior",
-      "concentration": null,
-      "releaseYear": null,
-      "perfumer": null,
-      "family": null,
-      "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": "none",
-      "discontinued": false,
-      "sources": [
-        { "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior", "name": "Vivir - Dior La Collection Privee Christian Dior", "type": "publication", "supports": [] }
-      ]
+        {
+          "url": "https://vivir.com/article/dior-la-collection-priv-e-christian-dior",
+          "name": "Vivir - Dior La Collection Privee Christian Dior",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/dior/feve-delicieuse",
+          "name": "The Scent Base - Fève Délicieuse",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: above-average performance, 6+ hours; Parfumo reviewers quoted in search call sillage moderate; one notes the current bottle is softer than older ones."
     }
   ]
 }
