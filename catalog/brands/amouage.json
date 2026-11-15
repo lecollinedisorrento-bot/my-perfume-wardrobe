@@ -3269,6 +3269,53 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Beloved Man",
+      "collection": null,
+      "concentration": null,
+      "releaseYear": 2013,
+      "perfumer": "Alexandra Carlin, Emilie Coppermann",
+      "family": "Woody Oriental",
+      "accords": [],
+      "notes": {
+        "top": [
+          "elemi",
+          "grapefruit",
+          "cardamom",
+          "orange",
+          "pepper"
+        ],
+        "heart": [
+          "saffron",
+          "orris root",
+          "geranium",
+          "jasmine"
+        ],
+        "base": [
+          "cedarwood",
+          "leather",
+          "vetiver",
+          "musk",
+          "guaiac wood",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "name": "Product description supplied by the app owner",
+          "type": "user",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
+      ]
     }
   ]
 }
