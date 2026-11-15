@@ -9,6 +9,8 @@ import { AiLoader, EngineTag, Notice, Segmented, Sheet, Stars } from '../compone
 import { IconShare, IconTrash, IconSparkle } from '../components/Icons';
 import { rankLocalPartners, localLayerSuggestion, type LayerSuggestion } from '../domain/layering';
 import type { Combination, Fragrance } from '../domain/types';
+import { CURATED_AVOID, CURATED_PAIRINGS } from '../domain/pairings';
+import { fragranceKey } from '../domain/fragrance';
 import { familyColor } from '../domain/families';
 import { api, aiErrorMessage, toCollectionItem, toPrefsCtx } from '../services/api';
 import { useAiConsent } from '../components/AiConsent';
@@ -17,6 +19,44 @@ import { shareComboCard } from '../services/shareCard';
 import { vibrate } from '../services/feedback';
 
 type Suggestion = Omit<LayerSuggestion, 'reasonsKeys'> & { reasonsKeys?: string[]; engineLabel: string };
+
+const keyOf = (x: { brand: string; name: string }) => fragranceKey(x);
+
+/** Hand-studied pairings for `primary` whose partner is on the shelf, best first. */
+function curatedFor(primary: Fragrance, shelf: Fragrance[], lang: 'it' | 'en'): Suggestion[] {
+  const me = keyOf(primary);
+  const byKey = new Map(shelf.map((f) => [keyOf(f), f]));
+  return CURATED_PAIRINGS.filter((c) => keyOf(c.base) === me || keyOf(c.top) === me)
+    .map((c): Suggestion | null => {
+      const partner = byKey.get(keyOf(keyOf(c.base) === me ? c.top : c.base));
+      if (!partner) return null;
+      const txt = c[lang];
+      return {
+        primaryId: primary.id,
+        secondaryId: partner.id,
+        order: `${c.base.brand} ${c.base.name} → ${c.top.brand} ${c.top.name}`,
+        sprayDistribution: txt.spray,
+        interaction: `${txt.title} · ${c.bridge.slice(0, 3).join(' · ')}`,
+        impression: txt.feel,
+        occasions: c.occasions,
+        conflicts: '',
+        explanation: txt.why,
+        compatibility: c.score,
+        engine: 'manual',
+        engineLabel: 'curated',
+      };
+    })
+    .filter((s): s is Suggestion => !!s)
+    .sort((a, b) => b.compatibility - a.compatibility);
+}
+
+/** Why two perfumes on the shelf are better not layered (hand-studied), or ''. */
+function avoidNote(a: Fragrance, b: Fragrance, lang: 'it' | 'en'): string {
+  const ka = keyOf(a);
+  const kb = keyOf(b);
+  const hit = CURATED_AVOID.find((x) => (keyOf(x.a) === ka && keyOf(x.b) === kb) || (keyOf(x.a) === kb && keyOf(x.b) === ka));
+  return hit ? hit[lang] : '';
+}
 
 export default function LayerLab() {
   const { fragrances, wears, prefs, combinations, saveCombination } = useStore();
@@ -105,6 +145,7 @@ function NewExperiment({
   const [selected, setSelected] = useState<Suggestion | null>(null);
   const [notice, setNotice] = useState<string | null>(null);
   const [manualOpen, setManualOpen] = useState(false);
+  const curated = useMemo(() => (primary ? curatedFor(primary, fragrances, lang) : []), [primary, fragrances, lang]);
 
   useEffect(() => {
     setSuggestions(null);
@@ -116,7 +157,17 @@ function NewExperiment({
     if (!primary) return;
     setNotice(null);
     const others = fragrances.filter((f) => f.id !== primary.id);
-    const local = (): Suggestion[] => rankLocalPartners(primary, fragrances).slice(0, 5).map((s) => ({ ...s, engineLabel: 'local' }));
+    const curatedIds = new Set(curated.map((c) => c.secondaryId));
+    const withAvoid = (s: Suggestion): Suggestion => {
+      const b = fragrances.find((f) => f.id === s.secondaryId);
+      const why = b ? avoidNote(primary, b, lang) : '';
+      return why ? { ...s, conflicts: why, compatibility: Math.min(s.compatibility, 35) } : s;
+    };
+    const local = (): Suggestion[] =>
+      rankLocalPartners(primary, fragrances)
+        .filter((s) => !curatedIds.has(s.secondaryId))
+        .slice(0, 5)
+        .map((s) => withAvoid({ ...s, engineLabel: 'local' }));
     if (!ai.available) {
       setNotice(ai.reason === 'offline' ? t('ai.offline') : t('ai.notConfigured'));
       setSuggestions(local());
@@ -135,12 +186,16 @@ function NewExperiment({
         lang,
       });
       setSuggestions(
-        res.suggestions.map((s) => ({
-          ...s,
-          primaryId: primary.id,
-          engine: 'ai' as const,
-          engineLabel: res.engine,
-        })),
+        res.suggestions
+          .filter((s) => !curatedIds.has(s.secondaryId))
+          .map((s) =>
+            withAvoid({
+              ...s,
+              primaryId: primary.id,
+              engine: 'ai' as const,
+              engineLabel: res.engine,
+            }),
+          ),
       );
     } catch (e) {
       setNotice(t('ai.error', { msg: aiErrorMessage(e, lang) }));
@@ -196,6 +251,42 @@ function NewExperiment({
           ))}
         </div>
       </div>
+
+      {primary && curated.length > 0 && (
+        <section data-testid="curated-pairings">
+          <h2 className="h-sec">{t('lab.curated')}</h2>
+          <p className="tiny dim" style={{ marginTop: -6, marginBottom: 10 }}>
+            {t('lab.curatedSub')}
+          </p>
+          <div className="stack" style={{ ['--gap' as string]: '10px' }}>
+            {curated.map((s) => {
+              const b = fragrances.find((f) => f.id === s.secondaryId)!;
+              return (
+                <button key={s.secondaryId} className="card card-press sugg" onClick={() => setSelected(s)} data-testid="curated-suggestion">
+                  <span className="sugg-bottles">
+                    <BottleImage fragrance={primary} />
+                    <span className="plus display">+</span>
+                    <BottleImage fragrance={b} />
+                  </span>
+                  <span style={{ minWidth: 0, flex: 1 }}>
+                    <strong className="display-lc" style={{ fontSize: 16, display: 'block' }}>
+                      {b.name}
+                    </strong>
+                    <span className="tiny dim">{b.brand}</span>
+                    <span className="small" style={{ display: 'block', marginTop: 4 }}>
+                      {s.interaction}
+                    </span>
+                  </span>
+                  <ScoreDial value={s.compatibility} />
+                </button>
+              );
+            })}
+          </div>
+          <div style={{ marginTop: 10 }}>
+            <EngineTag engine="curated" />
+          </div>
+        </section>
+      )}
 
       {primary && (
         <div className="row">
@@ -276,7 +367,10 @@ function NewExperiment({
                   style={{ justifyContent: 'flex-start' }}
                   onClick={() => {
                     setManualOpen(false);
-                    setSelected({ ...localLayerSuggestion(primary, f), engine: 'manual', engineLabel: 'local' });
+                    const cur = curated.find((c) => c.secondaryId === f.id);
+                    const why = avoidNote(primary, f, lang);
+                    const s: Suggestion = cur ?? { ...localLayerSuggestion(primary, f), engine: 'manual', engineLabel: 'local' };
+                    setSelected(why ? { ...s, conflicts: why, compatibility: Math.min(s.compatibility, 35) } : s);
                   }}
                 >
                   {f.brand} — {f.name}
