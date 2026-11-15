@@ -15,12 +15,63 @@
       "perfumer": null,
       "family": "Gourmand",
       "accords": [],
-      "notes": { "top": ["bergamot", "juniper", "yuzu", "ginger"], "heart": ["iris", "cucumber", "sage", "sea salt accord"], "base": ["akigalawood", "tonka bean", "vanilla", "musk", "ambrofix"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "juniper",
+          "yuzu",
+          "ginger"
+        ],
+        "heart": [
+          "iris",
+          "cucumber",
+          "sage",
+          "sea salt accord"
+        ],
+        "base": [
+          "akigalawood",
+          "tonka bean",
+          "vanilla",
+          "musk",
+          "ambrofix"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/khamrah-waha", "name": "Lattafa India - Khamrah Waha", "type": "official", "supports": ["notes", "family"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/khamrah-waha",
+          "name": "Lattafa India - Khamrah Waha",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-perfumes-khamrah-waha",
+          "name": "Vivir — Lattafa Khamrah Waha review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review scores it about 3.5/5 longevity and 3.0/5 sillage, moderate projection, 'not a powerhouse'; another reviewer calls it long lasting for a summer scent; Parfumo averages ~7/10."
     },
     {
       "name": "Yara",
@@ -30,12 +81,55 @@
       "perfumer": null,
       "family": "Sweet Fruity Floral",
       "accords": [],
-      "notes": { "top": ["tangerine", "heliotrope", "orchid"], "heart": ["tropical notes", "gourmand"], "base": ["vanilla", "sandalwood", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "tangerine",
+          "heliotrope",
+          "orchid"
+        ],
+        "heart": [
+          "tropical notes",
+          "gourmand"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/yara", "name": "Lattafa India - Yara", "type": "official", "supports": ["notes", "family"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/yara",
+          "name": "Lattafa India - Yara",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.fragplace.com/fragrances/12495/lattafa-perfumes/yara",
+          "name": "Fragplace — Yara by Lattafa Perfumes FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search summary of several pages: most reviews put longevity near 4-6 h (retailer pages claim 8-10 h), sillage moderate and front-loaded over the first 2-3 hours."
     },
     {
       "name": "Fahad",
@@ -45,12 +139,56 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["mandarin", "pineapple", "black pepper"], "heart": ["orange blossom", "lavender", "artemisia"], "base": ["incense", "patchouli", "cedarwood", "ambroxan"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "pineapple",
+          "black pepper"
+        ],
+        "heart": [
+          "orange blossom",
+          "lavender",
+          "artemisia"
+        ],
+        "base": [
+          "incense",
+          "patchouli",
+          "cedarwood",
+          "ambroxan"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/fahad", "name": "Lattafa India - Fahad", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/fahad",
+          "name": "Lattafa India - Fahad",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-fahad",
+          "name": "Vivir — Lattafa Fahad review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir reviews rate longevity 3.5-4/5 and sillage 3/5 (loud ~2 h then skin scent, longevity called the weak point, varies by skin); Parfumo averages ~7.3/10 for both."
     },
     {
       "name": "Mashrabya",
@@ -60,12 +198,66 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["apple shisha accord", "pink pepper"], "heart": ["cinnamon", "dates", "tobacco"], "base": ["vanilla", "caramel", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "apple shisha accord",
+          "pink pepper"
+        ],
+        "heart": [
+          "cinnamon",
+          "dates",
+          "tobacco"
+        ],
+        "base": [
+          "vanilla",
+          "caramel",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/mashrabya", "name": "Lattafa India - Mashrabya", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/mashrabya",
+          "name": "Lattafa India - Mashrabya",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/94882/lattafa-perfumes/mashrabya",
+          "name": "Fragplace — Mashrabya by Lattafa Perfumes FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/perfumes//mashrabya/",
+          "name": "Lattafa Malaysia — Mashrabya",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace/aggregators: longevity typically 6-10 h; sillage described as moderate to strong; a Malaysian retailer says 6-8 h; performs best in cooler weather."
     },
     {
       "name": "Asad Elixir",
@@ -75,12 +267,71 @@
       "perfumer": null,
       "family": "Oriental Woody",
       "accords": [],
-      "notes": { "top": ["pink pepper", "saffron", "grapefruit"], "heart": ["tobacco", "cedarwood", "vanilla"], "base": ["patchouli", "olibanum", "cashmeran", "dry amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper",
+          "saffron",
+          "grapefruit"
+        ],
+        "heart": [
+          "tobacco",
+          "cedarwood",
+          "vanilla"
+        ],
+        "base": [
+          "patchouli",
+          "olibanum",
+          "cashmeran",
+          "dry amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/asad-elixir", "name": "Lattafa India - Asad Elixir", "type": "official", "supports": ["notes", "family"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/asad-elixir",
+          "name": "Lattafa India - Asad Elixir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-asad-elixir",
+          "name": "Vivir — Lattafa Asad Elixir review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.jameela.my/perfumes//asad-elixir",
+          "name": "Jameela — Asad Elixir",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Vivir and a Parfumo reviewer report 8-10 h on skin, Jameela (Malaysian retailer) says 6-8 h; sillage described as strong; reviewers suggest cooler weather and evenings."
     },
     {
       "name": "Sheikh Al Shuyukh Supreme",
@@ -90,12 +341,59 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["cinnamon", "rose", "saffron"], "heart": ["caramel", "patchouli"], "base": ["woody notes", "ambroxan", "vanilla", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "cinnamon",
+          "rose",
+          "saffron"
+        ],
+        "heart": [
+          "caramel",
+          "patchouli"
+        ],
+        "base": [
+          "woody notes",
+          "ambroxan",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/sheikh-al-shuyukh-supreme", "name": "Lattafa India - Sheikh Al Shuyukh Supreme", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/sheikh-al-shuyukh-supreme",
+          "name": "Lattafa India - Sheikh Al Shuyukh Supreme",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/sheikh-al-shuyukh-supreme-longevity-performance/",
+          "name": "Lattafa Malaysia — Sheikh Al Shuyukh Supreme longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Lattafa Malaysia blog: up to 8 h with moderate projection, suited to evenings/special occasions; other retailers say 8-10 h with moderate-to-strong sillage; ScentVerdict lists 6-10 h."
     },
     {
       "name": "Yara Elixir",
@@ -105,12 +403,63 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["strawberry", "black currant"], "heart": ["jasmine", "orange flower"], "base": ["vanilla", "caramel", "amber", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "strawberry",
+          "black currant"
+        ],
+        "heart": [
+          "jasmine",
+          "orange flower"
+        ],
+        "base": [
+          "vanilla",
+          "caramel",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/yara-elixir", "name": "Lattafa India - Yara Elixir", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/yara-elixir",
+          "name": "Lattafa India - Yara Elixir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/yara-elixir-longevity-performance/",
+          "name": "Lattafa Malaysia — Yara Elixir longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/latafa-yara-elixir",
+          "name": "Vivir — Lattafa Yara Elixir review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listings give 6-8 h (one 4-8 h) and moderate-to-strong sillage that settles close to skin; Vivir scores about 3.8 longevity and 3.5 sillage out of 5."
     },
     {
       "name": "Yara Tous",
@@ -120,12 +469,64 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["coconut", "mango", "passionfruit"], "heart": ["jasmine", "heliotrope", "orange blossom"], "base": ["cashmeran", "vanilla", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "coconut",
+          "mango",
+          "passionfruit"
+        ],
+        "heart": [
+          "jasmine",
+          "heliotrope",
+          "orange blossom"
+        ],
+        "base": [
+          "cashmeran",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/yara-tous", "name": "Lattafa India - Yara Tous", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/yara-tous",
+          "name": "Lattafa India - Yara Tous",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-yara-tous-hamra",
+          "name": "Vivir — Lattafa Yara Tous review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://dupe.com/reports/the-best-lattafa-yara-perfume",
+          "name": "Dupe.com — The best Lattafa Yara perfume",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir gives 4.0/5 longevity and 3.0/5 sillage; Dupe.com claims 8-10 h on skin with the softest sillage of the Yara line; Parfumo averages about 7/10 for both."
     },
     {
       "name": "Nasmaat",
@@ -135,12 +536,66 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["blackcurrant", "pineapple", "apricot"], "heart": ["magnolia", "orange blossom", "rose", "cyclamen", "jasmine"], "base": ["caramel", "vanilla", "sandalwood", "cashmeran"], "flat": [] },
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "pineapple",
+          "apricot"
+        ],
+        "heart": [
+          "magnolia",
+          "orange blossom",
+          "rose",
+          "cyclamen",
+          "jasmine"
+        ],
+        "base": [
+          "caramel",
+          "vanilla",
+          "sandalwood",
+          "cashmeran"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/nasmaat", "name": "Lattafa India - Nasmaat", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/nasmaat",
+          "name": "Lattafa India - Nasmaat",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-perfumes-nasmaat",
+          "name": "Vivir — Lattafa Nasmaat review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/lattafa/lattafa-nasmaat-perfume",
+          "name": "FragranceX — Lattafa Nasmaat",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: longevity 4.0/5, sillage 3.0/5; FragranceX listing claims 8-12 h on skin; retailer copy describes balanced projection."
     },
     {
       "name": "Layaan",
@@ -150,12 +605,54 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["green pear", "mandarin"], "heart": ["gardenia", "jasmine", "muguet"], "base": ["cedarwood", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "green pear",
+          "mandarin"
+        ],
+        "heart": [
+          "gardenia",
+          "jasmine",
+          "muguet"
+        ],
+        "base": [
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/layaan", "name": "Lattafa India - Layaan", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/layaan",
+          "name": "Lattafa India - Layaan",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/layaan-longevity-performance/",
+          "name": "Lattafa Malaysia — Layaan longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Lattafa Malaysia test: roughly 6-8 h on skin, soft to moderate projection of about 2-3 feet; Malaysian retailer says the same 6-8 h."
     },
     {
       "name": "Ameer Al Arab Imperium",
@@ -165,12 +662,59 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "sage", "ginger"], "heart": ["geranium", "cashmeran", "apple"], "base": ["amber", "musk", "sandalwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "sage",
+          "ginger"
+        ],
+        "heart": [
+          "geranium",
+          "cashmeran",
+          "apple"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/ameer-al-arab-imperium", "name": "Lattafa India - Ameer Al Arab Imperium", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/ameer-al-arab-imperium",
+          "name": "Lattafa India - Ameer Al Arab Imperium",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.jameela.my/perfumes//ameer-al-arab-imperium",
+          "name": "Jameela — Ameer Al Arab Imperium",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listings (Jameela, Lattafa Malaysia and others) give roughly 6-8 h and moderate projection; one source says it shines in fall and winter."
     },
     {
       "name": "Ana Abiyedh Scarlet",
@@ -180,12 +724,55 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["black cherry", "pink pepper"], "heart": ["white rose", "peony", "tonka bean", "nutmeg"], "base": ["patchouli", "crystal caramel sugar", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "black cherry",
+          "pink pepper"
+        ],
+        "heart": [
+          "white rose",
+          "peony",
+          "tonka bean",
+          "nutmeg"
+        ],
+        "base": [
+          "patchouli",
+          "crystal caramel sugar",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/ana-abiyedh-scarlet", "name": "Lattafa India - Ana Abiyedh Scarlet", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/ana-abiyedh-scarlet",
+          "name": "Lattafa India - Ana Abiyedh Scarlet",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://arabicparfums.com/en/products/ana-abiyedh-scarlet-lattafa",
+          "name": "Arabic Parfums — Ana Abiyedh Scarlet",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listings give 6-8 h with moderate-to-strong sillage (one claims 8-12 h); a Parfumo reviewer reports about 8 h on skin, longer on clothing."
     },
     {
       "name": "Dynasty",
@@ -195,12 +782,56 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "ginger", "clary sage", "nutmeg", "raspberry"], "heart": ["rooibos tea", "suede"], "base": ["amberwood", "cedarwood", "cashmeran"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "ginger",
+          "clary sage",
+          "nutmeg",
+          "raspberry"
+        ],
+        "heart": [
+          "rooibos tea",
+          "suede"
+        ],
+        "base": [
+          "amberwood",
+          "cedarwood",
+          "cashmeran"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/dynasty", "name": "Lattafa India - Dynasty", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/dynasty",
+          "name": "Lattafa India - Dynasty",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://beautyboothqa.com/product/lattafa-dynasty-edp-spray-fragrances-for-unisex--100ml",
+          "name": "Beauty Booth Qatar — Lattafa Dynasty EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviewers report about 8-9 h on skin and up to next day on clothing, projection varies from close to skin to above average; one listing claims 7-9 h with strong sillage."
     },
     {
       "name": "Khamrah Dukhan",
@@ -210,12 +841,58 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["mandarin", "pimento", "smoked spices"], "heart": ["cistus", "orange flower", "incense", "patchouli"], "base": ["tobacco", "amber", "tonka bean", "benzoin", "praline"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "pimento",
+          "smoked spices"
+        ],
+        "heart": [
+          "cistus",
+          "orange flower",
+          "incense",
+          "patchouli"
+        ],
+        "base": [
+          "tobacco",
+          "amber",
+          "tonka bean",
+          "benzoin",
+          "praline"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/khamrah-dukhan", "name": "Lattafa India - Khamrah Dukhan", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/khamrah-dukhan",
+          "name": "Lattafa India - Khamrah Dukhan",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://perfumes.la/products/khamrah-dukhan-by-lattafa-for-unisex-3-4-oz-edp-spray",
+          "name": "Perfumes.la — Khamrah Dukhan EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "A Parfumo reviewer finds 6-9 h on skin with above-average sillage, another rates longevity 10/10 and sillage 8/10; a retailer lists sillage as moderate to strong."
     },
     {
       "name": "Qaa'ed",
@@ -225,12 +902,65 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["cinnamon", "cardamom", "bergamot"], "heart": ["saffron", "sandalwood", "cedar", "carnation"], "base": ["vanilla", "agarwood", "amber", "leather"], "flat": [] },
+      "notes": {
+        "top": [
+          "cinnamon",
+          "cardamom",
+          "bergamot"
+        ],
+        "heart": [
+          "saffron",
+          "sandalwood",
+          "cedar",
+          "carnation"
+        ],
+        "base": [
+          "vanilla",
+          "agarwood",
+          "amber",
+          "leather"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/qaaed", "name": "Lattafa India - Qaa'ed", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/qaaed",
+          "name": "Lattafa India - Qaa'ed",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-qaa-ed",
+          "name": "Vivir — Lattafa Qaa'ed review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/lattafa/lattafa-qaaed/women-perfume",
+          "name": "Perfume.com — Lattafa Qaaed",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume.com says the EDP typically lasts 8-12 h, Vivir about 6-8 h with moderate projection (arm's length for 2-3 h); Parfumo averages about 8/10 for both."
     },
     {
       "name": "Qaed Al Fursan Black",
@@ -240,11 +970,34 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["saffron", "pineapple"], "heart": ["jasmine", "fir balsam"], "base": ["oud wood", "cedarwood", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "saffron",
+          "pineapple"
+        ],
+        "heart": [
+          "jasmine",
+          "fir balsam"
+        ],
+        "base": [
+          "oud wood",
+          "cedarwood",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/qaed-al-fursan-black", "name": "Lattafa India - Qaed Al Fursan Black", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.lattafaindia.com/products/qaed-al-fursan-black",
+          "name": "Lattafa India - Qaed Al Fursan Black",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -255,12 +1008,56 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["pineapple", "citrus", "coconut"], "heart": ["jasmine", "frangipani", "ylang"], "base": ["vanilla", "white musk", "sandalwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "pineapple",
+          "citrus",
+          "coconut"
+        ],
+        "heart": [
+          "jasmine",
+          "frangipani",
+          "ylang"
+        ],
+        "base": [
+          "vanilla",
+          "white musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/qaed-al-fursan-unlimited-white", "name": "Lattafa India - Qaed Al Fursan Unlimited White", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/qaed-al-fursan-unlimited-white",
+          "name": "Lattafa India - Qaed Al Fursan Unlimited White",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/6031/lattafa-perfumes/qaed-al-fursan-unlimited",
+          "name": "Fragplace — Qaed Al Fursan Unlimited FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search results found only 'Qaed Al Fursan Unlimited' (white-and-gold bottle): Fragplace 6-10 h with intimate sillage, Vivir 3/5 for both, Parfumo reviewer 9/10 longevity and 8/10 sillage."
     },
     {
       "name": "Eclaire Banoffi",
@@ -270,12 +1067,64 @@
       "perfumer": null,
       "family": "Gourmand",
       "accords": [],
-      "notes": { "top": ["banana cream", "whipped cream", "pastry cream"], "heart": ["banana", "dulce de leche accord"], "base": ["vanilla", "praline", "biscuit", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "banana cream",
+          "whipped cream",
+          "pastry cream"
+        ],
+        "heart": [
+          "banana",
+          "dulce de leche accord"
+        ],
+        "base": [
+          "vanilla",
+          "praline",
+          "biscuit",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/eclaire-banoffi", "name": "Lattafa India - Eclaire Banoffi", "type": "official", "supports": ["notes", "family"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/eclaire-banoffi",
+          "name": "Lattafa India - Eclaire Banoffi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/eclaire-banoffi-longevity-performance/",
+          "name": "Lattafa Malaysia — Eclaire Banoffi longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.jameela.my/perfumes//eclaire-banoffi",
+          "name": "Jameela — Eclaire Banoffi",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listings give 6-8 h; Lattafa Malaysia test says 8-10 h with projection of about 2-3 feet; sillage described as moderate; Parfumo averages about 7/10."
     },
     {
       "name": "Eclaire Pistache",
@@ -285,12 +1134,62 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["pistachio cream", "toasted pistachio"], "heart": ["pastry cream", "coconut", "cacao"], "base": ["vanilla", "milk", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "pistachio cream",
+          "toasted pistachio"
+        ],
+        "heart": [
+          "pastry cream",
+          "coconut",
+          "cacao"
+        ],
+        "base": [
+          "vanilla",
+          "milk",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/eclaire-pistache", "name": "Lattafa India - Eclaire Pistache", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/eclaire-pistache",
+          "name": "Lattafa India - Eclaire Pistache",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.jameela.my/perfumes//eclaire-pistache",
+          "name": "Jameela — Eclaire Pistache",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/lattafa/lattafa-eclaire-pistache/women-perfume",
+          "name": "Perfume.com — Lattafa Eclaire Pistache",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume.com lists about 6-8 h; Jameela says long-lasting with moderate, noticeable sillage; a Parfumo reviewer gives 8/10 longevity and 7/10 sillage, another calls it weak."
     },
     {
       "name": "Velvet Oud",
@@ -300,12 +1199,59 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["cardamom", "bergamot"], "heart": ["violet leaf", "patchouli"], "base": ["suede", "oud", "amber musk", "oak moss"], "flat": [] },
+      "notes": {
+        "top": [
+          "cardamom",
+          "bergamot"
+        ],
+        "heart": [
+          "violet leaf",
+          "patchouli"
+        ],
+        "base": [
+          "suede",
+          "oud",
+          "amber musk",
+          "oak moss"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/velvet-oud", "name": "Lattafa India - Velvet Oud", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/velvet-oud",
+          "name": "Lattafa India - Velvet Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/velvet-oud-longevity-performance/",
+          "name": "Lattafa Malaysia — Velvet Oud longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Lattafa Malaysia blog: 8-10 h on skin with moderate projection; retailers claim 8-12 h and moderate-to-strong sillage; reviewers say it suits fall and winter; one reviewer got about 9 h."
     },
     {
       "name": "The Kingdom Man",
@@ -315,12 +1261,55 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["sage", "lavender", "mint"], "heart": ["tobacco", "vanilla", "orange flower"], "base": ["benzoin", "tonka bean", "labdanum"], "flat": [] },
+      "notes": {
+        "top": [
+          "sage",
+          "lavender",
+          "mint"
+        ],
+        "heart": [
+          "tobacco",
+          "vanilla",
+          "orange flower"
+        ],
+        "base": [
+          "benzoin",
+          "tonka bean",
+          "labdanum"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/the-kingdom-man", "name": "Lattafa India - The Kingdom Man", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/the-kingdom-man",
+          "name": "Lattafa India - The Kingdom Man",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/94377/lattafa-perfumes/the-kingdom-for-men",
+          "name": "Fragplace — The Kingdom For Men FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: typically 6-10 h with strong projection; Brotherhood of Scent reviewer 8-10 h, strongest in the first hour; retailers claim 7-9 h; Parfumo averages about 8/10."
     },
     {
       "name": "The Kingdom Women",
@@ -330,12 +1319,64 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["blackcurrant", "peony", "pear"], "heart": ["jasmine", "praline", "tonka bean"], "base": ["vanilla", "sandalwood", "amber", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "peony",
+          "pear"
+        ],
+        "heart": [
+          "jasmine",
+          "praline",
+          "tonka bean"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/the-kingdom-women", "name": "Lattafa India - The Kingdom Women", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/the-kingdom-women",
+          "name": "Lattafa India - The Kingdom Women",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/the-kingdom-women-note-breakdown/",
+          "name": "Lattafa Malaysia — The Kingdom Women",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://zaoud.it/products/lattafa-the-kingdom-for-women-edp",
+          "name": "Zaoud — Lattafa The Kingdom for Women EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Lattafa Malaysia blog says 8-10 h on skin; Zaoud describes moderate sillage; Parfumo averages about 7.6/10 longevity and 7.2/10 sillage; one table lists 4-6 h."
     },
     {
       "name": "Raghba For Man",
@@ -345,11 +1386,34 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["lemon verbena", "iris", "lemon"], "heart": ["violet leaf"], "base": ["sandalwood", "ambergris", "leather", "cedar"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon verbena",
+          "iris",
+          "lemon"
+        ],
+        "heart": [
+          "violet leaf"
+        ],
+        "base": [
+          "sandalwood",
+          "ambergris",
+          "leather",
+          "cedar"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/raghba-for-man", "name": "Lattafa India - Raghba For Man", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://www.lattafaindia.com/products/raghba-for-man",
+          "name": "Lattafa India - Raghba For Man",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -360,12 +1424,67 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["caramel", "licorice", "guaiac wood", "cedar"], "heart": ["agarwood", "sugar", "sandalwood", "cashmere wood"], "base": ["incense", "vanilla", "amber", "oakmoss", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "caramel",
+          "licorice",
+          "guaiac wood",
+          "cedar"
+        ],
+        "heart": [
+          "agarwood",
+          "sugar",
+          "sandalwood",
+          "cashmere wood"
+        ],
+        "base": [
+          "incense",
+          "vanilla",
+          "amber",
+          "oakmoss",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/raghba-wood-intense", "name": "Lattafa India - Raghba Wood Intense", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/raghba-wood-intense",
+          "name": "Lattafa India - Raghba Wood Intense",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/29745/lattafa-perfumes/raghba-wood-intense",
+          "name": "Fragplace — Raghba Wood Intense FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/lattafa-perfumes-raghba-wood-intense-eau-de-parfum",
+          "name": "Scents Angel — Raghba Wood Intense EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: typically 6-10 h with strong, noticeable projection; Scents Angel claims 8-12 h, moderate to strong; Parfumo averages about 8.4/10 longevity and 7.9/10 sillage."
     },
     {
       "name": "Oud Mood",
@@ -375,12 +1494,66 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["nutmeg", "cinnamon", "bark saffron"], "heart": ["sandalwood", "oud wood", "leather"], "base": ["vanilla", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "nutmeg",
+          "cinnamon",
+          "bark saffron"
+        ],
+        "heart": [
+          "sandalwood",
+          "oud wood",
+          "leather"
+        ],
+        "base": [
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/oud-mood", "name": "Lattafa India - Oud Mood", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/oud-mood",
+          "name": "Lattafa India - Oud Mood",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-oud-mood",
+          "name": "Vivir — Lattafa Oud Mood review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.jameela.my/perfumes//oud-mood",
+          "name": "Jameela — Oud Mood",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: 8-10 h with strong persistent sillage; another review 8-12 h; Jameela says moderate sillage; Parfumo averages about 8.5/10 longevity and 8.2/10 sillage; reviewers say it thrives in cooler weather."
     },
     {
       "name": "Her Confession",
@@ -390,12 +1563,56 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["accord", "cinnamon", "mystikal"], "heart": ["jasmine", "tuberose", "incense", "mahonial"], "base": ["tonka bean", "musk", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "accord",
+          "cinnamon",
+          "mystikal"
+        ],
+        "heart": [
+          "jasmine",
+          "tuberose",
+          "incense",
+          "mahonial"
+        ],
+        "base": [
+          "tonka bean",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/her-confession-for-women", "name": "Lattafa India - Her Confession", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/her-confession-for-women",
+          "name": "Lattafa India - Her Confession",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-her-confession",
+          "name": "Vivir — Lattafa Her Confession review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Review pages and retailer guides give about 6-8 h (7-9 h in one guide); sillage moderate at first, softening after the first hour; Parfumo reviewers report 6-8 h."
     },
     {
       "name": "His Confession",
@@ -405,12 +1622,67 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["mandarin", "cinnamon", "lavender"], "heart": ["iris", "cypress", "benzoin", "mahonial"], "base": ["vanilla", "tonka bean", "patchouli", "cedarwood", "incense", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "cinnamon",
+          "lavender"
+        ],
+        "heart": [
+          "iris",
+          "cypress",
+          "benzoin",
+          "mahonial"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "patchouli",
+          "cedarwood",
+          "incense",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/his-confession-for-men", "name": "Lattafa India - His Confession", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/his-confession-for-men",
+          "name": "Lattafa India - His Confession",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/his-confession-longevity-performance/",
+          "name": "Lattafa Malaysia — His Confession longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.jameela.my/perfumes//his-confession",
+          "name": "Jameela — His Confession",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailers and users give 6-10 h of usable wear (one reviewer about 7 h); Lattafa blog claims 8-10 h; sillage described as moderate."
     },
     {
       "name": "Maahir Legancy",
@@ -420,12 +1692,69 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["lime", "grapefruit", "lavender", "spearmint", "pineapple"], "heart": ["juniper berry", "rosemary", "olibanum resinoid", "geranium", "black pepper"], "base": ["vetiver", "cashmeran", "ambrox", "oak moss", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "lime",
+          "grapefruit",
+          "lavender",
+          "spearmint",
+          "pineapple"
+        ],
+        "heart": [
+          "juniper berry",
+          "rosemary",
+          "olibanum resinoid",
+          "geranium",
+          "black pepper"
+        ],
+        "base": [
+          "vetiver",
+          "cashmeran",
+          "ambrox",
+          "oak moss",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/maahir-legancy", "name": "Lattafa India - Maahir Legancy", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/maahir-legancy",
+          "name": "Lattafa India - Maahir Legancy",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/maahir-legacy-longevity-performance/",
+          "name": "Lattafa Malaysia — Maahir Legacy longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-maahir-legacy",
+          "name": "Vivir — Lattafa Maahir Legacy",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search results are for 'Maahir Legacy': retailer says 6-8 h with moderate sillage, Lattafa blog claims 8-10 h and moderate-to-strong projection, community scores about 4.0/5 longevity and 3.8/5 sillage."
     },
     {
       "name": "Mohra",
@@ -435,12 +1764,67 @@
       "perfumer": null,
       "family": "Floral Woody",
       "accords": [],
-      "notes": { "top": ["bergamot", "blood orange", "lavender", "saffron"], "heart": ["rose", "black pepper", "cashmeran"], "base": ["cedarwood", "sandalwood", "patchouli", "cistus labdanum", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "blood orange",
+          "lavender",
+          "saffron"
+        ],
+        "heart": [
+          "rose",
+          "black pepper",
+          "cashmeran"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "patchouli",
+          "cistus labdanum",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/mohra", "name": "Lattafa India - Mohra", "type": "official", "supports": ["notes", "family"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/mohra",
+          "name": "Lattafa India - Mohra",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en-CA/fragrances/73925/lattafa-perfumes/mohra",
+          "name": "Fragplace — Mohra by Lattafa Perfumes FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/perfumes//mohra/",
+          "name": "Lattafa Malaysia — Mohra",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace user data: typically 6-10 h with moderate sillage close to the skin; Lattafa Malaysia lists 8-10 h and moderate projection (original Mohra, not Silky Rose)."
     },
     {
       "name": "Hayaati Gold Elixir",
@@ -450,12 +1834,65 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["grapefruit", "bergamot", "cassis"], "heart": ["peach", "saffron", "leather"], "base": ["vetiver", "vanilla", "musk", "amber accord"], "flat": [] },
+      "notes": {
+        "top": [
+          "grapefruit",
+          "bergamot",
+          "cassis"
+        ],
+        "heart": [
+          "peach",
+          "saffron",
+          "leather"
+        ],
+        "base": [
+          "vetiver",
+          "vanilla",
+          "musk",
+          "amber accord"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/hayaati-gold-elixir", "name": "Lattafa India - Hayaati Gold Elixir", "type": "official", "supports": ["notes", "year"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/hayaati-gold-elixir",
+          "name": "Lattafa India - Hayaati Gold Elixir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/hayaati-gold-elixir-longevity-performance/",
+          "name": "Lattafa Malaysia — Hayaati Gold Elixir longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://arabicparfums.com/en/collections/perfumes-unisex/products/hayaati-gold-elixir-lattafa",
+          "name": "Arabic Parfums — Hayaati Gold Elixir",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailers give 6-8 h up to 8-12 h with mostly moderate sillage; the Lattafa Malaysia blog covers its longevity test; independent feedback thin."
     },
     {
       "name": "Jasoor",
@@ -465,12 +1902,65 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "cardamom", "apple"], "heart": ["lavender", "tobacco", "geranium"], "base": ["leather", "tonka", "patchouli", "vetiver"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom",
+          "apple"
+        ],
+        "heart": [
+          "lavender",
+          "tobacco",
+          "geranium"
+        ],
+        "base": [
+          "leather",
+          "tonka",
+          "patchouli",
+          "vetiver"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/jasoor", "name": "Lattafa India - Jasoor", "type": "official", "supports": ["notes", "year"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/jasoor",
+          "name": "Lattafa India - Jasoor",
+          "type": "official",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/73917/lattafa-perfumes/jasoor",
+          "name": "Fragplace — Jasoor by Lattafa Perfumes FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/jasoor-longevity-performance/",
+          "name": "Lattafa Malaysia — Jasoor longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: typically 6-10 h; retailers 6-8 h with moderate sillage; Lattafa blog 8-10 h with balanced sillage; individual users report about 5-8 h."
     },
     {
       "name": "Najdia Tribute",
@@ -480,12 +1970,59 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "mandarin orange", "apple", "ginger"], "heart": ["violet leaf", "guaiac wood", "saffron", "cedar"], "base": ["leather", "ambergris", "agarwood", "sandalwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin orange",
+          "apple",
+          "ginger"
+        ],
+        "heart": [
+          "violet leaf",
+          "guaiac wood",
+          "saffron",
+          "cedar"
+        ],
+        "base": [
+          "leather",
+          "ambergris",
+          "agarwood",
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/najdia-tribute-new", "name": "Lattafa India - Najdia Tribute", "type": "official", "supports": ["notes", "year"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/najdia-tribute-new",
+          "name": "Lattafa India - Najdia Tribute",
+          "type": "official",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.lattafa.my/blog/product-guide/najdia-tribute-longevity-performance/",
+          "name": "Lattafa Malaysia — Najdia Tribute longevity and projection test",
+          "type": "official",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewers report 7-10 h on skin; Lattafa Malaysia blog describes moderate sillage; reviewers say projection is strongest in the first 2 h."
     },
     {
       "name": "Pride Art of Arabia I",
@@ -495,12 +2032,62 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "mint"], "heart": ["black tea", "ginger", "lavender"], "base": ["ambroxan", "frankincense", "cinnamon"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "mint"
+        ],
+        "heart": [
+          "black tea",
+          "ginger",
+          "lavender"
+        ],
+        "base": [
+          "ambroxan",
+          "frankincense",
+          "cinnamon"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lattafaindia.com/products/pride-art-of-arabia-i", "name": "Lattafa India - Pride Art of Arabia I", "type": "official", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://www.lattafaindia.com/products/pride-art-of-arabia-i",
+          "name": "Lattafa India - Pride Art of Arabia I",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://beautyboothqa.com/product/lattafa-pride-art-of-arabia-i-eau-de-parfum-for-unisex-100ml",
+          "name": "Beauty Booth Qatar — Lattafa Pride Art of Arabia I EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/lattafa-art-of-arabia-i",
+          "name": "Vivir — Lattafa Art of Arabia I",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listing claims 8-12 h and strong sillage; an aggregator describes projection as moderate with above-average staying power; Parfumo averages about 7.1/10 for both."
     }
   ]
 }
