@@ -101,8 +101,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://manforhimself.com/products/tom-ford-ombre-leather-parfum-review-2021",
+          "name": "Man For Himself — Tom Ford Ombre Leather Parfum review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/ombre-leather-parfum",
+          "name": "The Scent Base — Ombré Leather Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Manforhimself review: 4/5 for both longevity and sillage; The Scent Base: 6+ hours with good projection; a Parfumo note puts it near 7 hours with average sillage."
     },
     {
       "name": "Ombré Leather Reserve",
@@ -135,8 +162,50 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-ombre-leather-reserve",
+          "name": "Vivir — Tom Ford Ombre Leather Reserve",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/ombre-leather-reserve-tom-ford",
+          "name": "Scento — Ombré Leather Reserve",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.attitude.co.uk/style/tom-ford-ombre-leather-reserve-531936/",
+          "name": "Attitude — Tom Ford reworks a cult classic with Ombré Leather Reserve",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Vivir review: longevity 4.0/5, sillage 3.0/5; Attitude: lasts well into eight hours; Scento (aggregated reviews): long-lasting, best in fall/winter and for evening/night."
     },
     {
       "name": "Eau d'Ombré Leather",
@@ -170,8 +239,39 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/28637/tom-ford/eau-dombre-leather",
+          "name": "Fragplace — Eau d'Ombré Leather FAQ",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/eau-d-ombre-leather",
+          "name": "The Scent Base — Eau d'Ombré Leather",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace FAQ: about 4-6 hours, moderate sillage close to the skin, best in fall/winter; The Scent Base: intimate projection; one on-skin test found only 3-4 hours."
     },
     {
       "name": "Eau De Grey Vetiver",
@@ -204,8 +304,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-eau-de-grey-vetiver",
+          "name": "Vivir — Tom Ford Eau de Grey Vetiver",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review of the 2026 EDT: moderate longevity, scored 4.0/5 for longevity and 3.5/5 for sillage; no aggregated user ratings yet."
     },
     {
       "name": "Grey Vetiver Eau de Parfum",
@@ -239,8 +358,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://m.johnlewis.com/tom-ford-grey-vetiver-eau-de-parfum-50ml/p/96358",
+          "name": "John Lewis — Tom Ford Grey Vetiver Eau de Parfum 50ml",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-grey-vetiver-edp-review",
+          "name": "Vivir — Tom Ford Grey Vetiver",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "John Lewis listing: longevity 'Long-Lasting', intensity moderate; Vivir review: longevity 4.0/5, sillage 3.2/5; some reviewers say it fades after about 4 hours."
     },
     {
       "name": "Grey Vetiver Parfum",
@@ -274,8 +420,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/grey-vetiver-parfum",
+          "name": "The Scent Base — Grey Vetiver Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: 6+ hours with intimate projection; a Parfumo reviewer calls six hours with light projection somewhat disappointing."
     },
     {
       "name": "Bois Pacifique",
@@ -309,8 +474,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/bois-pacifique",
+          "name": "The Scent Base — Bois Pacifique",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: longevity about 4-6 hours, sillage low; reviews split between fades early and lasts all day; a retailer text claims 8+ hours, not used."
     },
     {
       "name": "Oud Minérale",
@@ -406,8 +590,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/18179/tom-ford/costa-azzurra",
+          "name": "Fragplace — Costa Azzurra by Tom Ford",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/tom-ford-costa-azzurra-eau-de-parfum-review",
+          "name": "Escentual — Tom Ford Costa Azzurra Eau de Parfum Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: moderate longevity of 4-6 hours and moderate projection; Escentual: the brand's up-to-6-hours claim held true for the reviewer."
     },
     {
       "name": "Black Orchid",
@@ -441,8 +652,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/tom-ford-black-orchid-eau-de-parfum-review",
+          "name": "Escentual — Tom Ford Black Orchid Eau de Parfum Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.shayandblue.com/blogs/nose-dive/how-long-does-black-orchid-fragrance-last",
+          "name": "Shay & Blue — How Long Does Black Orchid Fragrance Last?",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviews/guides: about 6-8 hours on average, up to 8-12 hours for some; sillage described as heavy, strongest in the first 2-3 hours. A retailer blog claim of 14h not used."
     },
     {
       "name": "Black Orchid Parfum",
@@ -476,8 +714,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://manforhimself.com/products/tom-ford-black-orchid-parfum",
+          "name": "Man For Himself — Tom Ford Black Orchid Parfum",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/black-orchid-parfum",
+          "name": "The Scent Base — Black Orchid Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewer: roughly 5-6 hours, excellent sillage; The Scent Base: 8+ hours, richer and more intense than the original."
     },
     {
       "name": "Black Orchid",
@@ -511,8 +776,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/black-orchid-eau-de-toilette-2023",
+          "name": "The Scent Base — Black Orchid Eau de Toilette (2023)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/39460/tom-ford/black-orchid-eau-de-toilette",
+          "name": "Fragplace — Black Orchid Eau de Toilette FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base (2023 EDT): about 6-8 hours with moderate projection and sillage; Fragplace FAQ: powerful sillage and 10+ hours; reports for the 2015 and 2023 EDT are split."
     },
     {
       "name": "Black Orchid Reserve Parfum",
@@ -580,8 +872,38 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://jadof.com/en/news/tom-ford-velvet-orchid-review",
+          "name": "Jadof — Tom Ford Velvet Orchid review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/velvet-orchid-tom-ford",
+          "name": "Scento — Tom Ford Velvet Orchid",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Review and retailer listing: 8-10 hours on skin, strong noticeable trail; another reviewer calls sillage noticeable, too much for the office; Scento: best in spring."
     },
     {
       "name": "Soleil Neige",
@@ -615,8 +937,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-soleil-neige-2025",
+          "name": "Vivir — Tom Ford Soleil Neige 2025",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/tom-ford/tom-ford-soleil-neige/",
+          "name": "The Sniff Test — Tom Ford Soleil Neige",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir (2025 version): longevity 4.0/5, sillage 3.0/5; Sniff Test: moderate sillage; Parfumo reviewers report about 8 hours, others far less, and results blend the 2019 and 2025 releases."
     },
     {
       "name": "Noir Extreme",
@@ -712,8 +1061,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/tom-ford-noir-extreme-parfum-1",
+          "name": "Venba Fragrance — Tom Ford Noir Extreme Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/noir-extreme-parfum-tom-ford",
+          "name": "Scento — Noir Extreme Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba listing: 10+ hours and strong sillage early on; Scento: long-lasting with strong projection; Parfumo reviewers rate 7-8/10 for both, one says it could last longer for a Parfum."
     },
     {
       "name": "Eau de Soleil Blanc",
@@ -747,8 +1123,43 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/798/tom-ford/eau-de-soleil-blanc",
+          "name": "Fragplace — Eau de Soleil Blanc FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-eau-de-soleil-blanc-2025",
+          "name": "Vivir — Tom Ford Eau de Soleil Blanc 2025",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/eau-de-soleil-blanc",
+          "name": "The Scent Base — Eau de Soleil Blanc",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace summary: 6-10 hours, strong sillage; The Scent Base: about 3 hours, intimate; Vivir: sillage 3.0/5; Scentverdict: moderate 4-6 hours for the 2025 EDT. Sources disagree widely."
     },
     {
       "name": "Café Rose",
@@ -845,8 +1256,42 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-tobacco-chocolat",
+          "name": "Vivir — Tom Ford Tobacco Chocolat",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/tobacco-chocolat-tom-ford",
+          "name": "Scento — Tobacco Chocolat",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Vivir: longevity 4.0/5 (6-8 hours), sillage 3.0/5; Scento: long-lasting, best in fall/winter and evening/night; Parfumo users rate it higher on sillage."
     },
     {
       "name": "Oud Wood",
@@ -942,8 +1387,33 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/oud-wood-parfum-tom-ford",
+          "name": "Scento — Tom Ford Oud Wood Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scento (aggregated reviews): long-lasting with moderate projection, best in winter and evening/night; Parfumo reviewers split, from strong to weak performance."
     },
     {
       "name": "Tobacco Vanille",
@@ -1222,8 +1692,42 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-oud-voyager",
+          "name": "Vivir — Tom Ford Oud Voyager",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/oud-voyager-by-tom-ford",
+          "name": "Scento — Oud Voyager",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Vivir: longevity 4.5/5, projection 4.0, sillage 4.0; a retailer listing gives 7-9 hours with moderate-to-strong sillage; Scento: best in fall/winter and evening/night. A 10+ hour seller claim not used."
     },
     {
       "name": "Figue Érotique",
@@ -1258,8 +1762,35 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/sample-tom-ford-figue-erotique-edp",
+          "name": "Venba Fragrance — Tom Ford Figue Erotique EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-figue-erotique",
+          "name": "Vivir — Tom Ford Figue Erotique",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba listing: about 6-8 hours with soft-to-moderate sillage; Vivir: longevity 3.5/5, sillage 3.0/5, noticeable at arm's length."
     },
     {
       "name": "Taormina Orange",
@@ -1293,8 +1824,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/blog/tom-ford-taormina-orange-review",
+          "name": "Scento — Tom Ford Taormina Orange review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-taormina-orange",
+          "name": "Vivir — Tom Ford Taormina Orange",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "A review site lists 4-6 hours; Scento: moderate longevity and projection; some wearers say projection is strong at first but fades fast."
     },
     {
       "name": "Neroli Portofino",
@@ -1327,8 +1885,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/tom-ford-neroli-portofino-edp",
+          "name": "Venba Fragrance — Tom Ford Neroli Portofino EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/de/perfumes/neroli-portofino-tom-ford",
+          "name": "Scento — Neroli Portofino",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: 6-8 hours with a bright trail; Scento: moderate longevity and sillage; a Parfumo reviewer says it does not last past 4 hours."
     },
     {
       "name": "Vanilla Sex",
@@ -1416,8 +2001,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/tom-ford/products/sample-tom-ford-rose-prick-edp",
+          "name": "Venba Fragrance — Tom Ford Rose Prick EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/rose-prick-tom-ford",
+          "name": "Scento — Rose Prick",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: strong longevity, 7-9 hours, sillage moderate to strong; Scento: long-lasting with moderate projection; Man For Himself rates both 3/5."
     },
     {
       "name": "Soleil Blanc",
@@ -1505,8 +2117,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-rose-exposed",
+          "name": "Vivir — Tom Ford Rose Exposed",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.johnlewis.com/tom-ford-private-blend-rose-exposed-eau-de-parfum/p112845197",
+          "name": "John Lewis — Tom Ford Private Blend Rose Exposed Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: roughly 6-8 hours, moderate sillage and projection (3.0/5 each); John Lewis listing: longevity long-lasting, sillage moderate."
     },
     {
       "name": "Santal Blush",
@@ -1540,8 +2179,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/tom-ford/tom-ford-santal-blush/women-perfume",
+          "name": "Perfume.com — Tom Ford Santal Blush",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/santal-blush-tom-ford",
+          "name": "Scento — Santal Blush",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume.com: about 6-8 hours depending on skin and environment; Scento: long-lasting with moderate projection; listings disagree on best season, so none recorded."
     },
     {
       "name": "Bitter Peach",
@@ -1642,8 +2308,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/electric-cherry",
+          "name": "The Scent Base — Electric Cherry",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/electric-cherry-tom-ford",
+          "name": "Scento — Tom Ford Electric Cherry",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict and Scento: moderate longevity (4-6 hours) and moderate projection; The Scent Base: about 4-6 hours but intimate sillage; some buyers find it weak for the price."
     },
     {
       "name": "Vanille Fatale",
@@ -1677,8 +2370,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-vanilla-fatale",
+          "name": "Vivir — Tom Ford Vanilla Fatale",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: 7-9 hours with moderate projection and sillage; Parfumo reviewers split between about 5-6 hours with weak sillage and exceptional performance; the 2017 and 2024 versions may differ."
     },
     {
       "name": "Tuscan Leather",
@@ -1803,8 +2515,49 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/tom-ford-ebene-fume-eau-de-parfum",
+          "name": "Scentverdict — Tom Ford Ébène Fumé EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/ebene-fume-tom-ford",
+          "name": "Scento — Ebene Fume",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/ebene-fume",
+          "name": "The Scent Base — Ébène Fumé",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scentverdict: about 6-10 hours, moderate projection; Scento: long-lasting, moderate projection, best in fall/winter and evening; The Scent Base: 6+ hours but intimate projection."
     },
     {
       "name": "Soleil de Feu",
@@ -1835,8 +2588,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-soleil-de-feu",
+          "name": "Vivir — Tom Ford Soleil de Feu",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/soleil-de-feu-tom-ford",
+          "name": "Scento — Soleil de Feu",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: about 6-8 hours, sillage 3.0/5, moderate to strong for the first 2-3 hours then close to skin; Scento calls it long-lasting with strong sillage."
     },
     {
       "name": "Cherry Smoke",
@@ -1870,8 +2650,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/9589/tom-ford/cherry-smoke",
+          "name": "Fragplace — Cherry Smoke FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/cherry-smoke-tom-ford",
+          "name": "Scento — Cherry Smoke",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: 6-10 hours, strong sillage; Scento and The Sniff Test: moderate longevity and sillage; a review site says 8-10 hours, moderate to heavy."
     },
     {
       "name": "Myrrhe Mystère",
@@ -1905,8 +2712,39 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-myrrhe-mystere",
+          "name": "Vivir — Tom Ford Myrrhe Mystere",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/36350/tom-ford/myrrhe-mystere",
+          "name": "Fragplace — Myrrhe Mystère",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: about 6-8 hours, moderate sillage; Fragplace: 6-10 hours, strong sillage, suits fall/winter; Scentverdict comparison lists 4-6 hours."
     },
     {
       "name": "Black Lacquer",
@@ -1940,8 +2778,48 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/black-lacquer-tom-ford",
+          "name": "Scento — Tom Ford Black Lacquer",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-black-lacquer",
+          "name": "Vivir — Tom Ford Black Lacquer",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/black-lacquer",
+          "name": "The Scent Base — Black Lacquer",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting, moderate sillage, best in winter and at night; Vivir: sillage 3.0/5; The Scent Base: only intimate projection, about 4-6 hours; Parfumo users rate it fairly high."
     },
     {
       "name": "Noir de Noir",
@@ -2010,8 +2888,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.johnlewis.com/tom-ford-private-blend-fougere-dargent-eau-de-parfum/p3669630",
+          "name": "John Lewis — Tom Ford Private Blend Fougère d'Argent Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "John Lewis listing: longevity 'Long-Lasting', sillage 'Strong'; Parfumo users rate it 7/10 for both."
     },
     {
       "name": "Rose d'Amalfi",
@@ -2045,8 +2942,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/rose-damalfi",
+          "name": "Scents Angel — Rose d'Amalfi",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/tom-ford-rose-damalfi-eau-de-parfum",
+          "name": "Scentverdict — Tom Ford Rose d'Amalfi EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel: 6-8 hours, subtle to light-moderate sillage; Scentverdict: moderate 4-6 hours, intimate projection."
     },
     {
       "name": "Azure Lime",
@@ -2077,8 +3001,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-azure-lime",
+          "name": "Vivir — Tom Ford Azure Lime",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/all/products/tom-ford-azure-lime-edp-1",
+          "name": "Venba Fragrance — Tom Ford Azure Lime EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 2.5/5, sillage 3.0/5, about 3-5 hours; Venba: roughly 2-4 hours, soft and close to skin after the opening."
     },
     {
       "name": "Bois Marocain",
@@ -2112,8 +3063,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/tom-ford/bois-marocain",
+          "name": "The Scent Base — Bois Marocain",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/tom-ford-reserve-collection-bois-marocain",
+          "name": "Vivir — Tom Ford Reserve Collection: Bois Marocain",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Community reports cluster at 3-6 hours; The Scent Base: about 3 hours; Vivir: undetectable after 4-6 hours; recent reviewers call sillage discreet or intimate. Reformulations may differ."
     },
     {
       "name": "Mandarino di Amalfi",
@@ -2147,8 +3125,38 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/at/perfumes/tom-ford/mandarino-di-amalfi",
+          "name": "The Scent Base — Mandarino di Amalfi",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/mandarino-di-amalfi-tom-ford",
+          "name": "Scento — Tom Ford Mandarino di Amalfi",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: about 3 hours with intimate projection; Scento: moderate longevity and projection, best in summer."
     },
     {
       "name": "Jasmin Rouge",
@@ -2182,8 +3190,33 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/jasmin-rouge-tom-ford",
+          "name": "Scento — Jasmin Rouge",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting with strong projection, best in fall/winter and evening; a third-party listing gives up to 8 hours; one Parfumo user compares sillage to Alien with less longevity."
     }
   ]
 }

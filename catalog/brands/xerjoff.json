@@ -251,8 +251,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/xerjoff-la-capitale-fragrance-review",
+          "name": "Vivir — Xerjoff La Capitale",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/xerjoff/products/xerjoff-la-capitale-edp",
+          "name": "Venba Fragrance — Xerjoff La Capitale EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir community scores: longevity 4.6/5, sillage 4.4/5; Parfumo reviewers report 8-10 hours; Venba claims 10+ hours and strong sillage."
     },
     {
       "name": "40 Knots",
@@ -359,8 +386,30 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/xerjoff-renaissance-edp",
+          "name": "Venba Fragrance — Xerjoff Renaissance EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listings: about 6-8 hours, moderate sillage, best in warm weather; some wearers report it fading to a skin scent near 3 hours."
     },
     {
       "name": "Uden",
@@ -428,8 +477,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Xerjoff/accento-overdose",
+          "name": "Parfumo — Xerjoff Accento Overdose",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo reviewers report 8-12+ hours with strong but not overwhelming sillage; Parfumo's profile says longevity and projection are above average."
     },
     {
       "name": "Accento",
@@ -525,8 +593,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/xerjoff-alexandria-ii-extrait-oil-extrait-de-parfum",
+          "name": "Scentverdict — Xerjoff Alexandria II Extrait",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/xerjoff/alexandria-ii-extrait-oil",
+          "name": "The Scent Base — Alexandria II Extrait Oil",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict (2018 extrait): long, 6-10 hours, strong intensity; The Scent Base: 8+ hours with very strong projection."
     },
     {
       "name": "Opera",
@@ -550,8 +645,32 @@
           "name": "50ml - Xerjoff Opera",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://www.scento.com/perfumes/opera-xerjoff",
+          "name": "Scento — Xerjoff Opera",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting, strong projection, best in winter and at night; Parfumo reviewers report about 6-10 hours and strong sillage."
     },
     {
       "name": "More than Words",
@@ -575,8 +694,40 @@
           "name": "50ml - Xerjoff More than Words",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/xerjoff-more-than-words-2",
+          "name": "Vivir — Xerjoff More Than Words",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/more-than-words-xerjoff",
+          "name": "Scento — More Than Words",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Vivir: longevity 4.0/5, sillage 3.8/5; Scento: very long-lasting with strong projection (5.0 and 4.8 user scores), best in winter and at night; no hour figures."
     }
   ]
 }
