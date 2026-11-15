@@ -31,8 +31,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/nasomatto-absinth-extrait-1-oz",
+          "name": "Venba — Nasomatto Absinth Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/nasomatto-absinth",
+          "name": "Scents Angel — Nasomatto Absinth",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: about 7-9 h with moderate, close-to-skin sillage; Scents Angel: 8-12 h."
     },
     {
       "name": "Baraonda",
@@ -58,8 +85,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/nasomatto-baraonda-extrait",
+          "name": "Venba — Nasomatto Baraonda Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/baraonda-nasomatto",
+          "name": "Scento — Nasomatto Baraonda",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: 10+ h typical for the extrait; Scento: strong sillage in the first 30-90 min, then closer to skin; reviewers 8-12 h."
     },
     {
       "name": "Black Afgano",
@@ -98,8 +152,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/nasomatto-black-afgano",
+          "name": "Vivir — Nasomatto Black Afgano",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/black-afgano",
+          "name": "Scents Angel — Black Afgano",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir and ScentsAngel listings: extrait lasts roughly 10-12+ h, one review about 8 h; sillage called strong early, one reviewer found it minimal."
     },
     {
       "name": "Blamage",
@@ -123,8 +204,35 @@
           "name": "Le Secret du Marais - Nasomatto Blamage",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/nasomatto-blamage-extrait",
+          "name": "Venba — Nasomatto Blamage Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/nasomatto-blamage",
+          "name": "Scents Angel — Nasomatto Blamage",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba cites 10+ h, Scents Angel 8-10+ h; sillage described from moderate (Scents Angel, Scento drydown) to strong early (Venba)."
     },
     {
       "name": "Duro",
@@ -150,8 +258,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/nasomatto-duro",
+          "name": "Scents Angel — Nasomatto Duro",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/nasomatto-duro-extrait",
+          "name": "Venba — Nasomatto Duro Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel: 10-12+ h; Venba: 10+ h and strong, loud sillage; Scento user summary: long-lasting, strong projection; one reviewer found sillage weak."
     },
     {
       "name": "Fantomas",
@@ -175,8 +310,35 @@
           "name": "Le Secret du Marais - Nasomatto Fantomas",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://www.scentsangel.com/products/nasomatto-fantomas",
+          "name": "Scents Angel — Nasomatto Fantomas",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/fantomas-nasomatto",
+          "name": "Scento — Nasomatto Fantomas",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel: 9-12 h with a bold trail; Scento user summary: 8-12+ h and strong projection; reviewers split, some call sillage average."
     },
     {
       "name": "Micodelirio",
@@ -200,8 +362,41 @@
           "name": "Le Secret du Marais - Nasomatto Micodelirio",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/nasomatto-micodelirio",
+          "name": "Vivir — Nasomatto Micodelirio",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/micodelirio-nasomatto",
+          "name": "Scento — Nasomatto Micodelirio",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Vivir review: about 8-10 h on skin; Scento: long-lasting, moderate projection, suited to autumn and evening."
     },
     {
       "name": "Narcotic Venus",
@@ -240,8 +435,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/nasomatto-narcotic-v-extrait-1-oz-copy",
+          "name": "Venba — Nasomatto Narcotic V. Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/narcotic-venus-nasomatto",
+          "name": "Scento — Narcotic Venus",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: 10+ h typical for the extrait and strong, loud sillage early; Scento user summary: long-lasting with strong projection."
     },
     {
       "name": "Nudiflorum",
@@ -267,8 +489,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/nasomatto-nudiflorum-extrait",
+          "name": "Venba — Nasomatto Nudiflorum Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/nasomatto-nudiflorum-scents-angel",
+          "name": "Scents Angel — Nasomatto Nudiflorum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: 7-9 h and strong early sillage; Scents Angel: 8-10+ h with soft-to-moderate sillage."
     },
     {
       "name": "Pardon",
@@ -294,8 +543,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/nasomatto-pardon-extrait",
+          "name": "Venba — Nasomatto Pardon Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/pardon-nasomatto",
+          "name": "Scento — Nasomatto Pardon",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: 10+ h typical for the extrait; Scento user summary: long-lasting with strong projection; Scentverdict lists 6-10 h."
     },
     {
       "name": "Sadonaso",
@@ -326,8 +602,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/nasomatto-sadonaso-extrait-1-oz",
+          "name": "Venba — Nasomatto Sadonaso Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/nasomatto/nasomatto-sadonaso/",
+          "name": "The Sniff Test — Nasomatto Sadonaso",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: 12+ h commonly reported, sillage more intimate than longevity suggests; Sniff Test: long-lasting, moderate sillage."
     },
     {
       "name": "Sadonaso Phallic Edition",
@@ -378,8 +681,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/nasomatto-silver-musk-scents-angel",
+          "name": "Scents Angel — Nasomatto Silver Musk",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/nasomatto/nasomatto-silver-musk/",
+          "name": "The Sniff Test — Nasomatto Silver Musk",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel: 8-10 h on skin; reviewers 6-10+ h and mostly describe sillage as quiet or discreet; Snifftest says moderate."
     }
   ]
 }

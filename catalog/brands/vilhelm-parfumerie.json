@@ -15,11 +15,35 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["green apple", "pineapple", "black pepper"], "heart": ["patchouli", "white tobacco", "tonka bean"], "base": ["musk", "ambroxan"], "flat": [] },
+      "notes": {
+        "top": [
+          "green apple",
+          "pineapple",
+          "black pepper"
+        ],
+        "heart": [
+          "patchouli",
+          "white tobacco",
+          "tonka bean"
+        ],
+        "base": [
+          "musk",
+          "ambroxan"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/machiavelli", "name": "Vilhelm Parfumerie - Machiavelli", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://vilhelmparfumerie.com/products/machiavelli",
+          "name": "Vilhelm Parfumerie - Machiavelli",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -30,12 +54,60 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot"], "heart": ["tuscan leather", "galbanum"], "base": ["patchouli", "black amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "tuscan leather",
+          "galbanum"
+        ],
+        "base": [
+          "patchouli",
+          "black amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/fggddgstthrdthtsrhrhdfeededed", "name": "Vilhelm Parfumerie - Morning Chess", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://vilhelmparfumerie.com/products/fggddgstthrdthtsrhrhdfeededed",
+          "name": "Vilhelm Parfumerie - Morning Chess",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/morning-chess",
+          "name": "Scents Angel — Vilhelm Morning Chess",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/vilhelm-parfumerie/vilhelm-parfumerie-morning-chess/",
+          "name": "The Sniff Test — Morning Chess",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Maxaroma: 7-9 h; Scents Angel: 6-8 h; Sniff Test: moderate longevity and sillage; Perfuum claims 8-10+ h."
     },
     {
       "name": "Modest Mimosa",
@@ -45,12 +117,61 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["neroli", "carrot"], "heart": ["mimosa", "violet"], "base": ["musk", "leather"], "flat": [] },
+      "notes": {
+        "top": [
+          "neroli",
+          "carrot"
+        ],
+        "heart": [
+          "mimosa",
+          "violet"
+        ],
+        "base": [
+          "musk",
+          "leather"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/modest-mimosa-50-ml", "name": "Vilhelm Parfumerie - Modest Mimosa", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://vilhelmparfumerie.com/products/modest-mimosa-50-ml",
+          "name": "Vilhelm Parfumerie - Modest Mimosa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/vilhelm-parfumerie-modest-mimosa",
+          "name": "Vivir — Vilhelm Modest Mimosa",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/vilhelm-parfumerie-modest-mimosa-eau-de-parfum",
+          "name": "Scentverdict — Modest Mimosa EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 2/5, sillage 3/5; Scentverdict: roughly 4-6 h, intimate sillage with moderate projection."
     },
     {
       "name": "Poets of Berlin",
@@ -60,12 +181,62 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["blueberry", "lemon"], "heart": ["vanilla", "green wild orris"], "base": ["vanilla", "sandalwood", "vetiver"], "flat": [] },
+      "notes": {
+        "top": [
+          "blueberry",
+          "lemon"
+        ],
+        "heart": [
+          "vanilla",
+          "green wild orris"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "vetiver"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/poets-of-berlin-50-ml", "name": "Vilhelm Parfumerie - Poets of Berlin", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://vilhelmparfumerie.com/products/poets-of-berlin-50-ml",
+          "name": "Vilhelm Parfumerie - Poets of Berlin",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/vilhelm-parfumerie-poets-of-berlin",
+          "name": "Vivir — Vilhelm Poets of Berlin",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/vilhelm-parfumerie/poets-of-berlin",
+          "name": "The Scent Base — Poets of Berlin",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviews: roughly 5-6+ h and need topping up; sillage reported from intimate to strong."
     },
     {
       "name": "Faces of Francis",
@@ -75,11 +246,37 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["aldehydes", "saffron"], "heart": ["grilled pistachio", "juniper wood", "driftwood"], "base": ["oud", "ambergris", "cypriol", "vetiver", "fumed styrax"], "flat": [] },
+      "notes": {
+        "top": [
+          "aldehydes",
+          "saffron"
+        ],
+        "heart": [
+          "grilled pistachio",
+          "juniper wood",
+          "driftwood"
+        ],
+        "base": [
+          "oud",
+          "ambergris",
+          "cypriol",
+          "vetiver",
+          "fumed styrax"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/yjdtydytfgfxuktthgdet", "name": "Vilhelm Parfumerie - Faces of Francis", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://vilhelmparfumerie.com/products/yjdtydytfgfxuktthgdet",
+          "name": "Vilhelm Parfumerie - Faces of Francis",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -90,11 +287,35 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["mandarin nectar", "blackberry"], "heart": ["pink orchid", "bamboo", "violet"], "base": ["black amber", "musk", "sandalwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin nectar",
+          "blackberry"
+        ],
+        "heart": [
+          "pink orchid",
+          "bamboo",
+          "violet"
+        ],
+        "base": [
+          "black amber",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/room-service-3-x10-ml", "name": "Vilhelm Parfumerie - Room Service", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://vilhelmparfumerie.com/products/room-service-3-x10-ml",
+          "name": "Vilhelm Parfumerie - Room Service",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -105,11 +326,32 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot"], "heart": ["papyrus", "vanilla"], "base": ["sandalwood", "palo santo"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "papyrus",
+          "vanilla"
+        ],
+        "base": [
+          "sandalwood",
+          "palo santo"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/dear-lord", "name": "Vilhelm Parfumerie - Dear Lord", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://vilhelmparfumerie.com/products/dear-lord",
+          "name": "Vilhelm Parfumerie - Dear Lord",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -120,12 +362,61 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "apple"], "heart": ["ceylon black tea"], "base": ["oakmoss", "musk", "black amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "apple"
+        ],
+        "heart": [
+          "ceylon black tea"
+        ],
+        "base": [
+          "oakmoss",
+          "musk",
+          "black amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/dear-polly-3-x10-ml", "name": "Vilhelm Parfumerie - Dear Polly", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://vilhelmparfumerie.com/products/dear-polly-3-x10-ml",
+          "name": "Vilhelm Parfumerie - Dear Polly",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://thesnifftest.co.uk/vilhelm-parfumerie/vilhelm-parfumerie-dear-polly/",
+          "name": "The Sniff Test — Dear Polly",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/vilhelm-parfumerie-dear-polly-eau-de-parfum",
+          "name": "Scentverdict — Dear Polly EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviews: about 4-8 h with intimate sillage close to the skin; Sniff Test: moderate longevity and sillage; some wearers say it needs reapplying."
     },
     {
       "name": "To My Father",
@@ -134,13 +425,74 @@
       "releaseYear": null,
       "perfumer": "Bertrand Duchaufour",
       "family": null,
-      "accords": ["whisky"],
-      "notes": { "top": ["ambrette seed", "bitter orange", "davana"], "heart": ["cabreuva", "whisky", "cade"], "base": ["aetoxylon", "oakwood", "leather"], "flat": [] },
+      "accords": [
+        "whisky"
+      ],
+      "notes": {
+        "top": [
+          "ambrette seed",
+          "bitter orange",
+          "davana"
+        ],
+        "heart": [
+          "cabreuva",
+          "whisky",
+          "cade"
+        ],
+        "base": [
+          "aetoxylon",
+          "oakwood",
+          "leather"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/to-my-father-3-x10-ml", "name": "Vilhelm Parfumerie - To My Father", "type": "official", "supports": ["notes", "concentration", "perfumer", "accords"] }
-      ]
+        {
+          "url": "https://vilhelmparfumerie.com/products/to-my-father-3-x10-ml",
+          "name": "Vilhelm Parfumerie - To My Father",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "accords"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/vilhelm-parfumerie-to-my-father",
+          "name": "Vivir — Vilhelm To My Father",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/vilhelm-parfumerie-to-my-father-eau-de-parfum",
+          "name": "Scentverdict — To My Father EDP",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: about 6-8 h, moderate to strong sillage; Scentverdict: 6-10 h, strong intensity, best in autumn and winter."
     },
     {
       "name": "Purple Fig",
@@ -150,11 +502,34 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["sichuan pepper", "angelica seed"], "heart": ["galbanum", "green fig", "jasmine absolute"], "base": ["vetiver", "cashmere wood"], "flat": [] },
+      "notes": {
+        "top": [
+          "sichuan pepper",
+          "angelica seed"
+        ],
+        "heart": [
+          "galbanum",
+          "green fig",
+          "jasmine absolute"
+        ],
+        "base": [
+          "vetiver",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://vilhelmparfumerie.com/products/purple-fig", "name": "Vilhelm Parfumerie - Purple Fig", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://vilhelmparfumerie.com/products/purple-fig",
+          "name": "Vilhelm Parfumerie - Purple Fig",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     }
   ]

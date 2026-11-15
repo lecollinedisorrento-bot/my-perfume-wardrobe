@@ -15,11 +15,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["year"] }
+        {
+          "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+          "name": "Rabanne - From Calandre to La Collection",
+          "type": "official",
+          "supports": [
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -30,11 +42,30 @@
       "perfumer": "Fanny Bal",
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["lime", "lentiscus", "petitgrain bigarade", "orange blossom absolute", "ambergris"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lime",
+          "lentiscus",
+          "petitgrain bigarade",
+          "orange blossom absolute",
+          "ambergris"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes", "perfumer"] }
+        {
+          "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+          "name": "Rabanne - From Calandre to La Collection",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -45,11 +76,30 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["iris pallida", "aldehydes", "pink pepper", "benzoin", "vanilla surabsolute", "ambrox"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "iris pallida",
+          "aldehydes",
+          "pink pepper",
+          "benzoin",
+          "vanilla surabsolute",
+          "ambrox"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+          "name": "Rabanne - From Calandre to La Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -60,11 +110,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["tuberose", "orange blossom", "coconut pulp", "sandalwood"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tuberose",
+          "orange blossom",
+          "coconut pulp",
+          "sandalwood"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+          "name": "Rabanne - From Calandre to La Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -75,11 +142,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["lychee", "rosa damascena", "black pepper", "patchouli"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lychee",
+          "rosa damascena",
+          "black pepper",
+          "patchouli"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+          "name": "Rabanne - From Calandre to La Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -90,11 +174,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["palo santo", "sandalwood", "fig", "tonka bean"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "palo santo",
+          "sandalwood",
+          "fig",
+          "tonka bean"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+          "name": "Rabanne - From Calandre to La Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -105,11 +206,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["strawberry", "patchouli", "jasmine", "bourbon vanilla"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "strawberry",
+          "patchouli",
+          "jasmine",
+          "bourbon vanilla"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+          "name": "Rabanne - From Calandre to La Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -120,11 +238,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla", "white lavender", "labdanum", "amber"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "vanilla",
+          "white lavender",
+          "labdanum",
+          "amber"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+          "name": "Rabanne - From Calandre to La Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -135,11 +270,30 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["black oud", "green cardamom", "blue plum", "davana", "smoky sandalwood", "cedarwood"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black oud",
+          "green cardamom",
+          "blue plum",
+          "davana",
+          "smoky sandalwood",
+          "cedarwood"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection", "name": "Rabanne - From Calandre to La Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://rabanne.com/ww/de/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection",
+          "name": "Rabanne - From Calandre to La Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -150,11 +304,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -165,11 +331,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -180,11 +358,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -195,11 +385,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -210,12 +412,51 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fashionbeans.com/article/paco-rabanne-1-million-review/",
+          "name": "FashionBeans — Paco Rabanne 1 Million review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/ae/perfumes/rabanne/1-million",
+          "name": "Thescentbase — 1 Million by Rabanne",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "FashionBeans: 3-4 sprays last 8-10+ h; Vivir: 8-10 h, heavy sillage; Thescentbase community data is more modest (6-10 h, moderate sillage)."
     },
     {
       "name": "1 Million Parfum",
@@ -225,11 +466,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -240,12 +493,48 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/phantom-intense-rabanne",
+          "name": "Scento — Rabanne Phantom Intense",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting with moderate projection, best in winter and at night; no hour count."
     },
     {
       "name": "Fame Couture Edition Limitée",
@@ -255,11 +544,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -270,11 +571,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -285,12 +598,43 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/41746/rabanne/olympea",
+          "name": "Fragplace — Olympéa by Rabanne",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Review snippets: 5-6 h with moderate subtle sillage; another says 6-8 h; community around 4-6 h."
     },
     {
       "name": "Phantom",
@@ -300,12 +644,43 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/rabanne-phantom",
+          "name": "Vivir — Rabanne Phantom",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review scores longevity 4/5 and sillage 3/5; no brand figure."
     },
     {
       "name": "1 Million Night Elixir",
@@ -315,11 +690,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -330,11 +715,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -345,12 +742,51 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vioralondon.com/best-lady-million-perfumes-reviewed/",
+          "name": "Vioralondon — Best Lady Million perfumes reviewed",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/lady-million-rabanne",
+          "name": "Scento — Lady Million Rabanne",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Sources disagree: Vioralondon 7+ h, Fragplace 10+ h, Thescentbase 4-6 h; sillage moderate per Scento and Vivir, intimate per Thescentbase."
     },
     {
       "name": "Million Gold",
@@ -360,11 +796,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -375,11 +823,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -390,11 +850,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.tendance-parfums.com/en/marque/rabanne", "name": "Tendance Parfums - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.tendance-parfums.com/en/marque/rabanne",
+          "name": "Tendance Parfums - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -405,11 +877,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -420,11 +904,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -435,11 +931,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -450,12 +958,43 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/rabanne-fame-parfum",
+          "name": "Scent Verdict — Rabanne Fame Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "A listing states long-lasting (6-10 h) with moderate projection."
     },
     {
       "name": "Black XS",
@@ -465,11 +1004,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -480,12 +1029,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/paco-rabanne-fame-edp-review",
+          "name": "Vivir — Paco Rabanne Fame EDP review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Review snippets give about 4-6 h (up to 6+ h elsewhere) and moderate sillage that lightens after the first hour."
     },
     {
       "name": "Fame in Love",
@@ -495,11 +1073,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -510,11 +1098,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -525,11 +1123,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -540,12 +1148,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://fragplace.com/fragrances/21305/rabanne/olympea-solar",
+          "name": "Fragplace — Olympéa Solar by Rabanne FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace review summary rates sillage 4/5; no longevity figure found."
     },
     {
       "name": "Phantom in Red",
@@ -555,12 +1192,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/rabanne-phantom-in-red",
+          "name": "Vivir — Rabanne Phantom in Red",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir describes solid 6-8 h longevity; sillage scored 3.5/5 (not mapped)."
     },
     {
       "name": "Lady Million Fabulous",
@@ -570,11 +1236,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/ro/brand/rabanne", "name": "Scento - Rabanne", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/ro/brand/rabanne",
+          "name": "Scento - Rabanne",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     }
   ]

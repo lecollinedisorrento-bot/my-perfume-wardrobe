@@ -16,16 +16,58 @@
       "family": "Oriental",
       "accords": [],
       "notes": {
-        "top": ["pink pepper", "cinnamon", "red mandarin"],
-        "heart": ["turkish rose", "indonesian patchouli leaves", "orange blossom", "tuberose"],
-        "base": ["grey amber", "sweet toffee", "mystical incense", "powdery musk"],
+        "top": [
+          "pink pepper",
+          "cinnamon",
+          "red mandarin"
+        ],
+        "heart": [
+          "turkish rose",
+          "indonesian patchouli leaves",
+          "orange blossom",
+          "tuberose"
+        ],
+        "base": [
+          "grey amber",
+          "sweet toffee",
+          "mystical incense",
+          "powdery musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/oriental/98-lovely-graden.html", "name": "Mancera - Lovely Garden", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/oriental/98-lovely-graden.html",
+          "name": "Mancera - Lovely Garden",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/mancera/lovely-garden",
+          "name": "The Scent Base — Mancera Lovely Garden",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base community page: above-average longevity, 6+ hours, good projection; no sillage level stated."
     },
     {
       "name": "Musky Garden",
@@ -36,16 +78,58 @@
       "family": "Fruity and Floral",
       "accords": [],
       "notes": {
-        "top": ["citrus fruits", "cranberry", "white peach"],
-        "heart": ["iris absolute", "bulgarian rose", "indian jasmine", "patchouli leaves"],
-        "base": ["sweet white musk", "blackberry", "raspberry", "amber"],
+        "top": [
+          "citrus fruits",
+          "cranberry",
+          "white peach"
+        ],
+        "heart": [
+          "iris absolute",
+          "bulgarian rose",
+          "indian jasmine",
+          "patchouli leaves"
+        ],
+        "base": [
+          "sweet white musk",
+          "blackberry",
+          "raspberry",
+          "amber"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/fruity/62-musky-garden.html", "name": "Mancera - Musky Garden", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/fruity/62-musky-garden.html",
+          "name": "Mancera - Musky Garden",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-musky-garden-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Musky Garden EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict lists longevity as long (6-10 h); a retailer calls longevity and sillage above average without a number for sillage."
     },
     {
       "name": "Intense Instant Crush",
@@ -56,15 +140,38 @@
       "family": "Amber and Oriental",
       "accords": [],
       "notes": {
-        "top": ["indian saffron", "black leather", "sparkling bergamot", "mandarin"],
-        "heart": ["rose", "precious amberwood", "patchouli leaves", "salted caramel"],
-        "base": ["mysore sandalwood", "vanilla pods", "oakmoss", "white musk"],
+        "top": [
+          "indian saffron",
+          "black leather",
+          "sparkling bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "rose",
+          "precious amberwood",
+          "patchouli leaves",
+          "salted caramel"
+        ],
+        "base": [
+          "mysore sandalwood",
+          "vanilla pods",
+          "oakmoss",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/oriental/136-intense-instant-crush.html", "name": "Mancera - Intense Instant Crush", "type": "official", "supports": ["notes", "family"] }
+        {
+          "url": "https://manceraparfums.com/en/oriental/136-intense-instant-crush.html",
+          "name": "Mancera - Intense Instant Crush",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -76,16 +183,64 @@
       "family": "Amber",
       "accords": [],
       "notes": {
-        "top": ["pink pepper", "japanese yuzu", "calabrian bergamot", "indian nutmeg"],
-        "heart": ["woodsy amber", "powdery violet", "sulawesian patchouli"],
-        "base": ["intense amber", "cedar moss"],
+        "top": [
+          "pink pepper",
+          "japanese yuzu",
+          "calabrian bergamot",
+          "indian nutmeg"
+        ],
+        "heart": [
+          "woodsy amber",
+          "powdery violet",
+          "sulawesian patchouli"
+        ],
+        "base": [
+          "intense amber",
+          "cedar moss"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/amber/123-amberful.html", "name": "Mancera - Amberful", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/amber/123-amberful.html",
+          "name": "Mancera - Amberful",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/amberful",
+          "name": "Scents Angel — Mancera Amberful",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-amberful-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Amberful EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel: 8-10 h, moderate-to-strong sillage; Scent Verdict: long (6-10 h) with moderate projection."
     },
     {
       "name": "Melody of the Sun",
@@ -96,16 +251,69 @@
       "family": "Woody and Fruity",
       "accords": [],
       "notes": {
-        "top": ["calabrian lemon", "grapefruit", "pear", "blackcurrant", "lavender", "cardamom"],
-        "heart": ["green tea", "jasmine", "osmanthus", "cedar wood", "sunflower"],
-        "base": ["precious amber", "mate", "powdery musk"],
+        "top": [
+          "calabrian lemon",
+          "grapefruit",
+          "pear",
+          "blackcurrant",
+          "lavender",
+          "cardamom"
+        ],
+        "heart": [
+          "green tea",
+          "jasmine",
+          "osmanthus",
+          "cedar wood",
+          "sunflower"
+        ],
+        "base": [
+          "precious amber",
+          "mate",
+          "powdery musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/fruity/113-melody-of-the-sun.html", "name": "Mancera - Melody of the Sun", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/fruity/113-melody-of-the-sun.html",
+          "name": "Mancera - Melody of the Sun",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-melody-of-the-sun-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Melody of the Sun EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/1775/mancera/melody-of-the-sun",
+          "name": "Fragplace — Melody of the Sun FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict: moderate longevity (4-6 h), moderate projection; Fragplace users: 2-4 h and close to skin; Scents Angel claims 6-8 h."
     },
     {
       "name": "Feminity",
@@ -116,16 +324,69 @@
       "family": "Fruity, Floral",
       "accords": [],
       "notes": {
-        "top": ["tangerine", "pink pepper", "black coffee", "leather"],
-        "heart": ["violet", "jasmine", "lily of the valley", "heliotrope"],
-        "base": ["amber", "sandal wood", "caramel", "vanilla pods", "oakmoss", "white musk"],
+        "top": [
+          "tangerine",
+          "pink pepper",
+          "black coffee",
+          "leather"
+        ],
+        "heart": [
+          "violet",
+          "jasmine",
+          "lily of the valley",
+          "heliotrope"
+        ],
+        "base": [
+          "amber",
+          "sandal wood",
+          "caramel",
+          "vanilla pods",
+          "oakmoss",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/fruity/111-feminity.html", "name": "Mancera - Feminity", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/fruity/111-feminity.html",
+          "name": "Mancera - Feminity",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-feminity-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Feminity EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/feminity-mancera",
+          "name": "Scento — Mancera Feminity",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict: about 6-10 h; Scento user summary: long-lasting with moderate projection; sillage ratings conflict (moderate vs strong)."
     },
     {
       "name": "Royal Vanilla",
@@ -136,16 +397,66 @@
       "family": "Gourmand, Oriental",
       "accords": [],
       "notes": {
-        "top": ["citrus fruits", "rose water", "pink rhubarb leaves"],
-        "heart": ["caramel", "rose petals", "violet", "orange blossom"],
-        "base": ["amber", "white musk", "vanilla", "patchouli leaves"],
+        "top": [
+          "citrus fruits",
+          "rose water",
+          "pink rhubarb leaves"
+        ],
+        "heart": [
+          "caramel",
+          "rose petals",
+          "violet",
+          "orange blossom"
+        ],
+        "base": [
+          "amber",
+          "white musk",
+          "vanilla",
+          "patchouli leaves"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/gourmand/91-royal-vanilla.html", "name": "Mancera - Royal Vanilla", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/gourmand/91-royal-vanilla.html",
+          "name": "Mancera - Royal Vanilla",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-royal-vanilla-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Royal Vanilla EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/royal-vanilla",
+          "name": "Scents Angel — Mancera Royal Vanilla",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict: long (6-10 h), strong projection; Scents Angel: 8-10 h, moderate-to-strong sillage."
     },
     {
       "name": "Instant Crush",
@@ -156,16 +467,71 @@
       "family": "Floral, Oriental",
       "accords": [],
       "notes": {
-        "top": ["citrus fruits", "saffron", "ginger"],
-        "heart": ["rose from morocco", "egyptian jasmine", "amber"],
-        "base": ["sandalwood", "oakmoss", "vanilla", "white musk"],
+        "top": [
+          "citrus fruits",
+          "saffron",
+          "ginger"
+        ],
+        "heart": [
+          "rose from morocco",
+          "egyptian jasmine",
+          "amber"
+        ],
+        "base": [
+          "sandalwood",
+          "oakmoss",
+          "vanilla",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/oriental/82-instant-crush.html", "name": "Mancera - Instant Crush", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/oriental/82-instant-crush.html",
+          "name": "Mancera - Instant Crush",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.lexormiami.com/blogs/lexor-miami-blogs/mancera-instant-crush-4-0-oz-edp-a-bold-unisex-fragrance-worth-the-hype",
+          "name": "Lexor Miami — Mancera Instant Crush EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/instant-crush-mancera",
+          "name": "Scento — Mancera Instant Crush",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Lexor Miami: typically 8-12 hours, strong but not overpowering; Scento user data: long-lasting, strong projection, best for fall and evening/night."
     },
     {
       "name": "Pearl",
@@ -176,16 +542,56 @@
       "family": "Fruity, Floral",
       "accords": [],
       "notes": {
-        "top": ["bergamot", "fig", "green apple", "white peach"],
-        "heart": ["bulgarian rose", "egyptian jasmine", "violet"],
-        "base": ["amber", "white musk"],
+        "top": [
+          "bergamot",
+          "fig",
+          "green apple",
+          "white peach"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "egyptian jasmine",
+          "violet"
+        ],
+        "base": [
+          "amber",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/fruity/51-pearl.html", "name": "Mancera - Pearl", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/fruity/51-pearl.html",
+          "name": "Mancera - Pearl",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-pearl-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Pearl EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict lists longevity as long (6-10 h); its projection figures conflict between pages, so none is set."
     },
     {
       "name": "Vanille Exclusive",
@@ -196,16 +602,66 @@
       "family": "Floral and Gourmand",
       "accords": [],
       "notes": {
-        "top": ["osmanthus", "white peach", "brown sugar", "whipped cream"],
-        "heart": ["indian tuberose", "jasmine", "violet"],
-        "base": ["vanilla", "amber", "sandalwood", "precious white musk"],
+        "top": [
+          "osmanthus",
+          "white peach",
+          "brown sugar",
+          "whipped cream"
+        ],
+        "heart": [
+          "indian tuberose",
+          "jasmine",
+          "violet"
+        ],
+        "base": [
+          "vanilla",
+          "amber",
+          "sandalwood",
+          "precious white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/gourmand/75-vanille-exclusive.html", "name": "Mancera - Vanille Exclusive", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/gourmand/75-vanille-exclusive.html",
+          "name": "Mancera - Vanille Exclusive",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/all/products/mancera-vanille-exclusive-edp",
+          "name": "Venba Fragrance — Mancera Vanille Exclusive EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-vanille-exclusive-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Vanille Exclusive EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba: about 6-8 h, moderate sillage softening after 1-2 h; Scent Verdict: long (6-10 h), moderate; Scents Angel claims 8-10 h and strong."
     },
     {
       "name": "Jardin Exclusif",
@@ -216,16 +672,70 @@
       "family": "Fruity and Gourmand",
       "accords": [],
       "notes": {
-        "top": ["basket of fruits", "sweet candy"],
-        "heart": ["jasmine", "rose", "violet", "grey amber"],
-        "base": ["sandalwood", "vanilla", "white musk"],
+        "top": [
+          "basket of fruits",
+          "sweet candy"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "violet",
+          "grey amber"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/gourmand/74-jardin-exclusif.html", "name": "Mancera - Jardin Exclusif", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/gourmand/74-jardin-exclusif.html",
+          "name": "Mancera - Jardin Exclusif",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/jardin-exclusif",
+          "name": "Scents Angel — Mancera Jardin Exclusif",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/jardin-exclusif-mancera",
+          "name": "Scento — Mancera Jardin Exclusif",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Scents Angel: 6-8 h, moderate-to-strong sillage; Scento user summary: long-lasting, strong projection, best for summer and daytime."
     },
     {
       "name": "Aoud Exclusif",
@@ -236,16 +746,64 @@
       "family": "Leathery and Oriental",
       "accords": [],
       "notes": {
-        "top": ["spices"],
-        "heart": ["rose", "violet", "patchouli leaves"],
-        "base": ["leather", "nepalese oud", "amber", "vanilla", "white musk"],
+        "top": [
+          "spices"
+        ],
+        "heart": [
+          "rose",
+          "violet",
+          "patchouli leaves"
+        ],
+        "base": [
+          "leather",
+          "nepalese oud",
+          "amber",
+          "vanilla",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/oriental/73-aoud-exclusif.html", "name": "Mancera - Aoud Exclusif", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/oriental/73-aoud-exclusif.html",
+          "name": "Mancera - Aoud Exclusif",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-aoud-exclusif-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Aoud Exclusif EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/unisex/products/mancera-aoud-exclusif-edp",
+          "name": "Venba Fragrance — Mancera Aoud Exclusif EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviewers report 8-10 h or over 8 h on skin, strong sillage (3 sprays enough); Venba retailer page and Scent Verdict cover it."
     },
     {
       "name": "Of the Wild",
@@ -256,15 +814,36 @@
       "family": "Gourmand and Floral",
       "accords": [],
       "notes": {
-        "top": ["delicious strawberry", "powdery heliotrope"],
-        "heart": ["orange flowers", "indian jasmine", "indonesian patchouli"],
-        "base": ["vanilla pods", "sweet toffee", "fluffy musk", "vetiver"],
+        "top": [
+          "delicious strawberry",
+          "powdery heliotrope"
+        ],
+        "heart": [
+          "orange flowers",
+          "indian jasmine",
+          "indonesian patchouli"
+        ],
+        "base": [
+          "vanilla pods",
+          "sweet toffee",
+          "fluffy musk",
+          "vetiver"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/gourmand/115-of-the-wild.html", "name": "Mancera - Of the Wild", "type": "official", "supports": ["notes", "concentration", "family"] }
+        {
+          "url": "https://manceraparfums.com/en/gourmand/115-of-the-wild.html",
+          "name": "Mancera - Of the Wild",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -276,16 +855,64 @@
       "family": "Floral and Oriental",
       "accords": [],
       "notes": {
-        "top": ["intense tuberose from india", "osmanthus", "peach", "bergamot"],
-        "heart": ["jasmine", "orange blossom", "leaves of patchouli"],
-        "base": ["vanilla pods", "white musk"],
+        "top": [
+          "intense tuberose from india",
+          "osmanthus",
+          "peach",
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine",
+          "orange blossom",
+          "leaves of patchouli"
+        ],
+        "base": [
+          "vanilla pods",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/floral/69-wild-python.html", "name": "Mancera - Wild Python", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/floral/69-wild-python.html",
+          "name": "Mancera - Wild Python",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/mancera-wild-python-edp-review",
+          "name": "Vivir — Mancera Wild Python review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-wild-python-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Wild Python EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviews and retailers give 8-12 hours (one review says 6-8); sillage described as strong, projection rated 4/5 in the first 3 hours."
     },
     {
       "name": "Wild Candy",
@@ -296,16 +923,58 @@
       "family": "Fruity, Gourmand",
       "accords": [],
       "notes": {
-        "top": ["citrus notes", "coconut", "peach", "cocoa beans"],
-        "heart": ["tahitian flower", "ylang-ylang", "bulgarian rose", "precious iris"],
-        "base": ["benzoin from siam", "rich amber", "white musk"],
+        "top": [
+          "citrus notes",
+          "coconut",
+          "peach",
+          "cocoa beans"
+        ],
+        "heart": [
+          "tahitian flower",
+          "ylang-ylang",
+          "bulgarian rose",
+          "precious iris"
+        ],
+        "base": [
+          "benzoin from siam",
+          "rich amber",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/gourmand/47-wild-candy.html", "name": "Mancera - Wild Candy", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/gourmand/47-wild-candy.html",
+          "name": "Mancera - Wild Candy",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/mancera/wild-candy",
+          "name": "The Scent Base — Mancera Wild Candy",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base community: roughly 4-6 h (above average, 6+ h on another page) with good projection; Venba calls it lasting and bold without hours."
     },
     {
       "name": "Wild Leather",
@@ -316,16 +985,63 @@
       "family": "Leathery",
       "accords": [],
       "notes": {
-        "top": ["bergamot from sicily"],
-        "heart": ["bulgarian rose", "violet", "leaves of patchouli"],
-        "base": ["amber", "intense leather", "oakmoss", "woody notes"],
+        "top": [
+          "bergamot from sicily"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "violet",
+          "leaves of patchouli"
+        ],
+        "base": [
+          "amber",
+          "intense leather",
+          "oakmoss",
+          "woody notes"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/leathery/33-wild-leather.html", "name": "Mancera - Wild Leather", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/leathery/33-wild-leather.html",
+          "name": "Mancera - Wild Leather",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-wild-leather-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Wild Leather EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/mancera-wild-leather-edp-review",
+          "name": "Vivir — Mancera Wild Leather review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviewers range from about 8 h to 12+ h; retailer copy says 8-12 h with heavy sillage; one Vivir page rates sillage only 3/5."
     },
     {
       "name": "Aoud Line",
@@ -336,15 +1052,34 @@
       "family": "Leathery",
       "accords": [],
       "notes": {
-        "top": ["intense oud from laos", "vanilla", "turkish rose"],
-        "heart": ["woody notes", "leaves of patchouli"],
-        "base": ["amber", "raspberry"],
+        "top": [
+          "intense oud from laos",
+          "vanilla",
+          "turkish rose"
+        ],
+        "heart": [
+          "woody notes",
+          "leaves of patchouli"
+        ],
+        "base": [
+          "amber",
+          "raspberry"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/leathery/31-aoud-line.html", "name": "Mancera - Aoud Line", "type": "official", "supports": ["notes", "concentration", "family"] }
+        {
+          "url": "https://manceraparfums.com/en/leathery/31-aoud-line.html",
+          "name": "Mancera - Aoud Line",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -356,16 +1091,54 @@
       "family": "Fougere, Fruity",
       "accords": [],
       "notes": {
-        "top": ["citrus notes", "fresh lavender"],
-        "heart": ["white flowers", "amber", "geranium"],
-        "base": ["sensual white musk", "oakmoss"],
+        "top": [
+          "citrus notes",
+          "fresh lavender"
+        ],
+        "heart": [
+          "white flowers",
+          "amber",
+          "geranium"
+        ],
+        "base": [
+          "sensual white musk",
+          "oakmoss"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/fruity/30-lemon-line.html", "name": "Mancera - Lemon Line", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/fruity/30-lemon-line.html",
+          "name": "Mancera - Lemon Line",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/perfume/mancera-lemon-line/",
+          "name": "Fragrance Review — Mancera Lemon Line",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "A reviewer reports about 8-10 hours with good sillage and projection for a citrus; Fragrancereview calls wear time moderate, may need reapplying."
     },
     {
       "name": "Black Line",
@@ -376,16 +1149,62 @@
       "family": "Leathery and Oriental",
       "accords": [],
       "notes": {
-        "top": ["spices"],
-        "heart": ["amber", "rose", "leather", "patchouli leaves"],
-        "base": ["sandalwood from india", "white musk"],
+        "top": [
+          "spices"
+        ],
+        "heart": [
+          "amber",
+          "rose",
+          "leather",
+          "patchouli leaves"
+        ],
+        "base": [
+          "sandalwood from india",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/oriental/12-black-line.html", "name": "Mancera - Black Line", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/oriental/12-black-line.html",
+          "name": "Mancera - Black Line",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/mancera/black-line",
+          "name": "The Scent Base — Mancera Black Line",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/mancera-black-line-edp-review",
+          "name": "Vivir — Mancera Black Line review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base community: 6+ hours with good projection; Vivir rates longevity 4.8, projection 4.5, sillage 4.3 out of 5."
     },
     {
       "name": "French Riviera",
@@ -396,16 +1215,69 @@
       "family": "Marine",
       "accords": [],
       "notes": {
-        "top": ["tangerine", "orange", "lemon", "ginger", "pepper"],
-        "heart": ["sea spray", "iodine notes", "tiare", "mimosa", "pine notes", "vetiver roots"],
-        "base": ["amber", "sea salt", "white musk"],
+        "top": [
+          "tangerine",
+          "orange",
+          "lemon",
+          "ginger",
+          "pepper"
+        ],
+        "heart": [
+          "sea spray",
+          "iodine notes",
+          "tiare",
+          "mimosa",
+          "pine notes",
+          "vetiver roots"
+        ],
+        "base": [
+          "amber",
+          "sea salt",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/marine/106-french-riviera.html", "name": "Mancera - French Riviera", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/marine/106-french-riviera.html",
+          "name": "Mancera - French Riviera",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/22673/mancera/french-riviera",
+          "name": "Fragplace — French Riviera FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/nl/perfumes/mancera/french-riviera",
+          "name": "The Scent Base — Mancera French Riviera",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Aggregates range 6-10 h (one says 4-6 h); a Parfumo reviewer finds it close to the body but noticeable, so sillage is moderate at best."
     },
     {
       "name": "Intense French Riviera",
@@ -416,16 +1288,67 @@
       "family": "Marine, Fougere",
       "accords": [],
       "notes": {
-        "top": ["tangerine", "ginger", "black pepper", "lemon"],
-        "heart": ["sea spray", "oud", "tiara", "cedar", "vetiver"],
-        "base": ["sea salt", "ambergris", "white musk"],
+        "top": [
+          "tangerine",
+          "ginger",
+          "black pepper",
+          "lemon"
+        ],
+        "heart": [
+          "sea spray",
+          "oud",
+          "tiara",
+          "cedar",
+          "vetiver"
+        ],
+        "base": [
+          "sea salt",
+          "ambergris",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/marine/139-intense-french-riviera.html", "name": "Mancera - Intense French Riviera", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/marine/139-intense-french-riviera.html",
+          "name": "Mancera - Intense French Riviera",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://cafleurebon.com/mancera-intense-french-riviera-review-pierre-montale-2026-plus-a-fresh-twist-giveaway/",
+          "name": "Cafleurebon — Mancera Intense French Riviera review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/mancera-intense-french-riviera",
+          "name": "Vivir — Mancera Intense French Riviera",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "A review reports 8-10 h on skin, another 10-12+ h with strong sillage dominating the first 4-6 h."
     },
     {
       "name": "Cinque Terre",
@@ -436,16 +1359,67 @@
       "family": "Woody, Marine",
       "accords": [],
       "notes": {
-        "top": ["italian rosemary", "lemon", "cardamom"],
-        "heart": ["cedar", "pine", "fig leaves", "sea salt", "grey amber"],
-        "base": ["oakmoss", "tonka beans", "sandalwood", "labdanum"],
+        "top": [
+          "italian rosemary",
+          "lemon",
+          "cardamom"
+        ],
+        "heart": [
+          "cedar",
+          "pine",
+          "fig leaves",
+          "sea salt",
+          "grey amber"
+        ],
+        "base": [
+          "oakmoss",
+          "tonka beans",
+          "sandalwood",
+          "labdanum"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/marine/130-cinque-terre.html", "name": "Mancera - Cinque Terre", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/marine/130-cinque-terre.html",
+          "name": "Mancera - Cinque Terre",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/mancera-cinque-terre-eau-de-parfum",
+          "name": "Scent Verdict — Mancera Cinque Terre EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.maxaroma.com/fragrance/niche-fragrances/mancera-cinque-terre/pid/38629/2",
+          "name": "MaxAroma — Mancera Cinque Terre",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict: long (6-10 h); Maxaroma: 7-9 h with clean, noticeable projection; Vivir rates sillage 3/5; The Scent Base community says 4-6 h."
     },
     {
       "name": "Xplicit Poppy",
@@ -456,16 +1430,62 @@
       "family": "Fruity, Floral",
       "accords": [],
       "notes": {
-        "top": ["sauvignon accord", "grapefruit"],
-        "heart": ["poppy", "osmanthus", "patchouli"],
-        "base": ["oud", "vetiver", "peru balsam"],
+        "top": [
+          "sauvignon accord",
+          "grapefruit"
+        ],
+        "heart": [
+          "poppy",
+          "osmanthus",
+          "patchouli"
+        ],
+        "base": [
+          "oud",
+          "vetiver",
+          "peru balsam"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/floral/152-xplicit-poppy.html", "name": "Mancera - Xplicit Poppy", "type": "official", "supports": ["notes", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/floral/152-xplicit-poppy.html",
+          "name": "Mancera - Xplicit Poppy",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/xplicit-poppy-mancera",
+          "name": "Scento — Mancera Xplicit Poppy",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/mancera-explicit-poppy",
+          "name": "Vivir — Mancera Xplicit Poppy review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento user summary: long-lasting with strong projection; Vivir estimates 8-10 h and rates sillage 3/5."
     },
     {
       "name": "Xplicit Vanilla",
@@ -476,16 +1496,64 @@
       "family": "Gourmand, Oriental",
       "accords": [],
       "notes": {
-        "top": ["mexican vanilla", "chocolate accord"],
-        "heart": ["brown sugar", "oud", "sandalwood", "cedarwood"],
-        "base": ["tonka bean", "amber", "benzoin"],
+        "top": [
+          "mexican vanilla",
+          "chocolate accord"
+        ],
+        "heart": [
+          "brown sugar",
+          "oud",
+          "sandalwood",
+          "cedarwood"
+        ],
+        "base": [
+          "tonka bean",
+          "amber",
+          "benzoin"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/gourmand/134-xplicit-vanilla.html", "name": "Mancera - Xplicit Vanilla", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/gourmand/134-xplicit-vanilla.html",
+          "name": "Mancera - Xplicit Vanilla",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/mancera-xplicit-vanilla",
+          "name": "Vivir — Mancera Xplicit Vanilla",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://escentual.com/products/mancera-xplicit-vanilla-eau-de-parfum",
+          "name": "Escentual — Mancera Xplicit Vanilla EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict: long (6-10 h) with strong projection; reviewers say about 9 h (one finds it fades quickly); Vivir rates longevity, projection and sillage 4/5."
     },
     {
       "name": "Red Tobacco",
@@ -496,16 +1564,70 @@
       "family": "Spicy, Oriental",
       "accords": [],
       "notes": {
-        "top": ["saffron", "cinnamon", "incense", "nutmeg", "white peach", "green apple", "nepalese oud"],
-        "heart": ["patchouli leaves", "delicate jasmine"],
-        "base": ["precious tobacco", "amber", "woody notes", "vetiver", "vanilla pods", "white musk"],
+        "top": [
+          "saffron",
+          "cinnamon",
+          "incense",
+          "nutmeg",
+          "white peach",
+          "green apple",
+          "nepalese oud"
+        ],
+        "heart": [
+          "patchouli leaves",
+          "delicate jasmine"
+        ],
+        "base": [
+          "precious tobacco",
+          "amber",
+          "woody notes",
+          "vetiver",
+          "vanilla pods",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/oriental/67-red-tobacco.html", "name": "Mancera - Red Tobacco", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/oriental/67-red-tobacco.html",
+          "name": "Mancera - Red Tobacco",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/red-tobacco-mancera",
+          "name": "Scento — Mancera Red Tobacco",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://myperfumeshop.com.au/blogs/perfume/expert-review-of-mancera-red-tobacco",
+          "name": "My Perfume Shop — Expert review of Mancera Red Tobacco",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 5,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento: eternal longevity, enormous projection; My Perfume Shop: up to 10+ hours; reviewers call sillage very strong (one retailer listing says moderate)."
     },
     {
       "name": "Roses Vanille",
@@ -516,16 +1638,60 @@
       "family": "Floral and Gourmand",
       "accords": [],
       "notes": {
-        "top": ["fresh lemon of calabria"],
-        "heart": ["turkish delight with rose"],
-        "base": ["cedarwood", "intense vanilla", "white musk"],
+        "top": [
+          "fresh lemon of calabria"
+        ],
+        "heart": [
+          "turkish delight with rose"
+        ],
+        "base": [
+          "cedarwood",
+          "intense vanilla",
+          "white musk"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/gourmand/15-roses-vanille.html", "name": "Mancera - Roses Vanille", "type": "official", "supports": ["notes", "concentration", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/gourmand/15-roses-vanille.html",
+          "name": "Mancera - Roses Vanille",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        },
+        {
+          "url": "https://perfumenez.com/?p=22914",
+          "name": "Perfumenez — How good is the performance of Mancera Roses Vanille",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.influenster.com/reviews/mancera-roses-vanille-by-mancera-eau-de-parfum-spray-4-oz",
+          "name": "Influenster — Mancera Roses Vanille reviews",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Guides and retailers cite roughly 8-12 hours; Influenster calls sillage moderate to strong, Perfumenez moderate to heavy."
     },
     {
       "name": "Wood Season",
@@ -536,16 +1702,66 @@
       "family": "Woody, Marine",
       "accords": [],
       "notes": {
-        "top": ["bergamot", "mandarin", "moldavian clary sage", "black pepper", "cinnamon"],
-        "heart": ["marine breeze", "miraculous rose", "black truffle"],
-        "base": ["balsamic labdanum", "tonka beans", "intense amber", "oakmoss"],
+        "top": [
+          "bergamot",
+          "mandarin",
+          "moldavian clary sage",
+          "black pepper",
+          "cinnamon"
+        ],
+        "heart": [
+          "marine breeze",
+          "miraculous rose",
+          "black truffle"
+        ],
+        "base": [
+          "balsamic labdanum",
+          "tonka beans",
+          "intense amber",
+          "oakmoss"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/woody/151-wood-season.html", "name": "Mancera - Wood Season", "type": "official", "supports": ["notes", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/woody/151-wood-season.html",
+          "name": "Mancera - Wood Season",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/mancera-wood-season",
+          "name": "Vivir — Mancera Wood Season",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/wood-season-mancera",
+          "name": "Scento — Mancera Wood Season",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir estimates 6-7 h and rates longevity 3.5/5, sillage 3/5; a Parfumo reviewer finds sillage present but not loud; Scento says strong projection."
     },
     {
       "name": "Hazel Latte",
@@ -556,16 +1772,67 @@
       "family": "Fruity, Gourmand",
       "accords": [],
       "notes": {
-        "top": ["hazelnut milk", "pear"],
-        "heart": ["milk flower", "pecan"],
-        "base": ["creamy sandalwood", "benzoin resin", "cistus absolute"],
+        "top": [
+          "hazelnut milk",
+          "pear"
+        ],
+        "heart": [
+          "milk flower",
+          "pecan"
+        ],
+        "base": [
+          "creamy sandalwood",
+          "benzoin resin",
+          "cistus absolute"
+        ],
         "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://manceraparfums.com/en/gourmand/153-hazel-latte.html", "name": "Mancera - Hazel Latte", "type": "official", "supports": ["notes", "family"] }
-      ]
+        {
+          "url": "https://manceraparfums.com/en/gourmand/153-hazel-latte.html",
+          "name": "Mancera - Hazel Latte",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/mancera-hazel-latte",
+          "name": "Vivir — Mancera Hazel Latte",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/hazel-latte-mancera",
+          "name": "Scento — Mancera Hazel Latte",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Vivir: early impressions 4/5 longevity and 4/5 sillage; Scento user summary: long-lasting, strong projection, suited to fall/winter evenings."
     }
   ]
 }

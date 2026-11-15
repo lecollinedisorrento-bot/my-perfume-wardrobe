@@ -41,8 +41,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/kayali-fragrances-boujee-kitty-caramel-milk-22",
+          "name": "Vivir — Kayali Boujee Kitty Caramel Milk 22",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review page rates longevity 4/5 and sillage 3/5; no official or independent wear figures found, and Vivir's product naming is inconsistent."
     },
     {
       "name": "Freedom Musk Matcha 45",
@@ -80,8 +99,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kayali-freedom-musk-matcha-45-eau-de-parfum",
+          "name": "Scentverdict — Kayali Freedom Musk Matcha 45",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/kayali-fragrances-freedom-musk-matcha-45-eau-de-parfum",
+          "name": "Vivir — Kayali Freedom Musk Matcha 45",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict: moderate longevity (4-6 h) and moderate projection; Vivir editorial scores 3/5 for longevity, projection and sillage (community 3.5 / 3.2)."
     },
     {
       "name": "Freedom Musk Latte 41",
@@ -119,8 +165,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/kayali-fragrances-freedom-musk-latte-41-eau-de-parfum",
+          "name": "Vivir — Kayali Freedom Musk Latte 41",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 2,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: longevity 3/5 (about 4-6 h, may fade to skin scent), sillage 3/5, projection 2/5, soft approachable aura."
     },
     {
       "name": "Freedom Musk Bouquet 27",
@@ -158,8 +223,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/kayali-fragrances-freedom-musk-bouquet-27-eau-de-parfum",
+          "name": "Vivir — Kayali Freedom Musk Bouquet 27",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://whatscent.app/perfume/musk-bouquet-27",
+          "name": "WhatScent — Musk Bouquet 27",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 4/5, projection and sillage 3/5; WhatScent community averages lower (longevity 3.3, projection 3.2, sillage 2.8). Rounded middle view."
     },
     {
       "name": "Freedom Musk Santal 34",
@@ -196,8 +288,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thelooker.thedailybeast.com/this-musky-perfume-by-kayali-makes-me-instantly-feel-cooler-every-time-i-wear-it/",
+          "name": "The Daily Beast — Kayali musk perfume review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumes.la/en-us/collections/vendors/products/freedom-musk-santal-by-kayali-for-unisex-1-7-oz-edp-spray",
+          "name": "Perfumes.la — Freedom Musk Santal",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Daily Beast review: impressive longevity, warm base lasts through the day; Perfumes.la lists longevity and sillage as moderate; Taksima says moderate-to-strong."
     },
     {
       "name": "Eden Sweet Peach 35",
@@ -231,8 +350,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kayali-eden-sweet-peach-i-35-eau-de-parfum",
+          "name": "Scentverdict — Kayali Eden Sweet Peach 35",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumes.la/products/eden-sweet-peach-by-kayali-for-women-1-7-oz-edp-spray",
+          "name": "Perfumes.la — Eden Sweet Peach",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict: moderate longevity (4-6 h) and projection; Perfumes.la: moderate/moderate; Sephora UK reviewers split (some say long-lasting, one says not crazy)."
     },
     {
       "name": "Eden Plush Pear 23",
@@ -265,8 +411,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/kayali-fragrances-eden-plush-pear-23-eau-de-parfum",
+          "name": "Vivir — Kayali Eden Plush Pear 23",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumes.la/en-us/products/eden-plush-pear-by-kayali-for-women-3-4-oz-edp-spray",
+          "name": "Perfumes.la — Eden Plush Pear",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 2,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 3/5 (about 4-6 h), sillage 3/5, projection 2/5 (intimate); Perfumes.la lists moderate/moderate."
     },
     {
       "name": "Musk 12",
@@ -298,8 +471,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kayali-musk-12-eau-de-parfum",
+          "name": "Scentverdict — Kayali Musk 12",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict: moderate longevity (4-6 h); Parfumo reviewers mostly call sillage soft/intimate (one reports about 10 h on skin); retailer copy claims excellent longevity."
     },
     {
       "name": "Oudgasm Chocolate Oud 11",
@@ -335,8 +527,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kayali-oudgasm-chocolate-oud-eau-de-parfum",
+          "name": "Scentverdict — Kayali Oudgasm Chocolate Oud",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/kayali-fragrances-oudgasm-chocolate-oud-11",
+          "name": "Vivir — Kayali Oudgasm Chocolate Oud 11",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict: long longevity (6-10 h), moderate projection; Vivir rates longevity lower (2/5) and sillage 3/5; one Parfumo reviewer reports about 8 h on skin."
     },
     {
       "name": "Dapper Daddy Saffron Oud",
@@ -411,8 +630,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/4518/kayali-fragrances/maldives-in-a-bottle-ylang-coco-20-eau-de-parfum",
+          "name": "Fragplace — Maldives in a Bottle Ylang Coco 20 FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: moderate longevity (4-6 h), moderate sillage close to skin; another profile lists soft-to-moderate; a review suggests it suits summer days."
     },
     {
       "name": "Yum Pistachio Gelato 33",
@@ -446,8 +684,50 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/yum-pistachio-gelato-33-kayali",
+          "name": "Scento — Yum Pistachio Gelato 33",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://khayest.pk/products/kayali-yum-pistachio-gelato-33-eau-de-parfum-10-ml",
+          "name": "Khayest — Yum Pistachio Gelato 33",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/kayali-yum-pistachio-gelato-33",
+          "name": "Vivir — Kayali Yum Pistachio Gelato 33",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Khayest listing: lasts about 6-8 h, moderate sillage; Vivir 4/5 longevity, 3/5 sillage; Scento suggests autumn/winter and evening/night; thescentbase gives ~3 h (outlier)."
     },
     {
       "name": "Yum Boujee Marshmallow 81",
@@ -481,8 +761,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/94328/kayali-fragrances/yum-boujee-marshmallow-81",
+          "name": "Fragplace — Yum Boujee Marshmallow 81 FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/kayali-fragrances-yum-boujee-marshmallow-81",
+          "name": "Vivir — Kayali Yum Boujee Marshmallow 81",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Database: moderate longevity, 4-6 h (3.3/5), sillage close to skin (2.7/5); Vivir: 4/5 longevity (6-8 h), 3/5 sillage; Scento: moderate longevity."
     },
     {
       "name": "Utopia Vanilla Coco 21",
@@ -513,8 +820,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://perfumes.la/en-us/products/utopia-vanilla-coco-21-by-kayali-for-unisex-1-7-oz-edp-spray",
+          "name": "Perfumes.la — Utopia Vanilla Coco 21",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/?p=26654",
+          "name": "Fragrance Review — Kayali Utopia Vanilla Coco",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfumes.la: moderate to long-lasting with moderate sillage; Fragrance Review says longevity and sillage are unremarkable and reapplication may be needed."
     },
     {
       "name": "Vanilla Candy Rock Sugar 42",
@@ -548,8 +882,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumes.la/en-us/products/vanilla-candy-42-by-kayali-for-women-1-7-oz-edp-spray",
+          "name": "Perfumes.la — Vanilla Candy 42",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://khayest.pk/products/kayali-vanilla-candy-rock-sugar-42-edp-10ml",
+          "name": "Khayest — Vanilla Candy Rock Sugar 42",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer-style review: about 6-8 h on skin, moderate to strong sillage; Perfumes.la lists moderate/moderate. Middle view used."
     },
     {
       "name": "Vanilla 28",
@@ -585,8 +946,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.fragplace.com/fragrances/31107/kayali-fragrances/vanilla-28",
+          "name": "Fragplace — Kayali Vanilla 28 FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace (user reviews): typically 6-10 h, longevity and sillage 4/5; Parfumo community averages 7.4/10 longevity, 7.1/10 sillage; individual reports vary widely. Sillage set to moderate."
     },
     {
       "name": "Maui in a Bottle Sweet Banana 37",
@@ -623,8 +1003,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/kayali-fragrances/maui-in-a-bottle-sweet-banana-37-eau-de-parfum",
+          "name": "Scentbase — Maui in a Bottle Sweet Banana 37",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumes.la/en-us/collections/vendors/products/maui-in-a-bottle-sweet-banana-37-by-kayali-for-women-1-7-oz-edp-spray",
+          "name": "Perfumes.la — Maui in a Bottle Sweet Banana 37",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Thescentbase: intimate projection, average about 3 h; Perfumes.la: moderate/moderate; Parfumo reviewer: faded after about 3 h; Cult Beauty reviewers say it fades faster than expected."
     },
     {
       "name": "Marrakesh in a Bottle Orange Blossom 24",
@@ -657,8 +1064,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kayali-marrakesh-in-a-bottle-orange-blossom-i-24-eau-de-parfum",
+          "name": "Scentverdict — Kayali Marrakesh in a Bottle Orange Blossom 24",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict: moderate longevity (4-6 h), moderate projection; a review says about 6-7 h on skin with intimate, moderate sillage."
     },
     {
       "name": "Capri in a Bottle Lemon Sugar 14",
@@ -695,8 +1121,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/kayali-fragrances/capri-in-a-bottle-lemon-sugar-14-eau-de-parfum",
+          "name": "Scentbase — Capri in a Bottle Lemon Sugar 14",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumes.la/en-us/products/capri-in-a-bottle-lemon-sugar-l-14-by-kayali-for-women-1-7-oz-edp-spray",
+          "name": "Perfumes.la — Capri in a Bottle Lemon Sugar 14",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Thescentbase: intimate projection, average about 3 h; Perfumes.la: moderate/moderate; reviewers on Sephora and Cult Beauty say it does not last long."
     },
     {
       "name": "The Wedding Velvet Santal 35",
@@ -728,8 +1181,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/27315/kayali-fragrances/the-wedding-velvet-santal-35",
+          "name": "Fragplace — The Wedding Velvet Santal 35 FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kayali-the-wedding-velvet-santal-i-35-eau-de-parfum",
+          "name": "Scentverdict — Kayali The Wedding Velvet Santal 35",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: moderate longevity, typically 4-6 h (3/5), moderate sillage close to skin; Scentverdict also 4-6 h with intimate sillage; WhatScent users rate longevity 2/5, sillage 3/5."
     },
     {
       "name": "The Wedding Silk Santal 36",
@@ -796,8 +1276,43 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/sweet-diamond-pink-pepper-25/",
+          "name": "BestMensColognes — Sweet Diamond Pink Pepper 25",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kayali-sweet-diamond-pink-pepper-25-eau-de-parfum",
+          "name": "Scentverdict — Kayali Sweet Diamond Pink Pepper 25",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/kayali-sweet-diamond-pink-pepper",
+          "name": "Vivir — Kayali Sweet Diamond Pink Pepper",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity over 10 h with strong projection; BestMensColognes 7.3/10 longevity, 7.1/10 sillage; Scentverdict moderate (4-6 h); Scentbase about 3 h. Sources disagree, middle view used."
     },
     {
       "name": "Oudgasm Vanilla Oud 36",
@@ -829,8 +1344,39 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kayali-oudgasm-vanilla-oud-i-36-parfum",
+          "name": "Scentverdict — Kayali Oudgasm Vanilla Oud 36",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://perfumes.la/en-us/products/oudgasm-vanilla-oud-intense-by-kayali-for-unisex-1-7-oz-edp-spray",
+          "name": "Perfumes.la — Oudgasm Vanilla Oud Intense",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Cult Beauty reviewer: lasts hours without reapplying; Perfumes.la: moderate to long-lasting, moderate sillage; Scentverdict: strong projection, better for evenings; several sources call it suited to cooler seasons."
     },
     {
       "name": "Oudgasm Tobacco Oud 04",
@@ -863,8 +1409,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://manforhimself.com/products/kayali-oudgasm-tobacco-oud-review",
+          "name": "Man For Himself — Kayali Oudgasm Tobacco Oud review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/kayali-fragrances/oudgasm-tobacco-oud-04-eau-de-parfum-intense",
+          "name": "Scentbase — Oudgasm Tobacco Oud 04 Intense",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Man For Himself review: longevity 4/5, sillage 4/5; Parfumo users 7.7/10 longevity, 7.5/10 sillage (few ratings); Scentbase gives about 3 h average."
     },
     {
       "name": "Oudgasm Smoky Oud 07",
@@ -1165,8 +1738,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://perfumes.la/en-us/collections/vendors/products/juicy-apple-by-kayali-for-unisex-3-4-oz-edp-spray",
+          "name": "Perfumes.la — Juicy Apple",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/kayali-eden-juicy-apple-01-eau-de-parfum",
+          "name": "Scentverdict — Kayali Eden Juicy Apple 01",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfumes.la: moderate longevity and sillage; Sephora UK reviewer: a few hours on skin, soft-to-medium sillage; Scentverdict page also found."
     },
     {
       "name": "Déjà Vu White Flower 57",

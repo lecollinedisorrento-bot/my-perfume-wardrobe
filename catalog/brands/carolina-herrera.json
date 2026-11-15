@@ -15,12 +15,34 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["cedarwood", "musk"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cedarwood",
+          "musk"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
-        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/",
+          "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -31,12 +53,49 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/es/perfumes/peccato-nobile-carolina-herrera",
+          "name": "Scento — Peccato Nobile Carolina Herrera",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": null,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting with strong projection, best for fall/winter and evening; no hour count given."
     },
     {
       "name": "Emerald Musk",
@@ -46,11 +105,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -61,11 +132,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -76,11 +159,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -91,11 +186,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -106,12 +213,34 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["leather", "jasmine"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "leather",
+          "jasmine"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
-        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/",
+          "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -122,11 +251,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -137,11 +278,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -152,11 +305,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -167,12 +332,34 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["leather", "exotic spice"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "leather",
+          "exotic spice"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
-        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/",
+          "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -183,12 +370,35 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["incense", "cedarwood", "labdanum"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "cedarwood",
+          "labdanum"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
-        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/",
+          "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -199,11 +409,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -214,12 +436,36 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["patchouli", "davana", "vetiver", "tonka bean"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "patchouli",
+          "davana",
+          "vetiver",
+          "tonka bean"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] },
-        { "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/", "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.carolinaherrera.com/us/en/editorial/fragrances-herrera-confidential-collection-epitome-luxury/",
+          "name": "Carolina Herrera - The Epitome of Luxury: Confidential Collection",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -230,11 +476,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -245,11 +503,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -260,11 +530,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection", "name": "Carolina Herrera - Herrera Confidential (es/en)", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.carolinaherrera.com/es/en/fragrances/fragrancesprivatecollection",
+          "name": "Carolina Herrera - Herrera Confidential (es/en)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -275,12 +557,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/carolina-herrera/212-men",
+          "name": "Thescentbase — 212 Men by Carolina Herrera",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Review snippets: roughly 4-6 h (up to 8 h on one site), moderate projection and sillage."
     },
     {
       "name": "212 VIP Black",
@@ -290,12 +601,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/28038/carolina-herrera/212-vip-black",
+          "name": "Fragplace — 212 VIP Black by Carolina Herrera FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace user-review summary: lasts 10+ hours, powerful sillage that projects strongly."
     },
     {
       "name": "212 VIP Rosé",
@@ -305,12 +645,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/carolina-herrera-212-vip-ros",
+          "name": "Vivir — Carolina Herrera 212 VIP Rosé",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "A review site says 8+ h with moderate sillage; the brand page describes a soft floral trail without hour count."
     },
     {
       "name": "Bad Boy",
@@ -320,12 +689,47 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://www.scento.com/fr/perfumes/bad-boy-carolina-herrera",
+          "name": "Scento — Bad Boy Carolina Herrera",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scento: long-lasting, moderate projection, best for fall/winter and night; Larose lists 8-10 h; review sites disagree on sillage."
     },
     {
       "name": "Bad Boy Extreme",
@@ -335,12 +739,55 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://www.scento.com/perfumes/bad-boy-extreme-carolina-herrera",
+          "name": "Scento — Carolina Herrera Bad Boy Extreme",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://nearstore.com/products/bad-boy-extreme-by-carolina-herrera-eau-de-parfum-spray-1-7-oz-for-men",
+          "name": "Nearstore — Bad Boy Extreme EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Retailer listing says up to 8 h; John Lewis calls it long-lasting; a database entry says strong projection, best in winter and at night; another source says moderate sillage."
     },
     {
       "name": "CH Men",
@@ -350,12 +797,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://thescentbase.com/ch/perfumes/carolina-herrera/ch-men",
+          "name": "Thescentbase — CH Men by Carolina Herrera",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Thescentbase community reports: average about 3 h, range 4-6 h; no clear sillage level."
     },
     {
       "name": "Good Girl",
@@ -365,12 +841,45 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://www.fragplace.com/fragrances/31137/carolina-herrera/good-girl",
+          "name": "Fragplace — Good Girl by Carolina Herrera FAQ",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace user-review summary: typically 6-10 h, strong sillage, best in fall and also winter; Thescentbase community reports also say autumn/winter."
     },
     {
       "name": "Good Girl Blush",
@@ -380,12 +889,49 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/26/carolina-herrera/good-girl-blush",
+          "name": "Fragplace — Good Girl Blush by Carolina Herrera",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://larose.az/en/product/carolina-herrera-good-girl-blush",
+          "name": "Larose — Carolina Herrera Good Girl Blush",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace review summary: about 6-10 h, moderate sillage close to skin but noticeable; Larose lists 7-9 h and moderate-to-high sillage."
     },
     {
       "name": "Good Girl Blush Elixir",
@@ -395,11 +941,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -410,11 +966,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -425,12 +991,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://perfumes.la/en-us/products/la-bomba-by-carolina-herrera-for-women-1-7-oz-edp-spray",
+          "name": "Perfumes.la — La Bomba by Carolina Herrera EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfumes.la spec: longevity moderate, sillage moderate to noticeable; review snippets in search give roughly 6-10 h, brand page gives no hour count."
     },
     {
       "name": "La Bomba Intensa",
@@ -440,12 +1035,41 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/96768/carolina-herrera/la-bomba-intensa",
+          "name": "Fragplace — La Bomba Intensa",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Search snippets from Fragplace/Parfumo-type pages report 8-10 h (one says 10+ h); the brand describes a confident, noticeable trail without a level."
     },
     {
       "name": "Very Good Girl Elixir",
@@ -455,12 +1079,46 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/brand/carolina-herrera", "name": "Scento - Carolina Herrera", "type": "retailer", "supports": [] }
-      ]
+        {
+          "url": "https://www.scento.com/brand/carolina-herrera",
+          "name": "Scento - Carolina Herrera",
+          "type": "retailer",
+          "supports": []
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/very-good-girl-elixir-carolina-herrera",
+          "name": "Scento — Very Good Girl Elixir",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scento aggregated reviews: moderate longevity and moderate sillage, suits fall evenings; John Lewis calls it long-lasting with strong sillage (sources disagree)."
     }
   ]
 }

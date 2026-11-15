@@ -35,8 +35,27 @@
           "name": "50ml - Orto Parisi Megamare",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://beautinow.com/products/orto-parisi-megamare-eau-de-parfum/",
+          "name": "Beautinow — Orto Parisi Megamare",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: 10-12 h, sillage 8/10; reviewers call it very long-lasting with strong, piercing sillage early."
     },
     {
       "name": "Bergamask",
@@ -72,8 +91,35 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/orto-parisi-bergamask-eau-de-parfum/",
+          "name": "Beautinow — Orto Parisi Bergamask",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/orto-parisi-bergamask",
+          "name": "Vivir — Orto Parisi Bergamask",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: 8-12 h with strong sillage; reviewers report 10 h to all day, one finds sillage weak for the house."
     },
     {
       "name": "Terroni",
@@ -103,8 +149,41 @@
           "name": "50ml - Orto Parisi Terroni",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/orto-parisi-terroni",
+          "name": "Vivir — Orto Parisi Terroni",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/terroni-orto-parisi",
+          "name": "Scento — Orto Parisi Terroni",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "A retailer listing quotes 8-12 h; Vivir: 12-14 h and strong sillage; Scento: best for winter and night; Fragman calls sillage close to moderate."
     },
     {
       "name": "Cuoium",
@@ -134,8 +213,42 @@
           "name": "50ml - Orto Parisi Cuoium",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/orto-parisi-cuoium",
+          "name": "Vivir — Orto Parisi Cuoium",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/orto-parisi-cuoium-eau-de-parfum/",
+          "name": "Beautinow — Orto Parisi Cuoium",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Reviews cite 10-16 h; Vivir rates sillage 4/5, one retailer calls it enormous; sources say best for autumn and winter evenings."
     },
     {
       "name": "Risvelium",
@@ -159,8 +272,35 @@
           "name": "ZGO Perfumery - Orto Parisi Risvelium",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/orto-parisi-risvelium",
+          "name": "Vivir — Orto Parisi Risvelium",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/orto-parisi/products/orto-parisi-risvelium-extrait",
+          "name": "Venba — Orto Parisi Risvelium Extrait",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: longevity 5/5, sillage 4/5, strong; Venba: strong sillage for several hours, then a closer musky skin scent."
     },
     {
       "name": "Seminalis",
@@ -184,8 +324,35 @@
           "name": "ZGO Perfumery - Orto Parisi Seminalis",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://beautinow.com/products/orto-parisi-seminalis-eau-de-parfum",
+          "name": "Beautinow — Orto Parisi Seminalis",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/orto-parisi-seminalis-eau-de-parfum",
+          "name": "Scents Angel — Orto Parisi Seminalis",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: 8-10 h, moderate to strong sillage; Scents Angel: 8-12 h; Perfume.com: moderate to strong sillage."
     },
     {
       "name": "Boccanera",
@@ -209,8 +376,35 @@
           "name": "ZGO Perfumery - Orto Parisi Boccanera",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://beautinow.com/products/orto-parisi-boccanera-eau-de-parfum/",
+          "name": "Beautinow — Orto Parisi Boccanera",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/orto-parisi-boccanera-eau-de-parfum",
+          "name": "Scentverdict — Orto Parisi Boccanera EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Listing: 8-10 h and sillage 8/10 (strong); Scentverdict 6-10 h and too strong for the office."
     },
     {
       "name": "Viride",
@@ -234,8 +428,35 @@
           "name": "ZGO Perfumery - Orto Parisi Viride",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://beautinow.com/products/orto-parisi-viride-eau-de-parfum/",
+          "name": "Beautinow — Orto Parisi Viride",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/23390/orto-parisi/viride",
+          "name": "Fragplace — Viride by Orto Parisi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: 8-10 h, moderate sillage; Fragplace: 6-10 h, moderate sillage close to skin; Vivir says strong; one aggregator reports poor performance."
     },
     {
       "name": "Brutus",
@@ -259,8 +480,35 @@
           "name": "ZGO Perfumery - Orto Parisi Brutus",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://vivir.com/article/orto-parisi-brutus",
+          "name": "Vivir — Orto Parisi Brutus",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/orto-parisi-brutus-eau-de-parfum/",
+          "name": "Beautinow — Orto Parisi Brutus",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: 6-8 h on skin; a seller estimates 5-7 h; sillage moderate and tamer than the rest of the house."
     },
     {
       "name": "Stercus",
@@ -290,8 +538,27 @@
           "name": "50ml - Orto Parisi Stercus",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://beautinow.com/products/orto-parisi-stercus-eau-de-parfum/",
+          "name": "Beautinow — Orto Parisi Stercus",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: 8-10 h with strong sillage; reviewers say 1-3 sprays suffice and dosage must be careful."
     }
   ]
 }
