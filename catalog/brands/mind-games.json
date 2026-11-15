@@ -1,0 +1,1089 @@
+{
+  "brand": "Mind Games",
+  "slug": "mind-games",
+  "officialSite": "https://www.mindgamesfragrance.com/",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-15",
+  "researchNotes": "Shopify feed of the official site lists 30 perfumes (all Extrait de Parfum); notes taken from the descriptions (prose, no pyramid, so stored as flat). Sets, minis, decanters, candles and pendants skipped. No performance/season data stated on pages.",
+  "fragrances": [
+    {
+      "name": "Arabian Mate",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christine Hassan",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "lemon",
+          "spiced pear",
+          "cardamom",
+          "rose",
+          "jasmine",
+          "saffron",
+          "oud",
+          "patchouli",
+          "sandalwood",
+          "vanilla",
+          "tonka bean",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/arabian-mate",
+          "name": "Mind Games - Arabian Mate",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "As-Suli's Diamond",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Annick Menardo",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "resinous woods",
+          "fruit",
+          "flower"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/as-suli-s-diamond",
+          "name": "Mind Games - As-Suli's Diamond",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blockade",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mango",
+          "pepper",
+          "tomato leaf",
+          "leather",
+          "oud",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/blockade",
+          "name": "Mind Games - Blockade",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caissa",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "David Apel",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black licorice",
+          "flower",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/caissa",
+          "name": "Mind Games - Caissa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Castling",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "white flowers",
+          "white woods",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/castling",
+          "name": "Mind Games - Castling",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Check Please",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Laure Breysse",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "green apple",
+          "nougat",
+          "hazelnut",
+          "black plum",
+          "cinnamon bark",
+          "oak barrel",
+          "vanilla bourbon",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/check-please",
+          "name": "Mind Games - Check Please",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Checkmate",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "David Apel",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "champagne",
+          "fruit",
+          "flower",
+          "tobacco",
+          "bourbon",
+          "earth",
+          "moss",
+          "patchouli"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/checkmate",
+          "name": "Mind Games - Checkmate",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Counterplay",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cantaloupe",
+          "osmanthus",
+          "ylang-ylang",
+          "patchouli",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/counterplay",
+          "name": "Mind Games - Counterplay",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Double Attack",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "chocolate",
+          "spice",
+          "flower",
+          "bourbon",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/double-attack",
+          "name": "Mind Games - Double Attack",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "En Prise",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "grapefruit",
+          "sugar",
+          "saffron",
+          "vetiver",
+          "moss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/en-prise",
+          "name": "Mind Games - En Prise",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "French Defense",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black cherry",
+          "liqueur",
+          "woods",
+          "amber",
+          "flower"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/french-defense",
+          "name": "Mind Games - French Defense",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gambit",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Carlos Viñals",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "spice",
+          "geranium",
+          "lavender",
+          "sandalwood",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/gambit",
+          "name": "Mind Games - Gambit",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gardez",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Emilie Coppermann",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pepper",
+          "spice",
+          "jasmine",
+          "orris",
+          "fruit",
+          "leather",
+          "woods"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/gardez",
+          "name": "Mind Games - Gardez",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grand Master",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alexandra Carlin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "flower",
+          "coffee",
+          "incense",
+          "myrrh",
+          "dark wood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/grand-master",
+          "name": "Mind Games - Grand Master",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "J'Adoube",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Nathalie Benareau",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pomegranate",
+          "red currant",
+          "mandarin",
+          "leather",
+          "patchouli",
+          "ambrostar"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/j-adoube",
+          "name": "Mind Games - J'Adoube",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kingside",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "David Apel",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom",
+          "grapefruit",
+          "peony",
+          "pistachio",
+          "tonka bean",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/kingside",
+          "name": "Mind Games - Kingside",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Knight's Tour",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "spice",
+          "saffron",
+          "cedarwood",
+          "lavender",
+          "flower",
+          "vetiver",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/knights-tour",
+          "name": "Mind Games - Knight's Tour",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lionora",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "fruit",
+          "flower",
+          "osmanthus",
+          "sandalwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/lionora",
+          "name": "Mind Games - Lionora",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mentor",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Carlos Viñals",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "oud",
+          "amber",
+          "tonka bean",
+          "dark plum"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/mentor",
+          "name": "Mind Games - Mentor",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opera Mate",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "caramel",
+          "musk",
+          "benzoin",
+          "vetiver"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/opera-mate",
+          "name": "Mind Games - Opera Mate",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playmate",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christine Hassan",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "coconut milk",
+          "water lily",
+          "jasmine",
+          "tiare flower",
+          "musk",
+          "vanilla bean",
+          "amber"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/playmate",
+          "name": "Mind Games - Playmate",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prodigy",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Nathalie Benareau",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sandalwood",
+          "vanilla",
+          "blonde woods",
+          "longoza flower",
+          "rose",
+          "cinnamon",
+          "bergamot"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/prodigy",
+          "name": "Mind Games - Prodigy",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Queening",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "orris",
+          "vanilla",
+          "rum",
+          "saffron"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/queening",
+          "name": "Mind Games - Queening",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Queenside",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "pear",
+          "lychee leaf",
+          "flower",
+          "cassis cream",
+          "patchouli",
+          "oakmoss"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/queenside",
+          "name": "Mind Games - Queenside",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ruy Lopez",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black tea",
+          "spice",
+          "black cherry",
+          "leather",
+          "oakwood",
+          "rose",
+          "davana"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/ruy-lopez",
+          "name": "Mind Games - Ruy Lopez",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sans Voir",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sea salt",
+          "grapefruit",
+          "cypress",
+          "freesia",
+          "rose",
+          "palo santo",
+          "guaiac wood",
+          "incense"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/sans-voir",
+          "name": "Mind Games - Sans Voir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scholar's Mate",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom leaf",
+          "grapefruit",
+          "orris",
+          "sandalwood",
+          "vetiver",
+          "smoke"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/scholar-s-mate",
+          "name": "Mind Games - Scholar's Mate",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sissa",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "sesame",
+          "flower",
+          "labdanum",
+          "musk"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/sissa",
+          "name": "Mind Games - Sissa",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Forward",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Nathalie Benareau",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "citrus",
+          "salt",
+          "jasmine",
+          "vanilla"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/the-forward",
+          "name": "Mind Games - The Forward",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vieri",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Christelle Laprade",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemongrass",
+          "citron",
+          "pink pepper",
+          "peony",
+          "camellia tea",
+          "musk",
+          "incense",
+          "amberwood"
+        ]
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.mindgamesfragrance.com/products/vieri",
+          "name": "Mind Games - Vieri",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
