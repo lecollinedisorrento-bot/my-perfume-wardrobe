@@ -260,8 +260,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/creed-eladaria",
+          "name": "Vivir — Creed Eladaria",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/creed-eladaria-edp-1",
+          "name": "Venba Fragrance — Creed Eladaria EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Maxaroma and FragranceX: 6-8 h; Vivir: sillage 3/5, a soft well-mannered trail that draws closer after a couple of hours; Venba estimates 4-6 h."
     },
     {
       "name": "Fragaria",
@@ -347,8 +374,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://perfuum.com/products/creed-royal-mayfair-2024",
+          "name": "Perfuum — Creed Royal Mayfair 2024",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/royal-mayfair-creed-review/",
+          "name": "Best Men's Colognes — Royal Mayfair Creed review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfuum listing: 7-10+ h, moderate-to-strong sillage; Best Men's Colognes review: moderate projection (about 3-4 ft) after a strong first blast."
     },
     {
       "name": "Delphinus",
@@ -391,8 +445,42 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/creed-delphinus",
+          "name": "Vivir — Creed Delphinus",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/delphinus-creed",
+          "name": "Scento — Creed Delphinus",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Vivir: 8-10 h and suited to winter; Scent's Angel: 7-9 h, light to moderate sillage; Scento: moderate projection, best in fall and at night; TheScentBase community average is lower."
     },
     {
       "name": "Centaurus",
@@ -482,8 +570,41 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/creed-queen-of-silk-eau-de-parfum",
+          "name": "Scents Angel — Creed Queen of Silk EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/queen-of-silk-creed",
+          "name": "Scento — Creed Queen of Silk",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scent's Angel lists 8-10 h and strong sillage; Scento: long-lasting, suited to fall and evening; a Parfumo reviewer found sillage moderate and wear good but not all day."
     },
     {
       "name": "Millésime 1849",
@@ -529,8 +650,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/creed-millesime-1849-edp",
+          "name": "Venba Fragrance — Creed Millesime 1849 EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba listing for the 2023 EDP: moderate longevity, typically 4-6 h, moderate sillage that stays fairly close to skin; a decant seller claims much longer."
     },
     {
       "name": "Absolu Aventus",
@@ -671,8 +811,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/creed/spring-flower",
+          "name": "TheScentBase — Spring Flower",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.osmoz.com/inspiration/osmoz-magazine/407/best-creed-perfume-for-her",
+          "name": "Osmoz — Best Creed perfume for her",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "TheScentBase community data: about 4-6 h, intimate projection; Scento user summary: moderate longevity and projection; Osmoz estimates 6-7 h."
     },
     {
       "name": "Wind Flowers",
@@ -714,8 +881,42 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/wind-flowers-creed",
+          "name": "Scento — Wind Flowers",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/creed/wind-flowers",
+          "name": "TheScentBase — Wind Flowers",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Scento user summary: moderate longevity and projection, suited to spring and daytime; TheScentBase: about 4-6 h, intimate projection; Fragrance Review: soft, close aura."
     },
     {
       "name": "Viking Cologne",
@@ -760,8 +961,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://fragplace.com/fragrances/49068/creed/viking-cologne",
+          "name": "Fragplace — Viking Cologne FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentgrail.com/perfume-reviews/creed-viking-review/",
+          "name": "Scent Grail — Creed Viking review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Sources conflict: a listing gives 6-8 h and moderate sillage, a FAQ page 4-6 h moderate; some reviewers report as little as 2 h or weak sillage."
     },
     {
       "name": "Aventus Cologne",
@@ -923,8 +1151,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/creed/love-in-white-for-summer",
+          "name": "TheScentBase — Love in White for Summer",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "TheScentBase community data: longevity about 4-6 h, sillage 2.4/5 described as intimate."
     },
     {
       "name": "Aventus For Her",
@@ -1021,8 +1268,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/creed-royal-princess-oud-2024",
+          "name": "Vivir — Creed Royal Princess Oud 2024",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review of the 2024 edition: longevity 3.5/5 (roughly 6-8 h), sillage 3/5; TheScentBase community average is shorter."
     },
     {
       "name": "Acqua Fiorentina",
@@ -1061,8 +1327,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/creed/acqua-fiorentina/women-perfume",
+          "name": "Perfume.com — Creed Acqua Fiorentina",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://m.johnlewis.com/creed-acqua-fiorentina-eau-de-parfum/p231836084",
+          "name": "John Lewis — Creed Acqua Fiorentina EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume.com: typically 6-8 h; John Lewis listing: moderate scent intensity and moderate longevity; TheScentBase community data is lower (4-6 h, soft)."
     },
     {
       "name": "Virgin Island Water",
@@ -1168,8 +1461,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/creed-love-in-white-edp-review",
+          "name": "Vivir — Creed Love In White review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/love-in-white-by-creed",
+          "name": "Scento — Love in White",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir guide: lasts about 7-9 h on skin, moderate projection that settles to a skin scent after 2-3 h; Scento user-review summary: long-lasting, moderate projection."
     },
     {
       "name": "Love in Black",
@@ -1387,8 +1707,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/creed-original-vetiver-eau-de-parfum",
+          "name": "Scentverdict — Creed Original Vetiver EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.adorebeauty.com.au/p/creed/creed-original-vetiver-edp-100ml.html",
+          "name": "Adore Beauty — Creed Original Vetiver EDP 100ml",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scentverdict comparison page: roughly 4-6 h for the EDP; Adore Beauty listing: moderate sillage, noticeable up close."
     },
     {
       "name": "Himalaya",
@@ -1487,8 +1834,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/creed-tabarome-millesime-eau-de-parfum",
+          "name": "Scents Angel — Creed Tabarome Millesime EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Retailer listing: 7-10 h, moderate to strong sillage; reviewers report 6-8 h and note batch variation."
     },
     {
       "name": "Royal Water",
@@ -1527,8 +1893,42 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/en/perfumes/royal-water-creed",
+          "name": "Scento — Royal Water",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/royal-water-by-creed-fragrance-review/",
+          "name": "Best Men's Colognes — Royal Water by Creed review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Scento: moderate longevity and projection, best for summer and daytime; a Best Men's Colognes review has it projecting about 3-5 ft; wear times quoted 4-8 h."
     },
     {
       "name": "Silver Mountain Water",
@@ -1833,8 +2233,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/bois-du-portugal-creed",
+          "name": "Scento — Creed Bois du Portugal",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scento user-review summary: long-lasting, moderate projection; Parfumo reviewers cite roughly 9 h but sillage opinions vary."
     },
     {
       "name": "Fleurissimo",
@@ -1876,8 +2295,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/creed-fleurissimo-eau-de-parfum",
+          "name": "Scentverdict — Creed Fleurissimo EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/?p=26773",
+          "name": "Fragrance Review — Creed Fleurissimo",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 2,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict: moderate sillage with subtle projection, office-appropriate; Fragrance Review: soft and quiet, longevity may seem underwhelming; other pages cite 3-8 h."
     },
     {
       "name": "White Amber",
@@ -1919,8 +2365,42 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/creed/white-amber",
+          "name": "TheScentBase — White Amber",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/white-amber-creed",
+          "name": "Scento — White Amber",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "TheScentBase: about 4-6 h, sillage 2.6/5 (intimate), a soft daytime/office scent; Scento retailer copy claims longer wear and suggests fall, winter and evenings; one reviewer reports only ~2 h."
     },
     {
       "name": "White Flowers",
@@ -1961,8 +2441,40 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/?p=26807",
+          "name": "Fragrance Review — Creed White Flowers",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/creed/white-flowers",
+          "name": "TheScentBase — White Flowers",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fragrance Review: average longevity needing a top-up, stays close to skin, recommended for spring and summer; TheScentBase community average around 3 h."
     },
     {
       "name": "Jardin d'Amalfi",
@@ -2004,8 +2516,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/compare/creed-jardin-damalfi-eau-de-parfum/maison-alhambra-sceptre-malachite-eau-de-parfum",
+          "name": "Scentverdict — Creed Jardin d'Amalfi EDP",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/?p=26159",
+          "name": "Fragrance Review — Creed Jardin d'Amalfi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict: about 4-6 h, moderate projection; Fragrance Review: moderate longevity and quite soft sillage; some reviewers call it short-lived."
     },
     {
       "name": "Pure White Cologne",
