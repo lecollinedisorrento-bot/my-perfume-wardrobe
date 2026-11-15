@@ -6,7 +6,7 @@ import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync } from 
 
 const root = new URL('..', import.meta.url);
 const dir = new URL('catalog/brands/', root);
-const SOURCE_TYPES = new Set(['official', 'retailer', 'database', 'publication']);
+const SOURCE_TYPES = new Set(['official', 'retailer', 'database', 'publication', 'user']);
 const FACTS = new Set(['notes', 'accords', 'family', 'year', 'perfumer', 'concentration', 'discontinued', 'performance', 'usage']);
 const LEVEL = (x) => (Number.isInteger(x) && x >= 1 && x <= 5 ? x : null);
 const SEASONS = new Set(['spring', 'summer', 'autumn', 'winter']);
@@ -45,7 +45,8 @@ for (const file of files) {
     seen.add(key);
     const sources = Array.isArray(f.sources) ? f.sources : [];
     const valid = sources.filter((s) => {
-      const ok = typeof s?.url === 'string' && /^https?:\/\/[^\s]+$/.test(s.url) && SOURCE_TYPES.has(s.type);
+      // 'user': information the app owner supplied (no web page to link).
+      const ok = SOURCE_TYPES.has(s?.type) && (s.type === 'user' ? !s.url : typeof s?.url === 'string' && /^https?:\/\/[^\s]+$/.test(s.url));
       if (!ok) warnings.push(where(i, `dropped malformed source ${JSON.stringify(s?.url ?? s)}`));
       return ok;
     });
@@ -74,7 +75,7 @@ for (const file of files) {
       ns: hasNotes && supported.has('notes') ? (f.noteSource === 'official' && valid.some((s) => s.type === 'official' && s.supports?.includes('notes')) ? 'official' : 'reported') : 'none',
       col: f.collection ?? null,
       d: f.discontinued === true || undefined,
-      s: valid.map((s) => ({ u: s.url, n: s.name || new URL(s.url).hostname, t: s.type, f: (s.supports ?? []).filter((x) => FACTS.has(x)) })),
+      s: valid.map((s) => ({ u: s.url || '', n: s.name || (s.url ? new URL(s.url).hostname : 'User'), t: s.type, f: (s.supports ?? []).filter((x) => FACTS.has(x)) })),
       r: b.retrievedAt ?? null,
     };
     const img = images[`${b.brand}|${f.name}`];

@@ -334,6 +334,7 @@ export const en = {
   'srcType.database': 'Database',
   'srcType.publication': 'Publication',
   'srcType.community': 'Community',
+  'srcType.user': 'From you',
   'conf.high': 'High confidence',
   'conf.medium': 'Medium confidence',
   'conf.low': 'Low confidence',

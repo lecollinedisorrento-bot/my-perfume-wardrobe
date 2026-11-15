@@ -65,7 +65,7 @@ export function BottleImage({
         </span>
         {showLabel && (
           <span className="img-label">
-            {tk(`img.kind.${cat.t === 'official' ? 'official' : 'retailer'}`)} · {cat.n}
+            {cat.t === 'user' ? tk('img.kind.user_photo') : `${tk(`img.kind.${cat.t === 'official' ? 'official' : 'retailer'}`)} · ${cat.n}`}
           </span>
         )}
       </div>

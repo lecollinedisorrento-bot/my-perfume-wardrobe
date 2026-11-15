@@ -325,6 +325,7 @@ export const it: Record<MessageKey, string> = {
   'srcType.database': 'Database',
   'srcType.publication': 'Rivista',
   'srcType.community': 'Community',
+  'srcType.user': 'Fornito da te',
   'conf.high': 'Affidabilità alta',
   'conf.medium': 'Affidabilità media',
   'conf.low': 'Affidabilità bassa',

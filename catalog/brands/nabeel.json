@@ -113,7 +113,7 @@
     {
       "name": "Irth Boom",
       "collection": null,
-      "concentration": "Eau de Parfum",
+      "concentration": "Extrait de Parfum",
       "releaseYear": 2026,
       "perfumer": null,
       "family": null,
@@ -122,12 +122,33 @@
         "top": [
           "apple",
           "pineapple",
-          "strawberry"
+          "strawberry",
+          "peach",
+          "pink pepper",
+          "cinnamon",
+          "cardamom",
+          "coffee"
         ],
-        "heart": [],
+        "heart": [
+          "jasmine",
+          "lily of the valley",
+          "iris",
+          "oud",
+          "cedar",
+          "sandalwood",
+          "saffron"
+        ],
         "base": [
           "patchouli",
-          "sandalwood"
+          "vetiver",
+          "guaiac wood",
+          "leather",
+          "incense",
+          "labdanum",
+          "ambergris",
+          "vanilla",
+          "white musk",
+          "oakmoss"
         ],
         "flat": []
       },
@@ -146,6 +167,13 @@
           "url": "https://www.amazon.it/Irth-Boom-50-Eau-Parfum/dp/B0HMWQBCGM",
           "name": "Amazon Italy — Irth Boom 50ml Eau de Parfum (search result only, page unavailable)",
           "type": "retailer",
+          "supports": [
+            "year"
+          ]
+        },
+        {
+          "name": "Product description supplied by the app owner",
+          "type": "user",
           "supports": [
             "notes",
             "concentration"

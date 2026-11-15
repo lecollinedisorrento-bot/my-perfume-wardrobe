@@ -39,7 +39,7 @@ export type NoteSource = 'official' | 'reported' | 'ai_interpretation' | 'user' 
 
 export type Verification = 'verified' | 'partially_verified' | 'unverified' | 'user_entered';
 
-export type SourceType = 'official' | 'retailer' | 'database' | 'publication' | 'community';
+export type SourceType = 'official' | 'retailer' | 'database' | 'publication' | 'community' | 'user';
 
 export interface SourceRef {
   name: string;

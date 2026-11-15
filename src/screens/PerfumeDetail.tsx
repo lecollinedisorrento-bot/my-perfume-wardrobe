@@ -212,11 +212,15 @@ export function PerfumeDetail() {
               <ul className="sources">
                 {f.research.sources.length === 0 && <li className="dim small">{t('profile.noSources')}</li>}
                 {f.research.sources.map((s) => (
-                  <li key={s.url}>
+                  <li key={s.url || s.name}>
                     <span className="tag">{tk(`srcType.${s.type}`)}</span>{' '}
-                    <a href={s.url} target="_blank" rel="noopener noreferrer">
-                      {s.name}
-                    </a>
+                    {s.url ? (
+                      <a href={s.url} target="_blank" rel="noopener noreferrer">
+                        {s.name}
+                      </a>
+                    ) : (
+                      <span>{s.name}</span>
+                    )}
                     <span className="tiny dim">
                       {' '}
                       · {t('profile.retrieved', { date: s.retrievedAt })}

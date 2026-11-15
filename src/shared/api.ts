@@ -112,7 +112,7 @@ export interface ResearchedProfile {
 export interface ResearchSource {
   name: string;
   url: string;
-  type: 'official' | 'retailer' | 'database' | 'publication' | 'community';
+  type: 'official' | 'retailer' | 'database' | 'publication' | 'community' | 'user';
   retrievedAt: string;
   supports: string[];
 }
