@@ -401,8 +401,27 @@
             "year",
             "family"
           ]
+        },
+        {
+          "url": "https://www.cosmopolitan.com/style-beauty/beauty/a69030615/prada-paradoxe-intense-perfume-review/",
+          "name": "Cosmopolitan — Prada Paradoxe Intense review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Cosmopolitan tester: still strong after an 8 h workday plus commute, excellent sillage that lingers in rooms, impressive projection, days on clothes; two sprays are enough."
     },
     {
       "name": "Paradoxe Virtual Flower",

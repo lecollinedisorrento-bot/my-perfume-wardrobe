@@ -114,8 +114,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/dolce-gabbana-devotion-eau-de-parfum-review",
+          "name": "Escentual — Dolce & Gabbana Devotion EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: about 5-6 h with generous sprays, lingered well and got compliments; no sillage level stated."
     },
     {
       "name": "The One",
@@ -865,8 +884,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://heartnotes.co.uk/blogs/blog-posts/dolce-gabbana-k-parfum-dark-spicy-fig-heaven",
+          "name": "Heart Notes — Dolce & Gabbana K Parfum review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Heart Notes review: about two feet of projection for the first 1-2 h, 6-8 h clearly perceptible on skin, 8-10 h on fabric."
     },
     {
       "name": "K by Dolce&Gabbana",
@@ -956,8 +994,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/dolce-gabbana-k-eau-de-parfum-review",
+          "name": "Escentual — K By Dolce&Gabbana EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: typically about 8 h and one of the longest-lasting scents the reviewer tried; projects without needing to lean in."
     },
     {
       "name": "K by Dolce&Gabbana",

@@ -101,8 +101,40 @@
             "notes",
             "year"
           ]
+        },
+        {
+          "url": "https://fragranxe.com/fragrance/voce-viva-intensa-by-valentino",
+          "name": "Fragranxe — Valentino Voce Viva Intensa review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/valentino-voce-viva-intensa-eau-de-parfum-review",
+          "name": "Escentual — Valentino Voce Viva Intensa EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fragranxe: 6-8 h on skin, 2-3 ft projection for the first 2 h then close, best in spring, autumn and mild winter; Escentual: over eight hours on skin."
     },
     {
       "name": "Valentino Donna Born In Roma",

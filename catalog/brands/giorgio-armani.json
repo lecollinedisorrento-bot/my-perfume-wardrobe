@@ -187,8 +187,42 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://everfumed.com/armani-code-for-men/",
+          "name": "Everfumed — Armani Code for Men EDT review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/giorgio-armani-armani-code-pour-homme",
+          "name": "Vivir — Giorgio Armani Armani Code Pour Homme review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Everfumed (EDT): 3-6 h, solid refined projection, best evenings and cooler weather; Vivir: 4-5 h, moderate projection and sillage for the first 2-3 h, an evening scent."
     },
     {
       "name": "Armani Code Absolu",

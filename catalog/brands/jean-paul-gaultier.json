@@ -1193,8 +1193,39 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/jean-paul-gaultier-scandal-le-parfum-eau-de-parfum-review",
+          "name": "Escentual — JPG Scandal Le Parfum EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/jean-paul-gaultier-scandal-le-parfum-review/",
+          "name": "iFragrance — JPG Scandal Le Parfum review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Escentual: lasted a good six hours with impressive projection; iFragrance: projects well but under two hours then skin scent, about a day on fabric, wintry and too heavy for heat."
     },
     {
       "name": "Le Beau Le Parfum",
@@ -1232,8 +1263,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/jean-paul-gaultier-le-beau-le-parfum-eau-de-parfum-spray",
+          "name": "Escentual — JPG Le Beau Le Parfum review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: really long-lasting, about eight to nine hours when tested; no sillage level stated."
     }
   ]
 }

@@ -413,8 +413,39 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://fragranxe.com/fragrance/bright-crystal-parfum-by-versace",
+          "name": "Fragranxe — Versace Bright Crystal Parfum review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/versace-bright-crystal-parfum-review",
+          "name": "Vivir — Versace Bright Crystal review (EDT, Parfum)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fragranxe: 7-9 h on skin, strong 2-3 ft projection for the first 2 h then arm's length, spring and air-conditioned summer wear; Vivir: 8-10 h, projects strongly for 2-3 h, moderate-to-heavy trail."
     },
     {
       "name": "Crystal Noir",
