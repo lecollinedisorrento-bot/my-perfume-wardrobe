@@ -15,12 +15,51 @@
       "perfumer": "Alberto Morillas",
       "family": null,
       "accords": [],
-      "notes": { "top": ["jasmine"], "heart": ["tuberose"], "base": ["rangoon creeper"], "flat": [] },
+      "notes": {
+        "top": [
+          "jasmine"
+        ],
+        "heart": [
+          "tuberose"
+        ],
+        "base": [
+          "rangoon creeper"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/gucci-bloom-gucci", "name": "Scento — Gucci Bloom", "type": "retailer", "supports": ["notes", "year", "perfumer"] }
-      ]
+        {
+          "url": "https://www.scento.com/perfumes/gucci-bloom-gucci",
+          "name": "Scento — Gucci Bloom",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Gucci Bloom",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Gucci Guilty",
@@ -30,11 +69,39 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["pink pepper", "mandarin orange", "bergamot"], "heart": ["lilac", "peach", "geranium", "jasmine"], "base": ["amber", "white musk", "vanilla", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper",
+          "mandarin orange",
+          "bergamot"
+        ],
+        "heart": [
+          "lilac",
+          "peach",
+          "geranium",
+          "jasmine"
+        ],
+        "base": [
+          "amber",
+          "white musk",
+          "vanilla",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/gucci-guilty-gucci", "name": "Scento — Gucci Guilty", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+        {
+          "url": "https://www.scento.com/perfumes/gucci-guilty-gucci",
+          "name": "Scento — Gucci Guilty",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -45,11 +112,36 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["red berries", "italian mandarin", "pear blossom"], "heart": ["gardenia", "jasmine", "frangipani"], "base": ["brown sugar", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "red berries",
+          "italian mandarin",
+          "pear blossom"
+        ],
+        "heart": [
+          "gardenia",
+          "jasmine",
+          "frangipani"
+        ],
+        "base": [
+          "brown sugar",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/flora-gorgeous-gardenia-gucci", "name": "Scento — Gucci Flora Gorgeous Gardenia", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+        {
+          "url": "https://www.scento.com/perfumes/flora-gorgeous-gardenia-gucci",
+          "name": "Scento — Gucci Flora Gorgeous Gardenia",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -60,11 +152,38 @@
       "perfumer": "Michel Almairac",
       "family": null,
       "accords": [],
-      "notes": { "top": ["californian gardenia", "african freesia petals", "peach"], "heart": ["coriander", "damask rose", "jasmine"], "base": ["natural vanilla", "vetiver", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "californian gardenia",
+          "african freesia petals",
+          "peach"
+        ],
+        "heart": [
+          "coriander",
+          "damask rose",
+          "jasmine"
+        ],
+        "base": [
+          "natural vanilla",
+          "vetiver",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/gucci-rush-gucci", "name": "Scento — Gucci Rush", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+        {
+          "url": "https://www.scento.com/perfumes/gucci-rush-gucci",
+          "name": "Scento — Gucci Rush",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -75,11 +194,34 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot"], "heart": ["casablanca lily", "ylang-ylang", "orange blossom"], "base": ["amber", "sandalwood", "tahitian vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "casablanca lily",
+          "ylang-ylang",
+          "orange blossom"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "tahitian vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/gucci-bamboo-gucci", "name": "Scento — Gucci Bamboo", "type": "retailer", "supports": ["notes", "year"] }
+        {
+          "url": "https://www.scento.com/perfumes/gucci-bamboo-gucci",
+          "name": "Scento — Gucci Bamboo",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -90,11 +232,40 @@
       "perfumer": "Aurélien Guichard",
       "family": null,
       "accords": [],
-      "notes": { "top": ["frankincense", "raspberry", "saffron", "pear"], "heart": ["damask rose", "musk", "orange blossom"], "base": ["agarwood", "leather", "patchouli", "ambergris"], "flat": [] },
+      "notes": {
+        "top": [
+          "frankincense",
+          "raspberry",
+          "saffron",
+          "pear"
+        ],
+        "heart": [
+          "damask rose",
+          "musk",
+          "orange blossom"
+        ],
+        "base": [
+          "agarwood",
+          "leather",
+          "patchouli",
+          "ambergris"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/intense-oud-gucci", "name": "Scento — Gucci Intense Oud", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+        {
+          "url": "https://www.scento.com/perfumes/intense-oud-gucci",
+          "name": "Scento — Gucci Intense Oud",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -105,11 +276,38 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "black pepper", "italian mandarin"], "heart": ["jasmine", "jasmine sambac", "magnolia", "damask rose"], "base": ["patchouli", "australian sandalwood", "benzoin"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "black pepper",
+          "italian mandarin"
+        ],
+        "heart": [
+          "jasmine",
+          "jasmine sambac",
+          "magnolia",
+          "damask rose"
+        ],
+        "base": [
+          "patchouli",
+          "australian sandalwood",
+          "benzoin"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/flora-gorgeous-jasmine-gucci", "name": "Scento — Gucci Flora Gorgeous Jasmine", "type": "retailer", "supports": ["notes", "concentration", "year"] }
+        {
+          "url": "https://www.scento.com/perfumes/flora-gorgeous-jasmine-gucci",
+          "name": "Scento — Gucci Flora Gorgeous Jasmine",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -120,11 +318,32 @@
       "perfumer": "Marie Salamagne",
       "family": null,
       "accords": [],
-      "notes": { "top": ["vanilla"], "heart": ["vanilla orchid"], "base": ["ozonic notes"], "flat": [] },
+      "notes": {
+        "top": [
+          "vanilla"
+        ],
+        "heart": [
+          "vanilla orchid"
+        ],
+        "base": [
+          "ozonic notes"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/flora-gorgeous-orchid-gucci", "name": "Scento — Gucci Flora Gorgeous Orchid", "type": "retailer", "supports": ["notes", "concentration", "year", "perfumer"] }
+        {
+          "url": "https://www.scento.com/perfumes/flora-gorgeous-orchid-gucci",
+          "name": "Scento — Gucci Flora Gorgeous Orchid",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -135,11 +354,37 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["pear", "ginger", "mandarin orange"], "heart": ["tuberose", "night blooming jasmine", "jasmine sambac", "orange blossom"], "base": ["patchouli", "moss", "coconut"], "flat": [] },
+      "notes": {
+        "top": [
+          "pear",
+          "ginger",
+          "mandarin orange"
+        ],
+        "heart": [
+          "tuberose",
+          "night blooming jasmine",
+          "jasmine sambac",
+          "orange blossom"
+        ],
+        "base": [
+          "patchouli",
+          "moss",
+          "coconut"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/gucci-bloom-intense-gucci", "name": "Scento — Gucci Bloom Intense", "type": "retailer", "supports": ["notes", "year"] }
+        {
+          "url": "https://www.scento.com/perfumes/gucci-bloom-intense-gucci",
+          "name": "Scento — Gucci Bloom Intense",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -150,11 +395,37 @@
       "perfumer": "Alberto Morillas, Alessandro Michele",
       "family": null,
       "accords": [],
-      "notes": { "top": ["blackberry", "pink pepper", "bergamot"], "heart": ["vetiver", "cypress", "bulgarian rose", "woody notes"], "base": ["indian patchouli", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "blackberry",
+          "pink pepper",
+          "bergamot"
+        ],
+        "heart": [
+          "vetiver",
+          "cypress",
+          "bulgarian rose",
+          "woody notes"
+        ],
+        "base": [
+          "indian patchouli",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/gucci-guilty-absolute-pour-femme-gucci", "name": "Scento — Gucci Guilty Absolute Pour Femme", "type": "retailer", "supports": ["notes", "year", "perfumer"] }
+        {
+          "url": "https://www.scento.com/perfumes/gucci-guilty-absolute-pour-femme-gucci",
+          "name": "Scento — Gucci Guilty Absolute Pour Femme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -165,11 +436,34 @@
       "perfumer": "Jacques Huclier",
       "family": null,
       "accords": [],
-      "notes": { "top": ["lavender", "amalfi lemon"], "heart": ["african orange flower"], "base": ["virginia cedar", "patchouli", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "lavender",
+          "amalfi lemon"
+        ],
+        "heart": [
+          "african orange flower"
+        ],
+        "base": [
+          "virginia cedar",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/guilty-pour-homme-gucci", "name": "Scento — Guilty Pour Homme", "type": "retailer", "supports": ["notes", "year", "perfumer"] }
+        {
+          "url": "https://www.scento.com/perfumes/guilty-pour-homme-gucci",
+          "name": "Scento — Guilty Pour Homme",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     }
   ]

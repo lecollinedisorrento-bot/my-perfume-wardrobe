@@ -842,12 +842,35 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "lemon",
+          "almond",
+          "coffee"
+        ],
+        "heart": [
+          "tuberose",
+          "jasmine sambac",
+          "orange blossom",
+          "bulgarian rose",
+          "orris"
+        ],
+        "base": [
+          "tonka bean",
+          "cacao",
+          "vanilla",
+          "praline",
+          "sandalwood",
+          "musk",
+          "amber",
+          "cashmere wood",
+          "patchouli",
+          "cinnamon",
+          "cedar"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -863,6 +886,14 @@
           "supports": [
             "performance",
             "usage"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Carolina Herrera Good Girl",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],

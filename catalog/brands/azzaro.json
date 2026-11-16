@@ -15,12 +15,31 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Azzaro/Chrome-788.html", "name": "Fragrantica - Chrome Azzaro", "type": "database", "supports": ["year"] },
-        { "url": "https://www.fragranceoutlet.com/products/azzaro-chrome-cologne-for-men-eau-de-toilette-spray", "name": "Fragrance Outlet - Azzaro Chrome Eau de Toilette", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.fragrantica.com/perfume/Azzaro/Chrome-788.html",
+          "name": "Fragrantica - Chrome Azzaro",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.fragranceoutlet.com/products/azzaro-chrome-cologne-for-men-eau-de-toilette-spray",
+          "name": "Fragrance Outlet - Azzaro Chrome Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -31,11 +50,36 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "lemon", "grapefruit"], "heart": ["aquatic notes", "ginger", "jasmine"], "base": ["cedarwood", "musk", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "grapefruit"
+        ],
+        "heart": [
+          "aquatic notes",
+          "ginger",
+          "jasmine"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.walmart.com/ip/Azzaro-Chrome-EDP-for-Men-100-Ml/1579846968", "name": "Walmart - Azzaro Chrome EDP for Men", "type": "retailer", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.walmart.com/ip/Azzaro-Chrome-EDP-for-Men-100-Ml/1579846968",
+          "name": "Walmart - Azzaro Chrome EDP for Men",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -46,12 +90,31 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Azzaro/Wanted-38686.html", "name": "Fragrantica - Wanted Azzaro", "type": "database", "supports": ["year"] },
-        { "url": "https://theperfumespot.com/azzaro-wanted-by-azzaro-3-38-oz-edp-spray-for-men/", "name": "The Perfume Spot - Azzaro Wanted EDP", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.fragrantica.com/perfume/Azzaro/Wanted-38686.html",
+          "name": "Fragrantica - Wanted Azzaro",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        },
+        {
+          "url": "https://theperfumespot.com/azzaro-wanted-by-azzaro-3-38-oz-edp-spray-for-men/",
+          "name": "The Perfume Spot - Azzaro Wanted EDP",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -62,11 +125,44 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [
+          "lemon",
+          "ginger",
+          "lavender",
+          "mint"
+        ],
+        "heart": [
+          "apple",
+          "juniper",
+          "guatemalan cardamom"
+        ],
+        "base": [
+          "tonka bean",
+          "amberwood",
+          "haitian vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://decantboutique.com/product/azzaro-wanted-edt/", "name": "Decant Boutique - Azzaro Wanted EDT", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://decantboutique.com/product/azzaro-wanted-edt/",
+          "name": "Decant Boutique - Azzaro Wanted EDT",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Azzaro Wanted",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -77,11 +173,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.loreal.com/en/loreal-luxe/azzaro/", "name": "L'Oreal Luxe - Azzaro", "type": "publication", "supports": [] }
+        {
+          "url": "https://www.loreal.com/en/loreal-luxe/azzaro/",
+          "name": "L'Oreal Luxe - Azzaro",
+          "type": "publication",
+          "supports": []
+        }
       ]
     },
     {
@@ -92,11 +198,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.loreal.com/en/loreal-luxe/azzaro/", "name": "L'Oreal Luxe - Azzaro", "type": "publication", "supports": ["year"] }
+        {
+          "url": "https://www.loreal.com/en/loreal-luxe/azzaro/",
+          "name": "L'Oreal Luxe - Azzaro",
+          "type": "publication",
+          "supports": [
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -107,12 +225,54 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "lavender"
+        ],
+        "heart": [
+          "geranium",
+          "ambroxan",
+          "cedar"
+        ],
+        "base": [
+          "vetiver",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.azzaro.com/en/fragrances", "name": "Azzaro - Fragrances", "type": "official", "supports": [] }
-      ]
+        {
+          "url": "https://www.azzaro.com/en/fragrances",
+          "name": "Azzaro - Fragrances",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Azzaro Pour Homme",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Azzaro Sport",
@@ -122,12 +282,54 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "ginger"
+        ],
+        "heart": [
+          "cardamom",
+          "lavender",
+          "cinnamon"
+        ],
+        "base": [
+          "cedarwood",
+          "vetiver",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.loreal.com/en/loreal-luxe/azzaro/", "name": "L'Oreal Luxe - Azzaro", "type": "publication", "supports": [] }
-      ]
+        {
+          "url": "https://www.loreal.com/en/loreal-luxe/azzaro/",
+          "name": "L'Oreal Luxe - Azzaro",
+          "type": "publication",
+          "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Azzaro Sport",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Levanzo",
@@ -137,11 +339,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.azzaro.com/en/fragrances", "name": "Azzaro - Fragrances", "type": "official", "supports": [] }
+        {
+          "url": "https://www.azzaro.com/en/fragrances",
+          "name": "Azzaro - Fragrances",
+          "type": "official",
+          "supports": []
+        }
       ]
     },
     {
@@ -152,12 +364,55 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink grapefruit",
+          "lemon"
+        ],
+        "heart": [
+          "peony",
+          "rose",
+          "lily of the valley",
+          "iris"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.azzaro.com/en/fragrances", "name": "Azzaro - Fragrances", "type": "official", "supports": [] }
-      ]
+        {
+          "url": "https://www.azzaro.com/en/fragrances",
+          "name": "Azzaro - Fragrances",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Azzaro Pour Elle",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 2.5/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Mademoiselle",
@@ -167,11 +422,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.azzaro.com/en/fragrances", "name": "Azzaro - Fragrances", "type": "official", "supports": [] }
+        {
+          "url": "https://www.azzaro.com/en/fragrances",
+          "name": "Azzaro - Fragrances",
+          "type": "official",
+          "supports": []
+        }
       ]
     }
   ]

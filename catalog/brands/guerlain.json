@@ -16,15 +16,37 @@
       "family": "Oriental",
       "accords": [],
       "notes": {
-        "top": ["bergamot", "lemon"],
-        "heart": ["rose", "jasmine"],
-        "base": ["patchouli", "vanilla", "iris", "tonka bean"],
+        "top": [
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla",
+          "iris",
+          "tonka bean"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/shalimar", "name": "Olfastory - Shalimar", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/shalimar",
+          "name": "Olfastory - Shalimar",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -36,15 +58,37 @@
       "family": "Oriental",
       "accords": [],
       "notes": {
-        "top": ["rosewater", "almond", "bergamot"],
-        "heart": ["damask rose", "centifolia rose"],
-        "base": ["vanilla", "patchouli"],
+        "top": [
+          "rosewater",
+          "almond",
+          "bergamot"
+        ],
+        "heart": [
+          "damask rose",
+          "centifolia rose"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/shalimar-millesime-rose-eau-de-parfum-guerlain", "name": "Olfastory - Shalimar Millésime Rose", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family", "accords"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/shalimar-millesime-rose-eau-de-parfum-guerlain",
+          "name": "Olfastory - Shalimar Millésime Rose",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family",
+            "accords"
+          ]
+        }
       ]
     },
     {
@@ -56,15 +100,37 @@
       "family": "Aromatic",
       "accords": [],
       "notes": {
-        "top": ["lavender", "bergamot"],
-        "heart": ["jasmine", "paradisone", "coumarin"],
-        "base": ["vanilla", "iris", "sandalwood"],
+        "top": [
+          "lavender",
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine",
+          "paradisone",
+          "coumarin"
+        ],
+        "base": [
+          "vanilla",
+          "iris",
+          "sandalwood"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/mon-guerlain", "name": "Olfastory - Mon Guerlain", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/mon-guerlain",
+          "name": "Olfastory - Mon Guerlain",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -76,15 +142,39 @@
       "family": "Oriental",
       "accords": [],
       "notes": {
-        "top": ["anise", "bergamot"],
-        "heart": ["carnation", "neroli"],
-        "base": ["iris", "violet", "vanilla", "benzoin", "tonka bean"],
+        "top": [
+          "anise",
+          "bergamot"
+        ],
+        "heart": [
+          "carnation",
+          "neroli"
+        ],
+        "base": [
+          "iris",
+          "violet",
+          "vanilla",
+          "benzoin",
+          "tonka bean"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/lheure-bleue", "name": "Olfastory - L'Heure Bleue", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family", "accords"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/lheure-bleue",
+          "name": "Olfastory - L'Heure Bleue",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family",
+            "accords"
+          ]
+        }
       ]
     },
     {
@@ -96,15 +186,37 @@
       "family": "Chypre",
       "accords": [],
       "notes": {
-        "top": ["bergamot"],
-        "heart": ["peach", "jasmine", "rose"],
-        "base": ["tree moss", "patchouli", "vetiver", "spice"],
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "peach",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "tree moss",
+          "patchouli",
+          "vetiver",
+          "spice"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/mitsouko", "name": "Olfastory - Mitsouko", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/mitsouko",
+          "name": "Olfastory - Mitsouko",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -116,16 +228,58 @@
       "family": "Fougère",
       "accords": [],
       "notes": {
-        "top": ["lavender", "rosemary", "bergamot"],
-        "heart": ["rose", "jasmine", "rosewood"],
-        "base": ["coumarin", "tonka bean", "vanillin", "civet"],
+        "top": [
+          "lavender",
+          "rosemary",
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "rosewood"
+        ],
+        "base": [
+          "coumarin",
+          "tonka bean",
+          "vanillin",
+          "civet"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/jicky/composition", "name": "Olfastory - Jicky", "type": "database", "supports": ["notes", "year", "perfumer", "family"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/jicky/composition",
+          "name": "Olfastory - Jicky",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Guerlain Jicky",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Samsara",
@@ -136,15 +290,36 @@
       "family": "Oriental",
       "accords": [],
       "notes": {
-        "top": ["bergamot"],
-        "heart": ["rose", "jasmine", "ylang-ylang"],
-        "base": ["vanilla", "sandalwood", "tonka bean"],
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "ylang-ylang"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "tonka bean"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/samsara", "name": "Olfastory - Samsara", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/samsara",
+          "name": "Olfastory - Samsara",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -156,16 +331,60 @@
       "family": "Oriental",
       "accords": [],
       "notes": {
-        "top": ["mandarin", "bergamot", "lemon"],
-        "heart": ["orange blossom", "jasmine", "galbanum", "jonquil"],
-        "base": ["oakmoss", "vanilla", "sandalwood", "iris"],
+        "top": [
+          "mandarin",
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine",
+          "galbanum",
+          "jonquil"
+        ],
+        "base": [
+          "oakmoss",
+          "vanilla",
+          "sandalwood",
+          "iris"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/vol-de-nuit", "name": "Olfastory - Vol de Nuit", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/vol-de-nuit",
+          "name": "Olfastory - Vol de Nuit",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Guerlain Vol De Nuit",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 5/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Habit Rouge",
@@ -174,17 +393,45 @@
       "releaseYear": 1965,
       "perfumer": "Jean-Paul Guerlain",
       "family": "Oriental",
-      "accords": ["leather", "tobacco"],
+      "accords": [
+        "leather",
+        "tobacco"
+      ],
       "notes": {
-        "top": ["mandarin", "lemon", "bergamot"],
-        "heart": ["carnation", "patchouli", "cinnamon", "cedarwood"],
-        "base": ["vanilla", "amber", "benzoin"],
+        "top": [
+          "mandarin",
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "carnation",
+          "patchouli",
+          "cinnamon",
+          "cedarwood"
+        ],
+        "base": [
+          "vanilla",
+          "amber",
+          "benzoin"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/habit-rouge/composition", "name": "Olfastory - Habit Rouge", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family", "accords"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/habit-rouge/composition",
+          "name": "Olfastory - Habit Rouge",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family",
+            "accords"
+          ]
+        }
       ]
     },
     {
@@ -196,15 +443,37 @@
       "family": "Citrus",
       "accords": [],
       "notes": {
-        "top": ["mint", "lemon", "thyme"],
-        "heart": ["neroli", "jasmine", "carnation"],
-        "base": ["vetiver", "patchouli"],
+        "top": [
+          "mint",
+          "lemon",
+          "thyme"
+        ],
+        "heart": [
+          "neroli",
+          "jasmine",
+          "carnation"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/eau-de-guerlain", "name": "Olfastory - Eau de Guerlain", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/eau-de-guerlain",
+          "name": "Olfastory - Eau de Guerlain",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -216,15 +485,37 @@
       "family": "Citrus",
       "accords": [],
       "notes": {
-        "top": ["grapefruit", "lemon", "bergamot"],
-        "heart": ["almond", "cinnamon"],
-        "base": ["vanillin", "vetiver", "incense"],
+        "top": [
+          "grapefruit",
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "almond",
+          "cinnamon"
+        ],
+        "base": [
+          "vanillin",
+          "vetiver",
+          "incense"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/lhomme-ideal-cologne-forte", "name": "Olfastory - L'Homme Idéal Cologne Forte", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/lhomme-ideal-cologne-forte",
+          "name": "Olfastory - L'Homme Idéal Cologne Forte",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -236,15 +527,35 @@
       "family": "Oriental",
       "accords": [],
       "notes": {
-        "top": ["clove", "honey"],
-        "heart": ["sesame", "vanilla", "oud"],
-        "base": ["tonka bean", "sandalwood"],
+        "top": [
+          "clove",
+          "honey"
+        ],
+        "heart": [
+          "sesame",
+          "vanilla",
+          "oud"
+        ],
+        "base": [
+          "tonka bean",
+          "sandalwood"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/guerlain-tobacco-honey", "name": "Olfastory - Tobacco Honey", "type": "database", "supports": ["notes", "concentration", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/guerlain-tobacco-honey",
+          "name": "Olfastory - Tobacco Honey",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -256,7 +567,11 @@
       "family": "Citrus",
       "accords": [],
       "notes": {
-        "top": ["thyme", "mint", "rosemary"],
+        "top": [
+          "thyme",
+          "mint",
+          "rosemary"
+        ],
         "heart": [],
         "base": [],
         "flat": []
@@ -264,7 +579,18 @@
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/guerlain-herbes-troublantes", "name": "Olfastory - Herbes Troublantes", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/guerlain-herbes-troublantes",
+          "name": "Olfastory - Herbes Troublantes",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -276,15 +602,35 @@
       "family": "Oriental",
       "accords": [],
       "notes": {
-        "top": ["bergamot", "pink pepper", "angelica", "pear"],
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "angelica",
+          "pear"
+        ],
         "heart": [],
-        "base": ["angelica", "vanilla", "cedar"],
+        "base": [
+          "angelica",
+          "vanilla",
+          "cedar"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/angelique-noire", "name": "Olfastory - Angélique Noire", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/angelique-noire",
+          "name": "Olfastory - Angélique Noire",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -296,15 +642,35 @@
       "family": "Floral",
       "accords": [],
       "notes": {
-        "top": ["almond", "bergamot"],
-        "heart": ["centifolia rose", "honey"],
-        "base": ["vanilla", "tonka bean", "patchouli"],
+        "top": [
+          "almond",
+          "bergamot"
+        ],
+        "heart": [
+          "centifolia rose",
+          "honey"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "patchouli"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/guerlain-la-petite-robe-noire-honey-rose", "name": "Olfastory - La Petite Robe Noire Honey Rose", "type": "database", "supports": ["notes", "concentration", "year", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/guerlain-la-petite-robe-noire-honey-rose",
+          "name": "Olfastory - La Petite Robe Noire Honey Rose",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "family"
+          ]
+        }
       ]
     }
   ]
