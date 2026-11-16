@@ -15,11 +15,37 @@
       "perfumer": "Quentin Bisch",
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "lychee", "peach"], "heart": ["petalia", "orange blossom", "jasmine"], "base": ["musk", "transparent wood", "moss"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "lychee",
+          "peach"
+        ],
+        "heart": [
+          "petalia",
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "transparent wood",
+          "moss"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/fleur-narcotique-eau-de-parfum", "name": "Ex Nihilo - Fleur Narcotique", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/fleur-narcotique-eau-de-parfum",
+          "name": "Ex Nihilo - Fleur Narcotique",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -30,11 +56,38 @@
       "perfumer": "Quentin Bisch",
       "family": null,
       "accords": [],
-      "notes": { "top": ["osmanthus", "bergamot", "lychee"], "heart": ["freesia", "jasmine", "petalia", "orange blossom"], "base": ["oakmoss", "sandalwood", "musks"], "flat": [] },
+      "notes": {
+        "top": [
+          "osmanthus",
+          "bergamot",
+          "lychee"
+        ],
+        "heart": [
+          "freesia",
+          "jasmine",
+          "petalia",
+          "orange blossom"
+        ],
+        "base": [
+          "oakmoss",
+          "sandalwood",
+          "musks"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/fleur-narcotique-extrait-de-parfum", "name": "Ex Nihilo - Fleur Narcotique Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/fleur-narcotique-extrait-de-parfum",
+          "name": "Ex Nihilo - Fleur Narcotique Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -45,12 +98,65 @@
       "perfumer": "Jordi Fernández",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pear", "bergamot", "ginger", "mandarin"], "heart": ["orange blossom", "georgywood"], "base": ["ambrofix", "akigalawood", "musks"], "flat": [] },
+      "notes": {
+        "top": [
+          "pear",
+          "bergamot",
+          "ginger",
+          "mandarin"
+        ],
+        "heart": [
+          "orange blossom",
+          "georgywood"
+        ],
+        "base": [
+          "ambrofix",
+          "akigalawood",
+          "musks"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/blue-talisman-eau-de-parfum", "name": "Ex Nihilo - Blue Talisman", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/blue-talisman-eau-de-parfum",
+          "name": "Ex Nihilo - Blue Talisman",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://thescentnest.com/en/blog/blue-talisman-ex-nihilo-review",
+          "name": "The Scent Nest — Blue Talisman by Ex Nihilo",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "times": [
+          "morning",
+          "evening"
+        ]
+      },
+      "performanceEvidence": "The Scent Nest: consistently 8-10 h on skin, generous projection in the first hour then close to skin; best from late spring to early autumn, works morning at the office and evening."
     },
     {
       "name": "Blue Talisman",
@@ -60,11 +166,37 @@
       "perfumer": "Jordi Fernández",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pear", "bergamot"], "heart": ["orange blossom", "jasmine"], "base": ["sandalwood", "vanilla", "musks", "ambrofix", "ambery woods"], "flat": [] },
+      "notes": {
+        "top": [
+          "pear",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla",
+          "musks",
+          "ambrofix",
+          "ambery woods"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/blue-talisman-extrait", "name": "Ex Nihilo - Blue Talisman Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/blue-talisman-extrait",
+          "name": "Ex Nihilo - Blue Talisman Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -75,12 +207,59 @@
       "perfumer": "Louise Turner",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pink pepper", "rosyfolia"], "heart": ["petalia", "rose absolute"], "base": ["musk", "white cedarwood", "ambrofix"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper",
+          "rosyfolia"
+        ],
+        "heart": [
+          "petalia",
+          "rose absolute"
+        ],
+        "base": [
+          "musk",
+          "white cedarwood",
+          "ambrofix"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/lust-in-paradise-eau-de-parfum", "name": "Ex Nihilo - Lust in Paradise", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/lust-in-paradise-eau-de-parfum",
+          "name": "Ex Nihilo - Lust in Paradise",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/ex-nihilo-lust-in-paradise-eau-de-parfum",
+          "name": "ScentVerdict — Ex Nihilo Lust in Paradise EDP",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict summary: about 4-6 h on skin, carries to about arm's length, best in spring and summer."
     },
     {
       "name": "Lust in Paradise",
@@ -90,11 +269,39 @@
       "perfumer": "Louise Turner",
       "family": null,
       "accords": [],
-      "notes": { "top": ["blackcurrant", "pink pepper", "rosyfolia", "ginger"], "heart": ["petalia", "rose absolute", "jasmine sambac"], "base": ["akigalawood", "cedarwood", "ambrofix", "musks"], "flat": [] },
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "pink pepper",
+          "rosyfolia",
+          "ginger"
+        ],
+        "heart": [
+          "petalia",
+          "rose absolute",
+          "jasmine sambac"
+        ],
+        "base": [
+          "akigalawood",
+          "cedarwood",
+          "ambrofix",
+          "musks"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/lust-in-paradise-extrait-de-parfum", "name": "Ex Nihilo - Lust in Paradise Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/lust-in-paradise-extrait-de-parfum",
+          "name": "Ex Nihilo - Lust in Paradise Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -105,12 +312,55 @@
       "perfumer": "Jordi Fernández",
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "ginger"], "heart": ["cedarwood", "akigalawood"], "base": ["vetiver", "musks", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "ginger"
+        ],
+        "heart": [
+          "cedarwood",
+          "akigalawood"
+        ],
+        "base": [
+          "vetiver",
+          "musks",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/the-hedonist-eau-de-parfum", "name": "Ex Nihilo - The Hedonist", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/the-hedonist-eau-de-parfum",
+          "name": "Ex Nihilo - The Hedonist",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://www.temptalia.com/ex-nihilo-the-hedonist-perfume-review/",
+          "name": "Temptalia — Ex Nihilo The Hedonist Perfume Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Temptalia: skin scent after 3 h and hard to detect by about 8 h; sillage and projection moderate, closing in after 2 h."
     },
     {
       "name": "The Hedonist",
@@ -120,11 +370,38 @@
       "perfumer": "Jordi Fernández",
       "family": null,
       "accords": [],
-      "notes": { "top": ["grapefruit", "bergamot", "ginger"], "heart": ["akigalawood", "cedarwood", "lychee"], "base": ["ambery woods", "vetiver", "tonka bean", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "grapefruit",
+          "bergamot",
+          "ginger"
+        ],
+        "heart": [
+          "akigalawood",
+          "cedarwood",
+          "lychee"
+        ],
+        "base": [
+          "ambery woods",
+          "vetiver",
+          "tonka bean",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/the-hedonist-extrait-de-parfum", "name": "Ex Nihilo - The Hedonist Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/the-hedonist-extrait-de-parfum",
+          "name": "Ex Nihilo - The Hedonist Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -135,11 +412,37 @@
       "perfumer": "Louise Turner",
       "family": null,
       "accords": [],
-      "notes": { "top": ["strawberry", "bergamot", "pink pepper"], "heart": ["rose absolute", "pistachio"], "base": ["cedarwood", "akigalawood", "ambrofix", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "strawberry",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose absolute",
+          "pistachio"
+        ],
+        "base": [
+          "cedarwood",
+          "akigalawood",
+          "ambrofix",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/spiky-muse-eau-de-parfum", "name": "Ex Nihilo - Spiky Muse", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/spiky-muse-eau-de-parfum",
+          "name": "Ex Nihilo - Spiky Muse",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -150,11 +453,39 @@
       "perfumer": "Jordi Fernández",
       "family": null,
       "accords": [],
-      "notes": { "top": ["rhubarb", "bergamot", "peppermint", "blood orange"], "heart": ["orange blossom", "blackcurrant"], "base": ["georgywood", "akigalawood", "ambrofix", "musks", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "rhubarb",
+          "bergamot",
+          "peppermint",
+          "blood orange"
+        ],
+        "heart": [
+          "orange blossom",
+          "blackcurrant"
+        ],
+        "base": [
+          "georgywood",
+          "akigalawood",
+          "ambrofix",
+          "musks",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/demon-dancer", "name": "Ex Nihilo - Demon Dancer", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/demon-dancer",
+          "name": "Ex Nihilo - Demon Dancer",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -165,11 +496,36 @@
       "perfumer": "Jordi Fernández",
       "family": null,
       "accords": [],
-      "notes": { "top": ["mandarin", "raspberry"], "heart": ["orange blossom", "jasmine", "freesia"], "base": ["akigalawood", "vanilla", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "raspberry"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine",
+          "freesia"
+        ],
+        "base": [
+          "akigalawood",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/scarlet-sands-pos", "name": "Ex Nihilo - Scarlet Sands", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/scarlet-sands-pos",
+          "name": "Ex Nihilo - Scarlet Sands",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -180,11 +536,37 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["saffron", "pink pepper"], "heart": ["bulgarian rose", "jasmine absolute", "lisylang"], "base": ["amber", "vanilla", "white musk", "oliban", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "saffron",
+          "pink pepper"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "jasmine absolute",
+          "lisylang"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "white musk",
+          "oliban",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/brompton-immortals-extrait-pos", "name": "Ex Nihilo - Brompton Immortals", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/brompton-immortals-extrait-pos",
+          "name": "Ex Nihilo - Brompton Immortals",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -195,11 +577,38 @@
       "perfumer": "Jordi Fernández",
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "saffron"], "heart": ["jasmine", "iris", "coco"], "base": ["patchouli", "oud accord", "leather accord", "sandalwood", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "saffron"
+        ],
+        "heart": [
+          "jasmine",
+          "iris",
+          "coco"
+        ],
+        "base": [
+          "patchouli",
+          "oud accord",
+          "leather accord",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/vendomania-extrait-de-parfum", "name": "Ex Nihilo - Vendomania", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/vendomania-extrait-de-parfum",
+          "name": "Ex Nihilo - Vendomania",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -210,12 +619,57 @@
       "perfumer": "Olivier Pescheux",
       "family": null,
       "accords": [],
-      "notes": { "top": ["saffron", "ginger"], "heart": ["cedarwood", "incense"], "base": ["oud accord", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "saffron",
+          "ginger"
+        ],
+        "heart": [
+          "cedarwood",
+          "incense"
+        ],
+        "base": [
+          "oud accord",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.ex-nihilo-paris.com/products/oud-vendome-eau-de-parfum", "name": "Ex Nihilo - Oud Vendome", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://www.ex-nihilo-paris.com/products/oud-vendome-eau-de-parfum",
+          "name": "Ex Nihilo - Oud Vendome",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/oud-vendome-by-ex-nihilo.26144064/reviews/positive/",
+          "name": "Basenotes — Positive Reviews of Oud Vendome by Ex Nihilo",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes review: moderate sillage, excellent projection, fourteen hours on skin; called a wintery oud-incense scent."
     },
     {
       "name": "Vetiver Moloko",
@@ -225,12 +679,55 @@
       "perfumer": "Guillaume Flavigny",
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "rose"], "heart": ["milky accord", "cypress"], "base": ["vetiver", "vanilla", "amyris"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "rose"
+        ],
+        "heart": [
+          "milky accord",
+          "cypress"
+        ],
+        "base": [
+          "vetiver",
+          "vanilla",
+          "amyris"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.ex-nihilo-paris.com/products/vetiver-moloko-eau-de-parfum", "name": "Ex Nihilo - Vetiver Moloko", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://www.ex-nihilo-paris.com/products/vetiver-moloko-eau-de-parfum",
+          "name": "Ex Nihilo - Vetiver Moloko",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/vetiver-moloko-by-ex-nihilo.26144062/reviews/",
+          "name": "Basenotes — Reviews of Vetiver Moloko by Ex Nihilo",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes review: moderate sillage, very good projection, eight hours of longevity; other reviewers on the page call it soft and subtle."
     },
     {
       "name": "Bois d'Hiver",
@@ -240,12 +737,61 @@
       "perfumer": "Michel Girad",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pink pepper", "cardamom"], "heart": ["cyclamen", "heliotrope", "white cedarwood"], "base": ["sandalwood", "patchouli", "musk", "cypriol"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper",
+          "cardamom"
+        ],
+        "heart": [
+          "cyclamen",
+          "heliotrope",
+          "white cedarwood"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "musk",
+          "cypriol"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.ex-nihilo-paris.com/products/bois-dhiver-eau-de-parfum", "name": "Ex Nihilo - Bois d'Hiver", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://www.ex-nihilo-paris.com/products/bois-dhiver-eau-de-parfum",
+          "name": "Ex Nihilo - Bois d'Hiver",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/ex-nihilo-bois-dhiver-eau-de-parfum",
+          "name": "ScentVerdict — Ex Nihilo Bois d'Hiver EDP",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict summary: about 4-6 h on skin, arm's-length presence, best in autumn and winter."
     },
     {
       "name": "Cologne 352",
@@ -255,12 +801,58 @@
       "perfumer": "Jacques Huclier",
       "family": null,
       "accords": [],
-      "notes": { "top": ["lemon"], "heart": ["orange blossom", "rose", "lily of the valley"], "base": ["white cedarwood", "white musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon"
+        ],
+        "heart": [
+          "orange blossom",
+          "rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "white cedarwood",
+          "white musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.ex-nihilo-paris.com/products/cologne-352-eau-de-parfum", "name": "Ex Nihilo - Cologne 352", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://www.ex-nihilo-paris.com/products/cologne-352-eau-de-parfum",
+          "name": "Ex Nihilo - Cologne 352",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/cologne-352-by-ex-nihilo.26144068/reviews/",
+          "name": "Basenotes — Reviews of Cologne 352 by Ex Nihilo",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: 15 h, about 10 h before fatigue, or about 6 h light scent depending on skin; sillage described as both great and below average, so left blank; a spring/summer pick."
     },
     {
       "name": "Venenum Kiss",
@@ -270,12 +862,60 @@
       "perfumer": "Quentin Bisch",
       "family": null,
       "accords": [],
-      "notes": { "top": ["neroli", "saffron", "nutmeg"], "heart": ["rose absolute", "davana", "amber"], "base": ["ambrofix", "vanilla", "sandalwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "neroli",
+          "saffron",
+          "nutmeg"
+        ],
+        "heart": [
+          "rose absolute",
+          "davana",
+          "amber"
+        ],
+        "base": [
+          "ambrofix",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.ex-nihilo-paris.com/products/venenum-kiss-eau-de-parfum", "name": "Ex Nihilo - Venenum Kiss", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://www.ex-nihilo-paris.com/products/venenum-kiss-eau-de-parfum",
+          "name": "Ex Nihilo - Venenum Kiss",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/venenum-kiss-by-ex-nihilo.26146443",
+          "name": "Basenotes — Venenum Kiss by Ex Nihilo",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes review: strong sillage, excellent projection, ten hours of longevity; an autumnal scent."
     },
     {
       "name": "Gold Immortals",
@@ -285,11 +925,35 @@
       "perfumer": "Jordi Fernández",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pear", "bergamot"], "heart": ["ylang-ylang", "petalia"], "base": ["ambrofix", "tonka bean", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "pear",
+          "bergamot"
+        ],
+        "heart": [
+          "ylang-ylang",
+          "petalia"
+        ],
+        "base": [
+          "ambrofix",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.ex-nihilo-paris.com/products/gold-immortals-eau-de-parfum", "name": "Ex Nihilo - Gold Immortals", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://www.ex-nihilo-paris.com/products/gold-immortals-eau-de-parfum",
+          "name": "Ex Nihilo - Gold Immortals",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -300,12 +964,54 @@
       "perfumer": "Dalia Izem",
       "family": null,
       "accords": [],
-      "notes": { "top": ["violet leaves"], "heart": ["iris", "rose"], "base": ["sandalwood", "musks", "cedarwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "violet leaves"
+        ],
+        "heart": [
+          "iris",
+          "rose"
+        ],
+        "base": [
+          "sandalwood",
+          "musks",
+          "cedarwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.ex-nihilo-paris.com/products/iris-porcelana-eau-de-parfum", "name": "Ex Nihilo - Iris Porcelana", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://www.ex-nihilo-paris.com/products/iris-porcelana-eau-de-parfum",
+          "name": "Ex Nihilo - Iris Porcelana",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://whatscent.app/perfume/iris-porcelana/reviews/K9kcrxzwhPi",
+          "name": "WhatScent — Iris Porcelana review",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 2,
+        "projection": 1,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "WhatScent user review: still wearing after about 6 h, does not project, a personal bubble; user rated projection and sillage 1/5."
     },
     {
       "name": "Generation(s)",
@@ -315,11 +1021,35 @@
       "perfumer": "Nadège Le Garlantezec",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pear", "incense", "pink pepper"], "heart": ["fig accord"], "base": ["sandalwood", "tonka bean", "musks"], "flat": [] },
+      "notes": {
+        "top": [
+          "pear",
+          "incense",
+          "pink pepper"
+        ],
+        "heart": [
+          "fig accord"
+        ],
+        "base": [
+          "sandalwood",
+          "tonka bean",
+          "musks"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.ex-nihilo-paris.com/products/generations", "name": "Ex Nihilo - Generation(s)", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.ex-nihilo-paris.com/products/generations",
+          "name": "Ex Nihilo - Generation(s)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     }
   ]

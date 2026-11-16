@@ -15,11 +15,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["whisky accord", "cedarwood", "oakwood"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "whisky accord",
+          "cedarwood",
+          "oakwood"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/a-london-dandy-eau-de-parfum-100ml--000000000065223847", "name": "Penhaligon's - A London Dandy Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/a-london-dandy-eau-de-parfum-100ml--000000000065223847",
+          "name": "Penhaligon's - A London Dandy Eau de Parfum 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -30,11 +47,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["plum", "incense", "vanilla"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "plum",
+          "incense",
+          "vanilla"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/penhaligon-s-alula-eau-de-parfum-100ml--000000000065225849", "name": "Penhaligon's - Alula Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/penhaligon-s-alula-eau-de-parfum-100ml--000000000065225849",
+          "name": "Penhaligon's - Alula Eau de Parfum 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -45,12 +79,71 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "rose", "oud accord"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "rose",
+          "oud accord"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/halfeti-eau-de-parfum-100ml--000000000065225962", "name": "Penhaligon's - Halfeti Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/halfeti-eau-de-parfum-100ml--000000000065225962",
+          "name": "Penhaligon's - Halfeti Eau de Parfum 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/penhaligons-halfeti-edp",
+          "name": "Venba — Penhaligon's Halfeti EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.cafleurebon.com/new-perfume-review-penhaligons-halfeti-oud-rose-leather-fragrance-draw",
+          "name": "CaFleureBon — Penhaligon's Halfeti review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://hellobeautyblog.com/en/perfumes/penhaligons-halfeti-eau-de-parfum",
+          "name": "Hello Beauty Blog — Penhaligon's Halfeti",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Venba listing: reviewers report 8-10 hours, moderate-to-strong sillage, best fall/winter evenings; Hello Beauty Blog: 8-10 h, strong sillage; CaFleureBon: tenacious, impressive sillage."
     },
     {
       "name": "The Blazing Mister Sam",
@@ -60,11 +153,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["black pepper", "cardamom", "cedarwood"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "black pepper",
+          "cardamom",
+          "cedarwood"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/the-blazing-mister-sam-eau-de-parfum-75ml--000000000065173422", "name": "Penhaligon's - The Blazing Mr Sam 75ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/the-blazing-mister-sam-eau-de-parfum-75ml--000000000065173422",
+          "name": "Penhaligon's - The Blazing Mr Sam 75ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -75,11 +185,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["peach", "patchouli", "bergamot"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "peach",
+          "patchouli",
+          "bergamot"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/empressa-eau-de-parfum-100ml--000000000065225906", "name": "Penhaligon's - Empressa Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/empressa-eau-de-parfum-100ml--000000000065225906",
+          "name": "Penhaligon's - Empressa Eau de Parfum 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -90,11 +217,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["incense", "plum", "bergamot"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "plum",
+          "bergamot"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/halfeti-leather-eau-de-parfum-100ml--000000000065225963", "name": "Penhaligon's - Halfeti Leather Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/halfeti-leather-eau-de-parfum-100ml--000000000065225963",
+          "name": "Penhaligon's - Halfeti Leather Eau de Parfum 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -105,12 +249,72 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "jasmine accord", "fir balsam"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "jasmine accord",
+          "fir balsam"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/luna-eau-de-toilette-100ml--000000000065223840", "name": "Penhaligon's - Luna Eau de Toilette 100ml", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/luna-eau-de-toilette-100ml--000000000065223840",
+          "name": "Penhaligon's - Luna Eau de Toilette 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/penhaligon/products/sample-penhaligons-luna-edt",
+          "name": "Venba — Penhaligon's Luna EDT",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.beautytheshop.com/uk/fragrance/ladies-fragrance/penhaligon-s-luna-eau-de-toilette-spray-100ml-set-2-pieces-16",
+          "name": "BeautyTheShop — Penhaligon's Luna EDT 100ml",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://nstperfume.com/2016/08/25/penhaligons-luna-fragrance-review",
+          "name": "Now Smell This — Penhaligon's Luna review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Venba: 4-6 hours, light-to-moderate sillage, close to skin; BeautyTheShop: 4-6 h, subtle-to-moderate projection, daytime spring/summer; Now Smell This reviewer got only about 2 hours."
     },
     {
       "name": "The Coveted Duchess Rose",
@@ -120,11 +324,29 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["mandarin", "rose", "centifolia", "vanilla"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "rose",
+          "centifolia",
+          "vanilla"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/the-coveted-duchess-rose-eau-de-parfum-75ml--000000000065173409", "name": "Penhaligon's - The Coveted Duchess Rose 75ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/the-coveted-duchess-rose-eau-de-parfum-75ml--000000000065173409",
+          "name": "Penhaligon's - The Coveted Duchess Rose 75ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -135,12 +357,80 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["ambrox", "rum", "tonka bean"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "ambrox",
+          "rum",
+          "tonka bean"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/the-tragedy-of-lord-george-eau-de-parfum-75ml--000000000065173406", "name": "Penhaligon's - The Tragedy of Lord George 75ml", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/the-tragedy-of-lord-george-eau-de-parfum-75ml--000000000065173406",
+          "name": "Penhaligon's - The Tragedy of Lord George 75ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/penhaligons-the-tragedy-of-lord-george-edp",
+          "name": "Venba — Penhaligon's The Tragedy of Lord George",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/penhaligons-the-tragedy-of-lord-george-eau-de-parfum",
+          "name": "Beautinow — The Tragedy Of Lord George EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentira.in/products/penhaligons-the-tragedy-of-lord-george-eau-de-parfum",
+          "name": "Scentira — Penhaligon's The Tragedy of Lord George EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://nstperfume.com/2016/10/05/penhaligons-the-tragedy-of-lord-george-much-ado-about-the-duke-fragrance-reviews",
+          "name": "Now Smell This — Tragedy of Lord George review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Venba: 5-7 h, moderate close sillage, fall/winter evenings; Beautinow: 8-10 h, moderate sillage and projection; Scentira: 6-8 h, moderate, autumn/winter; Now Smell This: sillage and tenacity good."
     },
     {
       "name": "Endymion Concentré",
@@ -150,11 +440,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["lavender", "suede", "leather"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavender",
+          "suede",
+          "leather"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/endymion-concentre-eau-de-parfum-100ml--000000000065223838", "name": "Penhaligon's - Endymion Concentré Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/endymion-concentre-eau-de-parfum-100ml--000000000065223838",
+          "name": "Penhaligon's - Endymion Concentré Eau de Parfum 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -165,11 +472,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["hazelnut leaf", "rose", "vetiver"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "hazelnut leaf",
+          "rose",
+          "vetiver"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/elisabethan-rose-eau-de-parfum-100ml--000000000065223837", "name": "Penhaligon's - Elisabethan Rose Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/elisabethan-rose-eau-de-parfum-100ml--000000000065223837",
+          "name": "Penhaligon's - Elisabethan Rose Eau de Parfum 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -180,12 +504,71 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["lemon", "lavender", "pine"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lemon",
+          "lavender",
+          "pine"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/blenheim-bouquet-eau-de-toilette-100ml--000000000065173477", "name": "Penhaligon's - Blenheim Bouquet Eau de Toilette 100ml", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/blenheim-bouquet-eau-de-toilette-100ml--000000000065173477",
+          "name": "Penhaligon's - Blenheim Bouquet Eau de Toilette 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.thelastspritz.com/fragrance/penhaligons-blenheim-bouquet-edt",
+          "name": "The Last Spritz — Penhaligon's Blenheim Bouquet",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bespokeunit.com/articles/fragrance/penhaligons-blenheim-bouquet",
+          "name": "Bespoke Unit — Penhaligon's Blenheim Bouquet review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/blenheim-bouquet-by-penhaligons.26120208",
+          "name": "Basenotes — Blenheim Bouquet by Penhaligon's",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "The Last Spritz: 3-5 hours, arm's-length projection, soft trail, best spring/summer by day; Bespoke Unit: cologne-like, a few hours, tight projection; Basenotes user: 6-8 h, discreet sillage."
     },
     {
       "name": "Endymion",
@@ -195,12 +578,67 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["lavandin", "coffee", "cedarwood"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "lavandin",
+          "coffee",
+          "cedarwood"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/endymion-eau-de-cologne-100ml--000000000065223841", "name": "Penhaligon's - Endymion Eau de Cologne 100ml", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/endymion-eau-de-cologne-100ml--000000000065223841",
+          "name": "Penhaligon's - Endymion Eau de Cologne 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/penhaligon-s/endymion/men-cologne",
+          "name": "Perfume.com — Penhaligon's Endymion Cologne",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "http://www.stylist.co.uk/beauty/penhaligons-endymion-cologne-review/1119482",
+          "name": "Stylist — Penhaligon's Endymion Cologne review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "morning",
+          "afternoon",
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Perfume.com: 6-8 hours, moderate projection, daytime and spring/summer but carries into fall/winter; Stylist: lasts brilliantly on skin, not overpowering; one Perfume.com customer says it fades by evening."
     },
     {
       "name": "Quercus",
@@ -210,11 +648,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["mandarin", "lily of the valley", "oakmoss"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "mandarin",
+          "lily of the valley",
+          "oakmoss"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/quercus-eau-de-cologne-100ml--000000000065223843", "name": "Penhaligon's - Quercus Eau de Cologne 100ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/quercus-eau-de-cologne-100ml--000000000065223843",
+          "name": "Penhaligon's - Quercus Eau de Cologne 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -225,11 +680,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["incense", "leather", "vetiver"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "incense",
+          "leather",
+          "vetiver"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/terrible-teddy-eau-de-parfum-75ml--000000000065173441", "name": "Penhaligon's - Terrible Teddy Eau de Parfum 75ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/terrible-teddy-eau-de-parfum-75ml--000000000065173441",
+          "name": "Penhaligon's - Terrible Teddy Eau de Parfum 75ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -240,12 +712,80 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["juniper berry", "vetiver", "black pepper"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "juniper berry",
+          "vetiver",
+          "black pepper"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/juniper-sling-eau-de-toilette-100ml--000000000065227797", "name": "Penhaligon's - Juniper Sling Eau de Toilette 100ml", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/juniper-sling-eau-de-toilette-100ml--000000000065227797",
+          "name": "Penhaligon's - Juniper Sling Eau de Toilette 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/penhaligons-juniper-sling-edt",
+          "name": "Venba — Penhaligon's Juniper Sling EDT",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.perfumeoutlet.com/products/juniper-sling-by-penhaligons-eau-de-toilette-spray-unisex-3-4-oz-for-women",
+          "name": "PerfumeOutlet — Juniper Sling EDT",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/penhaligon-s/juniper-sling-perfume",
+          "name": "FragranceX — Penhaligon's Juniper Sling",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://nstperfume.com/2011/11/09/penhaligons-juniper-sling-fragrance-review/",
+          "name": "Now Smell This — Juniper Sling review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Venba: 4-6 hours, soft-to-moderate sillage, arm's length then skin; PerfumeOutlet: 4-6 h, moderate, spring/summer; FragranceX: 4-6 h; Now Smell This: cologne-like, mediocre lasting power and sillage."
     },
     {
       "name": "Artemisia",
@@ -255,11 +795,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["nectarine", "vanilla", "jasmine tea"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "nectarine",
+          "vanilla",
+          "jasmine tea"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/artemisia-eau-de-parfum-100ml--000000000065223834", "name": "Penhaligon's - Artemisia Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/artemisia-eau-de-parfum-100ml--000000000065223834",
+          "name": "Penhaligon's - Artemisia Eau de Parfum 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -270,11 +827,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["cypriol", "saffron", "sandalwood"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cypriol",
+          "saffron",
+          "sandalwood"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/babylon-eau-de-parfum-100ml--000000000065225907", "name": "Penhaligon's - Babylon Eau de Parfum 100ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/babylon-eau-de-parfum-100ml--000000000065225907",
+          "name": "Penhaligon's - Babylon Eau de Parfum 100ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -285,11 +859,28 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["cardamom", "salted caramel", "tobacco"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cardamom",
+          "salted caramel",
+          "tobacco"
+        ]
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.penhaligons.com/uk/en/p/changing-constance-eau-de-parfum-75ml--000000000065173423", "name": "Penhaligon's - Changing Constance 75ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.penhaligons.com/uk/en/p/changing-constance-eau-de-parfum-75ml--000000000065173423",
+          "name": "Penhaligon's - Changing Constance 75ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     }
   ]

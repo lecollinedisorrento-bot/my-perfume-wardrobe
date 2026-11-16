@@ -44,8 +44,48 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.livethatglow.com/jo-malone-londons-bestselling-english-pear-freesia-cologne-review/",
+          "name": "Live That Glow — Jo Malone English Pear & Freesia Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/english-pear-freesia-malone",
+          "name": "Best Men's Colognes — English Pear & Freesia by Jo Malone",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/english-pear-freesia-by-jo-malone-london.26131448",
+          "name": "Basenotes — English Pear & Freesia reviews",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Live That Glow wear test: about 4-5 hours, decent projection to people nearby, best spring/summer; bestmenscolognes: strong first hour then moderate, up to ~6.5-7 hours, best spring/summer; Basenotes reviewer: not much projection."
     },
     {
       "name": "Cypress & Grapevine",
@@ -181,8 +221,42 @@
             "notes",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://oomphlondon.co.uk/jo-malone-myrrh-and-tonka-cologne-intense-review",
+          "name": "Oomph London — Jo Malone Myrrh and Tonka Cologne Intense Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/myrrh-tonka-by-jo-malone-london.26151425/reviews",
+          "name": "Basenotes — Myrrh & Tonka reviews",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Oomph London (Cologne Intense): about 6 hours, strong projection the first hour then medium, a cold-weather evening scent; Basenotes reviewers: moderate sillage, very good projection and ~10 hours on one, 4-5 hours with soft projection on another; fall/winter."
     },
     {
       "name": "Pomegranate Noir",
@@ -218,8 +292,50 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://manface.co.uk/jo-malone-london-pomegranate-noir",
+          "name": "MANFACE — Jo Malone Pomegranate Noir Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://oomphlondon.co.uk/jo-malone-pomegranate-noir-cologne-review",
+          "name": "Oomph London — Jo Malone Pomegranate Noir Cologne Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/pomegranate-noir-by-jo-malone-london.26124870/reviews/",
+          "name": "Basenotes — Pomegranate Noir reviews",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "MANFACE: roughly 6-8 hours, moderate sillage, best autumn/winter and evening; Oomph London: about 8 hours with moderate projection, cold autumn/winter evenings; Basenotes reviewers: 6-7 hours, decent sillage, though one finds it short-lived."
     },
     {
       "name": "Red Hibiscus",
@@ -375,8 +491,46 @@
             "family",
             "accords"
           ]
+        },
+        {
+          "url": "https://reallyree.com/jo-malone-london-sea-salt-bergamot-cologne-review",
+          "name": "Reallyree — Jo Malone London Sea Salt & Bergamot Cologne Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "http://www.emtalks.co.uk/2026/08/jo-malone-london-sea-salt-bergamot.html",
+          "name": "Emtalks — Jo Malone London Sea Salt & Bergamot Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.spacenk.com/us/brands/j/jo-malone-london/sea-salt-bergamot-cologne-MUK200068499.html",
+          "name": "Space NK — Sea Salt & Bergamot Cologne customer reviews",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "reallyree review: very good longevity for a Jo Malone cologne, clearly longer than Wood Sage & Sea Salt, moderate but noticeable sillage; Emtalks: several hours, needs topping up; Space NK customer: lasts well for Jo Malone but top up later, summer holiday scent."
     },
     {
       "name": "Tangerine & Honey",
@@ -520,8 +674,55 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://boisdejasmin.com/2014/09/jo-malone-wood-sage-and-sea-salt-fragrance-review.html",
+          "name": "Bois de Jasmin — Jo Malone Wood Sage and Sea Salt review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://the-sniff.com/2017/02/09/wood-sage-and-sea-salt-by-jo-malone",
+          "name": "The Sniff — Wood Sage and Sea Salt by Jo Malone",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/wood-sage-sea-salt-by-jo-malone-london.26142856",
+          "name": "Basenotes — Wood Sage & Sea Salt reviews",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/jo-malone-wood-sage-sea-salt-review",
+          "name": "FragranceReview — Jo Malone Wood Sage & Sea Salt Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Bois de Jasmin: barely perceptible skin scent within 2-3 hours, suits summer and early fall; The Sniff: lasts to about lunch, little sillage; Basenotes reviewer: very light projection, 4-5 hours; FragranceReview: reapply midday, intimate sillage."
     },
     {
       "name": "Nutmeg & Ginger",
@@ -547,8 +748,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/nutmeg-ginger-by-jo-malone-london.26121201/reviews",
+          "name": "Basenotes — Nutmeg & Ginger reviews",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.celes-perfume.com/product/jo-malone-nutmeg-ginger/",
+          "name": "Celes — Jo Malone Nutmeg & Ginger customer reviews",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: not loud, only slightly above skin scent, does not last very long, one gets about 4 hours; Celes retailer reviewer: roughly 3-4 hours from one spray, fades easily."
     },
     {
       "name": "Beach Blossom",

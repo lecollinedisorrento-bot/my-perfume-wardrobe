@@ -15,11 +15,31 @@
       "perfumer": "Jacques Cavallier Belletrud",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": [], "heart": ["mandarin", "benzoin"], "base": ["musk"], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [
+          "mandarin",
+          "benzoin"
+        ],
+        "base": [
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-california-dream", "name": "Olfastory — Louis Vuitton California Dream", "type": "database", "supports": ["notes", "family", "year", "perfumer"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-california-dream",
+          "name": "Olfastory — Louis Vuitton California Dream",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -30,11 +50,33 @@
       "perfumer": "Jacques Cavallier",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["lemongrass"], "heart": ["tea", "magnolia", "rose"], "base": [], "flat": [] },
+      "notes": {
+        "top": [
+          "lemongrass"
+        ],
+        "heart": [
+          "tea",
+          "magnolia",
+          "rose"
+        ],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-rain-tea", "name": "Olfastory — Louis Vuitton Rain Tea", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-rain-tea",
+          "name": "Olfastory — Louis Vuitton Rain Tea",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -45,11 +87,36 @@
       "perfumer": "Jacques Cavallier Belletrud",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["lychee", "bergamot", "ginger"], "heart": ["peony", "cocoa", "rose", "patchouli"], "base": [], "flat": [] },
+      "notes": {
+        "top": [
+          "lychee",
+          "bergamot",
+          "ginger"
+        ],
+        "heart": [
+          "peony",
+          "cocoa",
+          "rose",
+          "patchouli"
+        ],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-attrape-reves", "name": "Olfastory — Louis Vuitton Attrape-Rêves", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-attrape-reves",
+          "name": "Olfastory — Louis Vuitton Attrape-Rêves",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -60,11 +127,40 @@
       "perfumer": "Jacques Cavallier",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["bergamot", "orange", "citron"], "heart": ["neroli", "ginger", "cinnamon"], "base": ["ambroxan", "black tea", "guaiac wood", "olibanum"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "orange",
+          "citron"
+        ],
+        "heart": [
+          "neroli",
+          "ginger",
+          "cinnamon"
+        ],
+        "base": [
+          "ambroxan",
+          "black tea",
+          "guaiac wood",
+          "olibanum"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-imagination-keith-haring-edition", "name": "Olfastory — Louis Vuitton Imagination Keith Haring Edition", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-imagination-keith-haring-edition",
+          "name": "Olfastory — Louis Vuitton Imagination Keith Haring Edition",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -75,11 +171,37 @@
       "perfumer": "Jacques Cavallier",
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["blood orange", "lemon", "mandarin", "bergamot", "lime"], "heart": ["tiare flower"], "base": ["sandalwood", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "blood orange",
+          "lemon",
+          "mandarin",
+          "bergamot",
+          "lime"
+        ],
+        "heart": [
+          "tiare flower"
+        ],
+        "base": [
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-city-of-stars", "name": "Olfastory — Louis Vuitton City Of Stars", "type": "database", "supports": ["notes", "family", "year", "perfumer"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-city-of-stars",
+          "name": "Olfastory — Louis Vuitton City Of Stars",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -90,11 +212,40 @@
       "perfumer": "Jacques Cavallier Belletrud",
       "family": "Aromatic",
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["blackcurrant", "citron", "lemon", "coriander", "ambrette", "basil", "mint", "orange", "carrot", "apricot", "dates", "fig", "rose"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "blackcurrant",
+          "citron",
+          "lemon",
+          "coriander",
+          "ambrette",
+          "basil",
+          "mint",
+          "orange",
+          "carrot",
+          "apricot",
+          "dates",
+          "fig",
+          "rose"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-pacific-chill", "name": "Olfastory — Louis Vuitton Pacific Chill", "type": "database", "supports": ["notes", "family", "year", "perfumer"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/louis-vuitton-malletier-pacific-chill",
+          "name": "Olfastory — Louis Vuitton Pacific Chill",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -105,12 +256,74 @@
       "perfumer": "Jacques Cavallier",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["bergamot", "orange", "citron"], "heart": ["neroli", "ginger", "cinnamon"], "base": ["ambroxan", "black tea", "guaiac wood", "olibanum"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "orange",
+          "citron"
+        ],
+        "heart": [
+          "neroli",
+          "ginger",
+          "cinnamon"
+        ],
+        "base": [
+          "ambroxan",
+          "black tea",
+          "guaiac wood",
+          "olibanum"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/imagination-louis-vuitton/composition", "name": "Olfastory — Louis Vuitton Imagination composition", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/imagination-louis-vuitton/composition",
+          "name": "Olfastory — Louis Vuitton Imagination composition",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://besuitedaroma.com/louis-vuitton-imagination-review",
+          "name": "Be Suited Aroma — Louis Vuitton Imagination Full Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/imagination-by-louis-vuitton",
+          "name": "Best Men's Colognes — Imagination by Louis Vuitton",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Be Suited Aroma: 8-10 hours, strong projection first hour or so then a couple of feet, best spring/summer/early fall; Best Men's Colognes: 8-9.5 hours, strong sillage for an hour then moderate, spring/summer."
     },
     {
       "name": "Symphony",
@@ -120,11 +333,31 @@
       "perfumer": "Jacques Cavallier",
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": [], "heart": ["grapefruit", "bergamot", "ginger", "orange"], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [
+          "grapefruit",
+          "bergamot",
+          "ginger",
+          "orange"
+        ],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/symphony-louis-vuitton", "name": "Olfastory — Louis Vuitton Symphony", "type": "database", "supports": ["notes", "family", "year", "perfumer"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/symphony-louis-vuitton",
+          "name": "Olfastory — Louis Vuitton Symphony",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -135,12 +368,76 @@
       "perfumer": "Jacques Cavallier",
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["bergamot", "mandarin", "orange"], "heart": ["neroli", "black pepper", "pink pepper", "sichuan pepper", "cardamom", "nutmeg"], "base": ["vetiver"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "orange"
+        ],
+        "heart": [
+          "neroli",
+          "black pepper",
+          "pink pepper",
+          "sichuan pepper",
+          "cardamom",
+          "nutmeg"
+        ],
+        "base": [
+          "vetiver"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/meteore", "name": "Olfastory — Louis Vuitton Météore", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/meteore",
+          "name": "Olfastory — Louis Vuitton Météore",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/meteore-by-louis-vuitton",
+          "name": "Best Men's Colognes — Météore by Louis Vuitton",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vioralondon.com/best-louis-vuitton-fragrances-for-men",
+          "name": "Viora London — 9 Exceptional Louis Vuitton Fragrances For Men",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Best Men's Colognes: 8-9 hours, above-average projection but not room-filling, spring/summer; Viora London: 5+ hours, moderate projection and sillage, spring/summer daytime wear."
     },
     {
       "name": "Nuit De Feu",
@@ -150,12 +447,78 @@
       "perfumer": "Jacques Cavallier",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["incense", "resin"], "heart": ["leather"], "base": ["musk", "oud"], "flat": [] },
+      "notes": {
+        "top": [
+          "incense",
+          "resin"
+        ],
+        "heart": [
+          "leather"
+        ],
+        "base": [
+          "musk",
+          "oud"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/nuit-de-feu", "name": "Olfastory — Louis Vuitton Nuit De Feu", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/nuit-de-feu",
+          "name": "Olfastory — Louis Vuitton Nuit De Feu",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vioralondon.com/best-louis-vuitton-fragrances-for-men",
+          "name": "Viora London — 9 Exceptional Louis Vuitton Fragrances For Men",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.myperfumeshop.com/products/louis-vuitton-nuit-de-feu-edp",
+          "name": "My Perfume Shop — Louis Vuitton Nuit De Feu EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "http://scentira.in/products/louis-vuitton-nuit-de-feu-eau-de-parfum",
+          "name": "Scentira — Louis Vuitton Nuit de Feu Eau De Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Viora London: 7+ hours, solid projection for the first 4 hours, autumn/winter, late afternoon and evening; My Perfume Shop FAQ: about 6-8 hours; Scentira listing: 8-12 hours, strong sillage, evening/night."
     },
     {
       "name": "Heures d'Absence",
@@ -165,11 +528,38 @@
       "perfumer": "Jacques Cavallier",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["rose", "jasmine"], "heart": ["pittosporum", "raspberry", "mimosa"], "base": ["musk", "sandalwood", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "rose",
+          "jasmine"
+        ],
+        "heart": [
+          "pittosporum",
+          "raspberry",
+          "mimosa"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/heures-dabsence", "name": "Olfastory — Louis Vuitton Heures d'Absence", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/heures-dabsence",
+          "name": "Olfastory — Louis Vuitton Heures d'Absence",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -180,11 +570,38 @@
       "perfumer": "Jacques Cavallier",
       "family": "Chypre",
       "accords": [],
-      "notes": { "top": ["pear", "ambrette", "marine note"], "heart": ["jasmine", "ylang-ylang", "narcissus"], "base": ["tree moss", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "pear",
+          "ambrette",
+          "marine note"
+        ],
+        "heart": [
+          "jasmine",
+          "ylang-ylang",
+          "narcissus"
+        ],
+        "base": [
+          "tree moss",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/coeur-battant", "name": "Olfastory — Louis Vuitton Cœur Battant", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/coeur-battant",
+          "name": "Olfastory — Louis Vuitton Cœur Battant",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -195,11 +612,36 @@
       "perfumer": "Jacques Cavallier",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["mandarin", "blackcurrant"], "heart": ["jasmine", "magnolia", "osmanthus"], "base": ["musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "blackcurrant"
+        ],
+        "heart": [
+          "jasmine",
+          "magnolia",
+          "osmanthus"
+        ],
+        "base": [
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/le-jour-se-leve", "name": "Olfastory — Louis Vuitton Le Jour se Lève", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/le-jour-se-leve",
+          "name": "Olfastory — Louis Vuitton Le Jour se Lève",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -210,12 +652,65 @@
       "perfumer": "Jacques Cavallier",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["green note"], "heart": ["magnolia", "orange blossom", "rose"], "base": ["ambrette", "cocoa", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "green note"
+        ],
+        "heart": [
+          "magnolia",
+          "orange blossom",
+          "rose"
+        ],
+        "base": [
+          "ambrette",
+          "cocoa",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/contre-moi", "name": "Olfastory — Louis Vuitton Contre Moi", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/contre-moi",
+          "name": "Olfastory — Louis Vuitton Contre Moi",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/contre-moi-by-louis-vuitton",
+          "name": "Best Men's Colognes — Contre Moi by Louis Vuitton",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2016/09/20/louis-vuitton-parfums-matiere-noire-turbulences-contre-moi",
+          "name": "Kafkaesque — Louis Vuitton Parfums: Matiere Noire, Turbulences & Contre Moi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Best Men's Colognes: light, close to the skin after ~30 min, about 6-6.5 hours; Kafkaesque: very soft, skin scent after 3 hours, a little over 6 hours total."
     },
     {
       "name": "Turbulences",
@@ -225,11 +720,37 @@
       "perfumer": "Jacques Cavallier",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["jasmine"], "heart": ["magnolia", "rose", "tuberose"], "base": ["leather", "sandalwood", "white musks"], "flat": [] },
+      "notes": {
+        "top": [
+          "jasmine"
+        ],
+        "heart": [
+          "magnolia",
+          "rose",
+          "tuberose"
+        ],
+        "base": [
+          "leather",
+          "sandalwood",
+          "white musks"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/turbulences-0", "name": "Olfastory — Louis Vuitton Turbulences", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/turbulences-0",
+          "name": "Olfastory — Louis Vuitton Turbulences",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -240,11 +761,35 @@
       "perfumer": "Jacques Cavallier",
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["blackcurrant"], "heart": ["narcissus", "jasmine"], "base": ["oud", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "blackcurrant"
+        ],
+        "heart": [
+          "narcissus",
+          "jasmine"
+        ],
+        "base": [
+          "oud",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/matiere-noire", "name": "Olfastory — Louis Vuitton Matière Noire", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/matiere-noire",
+          "name": "Olfastory — Louis Vuitton Matière Noire",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -255,12 +800,67 @@
       "perfumer": "Jacques Cavallier Belletrud",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": [], "heart": ["lily of the valley", "jasmine", "magnolia", "rose"], "base": ["guaiac wood", "sandalwood"], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [
+          "lily of the valley",
+          "jasmine",
+          "magnolia",
+          "rose"
+        ],
+        "base": [
+          "guaiac wood",
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/apogee", "name": "Olfastory — Louis Vuitton Apogée", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/apogee",
+          "name": "Olfastory — Louis Vuitton Apogée",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/apogee-by-louis-vuitton",
+          "name": "Best Men's Colognes — Apogée by Louis Vuitton",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/apogee-by-louis-vuitton.26150008",
+          "name": "Basenotes — Apogée by Louis Vuitton",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Best Men's Colognes: strong sillage at first then middle of the road, about 7.5 hours, spring/summer; Basenotes reviewer: strong but not in-your-face sillage, lasts a full day."
     },
     {
       "name": "Mille Feux",
@@ -270,11 +870,35 @@
       "perfumer": "Jacques Cavallier Belletrud",
       "family": "Leather",
       "accords": [],
-      "notes": { "top": ["raspberry"], "heart": ["osmanthus", "iris", "saffron"], "base": ["leather"], "flat": [] },
+      "notes": {
+        "top": [
+          "raspberry"
+        ],
+        "heart": [
+          "osmanthus",
+          "iris",
+          "saffron"
+        ],
+        "base": [
+          "leather"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/mille-feux", "name": "Olfastory — Louis Vuitton Mille Feux", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/mille-feux",
+          "name": "Olfastory — Louis Vuitton Mille Feux",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -285,12 +909,66 @@
       "perfumer": "Jacques Cavallier",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": [], "heart": ["centifolia rose", "iris", "osmanthus"], "base": ["cedar", "pepper"], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [
+          "centifolia rose",
+          "iris",
+          "osmanthus"
+        ],
+        "base": [
+          "cedar",
+          "pepper"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/rose-des-vents", "name": "Olfastory — Louis Vuitton Rose des Vents", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/rose-des-vents",
+          "name": "Olfastory — Louis Vuitton Rose des Vents",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/rose-des-vents-louis-vuitton",
+          "name": "Best Men's Colognes — Rose des Vents by Louis Vuitton",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/rose-des-vents-by-louis-vuitton.26150004",
+          "name": "Basenotes — Rose des Vents by Louis Vuitton",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Best Men's Colognes: 8-9.5 hours, strong start then moderate sillage, best spring/summer; Basenotes reviewer: beautiful sillage and excellent longevity (no figures)."
     },
     {
       "name": "Dans la Peau",
@@ -300,12 +978,69 @@
       "perfumer": "Jacques Cavallier",
       "family": "Chypre",
       "accords": [],
-      "notes": { "top": ["apricot", "marine note"], "heart": ["jasmine", "magnolia", "narcissus"], "base": ["leather", "white musks"], "flat": [] },
+      "notes": {
+        "top": [
+          "apricot",
+          "marine note"
+        ],
+        "heart": [
+          "jasmine",
+          "magnolia",
+          "narcissus"
+        ],
+        "base": [
+          "leather",
+          "white musks"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/dans-la-peau", "name": "Olfastory — Louis Vuitton Dans la Peau", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/dans-la-peau",
+          "name": "Olfastory — Louis Vuitton Dans la Peau",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/dans-la-peau-louis-vuitton",
+          "name": "Best Men's Colognes — Dans la Peau by Louis Vuitton",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2016/09/23/louis-vuitton-parfums-mille-feux-dans-la-peau",
+          "name": "Kafkaesque — Louis Vuitton Parfums: Mille Feux & Dans La Peau",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Best Men's Colognes: just over 8 hours, light-to-moderate sillage about 4-5 ft, spring or autumn; Kafkaesque: very soft and close, 5.75 h at 2 sprays, 8.5 h at 3.5 sprays."
     },
     {
       "name": "Ombre Nomade",
@@ -315,12 +1050,79 @@
       "perfumer": "Jacques Cavallier Belletrud",
       "family": null,
       "accords": [],
-      "notes": { "top": ["oud", "raspberry"], "heart": ["rose", "saffron", "geranium"], "base": ["frankincense", "benzoin"], "flat": [] },
+      "notes": {
+        "top": [
+          "oud",
+          "raspberry"
+        ],
+        "heart": [
+          "rose",
+          "saffron",
+          "geranium"
+        ],
+        "base": [
+          "frankincense",
+          "benzoin"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.scento.com/perfumes/ombre-nomade-louis-vuitton", "name": "Scento — Louis Vuitton Ombre Nomade", "type": "retailer", "supports": ["notes", "year", "perfumer"] }
-      ]
+        {
+          "url": "https://www.scento.com/perfumes/ombre-nomade-louis-vuitton",
+          "name": "Scento — Louis Vuitton Ombre Nomade",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://besuitedaroma.com/louis-vuitton-ombre-nomade-review",
+          "name": "Be Suited Aroma — Louis Vuitton Ombre Nomade Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/ombre-nomade-louis-vuitton",
+          "name": "Best Men's Colognes — Ombre Nomade by Louis Vuitton",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thefragranceworld.co.uk/blog/louis-vuitton-ombre-nomade-uk-guide",
+          "name": "The Fragrance World — Louis Vuitton Ombre Nomade guide",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 5,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Be Suited Aroma: 12+ hours, room-filling projection for 3-4 hours, fall/winter; Best Men's Colognes: about 9 hours, very strong sillage, fall/winter, evening and night out; The Fragrance World: 10-14 hours, heavy projection."
     }
   ]
 }

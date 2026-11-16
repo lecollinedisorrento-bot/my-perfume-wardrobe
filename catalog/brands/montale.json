@@ -1491,8 +1491,51 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/montale-nepal-aoud",
+          "name": "Scents Angel — Montale Nepal Aoud Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/montale/montale-nepal-aoud-perfume",
+          "name": "FragranceX — Montale Nepal Aoud Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/perfume/montale-nepal-aoud",
+          "name": "FragranceReview.com — Nepal Aoud by Montale",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scents Angel: 8-10+ hours, moderate-to-strong sillage, best in fall/winter evenings; FragranceX and Perfume.com: 8-12 hours; Fragrance Review magazine: potent sillage, substantial longevity, evenings and nights in cold seasons."
     },
     {
       "name": "White Aoud",
@@ -1538,8 +1581,50 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/montale-white-aoud-eau-de-parfum",
+          "name": "Scents Angel — Montale White Aoud Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/montale/montale-white-aoud-perfume",
+          "name": "FragranceX — Montale White Aoud Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://nstperfume.com/2007/06/15/montale-white-aoud-fragrance-review-with-asides-on-a-few-more-montale-oudhs",
+          "name": "Now Smell This — Montale White Aoud fragrance review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scents Angel: 8-12+ hours, moderate-to-heavy sillage, fall/winter/spring, evening to daily wear; FragranceX: 8-10 hours; Now Smell This review: extraordinary lasting power; Fragrance Review: strong projection and staying power."
     },
     {
       "name": "Patchouli Leaves",
@@ -1575,8 +1660,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/12/12/montale-patchouli-leaves-caramel-praline-patchouli",
+          "name": "Kafkaesque — Montale Patchouli Leaves review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/montale/montale-patchouli-leaves-perfume",
+          "name": "FragranceX — Montale Patchouli Leaves Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque blog test: strong sillage for about two hours then skin scent, lasted nearly 15 hours; Basenotes commenters: huge projection, 12h+; a FragranceX buyer finds sillage modest, about 2 ft; FragranceX lists 8-10 hours."
     },
     {
       "name": "Full Incense",
@@ -1619,8 +1731,49 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.agaripizmo.pl/blog/montale-full-incense",
+          "name": "Agar i Piżmo — Full Incense",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/full-incense-by-montale.26133066/reviews",
+          "name": "Basenotes — Reviews of Full Incense by Montale",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.mamuse.co/product/montale-full-incense",
+          "name": "mamuse — Full Incense by Montale",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Agar i Pizmo blog: about 9-11 hours, projection fairly strong but gentler than most Montale; Basenotes reviewers split (5-6 h on some skin, 'great' on others), moderate-to-soft sillage; mamuse: cold weather, evening."
     },
     {
       "name": "Dark Purple",
@@ -1660,8 +1813,51 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.perfume.com/montale/montale-dark-purple/women-perfume",
+          "name": "Perfume.com — Montale Dark Purple",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.mamuse.co/product/montale-dark-purple",
+          "name": "mamuse — Dark Purple by Montale",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.thelastspritz.com/fragrance/montale-dark-purple-edp",
+          "name": "The Last Spritz — Montale Dark Purple",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Perfume.com: 8-10 hours, strong sillage; mamuse: 8+ hours, room-noticeable, winter evenings and date nights; The Last Spritz: 8-10 h, strong trail, best in fall at night."
     },
     {
       "name": "Dark Aoud",
@@ -1701,8 +1897,52 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/dark-aoud-by-montale.26132658",
+          "name": "Basenotes — Dark Aoud by Montale reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.thelastspritz.com/fragrance/montale-dark-aoud",
+          "name": "The Last Spritz — Montale Dark Aoud",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/montale-dark-aoud",
+          "name": "Scents Angel — Montale Dark Aoud Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Basenotes reviewers: about 7-8 hours on skin, moderate sillage, very good projection for the first 3-4 h, autumnal; The Last Spritz: 8-10 h, strong trail, fall/winter nights; Scents Angel: autumn/winter evenings."
     },
     {
       "name": "Blue Amber",

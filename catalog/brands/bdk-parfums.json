@@ -15,11 +15,36 @@
       "perfumer": "Jordi Fernandez",
       "family": null,
       "accords": [],
-      "notes": { "top": ["mandarin", "bergamot", "pear"], "heart": ["rose", "orange blossom"], "base": ["akigalawood", "vanilla", "sandalwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "pear"
+        ],
+        "heart": [
+          "rose",
+          "orange blossom"
+        ],
+        "base": [
+          "akigalawood",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/impadia", "name": "BDK Parfums - Impadia", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/impadia",
+          "name": "BDK Parfums - Impadia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -30,12 +55,80 @@
       "perfumer": "Amélie Bourgeois",
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "cherry", "pink pepper"], "heart": ["black vanilla", "heliotrope"], "base": ["ambroxan", "cashmeran", "tonka bean", "labdanum", "white musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "cherry",
+          "pink pepper"
+        ],
+        "heart": [
+          "black vanilla",
+          "heliotrope"
+        ],
+        "base": [
+          "ambroxan",
+          "cashmeran",
+          "tonka bean",
+          "labdanum",
+          "white musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/rouge-smoking-parfum", "name": "BDK Parfums - Rouge Smoking", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.bdkparfums.com/products/rouge-smoking-parfum",
+          "name": "BDK Parfums - Rouge Smoking",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/bdk-parfums-rouge-smoking-edp",
+          "name": "Venba — BDK Parfums Rouge Smoking EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2020/10/18/rouge-smoking-by-bdk-parfums-2018",
+          "name": "The Scented Devil — Rouge Smoking by BDK Parfums",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/bdk-parfums-rouge-smoking-eau-de-parfum",
+          "name": "Beautinow — BDK Parfums Rouge Smoking Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Venba: 7-9h, moderate-to-strong sillage, fall/winter evenings; Scented Devil blog: 8+ hours, strong sillage; Beautinow: 6-8h, moderate"
     },
     {
       "name": "Rouge Smoking Extrait",
@@ -45,11 +138,47 @@
       "perfumer": "Amélie Bourgeois, Margaux Le Paih Guérin",
       "family": null,
       "accords": [],
-      "notes": { "top": ["red mandarin", "cherry", "saffron", "almond", "pink pepper", "bergamot", "elemi"], "heart": ["milk", "tonka bean", "peru balsam", "labdanum"], "base": ["oud wood", "amber woods", "black vanilla", "rum", "patchouli", "benzoin", "cypriol", "ambroxan"], "flat": [] },
+      "notes": {
+        "top": [
+          "red mandarin",
+          "cherry",
+          "saffron",
+          "almond",
+          "pink pepper",
+          "bergamot",
+          "elemi"
+        ],
+        "heart": [
+          "milk",
+          "tonka bean",
+          "peru balsam",
+          "labdanum"
+        ],
+        "base": [
+          "oud wood",
+          "amber woods",
+          "black vanilla",
+          "rum",
+          "patchouli",
+          "benzoin",
+          "cypriol",
+          "ambroxan"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/rouge-smoking-extrait", "name": "BDK Parfums - Rouge Smoking Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/rouge-smoking-extrait",
+          "name": "BDK Parfums - Rouge Smoking Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -60,12 +189,76 @@
       "perfumer": "Mathilde Bijaoui",
       "family": null,
       "accords": [],
-      "notes": { "top": ["fig", "black tea", "cardamom"], "heart": ["iris", "vetiver"], "base": ["sandalwood", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "fig",
+          "black tea",
+          "cardamom"
+        ],
+        "heart": [
+          "iris",
+          "vetiver"
+        ],
+        "base": [
+          "sandalwood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/gris-charnel-parfums", "name": "BDK Parfums - Gris Charnel", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.bdkparfums.com/products/gris-charnel-parfums",
+          "name": "BDK Parfums - Gris Charnel",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2022/03/19/bdk-parfums-gris-charnel/",
+          "name": "Kafkaesque — BDK Parfums Gris Charnel",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://besuitedaroma.com/bdk-parfums-gris-charnel-review",
+          "name": "Besuited Aroma — BDK Parfums Gris Charnel review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.perfumelounge.eu/products/bdk-parfums-gris-charnel",
+          "name": "Perfume Lounge — BDK Parfums Gris Charnel Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: about 8.5h on a light dose up to 15h on heavy, 5in to 2ft projection by dose; Besuited Aroma: 7h, moderate, ~2ft; Perfume Lounge: noticeable 7-9h, cooler seasons"
     },
     {
       "name": "Gris Charnel Extrait",
@@ -75,12 +268,79 @@
       "perfumer": "Mathilde Bijaoui",
       "family": null,
       "accords": [],
-      "notes": { "top": ["cardamom", "black tea", "fig"], "heart": ["iris", "cistus", "vetiver"], "base": ["patchouli", "vanilla", "sandalwood", "cedar", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "cardamom",
+          "black tea",
+          "fig"
+        ],
+        "heart": [
+          "iris",
+          "cistus",
+          "vetiver"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla",
+          "sandalwood",
+          "cedar",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/gris-charnel-extrait", "name": "BDK Parfums - Gris Charnel Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.bdkparfums.com/products/gris-charnel-extrait",
+          "name": "BDK Parfums - Gris Charnel Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/bdk-parfums-gris-charnel-extrait-eau-de-parfum",
+          "name": "Beautinow — BDK Parfums Gris Charnel Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://caperfume.com/pages/review/bdk-parfums-gris-charnel-extrait",
+          "name": "CA Perfume — Gris Charnel Extrait review",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://perfumuschicago.wordpress.com/2023/12/14/gris-charnel-extrait-by-bdk-parfums",
+          "name": "Per Fumus — Gris Charnel Extrait by BDK Parfums",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: 8-10h, moderate sillage and projection; CA Perfume: 8-12h, strong projection, best fall/winter; Per Fumus blog: very long-lasting, steady non-suffocating projection; one Gents buyer: skin scent after 2-3h"
     },
     {
       "name": "Pas ce Soir",
@@ -90,12 +350,79 @@
       "perfumer": "Violaine Collas",
       "family": null,
       "accords": [],
-      "notes": { "top": ["black pepper", "ginger", "mandarin", "pear"], "heart": ["jasmine", "quince", "orange blossom"], "base": ["cashmeran", "patchouli", "amber wood"], "flat": [] },
+      "notes": {
+        "top": [
+          "black pepper",
+          "ginger",
+          "mandarin",
+          "pear"
+        ],
+        "heart": [
+          "jasmine",
+          "quince",
+          "orange blossom"
+        ],
+        "base": [
+          "cashmeran",
+          "patchouli",
+          "amber wood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/pas-ce-soir-perfume", "name": "BDK Parfums - Pas ce Soir", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.bdkparfums.com/products/pas-ce-soir-perfume",
+          "name": "BDK Parfums - Pas ce Soir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/bdk-parfums-pas-ce-soir-edp",
+          "name": "Venba — BDK Parfums Pas Ce Soir EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/bdk-parfums/bdk-pas-ce-soir-perfume",
+          "name": "FragranceX — BDK Pas Ce Soir",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/bdk-parfums-pas-ce-soir-eau-de-parfum",
+          "name": "Beautinow — BDK Parfums Pas Ce Soir Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Venba: 6-8h, moderate-to-strong then skin scent, spring/summer/fall; FragranceX: 6-8h; Beautinow: 6-8h, moderate sillage"
     },
     {
       "name": "Pas ce Soir Extrait",
@@ -105,11 +432,41 @@
       "perfumer": "Violaine Collas",
       "family": null,
       "accords": [],
-      "notes": { "top": ["black pepper", "ginger", "cocoa", "pear", "tangerine"], "heart": ["jasmine", "quince", "orange blossom"], "base": ["patchouli", "benzoin", "cashmeran", "vanilla", "ambroxan"], "flat": [] },
+      "notes": {
+        "top": [
+          "black pepper",
+          "ginger",
+          "cocoa",
+          "pear",
+          "tangerine"
+        ],
+        "heart": [
+          "jasmine",
+          "quince",
+          "orange blossom"
+        ],
+        "base": [
+          "patchouli",
+          "benzoin",
+          "cashmeran",
+          "vanilla",
+          "ambroxan"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/pas-ce-soir-extrait", "name": "BDK Parfums - Pas ce Soir Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/pas-ce-soir-extrait",
+          "name": "BDK Parfums - Pas ce Soir Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -120,11 +477,37 @@
       "perfumer": "Serge Majoullier",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pear", "blackcurrant", "strawberry"], "heart": ["turkish rose", "jasmine sambac", "lorenox"], "base": ["musk", "cedar", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "pear",
+          "blackcurrant",
+          "strawberry"
+        ],
+        "heart": [
+          "turkish rose",
+          "jasmine sambac",
+          "lorenox"
+        ],
+        "base": [
+          "musk",
+          "cedar",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/bouquet-de-hongrie-parfums", "name": "BDK Parfums - Bouquet de Hongrie", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/bouquet-de-hongrie-parfums",
+          "name": "BDK Parfums - Bouquet de Hongrie",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -135,12 +518,86 @@
       "perfumer": "Cécile Matton",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pink pepper", "egyptian geranium"], "heart": ["tuberose", "ylang-ylang", "jasmine sambac", "iris", "jasmine"], "base": ["cashmeran", "sandalwood", "incense", "vanilla", "patchouli", "benzoin", "cypress"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper",
+          "egyptian geranium"
+        ],
+        "heart": [
+          "tuberose",
+          "ylang-ylang",
+          "jasmine sambac",
+          "iris",
+          "jasmine"
+        ],
+        "base": [
+          "cashmeran",
+          "sandalwood",
+          "incense",
+          "vanilla",
+          "patchouli",
+          "benzoin",
+          "cypress"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/tubereuse-imperiale-parfums", "name": "BDK Parfums - Tubereuse Imperiale", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.bdkparfums.com/products/tubereuse-imperiale-parfums",
+          "name": "BDK Parfums - Tubereuse Imperiale",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/bdk-parfums-tubereuse-imperiale-eau-de-parfum",
+          "name": "Beautinow — BDK Parfums Tubereuse Imperiale Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/bdk-parfums-tubereuse-imperiale-edp-1",
+          "name": "Venba — BDK Parfums Tubereuse Imperiale EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://parfumeriedusoleildor.com/en/products/tubereuse-imperiale",
+          "name": "Soleil d'Or — Tubéreuse Impériale",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Beautinow: 8-10h, moderate; Venba: 7-9h, moderate-to-strong, fall/spring evenings; FragranceX: 6-10h; Soleil d'Or: noticeable sillage, autumn/spring/summer"
     },
     {
       "name": "Crème de Cuir",
@@ -150,12 +607,87 @@
       "perfumer": "Violaine Collas",
       "family": null,
       "accords": [],
-      "notes": { "top": ["mandarin", "bergamot", "pineapple"], "heart": ["pink pepper", "solar accord", "suede", "sandalwood"], "base": ["vanilla", "birch", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "pineapple"
+        ],
+        "heart": [
+          "pink pepper",
+          "solar accord",
+          "suede",
+          "sandalwood"
+        ],
+        "base": [
+          "vanilla",
+          "birch",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/creme-de-cuir-parfums", "name": "BDK Parfums - Creme de Cuir", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.bdkparfums.com/products/creme-de-cuir-parfums",
+          "name": "BDK Parfums - Creme de Cuir",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2020/07/08/creme-de-cuir-by-bdk-parfums-2018",
+          "name": "The Scented Devil — Crème de Cuir by BDK Parfums",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/creme-de-cuir-by-bdk-parfums.26159118",
+          "name": "Basenotes — Crème de Cuir by BDK Parfums",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/bdk-parfums-creme-de-cuir-edp",
+          "name": "Venba — BDK Parfums Creme de Cuir EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/bdk-parfums-creme-de-cuir-eau-de-parfum",
+          "name": "Beautinow — BDK Parfums Creme De Cuir Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Scented Devil: wear time over 10h, moderately high projection; Venba: 7-9h, moderate; Beautinow: 6-8h; Basenotes reviewers split (some fleeting, ~2h); Perfume Posse: better than average"
     },
     {
       "name": "Vanille Caviar",
@@ -165,11 +697,37 @@
       "perfumer": "Alexandra Carlin",
       "family": null,
       "accords": [],
-      "notes": { "top": ["blackcurrant bud", "cardamom", "calamus"], "heart": ["vanilla caviar", "cocoa bean", "osmanthus"], "base": ["vanilla", "peru balsam", "cistus labdanum"], "flat": [] },
+      "notes": {
+        "top": [
+          "blackcurrant bud",
+          "cardamom",
+          "calamus"
+        ],
+        "heart": [
+          "vanilla caviar",
+          "cocoa bean",
+          "osmanthus"
+        ],
+        "base": [
+          "vanilla",
+          "peru balsam",
+          "cistus labdanum"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/vanille-caviar", "name": "BDK Parfums - Vanille Caviar", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/vanille-caviar",
+          "name": "BDK Parfums - Vanille Caviar",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -180,12 +738,90 @@
       "perfumer": "Dominique Ropion",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pink peppercorn", "violet"], "heart": ["tuberose", "jasmine", "orange blossom"], "base": ["vanilla", "patchouli", "oakwood", "leather", "orris", "benzoin"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink peppercorn",
+          "violet"
+        ],
+        "heart": [
+          "tuberose",
+          "jasmine",
+          "orange blossom"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli",
+          "oakwood",
+          "leather",
+          "orris",
+          "benzoin"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/vanille-leather", "name": "BDK Parfums - Vanille Leather", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.bdkparfums.com/products/vanille-leather",
+          "name": "BDK Parfums - Vanille Leather",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/bdk-parfums-vanille-leather-eau-de-parfum",
+          "name": "Beautinow — BDK Parfums Vanille Leather Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.maxaroma.com/vial/unisex/bdk-parfums-vanille-leather/pid/38617/255",
+          "name": "MaxAroma — BDK Parfums Vanille Leather",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/bdk-parfums-vanille-leather-edp-1",
+          "name": "Venba — BDK Parfums Vanille Leather EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://parfumeriedusoleildor.com/en/products/vanille-leather",
+          "name": "Soleil d'Or — Vanille Leather",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Beautinow: 6-8h, moderate; MaxAroma: 7-9h, fall-winter; Venba: 4-6h, moderate, fall/winter evenings; Soleil d'Or rates sillage powerful (sources vary)"
     },
     {
       "name": "Velvet Tonka",
@@ -195,12 +831,77 @@
       "perfumer": "Alexandra Carlin",
       "family": null,
       "accords": [],
-      "notes": { "top": ["orange blossom", "almond"], "heart": ["rose", "balkan tobacco"], "base": ["tonka bean", "vanilla", "amyris wood", "amber woods"], "flat": [] },
+      "notes": {
+        "top": [
+          "orange blossom",
+          "almond"
+        ],
+        "heart": [
+          "rose",
+          "balkan tobacco"
+        ],
+        "base": [
+          "tonka bean",
+          "vanilla",
+          "amyris wood",
+          "amber woods"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/velvet-tonka", "name": "BDK Parfums - Velvet Tonka", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
-      ]
+        {
+          "url": "https://us.bdkparfums.com/products/velvet-tonka",
+          "name": "BDK Parfums - Velvet Tonka",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "http://perfumeposse.com/2022/10/27/velvet-tonka-bdk-parfums-review/",
+          "name": "Perfume Posse — Velvet Tonka by BDK Parfums",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/bdk-parfums-velvet-tonka-eau-de-parfum",
+          "name": "Beautinow — BDK Parfums Velvet Tonka Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://parfumeriedusoleildor.com/en/products/velvet-tonka",
+          "name": "Soleil d'Or — Velvet Tonka",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Perfume Posse: projection and longevity well above average, faint traces after 24h, autumn scent; Beautinow: 6-8h, moderate; buyers call it a fall/winter staple; Soleil d'Or: noticeable sillage"
     },
     {
       "name": "Velvet Tonka Extrait",
@@ -210,11 +911,35 @@
       "perfumer": "Alexandra Carlin",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pistachio", "cosmofruit"], "heart": ["orange blossom", "tonka bean"], "base": ["vanilla", "tobacco", "saffiano leather"], "flat": [] },
+      "notes": {
+        "top": [
+          "pistachio",
+          "cosmofruit"
+        ],
+        "heart": [
+          "orange blossom",
+          "tonka bean"
+        ],
+        "base": [
+          "vanilla",
+          "tobacco",
+          "saffiano leather"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/velvet-tonka-extrait", "name": "BDK Parfums - Velvet Tonka Extrait", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/velvet-tonka-extrait",
+          "name": "BDK Parfums - Velvet Tonka Extrait",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -225,11 +950,34 @@
       "perfumer": "Anne Flipo",
       "family": null,
       "accords": [],
-      "notes": { "top": ["saffron", "raspberry"], "heart": ["cypriol", "olibanum"], "base": ["benzoin", "atlas cedar"], "flat": [] },
+      "notes": {
+        "top": [
+          "saffron",
+          "raspberry"
+        ],
+        "heart": [
+          "cypriol",
+          "olibanum"
+        ],
+        "base": [
+          "benzoin",
+          "atlas cedar"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/nectar-oud", "name": "BDK Parfums - Nectar Oud", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/nectar-oud",
+          "name": "BDK Parfums - Nectar Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -240,11 +988,37 @@
       "perfumer": "Alexandra Carlin",
       "family": null,
       "accords": [],
-      "notes": { "top": ["lemon", "neroli", "petitgrain"], "heart": ["orange blossom", "rose"], "base": ["vanilla", "vetiver", "patchouli", "labdanum"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon",
+          "neroli",
+          "petitgrain"
+        ],
+        "heart": [
+          "orange blossom",
+          "rose"
+        ],
+        "base": [
+          "vanilla",
+          "vetiver",
+          "patchouli",
+          "labdanum"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/villa-neroli", "name": "BDK Parfums - Villa Neroli", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/villa-neroli",
+          "name": "BDK Parfums - Villa Neroli",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -255,11 +1029,38 @@
       "perfumer": "Anne-Sophie Behaghel",
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "grapefruit", "salted accord"], "heart": ["orange blossom", "ylang-ylang", "galbanum"], "base": ["ambroxan", "cashmeran", "timbersilk", "white musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "salted accord"
+        ],
+        "heart": [
+          "orange blossom",
+          "ylang-ylang",
+          "galbanum"
+        ],
+        "base": [
+          "ambroxan",
+          "cashmeran",
+          "timbersilk",
+          "white musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/sel-dargent", "name": "BDK Parfums - Sel d'Argent", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/sel-dargent",
+          "name": "BDK Parfums - Sel d'Argent",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -270,11 +1071,41 @@
       "perfumer": "Ralf Schwieger",
       "family": null,
       "accords": [],
-      "notes": { "top": ["neroli", "mandarin", "lemon", "fig"], "heart": ["orange blossom", "jasmine", "strawberry", "eucalyptus", "everlasting flower"], "base": ["white musk", "patchouli", "vetiver", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "neroli",
+          "mandarin",
+          "lemon",
+          "fig"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine",
+          "strawberry",
+          "eucalyptus",
+          "everlasting flower"
+        ],
+        "base": [
+          "white musk",
+          "patchouli",
+          "vetiver",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/citrus-riviera", "name": "BDK Parfums - Citrus Riviera", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/citrus-riviera",
+          "name": "BDK Parfums - Citrus Riviera",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -285,11 +1116,36 @@
       "perfumer": "Alexandra Carlin",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pink peppercorn", "angelica"], "heart": ["orange blossom", "tonka bean", "iris"], "base": ["ambroxan", "ambery musk", "thai oud"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink peppercorn",
+          "angelica"
+        ],
+        "heart": [
+          "orange blossom",
+          "tonka bean",
+          "iris"
+        ],
+        "base": [
+          "ambroxan",
+          "ambery musk",
+          "thai oud"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/312-saint-honore", "name": "BDK Parfums - 312 Saint-Honore", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/312-saint-honore",
+          "name": "BDK Parfums - 312 Saint-Honore",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -300,11 +1156,41 @@
       "perfumer": "Amélie Bourgeois",
       "family": null,
       "accords": [],
-      "notes": { "top": ["aldehyde c12", "coriander", "bergamot"], "heart": ["rose", "jasmine", "orange blossom"], "base": ["labdanum", "tobacco", "vetiver", "patchouli", "violet", "sandalwood", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "aldehyde c12",
+          "coriander",
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "orange blossom"
+        ],
+        "base": [
+          "labdanum",
+          "tobacco",
+          "vetiver",
+          "patchouli",
+          "violet",
+          "sandalwood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/french-bouquet", "name": "BDK Parfums - French Bouquet", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/french-bouquet",
+          "name": "BDK Parfums - French Bouquet",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -315,11 +1201,37 @@
       "perfumer": "Julien Rasquinet",
       "family": null,
       "accords": [],
-      "notes": { "top": ["pink pepper", "plum", "lemon"], "heart": ["rose", "cinnamon", "chocolate"], "base": ["tobacco", "patchouli", "labdanum"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper",
+          "plum",
+          "lemon"
+        ],
+        "heart": [
+          "rose",
+          "cinnamon",
+          "chocolate"
+        ],
+        "base": [
+          "tobacco",
+          "patchouli",
+          "labdanum"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/tabac-rose", "name": "BDK Parfums - Tabac Rose", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/tabac-rose",
+          "name": "BDK Parfums - Tabac Rose",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -330,11 +1242,37 @@
       "perfumer": "Julien Rasquinet",
       "family": null,
       "accords": [],
-      "notes": { "top": ["saffron", "black pepper", "plum"], "heart": ["rose", "olibanum", "leather"], "base": ["oakwood", "sandalwood", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "saffron",
+          "black pepper",
+          "plum"
+        ],
+        "heart": [
+          "rose",
+          "olibanum",
+          "leather"
+        ],
+        "base": [
+          "oakwood",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/ambre-safrano", "name": "BDK Parfums - Ambre Safrano", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/ambre-safrano",
+          "name": "BDK Parfums - Ambre Safrano",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -345,11 +1283,39 @@
       "perfumer": "Mathilde Bijaoui",
       "family": null,
       "accords": [],
-      "notes": { "top": ["saffron", "ginger"], "heart": ["turkish rose", "cumin"], "base": ["agarwood", "guaiac wood", "labdanum", "incense", "patchouli", "castoreum", "orcanox"], "flat": [] },
+      "notes": {
+        "top": [
+          "saffron",
+          "ginger"
+        ],
+        "heart": [
+          "turkish rose",
+          "cumin"
+        ],
+        "base": [
+          "agarwood",
+          "guaiac wood",
+          "labdanum",
+          "incense",
+          "patchouli",
+          "castoreum",
+          "orcanox"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/oud-abramad", "name": "BDK Parfums - Oud Abramad", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/oud-abramad",
+          "name": "BDK Parfums - Oud Abramad",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -360,11 +1326,38 @@
       "perfumer": "Marie Schnirer",
       "family": null,
       "accords": [],
-      "notes": { "top": ["cardamom", "nutmeg", "cumin"], "heart": ["turkish rose", "rose oxide", "hot sand accord"], "base": ["sandalwood", "tonka bean", "ambroxan", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "cardamom",
+          "nutmeg",
+          "cumin"
+        ],
+        "heart": [
+          "turkish rose",
+          "rose oxide",
+          "hot sand accord"
+        ],
+        "base": [
+          "sandalwood",
+          "tonka bean",
+          "ambroxan",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/nuit-de-sable", "name": "BDK Parfums - Nuit de Sable", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/nuit-de-sable",
+          "name": "BDK Parfums - Nuit de Sable",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -375,11 +1368,38 @@
       "perfumer": "Jordi Fernandez",
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "green mandarin", "lemon"], "heart": ["ginger", "pink pepper"], "base": ["patchouli", "atlas cedarwood", "labdanum", "citrus oud accord", "cypriol"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "green mandarin",
+          "lemon"
+        ],
+        "heart": [
+          "ginger",
+          "pink pepper"
+        ],
+        "base": [
+          "patchouli",
+          "atlas cedarwood",
+          "labdanum",
+          "citrus oud accord",
+          "cypriol"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/silver-ceremony", "name": "BDK Parfums - Silver Ceremony", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/silver-ceremony",
+          "name": "BDK Parfums - Silver Ceremony",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -390,11 +1410,35 @@
       "perfumer": "Jordi Fernandez",
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "pineapple", "incense", "saffron"], "heart": ["rose"], "base": ["cocoa", "oud"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "pineapple",
+          "incense",
+          "saffron"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "cocoa",
+          "oud"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/oud-paradisio", "name": "BDK Parfums - Oud Paradisio", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/oud-paradisio",
+          "name": "BDK Parfums - Oud Paradisio",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -405,11 +1449,35 @@
       "perfumer": "Jordi Fernández",
       "family": null,
       "accords": [],
-      "notes": { "top": ["ginger", "cinnamon"], "heart": ["iris", "vanilla", "benzoin", "tonka bean"], "base": ["sandalwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "ginger",
+          "cinnamon"
+        ],
+        "heart": [
+          "iris",
+          "vanilla",
+          "benzoin",
+          "tonka bean"
+        ],
+        "base": [
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://us.bdkparfums.com/products/stellar-silk", "name": "BDK Parfums - Stellar Silk", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://us.bdkparfums.com/products/stellar-silk",
+          "name": "BDK Parfums - Stellar Silk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     }
   ]

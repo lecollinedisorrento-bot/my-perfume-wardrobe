@@ -697,8 +697,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "http://www.ninasstyleblog.com/2018/09/hermes-twilly-dhermes-eau-de-parfum.html",
+          "name": "Nina's Style Blog — Hermès Twilly d'Hermès Eau de Parfum review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Nina's Style Blog: longevity about 8-9 hours on the blogger's skin."
     },
     {
       "name": "Un Jardin sur le Nil",
@@ -724,8 +743,42 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/jardin-sur-le-nil-hermes/",
+          "name": "Best Men's Colognes — Un Jardin Sur Le Nil",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentaur.com/un-jardin-sur-le-nil-eau-de-toilette-by-hermes-review/",
+          "name": "The Scentaur — Un Jardin sur le Nil review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Best Men's Colognes: 6-7.5 hours, strong early projection (about 7 ft) then moderate, spring/summer daytime; The Scentaur: about ten hours including skin-scent tail, small projection; Basenotes: 5 hours."
     },
     {
       "name": "Eau des Merveilles Bleue",
@@ -751,8 +804,30 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://nstperfume.com/2017/04/11/hermes-eau-des-merveilles-bleue-fragrance-review/",
+          "name": "Now Smell This — Hermès Eau des Merveilles Bleue review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Now Smell This: considerably more sillage and somewhat more staying power than the other Merveilles; reviewer still detected it after 6 hours; could work in summer for outdoor activities."
     },
     {
       "name": "L'Ombre des Merveilles",
@@ -778,8 +853,39 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/herm-s-l-ombre-des-merveilles",
+          "name": "Vivir — Hermès L'Ombre des Merveilles review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.silloria.com/en/perfumes/hermes/l-ombre-des-merveilles",
+          "name": "Silloria — L'Ombre des Merveilles",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: 6-8 hours, moderate projection (arm's length for two hours); Silloria community summary: 6-10 hours, moderate sillage, best in spring and fall."
     },
     {
       "name": "L'Ambre des Merveilles",
@@ -805,8 +911,39 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/hermes-lambre-des-merveilles-eau-de-parfum",
+          "name": "ScentVerdict — L'Ambre des Merveilles Eau de Parfum",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://boisdejasmin.com/2012/11/hermes-lambre-des-merveilles-perfume-review.html",
+          "name": "Bois de Jasmin — Hermès L'Ambre des Merveilles",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: lasts about 4-6 hours, arm's-length projection, best in autumn and winter; Bois de Jasmin: lasted a full day with two generous sprays but less for another tester."
     },
     {
       "name": "Ginseng Biloba",
@@ -928,8 +1065,31 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/hermes-hermessence-oud-alezan-eau-de-parfum",
+          "name": "ScentVerdict — Hermessence Oud Alezan Eau de Parfum",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: lasts about 4-6 hours, arm's-length reach, moderate strength; best in spring and autumn (autumn best), suited to office and evenings."
     },
     {
       "name": "Oud Esma",
@@ -982,8 +1142,39 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-ambre-narguile-by-hermes.26123593/reviews/",
+          "name": "Basenotes — Hermèssence Ambre Narguilé reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentaur.com/ambre-narguile-eau-de-toilette-by-hermes-review/",
+          "name": "The Scentaur — Ambre Narguile Eau de Toilette review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: moderate sillage, great longevity of twelve hours, lasts all day; The Scentaur: 12-24 hours but very faint, intimate skin scent; a comforting winter/autumn scent."
     },
     {
       "name": "Cèdre Sambac",
@@ -1036,8 +1227,39 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/hermes-hermessence-agar-ebene-eau-de-toilette",
+          "name": "ScentVerdict — Hermessence Agar Ebene Eau de Toilette",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-agar-ebene-by-hermes.26154860",
+          "name": "Basenotes — Hermèssence Agar Ebène",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: about 2-4 hours, arm's length, best in spring and autumn; Basenotes reviewers: soft sillage and weak projection, five hours (another: skin scent after four hours)."
     },
     {
       "name": "Rose Ikebana",
@@ -1063,8 +1285,39 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/hermes-hermessence-rose-ikebana-eau-de-toilette",
+          "name": "ScentVerdict — Hermessence Rose Ikebana Eau de Toilette",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-rose-ikebana-by-hermes.26123591/reviews/",
+          "name": "Basenotes — Hermèssence Rose Ikebana reviews",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: 4-6 hours, arm's-length projection, best in spring and summer; Basenotes reviewers: about 4-5 hours, sillage close to moderate."
     },
     {
       "name": "Myrrhe Églantine",
@@ -1090,8 +1343,30 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-myrrhe-eglantine-by-hermes.26154864",
+          "name": "Basenotes — Hermèssence Myrrhe Églantine",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: moderate sillage, good projection, six to eight hours, lasts all day with moderate projection; seen as a spring casual scent."
     },
     {
       "name": "Cardamusc",

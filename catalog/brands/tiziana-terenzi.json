@@ -1116,8 +1116,49 @@
           "name": "Tiziana Terenzi — Classic Gold collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://basenotes.com/fragrances/gold-rose-oudh-by-tiziana-terenzi.26139676/reviews/",
+          "name": "Basenotes — Reviews of Gold Rose Oudh by Tiziana Terenzi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "http://www.fragrancex.com/products/tiziana-terenzi/gold-rose-oudh-perfume",
+          "name": "FragranceX — Tiziana Terenzi Gold Rose Oudh Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancereview.com/perfume/tiziana-terenzi-gold-rose-oudh-extrait-de-parfum",
+          "name": "Fragrance Review — Gold Rose Oudh by Tiziana Terenzi",
+          "type": "publication",
+          "supports": [
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Basenotes reviewers: about 10h, 8-10h and ~12h with strong sillage/projection (one says ~4h, moderate); FragranceX buyer: 8h; Fragrance Review magazine: fall/winter, evening and night out."
     },
     {
       "name": "Nero Oudh",
@@ -1989,8 +2030,34 @@
           "name": "Tiziana Terenzi — Luna collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://beautinow.com/products/tiziana-terenzi-andromeda-extrait-de-parfum",
+          "name": "Beautinow — Tiziana Terenzi Andromeda Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Beautinow listing: long-lasting, about 6-8h, moderate sillage and projection, ideal for spring/summer daytime."
     },
     {
       "name": "Cassiopea",
@@ -2014,8 +2081,42 @@
           "name": "Tiziana Terenzi — Luna collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://beautinow.com/products/tiziana-terenzi-cassiopea-extrait-de-parfum",
+          "name": "Beautinow — Tiziana Terenzi Cassiopea Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/tiziana-terenzi-cassiopea-extrait-de-parfum",
+          "name": "Scents Angel — Tiziana Terenzi Cassiopea Extrait de parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Beautinow listing: long-lasting, about 6-8h, moderate sillage and projection, spring/summer daytime; Scents Angel listing: 8-10h, moderate sillage; a Blush Suede review found it shorter-lived and subtle."
     },
     {
       "name": "Draco",
@@ -2039,8 +2140,38 @@
           "name": "Tiziana Terenzi — Luna collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "http://www.fragrancex.com/products/tiziana-terenzi/draco-perfume",
+          "name": "FragranceX — Tiziana Terenzi Draco Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.myperfumeshop.com/products/tiziana-terenzi-luna-star-collection-draco-extrait-de-parfum",
+          "name": "My Perfume Shop — Tiziana Terenzi Luna Star Collection Draco Extrait De Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "FragranceX: lingers up to 10 hours on many people, best season fall; My Perfume Shop: lasts up to 12 hours; buyer reviews are mixed (some find it soft or short-lived). No source gives sillage."
     },
     {
       "name": "Ursa",
@@ -2064,8 +2195,50 @@
           "name": "Tiziana Terenzi — Luna collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://www.scentsangel.com/products/tiziana-terenzi-ursa-eau-de-parfum",
+          "name": "Scents Angel — Tiziana Terenzi Ursa",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/ursa-by-tiziana-terenzi.26146139",
+          "name": "Basenotes — Ursa by Tiziana Terenzi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://makeupstore.com/product/224465/",
+          "name": "Makeup.store — Tiziana Terenzi Luna Collection Ursa Extrait De Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scents Angel listing: 10-12h, strong sillage, fall/winter, night outs; Basenotes reviewers split (very close to skin and not long-lasting vs loud for hours and lasts all day); Makeup.store buyers: above-average longevity, amazing to soft sillage."
     },
     {
       "name": "Orion",
@@ -2089,8 +2262,50 @@
           "name": "Tiziana Terenzi — Luna collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://beautinow.com/products/tiziana-terenzi-orion-eau-de-parfum",
+          "name": "Beautinow — Tiziana Terenzi Orion Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/tiziana-terenzi-orion-extrait-de-parfum",
+          "name": "Scents Angel — Tiziana Terenzi Orion Extrait de parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://blublazerguy.com/2020/11/20/tiziana-terenzi-orion",
+          "name": "Blu Blazer Guy — Tiziana Terenzi Orion",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Beautinow listing: 8-10h, sillage moderate to heavy, projection moderate, evening wear; Scents Angel: 10-12h, strong sillage, fall/winter; FragranceX: up to 8-10h; Blu Blazer Guy review: longevity, sillage, projection each 4/5."
     },
     {
       "name": "Lince",
@@ -2114,8 +2329,50 @@
           "name": "Tiziana Terenzi — Luna collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://www.scentsangel.com/products/lince",
+          "name": "Scents Angel — Tiziana Terenzi Lince Extrait de parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.myperfumeshop.com/products/tiziana-terenzi-luna-collection-lince-extrait-de-parfum",
+          "name": "My Perfume Shop — Tiziana Terenzi Luna Collection Lince Extrait De Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/tiziana-terenzi/tiziana-terenzi-lince/women-perfume",
+          "name": "Perfume.com — Tiziana Terenzi Lince Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 2,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Scents Angel listing: 8-10h, moderate sillage, noticeable yet soft projection, daytime in spring/summer; My Perfume Shop and Perfume.com: roughly 6-8h."
     },
     {
       "name": "Libra",

@@ -2617,8 +2617,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2019/11/17/encens-et-lavande-by-serge-lutens-1996/",
+          "name": "Varanis Ridari — Encens et Lavande by Serge Lutens (1996)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Varanis Ridari review: longevity average, sillage moderate at best and quiet at worst, grows louder over the first hours before settling to skin level."
     },
     {
       "name": "Muscs Koublaï Khan",
@@ -2855,8 +2874,39 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/12/05/serge-lutens-la-vierge-de-fer/",
+          "name": "Kafkaesque — Serge Lutens La Vierge de Fer",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/la-vierge-de-fer-by-serge-lutens.26140099/reviews/",
+          "name": "Basenotes — Reviews of La Vierge de Fer by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: weak projection, skin scent within minutes, about 5.75-7 h in total; Basenotes review: moderate sillage, good projection, about eight hours, a scent for warmer autumn days; Bois de Jasmin comment claims all-day tenacity."
     },
     {
       "name": "Le perce-vent",
@@ -2883,8 +2933,32 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://smell100.com/perfumes/serge-lutens/le-perce-vent/review/marta-regina-jablonska",
+          "name": "smell100 — Review of Le perce-vent by Marta Regina Jabłońska",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "smell100 review: about 8 h after 10 sprays, sillage and longevity called quite good, settles into a subtle skin scent; tagged for spring, fall and winter."
     },
     {
       "name": "La Fille Tour de Fer",
@@ -2916,8 +2990,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://leavenocologneunturned.com/2024/04/27/first-impressions-serge-lutens-la-fille-tour-de-fer/",
+          "name": "Leave No Cologne Unturned — First Impressions: Serge Lutens La Fille Tour De Fer",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Leave No Cologne Unturned first impressions: only about 4-6 h from this rose; no sillage level stated."
     }
   ]
 }
