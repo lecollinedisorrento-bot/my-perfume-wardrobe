@@ -203,8 +203,49 @@
             "concentration",
             "year"
           ]
+        },
+        {
+          "url": "https://scentologyblog.com/2025/07/03/prada-paradoxe-review/",
+          "name": "Scentology — Prada Paradoxe EDP review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/prada-paradoxe-eau-de-parfum-review",
+          "name": "Escentual — Prada Paradoxe EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.glamourmagazine.co.uk/article/prada-paradoxe-review",
+          "name": "Glamour UK — Prada Paradoxe EDP review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Scentology: 6-8 h and often more, moderate-to-strong sillage then intimate, year-round; Escentual: over six hours on wrists; Glamour UK: still subtly there after six hours."
     },
     {
       "name": "Paradoxe Intense",
@@ -600,8 +641,31 @@
             "concentration",
             "year"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/prada-candy-by-prada.26132465/reviews/positive/",
+          "name": "Basenotes — Positive Reviews of Prada Candy",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: 6-8 h or 8h+ on some skins but only a couple of hours for others; sillage close to skin with whiffs; described as an autumn/winter scent."
     },
     {
       "name": "Candy Kiss",
