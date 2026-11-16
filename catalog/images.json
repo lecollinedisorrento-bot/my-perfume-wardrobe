@@ -5088,6 +5088,13 @@
   "source": "Shopwice — Chris Adams Active Woman Cheers",
   "type": "retailer"
  },
+ "Chris Adams|Active Woman Cool": {
+  "file": "chris-adams--active-woman-cool.webp",
+  "image": "https://cdn.shopwice.com/products/208057/main-208058/v1/image-800.webp",
+  "page": "https://shopwice.com/product/chris-adams-active-woman-cool-80ml-perfume-spray",
+  "source": "Shopwice — Chris Adams Active Woman Cool",
+  "type": "retailer"
+ },
  "Chris Adams|Active Woman Gifted": {
   "file": "chris-adams--active-woman-gifted.webp",
   "image": "https://cdn.shopwice.com/products/208092/main-208093/v1/image-800.webp",
@@ -8798,6 +8805,13 @@
   "source": "Olfastory - Vol de Nuit",
   "type": "database"
  },
+ "Gulf Orchid|Angel Musk": {
+  "file": "gulf-orchid--angel-musk.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/Capturadepantalla2025-04-09alas20.08.19.png?v=1771072247&width=1000",
+  "page": "https://arabicparfums.com/en/products/musk-collection-angel-musk-gulf-orchid-60ml",
+  "source": "Arabic Parfums — Musk Collection Angel Musk 60ml",
+  "type": "retailer"
+ },
  "Gulf Orchid|Cherry Kokomo": {
   "file": "gulf-orchid--cherry-kokomo.webp",
   "image": "https://scentadvice.com/wp-content/uploads/2025/06/01_1-e1750040246427.webp",
@@ -8825,6 +8839,13 @@
   "page": "https://scentadvice.com/mojito-obsession-2025-gulf-orchid/",
   "source": "Scent Advice — Mojito Obsession (2025)",
   "type": "database"
+ },
+ "Gulf Orchid|Old Fashioned": {
+  "file": "gulf-orchid--old-fashioned.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/image_1e84e100-1576-4406-a557-1e2b91fe86ee.png?v=1778099887&width=1000",
+  "page": "https://arabicparfums.com/en/products/old-fashioned-cocktail-collection-gulf-orchid",
+  "source": "Arabic Parfums — Old Fashioned",
+  "type": "retailer"
  },
  "Gulf Orchid|Ruby Fizz": {
   "file": "gulf-orchid--ruby-fizz.webp",
@@ -12583,6 +12604,13 @@
   "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/bahi-3.avif?v=1771079574&width=1000",
   "page": "https://arabicparfums.com/en/collections/nabeel/products/bahi-nabeel",
   "source": "Arabic Parfums — Bahi",
+  "type": "retailer"
+ },
+ "Nabeel|Birwaz": {
+  "file": "nabeel--birwaz.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/Capturadepantalla2025-09-06alas10.08.02.png?v=1771079563&width=1000",
+  "page": "https://arabicparfums.com/en/collections/nabeel/products/birwaz-nabeel",
+  "source": "Arabic Parfums — Birwaz",
   "type": "retailer"
  },
  "Nabeel|Dan Dana": {
@@ -16624,13 +16652,6 @@
   "source": "Demeter Fragrance Library — Cologne Sprays collection",
   "type": "official"
  },
- "The Library of Fragrance|Pure Soap": {
-  "file": "the-library-of-fragrance--pure-soap.webp",
-  "image": "https://demeterfragrance.com/cdn/shop/collections/Paperback_1oz_Hero_1200x1200.png?v=1709008211",
-  "page": "https://demeterfragrance.com/collections/cologne-spray",
-  "source": "Demeter Fragrance Library — Cologne Sprays collection",
-  "type": "official"
- },
  "The Library of Fragrance|Quince": {
   "file": "the-library-of-fragrance--quince.webp",
   "image": "https://cdn.shopify.com/s/files/1/0709/3449/5507/products/Quince_1oz_Hero.png?v=1762198308&width=1000",
@@ -16873,13 +16894,6 @@
   "file": "the-library-of-fragrance--sunshine.webp",
   "image": "https://cdn.shopify.com/s/files/1/0709/3449/5507/products/Sunshine_1oz_Hero.png?v=1762198335&width=1000",
   "page": "https://demeterfragrance.com/products/sunshine-cologne-spray",
-  "source": "Demeter Fragrance Library — Cologne Sprays collection",
-  "type": "official"
- },
- "The Library of Fragrance|Suntan Lotion": {
-  "file": "the-library-of-fragrance--suntan-lotion.webp",
-  "image": "https://demeterfragrance.com/cdn/shop/collections/Paperback_1oz_Hero_1200x1200.png?v=1709008211",
-  "page": "https://demeterfragrance.com/collections/cologne-spray",
   "source": "Demeter Fragrance Library — Cologne Sprays collection",
   "type": "official"
  },
@@ -17184,12 +17198,89 @@
   "source": "The Orientalist — Taif Bloom",
   "type": "official"
  },
+ "The Orientalist|Tropic Janan": {
+  "file": "the-orientalist--tropic-janan.webp",
+  "image": "https://www.theorientalistfragrances.com/wp-content/uploads/2025/09/THEORIENTALIST_ECOMERCE1-1.webp",
+  "page": "https://www.theorientalistfragrances.com/en/product/tropic-janan/",
+  "source": "The Orientalist — Tropic Janan",
+  "type": "official"
+ },
  "The Orientalist|Velvet Khashab": {
   "file": "the-orientalist--velvet-khashab.webp",
   "image": "https://www.theorientalistfragrances.com/wp-content/uploads/2025/09/THEORIENTALIST_ECOMERCE6-2.webp",
   "page": "https://www.theorientalistfragrances.com/en/product/velvet-khashab/",
   "source": "The Orientalist — Velvet Khashab",
   "type": "official"
+ },
+ "The Spirit of Dubai|Abjar": {
+  "file": "the-spirit-of-dubai--abjar.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0455/0914/8823/files/1_14f897ab-9346-4454-aebf-ec12388eb9bc.png?v=1766452047&width=1000",
+  "page": "https://www.scentsangel.com/products/abjar",
+  "source": "Scents Angel - Abjar",
+  "type": "retailer"
+ },
+ "The Spirit of Dubai|Baz": {
+  "file": "the-spirit-of-dubai--baz.webp",
+  "image": "https://media.parfumo.com/perfume_social/b6/b6096c-baz-the-spirit-of-dubai_1200.jpg?format=jpg&quality=90",
+  "page": "https://www.parfumo.com/Parfums/the-spirit-of-dubai/baz",
+  "source": "Parfumo - Baz",
+  "type": "database"
+ },
+ "The Spirit of Dubai|Diwan": {
+  "file": "the-spirit-of-dubai--diwan.webp",
+  "image": "https://media.parfumo.com/perfume_social/dd/dd0947-diwan-the-spirit-of-dubai_1200.jpg?format=jpg&quality=90",
+  "page": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/diwan",
+  "source": "Parfumo - Diwan",
+  "type": "database"
+ },
+ "The Spirit of Dubai|Dubai Ajyal": {
+  "file": "the-spirit-of-dubai--dubai-ajyal.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0700/0365/4713/files/product-bottles-THE_SPIRIT_OF_DUBAI-AJYAL_d74c2a9a-c483-4d81-b363-6bafa6ccd84c.png?v=1762201825&width=1000",
+  "page": "https://theparfums.com/products/ajyal",
+  "source": "The Parfums - Ajyal",
+  "type": "retailer"
+ },
+ "The Spirit of Dubai|Dubai Marsa": {
+  "file": "the-spirit-of-dubai--dubai-marsa.webp",
+  "image": "https://media.parfumo.com/perfume_social/99/99a796_dubai-marsa-the-spirit-of-dubai_1200.jpg?format=jpg&quality=90",
+  "page": "https://www.parfumo.com/Perfumes/the-spirit-of-dubai/dubai-marsa",
+  "source": "Parfumo - Dubai Marsa",
+  "type": "database"
+ },
+ "The Spirit of Dubai|Dubai Oud": {
+  "file": "the-spirit-of-dubai--dubai-oud.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0455/0914/8823/files/1_e540444c-19c5-4e26-ab15-8ac378568563.png?v=1769042315&width=1000",
+  "page": "https://www.scentsangel.com/products/oud",
+  "source": "Scents Angel - Oud",
+  "type": "retailer"
+ },
+ "The Spirit of Dubai|Dubai Roeya": {
+  "file": "the-spirit-of-dubai--dubai-roeya.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0455/0914/8823/files/1_ed1e0fc9-0d08-4688-b002-54ce5b7b954d.png?v=1769042361&width=1000",
+  "page": "https://www.scentsangel.com/products/the-spirit-of-dubai-roeya-eau-de-parfum",
+  "source": "Scents Angel - Roeya",
+  "type": "retailer"
+ },
+ "The Spirit of Dubai|Durra": {
+  "file": "the-spirit-of-dubai--durra.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0455/0914/8823/files/1_dc33180e-fdf3-461c-ab6b-622a1bf336a9.png?v=1769040420&width=1000",
+  "page": "https://www.scentsangel.com/products/durra",
+  "source": "Scents Angel - Durra",
+  "type": "retailer"
+ },
+ "The Spirit of Dubai|Haibah": {
+  "file": "the-spirit-of-dubai--haibah.webp",
+  "image": "https://cdn.shopify.com/s/files/1/0455/0914/8823/files/1_634eb143-5ee8-4021-9113-ba404ee9cad5.png?v=1769040440&width=1000",
+  "page": "https://www.scentsangel.com/products/haibah",
+  "source": "Scents Angel - Haibah",
+  "type": "retailer"
+ },
+ "The Spirit of Dubai|Narjesi": {
+  "file": "the-spirit-of-dubai--narjesi.webp",
+  "image": "https://www.scentsangel.com/cdn/shop/files/SENTSANGEL_1935896a-32fd-45a0-a2b9-37e1a399c532.jpg?v=1777414152",
+  "page": "https://www.scentsangel.com/products/narjesi",
+  "source": "Scents Angel - Narjesi",
+  "type": "retailer"
  },
  "Tom Ford|Azure Lime": {
   "file": "tom-ford--azure-lime.webp",
