@@ -206,8 +206,33 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://ksiegaperfum.pl/dolce-gabbana-the-one-eau-de-parfum-recenzja/",
+          "name": "Księga Perfum — D&G The One EDP recenzja",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Ksiega Perfum review: about 6-8 h, arm's-length projection in the first hour then closer; best in evenings and cooler seasons, cut sprays in heat."
     },
     {
       "name": "The One Gold",
@@ -511,8 +536,42 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://scentgrail.com/perfume-reviews/dolce-and-gabbana-the-one-review/",
+          "name": "Scent Grail — Dolce & Gabbana The One EDP for men review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/27455/dolcegabbana/the-one-for-men-eau-de-parfum",
+          "name": "Fragplace — The One for Men Eau de Parfum",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scent Grail: 5-7 h (up to 8), low-to-medium projection and sillage, best in fall/winter for romantic evenings and nights out; Fragplace reviewers: about 4-6 h."
     },
     {
       "name": "The One for Men",
@@ -690,8 +749,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://www.thelastspritz.com/fragrance/dolce-and-gabbana-light-blue-pour-homme-eau-de-toilette",
+          "name": "The Last Spritz — Light Blue Pour Homme EDT",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Last Spritz: 4-6 h, arm's-length projection, soft trail."
     },
     {
       "name": "Devotion For Men",
@@ -921,8 +999,39 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/k-by-dolce-gabbana-by-dolce-gabbana.26159513/reviews/",
+          "name": "Basenotes — Reviews of K Eau de Toilette by Dolce & Gabbana",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.michael84.co.uk/k-by-dolce-and-gabbana-fragrance-review/",
+          "name": "Michael84 — K by Dolce and Gabbana review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: roughly 4 to 8 h (6 h+ typical), gentle sillage, projection stays close; one calls it a spring/summer scent; michael84 review: about 6 h, all-rounder."
     },
     {
       "name": "Pour Homme",

@@ -188,8 +188,35 @@
           "name": "Le Secret du Marais — Frédéric Malle listing",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://basenotes.com/fragrances/dans-tes-bras-by-editions-de-parfums-frederic-malle.26129426/reviews/",
+          "name": "Basenotes — Reviews of Dans tes Bras by Frederic Malle",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://aromierotici.blogspot.com/2012/03/dans-tes-bras-by-frederic-malle.html",
+          "name": "Aromi Erotici — Dans Tes Bras by Frederic Malle",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: nine hours, moderate sillage (another: good longevity, big start settling to moderate within 1-2 h); Aromi Erotici: good sillage, 5+ hours."
     },
     {
       "name": "Dawn",
@@ -268,8 +295,35 @@
           "name": "Le Secret du Marais — Frédéric Malle listing",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://thescentaur.com/en-passant-eau-de-parfum-by-frederic-malle-review/",
+          "name": "The Scentaur — En Passant Eau de Parfum by Frédéric Malle Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "http://ismellthereforeiam.blogspot.com/2009/01/frederic-malle-en-passant-review.html",
+          "name": "I Smell Therefore I Am — Frederic Malle En Passant: A Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scentaur: performance, sillage and longevity all rather weak, nearly gone in 2-3 h; I Smell Therefore I Am: about 3 h, soft sillage."
     },
     {
       "name": "French Lover",
@@ -418,8 +472,35 @@
           "name": "Le Secret du Marais — Frédéric Malle listing",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://basenotes.com/fragrances/iris-poudre-by-editions-de-parfums-frederic-malle.26121825/reviews/",
+          "name": "Basenotes — Reviews of Iris Poudre by Frederic Malle",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "http://ismellthereforeiam.blogspot.com/2008/10/frederic-malle-iris-poudre-review.html",
+          "name": "I Smell Therefore I Am — Frederic Malle, Iris Poudre: A Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewer: not terribly long on skin but clings to clothes, sits demurely for hours, not an effusive projector; I Smell Therefore I Am: excellent at 6+ h with soft-to-average sillage."
     },
     {
       "name": "L'Eau d'Hiver",
@@ -443,8 +524,39 @@
           "name": "Le Secret du Marais — Frédéric Malle listing",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://basenotes.com/threads/lesser-known-malles.192340/",
+          "name": "Basenotes — Lesser known Malles",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2019/11/17/leau-dhiver-by-editions-de-parfums-frederic-malle/",
+          "name": "Varanis Ridari — L'Eau d'Hiver by Editions de Parfums Frederic Malle (2003)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 1,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes thread: 3-4 h with minimal sillage for one wearer (faint at 10 h for another); Varanis Ridari: fleeting, performance lacking, works best in summer heat."
     },
     {
       "name": "Lipstick Rose",
@@ -817,8 +929,30 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://nstperfume.com/2018/07/06/frederic-malle-outrageous-fragrance-review-with-a-quick-poll/",
+          "name": "Now Smell This — Frederic Malle Outrageous",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Now Smell This: moderate sillage and persistence; called ideal for a heat wave."
     },
     {
       "name": "Portrait of a Lady",
@@ -1045,8 +1179,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/threads/frederic-malle-the-night-worth-the-price.478772/",
+          "name": "Basenotes — Frederic Malle The Night worth the price?",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes thread: longevity around 10-12 h with moderate sillage, weaker than The Moon or Promise."
     },
     {
       "name": "Uncut Gem",
@@ -1143,8 +1296,27 @@
           "supports": [
             "perfumer"
           ]
+        },
+        {
+          "url": "https://avis-parfums.fr/avis-vetiver-extraordinaire-malle/",
+          "name": "Avis Parfums — Mon avis sur Vetiver Extraordinaire de Frederic Malle",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Avis Parfums review: 8-9 h on skin and still there next morning on a shirt, moderate projection for two hours then intimate."
     }
   ]
 }

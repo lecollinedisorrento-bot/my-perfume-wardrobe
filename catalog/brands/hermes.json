@@ -1419,8 +1419,39 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/hermes-hermessence-epice-marine-eau-de-toilette",
+          "name": "ScentVerdict — Hermessence Epice Marine Eau de Toilette",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-epice-marine-by-hermes.26139878/reviews/",
+          "name": "Basenotes — Hermèssence Épice Marine reviews",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: 4-6 hours, arm's length, best in spring and summer; Basenotes reviewer: soft sillage, good projection, five hours (another found it weak)."
     },
     {
       "name": "Poivre Samarcande",
@@ -1446,8 +1477,38 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-poivre-samarcande-by-hermes.26123590",
+          "name": "Basenotes — Hermèssence Poivre Samarcande",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-poivre-samarcande-by-hermes.26123590/reviews/positive/",
+          "name": "Basenotes — Poivre Samarcande positive reviews",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: soft sillage, adequate projection, about five hours (another says about 5 hours, no sillage after 30 minutes); suggested for warmer spring days."
     },
     {
       "name": "Santal Massoïa",
@@ -1473,8 +1534,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-santal-massoia-by-hermes.26132958/reviews/",
+          "name": "Basenotes — Hermèssence Santal Massoïa reviews",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewer: moderate sillage, adequate projection, six hours; reviews vary widely (from gone in 2 hours to about ten hours)."
     },
     {
       "name": "Cuir d'Ange",
@@ -1500,8 +1580,38 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-cuir-dange-by-hermes.26144318/reviews/",
+          "name": "Basenotes — Hermèssence Cuir d'Ange reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://nstperfume.com/2014/09/30/hermes-cuir-dange-fragrance-review-quick-poll/",
+          "name": "Now Smell This — Hermès Cuir d'Ange",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: nine to ten hours on skin, sillage close to moderate (one reports over 20 hours); Now Smell This: not a powerhouse in sillage or lasting power; suggested for warmer autumn days."
     },
     {
       "name": "Osmanthe Yunnan",
@@ -1527,8 +1637,39 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-osmanthe-yunnan-by-hermes.26125292/reviews/",
+          "name": "Basenotes — Hermèssence Osmanthe Yunnan reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://nstperfume.com/2005/11/21/perfume-review-hermes-osmanthe-yunnan/",
+          "name": "Now Smell This — Hermès Osmanthe Yunnan",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: soft sillage, close to skin, 4.5 to 8 hours depending on skin, a restrained spring scent that needs heat; Now Smell This: little sillage but clings to sleeves."
     },
     {
       "name": "Iris Ukiyoe",
@@ -1608,8 +1749,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://australianperfumejunkies.com/2013/08/23/vetiver-tonka-hermes-perfume-review/",
+          "name": "Australian Perfume Junkies — Vetiver Tonka by Hermès",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Australian Perfume Junkies: lasts around 4-5 hours, not a sillage monster but leaves a light trail."
     }
   ]
 }
