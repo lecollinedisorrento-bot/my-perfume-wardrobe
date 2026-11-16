@@ -1985,8 +1985,50 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/blue-amber-by-montale.26126706",
+          "name": "Basenotes — Blue Amber by Montale reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "http://www.thenonblonde.com/2013/04/montale-blue-amber.html",
+          "name": "The Non-Blonde — Montale Blue Amber",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/montale/montale-blue-amber/women-perfume",
+          "name": "Perfume.com — Montale Blue Amber",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Basenotes reviewers: about 12 hours or into the next day, moderate sillage, good projection, 'beast mode', best on colder days; The Non-Blonde: eternal longevity, noticeable projection and sillage; FragranceX lists 8-10 hours; Perfume.com: autumn evenings and winter nights."
     },
     {
       "name": "Black Aoud",
@@ -2027,8 +2069,50 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://pour-homme.cologne/montale-black-aoud",
+          "name": "Pour Homme Cologne — Montale Black Aoud review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/blog/best-montale-perfumes-oud-specialists-compared",
+          "name": "Scento — Best Montale Perfumes 2026",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/black-aoud",
+          "name": "Scents Angel — Montale Black Aoud Eau de parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 5,
+        "projection": 5,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Pour Homme Cologne review: nuclear projection, 24h longevity; Scento guide: 12+ hours, enormous projection filling a room for 4-6 h, winter and fall nights; Scents Angel: 10+ hours, high sillage."
     },
     {
       "name": "Amber & Spices",
@@ -2071,8 +2155,30 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/amber-spices-by-montale.26131061",
+          "name": "Basenotes — Amber & Spices by Montale",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "One Basenotes reviewer: moderate sillage, good projection, about twelve hours on skin, an autumnal scent (single review; no retailer figures found)."
     },
     {
       "name": "Cedrat Lova",
@@ -2114,8 +2220,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://hellobeautyblog.com/en/perfumes/montale-cedrat-lova",
+          "name": "Hello Beauty Blog — Montale Cedrat Lova",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/montale-cedrat-lova",
+          "name": "Vivir — Montale Cedrat Lova Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Hello Beauty Blog: 5-7 hours, moderate sillage, skin scent by hour six; Vivir review: 6-7 hours, moderate projection and sillage, strong only in the first hour (the two disagree on seasons, so none recorded)."
     },
     {
       "name": "Aoud Leather",
@@ -2158,8 +2291,51 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/aoud-leather-by-montale.26131060",
+          "name": "Basenotes — Aoud Leather by Montale reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/blog/best-montale-perfumes-oud-specialists-compared",
+          "name": "Scento — Best Montale Perfumes 2026",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/aoud-leather",
+          "name": "Scents Angel — Montale Aoud Leather Eau de parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Basenotes reviewers: nine hours and moderate sillage with very good projection, all-day on skin, best for cooler weather; Scento guide: 8-12 hours, strong but controlled; Scents Angel: evenings and cooler seasons."
     },
     {
       "name": "Arabians",
@@ -2206,8 +2382,42 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.glowempire.co.uk/blogs/news/montale-arabians-eau-de-parfum-review",
+          "name": "Glow Empire — Montale Arabians Eau de Parfum Review",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://welzo.com/products/montale-arabians-eau-de-parfum",
+          "name": "Welzo — Montale Arabians Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Glow Empire: 8-12 hours, strong sillage, evenings and cooler months; Welzo: excellent longevity and powerful projection, cooler seasons; Beauty Queen Supply instead calls longevity and sillage moderate."
     },
     {
       "name": "Arabians Tonka",
