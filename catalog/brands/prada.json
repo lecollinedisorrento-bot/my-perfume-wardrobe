@@ -881,8 +881,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.hwahae.com/en/products/1891980/reviews?topic_id=d94fcd53-dae6-44a4-bebe-40bb56d5caf0",
+          "name": "Hwahae — PRADA Candy Kiss Eau de Parfum reviews",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Hwahae user review: strong for an EDP and lasts around 6 h, faintly detectable up close after 7-8 h."
     },
     {
       "name": "Olfactories Cargo de Nuit",

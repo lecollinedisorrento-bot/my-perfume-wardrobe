@@ -609,8 +609,34 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/vendetta-uomo-valentino/",
+          "name": "Best Men's Colognes — Vendetta Uomo (2026) by Valentino",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Best Men's Colognes: about 9 h, projection and sillage slightly above average (7/10), best in fall and winter and on cooler spring days, suited to dates and nights out."
     },
     {
       "name": "Valentino Uomo Born In Roma Coral Fantasy",
