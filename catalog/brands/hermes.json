@@ -16,17 +16,80 @@
       "family": "Woody",
       "accords": [],
       "notes": {
-        "top": ["grapefruit", "orange"],
-        "heart": ["flint", "black pepper", "geranium"],
-        "base": ["cedar", "vetiver", "patchouli", "benzoin"],
+        "top": [
+          "grapefruit",
+          "orange"
+        ],
+        "heart": [
+          "flint",
+          "black pepper",
+          "geranium"
+        ],
+        "base": [
+          "cedar",
+          "vetiver",
+          "patchouli",
+          "benzoin"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/terre-dhermes/composition", "name": "Olfastory - Terre d'Hermès", "type": "database", "supports": ["notes", "year", "perfumer", "family"] },
-        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/terre-dhermes/composition",
+          "name": "Olfastory - Terre d'Hermès",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/",
+          "name": "Hermès USA - Fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://scentgrail.com/holy-grail-scents/terre-dhermes-review/",
+          "name": "Scent Grail — Terre d'Hermès review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/terre-dhermes-by-hermes.26125219/reviews/",
+          "name": "Basenotes — Terre d'Hermès reviews",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Scent Grail review: 6-8 hours with moderate projection, spring and autumn daytime wear; Basenotes reviewers split (about 8 hours for one, short-lived for others)."
     },
     {
       "name": "Terre d'Hermès Eau de Parfum Intense",
@@ -35,17 +98,40 @@
       "releaseYear": 2025,
       "perfumer": "Christine Nagel",
       "family": "Woody",
-      "accords": ["licorice", "coffee"],
+      "accords": [
+        "licorice",
+        "coffee"
+      ],
       "notes": {
-        "top": ["bergamot"],
-        "heart": ["coffee", "licorice"],
-        "base": ["woody notes", "mineral notes"],
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "coffee",
+          "licorice"
+        ],
+        "base": [
+          "woody notes",
+          "mineral notes"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/hermes-terre-dhermes-eau-de-parfum-intense", "name": "Olfastory - Terre d'Hermès Eau de Parfum Intense", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family", "accords"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/hermes-terre-dhermes-eau-de-parfum-intense",
+          "name": "Olfastory - Terre d'Hermès Eau de Parfum Intense",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family",
+            "accords"
+          ]
+        }
       ]
     },
     {
@@ -56,12 +142,43 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/",
+          "name": "Hermès USA - Fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://otrfragrance.com/fragrance/hermes-terre-dhermes-parfum",
+          "name": "Off The Record — Hermès Terre d'Hermès Parfum review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Off The Record review: moderate projection, about arm's length for 3-4 hours then skin scent; longevity a solid 8-10 hours."
     },
     {
       "name": "Jour d'Hermès Absolu",
@@ -72,16 +189,57 @@
       "family": "Floral",
       "accords": [],
       "notes": {
-        "top": ["apricot"],
-        "heart": ["gardenia", "sambac jasmine"],
-        "base": ["oakmoss"],
+        "top": [
+          "apricot"
+        ],
+        "heart": [
+          "gardenia",
+          "sambac jasmine"
+        ],
+        "base": [
+          "oakmoss"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/jour-dhermes-absolu", "name": "Olfastory - Jour d'Hermès Absolu", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/jour-dhermes-absolu",
+          "name": "Olfastory - Jour d'Hermès Absolu",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.naina.co/2015/11/jour-dhermes-absolu-parfum-fragrance-of-the-month-eyesforluxury/",
+          "name": "Naina.co — Jour d'Hermès Absolu Parfum",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Naina.co blogger: lasts really long on skin, clothes carry it 2-3 days, heavy sillage that does not overpower a room; mostly for summer but fine in winter."
     },
     {
       "name": "Barénia Pleine Fleur",
@@ -93,16 +251,66 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": ["lily", "orange blossom", "patchouli", "miracle berry"],
+        "heart": [
+          "lily",
+          "orange blossom",
+          "patchouli",
+          "miracle berry"
+        ],
         "base": [],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/barenia-pleine-fleur", "name": "Olfastory - Barénia Pleine Fleur", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] },
-        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/barenia-pleine-fleur",
+          "name": "Olfastory - Barénia Pleine Fleur",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/",
+          "name": "Hermès USA - Fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/herm-s-barenia-pleine-fleur",
+          "name": "Vivir — Hermès Barénia Pleine Fleur review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://hellobeautyblog.com/en/perfumes/hermes-barenia-pleine-fleur-hermes/",
+          "name": "Hello Beauty Blog — Hermès Barénia Pleine Fleur",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir review: 6-8 hours on skin, moderate projection (arm's length for two hours) and sillage; Hello Beauty Blog: 7-10 hours, moderate sillage."
     },
     {
       "name": "Barénia Intense",
@@ -113,15 +321,34 @@
       "family": "Chypre",
       "accords": [],
       "notes": {
-        "top": ["miracle berry"],
-        "heart": ["lily"],
-        "base": ["patchouli", "oak", "leather"],
+        "top": [
+          "miracle berry"
+        ],
+        "heart": [
+          "lily"
+        ],
+        "base": [
+          "patchouli",
+          "oak",
+          "leather"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/barenia-intense", "name": "Olfastory - Barénia Intense", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/barenia-intense",
+          "name": "Olfastory - Barénia Intense",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -132,11 +359,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/",
+          "name": "Hermès USA - Fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -148,15 +387,36 @@
       "family": "Aromatic",
       "accords": [],
       "notes": {
-        "top": ["spearmint", "ryegrass"],
-        "heart": ["clary sage", "mastic"],
-        "base": ["light woods", "sclarene", "white vetiver"],
+        "top": [
+          "spearmint",
+          "ryegrass"
+        ],
+        "heart": [
+          "clary sage",
+          "mastic"
+        ],
+        "base": [
+          "light woods",
+          "sclarene",
+          "white vetiver"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/h24-herbes-vives", "name": "Olfastory - H24 Herbes Vives", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/h24-herbes-vives",
+          "name": "Olfastory - H24 Herbes Vives",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -168,15 +428,40 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["hyacinth", "orange", "ylang-ylang", "peach", "bergamot"],
-        "heart": ["orange blossom", "gardenia", "jasmine", "elderflower", "iris"],
-        "base": ["amber", "sandalwood", "patchouli", "vanilla"],
+        "top": [
+          "hyacinth",
+          "orange",
+          "ylang-ylang",
+          "peach",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "gardenia",
+          "jasmine",
+          "elderflower",
+          "iris"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "patchouli",
+          "vanilla"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/hermes-24-faubourg-eau-de-toilette", "name": "Olfastory - 24 Faubourg Eau de Toilette", "type": "database", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/hermes-24-faubourg-eau-de-toilette",
+          "name": "Olfastory - 24 Faubourg Eau de Toilette",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -188,15 +473,34 @@
       "family": "Floral",
       "accords": [],
       "notes": {
-        "top": ["bergamot"],
-        "heart": ["tiare flower", "mineral notes"],
-        "base": ["vanilla", "coconut"],
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "tiare flower",
+          "mineral notes"
+        ],
+        "base": [
+          "vanilla",
+          "coconut"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/un-jardin-sous-la-mer", "name": "Olfastory - Un Jardin sous la Mer", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/un-jardin-sous-la-mer",
+          "name": "Olfastory - Un Jardin sous la Mer",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -208,15 +512,32 @@
       "family": "Woody",
       "accords": [],
       "notes": {
-        "top": ["citrus"],
-        "heart": ["pistachio", "olive tree"],
-        "base": ["green note"],
+        "top": [
+          "citrus"
+        ],
+        "heart": [
+          "pistachio",
+          "olive tree"
+        ],
+        "base": [
+          "green note"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/un-jardin-de-cythere", "name": "Olfastory - Un Jardin à Cythère", "type": "database", "supports": ["notes", "concentration", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/un-jardin-de-cythere",
+          "name": "Olfastory - Un Jardin à Cythère",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -228,15 +549,32 @@
       "family": "Floral",
       "accords": [],
       "notes": {
-        "top": ["lychee"],
-        "heart": ["ginger"],
-        "base": ["musk"],
+        "top": [
+          "lychee"
+        ],
+        "heart": [
+          "ginger"
+        ],
+        "base": [
+          "musk"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/hermes-tutti-twilly-dhermes-eau-de-parfum", "name": "Olfastory - Tutti Twilly d'Hermès", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/hermes-tutti-twilly-dhermes-eau-de-parfum",
+          "name": "Olfastory - Tutti Twilly d'Hermès",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -247,11 +585,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/",
+          "name": "Hermès USA - Fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -262,11 +612,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/",
+          "name": "Hermès USA - Fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -277,11 +639,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/",
+          "name": "Hermès USA - Fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -292,11 +666,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/",
+          "name": "Hermès USA - Fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -307,11 +693,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/", "name": "Hermès USA - Fragrances", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/",
+          "name": "Hermès USA - Fragrances",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -324,15 +722,36 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": ["ginseng", "ginkgo biloba"],
+        "heart": [
+          "ginseng",
+          "ginkgo biloba"
+        ],
         "base": [],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/ginseng-biloba", "name": "Olfastory - Ginseng Biloba", "type": "database", "supports": ["notes", "concentration", "year", "perfumer", "family"] },
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/ginseng-biloba",
+          "name": "Olfastory - Ginseng Biloba",
+          "type": "database",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -343,11 +762,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -358,11 +789,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -373,11 +816,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -388,11 +843,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -403,11 +870,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -418,11 +897,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -433,11 +924,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -448,11 +951,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -463,11 +978,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -478,11 +1005,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -493,11 +1032,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -508,11 +1059,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -523,11 +1086,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -538,11 +1113,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -553,11 +1140,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -568,11 +1167,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -583,11 +1194,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -598,11 +1221,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": "none",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/", "name": "Hermès USA - Hermessence collection", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.hermes.com/us/en/category/fragrances/hermessence-collection/",
+          "name": "Hermès USA - Hermessence collection",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     }
   ]

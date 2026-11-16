@@ -128,8 +128,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/07/21/perfume-review-serge-lutens-fleurs-doranger/",
+          "name": "Kafkaesque — Perfume Review: Serge Lutens Fleurs d'Oranger",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: lasted about 3.5 h on skin, strong up close at the start, sillage dropping from 30 min and a skin scent by the end of hour 2."
     },
     {
       "name": "La fille de Berlin",
@@ -390,8 +409,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2014/08/03/serge-lutens-lorpheline-incense-cream/",
+          "name": "Kafkaesque — Serge Lutens L'Orpheline: Incense & Cream",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: extremely weak sillage, skin scent after 1h45 to 3h, total life about 6-9 h depending on dose (needed a heavy application)."
     },
     {
       "name": "Chypre rouge",
@@ -422,8 +460,31 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "http://ismellthereforeiam.blogspot.com/2009/02/serge-lutens-chypre-rouge-review.html",
+          "name": "I Smell Therefore I Am — Serge Lutens Chypre Rouge: A Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "I Smell Therefore I Am review: longevity very good at 4-5 h, sillage surprisingly close to the skin despite a loud start; reviewer would wear it only in cold weather."
     },
     {
       "name": "Gris clair",
@@ -531,8 +592,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://persolaise.com/2020/12/serge-lutens-tarab-review-christopher-sheldrake-2020.html",
+          "name": "Persolaise — Serge Lutens Tarab Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Persolaise and Perfume Posse reviews: deliberately quiet, a whisper kept close to the skin, not a loud oud; no hours stated."
     },
     {
       "name": "Bois roi d'agalloche",
@@ -596,8 +676,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2015/02/22/serge-lutens-la-religieuse/",
+          "name": "Kafkaesque — Serge Lutens La Religieuse",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: very little projection and no trail, skin scent after about 2.5-3 h, total 6.5 h at a normal dose (4.75-7.5 h across doses)."
     },
     {
       "name": "Écrin de fumée",
@@ -658,8 +757,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/07/24/perfume-review-serge-lutens-iris-silver-mist-futuristic-iris/",
+          "name": "Kafkaesque — Serge Lutens Iris Silver Mist: Futuristic Iris",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: lasted 7.25 h with low sillage, a skin scent just under 2 h in, very hard to detect from hour 6."
     },
     {
       "name": "Clair de musc",
@@ -689,8 +807,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "http://perfumeposse.com/2022/10/18/serge-lutens-clair-de-musc-muscs-kublai-khan-and-kiehls-original-musk/",
+          "name": "Perfume Posse — Serge Lutens Clair de Musc, Muscs Kublai Khan and Kiehl's Original Musk",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume Posse: sillage described as staying about three feet behind the wearer; no hours stated."
     },
     {
       "name": "La Nuit Tombée",
@@ -722,8 +859,33 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://hellobeautyblog.com/fr/parfums/serge-lutens-la-nuit-tombee/",
+          "name": "Hello Beauty Blog — Serge Lutens La Nuit Tombée",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Hello Beauty Blog: 8-10 h easily (still faint after 10 h), moderate sillage that stays near the skin; listed for autumn/winter and evenings."
     },
     {
       "name": "L'Eau Serge Lutens",
@@ -749,8 +911,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://davideparfums.com/leau-serge-lutens-review/",
+          "name": "Davide Parfums — L'Eau Serge Lutens Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Davide Parfums review: distinct for about 3 h, then an intimate skin scent with occasional soft wafts; never fills a room (no total time given)."
     },
     {
       "name": "Sa majesté la rose",
@@ -780,8 +961,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/sa-majeste-la-rose-by-serge-lutens.10213052/reviews/",
+          "name": "Basenotes — Reviews of Sa Majesté la Rose by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews page: projection very good to excellent with longevity well over 12 h (older review); a 2025 bell-jar vs 2010 comparison says the new batch lasts a couple of hours less."
     },
     {
       "name": "Poivre noir",
@@ -841,8 +1041,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://aromierotici.blogspot.com/2012/03/cedre-by-serge-lutens.html",
+          "name": "Aromi Erotici — Cedre by Serge Lutens",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Aromi Erotici blog: good sillage, commendable longevity, lasts through an entire work day."
     },
     {
       "name": "Parole d'eau",
@@ -868,8 +1087,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "http://perfumeposse.com/2024/04/30/serge-lutens-santal-majuscule-and-parole-deau/",
+          "name": "Perfume Posse — Serge Lutens Santal Majuscule and Parole d'Eau",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume Posse: excellent lasting power for an 'eau', still detectable on skin 6 h later; no sillage level stated."
     },
     {
       "name": "Jeux de peau",
@@ -902,8 +1140,31 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/jeux-de-peau-lutens-review/",
+          "name": "Best Men's Colognes — Jeux De Peau by Serge Lutens Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Best Men's Colognes review: moderate sillage, about 8-9 h of wear on skin; recommended for autumn and winter."
     },
     {
       "name": "Zurafa",
@@ -965,8 +1226,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/serge-lutens-dans-le-bleu-qui-petille-eau-de-parfum-review",
+          "name": "Escentual — Serge Lutens Dans Le Bleu Qui Pétille Eau de Parfum review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual blog review: light and airy but lasted around six hours on skin; no sillage level stated."
     },
     {
       "name": "Cracheuse de flammes",
@@ -997,8 +1277,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2015/11/30/serge-lutens-cracheuse-de-flammes/",
+          "name": "Kafkaesque — Serge Lutens Cracheuse de Flammes",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: excellent longevity (about 15-18 h, skin scent only after ~7 h), soft projection, sillage strongest in the first hours then softer."
     },
     {
       "name": "Chêne",
@@ -1027,8 +1326,40 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/chene-by-serge-lutens.26123577/reviews/",
+          "name": "Basenotes — Reviews of Chêne by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://avis-parfums.fr/avis-chene-lutens/",
+          "name": "Avis Parfums — Chêne de Serge Lutens, avis après 3 mois",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: about 8 h, moderate sillage, autumn/winter comfort scent; Avis Parfums: 10-12 h, moderate sillage, peak projection around 2 h, better in cool weather."
     },
     {
       "name": "Bornéo 1834",
@@ -1058,8 +1389,30 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/01/12/perfume-review-serge-lutens-borneo-1834/",
+          "name": "Kafkaesque — Serge Lutens Borneo 1834",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: about 9 h in total, sillage still noticeable at 2 h and close to skin by 3 h; described as well suited to winter."
     },
     {
       "name": "Arabie",
@@ -1092,8 +1445,40 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2016/07/24/serge-lutens-arabie-souks-spices-sweets/",
+          "name": "Kafkaesque — Serge Lutens Arabie: Souks, Spices & Sweets",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/arabie-by-serge-lutens.26120122/reviews/positive/",
+          "name": "Basenotes — Positive Reviews of Arabie by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: sheer but astonishingly long-lasting (still detectable at 24 h), average sillage; Basenotes reviewers: 7-11 h, good sillage, suited to cold autumn/winter days."
     },
     {
       "name": "Serge noire",
@@ -1120,8 +1505,40 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/serge-noire-by-serge-lutens.26129620/reviews/",
+          "name": "Basenotes — Reviews of Serge Noire by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2012/12/20/perfume-review-serge-lutens-serge-noire-janus-the-cloven-beast/",
+          "name": "Kafkaesque — Serge Lutens Serge Noire: Janus & The Cloven Beast",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: 3-6 h on most skins (one finds it very long lasting), average projection, cooler-weather scent; Kafkaesque: big early sillage close to skin by hour 4, 5.5 h total."
     },
     {
       "name": "Sidi Bel-Abbès",
@@ -1152,8 +1569,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2015/11/03/serge-lutens-sidi-bel-abbes-section-dor-collection/",
+          "name": "Kafkaesque — Serge Lutens Sidi Bel-Abbes (Section d'Or)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: soft projection and sillage, skin scent after about 5.75 h but still detectable beyond 14 h with the nose on skin."
     },
     {
       "name": "Fumerie turque",
@@ -1263,8 +1699,39 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/11/21/serge-lutens-fourreau-noir-dark-delectable-magic/",
+          "name": "Kafkaesque — Serge Lutens Fourreau Noir: Dark, Delectable Magic",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/fourreau-noir-by-serge-lutens.26131036/reviews/",
+          "name": "Basenotes — Reviews of Fourreau Noir by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: about 9.5-11.75 h depending on dose, sheer, sillage drops after 1.25-2.5 h; Basenotes: 8 h, moderate sillage, 'winter warmer'."
     },
     {
       "name": "Sarrasins",
@@ -1293,8 +1760,35 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2016/07/22/serge-lutens-sarrasins-fire-ice-purple-black/",
+          "name": "Kafkaesque — Serge Lutens Sarrasins: Fire & Ice, Purple & Black",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/threads/serge-lutens-sarrasins-how-are-we-all-feeling-about-this-one.252870/",
+          "name": "Basenotes — Serge Lutens Sarrasins: how are we all feeling about this one?",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: just under 9 h, good sillage early and low-to-moderate projection, skin scent from about 3.75 h; a Basenotes thread calls longevity good but sillage quiet after the opening."
     },
     {
       "name": "Périlleusement vôtre",
@@ -1357,8 +1851,40 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/vetiver-oriental-by-serge-lutens.26122257/reviews/",
+          "name": "Basenotes — Reviews of Vetiver Oriental by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://perfumeshrine.blogspot.com/2008/10/vetiver-oriental-by-serge-lutens.html",
+          "name": "Perfumeshrine — Vetiver Oriental by Serge Lutens",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: 9-10 h with average projection, 9 h moderate sillage, another 5-6 h with quiet sillage; Perfumeshrine: exceptional lasting power, moderate sillage, shines in crisp weather."
     },
     {
       "name": "Fleurs de citronnier",
@@ -1385,8 +1911,39 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/reviews/lucasai.13382962/",
+          "name": "Basenotes — Perfume Reviews by lucasai",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentaur.com/fleurs-de-citronnier-eau-de-parfum-by-serge-lutens-review/",
+          "name": "The Scentaur — Fleurs de Citronnier Eau de Parfum review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewer: easily detectable for 6 h, good sillage that shrinks over time, a summer skin scent; The Scentaur: lasts all day at soft but adequate volume."
     },
     {
       "name": "Rahät loukoum",
@@ -1419,8 +1976,30 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/rahaet-loukoum-by-serge-lutens.26121346",
+          "name": "Basenotes — Rahät Loukoum by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes review: moderate sillage, about nine hours of longevity on skin, nice for winter days."
     },
     {
       "name": "Bois oriental",
@@ -1483,8 +2062,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/07/25/perfume-review-serge-lutens-bois-de-violette/",
+          "name": "Kafkaesque — Serge Lutens Bois de Violette",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: 7 h with a heavy dose, sillage moderate at first then very soft and discreet; the reviewer doubts it lasts well on a light application."
     },
     {
       "name": "La proie pour l'ombre",
@@ -1549,8 +2147,40 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/09/12/serge-lutens-santal-de-mysore/",
+          "name": "Kafkaesque — Serge Lutens Santal de Mysore",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/community/threads/the-quest-for-the-sandalwood-fragrance-day-23.518847/",
+          "name": "Basenotes — The Quest for THE Sandalwood Fragrance Day 23",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: just over 10 h with moderate sillage turning soft after a few hours; a Basenotes community review calls longevity amazing, projection moderate, a heavy scent for fall and winter."
     },
     {
       "name": "L'eau froide",
@@ -1673,8 +2303,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://nstperfume.com/2011/03/14/serge-lutens-cuir-mauresque-fragrance-review/",
+          "name": "Now Smell This — Serge Lutens Cuir Mauresque",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://akafkaesquelife.wordpress.com/2013/03/02/perfume-review-serge-lutens-cuir-mauresque-classic-sex-appeal/",
+          "name": "Kafkaesque — Serge Lutens Cuir Mauresque",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Now Smell This: persistent but fairly quiet, sillage low to moderate; Kafkaesque: lasted about 8+ hours, sillage noticeable in hour 1 then close to the skin by hour 3."
     },
     {
       "name": "Douce amère",
@@ -1733,8 +2390,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/07/17/perfume-review-serge-lutens-la-myrrhe-complicated-beauty/",
+          "name": "Kafkaesque — Serge Lutens La Myrrhe: Complicated Beauty",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: lasted 9.5 h (8.25 h with a smaller dose), sillage soft after the opening, projection moderate, not overpowering."
     },
     {
       "name": "Nuit de cellophane",

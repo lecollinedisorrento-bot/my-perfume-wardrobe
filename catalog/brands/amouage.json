@@ -143,8 +143,31 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/boundless-by-amouage.26163092/reviews/",
+          "name": "Basenotes — Reviews of Boundless by Amouage",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes review: wear time 'all day', sillage 'Amouage standard (read: insane)', best in cooler months."
     },
     {
       "name": "Interlude 53 Man",
@@ -262,8 +285,27 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.skool.com/bos/sotd-elsewhere-by-amouage",
+          "name": "Brotherhood of Scent — SOTD: Elsewhere by Amouage",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Brotherhood of Scent SOTD: projection 'roaringly large', sillage 'phenomenal', room-filler; no drop-off after 6 hours (total duration not stated)."
     },
     {
       "name": "Reflection 45 Man",
@@ -314,8 +356,27 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/ramouage-reflection-45-man-extrait-de-parfum-review",
+          "name": "Escentual — Amouage Reflection 45 Man Extrait de Parfum Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: 45% perfume-oil extrait that lasted 12 hours on the reviewer's skin; no sillage figure given."
     },
     {
       "name": "Sunshine Woman",
@@ -357,8 +418,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://jadof.com/en/news/amouage-sunshine-woman-review",
+          "name": "Jadof — Amouage Sunshine Woman Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Jadof review: 8-10 hours (to 12 on oily skin), strong for 2h then moderate, close to skin later; Basenotes reviewer: moderate sillage, good projection, about 7 hours."
     },
     {
       "name": "Love Hibiscus",
@@ -399,8 +479,27 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://leavenocologneunturned.com/2026/08/28/amouage-love-hibiscus-not-for-me-but-an-interesting-study-in-contrast/",
+          "name": "Leave No Cologne Unturned — Amouage Love Hibiscus review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Leave No Cologne Unturned review: lasted a good 8-10 hours before turning into a skin scent; no sillage figure given."
     },
     {
       "name": "Sequence",
@@ -441,8 +540,27 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/amouage-sequence-review/",
+          "name": "iFragrance — Amouage Sequence Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "iFragranceOfficial review: about 5 hours of continuous projection, 'massive aura', lasts over a day on fabric; skin longevity not given in hours."
     },
     {
       "name": "Remain",
@@ -686,8 +804,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/amouage-opus-vii-reckless-leather-eau-de-parfum-review",
+          "name": "Escentual — Amouage Opus VII Reckless Leather EDP Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 5,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: eight hours of wear with 'immense projection' (20% oil concentration)."
     },
     {
       "name": "Opus XVI Timber",
@@ -732,8 +869,27 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://halfwhiteboy.blogspot.com/2025/11/fragrance-opus-xvi-timber-by-amouage.html",
+          "name": "Half White Boy — Opus XVI Timber by Amouage",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Blog review: starts strong, then stays in moderate projection for most of a 'long life'; no hours given."
     },
     {
       "name": "Decision",
@@ -917,8 +1073,35 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/amouage-the-essences-outlands-review/",
+          "name": "iFragrance — Amouage Outlands Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentadvice.com/outlands-2024-amouage/",
+          "name": "ScentAdvice — Outlands (2024) Amouage",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "iFragrance: about 4 h clearly detectable on skin, sillage within arm's length, 48 h on fabric; ScentAdvice: still smelled it almost 20 h in. Sources differ."
     },
     {
       "name": "Reasons",
@@ -1014,8 +1197,31 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://perfumista.vn/nuoc-hoa-unisex/nuoc-hoa-amouage-lustre-17440/binh-luan/2.html",
+          "name": "Perfumista.vn — Amouage Lustre reviews (page 2)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Perfumista.vn review (Vietnamese): fairly strong trail for the first 3 h then moderate, about 9 h on skin; suited to cold weather."
     },
     {
       "name": "Dia Woman",
@@ -1171,8 +1377,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/gold-man-by-amouage.26121740/reviews/?page=3",
+          "name": "Basenotes — Reviews of Gold Man by Amouage",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: 'considerable sillage and staying power', 'super projection and sillage'; one reviewer notes about five hours of longevity, others say it lasts very long; hours not consistent."
     },
     {
       "name": "Guidance 46",
@@ -1348,8 +1573,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2016/07/28/amouage-lilac-love/",
+          "name": "Kafkaesque — Amouage Lilac Love",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: initially strong sillage but moderate projection; skin scent from about hour 6, detectable for 15.75 h in total."
     },
     {
       "name": "Ashore",
@@ -1389,8 +1633,38 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2020/10/01/ashore-by-amouage-2020/",
+          "name": "Varanis Ridari — Ashore by Amouage (2020)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/amouage-renaissance-collection-ashore-eau-de-parfum-review",
+          "name": "Escentual — Amouage Ashore Eau de Parfum Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Varanis Ridari blog: wear time about 8 h, moderate sillage, a summer scent; Escentual: well beyond 5-6 h, faint trace by evening after a mid-morning spray."
     },
     {
       "name": "Lyric Woman",
@@ -1439,8 +1713,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://akafkaesquelife.wordpress.com/2013/05/11/perfume-review-amouage-lyric-woman/",
+          "name": "Kafkaesque — Perfume Review: Amouage Lyric (Woman)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://boisdejasmin.com/2012/09/amouage-lyric-woman-perfume-review.html",
+          "name": "Bois de Jasmin — Amouage Lyric Woman",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: 12.75 h in total but only about 4.5 h with noticeable projection; Bois de Jasmin: skin-scent level within 15 minutes, very gentle sillage."
     },
     {
       "name": "Jubilation 40 Man",
@@ -1494,8 +1795,35 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/amouage-jubilation-40-review/",
+          "name": "iFragrance — Amouage Jubilation 40 Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.aliperfumewala.com/jubilation-40-not-the-blast-from-the-past-amouage-needed/",
+          "name": "Ali Perfumewala — Jubilation 40",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "iFragrance: great longevity, very good sillage but does not project like a bomb; Ali Perfumewala: lasts long but stays close to skin, projection 5/10; no hours given."
     },
     {
       "name": "Dia 40 Woman",
@@ -1713,8 +2041,27 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/amouage-lineage-eau-de-parfum-review",
+          "name": "Escentual — Amouage Lineage Eau de Parfum Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: lasts eight hours on skin; no sillage figure."
     },
     {
       "name": "Guidance",
@@ -1758,8 +2105,27 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://houseofmonac.com/pages/guidance-review",
+          "name": "House of Monac — Guidance review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "House of Monac review: typically 10-14 h on skin, strong projection in the first hours, notable sillage, still on clothes next day."
     },
     {
       "name": "Lyric Man",
@@ -1844,8 +2210,40 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2020/12/27/amouage-crimson-rocks-changes-amouage/",
+          "name": "Kafkaesque — Amouage Crimson Rocks",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/amouage-crimson-rocks-eau-de-parfum",
+          "name": "ScentVerdict — Amouage Crimson Rocks EDP",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: about 13.75 h in total, big sillage early that softens, generally soft projection; ScentVerdict: about 6-10 h, fills a room, best autumn/winter."
     },
     {
       "name": "Meander",
@@ -1888,8 +2286,35 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2022/03/26/amouage-meander/",
+          "name": "Kafkaesque — Amouage Meander",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2020/10/01/meander-by-amouage-2020/",
+          "name": "Varanis Ridari — Meander by Amouage (2020)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: just under 14 h in total, skin scent from about hour 8, low sillage; another blog says sillage strong past 10 h, so sillage left blank."
     },
     {
       "name": "Imitation Woman",
@@ -2017,8 +2442,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://thescentaur.com/journey-woman-eau-de-parfum-by-amouage-review/",
+          "name": "The Scentaur — Journey Woman EDP review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2014/05/07/amouage-journey-woman/",
+          "name": "Kafkaesque — Amouage Journey (Woman)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scentaur: 6-8 h at decent volume, intimate projection; Kafkaesque: 12.75-14.5 h in total, light and airy, skin scent from about hour 4.5."
     },
     {
       "name": "Journey Man",
@@ -2062,8 +2514,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2014/05/08/amouage-journey-man-fiery-splendour/",
+          "name": "Kafkaesque — Amouage Journey (Man): Fiery Splendour",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: lasted roughly 13.75 h, sillage moderate on average, close to the skin from the 6th hour."
     },
     {
       "name": "Jubilation XXV Man",
@@ -2193,8 +2664,34 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/memoir-woman-by-amouage.26131758/reviews/",
+          "name": "Basenotes — Reviews of Memoir Woman by Amouage",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Basenotes reviewers: 13 h on skin, moderate sillage, excellent projection; 'great winter, evening fragrance'; cool spring and autumn evenings."
     },
     {
       "name": "Memoir Man",
@@ -2305,8 +2802,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://nstperfume.com/2008/08/21/amouage-jubilation-25-perfume-review/",
+          "name": "NST Perfume — Amouage Jubilation 25 review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2012/12/29/perfume-review-amouage-jubilation-25-scheherazade-seduction/",
+          "name": "Kafkaesque — Amouage Jubilation 25",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "NST: a spritz lasts a good eight hours; Kafkaesque: heavy sillage for 2 h, close to skin by hour 3, about 5 h total on him. Sources differ."
     },
     {
       "name": "Dia Man",
@@ -2414,8 +2938,35 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://samtalksstyle.com/2020/05/08/amouage-interlude-man-fragrance-review/",
+          "name": "Sam Talks Style — Amouage Interlude Man review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://akafkaesquelife.wordpress.com/2013/08/04/perfume-review-amouage-interlude-man/",
+          "name": "Kafkaesque — Perfume Review: Amouage Interlude (Man)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: 14.75 h with 4 big sprays, good sillage for about 3 h; Sam Talks Style: lasts a good 24 h on skin and you will be present in the room."
     },
     {
       "name": "Overture Woman",
@@ -2656,8 +3207,31 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.aliperfumewala.com/amouage-opus-xiv-royal-tobacco-review/",
+          "name": "Ali Perfumewala — Amouage Opus XIV Royal Tobacco",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Ali Perfumewala: still evolving past 12 h, 1-2 sprays enough, 'remarkably powerful'; a winter and autumn fragrance."
     },
     {
       "name": "Opus V Woods Symphony",
@@ -2695,8 +3269,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/amouage-library-collection-opus-v-woods-symphony-eau-de-parfum-review",
+          "name": "Escentual — Amouage Opus V Woods Symphony EDP Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: lasts around eight hours (20% oil concentration); described as light."
     },
     {
       "name": "Opus XIII Silver Oud",

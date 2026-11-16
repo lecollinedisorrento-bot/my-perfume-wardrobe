@@ -51,8 +51,42 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.thelastspritz.com/fragrance/versace-pour-femme-dylan-blush-pink",
+          "name": "The Last Spritz — Versace Pour Femme Dylan Blush Pink",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.pharmacyclub.net/uk/luxury-beauty/fragrance/ladies-fragrance/versace-dylan-blush-pink-eau-de-parfum-spray-30ml-1",
+          "name": "PharmacyClub — Versace Dylan Blush Pink EDP 30ml (customer reviews)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "The Last Spritz: 4-6 h, soft trail, arm's-length projection, best spring daytime; PharmacyClub buyer reviews report about 3 to 5-6 h with moderate projection."
     },
     {
       "name": "Crystal Emerald",
@@ -99,8 +133,32 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://hellobeautyblog.com/en/perfumes/versace-crystal-emerald/",
+          "name": "Hello Beauty Blog — Versace Crystal Emerald review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Hello Beauty Blog: 5-7 h (5-6 h noticeable plus 2-3 h skin scent), moderate sillage, spring/summer/fall."
     },
     {
       "name": "Eau Fraiche Extreme",
@@ -146,8 +204,40 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://hellobeautyblog.com/en/perfumes/versace-eau-fraiche-extreme-eau-de-parfum/",
+          "name": "Hello Beauty Blog — Versace Eau Fraîche Extreme EDP",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestcologneformen.com/versace-man-eau-fraiche-extreme-review/",
+          "name": "Best Cologne For Men — Versace Man Eau Fraiche Extreme review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Hello Beauty Blog: 6-8 h, moderate sillage, spring/summer/fall; Best Cologne For Men: about 3 h moderate projection, 7-8 h total."
     },
     {
       "name": "Eros Najim",
@@ -244,8 +334,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/versace-eros-energy-eau-de-parfum-review",
+          "name": "Escentual — Versace Eros Energy EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/eros-flame-vs-energy/",
+          "name": "Best Men's Colognes — Eros Flame vs. Eros Energy",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: over 7 h and strong sillage; Best Men's Colognes: 5-7 h of wear."
     },
     {
       "name": "Bright Crystal",
@@ -393,8 +510,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://luxuryperfume.com/blogs/now-that-makes-scents/luxury-perfume-revieww-versace-dylan-purple-femme",
+          "name": "Luxury Perfume — Review: Versace Dylan Purple Femme",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Luxury Perfume blog: about 6-8 h on skin with moderate sillage."
     },
     {
       "name": "Eros",
@@ -446,8 +582,52 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://fragranceprofile.com/articles/versace-eros-parfum-review",
+          "name": "fragranceProfile — Versace Eros Parfum review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://mejoresperfumes.es/resenas-individuales/resena-versace-eros-parfum/",
+          "name": "Mejores Perfumes — Reseña Versace Eros Parfum",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vioralondon.com/versace-eros-edt-vs-edp-vs-parfum-vs-flame/",
+          "name": "Viora London — Versace Eros EDT vs EDP vs Parfum vs Flame",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "afternoon",
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "fragranceProfile: 9-10 h, moderate projection, dense but intimate trail; Mejores Perfumes: 8-10 h (6 h on dry skin), best autumn/winter; Viora London: 8+ h, moderate sillage, late afternoon into evening."
     },
     {
       "name": "Dylan Turquoise",
@@ -494,8 +674,39 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/versace-dylan-turquoise-eau-de-toilette-review",
+          "name": "Escentual — Versace Dylan Turquoise EDT review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/versace-dylan-turquoise-eau-de-toilette",
+          "name": "ScentVerdict — Dylan Turquoise Eau de Toilette",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Escentual editorial: 3-4 h; ScentVerdict: about 4-6 h, arm's-length projection, best in spring and summer."
     },
     {
       "name": "Eros",
@@ -544,8 +755,43 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://vioralondon.com/versace-eros-edt-vs-edp-vs-parfum-vs-flame/",
+          "name": "Viora London — Versace Eros EDT vs EDP vs Parfum vs Flame",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://fragranceprofile.com/articles/versace-eros-parfum-review",
+          "name": "fragranceProfile — Versace Eros Parfum review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Viora London: 5+ h, decent projection and sillage, any season, leans evening; fragranceProfile comparison table: 8-9 h, moderate-heavy projection."
     },
     {
       "name": "Eros Flame",
@@ -590,8 +836,38 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://bestcologneformen.com/versace-eros-flame-review/",
+          "name": "Best Cologne For Men — Versace Eros Flame review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://samtalksstyle.com/2020/04/24/versace-eros-flame-fragrance-review/",
+          "name": "Sam Talks Style — Versace Eros Flame review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Best Cologne For Men: moderate projection ~3 h then closer to skin, about 8 h total; Sam Talks Style: 6-8 h, projects well, enough for a night out."
     },
     {
       "name": "Dylan Blue Pour Femme",
@@ -697,8 +973,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://whatscent.app/magazine/versace-pour-homme-dylan-blue-review",
+          "name": "WhatScent — Versace Pour Homme Dylan Blue review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thesmellofman.com/2025/02/17/before-you-buy-dylan-blue-by-versace/",
+          "name": "The Smell of Man — Before You Buy Dylan Blue by Versace",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "WhatScent: strong projection first 1-2 h then arm's length, about 6-8 h; The Smell of Man: 6-7 h with at least 2 h of solid projection."
     },
     {
       "name": "Eros Pour Femme",
@@ -724,8 +1027,30 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.laurajbeth.net/index.php/2019/06/27/versace-eros/",
+          "name": "Laura J Beth — Versace Eros Pour Femme EDT",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Laura J Beth review: about 3-4 h, fair sillage for the first hour then closer to skin; described as a summer scent."
     },
     {
       "name": "Blue Jeans",
@@ -751,8 +1076,34 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/blue-jeans-by-versace.26120212/reviews/",
+          "name": "Basenotes — Reviews of Blue Jeans by Versace",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Basenotes reviewers: about 4 to 6+ h, moderate sillage (one calls it below average), casual daytime scent for spring/fall."
     },
     {
       "name": "Red Jeans",
@@ -825,8 +1176,31 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/versace-pour-homme-oud-noir-by-versace.26137852/reviews/",
+          "name": "Basenotes — Reviews of Versace pour Homme Oud Noir",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: about 4-5 h to 6 h, one reports up to 12 h; moderate sillage, decent projection; called an autumn/winter scent."
     },
     {
       "name": "Oud Oriental",
@@ -892,8 +1266,31 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.silloria.com/en/perfumes/versace/eros-pour-femme",
+          "name": "Silloria — Eros Pour Femme Eau de Parfum by Versace",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Silloria page text: about 6-8 h on skin with moderate sillage, suited to spring and summer."
     },
     {
       "name": "Bright Crystal Absolu",
@@ -939,8 +1336,30 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://fragranxe.com/fragrance/bright-crystal-absolu-by-versace",
+          "name": "Fragranxe — Versace Bright Crystal Absolu review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fragranxe wear test: 7-8 h on skin, projects 2-3 ft for the first two hours then a close bubble; framed as a warm-weather everyday scent."
     },
     {
       "name": "Eros",
@@ -988,8 +1407,35 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://everfumed.com/versace-eros-cologne-review/",
+          "name": "Everfumed — Versace Eros Review: EDT vs EDP Tested",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Everfumed review: longevity 6-10 h (6-8 h on skin), sillage projects 3-6 ft, strongest in the first hours; recommended for spring, autumn, winter and cooler summer evenings, dates and nights out."
     },
     {
       "name": "Yellow Diamond",
@@ -1037,8 +1483,41 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://miabeautyreview.com/versace-yellow-diamond-review/",
+          "name": "Mia Beauty Review — Versace Yellow Diamond",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://slodkapaczula.pl/2019/01/13/versace-yellow-diamond-edt/",
+          "name": "Słodka Paczula — Versace Yellow Diamond EDT",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Mia Beauty Review: EDT about 4-6 h, moderate to strong sillage, casual daytime and warm weather; Slodka Paczula blog: only about 4 h and a weak trail."
     },
     {
       "name": "Pour Homme",
@@ -1085,8 +1564,31 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/versace-pour-homme-by-versace.26128762/reviews/",
+          "name": "Basenotes — Reviews of Versace pour Homme",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: about 4-5 h to 8 h depending on skin (some only 1 h), moderate sillage, light fragrance suited to summer and hot weather."
     },
     {
       "name": "The Dreamer",
@@ -1112,8 +1614,43 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://thesmellofman.com/2025/02/07/before-you-buy-the-dreamer-by-versace/",
+          "name": "The Smell of Man — Before You Buy The Dreamer by Versace",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://suparfum.com/versace-the-dreamer-review/",
+          "name": "Suparfum — Versace The Dreamer review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "The Smell of Man: about 6 h, projecting past arm's reach for 4 h; Suparfum: 6-7 h, moderate sillage close to skin, best autumn/winter and evening."
     },
     {
       "name": "L'Homme",
@@ -1214,8 +1751,31 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://roarwithpassion.com/parfums/review/versace-bright-crystal-eau-de-toilette-review/",
+          "name": "Roar With Passion — Versace Bright Crystal EDT review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Roar With Passion review: soft to moderate projection, over 8 and almost 10 hours of wear in testing; best in spring/summer, fine in winter, suited to daily use rather than nightlife."
     },
     {
       "name": "Crystal Noir",
@@ -1329,8 +1889,38 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://bespokeunit.com/articles/fragrance/versace-man-eau-fraiche/",
+          "name": "Bespoke Unit — Versace Man Eau Fraîche review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestcologneformen.com/versace-man-eau-fraiche-review/",
+          "name": "Best Cologne For Men — Versace Man Eau Fraiche review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Bespoke Unit: under 4 h, weak projection, decent wake for light notes, billed as a beach/summer scent; Best Cologne For Men: projects about 1 h, about 3 h total."
     }
   ]
 }
