@@ -141,8 +141,42 @@
             "notes",
             "year"
           ]
+        },
+        {
+          "url": "https://everfumed.com/valentino-donna-born-in-roma/",
+          "name": "Everfumed — Valentino Donna Born in Roma review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.cosmopolitan.com/style-beauty/beauty/a65888192/valentino-donna-born-in-roma-review/",
+          "name": "Cosmopolitan — Valentino Donna Born in Roma review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Everfumed: about 5-7 h, intimate close-to-skin sillage, best spring/autumn/mild winter evenings; Cosmopolitan: brand claim 6-8 h, tester found it shorter with little projection."
     },
     {
       "name": "Valentino Donna Born In Roma Intense",
@@ -176,8 +210,27 @@
             "notes",
             "year"
           ]
+        },
+        {
+          "url": "https://www.cosmopolitan.com/style-beauty/beauty/a65888192/valentino-donna-born-in-roma-review/",
+          "name": "Cosmopolitan — Valentino Donna Born in Roma review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Cosmopolitan: Intense and Extradose versions said to last 8-10 h with a wider sillage than the original."
     },
     {
       "name": "Valentino Donna Born In Roma Coral Fantasy",
@@ -285,8 +338,27 @@
             "notes",
             "year"
           ]
+        },
+        {
+          "url": "https://www.cosmopolitan.com/style-beauty/beauty/a65888192/valentino-donna-born-in-roma-review/",
+          "name": "Cosmopolitan — Valentino Donna Born in Roma review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Cosmopolitan: Extradose and Intense versions said to last 8-10 h with a wider sillage than the original."
     },
     {
       "name": "Valentino Donna",
@@ -406,8 +478,34 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://fragranceprofile.com/articles/valentino-uomo-born-in-roma-review",
+          "name": "fragranceProfile — Valentino Uomo Born in Roma review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "fragranceProfile: 6-7 h, above-average projection for an EDT (4-5 ft in the first 90 min), strong trail; best spring, summer nights, fall."
     },
     {
       "name": "Vendetta Donna",
@@ -520,8 +618,31 @@
             "concentration",
             "year"
           ]
+        },
+        {
+          "url": "https://fragranceprofile.com/articles/valentino-uomo-born-in-roma-review",
+          "name": "fragranceProfile — Valentino Uomo Born in Roma review (comparison table)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "fragranceProfile comparison table: Coral Fantasy lasts 7-8 h, best for spring and fall casual wear."
     },
     {
       "name": "Valentino Uomo Born In Roma Intense",
@@ -555,8 +676,33 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://fragranceprofile.com/articles/valentino-uomo-born-in-roma-review",
+          "name": "fragranceProfile — Valentino Uomo Born in Roma review (comparison table)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "fragranceProfile comparison table: Intense EDP lasts 8-10+ h, best for winter, late fall and nights out."
     },
     {
       "name": "Valentino Donna Born in Roma Green Stravaganza",

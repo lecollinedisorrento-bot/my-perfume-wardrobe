@@ -19,13 +19,62 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": ["calabrian bergamot", "neroli", "citrus", "rosemary"]
+        "flat": [
+          "calabrian bergamot",
+          "neroli",
+          "citrus",
+          "rosemary"
+        ]
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Acqua_di_Gio", "name": "Wikipedia: Acqua di Gio", "type": "publication", "supports": ["notes", "concentration", "year"] }
-      ]
+        {
+          "url": "https://en.wikipedia.org/wiki/Acqua_di_Gio",
+          "name": "Wikipedia: Acqua di Gio",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "concentration",
+            "year"
+          ]
+        },
+        {
+          "url": "https://bespokeunit.com/articles/fragrance/giorgio-armani-acqua-di-gio/",
+          "name": "Bespoke Unit — Giorgio Armani Acqua Di Giò review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/giorgio-armani-acqua-di-gio-eau-de-toilette",
+          "name": "ScentVerdict — Acqua di Giò Eau de Toilette",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Bespoke Unit: good projection but average sillage and longevity (top-ups advised), a daytime summer scent; ScentVerdict: about 4-6 h, arm's-length projection, best in spring and summer."
     },
     {
       "name": "Acqua di Giò Profumo",
@@ -36,16 +85,62 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["sea notes", "bergamot"],
-        "heart": ["rosemary", "sage", "geranium"],
-        "base": ["incense", "patchouli"],
+        "top": [
+          "sea notes",
+          "bergamot"
+        ],
+        "heart": [
+          "rosemary",
+          "sage",
+          "geranium"
+        ],
+        "base": [
+          "incense",
+          "patchouli"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Profumo-29727.html", "name": "Fragrantica: Acqua di Gio Profumo", "type": "database", "supports": ["year", "perfumer", "notes"] }
-      ]
+        {
+          "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Profumo-29727.html",
+          "name": "Fragrantica: Acqua di Gio Profumo",
+          "type": "database",
+          "supports": [
+            "year",
+            "perfumer",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.schoolofscent.com/reviewsdetailedblog/acquadigioprofumo",
+          "name": "School of Scent — Acqua di Gio Profumo",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/acqua-di-gio-profumo-by-giorgio-armani.26145389/reviews/",
+          "name": "Basenotes — Reviews of Acqua di Giò Profumo",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "School of Scent: 8-10 h, about 2 ft projection for the first 2 h; Basenotes reviewers: 6-8 h to about 10 h, good sillage for 3-4 h, projection below average to average."
     },
     {
       "name": "Armani Code",
@@ -56,16 +151,43 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["lemon", "bergamot"],
-        "heart": ["star anise", "olive blossom", "guaiac wood"],
-        "base": ["leather", "tonka bean", "tobacco"],
+        "top": [
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "star anise",
+          "olive blossom",
+          "guaiac wood"
+        ],
+        "base": [
+          "leather",
+          "tonka bean",
+          "tobacco"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Armani_Code", "name": "Wikipedia: Armani Code", "type": "publication", "supports": ["notes", "year", "perfumer"] },
-        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-412.html", "name": "Fragrantica: Armani Code", "type": "database", "supports": ["year"] }
+        {
+          "url": "https://en.wikipedia.org/wiki/Armani_Code",
+          "name": "Wikipedia: Armani Code",
+          "type": "publication",
+          "supports": [
+            "notes",
+            "year",
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-412.html",
+          "name": "Fragrantica: Armani Code",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -76,14 +198,66 @@
       "perfumer": "Antoine Maisondieu",
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Armani_Code", "name": "Wikipedia: Armani Code", "type": "publication", "supports": ["perfumer"] },
-        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-Absolu-53106.html", "name": "Fragrantica: Armani Code Absolu", "type": "database", "supports": ["year"] },
-        { "url": "https://www.fragranceoutlet.com/products/armani-code-absolu-by-giorgio-armani-for-women-edp-spray", "name": "Fragrance Outlet: Armani Code Absolu EDP", "type": "retailer", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://en.wikipedia.org/wiki/Armani_Code",
+          "name": "Wikipedia: Armani Code",
+          "type": "publication",
+          "supports": [
+            "perfumer"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-Absolu-53106.html",
+          "name": "Fragrantica: Armani Code Absolu",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.fragranceoutlet.com/products/armani-code-absolu-by-giorgio-armani-for-women-edp-spray",
+          "name": "Fragrance Outlet: Armani Code Absolu EDP",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/armani-code-absolu-review/",
+          "name": "Best Men's Colognes — Code Absolu for Men by Giorgio Armani",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Best Men's Colognes: quite strong but not overpowering sillage, routinely double-digit hours; leans cold weather, also works on warm spring nights."
     },
     {
       "name": "Sì",
@@ -94,17 +268,66 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["cassis"],
-        "heart": ["may rose", "freesia"],
-        "base": ["vanilla", "patchouli", "woody notes", "ambroxan"],
+        "top": [
+          "cassis"
+        ],
+        "heart": [
+          "may rose",
+          "freesia"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli",
+          "woody notes",
+          "ambroxan"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-18453.html", "name": "Fragrantica: Si", "type": "database", "supports": ["year", "notes"] },
-        { "url": "https://www.giorgioarmanibeauty.com.au/fragrances/womens-fragrances/si-perfume-for-her/si-eau-de-parfum/ww-00380-arm.html", "name": "Armani Beauty AU: Si Eau De Parfum", "type": "official", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-18453.html",
+          "name": "Fragrantica: Si",
+          "type": "database",
+          "supports": [
+            "year",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.giorgioarmanibeauty.com.au/fragrances/womens-fragrances/si-perfume-for-her/si-eau-de-parfum/ww-00380-arm.html",
+          "name": "Armani Beauty AU: Si Eau De Parfum",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "http://www.theraeviewer.com/2014/10/armani-si-eau-de-parfum-review-photos.html",
+          "name": "The Raeviewer — Armani Si Eau de Parfum review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "The Raeviewer blog: moderate sillage, about 4 h from one spritz on skin that holds scent poorly; described as an autumn scent worn in the evening."
     },
     {
       "name": "Sì Eau de Parfum Intense",
@@ -115,16 +338,68 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": ["black currant"],
-        "heart": ["may rose", "davana"],
-        "base": ["bourbon vanilla", "vanilla", "black tea"],
+        "top": [
+          "black currant"
+        ],
+        "heart": [
+          "may rose",
+          "davana"
+        ],
+        "base": [
+          "bourbon vanilla",
+          "vanilla",
+          "black tea"
+        ],
         "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-Eau-de-Parfum-Intense-83977.html", "name": "Fragrantica: Si Eau de Parfum Intense", "type": "database", "supports": ["year", "concentration", "notes"] }
-      ]
+        {
+          "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-Eau-de-Parfum-Intense-83977.html",
+          "name": "Fragrantica: Si Eau de Parfum Intense",
+          "type": "database",
+          "supports": [
+            "year",
+            "concentration",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/armani-si-eau-de-parfum-intense-review/",
+          "name": "iFragrance — Armani Sì Eau de Parfum Intense review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://ksiegaperfum.pl/armani-si-intense-eau-de-parfum-intense-recenzja/",
+          "name": "Księga Perfum — Armani Si Intense recenzja",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "iFragrance: 4-6 h on skin (over a day on fabric), 3-4 h of moderate sillage, winter evening wear; Ksiega Perfum: clear trail for 2 h then closer, medium projection, autumn/winter."
     },
     {
       "name": "Iris Bleu",
@@ -138,14 +413,40 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": ["jasmine grandiflorum", "orris butter", "white musks"]
+        "flat": [
+          "jasmine grandiflorum",
+          "orris butter",
+          "white musks"
+        ]
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/armani-prive/armani-prive-iris-bleu/ww-00918-arm.html", "name": "Armani Beauty US: Armani/Privé Iris Bleu", "type": "official", "supports": ["notes", "family"] },
-        { "url": "https://www.harrods.com/en-us/p/armani-prive-iris-bleu-eau-de-toilette-100ml-000000000007779047", "name": "Harrods: Armani Privé Iris Bleu Eau de Toilette 100ml", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Iris-Bleu-103559.html", "name": "Fragrantica: Iris Bleu", "type": "database", "supports": ["year"] }
+        {
+          "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/armani-prive/armani-prive-iris-bleu/ww-00918-arm.html",
+          "name": "Armani Beauty US: Armani/Privé Iris Bleu",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.harrods.com/en-us/p/armani-prive-iris-bleu-eau-de-toilette-100ml-000000000007779047",
+          "name": "Harrods: Armani Privé Iris Bleu Eau de Toilette 100ml",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Iris-Bleu-103559.html",
+          "name": "Fragrantica: Iris Bleu",
+          "type": "database",
+          "supports": [
+            "year"
+          ]
+        }
       ]
     },
     {
@@ -160,12 +461,23 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": ["leather accord", "smoky coffee", "rose damascena"]
+        "flat": [
+          "leather accord",
+          "smoky coffee",
+          "rose damascena"
+        ]
       },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/armani-prive/fragrances/", "name": "Armani Beauty US: Armani/Privé Fragrances", "type": "official", "supports": ["notes"] }
+        {
+          "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/armani-prive/fragrances/",
+          "name": "Armani Beauty US: Armani/Privé Fragrances",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -176,11 +488,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.armanibeauty.be/armani-prive/les-eaux/", "name": "Armani Beauty BE: Armani Privé Les Eaux", "type": "official", "supports": [] }
+        {
+          "url": "https://www.armanibeauty.be/armani-prive/les-eaux/",
+          "name": "Armani Beauty BE: Armani Privé Les Eaux",
+          "type": "official",
+          "supports": []
+        }
       ]
     },
     {
@@ -191,11 +513,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.armanibeauty.be/armani-prive/les-eaux/", "name": "Armani Beauty BE: Armani Privé Les Eaux", "type": "official", "supports": [] }
+        {
+          "url": "https://www.armanibeauty.be/armani-prive/les-eaux/",
+          "name": "Armani Beauty BE: Armani Privé Les Eaux",
+          "type": "official",
+          "supports": []
+        }
       ]
     },
     {
@@ -206,11 +538,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/designers/Giorgio-Armani.html", "name": "Fragrantica: Giorgio Armani perfumes", "type": "database", "supports": [] }
+        {
+          "url": "https://www.fragrantica.com/designers/Giorgio-Armani.html",
+          "name": "Fragrantica: Giorgio Armani perfumes",
+          "type": "database",
+          "supports": []
+        }
       ]
     },
     {
@@ -221,11 +563,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/designers/Giorgio-Armani.html", "name": "Fragrantica: Giorgio Armani perfumes", "type": "database", "supports": [] }
+        {
+          "url": "https://www.fragrantica.com/designers/Giorgio-Armani.html",
+          "name": "Fragrantica: Giorgio Armani perfumes",
+          "type": "database",
+          "supports": []
+        }
       ]
     }
   ]

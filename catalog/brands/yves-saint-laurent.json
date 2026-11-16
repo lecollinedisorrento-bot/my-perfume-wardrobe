@@ -482,8 +482,27 @@
             "notes",
             "year"
           ]
+        },
+        {
+          "url": "https://thescentaur.com/y-eau-de-parfum-by-yves-saint-laurent-review/",
+          "name": "The Scentaur — Y Eau de Parfum by Yves Saint Laurent review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scentaur review: respectable 7-8 h on skin, performance fine but not beast mode."
     },
     {
       "name": "MYSLF Eau de Parfum",
@@ -528,8 +547,39 @@
             "notes",
             "accords"
           ]
+        },
+        {
+          "url": "https://www.michael84.co.uk/yves-saint-laurent-myslf-edp-fragrance-review/",
+          "name": "Michael84 — YSL MYSLF EDP review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/ysl-myslf-review/",
+          "name": "iFragrance — YSL MYSLF review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Michael84 review: 7-8 h, fairly good projection; iFragrance: about 6-8 h, modest projection, usable all year but best in spring/summer."
     },
     {
       "name": "L'Homme Libre",
@@ -586,8 +636,40 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.michael84.co.uk/lhomme-libre-yves-saint-laurent/",
+          "name": "Michael84 — L'Homme Libre by YSL review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/homme-libre-laurent-review/",
+          "name": "Best Men's Colognes — L'Homme Libre by Yves Saint Laurent",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Michael84: 5+ h, pretty good projection for a citrus, best in spring/summer daytime; Best Men's Colognes: moderate-to-heavy projection at first, 8-9 h, good sillage, best in moderate temperatures."
     },
     {
       "name": "La Nuit de l'Homme",
