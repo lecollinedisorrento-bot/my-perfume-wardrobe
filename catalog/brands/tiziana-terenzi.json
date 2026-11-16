@@ -1785,12 +1785,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "pink pepper"
+        ],
+        "heart": [
+          "iris",
+          "jasmine",
+          "cedarwood",
+          "vetiver"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1815,6 +1828,14 @@
           "supports": [
             "performance",
             "usage"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Tiziana Terenzi Kirke",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -2383,12 +2404,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "cardamom",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "iris",
+          "violet",
+          "rose",
+          "geranium"
+        ],
+        "base": [
+          "sandalwood",
+          "cedar",
+          "musk",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2396,8 +2431,28 @@
           "name": "Tiziana Terenzi — Luna collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Tiziana Terenzi Libra",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Vele",

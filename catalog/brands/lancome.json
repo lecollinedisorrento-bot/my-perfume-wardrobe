@@ -46,8 +46,27 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Lancôme La Vie Est Belle",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4.5/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "La Vie Est Belle L'Eau de Parfum Intense",
@@ -252,8 +271,27 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Lancôme Idole",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3.5/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Idôle Nectar",
@@ -290,8 +328,27 @@
             "concentration",
             "year"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Lancôme Idole Nectar",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Idôle Now",
@@ -403,8 +460,27 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Lancôme La Nuit Tresor",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Miracle",
@@ -542,8 +618,27 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Lancôme Poeme",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 2.5/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Ô de Lancôme",

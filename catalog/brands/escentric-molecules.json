@@ -19,8 +19,12 @@
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.escentric.com/en-us/products/molecule-01-200ml", "name": "Escentric Molecules - Molecule 01", "type": "official", "supports": ["notes", "accords"] }
-      ]
+        { "url": "https://www.escentric.com/en-us/products/molecule-01-200ml", "name": "Escentric Molecules - Molecule 01", "type": "official", "supports": ["notes", "accords"] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Escentric Molecules Molecule 01", "type": "database", "supports": ["performance"] }
+      ],
+      "performance": { "longevity": 3, "sillage": 3, "projection": null, "basis": "database" },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3.5/5, sillage 3/5",
+      "usage": { "seasons": [], "times": [] }
     },
     {
       "name": "Molecule 01 + Clary Sage",
@@ -105,11 +109,12 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": { "top": ["hedione", "elderflower"], "heart": [], "base": [], "flat": [] },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.escentric.com/en-us/collections/molecule", "name": "Escentric Molecules - Molecule collection", "type": "official", "supports": [] }
+        { "url": "https://www.escentric.com/en-us/collections/molecule", "name": "Escentric Molecules - Molecule collection", "type": "official", "supports": [] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Escentric Molecules Molecule 02", "type": "database", "supports": ["notes"] }
       ]
     },
     {
@@ -120,11 +125,12 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": { "top": ["ginger root", "green peppercorn", "mexican lime"], "heart": ["egyptian jasmine", "tea"], "base": ["vetiver", "sandalwood", "cedar", "leather", "musk"], "flat": [] },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.escentric.com/en-us/collections/molecule", "name": "Escentric Molecules - Molecule collection", "type": "official", "supports": [] }
+        { "url": "https://www.escentric.com/en-us/collections/molecule", "name": "Escentric Molecules - Molecule collection", "type": "official", "supports": [] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Escentric Molecules Molecule 03", "type": "database", "supports": ["notes"] }
       ]
     },
     {
