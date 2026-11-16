@@ -11,7 +11,7 @@
   ],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official shop (maisonasrar.com/collections/all) lists 132 items over 11 pages; room sprays, reed diffusers and gift sets were excluded, leaving 114 fragrances. The shop shows only three headline notes per fragrance (stored as flat, no pyramid); concentration is not shown on listings so it is null. Brand country not stated on the About page (storefront defaults to UAE/AED) so null. BJ Distribuzione page returned empty content. Several official product URLs use a gulf-orchid- prefix (Flair, Gold Noir, Masterpiece, Rose, Silver Elixer, Timeless), indicating a link to Gulf Orchid; a search summary also called Maison Asrar part of the Gulf Orchid group, not independently confirmed.",
+  "researchNotes": "Official shop (maisonasrar.com/collections/all) lists 132 items over 11 pages; room sprays, reed diffusers and gift sets were excluded, leaving 114 fragrances. The shop shows only three headline notes per fragrance (stored as flat, no pyramid); concentration is not shown on listings so it is null. Brand country not stated on the About page (storefront defaults to UAE/AED) so null. BJ Distribuzione page returned empty content. Several official product URLs use a gulf-orchid- prefix (Flair, Gold Noir, Masterpiece, Rose, Silver Elixer, Timeless), indicating a link to Gulf Orchid; a search summary also called Maison Asrar part of the Gulf Orchid group, not independently confirmed. Notes pass 2026-11-16: product pages (maisonasrar.com/products/<handle>, via products.json) give descriptions with opening/heart/base wording for most fragrances, so pyramids were filled from them (flat kept where the text is not staged; listing headline notes merged into flat when the page does not contradict). Family/concentration filled only where the page text names them. Not published: perfumer, release year, accords.",
   "fragrances": [
     {
       "name": "1963",
@@ -19,17 +19,23 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Spicy",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "lavender",
+        "top": [
+          "citrus",
+          "lavender"
+        ],
+        "heart": [
           "carnation",
+          "floral"
+        ],
+        "base": [
+          "amber",
+          "musk",
           "sandalwood"
-        ]
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -40,6 +46,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/1963-eau-de-perfum-100ml",
+          "name": "Maison Asrar — 1963",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -53,14 +68,17 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "rose",
-          "woody",
-          "amber"
-        ]
+        "top": [
+          "rose"
+        ],
+        "heart": [
+          "woody notes"
+        ],
+        "base": [
+          "amber",
+          "leather"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -68,6 +86,14 @@
         {
           "url": "https://maisonasrar.com/collections/all",
           "name": "Maison Asrar — shop listing page 1",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/adorable-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Adorable",
           "type": "official",
           "supports": [
             "notes"
@@ -87,9 +113,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "dried fruit",
+          "leather",
+          "jasmine",
+          "amber",
+          "vanilla",
+          "patchouli"
+        ]
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -106,6 +139,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-alonoud-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Alonoud",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -253,14 +294,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "vanilla",
+        "top": [
+          "saffron",
+          "raspberry"
+        ],
+        "heart": [
           "rose",
-          "saffron"
-        ]
+          "oud"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -268,6 +314,14 @@
         {
           "url": "https://maisonasrar.com/collections/all",
           "name": "Maison Asrar — shop listing page 1",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-basma-eau-de-parfum-100-ml-unisex",
+          "name": "Maison Asrar — Basma",
           "type": "official",
           "supports": [
             "notes"
@@ -345,17 +399,23 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Fougere Oriental Woody",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "grapefruit",
+        "top": [
+          "ginger",
+          "grapefruit"
+        ],
+        "heart": [
           "lavender",
-          "tonka"
-        ]
+          "mint"
+        ],
+        "base": [
+          "cedarwood",
+          "tonka bean",
+          "cashmeran"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -366,6 +426,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/black-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Black",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -376,17 +445,25 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Fruity",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "musk",
+        "top": [
           "pear",
-          "rose"
-        ]
+          "peach",
+          "freesia"
+        ],
+        "heart": [
+          "rose",
+          "magnolia",
+          "lily of the valley"
+        ],
+        "base": [
+          "sandalwood",
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -397,6 +474,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/bloom-bloom-eau-de-parfum-100ml",
+          "name": "Maison Asrar — Bloom Bloom",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -407,17 +493,24 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Chypre Sweet",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "vanilla",
-          "coffee",
-          "orange blossom"
-        ]
+        "top": [
+          "orange blossom",
+          "pear",
+          "lily of the valley"
+        ],
+        "heart": [
+          "jasmine",
+          "edible note",
+          "coffee"
+        ],
+        "base": [
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -429,6 +522,15 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/bonita-eau-de-parfum-100ml",
+          "name": "Maison Asrar — Bonita",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
         }
       ]
     },
@@ -438,17 +540,24 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Fruity",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "bergamot",
           "orange",
-          "rose",
-          "ambergris"
-        ]
+          "pear"
+        ],
+        "heart": [
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "ambergris",
+          "moss",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -459,6 +568,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/casablanca-maison-asrar-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Casablanca",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -476,9 +594,15 @@
         "heart": [],
         "base": [],
         "flat": [
-          "drywood",
-          "marine",
-          "ginger"
+          "lemon",
+          "melon",
+          "ginger",
+          "lavender",
+          "apple",
+          "marine accord",
+          "dry wood",
+          "sandalwood",
+          "musk"
         ]
       },
       "noteSource": "official",
@@ -487,6 +611,14 @@
         {
           "url": "https://maisonasrar.com/collections/all",
           "name": "Maison Asrar — shop listing page 1",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/cascade",
+          "name": "Maison Asrar — Cascade",
           "type": "official",
           "supports": [
             "notes"
@@ -503,14 +635,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "amber",
+        "top": [
+          "almond",
           "milk",
           "coffee"
-        ]
+        ],
+        "heart": [
+          "white flower",
+          "amber"
+        ],
+        "base": [
+          "caramel",
+          "nutty accord",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -518,6 +657,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=2",
           "name": "Maison Asrar — shop listing page 2",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/coffee-blend-eau-de-parfum",
+          "name": "Maison Asrar — Coffee Blend",
           "type": "official",
           "supports": [
             "notes"
@@ -534,14 +681,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "cardamom",
+          "pink pepper"
+        ],
+        "heart": [
+          "sage",
+          "melon"
+        ],
+        "base": [
           "vanilla",
-          "pineapple",
-          "cardamom"
-        ]
+          "chestnut"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -549,6 +701,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=2",
           "name": "Maison Asrar — shop listing page 2",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-daham-eau-de-parfum-100-ml-for-men",
+          "name": "Maison Asrar — Daham",
           "type": "official",
           "supports": [
             "notes"
@@ -565,14 +725,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "marshmallow",
+        "top": [
+          "orange blossom",
+          "blackcurrant",
+          "mango"
+        ],
+        "heart": [
           "raspberry",
-          "orange blossom"
-        ]
+          "lily of the valley",
+          "sandalwood"
+        ],
+        "base": [
+          "marshmallow",
+          "ambergris"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -580,6 +747,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=2",
           "name": "Maison Asrar — shop listing page 2",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/date-night",
+          "name": "Maison Asrar — Date Night",
           "type": "official",
           "supports": [
             "notes"
@@ -590,20 +765,29 @@
     {
       "name": "Dear Jasmine",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "vanilla",
+        "top": [
+          "bergamot",
+          "blackcurrant",
+          "peach",
+          "apple"
+        ],
+        "heart": [
           "jasmine",
-          "peach"
-        ]
+          "rose",
+          "tuberose"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -615,6 +799,15 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/dear-jasmine-maison-asrar-eau-de-perfum-100-ml",
+          "name": "Maison Asrar — Dear Jasmine",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
         }
       ]
     },
@@ -624,15 +817,21 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Ambery Woody",
       "accords": [],
       "notes": {
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "grapefruit",
+          "mandarin",
+          "pink pepper",
+          "cashmere wood",
+          "fougere accord"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -640,6 +839,15 @@
           "name": "Maison Asrar — shop listing page 2",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://maisonasrar.com/products/desire-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Desire",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
         }
       ]
     },
@@ -851,9 +1059,13 @@
         "heart": [],
         "base": [],
         "flat": [
-          "ginger",
+          "orange",
+          "mandarin",
           "bergamot",
-          "mandarin"
+          "grapefruit",
+          "ginger",
+          "lily",
+          "musk"
         ]
       },
       "noteSource": "official",
@@ -862,6 +1074,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=2",
           "name": "Maison Asrar — shop listing page 2",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/dxb",
+          "name": "Maison Asrar — Dxb",
           "type": "official",
           "supports": [
             "notes"
@@ -945,14 +1165,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "pepper",
-          "sandalwood",
+        "top": [
+          "woody accord",
+          "cashmere wood"
+        ],
+        "heart": [
+          "sandalwood"
+        ],
+        "base": [
+          "fougere accord",
           "amber"
-        ]
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -960,6 +1184,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=2",
           "name": "Maison Asrar — shop listing page 2",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-emerald-eau-de-parfum-110ml",
+          "name": "Maison Asrar — Emerald",
           "type": "official",
           "supports": [
             "notes"
@@ -976,14 +1208,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "bergamot",
+          "spice"
+        ],
+        "heart": [
           "rose",
-          "amber"
-        ]
+          "woody accord"
+        ],
+        "base": [
+          "amber",
+          "balsamic note"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -991,6 +1228,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=3",
           "name": "Maison Asrar — shop listing page 3",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-emessa-eau-de-parfum-for-women",
+          "name": "Maison Asrar — Emessa",
           "type": "official",
           "supports": [
             "notes"
@@ -1004,17 +1249,25 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Fruity",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "watermelon",
-          "red apple",
-          "musk"
-        ]
+        "top": [
+          "fruit",
+          "green note",
+          "watermelon"
+        ],
+        "heart": [
+          "apple",
+          "aquatic note",
+          "lily of the valley"
+        ],
+        "base": [
+          "moss",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1025,6 +1278,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/fairy-tale-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Fairy Tale",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -1038,14 +1300,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "mandarin",
-          "cinnamon",
-          "musk"
-        ]
+          "bergamot",
+          "cinnamon"
+        ],
+        "heart": [
+          "rose",
+          "geranium",
+          "cypriol"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "cedarwood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1053,6 +1323,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=3",
           "name": "Maison Asrar — shop listing page 3",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/fairyland",
+          "name": "Maison Asrar — Fairyland",
           "type": "official",
           "supports": [
             "notes"
@@ -1069,14 +1347,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "marshmallow",
+        "top": [
+          "orange blossom",
+          "gourmand note"
+        ],
+        "heart": [
           "vanilla",
-          "orange blossom"
-        ]
+          "white flower"
+        ],
+        "base": [
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1084,6 +1366,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=3",
           "name": "Maison Asrar — shop listing page 3",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-fakhama-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Fakhama",
           "type": "official",
           "supports": [
             "notes"
@@ -1106,7 +1396,10 @@
         "flat": [
           "cashmere wood",
           "vanilla",
-          "amber"
+          "amber",
+          "wood",
+          "cane sugar",
+          "musk"
         ]
       },
       "noteSource": "official",
@@ -1115,6 +1408,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=3",
           "name": "Maison Asrar — shop listing page 3",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/faris-al-arab",
+          "name": "Maison Asrar — Faris Al Arab",
           "type": "official",
           "supports": [
             "notes"
@@ -1131,12 +1432,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "pink berry",
+          "grapefruit"
+        ],
+        "heart": [
+          "lavender",
+          "coffee"
+        ],
+        "base": [
+          "amber",
+          "vetiver"
+        ],
         "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1153,6 +1463,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/gulf-orchid-flaire-eau-de-parfum",
+          "name": "Maison Asrar — Flair",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -1171,20 +1489,28 @@
     {
       "name": "Fresh Iris",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Oriental Ambery",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "ambergris",
+        "top": [
+          "saffron",
+          "red fruit"
+        ],
+        "heart": [
           "iris",
-          "saffron"
-        ]
+          "chocolate",
+          "rose",
+          "tonka bean"
+        ],
+        "base": [
+          "ambergris",
+          "moss",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1195,6 +1521,16 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/fresh-iris-maison-asrar-eau-de-perfum-100-ml",
+          "name": "Maison Asrar — Fresh Iris",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
           ]
         }
       ]
@@ -1208,14 +1544,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "lavender",
+          "spice"
+        ],
+        "heart": [
+          "floral",
+          "woody notes"
+        ],
+        "base": [
           "leather",
-          "oud",
-          "lavender"
-        ]
+          "amber"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1223,6 +1564,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=3",
           "name": "Maison Asrar — shop listing page 3",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-gentle-oud-eau-de-parfum-80-ml-for-men",
+          "name": "Maison Asrar — Gentle Oud",
           "type": "official",
           "supports": [
             "notes"
@@ -1239,14 +1588,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "amber",
-          "rose",
+        "top": [
           "grapefruit"
-        ]
+        ],
+        "heart": [
+          "cashmere",
+          "rose"
+        ],
+        "base": [
+          "amber",
+          "vetiver"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1254,6 +1607,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=3",
           "name": "Maison Asrar — shop listing page 3",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/gulf-orchid-gold-noir-eau-de-parfum",
+          "name": "Maison Asrar — Gold Noir",
           "type": "official",
           "supports": [
             "notes"
@@ -1270,14 +1631,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "amber",
-          "jasmine",
+        "top": [
+          "fruit",
           "pink pepper"
-        ]
+        ],
+        "heart": [
+          "ylang-ylang",
+          "tuberose"
+        ],
+        "base": [
+          "patchouli",
+          "amber",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1285,6 +1652,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=3",
           "name": "Maison Asrar — shop listing page 3",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-hamsat-gharam-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Hamsat Gharam",
           "type": "official",
           "supports": [
             "notes"
@@ -1301,14 +1676,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "oud",
-          "rose",
-          "saffron"
-        ]
+        "top": [
+          "rosewood",
+          "sage"
+        ],
+        "heart": [
+          "saffron",
+          "rose"
+        ],
+        "base": [
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1327,6 +1707,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-hamsat-ghazal-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Hamsat Ghazal",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -1351,14 +1739,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "mandarin blossom",
+          "rose",
+          "orange"
+        ],
+        "heart": [
+          "freesia",
+          "peony",
+          "orchid"
+        ],
+        "base": [
           "musk",
-          "orchid",
-          "mandarin"
-        ]
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1366,6 +1761,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=4",
           "name": "Maison Asrar — shop listing page 4",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-hamsat-hob-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Hamsat Hob",
           "type": "official",
           "supports": [
             "notes"
@@ -1386,9 +1789,11 @@
         "heart": [],
         "base": [],
         "flat": [
-          "musk",
+          "spice",
+          "woody notes",
           "white flower",
-          "woody"
+          "benzoin",
+          "musk"
         ]
       },
       "noteSource": "official",
@@ -1397,6 +1802,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=4",
           "name": "Maison Asrar — shop listing page 4",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-hamsat-ishq-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Hamsat Ishq",
           "type": "official",
           "supports": [
             "notes"
@@ -1413,14 +1826,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "apricot",
           "peach",
+          "citrus",
+          "tropical fruit"
+        ],
+        "heart": [
+          "lily of the valley",
           "rose",
-          "vanilla"
-        ]
+          "neroli",
+          "freesia"
+        ],
+        "base": [
+          "vanilla",
+          "white musk",
+          "woody notes"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1428,6 +1851,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=4",
           "name": "Maison Asrar — shop listing page 4",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/harmony",
+          "name": "Maison Asrar — Harmony",
           "type": "official",
           "supports": [
             "notes"
@@ -1444,12 +1875,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "citrus",
+          "floral"
+        ],
+        "heart": [
+          "coconut",
+          "fruit"
+        ],
+        "base": [
+          "musk",
+          "sweet notes"
+        ],
         "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1466,6 +1906,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-heritage-eau-de-parfum-100-ml-unisex",
+          "name": "Maison Asrar — Heritage",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -1555,14 +2003,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "coconut",
+        "top": [
           "mango",
-          "chamomile"
-        ]
+          "mandarin"
+        ],
+        "heart": [
+          "chamomile",
+          "coconut",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "caramel",
+          "cedarwood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1570,6 +2025,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=4",
           "name": "Maison Asrar — shop listing page 4",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/hilm",
+          "name": "Maison Asrar — Hilm",
           "type": "official",
           "supports": [
             "notes"
@@ -1586,14 +2049,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "vanilla",
+        "top": [
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
           "cedarwood",
-          "lavender"
-        ]
+          "patchouli"
+        ],
+        "base": [
+          "caramel",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1601,6 +2069,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=4",
           "name": "Maison Asrar — shop listing page 4",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-hunter-eau-de-parfum-100ml",
+          "name": "Maison Asrar — Hunter",
           "type": "official",
           "supports": [
             "notes"
@@ -1621,9 +2097,12 @@
         "heart": [],
         "base": [],
         "flat": [
+          "apple",
           "cardamom",
           "aquatic",
-          "cedarwood"
+          "amber",
+          "cedarwood",
+          "leather"
         ]
       },
       "noteSource": "official",
@@ -1632,6 +2111,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=4",
           "name": "Maison Asrar — shop listing page 4",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/icon-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Icon",
           "type": "official",
           "supports": [
             "notes"
@@ -1648,14 +2135,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "sandalwood",
+        "top": [
+          "bergamot",
+          "saffron",
+          "pepper"
+        ],
+        "heart": [
+          "leather",
+          "incense"
+        ],
+        "base": [
           "vanilla",
-          "saffron"
-        ]
+          "sandalwood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1663,6 +2156,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=5",
           "name": "Maison Asrar — shop listing page 5",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/iii-thriller",
+          "name": "Maison Asrar — Iii Thriller",
           "type": "official",
           "supports": [
             "notes"
@@ -1679,14 +2180,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "lemon",
-          "nutmeg",
-          "cedarwood"
-        ]
+          "mandarin"
+        ],
+        "heart": [
+          "cumin",
+          "nutmeg"
+        ],
+        "base": [
+          "cedarwood",
+          "moss"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1694,6 +2200,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=5",
           "name": "Maison Asrar — shop listing page 5",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-imperial-eau-de-parfum",
+          "name": "Maison Asrar — Imperial",
           "type": "official",
           "supports": [
             "notes"
@@ -1773,14 +2287,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "leather",
+        "top": [
+          "thyme",
+          "saffron",
+          "raspberry"
+        ],
+        "heart": [
           "jasmine",
-          "saffron"
-        ]
+          "olibanum"
+        ],
+        "base": [
+          "leather",
+          "ambergris",
+          "oud"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1788,6 +2309,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=5",
           "name": "Maison Asrar — shop listing page 5",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-italian-leather-eau-de-parfum-80-ml-for-men",
+          "name": "Maison Asrar — Italian Leather",
           "type": "official",
           "supports": [
             "notes"
@@ -1801,17 +2330,22 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Leather",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "bergamot",
-          "cedarwood",
+        "top": [
+          "aromatic notes",
+          "bergamot"
+        ],
+        "heart": [
+          "cedarwood"
+        ],
+        "base": [
+          "amber",
+          "labdanum",
           "leather"
-        ]
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1823,6 +2357,15 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/jawhara-black-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Jawhara Black",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
         }
       ]
     },
@@ -1832,17 +2375,26 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Fruity",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "citrus",
           "passion fruit",
+          "lychee"
+        ],
+        "heart": [
+          "magnolia",
           "violet",
-          "cashmere wood"
-        ]
+          "amber"
+        ],
+        "base": [
+          "musk",
+          "cashmere",
+          "cedarwood",
+          "caramel"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1853,6 +2405,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/jawhara-rouge-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Jawhara Rouge",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -1866,14 +2427,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "musk",
+        "top": [
+          "plum",
+          "red fruit"
+        ],
+        "heart": [
           "tuberose",
-          "plum"
-        ]
+          "solar accord"
+        ],
+        "base": [
+          "musk",
+          "cashmere"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1881,6 +2447,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=5",
           "name": "Maison Asrar — shop listing page 5",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/joy-eau-de-parfum-100ml",
+          "name": "Maison Asrar — Joy",
           "type": "official",
           "supports": [
             "notes"
@@ -1897,14 +2471,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "amber",
+        "top": [
+          "lemon",
+          "orange"
+        ],
+        "heart": [
+          "fruit",
           "lavender",
-          "lemon"
-        ]
+          "marine note"
+        ],
+        "base": [
+          "amber",
+          "patchouli",
+          "oakmoss"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1912,6 +2493,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=5",
           "name": "Maison Asrar — shop listing page 5",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-khateer-eau-de-parfum-100-ml-for-men",
+          "name": "Maison Asrar — Khateer",
           "type": "official",
           "supports": [
             "notes"
@@ -1928,14 +2517,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "oud",
-          "saffron",
-          "cardamom"
-        ]
+        "top": [
+          "cardamom",
+          "bergamot",
+          "geranium"
+        ],
+        "heart": [
+          "patchouli",
+          "saffron"
+        ],
+        "base": [
+          "leather",
+          "musk",
+          "oud"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -1943,6 +2539,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=5",
           "name": "Maison Asrar — shop listing page 5",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-khayal-eau-de-parfum-100-ml-unisex",
+          "name": "Maison Asrar — Khayal",
           "type": "official",
           "supports": [
             "notes"
@@ -2018,17 +2622,25 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Rose",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "amber",
+        "top": [
+          "mandarin",
+          "incense",
+          "orange"
+        ],
+        "heart": [
+          "may rose",
           "rose",
-          "mandarin"
-        ]
+          "jasmine"
+        ],
+        "base": [
+          "ambroxan",
+          "amber",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2039,6 +2651,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/kiss-my-lips-maison-asrar-eau-de-perfum-90ml",
+          "name": "Maison Asrar — Kiss My Lips",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -2171,12 +2792,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "ginger",
+          "pear",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2193,6 +2825,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/legacy",
+          "name": "Maison Asrar — Legacy",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -2217,14 +2857,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "musk",
-          "suede",
+        "top": [
+          "black pepper",
           "leather"
-        ]
+        ],
+        "heart": [
+          "suede",
+          "styrax"
+        ],
+        "base": [
+          "vanilla",
+          "ambergris"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2232,6 +2877,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=6",
           "name": "Maison Asrar — shop listing page 6",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-leo-eau-de-parfum-100ml",
+          "name": "Maison Asrar — Leo",
           "type": "official",
           "supports": [
             "notes"
@@ -2306,17 +2959,24 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Fruity",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "musk",
+        "top": [
+          "lychee",
+          "bergamot",
+          "almond"
+        ],
+        "heart": [
           "rose",
-          "lychee"
-        ]
+          "violet"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2328,6 +2988,15 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/lily-eau-de-parfum-100ml",
+          "name": "Maison Asrar — Lily",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
         }
       ]
     },
@@ -2337,17 +3006,29 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Woody",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "amber",
+        "top": [
+          "red fruit",
+          "citrus",
+          "ylang-ylang",
+          "blackcurrant"
+        ],
+        "heart": [
           "jasmine",
-          "red fruits"
-        ]
+          "peach",
+          "tuberose",
+          "orange blossom"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "musk",
+          "patchouli",
+          "woody notes"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2358,6 +3039,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/lolita-eau-de-parfum-100ml",
+          "name": "Maison Asrar — Lolita",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -2371,14 +3061,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "bergamot",
+          "green note"
+        ],
+        "heart": [
+          "melon",
+          "pineapple"
+        ],
+        "base": [
+          "woody notes",
           "vanilla",
-          "pineapple",
-          "melon"
-        ]
+          "white musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2386,6 +3082,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=6",
           "name": "Maison Asrar — shop listing page 6",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/lumiere",
+          "name": "Maison Asrar — Lumiere",
           "type": "official",
           "supports": [
             "notes"
@@ -2402,12 +3106,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "peach"
+        ],
+        "heart": [
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2424,6 +3137,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/luna-eau-de-parfum-100ml",
+          "name": "Maison Asrar — Luna",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -2514,9 +3235,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "grapefruit",
+          "vetiver"
+        ]
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2533,6 +3257,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/majesty",
+          "name": "Maison Asrar — Majesty",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -2557,12 +3289,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "apple",
+          "cardamom"
+        ],
+        "heart": [
+          "cinnamon",
+          "lavender"
+        ],
+        "base": [
+          "vanilla",
+          "cedarwood"
+        ],
         "flat": []
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2579,6 +3320,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/gulf-orchid-masterpiece-eau-de-parfum",
+          "name": "Maison Asrar — Masterpiece",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -2607,9 +3356,10 @@
         "heart": [],
         "base": [],
         "flat": [
-          "tonka",
+          "milk",
+          "caramel",
           "vanilla",
-          "milk"
+          "tonka bean"
         ]
       },
       "noteSource": "official",
@@ -2618,6 +3368,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=7",
           "name": "Maison Asrar — shop listing page 7",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/milky-way",
+          "name": "Maison Asrar — Milky Way",
           "type": "official",
           "supports": [
             "notes"
@@ -2700,14 +3458,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "cardamom",
           "peach",
-          "coconut",
-          "patchouli"
-        ]
+          "cinnamon"
+        ],
+        "heart": [
+          "jasmine",
+          "milk"
+        ],
+        "base": [
+          "heliotrope",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2715,6 +3480,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=7",
           "name": "Maison Asrar — shop listing page 7",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-monarch-eau-de-parfum",
+          "name": "Maison Asrar — Monarch",
           "type": "official",
           "supports": [
             "notes"
@@ -2734,9 +3507,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "honey",
+          "cinnamon",
+          "tobacco",
+          "tonka bean",
+          "vanilla",
+          "wood"
+        ]
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2754,6 +3534,14 @@
           "supports": [
             "performance",
             "usage"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/muharib",
+          "name": "Maison Asrar — Muharib",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -2781,14 +3569,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "musk",
-          "orange blossom",
-          "bergamot"
-        ]
+        "top": [
+          "bergamot",
+          "mandarin"
+        ],
+        "heart": [
+          "cedarwood",
+          "orange blossom"
+        ],
+        "base": [
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2796,6 +3588,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=7",
           "name": "Maison Asrar — shop listing page 7",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/nada",
+          "name": "Maison Asrar — Nada",
           "type": "official",
           "supports": [
             "notes"
@@ -2809,17 +3609,24 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "vanilla",
+        "top": [
+          "lily of the valley",
+          "peach"
+        ],
+        "heart": [
+          "gardenia",
           "jasmine",
-          "lily of the valley"
-        ]
+          "ylang-ylang"
+        ],
+        "base": [
+          "ambergris",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2831,6 +3638,15 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/never-forget-me-maison-asrar-eau-de-perfum-90ml",
+          "name": "Maison Asrar — Never Forget Me",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
         }
       ]
     },
@@ -2840,17 +3656,24 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Floral Ambery",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "amber",
-          "musk",
+        "top": [
+          "lily of the valley",
           "rose"
-        ]
+        ],
+        "heart": [
+          "musk",
+          "rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "amber",
+          "moss",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2861,6 +3684,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/night-in-paris-maison-asrar-eau-de-perfum-90ml",
+          "name": "Maison Asrar — Night In Paris",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -2874,14 +3706,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "blackcurrant",
-          "honey",
-          "tonka"
-        ]
+          "apple",
+          "citrus"
+        ],
+        "heart": [
+          "white flower",
+          "honey"
+        ],
+        "base": [
+          "cedarwood",
+          "vanilla",
+          "wood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2900,6 +3739,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/oh-honey-eau-de-parfum",
+          "name": "Maison Asrar — Oh Honey!",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -2924,14 +3771,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "citrus",
-          "jasmine",
+          "ozonic note"
+        ],
+        "heart": [
+          "floral"
+        ],
+        "base": [
+          "musk",
           "leather"
-        ]
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2939,6 +3790,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=7",
           "name": "Maison Asrar — shop listing page 7",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/omniya",
+          "name": "Maison Asrar — Omniya",
           "type": "official",
           "supports": [
             "notes"
@@ -2952,17 +3811,23 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Oriental",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "red fruits",
-          "jasmine",
-          "vanilla"
-        ]
+        "top": [
+          "red berry",
+          "cardamom",
+          "pepper"
+        ],
+        "heart": [
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "oakmoss",
+          "dry wood"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -2974,26 +3839,44 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/oscar-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Oscar",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
         }
       ]
     },
     {
       "name": "Patchouli with Love",
       "collection": null,
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Fresh",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "incense",
+        "top": [
+          "cypriol",
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
           "patchouli",
-          "bergamot"
-        ]
+          "violet",
+          "saffron",
+          "orris"
+        ],
+        "base": [
+          "incense",
+          "cedarwood",
+          "ambrette"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3004,6 +3887,16 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/patchouli-with-love-maison-asrar-eau-de-perfum-100-ml",
+          "name": "Maison Asrar — Patchouli With Love",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
           ]
         }
       ]
@@ -3082,14 +3975,17 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "rose",
-          "lychee",
-          "raspberry"
-        ]
+        "top": [
+          "raspberry",
+          "lychee"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "woody notes"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3097,6 +3993,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=8",
           "name": "Maison Asrar — shop listing page 8",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-pink-crush-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Pink Crush",
           "type": "official",
           "supports": [
             "notes"
@@ -3113,14 +4017,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "pear",
-          "gardenia",
-          "vanilla"
-        ]
+        "top": [
+          "apple",
+          "pear"
+        ],
+        "heart": [
+          "floral"
+        ],
+        "base": [
+          "vanilla",
+          "sugar"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3128,6 +4036,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=8",
           "name": "Maison Asrar — shop listing page 8",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/qamar",
+          "name": "Maison Asrar — Qamar",
           "type": "official",
           "supports": [
             "notes"
@@ -3144,14 +4060,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "vanilla",
+        "top": [
           "strawberry",
-          "red fruits"
-        ]
+          "red fruit"
+        ],
+        "heart": [
+          "jasmine",
+          "violet"
+        ],
+        "base": [
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3159,6 +4080,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=8",
           "name": "Maison Asrar — shop listing page 8",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-red-velvet-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Red Velvet",
           "type": "official",
           "supports": [
             "notes"
@@ -3237,14 +4166,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "aromatic",
-          "geranium",
-          "bergamot"
-        ]
+        "top": [
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
+          "black pepper",
+          "tonka bean"
+        ],
+        "base": [
+          "musk",
+          "ambergris",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3252,6 +4187,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=8",
           "name": "Maison Asrar — shop listing page 8",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/rey-eau-de-parfum-100ml-maison-asrar",
+          "name": "Maison Asrar — Rey",
           "type": "official",
           "supports": [
             "notes"
@@ -3268,14 +4211,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "musk",
-          "rose",
+        "top": [
+          "bergamot",
           "blackberry"
-        ]
+        ],
+        "heart": [
+          "lotus",
+          "rose"
+        ],
+        "base": [
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3283,6 +4231,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=8",
           "name": "Maison Asrar — shop listing page 8",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/gulf-orchid-rose-eau-de-parfum",
+          "name": "Maison Asrar — Rose",
           "type": "official",
           "supports": [
             "notes"
@@ -3336,7 +4292,9 @@
         "flat": [
           "raspberry",
           "rose",
-          "vanilla"
+          "vanilla",
+          "blackcurrant",
+          "peach"
         ]
       },
       "noteSource": "official",
@@ -3345,6 +4303,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=9",
           "name": "Maison Asrar — shop listing page 9",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/bouquet-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Rosé Bouquet",
           "type": "official",
           "supports": [
             "notes"
@@ -3366,8 +4332,10 @@
         "base": [],
         "flat": [
           "honey",
-          "tobacco",
-          "plum"
+          "rose",
+          "mandarin",
+          "plum",
+          "tobacco"
         ]
       },
       "noteSource": "official",
@@ -3376,6 +4344,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=9",
           "name": "Maison Asrar — shop listing page 9",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-rose-honey-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Rose Honey",
           "type": "official",
           "supports": [
             "notes"
@@ -3392,14 +4368,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "musk",
-          "rose",
+        "top": [
+          "grapefruit",
           "blackcurrant"
-        ]
+        ],
+        "heart": [
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3407,6 +4388,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=9",
           "name": "Maison Asrar — shop listing page 9",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-rose-musk-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Rose Musk",
           "type": "official",
           "supports": [
             "notes"
@@ -3423,14 +4412,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "oud",
-          "rose",
-          "caramel"
-        ]
+        "top": [
+          "caramel",
+          "davana",
+          "bergamot"
+        ],
+        "heart": [
+          "freesia",
+          "jasmine",
+          "lily of the valley"
+        ],
+        "base": [
+          "leather",
+          "ambergris"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3438,6 +4434,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=9",
           "name": "Maison Asrar — shop listing page 9",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-rose-oud-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Rose Oud",
           "type": "official",
           "supports": [
             "notes"
@@ -3454,14 +4458,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "lemon"
+        ],
+        "heart": [
+          "rose",
+          "dry wood"
+        ],
+        "base": [
           "vanilla",
-          "drywood",
-          "rose"
-        ]
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3469,6 +4477,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=9",
           "name": "Maison Asrar — shop listing page 9",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-rose-vanilla-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Rose Vanilla",
           "type": "official",
           "supports": [
             "notes"
@@ -3610,14 +4626,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "leather",
+        "top": [
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
           "incense",
-          "pink pepper"
-        ]
+          "patchouli"
+        ],
+        "base": [
+          "musk",
+          "leather"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3625,6 +4646,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=9",
           "name": "Maison Asrar — shop listing page 9",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/gulf-orchid-silver-elixer-eau-de-parfum",
+          "name": "Maison Asrar — Silver Elixer",
           "type": "official",
           "supports": [
             "notes"
@@ -3641,14 +4670,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "vanilla",
           "praline",
-          "toffee",
-          "vanilla"
-        ]
+          "plum"
+        ],
+        "heart": [
+          "white flower",
+          "ylang-ylang"
+        ],
+        "base": [
+          "vanilla wood",
+          "ambergris"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3656,6 +4691,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=9",
           "name": "Maison Asrar — shop listing page 9",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/soiree",
+          "name": "Maison Asrar — Soirée",
           "type": "official",
           "supports": [
             "notes"
@@ -3672,14 +4715,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "sandalwood",
+        "top": [
+          "mandarin",
+          "peach",
+          "bergamot"
+        ],
+        "heart": [
           "rose",
-          "peach"
-        ]
+          "jasmine",
+          "neroli"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3687,6 +4737,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=9",
           "name": "Maison Asrar — shop listing page 9",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-soudfa-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Soudfa",
           "type": "official",
           "supports": [
             "notes"
@@ -3700,17 +4758,25 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Woody Hesperidic",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "musk",
+        "top": [
+          "bergamot",
           "ginger",
-          "bergamot"
-        ]
+          "grapefruit"
+        ],
+        "heart": [
+          "amber",
+          "aquatic note",
+          "magnolia"
+        ],
+        "base": [
+          "moss",
+          "musk",
+          "peach"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3729,6 +4795,15 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/sunset-in-capri-maison-asrar-eau-de-perfum-90ml",
+          "name": "Maison Asrar — Sunset In Capri",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ],
@@ -3757,9 +4832,12 @@
         "heart": [],
         "base": [],
         "flat": [
-          "musk",
+          "mandarin",
           "rose",
-          "amber"
+          "amber",
+          "leather",
+          "sandalwood",
+          "musk"
         ]
       },
       "noteSource": "official",
@@ -3768,6 +4846,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=10",
           "name": "Maison Asrar — shop listing page 10",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/throne",
+          "name": "Maison Asrar — Throne",
           "type": "official",
           "supports": [
             "notes"
@@ -3849,14 +4935,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "patchouli",
+        "top": [
+          "bergamot",
+          "green lemon"
+        ],
+        "heart": [
           "blackcurrant",
-          "bergamot"
-        ]
+          "rosemary"
+        ],
+        "base": [
+          "ambergris",
+          "patchouli"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3864,6 +4955,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=10",
           "name": "Maison Asrar — shop listing page 10",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/gulf-orchid-timeless-eau-de-parfum",
+          "name": "Maison Asrar — Timeless",
           "type": "official",
           "supports": [
             "notes"
@@ -3880,14 +4979,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "lychee",
+          "peach",
+          "saffron"
+        ],
+        "heart": [
           "incense",
-          "saffron",
-          "davana"
-        ]
+          "osmanthus",
+          "cashmere"
+        ],
+        "base": [
+          "vanilla",
+          "cedar",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3895,6 +5002,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=10",
           "name": "Maison Asrar — shop listing page 10",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/tornado",
+          "name": "Maison Asrar — Tornado",
           "type": "official",
           "supports": [
             "notes"
@@ -3911,14 +5026,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "vanilla",
+        "top": [
+          "metallic note",
+          "aquatic note"
+        ],
+        "heart": [
           "rose",
-          "aquatic"
-        ]
+          "sugar note"
+        ],
+        "base": [
+          "woody notes",
+          "vanilla"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3926,6 +5046,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=10",
           "name": "Maison Asrar — shop listing page 10",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-treasure-eau-de-parfum-100-ml-unisex",
+          "name": "Maison Asrar — Treasure",
           "type": "official",
           "supports": [
             "notes"
@@ -3939,17 +5067,25 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Hesperidic Ambery",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "citrus",
           "caramel",
+          "green note"
+        ],
+        "heart": [
           "jasmine",
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "amber",
+          "musk",
           "vanilla"
-        ]
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3961,6 +5097,15 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/trophy-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Trophy",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
         }
       ]
     },
@@ -3970,17 +5115,25 @@
       "concentration": null,
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Oriental Ambery",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "saffron",
-          "rose",
-          "ambergris"
-        ]
+        "top": [
+          "black pepper",
+          "red fruit",
+          "saffron"
+        ],
+        "heart": [
+          "chocolate",
+          "incense",
+          "rose"
+        ],
+        "base": [
+          "ambergris",
+          "moss",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -3991,6 +5144,15 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/turath-eau-de-perfum-100ml",
+          "name": "Maison Asrar — Turath",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
           ]
         }
       ]
@@ -4140,8 +5302,11 @@
         "heart": [],
         "base": [],
         "flat": [
-          "sandalwood",
+          "citrus",
+          "caramel",
+          "chocolate",
           "amber",
+          "sandalwood",
           "vanilla"
         ]
       },
@@ -4151,6 +5316,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=10",
           "name": "Maison Asrar — shop listing page 10",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/vanilla-aura",
+          "name": "Maison Asrar — Vanilla Aura",
           "type": "official",
           "supports": [
             "notes"
@@ -4167,14 +5340,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "saffron",
+          "red fruit"
+        ],
+        "heart": [
           "vanilla",
-          "dark chocolate",
-          "red fruits"
-        ]
+          "chocolate",
+          "rose",
+          "tonka bean"
+        ],
+        "base": [
+          "ambergris",
+          "moss",
+          "musk"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -4182,6 +5363,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=10",
           "name": "Maison Asrar — shop listing page 10",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/vanilla-rouge-maison-asrar-eau-de-perfum-100-ml",
+          "name": "Maison Asrar — Vanilla Rouge",
           "type": "official",
           "supports": [
             "notes"
@@ -4204,7 +5393,12 @@
         "flat": [
           "amber",
           "vanilla",
-          "lily of the valley"
+          "lily of the valley",
+          "plum",
+          "jasmine",
+          "brown sugar",
+          "caramel",
+          "tonka bean"
         ]
       },
       "noteSource": "official",
@@ -4213,6 +5407,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=11",
           "name": "Maison Asrar — shop listing page 11",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/vanilla-seduction",
+          "name": "Maison Asrar — Vanilla Seduction",
           "type": "official",
           "supports": [
             "notes"
@@ -4235,7 +5437,8 @@
         "flat": [
           "vanilla",
           "butter",
-          "caramel"
+          "caramel",
+          "honey"
         ]
       },
       "noteSource": "official",
@@ -4244,6 +5447,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=11",
           "name": "Maison Asrar — shop listing page 11",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/vanilla-voyage-eau-de-parfum",
+          "name": "Maison Asrar — Vanilla Voyage",
           "type": "official",
           "supports": [
             "notes"
@@ -4328,9 +5539,12 @@
         "heart": [],
         "base": [],
         "flat": [
-          "white tea leaves",
+          "white tea",
           "blackcurrant",
-          "green lemon"
+          "green lemon",
+          "basil",
+          "musk",
+          "moss"
         ]
       },
       "noteSource": "official",
@@ -4339,6 +5553,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=11",
           "name": "Maison Asrar — shop listing page 11",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/vision",
+          "name": "Maison Asrar — Vision",
           "type": "official",
           "supports": [
             "notes"
@@ -4359,9 +5581,14 @@
         "heart": [],
         "base": [],
         "flat": [
-          "lavender",
+          "coconut",
           "pineapple",
-          "coconut"
+          "lavender",
+          "clary sage",
+          "vanilla",
+          "tonka bean",
+          "patchouli",
+          "musk"
         ]
       },
       "noteSource": "official",
@@ -4370,6 +5597,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=11",
           "name": "Maison Asrar — shop listing page 11",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/wadi",
+          "name": "Maison Asrar — Wadi",
           "type": "official",
           "supports": [
             "notes"
@@ -4386,14 +5621,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
           "mango",
-          "milk",
-          "vanilla"
-        ]
+          "pear",
+          "mandarin"
+        ],
+        "heart": [
+          "lily of the valley",
+          "orange blossom",
+          "milk"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "cashmeran"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -4401,6 +5644,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=11",
           "name": "Maison Asrar — shop listing page 11",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/whisper",
+          "name": "Maison Asrar — Whisper",
           "type": "official",
           "supports": [
             "notes"
@@ -4421,9 +5672,11 @@
         "heart": [],
         "base": [],
         "flat": [
+          "orris",
+          "spice",
+          "ambergris",
           "oud",
-          "balsamic",
-          "orris"
+          "balsamic note"
         ]
       },
       "noteSource": "official",
@@ -4432,6 +5685,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=11",
           "name": "Maison Asrar — shop listing page 11",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-wood-intense-eau-de-parfum-80-ml-for-men",
+          "name": "Maison Asrar — Wood Intense",
           "type": "official",
           "supports": [
             "notes"
@@ -4448,14 +5709,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
+        "top": [
+          "clary sage",
+          "bergamot",
+          "spice"
+        ],
+        "heart": [
           "jasmine",
-          "tuberose",
-          "vanilla"
-        ]
+          "orange blossom",
+          "tuberose"
+        ],
+        "base": [
+          "vanilla",
+          "woody notes"
+        ],
+        "flat": []
       },
       "noteSource": "official",
       "discontinued": false,
@@ -4463,6 +5731,14 @@
         {
           "url": "https://maisonasrar.com/collections/all?page=11",
           "name": "Maison Asrar — shop listing page 11",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://maisonasrar.com/products/maison-asrar-zenobia-eau-de-parfum-100-ml-for-women",
+          "name": "Maison Asrar — Zenobia",
           "type": "official",
           "supports": [
             "notes"

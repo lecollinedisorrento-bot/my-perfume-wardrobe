@@ -11,7 +11,7 @@
   ],
   "country": "Kuwait",
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official site (Shopify) perfumes collection lists 15 products; notes taken from each product page's ingredient list (flat, no pyramid). Salt is sold as an all-over/body spray (official All Over Spray collection, 10 items incl. Lychee, Tonka, Magnolia, Honey and gift sets, not added). Concentration only recorded where the product name says Eau de Parfum. Marshoud No.4 page says 'now in a 100 ml Eau de Parfum'. Founding 1925 in Kuwait stated on official homepage; 'produced in France' not verified. Blocked: parfumo.com (403), fragrancenet.com (403), bjdistribuzione.it (empty page). No years, perfumers or families found, left null.",
+  "researchNotes": "Official site (Shopify) perfumes collection lists 15 products; notes taken from each product page's ingredient list (flat, no pyramid). Salt is sold as an all-over/body spray (official All Over Spray collection, 10 items incl. Lychee, Tonka, Magnolia, Honey and gift sets, not added). Concentration only recorded where the product name says Eau de Parfum. Marshoud No.4 page says 'now in a 100 ml Eau de Parfum'. Founding 1925 in Kuwait stated on official homepage; 'produced in France' not verified. Blocked: parfumo.com (403), fragrancenet.com (403), bjdistribuzione.it (empty page). No years, perfumers or families found, left null. Notes pass 2026-11-16: re-read products.json for all 80 items; pages give no top/heart/base, family, perfumer or year, so no pyramids. All in All EDP notes taken from the All In All hair mist page, which the EDP page says is the same fragrance.",
   "fragrances": [
     {
       "name": "Marshoud 4 White",
@@ -549,7 +549,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "raspberry",
+          "patchouli",
+          "musk",
+          "pink pepper"
+        ]
       },
       "noteSource": "official",
       "discontinued": false,
@@ -560,6 +565,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://www.atyabalmarshoud.com/collections/hair-mists/products/all-in-all",
+          "name": "Atyab Al Marshoud — All In All Hair Mist",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]

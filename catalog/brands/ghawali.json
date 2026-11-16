@@ -216,8 +216,27 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Ghawali/musical-vibrations-parfum",
+          "name": "Parfumo — Ghawali Musical Vibrations Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community scores are about 5.3/10 for both longevity and sillage, from only a few ratings; no wear test found."
     },
     {
       "name": "Midnight Noise",

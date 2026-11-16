@@ -11,7 +11,7 @@
   ],
   "country": "United Kingdom",
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official site (electimuss.com) collection page lists 35 products; each product page opened. Notes, concentration (all Pure Parfum/Extrait), perfumer and family only where the product page states them explicitly; perfumer left null where only a 'by X' heading appeared. Accords, release year left empty (not stated). Alkout page says no top or heart notes. Sold-out items (Alkout, Patchouli of the Underworld, Jupiter, Aurora, Fortuna, MCX) are not marked discontinued because no page says so. MCX is a sold-out limited edition of Mercurial Cashmere with identical notes. Discovery set and sample boxes excluded. BJ Distribuzione page has no product list. No sites blocked.",
+  "researchNotes": "Official site (electimuss.com) collection page lists 35 products; each product page opened. Notes, concentration (all Pure Parfum/Extrait), perfumer and family only where the product page states them explicitly; perfumer left null where only a 'by X' heading appeared. Accords, release year left empty (not stated). Alkout page says no top or heart notes. Sold-out items (Alkout, Patchouli of the Underworld, Jupiter, Aurora, Fortuna, MCX) are not marked discontinued because no page says so. MCX is a sold-out limited edition of Mercurial Cashmere with identical notes. Discovery set and sample boxes excluded. BJ Distribuzione page has no product list. No sites blocked. Notes pass 2026-11-16: products.json (partial read) states no family, year or concentration; nothing new to add. Performance filled for 2 of 5 missing from search snippets.",
   "fragrances": [
     {
       "name": "Amber Bloom",

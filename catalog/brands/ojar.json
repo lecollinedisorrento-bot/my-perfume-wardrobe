@@ -11,7 +11,7 @@
   ],
   "country": "Oman",
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official site ojarofficial.com collections/all (72 items over 5 pages, mostly 15ml/absolute/set variants) yielded 15 distinct fragrances; notes taken from each fragrance's 100ml product page (mid/dry labels mapped to heart/base). Absolute (perfume oil) variants and gift/discovery sets not listed separately. Concentration given only where the page states it (Musk Colada and Oud Whisper: Extrait de Parfum; Ever Lit: not stated). Perfumer, release year and accords not stated on product pages, left empty; jovoyparis.com listing also opened for cross-check of the name list (17 entries incl. 2 oils). Parfumo returned 403; ojar.com is an unrelated site. Third-party snippets mention 18 fragrances in total, so the list may be incomplete. Epine du Desert family 'Oriental' from the page description.",
+  "researchNotes": "Official site ojarofficial.com collections/all (72 items over 5 pages, mostly 15ml/absolute/set variants) yielded 15 distinct fragrances; notes taken from each fragrance's 100ml product page (mid/dry labels mapped to heart/base). Absolute (perfume oil) variants and gift/discovery sets not listed separately. Concentration given only where the page states it (Musk Colada and Oud Whisper: Extrait de Parfum; Ever Lit: not stated). Perfumer, release year and accords not stated on product pages, left empty; jovoyparis.com listing also opened for cross-check of the name list (17 entries incl. 2 oils). Parfumo returned 403; ojar.com is an unrelated site. Third-party snippets mention 18 fragrances in total, so the list may be incomplete. Epine du Desert family 'Oriental' from the page description. Notes pass 2026-11-16: products.json confirms Ever Lit is sold as Extrait de Parfum 100ml; no family or release year stated. Performance filled for 7 missing from retailer/search snippets.",
   "fragrances": [
     {
       "name": "Ciel d'Orage",
@@ -265,7 +265,7 @@
     {
       "name": "Ever Lit",
       "collection": null,
-      "concentration": null,
+      "concentration": "Extrait de Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": null,
@@ -297,6 +297,14 @@
           "type": "official",
           "supports": [
             "notes"
+          ]
+        },
+        {
+          "url": "https://www.ojarofficial.com/products/ever-lit",
+          "name": "Ojar — Ever Lit",
+          "type": "official",
+          "supports": [
+            "concentration"
           ]
         }
       ]

@@ -11,7 +11,7 @@
   ],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official shop (olibanum.com/collections/all, 47 items) lists 19 single fragrances with product pages. Pages give no concentration, pyramid, family, perfumer or year; flat notes are the raw materials named in each official description (not a formal pyramid). Excluded: discovery/composition/collection/woody/floral/fresh sets, resins, tote bag, and ~20 items with opaque codes (OMAMS, OMCAS, ... OMYUS; priced 0,00 EUR, undescribed). Distributor page not fetched. Brand country not stated on pages read.",
+  "researchNotes": "Official shop (olibanum.com/collections/all, 47 items) lists 19 single fragrances with product pages. Pages give no concentration, pyramid, family, perfumer or year; flat notes are the raw materials named in each official description (not a formal pyramid). Excluded: discovery/composition/collection/woody/floral/fresh sets, resins, tote bag, and ~20 items with opaque codes (OMAMS, OMCAS, ... OMYUS; priced 0,00 EUR, undescribed). Distributor page not fetched. Brand country not stated on pages read. Notes pass 2026-11-16: re-read products.json (47 items); descriptions name raw materials only, with no pyramid, concentration, family, perfumer or year, so nothing changed. No further single fragrances found.",
   "fragrances": [
     {
       "name": "Ambrette",

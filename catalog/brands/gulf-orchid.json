@@ -16,7 +16,7 @@
   ],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "No official Gulf Orchid website found via search; all data is reported (retailers/databases). BJ Distribuzione pages returned empty content. Cocktail Collection: seven names taken from Scent Advice (2025 cocktail-inspired set); retailer Arabic Parfums labels them Cocktail Collection. Musk Collection is labelled \"Gulf Orchid\" by retailers (Arabic Parfums, FilledWithBarakah), so it belongs to Gulf Orchid; only partial member list verified. Old Fashioned notes differ between Arabic Parfums (used) and Scent Advice (cherry, ginger, rum, clove...). Scent Advice lists notes in three unlabelled groups so those are stored flat. Pomegranate/Blueberry/Cotton Candy have thin sourcing (no notes). The wider Gulf Orchid range (dozens of other products) not covered; Mango Ice/Mango Heaven not confirmed as Cocktail Collection. Editorial review: Blueberry and Pomegranate removed (only an unrelated shop page or a social-media post supported them).",
+  "researchNotes": "No official Gulf Orchid website found via search; all data is reported (retailers/databases). BJ Distribuzione pages returned empty content. Cocktail Collection: seven names taken from Scent Advice (2025 cocktail-inspired set); retailer Arabic Parfums labels them Cocktail Collection. Musk Collection is labelled \"Gulf Orchid\" by retailers (Arabic Parfums, FilledWithBarakah), so it belongs to Gulf Orchid; only partial member list verified. Old Fashioned notes differ between Arabic Parfums (used) and Scent Advice (cherry, ginger, rum, clove...). Scent Advice lists notes in three unlabelled groups so those are stored flat. Pomegranate/Blueberry/Cotton Candy have thin sourcing (no notes). The wider Gulf Orchid range (dozens of other products) not covered; Mango Ice/Mango Heaven not confirmed as Cocktail Collection. Editorial review: Blueberry and Pomegranate removed (only an unrelated shop page or a social-media post supported them). Notes pass 2026-11-16: Tahiti Colada pyramid from Orient Fragance page; Cotton Candy pyramid and EDP from Vivir page; the other four cocktail fragrances stay flat (Scent Advice groups unlabelled; Just My Look text truncated, Arabic Parfums/Orient Fragance guessed pages 404).",
   "fragrances": [
     {
       "collection": "Cocktail Collection",
@@ -356,21 +356,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "liquor",
+        "top": [
+          "tropical liqueur",
           "aquatic notes",
           "coconut",
-          "pineapple",
+          "pineapple"
+        ],
+        "heart": [
           "tuberose",
-          "monoi",
-          "creamy notes",
-          "sandalwood",
+          "coconut",
+          "monoi"
+        ],
+        "base": [
+          "musk",
           "vanilla",
-          "musk"
-        ]
+          "sandalwood"
+        ],
+        "flat": []
       },
       "noteSource": "reported",
       "discontinued": false,
@@ -390,10 +392,20 @@
           "name": "Orient Fragrance — Tahiti Colada EDP 100ml",
           "type": "retailer",
           "supports": [
-            "concentration"
+            "concentration",
+            "notes",
+            "usage"
           ]
         }
-      ]
+      ],
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Orient Fragance listing: perfect for spring and summer, \"moderate duration\" with no hour figure, so no levels set."
     },
     {
       "collection": "Musk Collection",
@@ -551,18 +563,35 @@
     },
     {
       "collection": "Musk Collection",
-      "concentration": null,
+      "concentration": "Eau de Parfum",
       "releaseYear": 2025,
       "perfumer": null,
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "cotton candy",
+          "lily of the valley",
+          "neroli",
+          "rose"
+        ],
+        "heart": [
+          "musk",
+          "orange blossom",
+          "rose",
+          "violet",
+          "marshmallow"
+        ],
+        "base": [
+          "musk",
+          "powdery notes",
+          "milk",
+          "amber",
+          "caramel"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "name": "Cotton Candy",
       "sources": [
@@ -571,10 +600,24 @@
           "name": "Vivir — The Musk Collection Cotton Candy",
           "type": "publication",
           "supports": [
+            "concentration",
+            "notes",
+            "performance",
             "year"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir listing: 4/5 longevity (\"6-8 hours\"), sillage 3/5 moderate."
     }
   ]
 }

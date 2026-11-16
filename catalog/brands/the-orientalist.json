@@ -11,7 +11,7 @@
   ],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official site lists eight perfumes (also a Discovery Set of samples, excluded as non-perfume). Notes come from each official product page; no year, perfumer or accords stated. Concentration 'Parfum' from official pages (Taif Bloom's from Amyris Essenze). Brand country left null: official site says 'Arabic Scents' but states no origin. Crystal Bahar family taken from the official page's own wording ('contemporary aquatic fougère'). fragrancenet.com and parfumo.com returned 403.",
+  "researchNotes": "Official site lists eight perfumes (also a Discovery Set of samples, excluded as non-perfume). Notes come from each official product page; no year, perfumer or accords stated. Concentration 'Parfum' from official pages (Taif Bloom's from Amyris Essenze). Brand country left null: official site says 'Arabic Scents' but states no origin. Crystal Bahar family taken from the official page's own wording ('contemporary aquatic fougère'). fragrancenet.com and parfumo.com returned 403. Notes pass 2026-11-16: site has no products.json (404); nothing new fetched. No performance data found for the 3 missing.",
   "fragrances": [
     {
       "name": "Golden Kunafa",
