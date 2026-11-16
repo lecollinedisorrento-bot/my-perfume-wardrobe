@@ -432,8 +432,12 @@
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/must/composition", "name": "Olfastory — Must composition", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        { "url": "https://www.olfastory.com/en/perfume/must/composition", "name": "Olfastory — Must composition", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Cartier Must De Cartier", "type": "database", "supports": ["performance"] }
+      ],
+      "performance": { "longevity": 4, "sillage": 3, "projection": null, "basis": "database" },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3.5/5",
+      "usage": { "seasons": [], "times": [] }
     },
     {
       "name": "La Panthère",
@@ -447,8 +451,12 @@
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/la-panthere/composition", "name": "Olfastory — La Panthère Eau de Parfum composition", "type": "database", "supports": ["notes", "perfumer", "family", "concentration"] }
-      ]
+        { "url": "https://www.olfastory.com/en/perfume/la-panthere/composition", "name": "Olfastory — La Panthère Eau de Parfum composition", "type": "database", "supports": ["notes", "perfumer", "family", "concentration"] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Cartier La Panthere", "type": "database", "supports": ["performance"] }
+      ],
+      "performance": { "longevity": 4, "sillage": 4, "projection": null, "basis": "database" },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4.5/5, sillage 4/5",
+      "usage": { "seasons": [], "times": [] }
     }
   ]
 }
