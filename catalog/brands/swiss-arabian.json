@@ -248,12 +248,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "toffee",
+          "caramel",
+          "vanilla"
+        ],
+        "heart": [
+          "vanilla",
+          "amber",
+          "tonka bean",
+          "musk"
+        ],
+        "base": [
+          "vanilla",
+          "amber",
+          "sandalwood",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -261,8 +275,28 @@
           "name": "Shaghaf Vanilla Toffee",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Swiss Arabian Shaghaf Vanilla Toffee",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Shaghaf Oud Azraq CPO",

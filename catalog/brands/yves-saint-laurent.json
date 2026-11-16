@@ -158,12 +158,27 @@
         "woody"
       ],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "aldehyde",
+          "honeysuckle",
+          "peach",
+          "lemon"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "magnolia",
+          "lily of the valley"
+        ],
+        "base": [
+          "oakmoss",
+          "sandalwood",
+          "tonka bean",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -190,6 +205,14 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Yves Saint Laurent Rive Gauche",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
         }
       ],
       "performance": {
@@ -213,12 +236,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "blackcurrant",
+          "pear"
+        ],
+        "heart": [
+          "freesia",
+          "peony",
+          "rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -228,8 +265,28 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Yves Saint Laurent Parisienne",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5"
     },
     {
       "name": "Libre Eau de Parfum",
