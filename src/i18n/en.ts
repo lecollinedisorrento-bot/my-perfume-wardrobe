@@ -310,6 +310,7 @@ export const en = {
   'perf.basis.retailer': 'According to retailers',
   'perf.basis.reviews': 'According to reviews',
   'perf.basis.search': 'From search results',
+  'perf.basis.database': 'From a fragrance database',
   'profile.catalogFound': 'The catalogue has data for this perfume (notes, longevity, seasons), with the sources it read.',
   'profile.catalogUpdate': 'Update from the catalogue',
   'profile.catalogFill': 'Fill from the catalogue',

@@ -302,6 +302,7 @@ export const it: Record<MessageKey, string> = {
   'perf.basis.retailer': 'Secondo i rivenditori',
   'perf.basis.reviews': 'Secondo le recensioni',
   'perf.basis.search': 'Da risultati di ricerca',
+  'perf.basis.database': 'Da un database di profumi',
   'profile.catalogFound': 'Il catalogo ha dati per questo profumo (note, durata, stagioni), con le fonti consultate.',
   'profile.catalogUpdate': 'Aggiorna dal catalogo',
   'profile.catalogFill': 'Compila dal catalogo',

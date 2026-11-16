@@ -22,7 +22,7 @@ export interface CatalogItem {
   s: { u: string; n: string; t: 'official' | 'retailer' | 'database' | 'publication' | 'user'; f: string[] }[];
   r: string | null; // retrieved date
   /** Performance tendency 1–5 (longevity, sillage, projection), its basis and a short evidence line. */
-  pf?: { l: number | null; s: number | null; p: number | null; b: 'official' | 'retailer' | 'reviews' | 'search'; e: string | null };
+  pf?: { l: number | null; s: number | null; p: number | null; b: 'official' | 'retailer' | 'reviews' | 'search' | 'database'; e: string | null };
   /** When it is typically worn, as stated by its sources. */
   u?: { s: string[]; t: string[] };
   /** Cut-out bottle photo in /catalog/img/ and the page it was taken from. */

@@ -11,7 +11,7 @@ const FACTS = new Set(['notes', 'accords', 'family', 'year', 'perfumer', 'concen
 const LEVEL = (x) => (Number.isInteger(x) && x >= 1 && x <= 5 ? x : null);
 const SEASONS = new Set(['spring', 'summer', 'autumn', 'winter']);
 const TIMES = new Set(['morning', 'afternoon', 'evening', 'night']);
-const BASES = new Set(['official', 'retailer', 'reviews', 'search']);
+const BASES = new Set(['official', 'retailer', 'reviews', 'search', 'database']);
 
 const errors = [];
 const warnings = [];
