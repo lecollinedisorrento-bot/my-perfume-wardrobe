@@ -44,8 +44,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain Amber Oud (Gold Edition)",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Green Dubai",
@@ -203,12 +222,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "saffron"
+        ],
+        "heart": [
+          "oud",
+          "amber",
+          "rose",
+          "agarwood"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "musk",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -216,8 +249,28 @@
           "name": "Amber Oud Rouge",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain Amber Oud Rouge",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Detour Noir",
@@ -228,12 +281,28 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "black pepper",
+          "pink pepper",
+          "lemon"
+        ],
+        "heart": [
+          "iris",
+          "violet",
+          "rose",
+          "geranium",
+          "jasmine"
+        ],
+        "base": [
+          "oud",
+          "vetiver",
+          "musk",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -241,8 +310,28 @@
           "name": "Detour Noir",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain Detour Noir Unisex",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Amber Oud Tobacco Edition",
@@ -253,12 +342,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "cardamom"
+        ],
+        "heart": [
+          "oud",
+          "tobacco leaf",
+          "amber",
+          "cinnamon"
+        ],
+        "base": [
+          "oud",
+          "amber",
+          "sandalwood",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -266,8 +369,28 @@
           "name": "Amber Oud Tobacco Edition",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain Amber Oud Tobacco Edition",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Amber Oud Gold Edition 60ml",
@@ -328,12 +451,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "saffron",
+          "cardamom",
+          "black pepper"
+        ],
+        "heart": [
+          "oud",
+          "amber",
+          "rose",
+          "incense"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "ambroxan"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -341,8 +477,28 @@
           "name": "Amber Oud Dubai Night",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain Amber Oud Dubai Night Edition",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 5,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 5/5, sillage 5/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Amber Gold 999.9 Dubai Edition",
@@ -378,12 +534,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "lemon",
+          "pink pepper"
+        ],
+        "heart": [
+          "amber",
+          "sandalwood",
+          "vanilla",
+          "musk"
+        ],
+        "base": [
+          "oud",
+          "cedarwood",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -391,8 +560,28 @@
           "name": "L'Aventure Gold",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain L'Aventure Gold",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "L'Aventure Intense",
@@ -428,12 +617,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "mandarin"
+        ],
+        "heart": [
+          "rose",
+          "peony",
+          "geranium",
+          "iris"
+        ],
+        "base": [
+          "cedarwood",
+          "musk",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -441,8 +643,28 @@
           "name": "L'Aventure Rose",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain L'Aventure Rose",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "L'Aventure Blanche",
@@ -453,12 +675,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "black currant",
+          "lemon"
+        ],
+        "heart": [
+          "jasmine",
+          "lavender"
+        ],
+        "base": [
+          "sandalwood",
+          "orris"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -466,6 +697,14 @@
           "name": "L'Aventure Blanche",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain Laventure Blanche",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
         }
       ]
     },
@@ -553,12 +792,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "pink pepper"
+        ],
+        "heart": [
+          "iris",
+          "violet",
+          "ambroxan",
+          "cedarwood"
+        ],
+        "base": [
+          "oud",
+          "amber",
+          "musk",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -566,8 +819,28 @@
           "name": "Amber Oud Ultra Violet",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain Amber Oud Ultra Violet",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Bon Cherie",
@@ -678,12 +951,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "lemon"
+        ],
+        "heart": [
+          "geranium",
+          "jasmine",
+          "rose",
+          "iris"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "cedarwood",
+          "vetiver"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -691,8 +978,28 @@
           "name": "Detour Eco",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain Detour Eco",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Tanasuk",
@@ -703,12 +1010,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "lemon",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose",
+          "geranium",
+          "iris",
+          "violet"
+        ],
+        "base": [
+          "cedarwood",
+          "amber",
+          "musk",
+          "vetiver"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -716,8 +1037,28 @@
           "name": "Tanasuk",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Al Haramain Tanasuk Unisex",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     }
   ]
 }

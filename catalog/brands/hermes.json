@@ -360,12 +360,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "miracle berry",
+          "bergamot"
+        ],
+        "heart": [
+          "white ginger lily"
+        ],
+        "base": [
+          "patchouli",
+          "akigalawood",
+          "oak"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -374,6 +383,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Hermès Barénia",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -682,12 +699,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "ginger",
+          "bitter orange",
+          "bergamot"
+        ],
+        "heart": [
+          "tuberose",
+          "orange blossom",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -704,6 +732,14 @@
           "type": "publication",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Hermès Twilly Dhermes",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -728,12 +764,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "green mango"
+        ],
+        "heart": [
+          "lotus",
+          "incense",
+          "calamus"
+        ],
+        "base": [
+          "sycamore wood"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -759,6 +803,14 @@
           "type": "publication",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Hermès Un Jardin Sur Le Nil",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -838,12 +890,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "black tea"
+        ],
+        "heart": [
+          "incense"
+        ],
+        "base": [
+          "tonka bean"
+        ],
         "flat": []
       },
-      "noteSource": "none",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -869,6 +927,14 @@
           "supports": [
             "performance",
             "usage"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Hermès L'Ombre Des Merveilles",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],

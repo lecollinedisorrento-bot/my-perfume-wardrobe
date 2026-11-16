@@ -15,30 +15,16 @@
       "perfumer": null,
       "family": "Amber Gourmand",
       "accords": [],
-      "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "petal",
-          "vanilla",
-          "musk"
-        ]
-      },
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["petal", "vanilla", "musk"] },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        {
-          "url": "https://store.billieeilish.com/products/eilish-eau-de-parfum",
-          "name": "Billie Eilish Store — Eilish",
-          "type": "official",
-          "supports": [
-            "notes",
-            "concentration",
-            "family"
-          ]
-        }
-      ]
+        { "url": "https://store.billieeilish.com/products/eilish-eau-de-parfum", "name": "Billie Eilish Store — Eilish", "type": "official", "supports": ["notes", "concentration", "family"] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Billie Eilish Eilish", "type": "database", "supports": ["performance"] }
+      ],
+      "performance": { "longevity": 3, "sillage": 2, "projection": null, "basis": "database" },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 2.5/5",
+      "usage": { "seasons": [], "times": [] }
     },
     {
       "name": "Eilish Intense",
@@ -48,30 +34,11 @@
       "perfumer": null,
       "family": "Amber Gourmand",
       "accords": [],
-      "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "vanilla",
-          "amber",
-          "spice",
-          "wood"
-        ]
-      },
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["vanilla", "amber", "spice", "wood"] },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        {
-          "url": "https://store.billieeilish.com/products/eilish-intense-eau-de-parfum",
-          "name": "Billie Eilish Store — Eilish Intense",
-          "type": "official",
-          "supports": [
-            "notes",
-            "concentration",
-            "family"
-          ]
-        }
+        { "url": "https://store.billieeilish.com/products/eilish-intense-eau-de-parfum", "name": "Billie Eilish Store — Eilish Intense", "type": "official", "supports": ["notes", "concentration", "family"] }
       ]
     },
     {
@@ -82,30 +49,16 @@
       "perfumer": null,
       "family": "Woody Floral",
       "accords": [],
-      "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "apple blossom",
-          "poppy",
-          "palo santo"
-        ]
-      },
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["apple blossom", "poppy", "palo santo"] },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        {
-          "url": "https://store.billieeilish.com/products/eilish-no-2-eau-de-parfum",
-          "name": "Billie Eilish Store — Eilish No. 2",
-          "type": "official",
-          "supports": [
-            "notes",
-            "concentration",
-            "family"
-          ]
-        }
-      ]
+        { "url": "https://store.billieeilish.com/products/eilish-no-2-eau-de-parfum", "name": "Billie Eilish Store — Eilish No. 2", "type": "official", "supports": ["notes", "concentration", "family"] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Billie Eilish Eilish No.2", "type": "database", "supports": ["performance"] }
+      ],
+      "performance": { "longevity": 3, "sillage": 2, "projection": null, "basis": "database" },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 2/5",
+      "usage": { "seasons": [], "times": [] }
     },
     {
       "name": "Eilish No. 3",
@@ -115,30 +68,16 @@
       "perfumer": null,
       "family": "Amber Woody",
       "accords": [],
-      "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "pink peppercorn",
-          "fir needle",
-          "amber"
-        ]
-      },
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["pink peppercorn", "fir needle", "amber"] },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        {
-          "url": "https://store.billieeilish.com/products/eilish-no-3-eau-de-parfum",
-          "name": "Billie Eilish Store — Eilish No. 3",
-          "type": "official",
-          "supports": [
-            "notes",
-            "concentration",
-            "family"
-          ]
-        }
-      ]
+        { "url": "https://store.billieeilish.com/products/eilish-no-3-eau-de-parfum", "name": "Billie Eilish Store — Eilish No. 3", "type": "official", "supports": ["notes", "concentration", "family"] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Billie Eilish Eilish No.3", "type": "database", "supports": ["performance"] }
+      ],
+      "performance": { "longevity": 4, "sillage": 3, "projection": null, "basis": "database" },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
+      "usage": { "seasons": [], "times": [] }
     },
     {
       "name": "YOUR TURN",
@@ -148,28 +87,11 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
-        "flat": [
-          "ginger",
-          "peach",
-          "sandalwood"
-        ]
-      },
+      "notes": { "top": [], "heart": [], "base": [], "flat": ["ginger", "peach", "sandalwood"] },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        {
-          "url": "https://store.billieeilish.com/products/your-turn-eau-de-parfum",
-          "name": "Billie Eilish Store — YOUR TURN",
-          "type": "official",
-          "supports": [
-            "notes",
-            "concentration"
-          ]
-        }
+        { "url": "https://store.billieeilish.com/products/your-turn-eau-de-parfum", "name": "Billie Eilish Store — YOUR TURN", "type": "official", "supports": ["notes", "concentration"] }
       ]
     },
     {
@@ -180,33 +102,11 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": {
-        "top": [
-          "pimento berry",
-          "cassis leaf"
-        ],
-        "heart": [
-          "fig",
-          "black tea",
-          "vanilla"
-        ],
-        "base": [
-          "vetiver"
-        ],
-        "flat": []
-      },
+      "notes": { "top": ["pimento berry", "cassis leaf"], "heart": ["fig", "black tea", "vanilla"], "base": ["vetiver"], "flat": [] },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        {
-          "url": "https://store.billieeilish.com/products/your-turn-ii-eau-de-parfum",
-          "name": "Billie Eilish Store — YOUR TURN II",
-          "type": "official",
-          "supports": [
-            "notes",
-            "concentration"
-          ]
-        }
+        { "url": "https://store.billieeilish.com/products/your-turn-ii-eau-de-parfum", "name": "Billie Eilish Store — YOUR TURN II", "type": "official", "supports": ["notes", "concentration"] }
       ]
     }
   ]

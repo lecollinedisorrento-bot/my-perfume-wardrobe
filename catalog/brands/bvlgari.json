@@ -94,8 +94,12 @@
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.lookfantastic.com/p/bvlgari-omnia-crystalline-eau-de-toilette-100ml/14853480/", "name": "LookFantastic — Bvlgari Omnia Crystalline Eau de Toilette", "type": "retailer", "supports": ["notes", "family", "perfumer", "concentration"] }
-      ]
+        { "url": "https://www.lookfantastic.com/p/bvlgari-omnia-crystalline-eau-de-toilette-100ml/14853480/", "name": "LookFantastic — Bvlgari Omnia Crystalline Eau de Toilette", "type": "retailer", "supports": ["notes", "family", "perfumer", "concentration"] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Bvlgari Omnia Crystalline", "type": "database", "supports": ["performance"] }
+      ],
+      "performance": { "longevity": 2, "sillage": 2, "projection": null, "basis": "database" },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": { "seasons": [], "times": [] }
     },
     {
       "name": "Omnia Coral",
@@ -124,8 +128,12 @@
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.osmoz.com/perfumes/bulgari/435/omnia", "name": "Osmoz — Omnia", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        { "url": "https://www.osmoz.com/perfumes/bulgari/435/omnia", "name": "Osmoz — Omnia", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Bvlgari Omnia", "type": "database", "supports": ["performance"] }
+      ],
+      "performance": { "longevity": 4, "sillage": 4, "projection": null, "basis": "database" },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": { "seasons": [], "times": [] }
     },
     {
       "name": "Le Gemme Yasep",
@@ -184,8 +192,12 @@
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.nordstrom.com/s/eau-parfumee-the-vert-eau-de-toilette/8217236", "name": "Nordstrom — Eau Parfumée Thé Vert Eau de Toilette", "type": "retailer", "supports": ["notes", "family", "concentration", "perfumer", "year"] }
-      ]
+        { "url": "https://www.nordstrom.com/s/eau-parfumee-the-vert-eau-de-toilette/8217236", "name": "Nordstrom — Eau Parfumée Thé Vert Eau de Toilette", "type": "retailer", "supports": ["notes", "family", "concentration", "perfumer", "year"] },
+        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Bvlgari Eau Parfumee Au The Vert Unisex", "type": "database", "supports": ["performance"] }
+      ],
+      "performance": { "longevity": 3, "sillage": 2, "projection": null, "basis": "database" },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 2/5",
+      "usage": { "seasons": [], "times": [] }
     }
   ]
 }
