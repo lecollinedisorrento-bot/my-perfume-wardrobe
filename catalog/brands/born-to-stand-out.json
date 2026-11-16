@@ -1,0 +1,1769 @@
+{
+  "brand": "Born to Stand Out",
+  "slug": "born-to-stand-out",
+  "officialSite": "https://borntostandout.com",
+  "distributors": [],
+  "country": null,
+  "retrievedAt": "2026-11-16",
+  "researchNotes": "Read the official Shopify feed (products.json, 84 listings; body_html is empty) and then each perfume product page, where notes (head/heart/base), the perfumer byline and the collection (Eau de Parfum, Extrait Extrême, Eau Intimité) are shown. 40 fragrances kept. Excluded: discovery sets, MTO bundles, coffee (Extrait de Café), sachets, incense, fragrance tags, hand cream and 350ml body products, merch, gift wrapping, and the Korean-language duplicate listing of Drunk Lovers 50ml. Drunk Lovers exists as two different products (Eau de Parfum and Extrait Extrême) and is kept as two entries. Collection pages state strength only as a percentage band (Eau de Parfum 30-40%, Extrait Extrême 55-62%) with no hours of longevity, so no performance data was added. Brand country is not stated (product pages only say made in Korea), so country is null; no Italian distributor found on the official site (stockist page checked). Perfumer names are taken from the page bylines (spelling normalised to accents/capitals; the shop itself varies the spelling of Margaux Le Paih-Guérin) and may carry the shop's own spelling; one stray 'Absolute' list item on Cuvée Skin was dropped.",
+  "fragrances": [
+    {
+      "name": "Angels' Powder",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Anne-Sophie Behaghel",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "nail polish",
+          "pink pepper extra pure",
+          "icing sugar"
+        ],
+        "heart": [
+          "vanilla sugar",
+          "raspberry",
+          "cotton candy"
+        ],
+        "base": [
+          "heliotrope",
+          "white musk",
+          "gaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/angels-powder-test",
+          "name": "BORNTOSTANDOUT - Angels' Powder",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Crème",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "milk",
+          "candle",
+          "ambrette",
+          "iris"
+        ],
+        "heart": [
+          "oud",
+          "leather",
+          "vanilla",
+          "myrrh"
+        ],
+        "base": [
+          "caramel",
+          "sandalwood",
+          "georgywood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/black-creme",
+          "name": "BORNTOSTANDOUT - Black Crème",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Guava",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Suzy Le Helley",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "guava",
+          "cardamom",
+          "mandarin madagascar"
+        ],
+        "heart": [
+          "oud",
+          "geranium madagascar",
+          "peony",
+          "rose"
+        ],
+        "base": [
+          "cypriol",
+          "patchouli madagascar",
+          "ambrostar",
+          "grey amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/black-guava-test",
+          "name": "BORNTOSTANDOUT - Black Guava",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Karak",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Véronique Nyberg & Maxime Exler",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "karak",
+          "cardamom",
+          "coffee"
+        ],
+        "heart": [
+          "black tea",
+          "cypriol essence",
+          "saffron"
+        ],
+        "base": [
+          "amberwood",
+          "tonka bean absolute",
+          "gaiacwood",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/black-karak",
+          "name": "BORNTOSTANDOUT - Black Karak",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Mango",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Violaine Collas",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mango",
+          "orange eo"
+        ],
+        "heart": [
+          "mango lassi",
+          "bourbon vanilla",
+          "tolu resinoid",
+          "sublimolide"
+        ],
+        "base": [
+          "oud",
+          "leather",
+          "sandalwood",
+          "cypriol"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/black-mango",
+          "name": "BORNTOSTANDOUT - Black Mango",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Candy Dust",
+      "collection": null,
+      "concentration": "Eau Intimité",
+      "releaseYear": null,
+      "perfumer": "Julie Massé",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "raspberry",
+          "juicy pear"
+        ],
+        "heart": [
+          "pink dragibus",
+          "milk",
+          "sensual peony"
+        ],
+        "base": [
+          "powdered sugar",
+          "moss",
+          "orcanox",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/candy-dust",
+          "name": "BORNTOSTANDOUT - Candy Dust",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cola Addict",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Philippine Courtière & Florent Di Marino",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cola foam",
+          "lemon peel",
+          "lime peel",
+          "neroli",
+          "ginger",
+          "cinnamon bark"
+        ],
+        "heart": [
+          "cola",
+          "caffeine",
+          "rum",
+          "nutmeg"
+        ],
+        "base": [
+          "cola syrup",
+          "vanilla",
+          "sandalwood",
+          "caramel",
+          "moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/cola-addict",
+          "name": "BORNTOSTANDOUT - Cola Addict",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corn Porn",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Suzy Le Helley",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "steamy air",
+          "sweet corn silk",
+          "wet grain water"
+        ],
+        "heart": [
+          "buttered sweet corn",
+          "salted butter",
+          "corn kernel",
+          "warm milk"
+        ],
+        "base": [
+          "caramelized corn",
+          "musk",
+          "vanilla",
+          "cashmeran",
+          "ambroxide"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/corn-porn-copy",
+          "name": "BORNTOSTANDOUT - Corn Porn",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cuvée Skin",
+      "collection": null,
+      "concentration": "Eau Intimité",
+      "releaseYear": null,
+      "perfumer": "Margaux Le Paih-Guérin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "champagne",
+          "ambrette",
+          "oakmoss absolute"
+        ],
+        "heart": [
+          "vanilla orchid",
+          "tonka bean infusion",
+          "tonka bean",
+          "tonka bean resinoid"
+        ],
+        "base": [
+          "blond woods",
+          "white leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/cuvee-skin",
+          "name": "BORNTOSTANDOUT - Cuvée Skin",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DGAF",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alexandre Freile",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "citrus",
+          "sage",
+          "violet"
+        ],
+        "heart": [
+          "sandalwood",
+          "incense",
+          "pepper",
+          "bulgarian rose"
+        ],
+        "base": [
+          "amber",
+          "black balm",
+          "tonka bean",
+          "cashmeran",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/dgaf",
+          "name": "BORNTOSTANDOUT - DGAF",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dirty Heaven",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Margaux Le Paih-Guérin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine",
+          "neroli"
+        ],
+        "base": [
+          "tonka bean",
+          "saffron",
+          "ambroxan",
+          "vanilla",
+          "white musk",
+          "grey amber",
+          "modern woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/dirty-heaven-test",
+          "name": "BORNTOSTANDOUT - Dirty Heaven",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dirty Milk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Gaël Montero",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "milk",
+          "caramel",
+          "black pepper"
+        ],
+        "heart": [
+          "condensed milk",
+          "cashmeran",
+          "iris",
+          "akigalawood"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/dirty-milk",
+          "name": "BORNTOSTANDOUT - Dirty Milk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dirty Rice",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Olivier Cresp",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "almond"
+        ],
+        "heart": [
+          "basmati rice",
+          "peony",
+          "milk"
+        ],
+        "base": [
+          "sandalwood",
+          "vetiver",
+          "cedarwood",
+          "musk",
+          "cetalox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/dirty-rice",
+          "name": "BORNTOSTANDOUT - Dirty Rice",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drunk Lovers",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Hamid Merati-Kashani",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "citronella",
+          "bergamot",
+          "lemon",
+          "juniperus mexicana",
+          "grapefruit",
+          "red berry"
+        ],
+        "heart": [
+          "brandy",
+          "pepper",
+          "ginger",
+          "clary sage",
+          "cypress"
+        ],
+        "base": [
+          "amber",
+          "virginian cedarwood",
+          "west indian sandalwood",
+          "vanilla planifolia",
+          "sumatra benzoin gum resin",
+          "patchouli",
+          "vetiver",
+          "cardamom",
+          "cinnamon bark",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/drunk-lovers",
+          "name": "BORNTOSTANDOUT - Drunk Lovers",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drunk Lovers",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "red wine",
+          "bergamot",
+          "wine lees",
+          "clary sage"
+        ],
+        "heart": [
+          "brandy",
+          "red ginger",
+          "davana",
+          "jasmine sambac",
+          "peru balsam"
+        ],
+        "base": [
+          "roasted tonka",
+          "akigalawood",
+          "cistus",
+          "leather",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/drunk-lovers-1",
+          "name": "BORNTOSTANDOUT - Drunk Lovers",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drunk Maple",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alex Lee",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper jungle essence",
+          "davana essential oil",
+          "rum"
+        ],
+        "heart": [
+          "coffee",
+          "maple syrup",
+          "soft suede"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "benzoin resinoid",
+          "orcanox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/drunk-maple",
+          "name": "BORNTOSTANDOUT - Drunk Maple",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drunk Saffron",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Honorine Blanc",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "plum",
+          "brandy"
+        ],
+        "heart": [
+          "saffron",
+          "leather",
+          "coffee"
+        ],
+        "base": [
+          "indonesian patchouli",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/drunk-saffron-test",
+          "name": "BORNTOSTANDOUT - Drunk Saffron",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fig Porn",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Florian Gallo",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fig",
+          "pear",
+          "bergamot"
+        ],
+        "heart": [
+          "cedarwood",
+          "peony",
+          "turkish rose"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/fig-porntest",
+          "name": "BORNTOSTANDOUT - Fig Porn",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Filthy Musk",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Margaux Le Paih-Guérin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pineapple",
+          "honey",
+          "animalic musk"
+        ],
+        "heart": [
+          "patchouli essence",
+          "nutmeg essence",
+          "jasmin absolute",
+          "musk"
+        ],
+        "base": [
+          "vanilla",
+          "caramel",
+          "animalic musk",
+          "ambroxan",
+          "grey amber",
+          "tonka absolute",
+          "rhum extract",
+          "civet"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/filthy-musk",
+          "name": "BORNTOSTANDOUT - Filthy Musk",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fugazzi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Quentin Bisch",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "milk",
+          "grapefruit",
+          "incense",
+          "mandarin",
+          "cumin"
+        ],
+        "heart": [
+          "iris",
+          "suede",
+          "vetiver",
+          "gaiac wood",
+          "saffron"
+        ],
+        "base": [
+          "vanilla",
+          "styrax",
+          "ambroxan",
+          "moss",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/fugazzi-by-borntostandout",
+          "name": "BORNTOSTANDOUT - Fugazzi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gold Juice",
+      "collection": null,
+      "concentration": "Eau Intimité",
+      "releaseYear": null,
+      "perfumer": "Margaux Le Paih-Guérin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rhubarb",
+          "durian",
+          "mango"
+        ],
+        "heart": [
+          "ambroxan",
+          "osmanthus absolute",
+          "white flower",
+          "solar notes"
+        ],
+        "base": [
+          "caramel",
+          "almond",
+          "gaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/gold-juice",
+          "name": "BORNTOSTANDOUT - Gold Juice",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Indecent Cherry",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Florian Gallo",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sweet cherry",
+          "almond",
+          "saffron"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "sour cherry",
+          "strawberry",
+          "mimosa"
+        ],
+        "base": [
+          "vanilla",
+          "amber",
+          "indonesian patchouli",
+          "musk",
+          "benzoin"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/indecent-cherry",
+          "name": "BORNTOSTANDOUT - Indecent Cherry",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L'Animal",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Cécile Matton",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pineapple",
+          "honey",
+          "animalic musk"
+        ],
+        "heart": [
+          "sensual suede",
+          "patchouli",
+          "nutmeg",
+          "jasmin absolute",
+          "animalic musk"
+        ],
+        "base": [
+          "vanilla",
+          "caramel",
+          "animalic musk",
+          "ambroxan",
+          "grey amber",
+          "tonka bean",
+          "rum",
+          "civet"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/lanimal",
+          "name": "BORNTOSTANDOUT - L'Animal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mad Honey",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alex Lee",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pink pepper",
+          "rum"
+        ],
+        "heart": [
+          "honey",
+          "damascena rose"
+        ],
+        "base": [
+          "bourbon vanilla",
+          "tonka bean",
+          "patchouli",
+          "benzoin resinoid",
+          "orcanox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/mad-honey-x-rated",
+          "name": "BORNTOSTANDOUT - Mad Honey",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mary Jane",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Camille Chemardin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "hemp essence",
+          "cannabis",
+          "mint",
+          "frozen mint",
+          "rhubarb",
+          "grapefruit"
+        ],
+        "heart": [
+          "sage essence",
+          "passion fruit",
+          "elemi essence"
+        ],
+        "base": [
+          "caramel",
+          "pine essence",
+          "electric woods",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/mary-jane",
+          "name": "BORNTOSTANDOUT - Mary Jane",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Melón Malo",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "melon",
+          "candied ginger",
+          "cinnamon bark",
+          "mandarin"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "rose petals",
+          "red berry",
+          "patchouli"
+        ],
+        "base": [
+          "oud",
+          "cistus",
+          "georgywood",
+          "leather",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/melon-malo",
+          "name": "BORNTOSTANDOUT - Melón Malo",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mud",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Nathalie Lorson",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "almond",
+          "milk"
+        ],
+        "heart": [
+          "chocolate",
+          "turkish rose",
+          "plum"
+        ],
+        "base": [
+          "amber",
+          "elemi essence",
+          "sandalwood",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/mud",
+          "name": "BORNTOSTANDOUT - Mud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musc X",
+      "collection": null,
+      "concentration": "Eau Intimité",
+      "releaseYear": null,
+      "perfumer": "Alex Lee",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "olibanum resinoid lmr"
+        ],
+        "heart": [
+          "ciste absolute",
+          "cotton candy"
+        ],
+        "base": [
+          "ambroxan",
+          "amberxtreme",
+          "sinfonide",
+          "musk",
+          "benzoin resinoid lmr",
+          "ambrette absolute lmr"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/musc-x",
+          "name": "BORNTOSTANDOUT - Musc X",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Naked Laundry",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Maxime Exler",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin essential oil",
+          "aldehyde",
+          "ambrinol",
+          "skatole"
+        ],
+        "heart": [
+          "mimosa absolute",
+          "caramel",
+          "honey",
+          "zafryl"
+        ],
+        "base": [
+          "tonka bean absolute",
+          "tonkitone",
+          "sensual milk",
+          "ambery woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/naked-laundry",
+          "name": "BORNTOSTANDOUT - Naked Laundry",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nanatopia",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Alex Lee",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "banana",
+          "nutmeg",
+          "cinnamon",
+          "rum"
+        ],
+        "heart": [
+          "banana bread",
+          "melted caramel"
+        ],
+        "base": [
+          "tonka bean absolute",
+          "cypriol essential oil",
+          "orcanox"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/nanatopia",
+          "name": "BORNTOSTANDOUT - Nanatopia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nuts",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Margaux Le Paih-Guérin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pistachio",
+          "almond",
+          "caramel",
+          "rum",
+          "honey"
+        ],
+        "heart": [
+          "vanilla",
+          "davana essence"
+        ],
+        "base": [
+          "tonka absolute",
+          "tobacco",
+          "gaiac wood",
+          "amyris",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/nuts",
+          "name": "BORNTOSTANDOUT - Nuts",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oud Candy",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Margaux Le Paih-Guérin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "brown sugar",
+          "candy",
+          "nuts",
+          "milk"
+        ],
+        "heart": [
+          "white flower"
+        ],
+        "base": [
+          "oud",
+          "saffron",
+          "black woods",
+          "oakmoss",
+          "vanilla",
+          "caramel",
+          "ambroxan",
+          "sandalwood",
+          "cedarwood",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/oud-candy",
+          "name": "BORNTOSTANDOUT - Oud Candy",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Purple Stain",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "cinnamon bark",
+          "nutmeg",
+          "ginger extract",
+          "mandarin",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "caramel",
+          "peru balsam",
+          "vanilla"
+        ],
+        "base": [
+          "akigalawood",
+          "oud",
+          "patchouli",
+          "cypriol",
+          "ambrofix",
+          "cistus concrete"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/purple-stain",
+          "name": "BORNTOSTANDOUT - Purple Stain",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saint Petal",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange blossom",
+          "cumin",
+          "bergamot",
+          "dust"
+        ],
+        "heart": [
+          "violet leaves",
+          "jasmine sambac",
+          "coffee",
+          "incense",
+          "akigalawood"
+        ],
+        "base": [
+          "amyris",
+          "vetiver",
+          "cistus",
+          "oud",
+          "leather"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/saint-petal-copy",
+          "name": "BORNTOSTANDOUT - Saint Petal",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sin & Pleasure",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Amélie Bourgeois",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "white flower"
+        ],
+        "heart": [
+          "ylang ylang extra",
+          "almond"
+        ],
+        "base": [
+          "caramel",
+          "vanilla",
+          "oud",
+          "leather",
+          "patchouli",
+          "rum",
+          "white musk",
+          "oakmoss",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/sin-pleasure-test",
+          "name": "BORNTOSTANDOUT - Sin & Pleasure",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Smokin' Gun",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Florian Gallo",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "campari",
+          "rum",
+          "bigarade orange",
+          "juniper"
+        ],
+        "heart": [
+          "incense",
+          "leather",
+          "cinnamon",
+          "oak",
+          "peated whisky",
+          "pine"
+        ],
+        "base": [
+          "virginia cedar",
+          "balkan tobacco",
+          "vanilla absolute",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/smokin-gun",
+          "name": "BORNTOSTANDOUT - Smokin' Gun",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sugar Addict",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Anne-Sophie Behaghel",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sugar",
+          "cinnamon essence"
+        ],
+        "heart": [
+          "cocoa",
+          "coffee extract"
+        ],
+        "base": [
+          "tonka bean",
+          "vanilla absolute",
+          "rum",
+          "labdanum absolute",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/sugar-addict",
+          "name": "BORNTOSTANDOUT - Sugar Addict",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wabi-Sabi",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": "Margaux Le Paih-Guérin",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black currant",
+          "jasmine"
+        ],
+        "heart": [
+          "incense",
+          "cypress",
+          "elemi essence",
+          "hinoki wood",
+          "cypress essence"
+        ],
+        "base": [
+          "saffron",
+          "modern woods",
+          "vanilla",
+          "grey amber",
+          "white musk",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/wabi-sabi",
+          "name": "BORNTOSTANDOUT - Wabi-Sabi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warm Air",
+      "collection": null,
+      "concentration": "Eau Intimité",
+      "releaseYear": null,
+      "perfumer": "Véronique Nyberg",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "animalic musk",
+          "geranium essence"
+        ],
+        "heart": [
+          "tonka bean",
+          "roasted caramel",
+          "rhum extract",
+          "davana essence"
+        ],
+        "base": [
+          "vapor",
+          "ambergris",
+          "amber woods",
+          "cashmere woods",
+          "grey amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/warm-air",
+          "name": "BORNTOSTANDOUT - Warm Air",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "À Corps Secret",
+      "collection": null,
+      "concentration": "Extrait Extrême",
+      "releaseYear": null,
+      "perfumer": "Jordi Fernández",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "mandarin italy",
+          "bergamot italy",
+          "ginger",
+          "cinnamon bark",
+          "safraleine"
+        ],
+        "heart": [
+          "orange flower",
+          "jasmine sambac imperial",
+          "mahonial",
+          "perou balsam resinoid",
+          "akigalawood",
+          "praline"
+        ],
+        "base": [
+          "cistus concrete",
+          "cypriol",
+          "patchouli heart",
+          "vanilla",
+          "oud"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://borntostandout.com/products/purple-stain-copy",
+          "name": "BORNTOSTANDOUT - À Corps Secret",
+          "type": "official",
+          "supports": [
+            "notes",
+            "perfumer",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
