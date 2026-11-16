@@ -1542,8 +1542,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://arabicparfums.com/en/products/saada-nabeel",
+          "name": "Arabic Parfums — Sa'ada",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": null,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Arabic Parfums (search snippet, Spanish listing): projection 'media' (medium); also calls longevity excellent without hours, so longevity left null."
     },
     {
       "name": "Aqua di Nabeel",
@@ -1793,8 +1812,27 @@
             "year",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/ma-alaina-eau-de-parfum",
+          "name": "Parfumo — Ma' Alaina",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community ratings (search snippet): longevity about 7.0/10, sillage about 6.5/10; mapped to 4 and 3. Retailer copy mentions good fixation, no figures."
     },
     {
       "name": "Fulad Azm",
@@ -1872,8 +1910,27 @@
             "notes",
             "year"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/ocean-blue-eau-de-parfum-1",
+          "name": "Parfumo — Ocean Blue",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo (search snippet): above-average longevity and projection, one reviewer gives 8/10 for each; mapped to 4 and 4. Thin evidence."
     },
     {
       "name": "Nader Juri",

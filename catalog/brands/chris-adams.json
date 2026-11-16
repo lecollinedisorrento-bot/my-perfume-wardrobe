@@ -11,7 +11,7 @@
   ],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "No official brand website found via search (search results say Nabeel Perfumes Industries, UAE; other sources say Paris or UK; origin unresolved so country is null). Parfumo, Scentverdict, FragranceNet, Desertcart, Ubuy returned 403 and Carrefour UAE 503. Catalogue built from the retailer Shopwice brand listing (58 items, 3 pages): 49 single fragrances recorded; excluded 7 gift sets, and the duplicate listings Pure Red (2nd entry) and Dreamz Pink (Dreamz Woman Pink). All notes are 'reported' from Shopwice product pages; family is the retailer's olfactive/scent-family text. Concentration null for Active Man (page says EDP in title but EDT in technical details). Active Woman Rebellion and Prize D'or pages list identical pyramids (Rebellion page text calls it Prize D'Or), possibly one product listed twice. No launch years or perfumers stated on any page. Shopwice page 'Dolby Man Sport' and 'DX77 Man' are EDT. Retailer pages may carry inconsistencies (e.g. Dreamz Pour Femme lists gender Men). Editorial review: Active Woman Rebellion notes removed — its page text describes Prize D'Or.",
+  "researchNotes": "No official brand website found via search (search results say Nabeel Perfumes Industries, UAE; other sources say Paris or UK; origin unresolved so country is null). Parfumo, Scentverdict, FragranceNet, Desertcart, Ubuy returned 403 and Carrefour UAE 503. Catalogue built from the retailer Shopwice brand listing (58 items, 3 pages): 49 single fragrances recorded; excluded 7 gift sets, and the duplicate listings Pure Red (2nd entry) and Dreamz Pink (Dreamz Woman Pink). All notes are 'reported' from Shopwice product pages; family is the retailer's olfactive/scent-family text. Concentration null for Active Man (page says EDP in title but EDT in technical details). Active Woman Rebellion and Prize D'or pages list identical pyramids (Rebellion page text calls it Prize D'Or), possibly one product listed twice. No launch years or perfumers stated on any page. Shopwice page 'Dolby Man Sport' and 'DX77 Man' are EDT. Retailer pages may carry inconsistencies (e.g. Dreamz Pour Femme lists gender Men). Editorial review: Active Woman Rebellion notes removed — its page text describes Prize D'Or. Performance pass 2026-11-16: 4 of 45 missing entries filled from Scent Verdict search-result summaries (page itself returns 403); no source states seasons or times.",
   "fragrances": [
     {
       "name": "Active Man",
@@ -56,8 +56,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/chris-adams-active-man-eau-de-parfum",
+          "name": "Scent Verdict — Chris Adams Active Man EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict profile (via search): longevity moderate (4-6h), projection moderate; notes weak performance is often criticised. UAE retailer listing field: scent duration 4 hours. Entry has no concentration here; the page is the EDP."
     },
     {
       "name": "Active Man Intense",
@@ -119,14 +138,27 @@
           "supports": [
             "usage"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/chris-adams-active-man-intense-eau-de-parfum",
+          "name": "Scent Verdict — Chris Adams Active Man Intense EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
       ],
       "usage": {
         "seasons": [],
-        "times": [
-          "evening"
-        ]
-      }
+        "times": []
+      },
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "performanceEvidence": "Scent Verdict profile (via search): longevity moderate (4-6h), projection moderate."
     },
     {
       "name": "Active Man Cool",
@@ -950,8 +982,27 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/chris-adams-volante-pour-homme-eau-de-parfum",
+          "name": "Scent Verdict — Chris Adams Volante Pour Homme EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict profile (via search): longevity moderate (4-6h), projection moderate. Listed there as Volante Pour Homme."
     },
     {
       "name": "Rover",
@@ -1178,8 +1229,27 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/chris-adams-bronze-corduroy-pour-homme-eau-de-parfum",
+          "name": "Scent Verdict — Chris Adams Bronze Corduroy Pour Homme EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict profile (via search): longevity moderate (4-6h), projection moderate; reviewer says sillage is noticeable and too strong for close quarters. Listed there as Bronze Corduroy."
     },
     {
       "name": "DX77 Man",

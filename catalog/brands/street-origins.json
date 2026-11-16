@@ -1455,8 +1455,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-ibiza-trap-eau-de-parfum",
+          "name": "ScentVerdict — Street Origins Ibiza Trap EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict summary: longevity long (6-10 h), moderate projection, strong intensity; Parfumo snippet lists above-average longevity."
     },
     {
       "name": "Cape Town Dream",
@@ -1495,8 +1514,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-cape-town-dream-eau-de-parfum",
+          "name": "ScentVerdict — Street Origins Cape Town Dream EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict summary for the EDP: longevity long (6-10 h), moderate projection, strong intensity."
     }
   ]
 }

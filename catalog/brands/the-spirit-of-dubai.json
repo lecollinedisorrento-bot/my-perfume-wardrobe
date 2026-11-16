@@ -420,8 +420,27 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/the-spirit-of-dubai/bahar",
+          "name": "The Scent Base — Bahar community wear report",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: about 6-10 h (score 4.2); Maxaroma claims 10+ h; no usable sillage figure found."
     },
     {
       "name": "Dubai Rimal",
@@ -472,8 +491,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/rimal",
+          "name": "Scents Angel — Rimal",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/the-spirit-of-dubai-rimal-eau-de-parfum/",
+          "name": "Beautinow — Rimal Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel: 8-10 h, strong sillage but not overpowering; Beautinow: moderate-to-heavy sillage, strong projection; Maxaroma claims 10+ h."
     },
     {
       "name": "Dubai Turath",
@@ -552,8 +598,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://zaoud.it/products/spirit-of-dubai-turath-edp",
+          "name": "Zaoud — Turath EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/spirit-of-dubai-tarath",
+          "name": "Vivir — Spirit of Dubai Turath",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Zaoud test and other sellers cite 10-12+ h on skin; Vivir community scores about 5.0 longevity and 4.0 sillage out of 5; Parfinity's under-4-h entry looks like an outlier."
     },
     {
       "name": "Dubai Abraj",
@@ -612,8 +685,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/the-spirit-of-dubai-abraj-eau-de-parfum/",
+          "name": "Beautinow — Abraj Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/the-spirit-of-dubai-abraj",
+          "name": "Scents Angel — Abraj",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: 8-10 h, moderate sillage; Scents Angel: 10-12 h, strong sillage; sources disagree on sillage so it is left blank."
     },
     {
       "name": "Dubai Meydan",
@@ -676,8 +776,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://fragplace.com/en/fragrances/73224/the-spirit-of-dubai/meydan",
+          "name": "Fragplace — Meydan FAQ",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/the-spirit-of-dubai-meydan-eau-de-parfum",
+          "name": "Beautinow — Meydan Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Fragplace: reviews put it at 10+ h with powerful sillage; Beautinow: moderate-to-heavy sillage; Scents Angel 8-12 h, Maxaroma claims 12+ h."
     },
     {
       "name": "Dubai Fakhama",
@@ -739,8 +866,27 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/the-spirit-of-dubai-fakhama-eau-de-parfum",
+          "name": "ScentVerdict — The Spirit of Dubai Fakhama EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict and a Parfinity reviewer describe strong sillage; a listing says moderate-to-heavy; longevity claims range from 5-6 h to 12+ h so it is left blank."
     },
     {
       "name": "Dubai Majalis",
@@ -807,8 +953,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/the-spirit-of-dubai-majalis-eau-de-parfum/",
+          "name": "Beautinow — Majalis Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/the-spirit-of-dubai/majalis",
+          "name": "The Scent Base — Majalis",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow: 8-10 h and sillage 8/10; The Scent Base: 8+ h, projection rated monster; Scents Angel claims 10+ h."
     },
     {
       "name": "Dubai Sama",
@@ -871,8 +1044,27 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.maxaroma.com/fragrance/niche-fragrances/the-spirit-of-dubai-sama/pid/40172/2",
+          "name": "Maxaroma — The Spirit of Dubai Sama",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Maxaroma lists longevity 12-20+ h (seller claim); no sillage figure found."
     },
     {
       "name": "Hadhara",
@@ -1365,8 +1557,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/the-spirit-of-dubai/aamal",
+          "name": "The Scent Base — Aamal",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/the-spirit-of-dubai-aamal-eau-de-parfum",
+          "name": "Beautinow — Aamal Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: 8+ h, projection monster; Beautinow: 8-10 h, heavy sillage; Scents Angel: strong sillage."
     },
     {
       "name": "Abjar",
@@ -1804,8 +2023,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/the-spirit-of-dubai-durra-ambre-eau-de-parfum",
+          "name": "ScentVerdict — The Spirit of Dubai Durra Ambre EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/the-spirit-of-dubai-durra-ambre-eau-de-parfum",
+          "name": "Scents Angel — Durra Ambre",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: longevity 6-10 h, strong projection; Scents Angel: 8-12 h; The Scent Base: 8+ h, monster projection."
     },
     {
       "name": "Baz Cuir",
@@ -1865,8 +2111,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/the-spirit-of-dubai/baz-cuir",
+          "name": "The Scent Base — Baz Cuir",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfuum.com/products/the-spirit-of-dubai-baz-cuir",
+          "name": "Perfuum — Baz Cuir",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: about 6-10 h; sellers claim 10+ to 12+ h; the more conservative figure is used."
     },
     {
       "name": "Abjar Bois",
@@ -1929,8 +2202,35 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://thescentbase.com/perfumes/the-spirit-of-dubai/abjar-bois",
+          "name": "The Scent Base — Abjar Bois",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.cosmeticsonline.net.au/products/the-spirit-of-dubai-abjar-bois-unisex-eau-de-parfum-90ml",
+          "name": "Cosmetics Online — Abjar Bois EDP 90ml",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Base: about 6-10 h (no reviews yet); a seller claims 10-14 h; retailer listings describe strong, commanding sillage."
     },
     {
       "name": "Diwan Gourmand",

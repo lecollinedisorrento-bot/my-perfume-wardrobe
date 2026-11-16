@@ -193,8 +193,27 @@
             "family",
             "concentration"
           ]
+        },
+        {
+          "url": "https://parfumo.com/Perfumes/alex-plus/golpar",
+          "name": "Parfumo — Golpar+",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo (search snippet): about 8.0/10 longevity and 7.5/10 sillage from only a few ratings; mapped to 4 and 4. Thin evidence."
     }
   ]
 }

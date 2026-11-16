@@ -128,8 +128,27 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Electimuss/astrum-nova",
+          "name": "Parfumo — Astrum Nova",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community ratings (search snippet): longevity 8.0/10 (99 ratings), sillage 7.8/10; reviewers report 7-8 h, Scent Base 6-10 h. Mapped to 4 and 4. Ratings may cover the EDP as well as the parfum."
     },
     {
       "name": "Imperium",
@@ -429,8 +448,27 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/electimuss-reverie-haze-eau-de-parfum",
+          "name": "Scent Verdict — Electimuss Reverie Haze",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 4,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict (search snippet): longevity 'long (6-10 h)', projection strong. Page is for the Eau de Parfum listing."
     },
     {
       "name": "Caspian Cherry",

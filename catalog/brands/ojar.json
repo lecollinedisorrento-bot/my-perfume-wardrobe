@@ -118,8 +118,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/ojar-eagle-eyed-stranger-edp",
+          "name": "Venba Fragrance — Ojar Eagle Eyed Stranger EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba listing (search snippet): longevity about 7-9 h, sillage moderate to strong; a Parfumo commenter reports up to 12 h."
     },
     {
       "name": "Encens Cuivre",
@@ -157,8 +176,33 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/encens-cuivre",
+          "name": "Scents Angel — Encens Cuivre",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scents Angel (search snippet): about 8-10 h on skin, moderate not overpowering sillage, best in cooler months and evenings; Maxaroma claims 12+ h."
     },
     {
       "name": "Epine du Desert",
@@ -196,8 +240,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/ojar-epine-du-desert-edp",
+          "name": "Venba Fragrance — Ojar Epine du Desert EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba listing (search snippet): longevity strong, about 7-9 h, sillage moderate to strong; Scents Angel says 8-10 h."
     },
     {
       "name": "Ever Lit",
@@ -342,8 +405,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/ojar/infusion-velours-eau-de-parfum",
+          "name": "Parfumo — Infusion Velours Eau de Parfum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo (search snippet): about 8.5/10 for longevity and sillage from 559 ratings; Venba lists 7-9 h, moderate to strong sillage. Mapped to 4 and 4."
     },
     {
       "name": "Kashmir Print",
@@ -449,8 +531,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/ojar/musk-colada",
+          "name": "Parfumo — Musk Colada",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo (search snippet): Extrait rated about 8.0/10 longevity and 7.3/10 sillage from only 8 ratings; individual sillage votes range 1-5. Mapped to 4 and 4."
     },
     {
       "name": "Oud Whisper",
@@ -620,8 +721,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/ojar-routes-nomades-edp",
+          "name": "Venba Fragrance — Ojar Routes Nomades EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba listing (search snippet): longevity strong, all-day; sillage strong beyond arm's length; Parfumo user votes 8 and 7 out of 10."
     },
     {
       "name": "Solar Flair",
@@ -661,8 +781,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/ojar-solar-flair-edp-3",
+          "name": "Venba Fragrance — Ojar Solar Flair EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba listing (search snippet): longevity strong, about 7-9 h, sillage moderate; Scents Angel says 6-9 h, moderate to intimate."
     },
     {
       "name": "Stallion Soul",
