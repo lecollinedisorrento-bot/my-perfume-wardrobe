@@ -301,8 +301,27 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/valentino-donna-born-in-roma-coral-fantasy-eau-de-parfum-review",
+          "name": "Escentual — Valentino Donna Born in Roma Coral Fantasy EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: lingers on skin for around six hours; no sillage level stated."
     },
     {
       "name": "Donna Born in Roma Purple Melancholia",

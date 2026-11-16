@@ -457,8 +457,52 @@
             "concentration",
             "year"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/prada-paradoxe-virtual-flower-eau-de-parfum-review",
+          "name": "Escentual — Prada Paradoxe Virtual Flower EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.thelastspritz.com/fragrance/prada-paradoxe-virtual-flower",
+          "name": "The Last Spritz — Prada Paradoxe Virtual Flower",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thefairytalesblog.com/prada-paradoxe-virtual-flower-edp-fragrance-review/",
+          "name": "The Fairytales Blog — Prada Paradoxe Virtual Flower EDP review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Escentual: around 5-6 h, a light daytime spring/summer option; The Last Spritz: 4-6 h, arm's-length projection, soft trail, best by day; Fairy Tales Blog: up to 6 h with impressive projection."
     },
     {
       "name": "Paradoxe Sweet Chemistry",
