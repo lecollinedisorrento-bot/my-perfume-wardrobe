@@ -11,7 +11,7 @@
   ],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Names taken from the Cologne Sprays collection (299 results, 7 pages) on demeterfragrance.com, the Demeter Fragrance Library storefront; product names there carry the suffix 'Cologne Spray', which was stripped from the name and recorded as concentration. That site does not mention The Library of Fragrance; the equivalence (European trade name of Demeter Fragrance Library, New York) comes from a web search result summarising https://en.wikipedia.org/wiki/Demeter_Fragrance_Library. thelibraryoffragrance.com shows only a 'Launching Soon' page. Collection page lists no notes, so notes are empty for all entries; no notes inferred from names. Items not in the Cologne Sprays collection (other formats, sets, Dark Flowers etc.) were not enumerated. Black Tea and Swimming Pool showed 'Sold Out' on the listing (not marked discontinued).",
+  "researchNotes": "Names taken from the Cologne Sprays collection (299 results, 7 pages) on demeterfragrance.com, the Demeter Fragrance Library storefront; product names there carry the suffix 'Cologne Spray', which was stripped from the name and recorded as concentration. That site does not mention The Library of Fragrance; the equivalence (European trade name of Demeter Fragrance Library, New York) comes from a web search result summarising https://en.wikipedia.org/wiki/Demeter_Fragrance_Library. thelibraryoffragrance.com shows only a 'Launching Soon' page. Collection page lists no notes, so notes are empty for all entries; no notes inferred from names. Items not in the Cologne Sprays collection (other formats, sets, Dark Flowers etc.) were not enumerated. Black Tea and Swimming Pool showed 'Sold Out' on the listing (not marked discontinued). Second pass: product descriptions read from demeterfragrance.com/products.json (same scent text across purse spray/body formats; the Cologne Spray listings are mostly absent from that feed). Notes recorded only where the description names ingredients or notes explicitly (81 fragrances: 6 with top/heart/base, rest flat); prose-only single-note descriptions left empty. No perfumer, family or accords published; year only for Zombie (2013). Amber and Aloe Vera had no matching product in the feed.",
   "fragrances": [
     {
       "name": "Thunderstorm",
@@ -133,9 +133,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "violet"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -144,6 +146,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/paperback-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Paperback (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -268,9 +278,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "lily",
+          "carnation",
+          "gladiolus",
+          "chrysanthemum",
+          "mahogany"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -279,6 +295,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/funeral-home-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Funeral Home (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -376,9 +400,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "patchouli",
+          "myrrh",
+          "leather",
+          "bergamot",
+          "saffron",
+          "coco blossom",
+          "jasmine",
+          "tuberose"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -387,6 +420,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/haunted-souls-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Haunted Souls (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -403,9 +444,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "black tea",
+          "bergamot"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -414,6 +458,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/earl-grey-tea-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Earl Grey Tea (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -476,7 +528,7 @@
       "name": "Zombie for Her",
       "collection": null,
       "concentration": "Cologne Spray",
-      "releaseYear": null,
+      "releaseYear": 2013,
       "perfumer": null,
       "family": null,
       "accords": [],
@@ -484,9 +536,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "dried leaf",
+          "mushroom",
+          "mildew",
+          "moss",
+          "earth"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -495,6 +553,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/zombie-for-her-cologne-spray",
+          "name": "Demeter Fragrance Library — Zombie for Her (product description)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "year"
           ]
         }
       ]
@@ -511,9 +578,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "egg nog",
+          "spice",
+          "apple",
+          "chestnut"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -522,6 +594,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/christmas-in-new-york-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Christmas In New York (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -565,9 +645,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "sandalwood",
+          "cedar"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -576,6 +659,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/ominous-mist-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Ominous Mist (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -592,9 +683,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "cotton"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -603,6 +696,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/sunshine-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Sunshine (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -619,9 +720,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "amber",
+          "blood orange",
+          "vanilla orchid"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -630,6 +735,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/witching-hour-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Witching Hour (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -800,7 +913,7 @@
       "name": "Zombie for Him",
       "collection": null,
       "concentration": "Cologne Spray",
-      "releaseYear": null,
+      "releaseYear": 2013,
       "perfumer": null,
       "family": null,
       "accords": [],
@@ -808,9 +921,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "dried leaf",
+          "mushroom",
+          "mildew",
+          "moss",
+          "earth"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -819,6 +938,15 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/zombie-for-him-cologne-spray",
+          "name": "Demeter Fragrance Library — Zombie for Him (product description)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "year"
           ]
         }
       ]
@@ -889,9 +1017,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "belladonna",
+          "dracula orchid",
+          "nicotiana",
+          "maile leaf",
+          "ivy",
+          "vanilla",
+          "musk",
+          "mandarin"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -900,6 +1037,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/vampire-blooms-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Vampire Blooms (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -943,9 +1088,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "pumpkin",
+          "sugar",
+          "cinnamon",
+          "ginger",
+          "clove"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -954,6 +1105,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/pumpkin-pie-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Pumpkin Pie (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -970,9 +1129,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "milk",
+          "sugar"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -981,6 +1143,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/condensed-milk-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Condensed Milk (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1159,9 +1329,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "ylang ylang",
+          "red poppy",
+          "tobacco leaf",
+          "black vanilla bean",
+          "coca petal"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1170,6 +1346,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/transfixed-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Transfixed (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1402,9 +1586,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "orange",
+          "lemon",
+          "white rose",
+          "bergamot",
+          "peach",
+          "vanilla"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1413,6 +1604,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/clean-skin-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Clean Skin (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1429,9 +1628,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "coffee",
+          "cinnamon",
+          "nutmeg",
+          "pumpkin",
+          "vanilla"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1440,6 +1645,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/pumpkin-spice-latte-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Pumpkin Spice Latte (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1456,9 +1669,17 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "rose water",
+          "bulgarian rose",
+          "davana",
+          "red currant",
+          "patchouli",
+          "amber",
+          "vetiver"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1467,6 +1688,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/dark-roses-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Dark Roses (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1591,9 +1820,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "apple",
+          "cinnamon",
+          "spice"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1602,6 +1835,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/mulled-cider-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Mulled Cider (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1645,9 +1886,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "orange",
+          "vanilla"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1656,6 +1900,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/orange-cream-pop-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Orange Cream Pop (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1753,9 +2005,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "lemon",
+          "vanilla"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1764,6 +2019,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/lemon-meringue-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Lemon Meringue (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1807,9 +2070,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "banana",
+          "liqueur",
+          "brown sugar"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1818,6 +2085,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/banana-flambee-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Banana Flambee (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1861,9 +2136,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "leather",
+          "cedar",
+          "patchouli",
+          "tobacco"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -1872,6 +2152,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/old-book-bath-body-oil",
+          "name": "Demeter Fragrance Library — Old Book (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2239,9 +2527,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "juniper",
+          "citrus"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2250,6 +2541,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/gin-tonic-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Gin & Tonic (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2320,9 +2619,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "coconut",
+          "pineapple",
+          "rum"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2331,6 +2634,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/pina-colada-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Pina Colada (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2347,9 +2658,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "egg white",
+          "sugar",
+          "vanilla",
+          "coconut"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2358,6 +2674,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/angel-food-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Angel Food (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2455,9 +2779,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "tobacco leaf",
+          "sugar cane",
+          "spice"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2466,6 +2794,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/cuba-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Cuba (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2482,9 +2818,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "whisky",
+          "tobacco"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2493,6 +2832,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/whiskey-tobacco-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Whiskey Tobacco (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2536,9 +2883,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "date",
+          "toffee"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2547,6 +2897,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/sticky-toffee-pudding-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Sticky Toffee Pudding (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2617,9 +2975,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "cherry",
+          "vanilla"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2628,6 +2989,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/cherry-cream-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Cherry Cream (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2644,9 +3013,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "coconut",
+          "banana",
+          "peach",
+          "vanilla",
+          "raspberry"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2655,6 +3030,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/bubble-bath-diffuser-oil",
+          "name": "Demeter Fragrance Library — Bubble Bath (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2671,9 +3054,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "cardamom",
+          "cinnamon",
+          "ginger",
+          "star anise",
+          "peppercorn",
+          "clove",
+          "black tea",
+          "milk"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2682,6 +3074,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/chai-tea-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Chai Tea (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2860,9 +3260,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "butter",
+          "maple syrup"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2871,6 +3274,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/waffles-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Waffles (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2941,9 +3352,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "tea",
+          "lemon",
+          "sugar"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -2952,6 +3367,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/sweet-tea-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Sweet Tea (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3049,9 +3472,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "cedar",
+          "oak moss"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -3060,6 +3486,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/log-cabin-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Log Cabin (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3589,9 +4023,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "lemon",
+          "jasmine",
+          "honeysuckle",
+          "water lotus",
+          "white rose"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -3600,6 +4040,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/first-love-mini-purse-spray",
+          "name": "Demeter Fragrance Library — First Love (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3832,9 +4280,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "nutmeg",
+          "cinnamon"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -3843,6 +4294,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/egg-nog-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Egg Nog (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4021,9 +4480,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "mango",
+          "guava",
+          "passion fruit",
+          "orange liqueur",
+          "lemon",
+          "rum"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4032,6 +4498,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/between-the-sheets-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Between The Sheets (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4075,9 +4549,17 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "leaf",
+          "bark",
+          "grass",
+          "snow",
+          "ocean",
+          "river",
+          "stone"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4086,6 +4568,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/new-zealand-mini-purse-spray",
+          "name": "Demeter Fragrance Library — New Zealand (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4099,12 +4589,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "peach blossom",
+          "lemon",
+          "strawberry"
+        ],
+        "heart": [
+          "lily of the valley",
+          "rose",
+          "geranium",
+          "jasmine"
+        ],
+        "base": [
+          "tonka bean",
+          "moss"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4113,6 +4615,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/musk-15-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Musk #15 (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4156,9 +4666,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "chocolate cake",
+          "buttercream"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4167,6 +4680,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/birthday-cake-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Birthday Cake (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4210,9 +4731,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "vodka",
+          "pineapple",
+          "raspberry liqueur",
+          "melon liqueur",
+          "cranberry"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4221,6 +4748,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/sex-on-the-beach-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Sex On The Beach (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4369,12 +4904,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "peach",
+          "orange blossom"
+        ],
+        "heart": [
+          "jasmine",
+          "sambac",
+          "tuberose"
+        ],
+        "base": [
+          "patchouli",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4383,6 +4928,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/shadow-flowers-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Shadow Flowers (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4507,9 +5060,17 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "night blooming orchid",
+          "crimson dahlia",
+          "tobacco",
+          "musk",
+          "saffron",
+          "bergamot",
+          "fig nectar"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4518,6 +5079,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/mystical-blooms-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Mystical Blooms (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4585,12 +5154,17 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
+        "top": [
+          "lime",
+          "bergamot"
+        ],
+        "heart": [
+          "jasmine"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4599,6 +5173,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/musk-9-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Musk #9 (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4642,9 +5224,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "tobacco",
+          "spice"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4653,6 +5238,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/humidor-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Humidor (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4723,9 +5316,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "tomato",
+          "mozzarella",
+          "oregano"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4734,6 +5331,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/pizza-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Pizza (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4750,9 +5355,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "cinnamon",
+          "sugar"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4761,6 +5369,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/churros-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Churros (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4804,9 +5420,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "fennel",
+          "basil",
+          "rosemary",
+          "thyme",
+          "lavender"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4815,6 +5437,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/provence-meadow-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Provence Meadow (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4882,12 +5512,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
+        "top": [
+          "watermelon"
+        ],
+        "heart": [
+          "jasmine",
+          "musk",
+          "heliotrope"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4896,6 +5532,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/watermelon-blossom-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Watermelon Blossom (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4966,9 +5610,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "blood orange",
+          "lime"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -4977,6 +5624,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/blood-lime-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Blood Lime (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4993,9 +5648,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "yuzu"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -5004,6 +5661,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/yuzu-marmalade-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Yuzu Marmalade (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5317,9 +5982,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "champagne",
+          "sugar",
+          "black pansy"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -5328,6 +5997,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/first-kiss-mini-purse-spray",
+          "name": "Demeter Fragrance Library — First Kiss (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5506,9 +6183,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "lavender",
+          "orange",
+          "cointreau",
+          "honey",
+          "sugar",
+          "vodka"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -5517,6 +6201,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/lavender-martini-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Lavender Martini (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5587,9 +6279,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "nutmeg",
+          "cream",
+          "sugar"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -5598,6 +6294,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/nutmeg-ice-cream-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Nutmeg Ice Cream (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5668,9 +6372,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "irish whisky",
+          "cream",
+          "cocoa",
+          "vanilla",
+          "caramel",
+          "sugar"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -5679,6 +6390,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/irish-cream-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Irish Cream (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5830,9 +6549,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "plum",
+          "honey",
+          "powdered sugar",
+          "spice"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -5841,6 +6565,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/sugar-plum-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Sugar Plum (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5938,9 +6670,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "rice",
+          "seaweed",
+          "ginger",
+          "lemon"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -5949,6 +6686,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/sushi-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Sushi (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5992,9 +6737,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "clove",
+          "cinnamon"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6003,6 +6751,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/cypress-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Cypress (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6046,9 +6802,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "eucalyptus"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6057,6 +6815,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/steam-room-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Steam Room (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6073,9 +6839,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "butter",
+          "egg"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6084,6 +6853,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/scottish-shortbread-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Scottish Shortbread (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6208,9 +6985,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "bamboo",
+          "ginger"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6219,6 +6999,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/black-bamboo-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Black Bamboo (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6316,9 +7104,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "chocolate fudge",
+          "whipped cream",
+          "vanilla",
+          "cherry"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6327,6 +7120,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/hot-fudge-sundae-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Hot Fudge Sundae (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6370,9 +7171,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "grape",
+          "doughnut"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6381,6 +7185,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/jelly-doughnut-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Jelly Doughnut (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6397,9 +7209,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "ginger",
+          "ginger flower"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6408,6 +7223,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/black-ginger-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Black Ginger (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6424,9 +7247,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "apricot",
+          "peach"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6435,6 +7261,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/tea-olive-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Tea Olive (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6559,9 +7393,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "carnation"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6570,6 +7406,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/christmas-bouquet-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Christmas Bouquet (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6640,9 +7484,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "citrus",
+          "black tea"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6651,6 +7498,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/grapefruit-tea-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Grapefruit Tea (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6665,11 +7520,15 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
+        "heart": [
+          "iris",
+          "violet",
+          "patchouli"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6678,6 +7537,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/amethyst-petals-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Amethyst Petals (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6748,9 +7615,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "raspberry",
+          "blueberry",
+          "blackberry",
+          "spice"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6759,6 +7631,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/iced-berries-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Iced Berries (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6964,9 +7844,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "vanilla",
+          "caramel"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -6975,6 +7858,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/saltwater-taffy-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Saltwater Taffy (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7261,9 +8152,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "grape jelly",
+          "peanut butter"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7272,6 +8166,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/pb-j-mini-purse-spray",
+          "name": "Demeter Fragrance Library — PB & J (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7288,9 +8190,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "peach schnapps",
+          "vodka",
+          "orange juice"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7299,6 +8205,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/fuzzy-navel-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Fuzzy Navel (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7366,12 +8280,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "grapefruit",
+          "black currant"
+        ],
+        "heart": [
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "almond",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7380,6 +8303,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/butterfly-flowers-diffuser-oil",
+          "name": "Demeter Fragrance Library — Butterfly Flowers (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7396,9 +8327,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "dragon fruit",
+          "citrus zest"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7407,6 +8341,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/dragon-fruit-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Dragon Fruit (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7639,9 +8581,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "jalapeno",
+          "pineapple"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7650,6 +8595,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/spicy-pineapple-salsa-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Spicy Pineapple Salsa (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7666,9 +8619,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "wood",
+          "spice"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7677,6 +8633,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/gold-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Gold (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7693,9 +8657,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "pomegranate",
+          "orange zest",
+          "blueberry",
+          "acai"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7704,6 +8673,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/rooibos-red-tea-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Rooibos Red Tea (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7774,9 +8751,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "oak moss"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7785,6 +8764,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/rice-flower-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Rice Flower (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7882,9 +8869,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "wine",
+          "lime"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7893,6 +8883,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/malaga-cooler-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Malaga Cooler (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7909,9 +8907,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "ginger",
+          "orange"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7920,6 +8921,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/turmeric-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Turmeric (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7936,9 +8945,13 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "vodka",
+          "orange liqueur",
+          "lime"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -7947,6 +8960,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://demeterfragrance.com/products/kamikaze-mini-purse-spray",
+          "name": "Demeter Fragrance Library — Kamikaze (product description)",
+          "type": "official",
+          "supports": [
+            "notes"
           ]
         }
       ]
