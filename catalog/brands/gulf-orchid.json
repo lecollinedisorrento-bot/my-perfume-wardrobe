@@ -203,8 +203,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/gulf-orchid-mangotini-eau-de-parfum",
+          "name": "ScentVerdict — Gulf Orchid Mangotini",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: moderate longevity (4-6 h) and moderate projection; search summary also cites retailers at 6-9 h and sillage moderate to medium-high, so the lower independent figure is used."
     },
     {
       "collection": "Cocktail Collection",
@@ -253,8 +272,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/gulf-orchid-mojito-obsession-eau-de-parfum",
+          "name": "ScentVerdict — Gulf Orchid Mojito Obsession",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: moderate longevity (4-6 h), moderate projection, mixed reviews; no sillage rating found."
     },
     {
       "collection": "Cocktail Collection",
@@ -299,8 +337,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/gulf-orchid-cherry-kokomo-eau-de-parfum",
+          "name": "ScentVerdict — Gulf Orchid Cherry Kokomo",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: moderate longevity (4-6 h) and moderate projection; one customer review says it lasts all night. No sillage rating found."
     },
     {
       "collection": "Cocktail Collection",
@@ -345,8 +402,24 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://arabicparfums.com/en/collections/perfumes-unisex/products/ruby-fizz-gulf-orchid",
+          "name": "Arabic Parfums — Ruby Fizz Gulf Orchid",
+          "type": "retailer",
+          "supports": [
+            "usage"
+          ]
         }
-      ]
+      ],
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Arabic Parfums listing: intended for spring and summer, day or night; no longevity or sillage figures found."
     },
     {
       "collection": "Cocktail Collection",

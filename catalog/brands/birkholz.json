@@ -11,7 +11,7 @@
   ],
   "country": "Germany",
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Built from the official site's 'All' collection (79 products over 2 pages; sets, vouchers, cap, 10 ml duplicates and a test product excluded). Notes, family and (where in page title) concentration come from product pages. Collection only recorded where the page states it. Release year and perfumer not stated on pages. Some pages title a product 'perfumed water'; concentration left null there. Berlin Soul lists vetiver ambiguously (placed in base); Roads of Rome lists marigold untiered (omitted).",
+  "researchNotes": "Built from the official site's 'All' collection (79 products over 2 pages; sets, vouchers, cap, 10 ml duplicates and a test product excluded). Notes, family and (where in page title) concentration come from product pages. Collection only recorded where the page states it. Release year and perfumer not stated on pages. Some pages title a product 'perfumed water'; concentration left null there. Berlin Soul lists vetiver ambiguously (placed in base); Roads of Rome lists marigold untiered (omitted). Pass 3: all 22 entries without a concentration were re-opened on the official site; none states one (only 'perfumed water' in the header of Amber Intense, Berlin Fever and Romance in Florence, 'Parfum' in the title of Satin Vanilla), so concentration stays null. No per-fragrance performance figures were found for Birkholz in searches.",
   "fragrances": [
     {
       "name": "Amber Intense",

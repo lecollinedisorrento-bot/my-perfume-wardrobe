@@ -11,7 +11,7 @@
   ],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official shop (streetorigins.co) reports 44 products; only 28 single-fragrance product pages could be enumerated (collection grid truncated in fetch; listing pages 1-2 readable, page 3 empty). All 28 were opened and notes come from their pages. Excluded: The Sprayground discovery set, BOGO promo, Sweet Reflection duo set. Family strings are the site's tags. Brand is a Fragrance World sub-brand (Dubai-based per search result snippets); country left null as no page opened states it for the brand. Source typos normalised: Parline->praline, Patchoul->patchouli. perfumeoriental.com, zaoud.it and gulfnews.com used only for cross-checking names; parfumo.com returned 403. Collection (Origins/Icons) set only where the product page navigation states it.",
+  "researchNotes": "Official shop (streetorigins.co) reports 44 products; only 28 single-fragrance product pages could be enumerated (collection grid truncated in fetch; listing pages 1-2 readable, page 3 empty). All 28 were opened and notes come from their pages. Excluded: The Sprayground discovery set, BOGO promo, Sweet Reflection duo set. Family strings are the site's tags. Brand is a Fragrance World sub-brand (Dubai-based per search result snippets); country left null as no page opened states it for the brand. Source typos normalised: Parline->praline, Patchoul->patchouli. perfumeoriental.com, zaoud.it and gulfnews.com used only for cross-checking names; parfumo.com returned 403. Collection (Origins/Icons) set only where the product page navigation states it. Pass 3 (WebFetch of products.json and product pages): added 14 single fragrances missing from the earlier pass (44 listed products = 42 fragrances + Discovery Set + Sweet Reflection duo); collection left null where navigation does not place them; site notes lists have no perfumer, year or accords. Perf pass: filled values from search snippets where a source stated them.",
   "fragrances": [
     {
       "name": "Rio Beleza",
@@ -1535,6 +1535,607 @@
         "times": []
       },
       "performanceEvidence": "ScentVerdict summary for the EDP: longevity long (6-10 h), moderate projection, strong intensity."
+    },
+    {
+      "name": "Rise and Bling, Dubai",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach",
+          "green notes",
+          "black currant"
+        ],
+        "heart": [
+          "may rose",
+          "rose",
+          "turkish rose",
+          "iris"
+        ],
+        "base": [
+          "white musk",
+          "cedar",
+          "pepper",
+          "orris root",
+          "violet leaf"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/rise-and-bling-dubai",
+          "name": "Street Origins — Rise and Bling, Dubai",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "It's Vegas, Baby",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Sweet, Floral, Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cognac",
+          "cinnamon",
+          "plum"
+        ],
+        "heart": [
+          "cashmeran",
+          "iris",
+          "myrrh"
+        ],
+        "base": [
+          "tonka bean",
+          "vanilla",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/its-vegas-baby",
+          "name": "Street Origins — It's Vegas, Baby",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "It's Giving New York",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Sweet, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "rose",
+          "cinnamon",
+          "pink pepper",
+          "violet",
+          "mandarin"
+        ],
+        "heart": [
+          "rose",
+          "jasmine",
+          "orange blossom"
+        ],
+        "base": [
+          "rose",
+          "patchouli",
+          "honey",
+          "sandalwood",
+          "cocoa",
+          "vanilla",
+          "cedarwood",
+          "tonka bean",
+          "brown sugar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/its-giving-new-york",
+          "name": "Street Origins — It's Giving New York",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "On New York Time",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Citrus, Fruity, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "pineapple",
+          "bergamot",
+          "black currant",
+          "apple"
+        ],
+        "heart": [
+          "birch",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "ambergris",
+          "patchouli",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/on-new-york-time",
+          "name": "Street Origins — On New York Time",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oars and Yours, Venice",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Aquatic, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "sea notes",
+          "bergamot"
+        ],
+        "heart": [
+          "black pepper",
+          "geranium"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/oars-and-yours-venice",
+          "name": "Street Origins — Oars and Yours, Venice",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I Do I Do, Vegas",
+      "collection": null,
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Smoky, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "citrus",
+          "tobacco",
+          "honey",
+          "smoke",
+          "plum",
+          "peach"
+        ],
+        "heart": [
+          "tonka",
+          "cacao",
+          "dried fruits"
+        ],
+        "base": [
+          "vanilla",
+          "woods"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/i-do-i-do-vegas",
+          "name": "Street Origins — I Do I Do, Vegas",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Singapore Prim",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "tea",
+          "bergamot",
+          "osmanthus"
+        ],
+        "heart": [
+          "orchid",
+          "jasmine",
+          "rose",
+          "freesia",
+          "african orange flower"
+        ],
+        "base": [
+          "patchouli",
+          "musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/singapore-prim",
+          "name": "Street Origins — Singapore Prim",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miami Mama",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Fruity, Sweet",
+      "accords": [],
+      "notes": {
+        "top": [
+          "peach",
+          "ylang",
+          "mimosa"
+        ],
+        "heart": [
+          "rose",
+          "vanilla",
+          "lily of the valley"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "benzoin",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/miami-mama",
+          "name": "Street Origins — Miami Mama",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mauritius Tease",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral, Sweet",
+      "accords": [],
+      "notes": {
+        "top": [
+          "strawberry",
+          "raspberry",
+          "cherry",
+          "black currant",
+          "mandarin",
+          "lemon"
+        ],
+        "heart": [
+          "coconut",
+          "gardenia",
+          "orange blossom",
+          "peony"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "amber",
+          "vanilla",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/mauritius-tease",
+          "name": "Street Origins — Mauritius Tease",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hawaii Ting",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Sweet, Floral, Fruity",
+      "accords": [],
+      "notes": {
+        "top": [
+          "acai",
+          "blueberry"
+        ],
+        "heart": [
+          "freesia",
+          "lily of the valley"
+        ],
+        "base": [
+          "cedarwood",
+          "sweet",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/hawaii-ting",
+          "name": "Street Origins — Hawaii Ting",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hanoi Sizzle",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Nutty, Sweet, Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "coffee",
+          "rum",
+          "hazelnut",
+          "cardamom"
+        ],
+        "heart": [
+          "orris",
+          "salted caramel",
+          "cocoa",
+          "myrrh"
+        ],
+        "base": [
+          "vanilla",
+          "vetiver",
+          "smoked tonka"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/hanoi-sizzle",
+          "name": "Street Origins — Hanoi Sizzle",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Singapore Proper",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fruity, Spicy, Leather",
+      "accords": [],
+      "notes": {
+        "top": [
+          "pepper",
+          "raspberry",
+          "bergamot"
+        ],
+        "heart": [
+          "smoke",
+          "warm spices",
+          "red apple"
+        ],
+        "base": [
+          "citruswood",
+          "oud",
+          "leather",
+          "tonka"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/singapore-proper",
+          "name": "Street Origins — Singapore Proper",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mumbai Mc",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Fresh, Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cinnamon",
+          "nutmeg",
+          "cardamom",
+          "grapefruit"
+        ],
+        "heart": [
+          "lavender",
+          "licorice"
+        ],
+        "base": [
+          "patchouli",
+          "amber",
+          "vetiver",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/mumbai-mc",
+          "name": "Street Origins — Mumbai Mc",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berlin Rave",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Spicy, Leather",
+      "accords": [],
+      "notes": {
+        "top": [
+          "mate",
+          "saffron",
+          "rhubarb",
+          "pineapple"
+        ],
+        "heart": [
+          "magnolia",
+          "jasmine",
+          "raspberry"
+        ],
+        "base": [
+          "tonka",
+          "cistus",
+          "vanilla",
+          "fenugreek"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://streetorigins.co/products/berlin-rave",
+          "name": "Street Origins — Berlin Rave",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "family"
+          ]
+        }
+      ]
     }
   ]
 }

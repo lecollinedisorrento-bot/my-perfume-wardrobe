@@ -11,7 +11,7 @@
   ],
   "country": null,
   "retrievedAt": "2026-11-14",
-  "researchNotes": "ghawali.com/en redirects to ae.ghawali.com (UAE store); homepage listed 14 items, of which 11 parfum product pages were opened for notes. Bottled Emotions has no readable product page (collection page listing did not render), so no notes. Concentration set only where the page title says Parfum. Many pages show Sold out (several also show Add to bag); discontinued left false since stock status is not a discontinuation statement. Excluded: Closer Apart and Midnight Noise hair mists, discovery set, Concentrated Perfume Heirloom (variant of Heirloom, not opened), Last Date Parfum (only seen as a menu promo, product page not opened), old Signe Magazine names (Al Abiq etc., not confirmed current). parfumo.com and selfridges.com returned 403. Bloomingdales page content was truncated. Brand country not stated on any page read (Signe Magazine says only stores in UAE); left null. Distributor page returns empty to fetchers.",
+  "researchNotes": "ghawali.com/en redirects to ae.ghawali.com (UAE store); homepage listed 14 items, of which 11 parfum product pages were opened for notes. Bottled Emotions has no readable product page (collection page listing did not render), so no notes. Concentration set only where the page title says Parfum. Many pages show Sold out (several also show Add to bag); discontinued left false since stock status is not a discontinuation statement. Excluded: Closer Apart and Midnight Noise hair mists, discovery set, Concentrated Perfume Heirloom (variant of Heirloom, not opened), Last Date Parfum (only seen as a menu promo, product page not opened), old Signe Magazine names (Al Abiq etc., not confirmed current). parfumo.com and selfridges.com returned 403. Bloomingdales page content was truncated. Brand country not stated on any page read (Signe Magazine says only stores in UAE); left null. Distributor page returns empty to fetchers. Second pass (2026-11-16): read ae.ghawali.com/products.json (titles read PARFUM) to set concentration Parfum for 7 entries and fill Bottled Emotions notes and family; the feed gives no release years, perfumers or accords.",
   "fragrances": [
     {
       "name": "4 Walls Oud",
@@ -56,7 +56,7 @@
     {
       "name": "Untold",
       "collection": null,
-      "concentration": null,
+      "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": "Woody, Ambery, Floral",
@@ -91,13 +91,21 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://ae.ghawali.com/products.json?limit=250",
+          "name": "Ghawali UAE — product feed (products.json)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
         }
       ]
     },
     {
       "name": "Noble",
       "collection": null,
-      "concentration": null,
+      "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": "Musky, Ambery",
@@ -127,6 +135,14 @@
           "supports": [
             "notes",
             "family"
+          ]
+        },
+        {
+          "url": "https://ae.ghawali.com/products.json?limit=250",
+          "name": "Ghawali UAE — product feed (products.json)",
+          "type": "official",
+          "supports": [
+            "concentration"
           ]
         }
       ]
@@ -241,7 +257,7 @@
     {
       "name": "Midnight Noise",
       "collection": null,
-      "concentration": null,
+      "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": "Ambery, Aromatic, Floral",
@@ -288,6 +304,14 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://ae.ghawali.com/products.json?limit=250",
+          "name": "Ghawali UAE — product feed (products.json)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
         }
       ],
       "performance": {
@@ -301,7 +325,7 @@
     {
       "name": "Love Note",
       "collection": null,
-      "concentration": null,
+      "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": "Vanilla, Woody, Ambery",
@@ -340,6 +364,14 @@
           "supports": [
             "performance"
           ]
+        },
+        {
+          "url": "https://ae.ghawali.com/products.json?limit=250",
+          "name": "Ghawali UAE — product feed (products.json)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
         }
       ],
       "performance": {
@@ -353,7 +385,7 @@
     {
       "name": "Laylaa",
       "collection": null,
-      "concentration": null,
+      "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": "Ambery, Floral, Musky",
@@ -385,6 +417,14 @@
           "supports": [
             "notes",
             "family"
+          ]
+        },
+        {
+          "url": "https://ae.ghawali.com/products.json?limit=250",
+          "name": "Ghawali UAE — product feed (products.json)",
+          "type": "official",
+          "supports": [
+            "concentration"
           ]
         }
       ]
@@ -444,7 +484,7 @@
     {
       "name": "Dusk Outro",
       "collection": null,
-      "concentration": null,
+      "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": "Gourmand, fresh, floral",
@@ -478,13 +518,21 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://ae.ghawali.com/products.json?limit=250",
+          "name": "Ghawali UAE — product feed (products.json)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
         }
       ]
     },
     {
       "name": "Heirloom",
       "collection": null,
-      "concentration": null,
+      "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
       "family": "Floral",
@@ -518,6 +566,14 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://ae.ghawali.com/products.json?limit=250",
+          "name": "Ghawali UAE — product feed (products.json)",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
         }
       ]
     },
@@ -527,15 +583,27 @@
       "concentration": "Parfum",
       "releaseYear": null,
       "perfumer": null,
-      "family": null,
+      "family": "Ambery, Woody, Spicy",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "coriander",
+          "olibanum"
+        ],
+        "heart": [
+          "rose",
+          "guaiacwood",
+          "geranium"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver",
+          "cistus",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -549,6 +617,16 @@
           "name": "Bloomingdale's UAE — Bottled Emotions Parfum",
           "type": "retailer",
           "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://ae.ghawali.com/products.json?limit=250",
+          "name": "Ghawali UAE — product feed (products.json)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
             "concentration"
           ]
         }
