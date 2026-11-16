@@ -861,8 +861,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/aqua-media-cologne-forte-review/",
+          "name": "iFragrance — MFK Aqua Media Cologne Forte review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "iFragrance review: longevity around 6 to 7 hours; performance normal to weak, though two people smelled it on the hand after more than 3 hours."
     },
     {
       "name": "Pluriel Masculin",
@@ -1199,8 +1218,31 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/maison-francis-kurkdjian-aqua-celestia-forte-eau-de-parfum",
+          "name": "ScentVerdict — Aqua Celestia Forte Eau de Parfum",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict: lasts about 6-10 hours, moderate projection carrying to about arm's length, best in spring and summer; casual, gym or light office wear."
     },
     {
       "name": "Petit Matin",
@@ -1585,8 +1627,30 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2020/03/27/leau-a-la-rose-by-maison-francis-kurkdjian-2019/",
+          "name": "The Scented Devil — L'eau À la rose by MFK",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "The Scented Devil blog: wear time very short at about 4 hours, projection burns off within the first 30 minutes; a youthful summer scent."
     },
     {
       "name": "Aqua Vitae",

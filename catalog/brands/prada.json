@@ -642,8 +642,27 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/prada-lhomme-by-prada.26149915/reviews/",
+          "name": "Basenotes — Reviews of Prada L'Homme",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: about 6 h to 8 h on some skins, others find it weak; moderate to tight sillage like an EDP, office/day use."
     },
     {
       "name": "L'Homme Intense",
