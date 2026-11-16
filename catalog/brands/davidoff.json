@@ -15,12 +15,55 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["peppermint", "lavender"], "heart": ["oakmoss", "geranium", "sandalwood"], "base": ["amber", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "peppermint",
+          "lavender"
+        ],
+        "heart": [
+          "oakmoss",
+          "geranium",
+          "sandalwood"
+        ],
+        "base": [
+          "amber",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-eau-de-toilette-75-ml", "name": "DAVIDOFF - Cool Water Eau de Toilette 75 ml", "type": "official", "supports": ["notes", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.zinodavidoff.com/fragrances/cool-water-eau-de-toilette-75-ml",
+          "name": "DAVIDOFF - Cool Water Eau de Toilette 75 ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Davidoff Cool Water",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Cool Water Woman",
@@ -30,11 +73,33 @@
       "perfumer": null,
       "family": "floral aquatic",
       "accords": [],
-      "notes": { "top": ["watermelon", "pineapple"], "heart": ["lily of the valley"], "base": ["blackcurrant", "sensual woods"], "flat": [] },
+      "notes": {
+        "top": [
+          "watermelon",
+          "pineapple"
+        ],
+        "heart": [
+          "lily of the valley"
+        ],
+        "base": [
+          "blackcurrant",
+          "sensual woods"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-woman-eau-de-toilette-50-ml", "name": "DAVIDOFF - Cool Water Woman Eau de Toilette 50 ml", "type": "official", "supports": ["notes", "family", "concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/fragrances/cool-water-woman-eau-de-toilette-50-ml",
+          "name": "DAVIDOFF - Cool Water Woman Eau de Toilette 50 ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -45,11 +110,30 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["rosemary"], "heart": ["galbanum"], "base": ["vetiver"], "flat": [] },
+      "notes": {
+        "top": [
+          "rosemary"
+        ],
+        "heart": [
+          "galbanum"
+        ],
+        "base": [
+          "vetiver"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-reborn-man-eau-de-toilette-75-ml", "name": "DAVIDOFF - Cool Water Reborn Man Eau de Toilette 75 ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/fragrances/cool-water-reborn-man-eau-de-toilette-75-ml",
+          "name": "DAVIDOFF - Cool Water Reborn Man Eau de Toilette 75 ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -60,11 +144,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/category/fragrances/all", "name": "DAVIDOFF - Fragrances listing", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/category/fragrances/all",
+          "name": "DAVIDOFF - Fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -75,11 +171,30 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["green mandarin"], "heart": ["coconut water"], "base": ["amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "green mandarin"
+        ],
+        "heart": [
+          "coconut water"
+        ],
+        "base": [
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-intense-eau-de-parfum-40-ml", "name": "DAVIDOFF - Cool Water Intense Eau de Parfum 40 ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/fragrances/cool-water-intense-eau-de-parfum-40-ml",
+          "name": "DAVIDOFF - Cool Water Intense Eau de Parfum 40 ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -90,11 +205,30 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["pink pepper"], "heart": ["vetiver"], "base": ["sandalwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "pink pepper"
+        ],
+        "heart": [
+          "vetiver"
+        ],
+        "base": [
+          "sandalwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/fragrances/cool-water-parfum-50-ml", "name": "DAVIDOFF - Cool Water Parfum Man 50 ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/fragrances/cool-water-parfum-50-ml",
+          "name": "DAVIDOFF - Cool Water Parfum Man 50 ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -105,11 +239,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/category/fragrances/all", "name": "DAVIDOFF - Fragrances listing", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/category/fragrances/all",
+          "name": "DAVIDOFF - Fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -120,11 +266,31 @@
       "perfumer": null,
       "family": "woody aromatic",
       "accords": [],
-      "notes": { "top": ["rose oxide"], "heart": ["lavandin absolute"], "base": ["oud accord"], "flat": [] },
+      "notes": {
+        "top": [
+          "rose oxide"
+        ],
+        "heart": [
+          "lavandin absolute"
+        ],
+        "base": [
+          "oud accord"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/fragrances/cool-elixir-parfum-30-ml", "name": "DAVIDOFF - Cool Elixir Man Parfum 30 ml", "type": "official", "supports": ["notes", "family", "concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/fragrances/cool-elixir-parfum-30-ml",
+          "name": "DAVIDOFF - Cool Elixir Man Parfum 30 ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -135,11 +301,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/category/fragrances/all", "name": "DAVIDOFF - Fragrances listing", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/category/fragrances/all",
+          "name": "DAVIDOFF - Fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -150,11 +328,30 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["saffron accord"], "heart": ["cedarwood"], "base": ["apple accord"], "flat": [] },
+      "notes": {
+        "top": [
+          "saffron accord"
+        ],
+        "heart": [
+          "cedarwood"
+        ],
+        "base": [
+          "apple accord"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/fragrances/cool-elixir-safran-mineral---30-ml", "name": "DAVIDOFF - Cool Elixir Safran Mineral Parfum 30 ml", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/fragrances/cool-elixir-safran-mineral---30-ml",
+          "name": "DAVIDOFF - Cool Elixir Safran Mineral Parfum 30 ml",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -165,11 +362,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/category/fragrances/all", "name": "DAVIDOFF - Fragrances listing", "type": "official", "supports": ["concentration"] }
+        {
+          "url": "https://www.zinodavidoff.com/category/fragrances/all",
+          "name": "DAVIDOFF - Fragrances listing",
+          "type": "official",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -180,12 +389,42 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["lavender", "bergamot", "clary sage"], "heart": ["rose", "jasmine"], "base": ["patchouli", "sandalwood", "vanilla", "cedar"], "flat": [] },
+      "notes": {
+        "top": [
+          "lavender",
+          "bergamot",
+          "clary sage"
+        ],
+        "heart": [
+          "rose",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood",
+          "vanilla",
+          "cedar"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Davidoff/Zino-Davidoff-590.html", "name": "Fragrantica - Zino Davidoff", "type": "database", "supports": ["notes", "year"] },
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+        {
+          "url": "https://www.fragrantica.com/perfume/Davidoff/Zino-Davidoff-590.html",
+          "name": "Fragrantica - Zino Davidoff",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        }
       ]
     },
     {
@@ -196,13 +435,57 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": ["vetiver", "cedar", "white musk"], "flat": ["pimento", "sesame"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "vetiver",
+          "cedar",
+          "white musk"
+        ],
+        "flat": [
+          "pimento",
+          "sesame"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Davidoff/Adventure-1728.html", "name": "Fragrantica - Adventure Davidoff", "type": "database", "supports": ["notes", "year"] },
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
-      ]
+        {
+          "url": "https://www.fragrantica.com/perfume/Davidoff/Adventure-1728.html",
+          "name": "Fragrantica - Adventure Davidoff",
+          "type": "database",
+          "supports": [
+            "notes",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Davidoff Adventure",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Silver Shadow",
@@ -212,12 +495,35 @@
       "perfumer": null,
       "family": "oriental woody",
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": ["amber", "benzoin", "oakmoss"], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "amber",
+          "benzoin",
+          "oakmoss"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.fragrantica.com/perfume/Davidoff/Silver-Shadow-1314.html", "name": "Fragrantica - Silver Shadow Davidoff", "type": "database", "supports": ["notes", "family", "year"] },
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+        {
+          "url": "https://www.fragrantica.com/perfume/Davidoff/Silver-Shadow-1314.html",
+          "name": "Fragrantica - Silver Shadow Davidoff",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year"
+          ]
+        },
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        }
       ]
     },
     {
@@ -228,11 +534,44 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [
+          "red basil",
+          "pimento"
+        ],
+        "heart": [
+          "absynth",
+          "iris",
+          "patchouli"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "tonka bean",
+          "cedar",
+          "amber",
+          "oak",
+          "moss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Davidoff Hot Water",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -243,11 +582,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        }
       ]
     },
     {
@@ -258,11 +607,38 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "clary sage",
+          "galbanum"
+        ],
+        "base": [
+          "oakmoss",
+          "cedar"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Davidoff Champion",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -273,12 +649,55 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "pink pepper"
+        ],
+        "heart": [
+          "cardamom",
+          "geranium",
+          "cinnamon",
+          "cedarwood"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
-      ]
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Davidoff The Game",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Echo",
@@ -288,11 +707,40 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [
+          "grapefruit",
+          "juniper berry",
+          "sage"
+        ],
+        "heart": [
+          "vetiver",
+          "geranium"
+        ],
+        "base": [
+          "cedar",
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Davidoff Echo",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -303,11 +751,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        }
       ]
     },
     {
@@ -318,11 +776,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        }
       ]
     },
     {
@@ -333,11 +801,40 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
-      "noteSource": null,
+      "notes": {
+        "top": [
+          "grapefruit",
+          "rosemary",
+          "ginger"
+        ],
+        "heart": [
+          "sesame",
+          "cedar"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli",
+          "cacao"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.zinodavidoff.com/", "name": "DAVIDOFF official site", "type": "official", "supports": [] }
+        {
+          "url": "https://www.zinodavidoff.com/",
+          "name": "DAVIDOFF official site",
+          "type": "official",
+          "supports": []
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Davidoff Horizon",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     }
   ]

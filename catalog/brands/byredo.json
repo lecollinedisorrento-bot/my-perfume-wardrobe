@@ -619,12 +619,19 @@
       "family": "Woody",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "rose"
+        ],
+        "heart": [
+          "virginian cedar"
+        ],
+        "base": [
+          "haitian vetiver",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -642,6 +649,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Byredo Super Cedar",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],
