@@ -44,8 +44,41 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://fourthsense.co/prada-luna-rossa-black-review/",
+          "name": "Fourth Sense — Prada Luna Rossa Black review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestcologneformen.com/prada-luna-rossa-black-review/",
+          "name": "Best Cologne For Men — Prada Luna Rossa Black review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Fourth Sense: about 8 h average, strong projection 3-4 ft for the first 2 h, notable trail, fall/winter date scent; Best Cologne For Men: up to 7 h, 2-3 ft then intimate after 1-2 h."
     },
     {
       "name": "Luna Rossa Ocean",
@@ -81,8 +114,40 @@
             "concentration",
             "year"
           ]
+        },
+        {
+          "url": "https://fourthsense.co/prada-luna-rossa-black-review/",
+          "name": "Fourth Sense — Prada Luna Rossa Black review (Luna Rossa line comparison table)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/luna-rossa-ocean-edp-by-prada/",
+          "name": "Best Men's Colognes — Luna Rossa Ocean EDP by Prada",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fourth Sense table: about 7 h, sillage 6/10, fall/winter; Best Men's Colognes: 5-6 h of total wear, average projection, better in cool or temperate weather."
     },
     {
       "name": "Luna Rossa Carbon",
@@ -122,8 +187,33 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://fourthsense.co/prada-luna-rossa-black-review/",
+          "name": "Fourth Sense — Prada Luna Rossa Black review (Luna Rossa line comparison table)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fourth Sense comparison table: about 8 h longevity, 3 h projection, sillage 7/10, all-round year-round use."
     },
     {
       "name": "Luna Rossa Sport",
@@ -160,8 +250,33 @@
             "year",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://fourthsense.co/prada-luna-rossa-black-review/",
+          "name": "Fourth Sense — Prada Luna Rossa Black review (Luna Rossa line comparison table)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Fourth Sense comparison table: about 6 h longevity, 2 h projection, sillage 6/10, year-round."
     },
     {
       "name": "Paradoxe",
