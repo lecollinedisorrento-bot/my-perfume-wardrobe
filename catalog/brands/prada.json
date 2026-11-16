@@ -718,8 +718,35 @@
             "year",
             "family"
           ]
+        },
+        {
+          "url": "https://bestcologneformen.com/prada-lhomme-intense-review/",
+          "name": "Best Cologne For Men — Prada L'Homme Intense review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/prada-lhomme-intense-by-prada.26153292/reviews/",
+          "name": "Basenotes — Reviews of Prada L'Homme Intense",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Best Cologne For Men: moderate projection for 4 h then close, about 9 h total; Basenotes reviewers: 6-10 h, moderate sillage, strong in the first 3-4 h."
     },
     {
       "name": "L'Homme L'Eau",

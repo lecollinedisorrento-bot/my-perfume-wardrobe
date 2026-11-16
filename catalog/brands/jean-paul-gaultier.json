@@ -940,8 +940,42 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/jean-paul-gaultier-classique-eau-de-toilette",
+          "name": "ScentVerdict — Classique Eau de Toilette by Jean Paul Gaultier",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/classique-eau-de-toilette-jean-paul-gaultier-classique-by-jean-paul-gaultier.10211853/reviews/",
+          "name": "Basenotes — Reviews of Classique Eau de Toilette",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "ScentVerdict: 6-10 h, strong projection, best spring/autumn/winter, dates and dressed-up occasions; Basenotes reviewer: strong sillage, good projection, about seven hours."
     },
     {
       "name": "Ambre Tatouage",
