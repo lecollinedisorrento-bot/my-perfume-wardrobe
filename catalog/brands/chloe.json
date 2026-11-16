@@ -15,12 +15,52 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["peony"], "heart": ["rose petal", "magnolia"], "base": ["cedar", "ambergris"], "flat": [] },
+      "notes": {
+        "top": [
+          "peony"
+        ],
+        "heart": [
+          "rose petal",
+          "magnolia"
+        ],
+        "base": [
+          "cedar",
+          "ambergris"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64980409.html", "name": "Chloé — Eau de Parfum 2.5 fl oz", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64980409.html",
+          "name": "Chloé — Eau de Parfum 2.5 fl oz",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Chloe",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Chloé Nomade Eau de Parfum",
@@ -30,12 +70,50 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["mirabelle plum"], "heart": ["freesia"], "base": ["oak moss"], "flat": [] },
+      "notes": {
+        "top": [
+          "mirabelle plum"
+        ],
+        "heart": [
+          "freesia"
+        ],
+        "base": [
+          "oak moss"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64994055.html", "name": "Chloé — Nomade Eau de Parfum 1.7 fl oz", "type": "official", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64994055.html",
+          "name": "Chloé — Nomade Eau de Parfum 1.7 fl oz",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Chloe Nomade",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Chloé Love Story Eau de Parfum",
@@ -45,11 +123,31 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["neroli"], "heart": ["orange blossom", "stephanotis jasmine"], "base": ["cedarwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "neroli"
+        ],
+        "heart": [
+          "orange blossom",
+          "stephanotis jasmine"
+        ],
+        "base": [
+          "cedarwood"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64788118.html", "name": "Chloé — Love Story Eau de Parfum 2.5 fl oz", "type": "official", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64788118.html",
+          "name": "Chloé — Love Story Eau de Parfum 2.5 fl oz",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -60,11 +158,34 @@
       "perfumer": "Michel Almairac",
       "family": null,
       "accords": [],
-      "notes": { "top": ["cedrat", "cassis bourgeon absolute"], "heart": ["organic rose", "neroli"], "base": ["cedar", "mimosa absolute"], "flat": [] },
+      "notes": {
+        "top": [
+          "cedrat",
+          "cassis bourgeon absolute"
+        ],
+        "heart": [
+          "organic rose",
+          "neroli"
+        ],
+        "base": [
+          "cedar",
+          "mimosa absolute"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50133820.html", "name": "Chloé — Rose Naturelle Eau de Parfum 3.4 fl oz", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50133820.html",
+          "name": "Chloé — Rose Naturelle Eau de Parfum 3.4 fl oz",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -75,11 +196,31 @@
       "perfumer": "Ane Ayo",
       "family": null,
       "accords": [],
-      "notes": { "top": ["sambac jasmine"], "heart": ["rose"], "base": ["vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "sambac jasmine"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "official",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50181556.html", "name": "Chloé — Eau de Parfum Lumineuse 1.7 fl oz", "type": "official", "supports": ["notes", "concentration", "perfumer"] }
+        {
+          "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50181556.html",
+          "name": "Chloé — Eau de Parfum Lumineuse 1.7 fl oz",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration",
+            "perfumer"
+          ]
+        }
       ]
     },
     {
@@ -90,11 +231,25 @@
       "perfumer": "Amandine Clerc-Marie",
       "family": "Floral Spicy",
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50217680.html", "name": "Chloé — Atelier des Fleurs Rosa Damascena Eau de Parfum 1.7 fl oz", "type": "official", "supports": ["concentration", "family", "perfumer"] }
+        {
+          "url": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA50217680.html",
+          "name": "Chloé — Atelier des Fleurs Rosa Damascena Eau de Parfum 1.7 fl oz",
+          "type": "official",
+          "supports": [
+            "concentration",
+            "family",
+            "perfumer"
+          ]
+        }
       ]
     }
   ]

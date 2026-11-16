@@ -285,8 +285,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Versace Eros Najim",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3.5/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Eros Energy",
@@ -1092,12 +1111,39 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "citrus",
+          "bergamot",
+          "juniper",
+          "anise",
+          "brazilian rosewood",
+          "basil"
+        ],
+        "heart": [
+          "lavender",
+          "rose",
+          "carnation",
+          "jasmine",
+          "geranium",
+          "heliotrope",
+          "sage",
+          "fir",
+          "lily of the valley"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "sandalwood",
+          "iris",
+          "musk",
+          "cedar",
+          "amber",
+          "patchouli",
+          "vetiver"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1115,6 +1161,14 @@
           "supports": [
             "performance",
             "usage"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Versace Blue Jeans",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],

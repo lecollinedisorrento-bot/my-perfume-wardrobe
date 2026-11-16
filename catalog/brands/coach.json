@@ -51,8 +51,27 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Coach Love",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Dreams Sunset",
@@ -63,12 +82,25 @@
       "family": "Floral Gourmand",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "pink pepper"
+        ],
+        "heart": [
+          "peach",
+          "osmanthus",
+          "freesia",
+          "jasmine"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -87,8 +119,28 @@
           "supports": [
             "year"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Coach Dreams Sunset",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2.5/5, sillage 2.5/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Coach For Men",
@@ -126,12 +178,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lime",
+          "bergamot",
+          "ozone"
+        ],
+        "heart": [
+          "geranium",
+          "sea notes",
+          "clary sage"
+        ],
+        "base": [
+          "cedarwood",
+          "vetiver",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -140,6 +204,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Coach Blue",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]

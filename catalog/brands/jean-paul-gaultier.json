@@ -47,8 +47,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Jean Paul Gaultier Le Male",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Le Male Elixir",
@@ -59,9 +78,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lavender",
+          "mint"
+        ],
+        "heart": [
+          "vanilla",
+          "benzoin"
+        ],
+        "base": [
+          "honey",
+          "tonka bean",
+          "tobacco"
+        ],
         "flat": [
           "lavender",
           "benzoin",
@@ -102,6 +131,14 @@
           "supports": [
             "performance",
             "usage"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Jean Paul Gaultier Le Male Elixir",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -742,16 +779,28 @@
       "family": "Floral Marine Amber",
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "pink pepper",
+          "orange blossom"
+        ],
+        "heart": [
+          "lavender",
+          "iris",
+          "tonka bean"
+        ],
+        "base": [
+          "vanilla",
+          "patchouli",
+          "sandalwood"
+        ],
         "flat": [
           "salty note",
           "tuberose",
           "tonka bean"
         ]
       },
-      "noteSource": "official",
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -769,6 +818,14 @@
           "supports": [
             "notes",
             "family"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Jean Paul Gaultier Divine Elixir",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -925,12 +982,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "aldehydes",
+          "neroli"
+        ],
+        "heart": [
+          "ylang ylang",
+          "tuberose",
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -956,6 +1026,14 @@
           "type": "publication",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Jean Paul Gaultier Classique",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],
