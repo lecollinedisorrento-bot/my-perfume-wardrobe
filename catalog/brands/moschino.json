@@ -146,8 +146,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Moschino Toy 2 Pearl",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Toy 2 Bubble Gum",
@@ -181,8 +200,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Moschino Toy 2 Bubblegum",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Toy 2 Gummy",
@@ -295,8 +333,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Moschino Fresh Couture",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Pink Fresh Couture",
@@ -307,12 +364,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "pink grapefruit",
+          "black currant",
+          "pomegranate"
+        ],
+        "heart": [
+          "lily of the valley",
+          "pink hyacinth"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "ambroxan"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -321,6 +389,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Moschino Pink Fresh Couture",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -334,12 +410,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "mango",
+          "white peach",
+          "pear",
+          "mandarin orange",
+          "grapefruit"
+        ],
+        "heart": [
+          "orchid",
+          "lily of the valley",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -348,6 +438,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Moschino Gold Fresh Couture",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -435,12 +533,22 @@
         "woody"
       ],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "grapefruit",
+          "lemon",
+          "cinnamon"
+        ],
+        "heart": [
+          "tea rose",
+          "cinnamon"
+        ],
+        "base": [
+          "musk",
+          "cedarwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -450,6 +558,14 @@
           "supports": [
             "concentration",
             "accords"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Moschino I Love Love",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]

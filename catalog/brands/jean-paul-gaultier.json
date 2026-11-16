@@ -78,19 +78,9 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [
-          "lavender",
-          "mint"
-        ],
-        "heart": [
-          "vanilla",
-          "benzoin"
-        ],
-        "base": [
-          "honey",
-          "tonka bean",
-          "tobacco"
-        ],
+        "top": [],
+        "heart": [],
+        "base": [],
         "flat": [
           "lavender",
           "benzoin",
@@ -131,14 +121,6 @@
           "supports": [
             "performance",
             "usage"
-          ]
-        },
-        {
-          "url": "https://perfumepicks.app/",
-          "name": "Perfume Picks — Jean Paul Gaultier Le Male Elixir",
-          "type": "database",
-          "supports": [
-            "notes"
           ]
         }
       ],
@@ -779,28 +761,16 @@
       "family": "Floral Marine Amber",
       "accords": [],
       "notes": {
-        "top": [
-          "bergamot",
-          "pink pepper",
-          "orange blossom"
-        ],
-        "heart": [
-          "lavender",
-          "iris",
-          "tonka bean"
-        ],
-        "base": [
-          "vanilla",
-          "patchouli",
-          "sandalwood"
-        ],
+        "top": [],
+        "heart": [],
+        "base": [],
         "flat": [
           "salty note",
           "tuberose",
           "tonka bean"
         ]
       },
-      "noteSource": "reported",
+      "noteSource": "official",
       "discontinued": false,
       "sources": [
         {
@@ -818,14 +788,6 @@
           "supports": [
             "notes",
             "family"
-          ]
-        },
-        {
-          "url": "https://perfumepicks.app/",
-          "name": "Perfume Picks — Jean Paul Gaultier Divine Elixir",
-          "type": "database",
-          "supports": [
-            "notes"
           ]
         }
       ]

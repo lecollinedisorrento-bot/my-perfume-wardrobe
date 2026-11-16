@@ -338,9 +338,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "orange blossom",
+          "aldehyde",
+          "mandarin orange"
+        ],
+        "heart": [
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "tonka bean"
+        ],
         "flat": []
       },
       "noteSource": "reported",
@@ -375,6 +386,14 @@
           "supports": [
             "performance",
             "usage"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Le Labo Neroli 36",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -457,12 +476,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "neroli",
+          "bergamot"
+        ],
+        "heart": [
+          "lavender"
+        ],
+        "base": [
+          "musk",
+          "tonka",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -485,6 +513,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Le Labo Lavande 31",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -561,12 +597,26 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "violet",
+          "aldehyde",
+          "white tea",
+          "rose"
+        ],
+        "heart": [
+          "incense",
+          "cumin",
+          "saffron"
+        ],
+        "base": [
+          "cedar",
+          "guaiac wood",
+          "amber",
+          "patchouli"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -589,6 +639,14 @@
           "type": "database",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Le Labo Violette 30",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],
@@ -913,12 +971,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "patchouli"
+        ],
+        "heart": [
+          "birch",
+          "styrax"
+        ],
+        "base": [
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -941,6 +1006,14 @@
           "type": "publication",
           "supports": [
             "performance"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Le Labo Patchouli 24",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ],

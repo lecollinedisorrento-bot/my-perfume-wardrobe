@@ -166,12 +166,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lemon",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "iris",
+          "violet"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -181,8 +194,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Ajmal Wisal",
+          "type": "database",
+          "supports": [
+            "performance",
+            "notes"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Vision",
@@ -910,8 +943,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Ajmal Aurum Winter",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Amir Two",
@@ -1017,8 +1069,27 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Ajmal Amber Santal",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 4/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Amber Musc",
