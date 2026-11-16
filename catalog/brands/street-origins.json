@@ -677,8 +677,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-auckland-rush-eau-de-parfum",
+          "name": "ScentVerdict — Street Origins Auckland Rush EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict summary: longevity moderate (4-6 h), moderate projection and sillage; a retailer snippet claims 6-8 h, so the more conservative figure is used."
     },
     {
       "name": "Bangkok Bang",
@@ -727,8 +746,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-bangkok-bang-eau-de-parfum",
+          "name": "ScentVerdict — Street Origins Bangkok Bang EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict summary: strong sillage, too intense for office wear; no hour figure given for this scent."
     },
     {
       "name": "That's London, Love",
@@ -768,8 +806,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-thats-london-love",
+          "name": "ScentVerdict — Street Origins That's London, Love",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict summary: moderate sillage, about eight hours of longevity; the page does not make clear which concentration it measures."
     },
     {
       "name": "Cape Town Grace",
@@ -909,8 +966,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://zaoud.it/products/drenched-in-london-exdp",
+          "name": "Zaoud — Drenched In London EXDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 2,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Zaoud listing: calls it the quietest composition in its range, soft rather than forceful; one quoted reviewer reports fading in 2-3 h, while another seller claims very high longevity, so longevity is left blank."
     },
     {
       "name": "Ibiza Boom",
@@ -1061,8 +1137,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-miami-magic-eau-de-parfum",
+          "name": "ScentVerdict — Street Origins Miami Magic EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict summary: short longevity (2-4 h), moderate projection, light intensity."
     },
     {
       "name": "Hawaii Beau",
@@ -1140,8 +1235,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/street-origins-mauritius-touch-eau-de-parfum",
+          "name": "ScentVerdict — Street Origins Mauritius Touch EDP",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentVerdict summary: moderate longevity (4-6 h) and moderate projection."
     },
     {
       "name": "Hanoi Drizzle",

@@ -220,8 +220,27 @@
             "year",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/Nabeel/irth-fairooz",
+          "name": "Parfumo — Irth Fairooz",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community ratings (search snippet): longevity 6.9/10 and sillage 6.4/10 from 15 ratings each; mapped to 3 and 3."
     },
     {
       "name": "Irth Gold",
@@ -396,8 +415,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/sukoon/statements/1395736",
+          "name": "Parfumo — Sukoon",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Single Parfumo reviewer (search snippet): longevity 8/10, sillage 7/10; mapped to 4 and 4. Very thin evidence."
     },
     {
       "name": "Noble",
@@ -503,8 +541,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/mamnoon",
+          "name": "Parfumo — Mamnoon",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Three Parfumo reviews (search snippet): longevity 6-7/10, sillage 4-10/10, wide spread; averaged to about 6.3 and 6.7 and mapped to 3 and 3."
     },
     {
       "name": "Marble",
@@ -966,8 +1023,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/Nabeel/touch-me-intense/statements/1394569",
+          "name": "Parfumo — Touch Me Intense",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Single Parfumo reviewer (search snippet): longevity 8/10, sillage 7/10; mapped to 4 and 4. Very thin evidence."
     },
     {
       "name": "Aqua di Nabeel Absolute",
@@ -1190,8 +1266,27 @@
             "year",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/Nabeel/al-bashiq",
+          "name": "Parfumo — Al Bashiq",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community ratings (search snippet): longevity 8.6/10 and sillage 8.3/10 from 47 ratings; mapped to 4 and 4."
     },
     {
       "name": "Master Mind Noir",
@@ -1241,8 +1336,27 @@
             "year",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/Nabeel/mastermind-noir",
+          "name": "Parfumo — Mastermind Noir",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community ratings (search snippet): longevity 7.3/10 and sillage 7.9/10 from 11 ratings; mapped to 4 and 4."
     },
     {
       "name": "Master Mind Rouge",
@@ -1371,8 +1485,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.parfumo.com/Parfums/Nabeel/oody-woody-eau-de-parfum",
+          "name": "Parfumo — Oody Woody",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Parfumo community ratings (search snippet): longevity 7.6/10 (19 ratings) and sillage 7.6/10 (16 ratings); mapped to 4 and 4."
     },
     {
       "name": "Sa'ada",
