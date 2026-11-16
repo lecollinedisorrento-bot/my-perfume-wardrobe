@@ -991,8 +991,47 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/montale-vetiver-patchouli-eau-de-parfum",
+          "name": "Scent Verdict — Montale Vetiver Patchouli Eau de Parfum",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/vetiver-patchouli-by-montale.26158133",
+          "name": "Basenotes — Vetiver Patchouli by Montale reviews",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/montale-vetiver-patchouli",
+          "name": "Scents Angel — Montale Vetiver Patchouli Eau de parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Scent Verdict: about 4-6 hours, arm's-length projection, best spring and autumn; a Basenotes reviewer found longevity weak, while Scents Angel and FragranceX list 8-10 hours (retailer claims, not weighted)."
     },
     {
       "name": "Fantastic Oud",
@@ -1038,8 +1077,43 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "http://www.fragrancex.com/products/montale/montale-fantastic-oud-perfume",
+          "name": "FragranceX — Montale Fantastic Oud Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/montale/montale-fantastic-oud/women-perfume",
+          "name": "Perfume.com — Montale Fantastic Oud",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "FragranceX: lasts 8-10 hours with significant sillage, best in fall/winter and evening; Perfume.com: 8-12 hours, designed for night and cold seasons; Vivir review rates it 4.5/5 longevity."
     },
     {
       "name": "INTENSE Black Aoud",
@@ -1082,8 +1156,51 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/intense-black-aoud",
+          "name": "Scents Angel — Montale Intense Black Aoud",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/montale-intense-black-aoud-eau-de-parfum",
+          "name": "Vivir — Montale Intense Black Aoud review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://makeupstore.com/product/522933/",
+          "name": "MAKEUP — Montale Black Aoud Intense reviews",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scents Angel: 12+ hours, strong sillage, high projection, fall/winter evenings and nights; Vivir review: 12-14+ hours, heavy projection in the first 3-4 h; one MAKEUP buyer found it lasts only a couple of hours on skin."
     },
     {
       "name": "Oudmazing",
@@ -1128,8 +1245,49 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/montale/montale-oudmazing-perfume",
+          "name": "FragranceX — Montale Oudmazing Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/montale-oudmazing",
+          "name": "Scents Angel — Montale Oudmazing Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/montale-oudmazing-edp",
+          "name": "Venba Fragrance — Montale Oudmazing EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "FragranceX: 8-12 hours, buyer reviews of strong-to-heavy sillage; Scents Angel: 8-10 h, strong sillage; Venba: 6-8 h, moderate-to-strong, best in fall/winter evenings; PerfumeOutlet lists fall/winter evening wear."
     },
     {
       "name": "Honey Aoud",
@@ -1168,8 +1326,50 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "http://www.fragrancex.com/products/montale/montale-honey-aoud-perfume",
+          "name": "FragranceX — Montale Honey Aoud Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "http://scentira.in/products/montale-honey-aoud-eau-de-parfum",
+          "name": "Scentira — Montale Honey Aoud Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/montale-honey-aoud-2",
+          "name": "Vivir — Montale Honey Aoud Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "FragranceX buyer: 12+ hours, strong projection about 4 h; Scentira: 10-12 hours, strong sillage; Vivir review: 8-12 h, heavy sillage, fall/winter evenings and date nights."
     },
     {
       "name": "Aoud Night",
@@ -1210,8 +1410,49 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/aoud-night",
+          "name": "Scents Angel — Montale Aoud Night Eau de parfum",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "http://www.fragrancex.com/products/montale/montale-aoud-night-perfume",
+          "name": "FragranceX — Montale Aoud Night Perfume",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/montale/montale-aoud-night/women-perfume",
+          "name": "Perfume.com — Montale Aoud Night",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Scents Angel: 10-12 hours, strong sillage, made for night and colder months; FragranceX and Perfume.com: 8-12 hours or more; a FragranceX buyer says it projects well all day."
     },
     {
       "name": "Nepal Aoud",

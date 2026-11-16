@@ -416,8 +416,31 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/hermes-h24-herbes-vives-review/",
+          "name": "iFragrance — Hermès H24 Herbes Vives review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "iFragrance review: about 10 hours on skin with moderate projection for most of its life, needs heat; a spring and summer scent."
     },
     {
       "name": "24 Faubourg Eau de Toilette",
@@ -461,8 +484,32 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/hermes-24-faubourg-eau-de-toilette",
+          "name": "ScentVerdict — 24 Faubourg Eau de Toilette review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "ScentVerdict: lasts about 6-10 hours, moderate projection that fills a room without taking it over; autumn wear, formal evenings."
     },
     {
       "name": "Un Jardin sous la Mer",
@@ -500,8 +547,27 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://avis-parfums.fr/avis-un-jardin-sous-la-mer-hermes/",
+          "name": "Avis Parfums — Un Jardin sous la Mer d'Hermès",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 1,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Avis Parfums (French blog): 5-6 hours at most on skin; very discreet, an intimate scent barely noticeable at 50 cm."
     },
     {
       "name": "Un Jardin à Cythère",
@@ -537,8 +603,38 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://twindly.com/blog/2025/03/hermes-un-jardin-a-cythere-review/",
+          "name": "Twindly — Hermès Un Jardin à Cythère review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thescentaur.com/un-jardin-a-cythere-eau-de-toilette-by-hermes-review/",
+          "name": "The Scentaur — Un Jardin à Cythère review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 1,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Twindly: wears close to the skin, gone after about five hours, loved in summer; The Scentaur: faint and linear, almost negligible after four to five hours."
     },
     {
       "name": "Tutti Twilly d'Hermès",

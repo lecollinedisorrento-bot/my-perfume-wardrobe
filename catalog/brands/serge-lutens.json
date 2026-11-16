@@ -2442,8 +2442,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/nuit-de-cellophane-by-serge-lutens.26130429/reviews/",
+          "name": "Basenotes — Reviews of Nuit de Cellophane by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2014/01/30/serge-lutens-nuit-de-cellophane-bipolar-extremes/",
+          "name": "Kafkaesque — Serge Lutens Nuit de Cellophane: Bipolar Extremes",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers split: about 4 h with soft sillage, some say it fades after an hour, with disappointing sillage after the first hour; Kafkaesque tracked just under 11.75 h but with modest projection."
     },
     {
       "name": "Un bois sépia",
@@ -2474,8 +2501,39 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/un-bois-de-sepia-by-serge-lutens.26121626/reviews/",
+          "name": "Basenotes — Reviews of Un Bois de Sépia by Serge Lutens",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://aromierotici.blogspot.com/2012/04/un-bois-sepia-by-serge-lutens.html",
+          "name": "Aromi Erotici — Un Bois Sepia by Serge Lutens",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes review: moderate sillage, good projection, five hours of longevity, a wintery scent; Aromi Erotici: average sillage and about 5 h."
     },
     {
       "name": "Rose de nuit",
@@ -2507,8 +2565,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/threads/serge-lutens-rose-de-nuit-revisited.225328/",
+          "name": "Basenotes — Serge Lutens' Rose de Nuit revisited...",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes thread: averages around eight hours with moderate (delicate) sillage, and about twice that as a close-to-skin scent."
     },
     {
       "name": "Encens et lavande",
@@ -2567,8 +2644,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumeposse.com/2024/04/09/old-and-new-serge-lutens-muscs-kublai-khan/",
+          "name": "Perfume Posse — Old and New: Serge Lutens Muscs Kublai Khan",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.agaripizmo.pl/blog/serge-lutens-muscs-koublai-khan",
+          "name": "Agar i Piżmo — Muscs Koublaï Khän",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 2,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume Posse: stays close to the skin, current batch lasts markedly long (washed off after 18 h), older batch done by about 8 h; Agar i Piżmo: projection slightly above average, longevity about 12-14 h."
     },
     {
       "name": "Datura Noir",
@@ -2598,8 +2702,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/02/26/perfume-review-serge-lutens-datura-noir-hells-bells/",
+          "name": "Kafkaesque — Serge Lutens Datura Noir: Hells Bells",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: good-to-great projection in the first hour, close to the skin by hour 3, traces at 7 h in one test but gone by 5 h in another."
     },
     {
       "name": "Louve",
@@ -2628,8 +2751,35 @@
             "concentration",
             "notes"
           ]
+        },
+        {
+          "url": "https://basenotes.com/threads/serge-lutens-louve-first-impression.197903/",
+          "name": "Basenotes — Serge Lutens, Louve: First Impression",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://nstperfume.com/2007/08/21/serge-lutens-louve-fragrance-review/",
+          "name": "Now Smell This — Serge Lutens Louve",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes first impression: outstanding longevity for a light almond musk, musk still detectable 8 h in; Now Smell This: stays closer to the skin than Rahät Loukoum."
     },
     {
       "name": "Bois et fruits",
@@ -2656,8 +2806,30 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2014/01/09/serge-lutens-bois-et-fruits-autumnal-sweetness/",
+          "name": "Kafkaesque — Serge Lutens Bois et Fruits: Autumnal Sweetness",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque review: about 8.75 h with three sprays, discreet soft sheath by hour 3.5; described as an autumnal scent."
     },
     {
       "name": "La vierge de fer",

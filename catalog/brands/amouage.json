@@ -3330,8 +3330,35 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/amouage-opus-xiii-silver-oud-review/",
+          "name": "iFragrance — Amouage Opus XIII Silver Oud Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/silver-oud-by-amouage.26180329",
+          "name": "Basenotes — Opus XIII Silver Oud by Amouage",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "iFragrance: 10-12 h on skin, heavy projection for about 3 h then a soft cloud, trail for roughly 10 h; Basenotes reviewers: exceptional longevity, still present next morning."
     },
     {
       "name": "Epic 56 Woman",
@@ -3378,8 +3405,35 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/amouage-epic-56-woman-extrait-de-parfum-review",
+          "name": "Escentual — Amouage Epic 56 Woman Extrait Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/epic-56-woman-by-amouage.26181707/reviews/positive/",
+          "name": "Basenotes — Positive Reviews of Epic 56 Woman",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual: lasted a strong twelve hours on skin from one spritz; Basenotes reviewer: still going strong more than 14 h in."
     },
     {
       "name": "Honour 43 Woman",
@@ -3425,8 +3479,27 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/amouage-honour-43-woman-extrait-de-parfum-review",
+          "name": "Escentual — Amouage Honour 43 Woman Extrait Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual: lasted an amazing ten to twelve hours on the reviewer's skin; no sillage figure."
     },
     {
       "name": "Overture Man",
@@ -3548,8 +3621,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://vivir.com/article/amouage-interlude-black-iris-man",
+          "name": "Vivir — Amouage Interlude Black Iris Man",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/interlude-black-iris-man-by-amouage.26161221/reviews/",
+          "name": "Basenotes — Reviews of Interlude Black Iris Man",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Vivir: 10+ h, heavy projection for the first 3-4 h, strong sillage; Basenotes reviewer: enormous performer, 24+ h if allowed."
     },
     {
       "name": "Beach Hut Man",
@@ -3589,8 +3689,30 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/amouage-beach-hut-man-review/",
+          "name": "iFragrance — Amouage Beach Hut Man Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "iFragrance review: among the strongest-performing summer fragrances, longevity, sillage and projection all strong, compliments still 24 h after application."
     },
     {
       "name": "Honour Man",
@@ -3698,8 +3820,39 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2014/02/06/amouage-epic-woman-turandot-at-the-forbidden-city/",
+          "name": "Kafkaesque — Amouage Epic (Woman)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/epic-woman-by-amouage.26131588/reviews/",
+          "name": "Basenotes — Reviews of Epic Woman by Amouage",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: about 13.5 h, moderate then soft sillage; Basenotes reviewers: 14 h, moderate sillage, 'good wintery scent', too much in summer heat."
     },
     {
       "name": "Reflection Woman",
@@ -3907,8 +4060,31 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2020/07/25/beloved-man-by-amouage-2013/",
+          "name": "Varanis Ridari — Beloved Man by Amouage (2013)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Varanis Ridari: long wear time, projection and sillage good but not atomic; best in fall or winter."
     }
   ]
 }
