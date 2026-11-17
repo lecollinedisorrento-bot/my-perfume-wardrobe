@@ -692,8 +692,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://content.reviewr.org/roja-aoud-crystal-parfum/",
+          "name": "Reviewr — Roja Aoud Crystal Parfum",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/roja-parfums-aoud-crystal-parfum",
+          "name": "Scents Angel — Roja Aoud Crystal Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Reviewr: 8+ hours, moderate sillage up to about 6 feet; Scents Angel listing: 10-12+ hours and strong sillage."
     },
     {
       "name": "Amber Aoud Crystal",
@@ -727,8 +754,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/threads/roja-dove-amber-aoud-crystal.379355/page-2",
+          "name": "Basenotes — Roja Dove Amber Aoud/Crystal (forum thread, page 2)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes forum post by an owner of the Crystal bottle: longevity 8h+, sillage adequate but not Aventus level."
     },
     {
       "name": "United Arab Emirates",
@@ -796,8 +842,40 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/sultanate-of-oman-by-roja-dove.26149750/reviews/",
+          "name": "Basenotes — Reviews of Sultanate of Oman by Roja Dove",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2016/10/23/roja-dove-sultanate-of-oman-51-parfum-femme/",
+          "name": "Kafkaesque — Roja Dove Sultanate of Oman & 51 Parfum (Femme)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Basenotes review: moderate sillage, good projection, nine hours; calls it an autumnal incense for evenings. Kafkaesque: soft projection, skin scent from about 6.75 hours, about 15 hours in total."
     },
     {
       "name": "Qatar",
@@ -833,8 +911,38 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/qatar-by-roja-dove.26153049",
+          "name": "Basenotes — Qatar Roja Parfums (2017) reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2017/11/05/roja-dove-gulf-collection-qatar-kuwait-kingdom-of-saudi-arabia/",
+          "name": "Kafkaesque — Roja Dove Gulf Collection: Qatar, Kuwait & Kingdom of Saudi Arabia",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes review: moderate sillage, very good projection, eight hours, an autumnal creation. Kafkaesque: low projection, skin scent after about 5.25 hours, 13.5 hours in total."
     },
     {
       "name": "Kingdom of Saudi Arabia",
@@ -865,8 +973,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2017/11/05/roja-dove-gulf-collection-qatar-kuwait-kingdom-of-saudi-arabia/",
+          "name": "Kafkaesque — Roja Dove Gulf Collection: Qatar, Kuwait & Kingdom of Saudi Arabia",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Kafkaesque: soft projection, discreet trail after the 4th hour, skin scent from about 6.75 hours, faded around 13.75 hours."
     },
     {
       "name": "Enigma Aoud",
@@ -935,8 +1062,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://beautinow.com/products/roja-parfums-a-midsummer-dream-eau-de-parfum/",
+          "name": "Beautinow — Roja Parfums A Midsummer Dream Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beautinow listing: longevity 6-8 hours, moderate sillage and moderate projection."
     },
     {
       "name": "Parfum De La Nuit",
