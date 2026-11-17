@@ -1,0 +1,722 @@
+{
+  "brand": "Teatro Fragranze Uniche",
+  "slug": "teatro-fragranze-uniche",
+  "officialSite": "https://teatrofragranzeuniche.it/eu/",
+  "distributors": [],
+  "country": "IT",
+  "retrievedAt": "2026-11-18",
+  "researchNotes": "Official shop (teatrofragranzeuniche.it, Magento, not Shopify; pages show FIRENZE) was read through the Perfumes category pages: Luxury Perfume (11 listings) and Luxury Cologne (8 listings). 17 personal fragrances kept (10 perfumes, 7 luxury colognes), all 100 ml sprays with an Olfactory Pyramid (head/heart/base) on each product page. Excluded: the two Discovery Kit listings, and all home fragrances, diffusers, sticks, sprays, candles, fabric and car lines. Concentration is not stated as a percentage: pages label the perfumes only 'Perfume' (Papaia Ibisco's description calls it 'EDP Perfume', recorded as Eau de Parfum) and the others 'Luxury Cologne', so those labels are kept as written. The product page for Nero Divino is titled 'Black Divine Perfume' in English; the brand name Nero Divino used elsewhere on the site is kept. Note names were normalised to lowercase singular English and obvious spelling slips fixed (narcisus, tangerin, labdano, patchouly, frangipane). No perfumer, family, accords, release year or performance data is given on the pages, so those are null/empty. Country is taken from the site's FIRENZE branding; no distributors listed.",
+  "fragrances": [
+    {
+      "name": "Batuffolo",
+      "collection": null,
+      "concentration": "Luxury Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "jasmine",
+          "neroli",
+          "iris"
+        ],
+        "heart": [
+          "geranium",
+          "taif rose",
+          "lily"
+        ],
+        "base": [
+          "vanilla",
+          "blond wood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/batuffolo-luxury-cologne",
+          "name": "Teatro Fragranze Uniche - Batuffolo",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Borgo degli Agrumi",
+      "collection": null,
+      "concentration": "Luxury Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "bergamot",
+          "lemon",
+          "orange",
+          "lime"
+        ],
+        "heart": [
+          "lavender",
+          "rose",
+          "jasmine",
+          "rosemary"
+        ],
+        "base": [
+          "white musk",
+          "grey amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/borgo-degli-agrumi-luxury-cologne",
+          "name": "Teatro Fragranze Uniche - Borgo degli Agrumi",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ceresia",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "cherry",
+          "bergamot",
+          "fig leaf",
+          "almond milk"
+        ],
+        "heart": [
+          "turkish rose",
+          "gardenia",
+          "rosewood",
+          "tonka bean"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/ceresia-perfume-100-ml",
+          "name": "Teatro Fragranze Uniche - Ceresia",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cuoio Etrusco",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "frosted raspberry",
+          "saffron",
+          "white thyme"
+        ],
+        "heart": [
+          "suede",
+          "iris",
+          "jasmine"
+        ],
+        "base": [
+          "leather",
+          "amber wood",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/cuoio-etrusco-perfume-100-ml",
+          "name": "Teatro Fragranze Uniche - Cuoio Etrusco",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diamante",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "sugar crystal",
+          "amber powder",
+          "safranal"
+        ],
+        "heart": [
+          "amber extreme accord",
+          "ambrinol",
+          "galaxolide"
+        ],
+        "base": [
+          "karmawood",
+          "amberwood",
+          "timbertouch",
+          "siberian spruce",
+          "cedarwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/diamante-100-ml-perfume",
+          "name": "Teatro Fragranze Uniche - Diamante",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fiore",
+      "collection": null,
+      "concentration": "Luxury Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "gardenia",
+          "narcissus",
+          "jasmine"
+        ],
+        "heart": [
+          "frangipani",
+          "rose",
+          "cedarwood",
+          "patchouli"
+        ],
+        "base": [
+          "white musk",
+          "heliotrope"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/fiore-luxury-cologne",
+          "name": "Teatro Fragranze Uniche - Fiore",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Foglie di Fico",
+      "collection": null,
+      "concentration": "Luxury Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "fig leaf",
+          "orange",
+          "lemon"
+        ],
+        "heart": [
+          "lily of the valley",
+          "cedarwood",
+          "vetiver"
+        ],
+        "base": [
+          "white musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/foglie-di-fico-luxury-cologne",
+          "name": "Teatro Fragranze Uniche - Foglie di Fico",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nero Divino",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "calabrian bergamot",
+          "sweet sicilian orange",
+          "sicilian lemon",
+          "berry",
+          "strawberry grape"
+        ],
+        "heart": [
+          "russian leather",
+          "incense",
+          "madagascar black pepper",
+          "elemi"
+        ],
+        "base": [
+          "cedarwood",
+          "sandalwood",
+          "bamboo wood",
+          "vetiver",
+          "white musk",
+          "madagascar vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/nero-divino-perfume-100-ml",
+          "name": "Teatro Fragranze Uniche - Nero Divino",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oro",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "black pepper",
+          "pink pepper",
+          "clove",
+          "sage",
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
+          "frangipani",
+          "linden",
+          "jasmine",
+          "white flower"
+        ],
+        "base": [
+          "cedarwood",
+          "patchouli",
+          "vetiver",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/oro-100-ml-perfume",
+          "name": "Teatro Fragranze Uniche - Oro",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Papaia Ibisco",
+      "collection": null,
+      "concentration": "Eau de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "yellow nectarine",
+          "papaya",
+          "aquatic accent"
+        ],
+        "heart": [
+          "dehydrated apricot",
+          "jasmine",
+          "hibiscus"
+        ],
+        "base": [
+          "creamy sandalwood",
+          "vegetable musk",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/papaia-ibisco-profumo-100-ml-spray",
+          "name": "Teatro Fragranze Uniche - Papaia Ibisco",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Patchoulove",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "tangerine",
+          "davana oil",
+          "sesame seed"
+        ],
+        "heart": [
+          "vanilla",
+          "caramel",
+          "labdanum",
+          "tonka bean"
+        ],
+        "base": [
+          "patchouli",
+          "white musk",
+          "sandalwood",
+          "cedarwood",
+          "coconut",
+          "helichrysum"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/patchoulove-100-ml-perfume",
+          "name": "Teatro Fragranze Uniche - Patchoulove",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pompelmo Pepe",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "yuzu",
+          "lemon",
+          "cedar peel",
+          "pink pepper",
+          "black pepper"
+        ],
+        "heart": [
+          "rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood",
+          "vetiver",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/pompelmo-pepe-profumo-100-ml-spray",
+          "name": "Teatro Fragranze Uniche - Pompelmo Pepe",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pura Ambra",
+      "collection": null,
+      "concentration": "Luxury Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bulgarian rose",
+          "violet"
+        ],
+        "heart": [
+          "patchouli",
+          "cedarwood",
+          "clove"
+        ],
+        "base": [
+          "arabian amber",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/pura-ambra-luxury-cologne",
+          "name": "Teatro Fragranze Uniche - Pura Ambra",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rose Oud",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "damask rose",
+          "pink pepper",
+          "nutmeg",
+          "clove"
+        ],
+        "heart": [
+          "myrrh",
+          "opoponax",
+          "saffron",
+          "jasmine",
+          "geranium"
+        ],
+        "base": [
+          "oud",
+          "patchouli",
+          "sandalwood",
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/rose-oud-100-ml-perfume",
+          "name": "Teatro Fragranze Uniche - Rose Oud",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tabacco",
+      "collection": null,
+      "concentration": "Perfume",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ceylon cinnamon",
+          "clove",
+          "wormwood"
+        ],
+        "heart": [
+          "vetiver",
+          "rosewood",
+          "blond tobacco",
+          "coconut",
+          "green tea leaf"
+        ],
+        "base": [
+          "heliotrope",
+          "siamese benzoin",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/tabacco-100-ml-perfume",
+          "name": "Teatro Fragranze Uniche - Tabacco",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vento di Mare",
+      "collection": null,
+      "concentration": "Luxury Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "seaweed",
+          "melon",
+          "lemon"
+        ],
+        "heart": [
+          "jasmine",
+          "geranium",
+          "cyclamen"
+        ],
+        "base": [
+          "white musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/vento-di-mare-luxury-cologne",
+          "name": "Teatro Fragranze Uniche - Vento di Mare",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verde Lorena",
+      "collection": null,
+      "concentration": "Luxury Cologne",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lime",
+          "bergamot",
+          "green lemon",
+          "peppermint",
+          "wild mint"
+        ],
+        "heart": [
+          "violet",
+          "matcha tea",
+          "sweet fennel",
+          "white rose"
+        ],
+        "base": [
+          "cedarwood",
+          "vetiver",
+          "white musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://teatrofragranzeuniche.it/eu/verde-lorena-luxury-cologne",
+          "name": "Teatro Fragranze Uniche - Verde Lorena",
+          "type": "official",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}
