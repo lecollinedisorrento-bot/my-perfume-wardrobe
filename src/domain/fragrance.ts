@@ -112,4 +112,7 @@ export const SAMPLE_COLLECTION: { brand: string; name: string }[] = [
   { brand: 'Eight & Bob', name: 'Egypt' },
   { brand: 'Alexandre.J', name: 'Mandarine Sultane' },
   { brand: 'Pantheon Roma', name: 'Annone' },
+  { brand: 'The Library of Fragrance', name: 'Vanilla Cake Batter' },
+  { brand: 'Teatro Fragranze Uniche', name: 'Borgo degli Agrumi' },
+  { brand: 'Teatro Fragranze Uniche', name: 'Verde Lorena' },
 ];
