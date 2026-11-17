@@ -359,8 +359,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/tony-iommi",
+          "name": "Scents Angel — Xerjoff Tony Iommi Eau de parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel listing: longevity 10+ hours, strong sillage, bold projection."
     },
     {
       "name": "Renaissance",

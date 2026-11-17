@@ -158,8 +158,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/initio-oud-for-greatness-neo-eau-de-parfum-review",
+          "name": "Escentual — Initio Oud For Greatness Neo Eau de Parfum Review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual editorial review: lasted about 12 hours on the reviewer's skin; sillage weaker than the original Oud for Greatness but still noticeable after four hours; quiet confidence for people close by."
     },
     {
       "name": "Oud for Grace",

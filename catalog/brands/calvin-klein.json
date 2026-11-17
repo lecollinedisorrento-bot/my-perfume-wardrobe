@@ -533,8 +533,34 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://theperfume.vn/review-nuoc-hoa-ck-free-calvin-klein-edt/",
+          "name": "ThePerfume.vn — Review CK Free Calvin Klein EDT",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "TheParfume.vn review: longevity about 4-6 hours, projects roughly an arm's length; rated for spring-summer daytime."
     },
     {
       "name": "Euphoria for Men",
