@@ -78,8 +78,43 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://content.reviewr.org/bond-no-9-tribeca-edp/",
+          "name": "Reviewr — Bond No.9 TriBeCa EDP",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.lemon8-app.com/@cee50827/7339325096861073926?region=us",
+          "name": "Lemon8 — Bond no. 9 TriBeCa: My Honest Take",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Reviewr review: 6+ h, moderate sillage up to about 6 ft, best in cooler months, also fall and spring; a Lemon8 post says 6-8 h with non-room-filling sillage; Bond No. 9 FAQ says designed for daytime wear."
     },
     {
       "name": "Nomad",
@@ -205,7 +240,18 @@
             "family"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: crafted to last 6 to 8 hours, with a skin-close dry down; no sillage level stated."
     },
     {
       "name": "New York Nights",
@@ -246,7 +292,20 @@
             "accords"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: typically wears 6 to 8 hours; best suited for nighttime wear; no sillage level stated."
     },
     {
       "name": "Lafayette Street",

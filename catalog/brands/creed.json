@@ -217,8 +217,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.beautybible.com/beauty-bible-posts/jos-scent-notes-creed-oud-zarian",
+          "name": "Beauty Bible — Jo's Scent Notes: Creed Oud Zarian",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Beauty Bible (Jo's Scent Notes): still smelled on herself 8-10 hours after applying, 'record-breakingly long-lasting'; calls it warm and soft rather than punchy, no sillage level stated."
     },
     {
       "name": "Eladaria",
@@ -331,8 +350,34 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://my-smell.pl/blogs/blog-perfumy-do-pory-roku/creed-fragaria-nasza-opinia-2025",
+          "name": "my smell — Creed Fragaria (2025) review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "my smell blog review: about 6-7 hours on skin, moderate projection that sits closer to skin after 2-3 hours; suggested for warmer days, daytime and work."
     },
     {
       "name": "Royal Mayfair",
@@ -768,8 +813,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://amberandolivejournal.com/creed-carmina-review/",
+          "name": "Amber & Olive — Creed Carmina review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Amber & Olive review: roughly 3-4 hours of noticeable performance before it sits close to skin; confident projection and a substantial scent trail early on."
     },
     {
       "name": "Spring Flower",
@@ -2190,8 +2254,30 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/erolfa-by-creed.26120581/reviews/positive/",
+          "name": "Basenotes — Positive Reviews of Erolfa by Creed",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews: one gets roughly 4-5 hours and projection only in the first 1.5 hours, another says it never projects big; reviewers suggest warm weather or office wear."
     },
     {
       "name": "Bois du Portugal",
@@ -2584,8 +2670,30 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/pure-white-cologne-original-cologne-by-creed.26139895/reviews/",
+          "name": "Basenotes — Reviews of Pure White Cologne / Original Cologne by Creed",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews: whole wear about 5-6 hours, up to 7 for one reviewer; moderate sillage, very good projection in the opening that turns soft in the drydown; described as a summer cologne."
     },
     {
       "name": "Sublime Vanille",
@@ -2622,8 +2730,30 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/sublime-vanille-creed-review/",
+          "name": "Best Men's Colognes — Sublime Vanille by Creed review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Best Men's Colognes review: about 4-5 hours of longevity, projection decent but fairly soft; says the citrus lets it be worn in summer and works well in warm weather."
     }
   ]
 }

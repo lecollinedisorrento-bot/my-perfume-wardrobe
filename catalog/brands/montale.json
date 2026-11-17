@@ -2458,8 +2458,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://aromaauthority.com/reviews/arabians-tonka-review/",
+          "name": "Aroma Authority — Montale Arabians Tonka Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Aroma Authority review: 'exceptional' longevity and strong projection, lasts longer than you want on skin and clothes."
     },
     {
       "name": "Holy Musk",
@@ -2713,8 +2732,31 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.alzd.de/en/2023/06/16/rendez-vous-a-milan-and-oudyssee-by-montale-giveaway/",
+          "name": "Duft-Tagebuch — Rendez-vous à Milan and Oudyssee by Montale",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Duft-Tagebuch review: presence medium to strong, longevity excellent; suited to summery-sunny or spring-like weather."
     },
     {
       "name": "Infinity",
@@ -2761,8 +2803,34 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://perfumista.vn/nuoc-hoa-unisex/nuoc-hoa-montale-infinity-4369.html",
+          "name": "Perfumista — Montale Infinity",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Perfumista.vn listing: longevity 6-12 hours, projection 60 cm to 2 m; recommended for night, winter and autumn, evening parties and meetings."
     },
     {
       "name": "Holy Neroli",
@@ -2846,8 +2914,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=1Sd1AKAn7R4",
+          "name": "MissPrisyBaby — New Montale Crazy In Love review (YouTube)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "MissPrisyBaby video review: projects quite strongly for roughly the first 6-8 hours, still detectable after a shower."
     },
     {
       "name": "Roses Musk",
@@ -2921,8 +3008,35 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/intense-cafe-by-montale.26138394/reviews/",
+          "name": "Basenotes — Reviews of Intense Cafe by Montale",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/08/09/perfume-reviews-montale-intense-cafe-chocolate-greedy/",
+          "name": "Kafkaesque — Montale Intense Café & Chocolate Greedy",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: about 8 h longevity with good projection for 4+ h; another reports moderate sillage, excellent projection, 11 h. Kafkaesque: just under 10 h distinctive wear, typical Montale potency."
     },
     {
       "name": "Dark Vanilla",
@@ -2965,8 +3079,33 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://bsparfums.de/blogs/produkt-reviews/montale-dark-vanilla-review",
+          "name": "B&S Parfums — Montale Dark Vanilla review",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "B&S Parfums review: 8 to 12 hours on skin, very present sillage that fills larger rooms; best in autumn and winter, for evenings and cool days."
     },
     {
       "name": "Chocolate Greedy",
@@ -3002,8 +3141,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/chocolate-greedy-by-montale.26129084/reviews/",
+          "name": "Basenotes — Reviews of Chocolate Greedy by Montale",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: at least 8 hours, 'great sillage', 'enormous' performance by one, moderate by another; lasts 8+ hours and longer on clothes."
     },
     {
       "name": "Starry Nights",
@@ -3127,8 +3285,27 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/aoud-forest-by-montale.26136652/reviews/",
+          "name": "Basenotes — Reviews of Aoud Forest by Montale",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: lasts 8-10 hours with okay projection; moderate sillage with about 4 h of solid projection."
     }
   ]
 }

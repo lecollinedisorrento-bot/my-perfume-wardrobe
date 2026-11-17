@@ -36,8 +36,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentadvice.com/a-london-dandy-2026-penhaligons%F0%9F%94%BA/",
+          "name": "ScentAdvice — A London Dandy (2026) review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 1,
+        "projection": 1,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "ScentAdvice review: the weakest performer the writer tested, only a faint skin scent for some hours and very subtle (writer notes possible nose blindness); no hours of longevity given."
     },
     {
       "name": "Alula",
@@ -68,8 +87,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=60vqIKDLU6s",
+          "name": "Simba Scents — Penhaligon's AlUla review (YouTube)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Simba Scents video review: lasted about 7-8 hours on skin with medium projection."
     },
     {
       "name": "Halfeti",
@@ -174,8 +212,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://manforhimself.com/products/penhaligons-the-blazing-mr-sam-review/",
+          "name": "Man For Himself — Penhaligon's The Blazing Mr Sam review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Man For Himself review: star scores of 4/5 for longevity and 3/5 for sillage; no hours stated."
     },
     {
       "name": "Empressa",
@@ -206,8 +263,30 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/empressa-by-penhaligons.26143983/reviews/neutral/",
+          "name": "Basenotes — Empressa neutral reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: nearly gone within two hours, or about three hours with poor sillage and limited projection; called a spring office scent."
     },
     {
       "name": "Halfeti Leather",
@@ -238,8 +317,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://bestcologneformen.com/penhaligons-halfeti-leather-review/",
+          "name": "Best Cologne For Men — Halfeti Leather review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Best Cologne for Men review: easy 10+ hours from 3-5 sprays, called a beast-mode performer."
     },
     {
       "name": "Luna",
@@ -346,8 +444,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=uJKgkJ24opY",
+          "name": "Joy Amin — Penhaligon's The Coveted Duchess Rose review (YouTube)",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Joy Amin video review: about 5-6 hours on skin, called decent longevity for a Penhaligon's; no sillage level given."
     },
     {
       "name": "The Tragedy of Lord George",
@@ -461,8 +578,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://manforhimself.com/products/penhaligons-endymion-concentre/",
+          "name": "Man For Himself — Penhaligon's Endymion Concentré review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Man For Himself review: star scores of 4/5 for longevity and 3/5 for sillage; no hours stated."
     },
     {
       "name": "Elisabethan Rose",
@@ -493,8 +629,44 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://scentsandsensibilities.co/2020/05/18/roses-de-mai-marathon-elisabethan-rose-2018/",
+          "name": "Scents and Sensibilities — Elisabethan Rose 2018",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://thecandyperfumeboy.com/2018/05/25/perfume-review-elisabethan-rose-by-penhaligons/",
+          "name": "The Candy Perfume Boy — Elisabethan Rose review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "afternoon",
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Scents and Sensibilities blog: unexpected sillage, too noticeable for an office unless lightly applied, wearable year-round and for daytime or evening; Candy Perfume Boy: longevity impressive, lasting many hours (no figure)."
     },
     {
       "name": "Blenheim Bouquet",
@@ -701,8 +873,31 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumista.vn/nuoc-hoa-nam/nuoc-hoa-penhaligon-s-terrible-teddy-8430.html",
+          "name": "Perfumista — Terrible Teddy reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Perfumista.vn summary of user reviews (translated): short to moderate longevity and projection, usually fading within 4-6 hours, decent projection in the first hour; suited to autumn/winter and the office."
     },
     {
       "name": "Juniper Sling",
@@ -816,8 +1011,35 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://lostduckinc.wordpress.com/2017/05/01/penhaligons-artemisia/",
+          "name": "Lost Duck Inc — Penhaligon's Artemisia",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.themachomom.com/review-penhaligon-artemisia-edp/",
+          "name": "The Macho Mom — Penhaligon Artemisia EDP review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Lost Duck Inc: about 4 h on the writer with moderate sillage; The Macho Mom: little to no projection, a skin scent, but strong longevity (no hours). Sillage reports conflict, so left empty."
     },
     {
       "name": "Babylon",
@@ -848,8 +1070,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "http://perfumeposse.com/2021/08/26/babylon-penhaligons-review/",
+          "name": "Perfume Posse — Babylon by Penhaligon's",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume Posse review: sillage and projection moderate with excellent longevity (no hours given, mapped to 4)."
     },
     {
       "name": "Changing Constance",
@@ -880,8 +1121,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.lmching.com/blogs/news/review-penhaligons-changing-constance-eau-de-parfum-a-bold-fragrance-for-the-modern-woman",
+          "name": "LMCHING — Penhaligon's Changing Constance EDP review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "LMCHING review page: soft projection, long-lasting but close to skin; a customer still gets it after about six hours, another says it lasts nearly a whole day."
     }
   ]
 }

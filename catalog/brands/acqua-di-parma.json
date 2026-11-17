@@ -15,12 +15,57 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["lemon", "rosemary", "basil", "petitgrain", "mint"], "heart": ["mandarin", "lavandin"], "base": ["white musks", "cedar"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon",
+          "rosemary",
+          "basil",
+          "petitgrain",
+          "mint"
+        ],
+        "heart": [
+          "mandarin",
+          "lavandin"
+        ],
+        "base": [
+          "white musks",
+          "cedar"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-buongiorno", "name": "Olfastory — Acqua di Parma Buongiorno", "type": "database", "supports": ["notes", "family", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-buongiorno",
+          "name": "Olfastory — Acqua di Parma Buongiorno",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/acqua-di-parma-buongiorno-review/",
+          "name": "iFragrance — Acqua di Parma Buongiorno review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "iFragrance review: about 6-7 h on skin, projection light and noticeable a few feet away, soft sillage; no season or time stated."
     },
     {
       "name": "Cedro Virtuoso",
@@ -30,12 +75,62 @@
       "perfumer": "Fabrice Pellegrin",
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["bergamot", "cedar", "hazelnut", "musk"], "heart": ["cedar"], "base": ["tonka bean", "sandalwood", "ambroxan"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "cedar",
+          "hazelnut",
+          "musk"
+        ],
+        "heart": [
+          "cedar"
+        ],
+        "base": [
+          "tonka bean",
+          "sandalwood",
+          "ambroxan"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-cedro-virtuoso", "name": "Olfastory — Acqua di Parma Cedro Virtuoso", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-cedro-virtuoso",
+          "name": "Olfastory — Acqua di Parma Cedro Virtuoso",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.t3.com/home-living/beauty/i-tested-acqua-di-parma-cedro-virtuoso-a-long-lasting-transitional-scent-that-packs-a-punch",
+          "name": "T3 — I tested Acqua di Parma Cedro Virtuoso",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer",
+          "autumn"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "T3 hands-on test: one of the most long-lasting scents the writer tried, still strong in the evening after a morning spray and lingering on clothes for days; described as a summer-to-autumn transition scent; no sillage level given."
     },
     {
       "name": "Colonia C.L.U.B.",
@@ -45,16 +140,56 @@
       "perfumer": null,
       "family": "Aromatic",
       "accords": [],
-      "notes": { "top": ["bergamot", "lemon", "pink pepper", "black pepper"], "heart": ["shiso", "rosemary"], "base": ["cedar wood", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "pink pepper",
+          "black pepper"
+        ],
+        "heart": [
+          "shiso",
+          "rosemary"
+        ],
+        "base": [
+          "cedar wood",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-colonia-c-l-u-b/composition", "name": "Olfastory — Acqua di Parma Colonia C.L.U.B. composition", "type": "database", "supports": ["notes", "family", "concentration"] },
-        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Acqua di Parma Colonia Club", "type": "database", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-colonia-c-l-u-b/composition",
+          "name": "Olfastory — Acqua di Parma Colonia C.L.U.B. composition",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Acqua di Parma Colonia Club",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 3, "projection": null, "basis": "database" },
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
       "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
-      "usage": { "seasons": [], "times": [] }
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Mirto di Panarea La Riserva",
@@ -64,11 +199,38 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["citron", "sage", "juniper berries"], "heart": ["myrtle", "lavender", "myrrh"], "base": ["patchouli", "labdanum", "mastic"], "flat": [] },
+      "notes": {
+        "top": [
+          "citron",
+          "sage",
+          "juniper berries"
+        ],
+        "heart": [
+          "myrtle",
+          "lavender",
+          "myrrh"
+        ],
+        "base": [
+          "patchouli",
+          "labdanum",
+          "mastic"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-mirto-di-panarea-la-riserva", "name": "Olfastory — Mirto di Panarea La Riserva", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-mirto-di-panarea-la-riserva",
+          "name": "Olfastory — Mirto di Panarea La Riserva",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -79,11 +241,38 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["blood orange", "mandarin", "petitgrain"], "heart": ["rosemary", "basil", "salt", "mineral"], "base": ["cedar", "suede"], "flat": [] },
+      "notes": {
+        "top": [
+          "blood orange",
+          "mandarin",
+          "petitgrain"
+        ],
+        "heart": [
+          "rosemary",
+          "basil",
+          "salt",
+          "mineral"
+        ],
+        "base": [
+          "cedar",
+          "suede"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-arancia-di-capri-la-riserva", "name": "Olfastory — Arancia di Capri La Riserva", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-arancia-di-capri-la-riserva",
+          "name": "Olfastory — Arancia di Capri La Riserva",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -94,12 +283,57 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["mandarin", "blood orange", "grapefruit", "lemon"], "heart": ["iris", "fig"], "base": ["tonka bean", "orcanox"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "blood orange",
+          "grapefruit",
+          "lemon"
+        ],
+        "heart": [
+          "iris",
+          "fig"
+        ],
+        "base": [
+          "tonka bean",
+          "orcanox"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-fico-di-amalfi-la-riserva", "name": "Olfastory — Fico di Amalfi La Riserva", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-fico-di-amalfi-la-riserva",
+          "name": "Olfastory — Fico di Amalfi La Riserva",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumista.vn/nuoc-hoa-unisex/nuoc-hoa-acqua-di-parma-fico-di-amalfi-la-riserva-26475.html",
+          "name": "Perfumista — Fico di Amalfi La Riserva reviews",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfumista.vn user reviews (translated): lasts over 6 h but sits fairly close to skin, one tester notes a faint trace all day; EDP much better than the EDT."
     },
     {
       "name": "Oud",
@@ -109,16 +343,71 @@
       "perfumer": null,
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["bergamot", "orange"], "heart": ["amyris", "coriander", "oud"], "base": ["cedar", "leather", "patchouli", "sandalwood", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
+          "amyris",
+          "coriander",
+          "oud"
+        ],
+        "base": [
+          "cedar",
+          "leather",
+          "patchouli",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-oud", "name": "Olfastory — Acqua di Parma Oud", "type": "database", "supports": ["notes", "family", "concentration"] },
-        { "url": "https://www.michael84.co.uk/acqua-di-parma-oud-review", "name": "Michael 84 — Acqua Di Parma Oud Review", "type": "publication", "supports": ["performance", "usage"] },
-        { "url": "https://www.reddit.com/r/fragrance/comments/n5s4xi/acqua_di_parma_oud_review", "name": "Reddit r/fragrance — Acqua Di Parma Oud Review", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-oud",
+          "name": "Olfastory — Acqua di Parma Oud",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.michael84.co.uk/acqua-di-parma-oud-review",
+          "name": "Michael 84 — Acqua Di Parma Oud Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.reddit.com/r/fragrance/comments/n5s4xi/acqua_di_parma_oud_review",
+          "name": "Reddit r/fragrance — Acqua Di Parma Oud Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 4, "projection": 4, "basis": "reviews" },
-      "usage": { "seasons": ["autumn", "winter"], "times": ["evening"] },
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
       "performanceEvidence": "Michael 84 review: 8-9 hours, strong yet not overpowering, reasonable projection, best autumn/winter and evening; Reddit reviewer: 10-12h on skin, strong trail."
     },
     {
@@ -129,16 +418,66 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["lemon", "sweet orange", "calabrian bergamot"], "heart": ["lavender", "bulgarian rose", "verbena", "rosemary"], "base": ["vetiver", "sandalwood", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon",
+          "sweet orange",
+          "calabrian bergamot"
+        ],
+        "heart": [
+          "lavender",
+          "bulgarian rose",
+          "verbena",
+          "rosemary"
+        ],
+        "base": [
+          "vetiver",
+          "sandalwood",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-colonia", "name": "Olfastory — Acqua di Parma Colonia", "type": "database", "supports": ["notes", "family", "year", "concentration"] },
-        { "url": "https://basenotes.com/fragrances/acqua-di-parma-colonia-by-acqua-di-parma.26120042/reviews", "name": "Basenotes — Reviews of Acqua di Parma Colonia", "type": "publication", "supports": ["performance"] },
-        { "url": "http://www.scentgourmand.com/colonia-by-acqua-di-parma", "name": "Scent Gourmand — Colonia by Acqua di Parma review", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/acqua-di-parma-colonia",
+          "name": "Olfastory — Acqua di Parma Colonia",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/acqua-di-parma-colonia-by-acqua-di-parma.26120042/reviews",
+          "name": "Basenotes — Reviews of Acqua di Parma Colonia",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "http://www.scentgourmand.com/colonia-by-acqua-di-parma",
+          "name": "Scent Gourmand — Colonia by Acqua di Parma review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 2, "sillage": 2, "projection": 2, "basis": "reviews" },
-      "usage": { "seasons": [], "times": [] },
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
       "performanceEvidence": "Basenotes reviewers: poor longevity and sillage, '2-3 hours at most', quickly a skin scent; Scent Gourmand: longevity, sillage and projection weak, just a few hours."
     },
     {
@@ -149,16 +488,59 @@
       "perfumer": "François Demachy",
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["bergamot", "orange", "petitgrain"], "heart": ["coriander", "sambac jasmine", "narcissus"], "base": ["cedar", "patchouli", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "orange",
+          "petitgrain"
+        ],
+        "heart": [
+          "coriander",
+          "sambac jasmine",
+          "narcissus"
+        ],
+        "base": [
+          "cedar",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/colonia-pura", "name": "Olfastory — Acqua di Parma Colonia Pura", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] },
-        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Acqua di Parma Colonia Pura", "type": "database", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/colonia-pura",
+          "name": "Olfastory — Acqua di Parma Colonia Pura",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Acqua di Parma Colonia Pura",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 3, "projection": null, "basis": "database" },
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
       "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
-      "usage": { "seasons": [], "times": [] }
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Peonia Nobile",
@@ -168,16 +550,58 @@
       "perfumer": null,
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["black pepper", "raspberry"], "heart": ["peony", "geranium", "freesia", "rose"], "base": ["amber", "patchouli", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "black pepper",
+          "raspberry"
+        ],
+        "heart": [
+          "peony",
+          "geranium",
+          "freesia",
+          "rose"
+        ],
+        "base": [
+          "amber",
+          "patchouli",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/peonia-nobile", "name": "Olfastory — Acqua di Parma Peonia Nobile", "type": "database", "supports": ["notes", "family", "year", "concentration"] },
-        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Acqua di Parma Peonia Nobile", "type": "database", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/peonia-nobile",
+          "name": "Olfastory — Acqua di Parma Peonia Nobile",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Acqua di Parma Peonia Nobile",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 3, "projection": null, "basis": "database" },
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
       "performanceEvidence": "Perfume Picks community scores: longevity 4/5, sillage 3/5",
-      "usage": { "seasons": [], "times": [] }
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Magnolia Nobile",
@@ -187,12 +611,61 @@
       "perfumer": "Antoine Maisondieu",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["bergamot", "lemon", "citron"], "heart": ["magnolia", "rose", "tuberose", "sambac jasmine"], "base": ["sandalwood", "patchouli", "vetiver", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "citron"
+        ],
+        "heart": [
+          "magnolia",
+          "rose",
+          "tuberose",
+          "sambac jasmine"
+        ],
+        "base": [
+          "sandalwood",
+          "patchouli",
+          "vetiver",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/magnolia-nobile", "name": "Olfastory — Acqua di Parma Magnolia Nobile", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/magnolia-nobile",
+          "name": "Olfastory — Acqua di Parma Magnolia Nobile",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/magnolia-nobile-by-acqua-di-parma.26131040/reviews/positive/",
+          "name": "Basenotes — Magnolia Nobile positive reviews",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews: staying power 'great', sillage 'super' (a little goes far), one reviewer reports about six hours with very good sillage and projection."
     },
     {
       "name": "Gelsomino a Freddo",
@@ -202,11 +675,39 @@
       "perfumer": "Daphné Bugey",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["lemon", "pink pepper", "mugwort"], "heart": ["jasmine", "black tea", "iris"], "base": ["guaiac wood", "patchouli", "cypriol"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon",
+          "pink pepper",
+          "mugwort"
+        ],
+        "heart": [
+          "jasmine",
+          "black tea",
+          "iris"
+        ],
+        "base": [
+          "guaiac wood",
+          "patchouli",
+          "cypriol"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/gelsomino-a-freddo", "name": "Olfastory — Acqua di Parma Gelsomino a Freddo", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/gelsomino-a-freddo",
+          "name": "Olfastory — Acqua di Parma Gelsomino a Freddo",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -217,17 +718,75 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["orange", "mandarin", "lemon"], "heart": ["petitgrain", "cardamom"], "base": ["caramel", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "orange",
+          "mandarin",
+          "lemon"
+        ],
+        "heart": [
+          "petitgrain",
+          "cardamom"
+        ],
+        "base": [
+          "caramel",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/arancia-di-capri-eau-de-toilette", "name": "Olfastory — Acqua di Parma Arancia di Capri Eau de Toilette", "type": "database", "supports": ["notes", "family", "year", "concentration"] },
-        { "url": "https://bestmenscolognes.com/arancia-di-capri-parma-review", "name": "Best Men's Colognes — Arancia di Capri review", "type": "publication", "supports": ["performance", "usage"] },
-        { "url": "https://basenotes.com/fragrances/blu-mediterraneo-arancia-di-capri-by-acqua-di-parma.26124313/reviews", "name": "Basenotes — Reviews of Blu Mediterraneo Arancia di Capri", "type": "publication", "supports": ["performance"] },
-        { "url": "https://www.fragrancenet.com/cologne/acqua-di-parma/acqua-di-parma-blue-mediterraneo-arancia-di-capri/edt", "name": "FragranceNet — Blu Mediterraneo Arancia di Capri EDT reviews", "type": "retailer", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/arancia-di-capri-eau-de-toilette",
+          "name": "Olfastory — Acqua di Parma Arancia di Capri Eau de Toilette",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/arancia-di-capri-parma-review",
+          "name": "Best Men's Colognes — Arancia di Capri review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/blu-mediterraneo-arancia-di-capri-by-acqua-di-parma.26124313/reviews",
+          "name": "Basenotes — Reviews of Blu Mediterraneo Arancia di Capri",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.fragrancenet.com/cologne/acqua-di-parma/acqua-di-parma-blue-mediterraneo-arancia-di-capri/edt",
+          "name": "FragranceNet — Blu Mediterraneo Arancia di Capri EDT reviews",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 2, "projection": 2, "basis": "reviews" },
-      "usage": { "seasons": ["spring", "summer"], "times": [] },
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
       "performanceEvidence": "Best Men's Colognes: strong opening then skin scent, about 4-5 hours, warm weather; Basenotes reviewers range 6-8 hours with low-to-moderate projection; FragranceNet buyers: 3-4 hours."
     },
     {
@@ -238,16 +797,60 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["myrtle", "basil", "lemon", "bergamot"], "heart": ["marine note", "jasmine", "damask rose"], "base": ["mastic", "juniper berries", "cedar", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "myrtle",
+          "basil",
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "marine note",
+          "jasmine",
+          "damask rose"
+        ],
+        "base": [
+          "mastic",
+          "juniper berries",
+          "cedar",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/mirto-di-panarea-eau-de-toilette", "name": "Olfastory — Acqua di Parma Mirto di Panarea Eau de Toilette", "type": "database", "supports": ["notes", "family", "year", "concentration"] },
-        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Acqua di Parma Blu Mediterraneo Mirto di Panarea", "type": "database", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/mirto-di-panarea-eau-de-toilette",
+          "name": "Olfastory — Acqua di Parma Mirto di Panarea Eau de Toilette",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Acqua di Parma Blu Mediterraneo Mirto di Panarea",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 3, "projection": null, "basis": "database" },
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
       "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
-      "usage": { "seasons": [], "times": [] }
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Mandorlo di Sicilia",
@@ -257,15 +860,61 @@
       "perfumer": null,
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["star anise", "bergamot", "orange"], "heart": ["almond", "ylang-ylang"], "base": ["vanilla", "cedar", "tolu balsam", "white musks"], "flat": [] },
+      "notes": {
+        "top": [
+          "star anise",
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
+          "almond",
+          "ylang-ylang"
+        ],
+        "base": [
+          "vanilla",
+          "cedar",
+          "tolu balsam",
+          "white musks"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/mandorlo-di-sicilia", "name": "Olfastory — Acqua di Parma Mandorlo di Sicilia", "type": "database", "supports": ["notes", "family", "year", "concentration"] },
-        { "url": "https://besuitedaroma.com/mandarlo-di-sicilia-edt-acqua-di-parma-review", "name": "Besuited Aroma — Mandorlo di Sicilia EDT Review", "type": "publication", "supports": ["performance", "usage"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/mandorlo-di-sicilia",
+          "name": "Olfastory — Acqua di Parma Mandorlo di Sicilia",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://besuitedaroma.com/mandarlo-di-sicilia-edt-acqua-di-parma-review",
+          "name": "Besuited Aroma — Mandorlo di Sicilia EDT Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 1, "projection": 2, "basis": "reviews" },
-      "usage": { "seasons": ["spring", "autumn"], "times": [] },
+      "performance": {
+        "longevity": 4,
+        "sillage": 1,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": []
+      },
       "performanceEvidence": "Besuited Aroma review: 6-7 hours on skin, intimate projection of one to two feet, scent trail virtually nonexistent; all-season except the coldest winter and hottest summer days."
     },
     {
@@ -276,17 +925,75 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["bergamot", "citron"], "heart": ["cedar", "ginger"], "base": ["vetiver", "benzoin", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "citron"
+        ],
+        "heart": [
+          "cedar",
+          "ginger"
+        ],
+        "base": [
+          "vetiver",
+          "benzoin",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/bergamotto-di-calabria", "name": "Olfastory — Acqua di Parma Bergamotto di Calabria", "type": "database", "supports": ["notes", "family", "year", "concentration"] },
-        { "url": "https://www.michael84.co.uk/acqua-di-parma-bergamotto-di-calabria-review/", "name": "Michael 84 — Acqua Di Parma Bergamotto Di Calabria Review", "type": "publication", "supports": ["performance", "usage"] },
-        { "url": "https://basenotes.com/fragrances/blu-mediterraneo-bergamotto-di-calabria-by-acqua-di-parma.26131352/reviews/", "name": "Basenotes — Reviews of Blu Mediterraneo Bergamotto di Calabria", "type": "publication", "supports": ["performance"] },
-        { "url": "https://bestmenscolognes.com/bergamotto-di-calabria-review", "name": "Best Men's Colognes — Bergamotto di Calabria review", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/bergamotto-di-calabria",
+          "name": "Olfastory — Acqua di Parma Bergamotto di Calabria",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.michael84.co.uk/acqua-di-parma-bergamotto-di-calabria-review/",
+          "name": "Michael 84 — Acqua Di Parma Bergamotto Di Calabria Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/blu-mediterraneo-bergamotto-di-calabria-by-acqua-di-parma.26131352/reviews/",
+          "name": "Basenotes — Reviews of Blu Mediterraneo Bergamotto di Calabria",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/bergamotto-di-calabria-review",
+          "name": "Best Men's Colognes — Bergamotto di Calabria review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 2, "projection": 2, "basis": "reviews" },
-      "usage": { "seasons": ["spring", "summer"], "times": [] },
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
       "performanceEvidence": "Michael 84: 4-5 hours, noticeable on self and nearby, spring/summer; Basenotes reviewer: soft sillage, poor projection after the top, about 4 hours; another review: gone within 2-3 hours."
     },
     {
@@ -297,12 +1004,77 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["lemon", "orange", "bergamot", "mandarin", "grapefruit", "neroli", "petitgrain"], "heart": ["rosemary", "lily of the valley", "rose", "jasmine", "clove"], "base": ["vetiver", "patchouli", "white musks", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon",
+          "orange",
+          "bergamot",
+          "mandarin",
+          "grapefruit",
+          "neroli",
+          "petitgrain"
+        ],
+        "heart": [
+          "rosemary",
+          "lily of the valley",
+          "rose",
+          "jasmine",
+          "clove"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli",
+          "white musks",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/colonia-essenza", "name": "Olfastory — Acqua di Parma Colonia Essenza", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/colonia-essenza",
+          "name": "Olfastory — Acqua di Parma Colonia Essenza",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://scentgrail.com/holy-grail-scents/colonia-essenza-review/",
+          "name": "Scent Grail — Colonia Essenza review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/threads/colonia-essenza-projection-and-longevity.407093/",
+          "name": "Basenotes — Colonia Essenza. Projection and longevity?",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Scent Grail review: 6-8 h with moderate sillage, best in warm weather (spring/summer); Basenotes thread: owners report 5-7 h, 2-3 h of projection; Cafleurebon: excellent longevity, above-average sillage."
     },
     {
       "name": "Colonia Il Profumo",
@@ -312,12 +1084,56 @@
       "perfumer": null,
       "family": "Aromatic",
       "accords": [],
-      "notes": { "top": ["bergamot", "grapefruit", "blood orange", "petitgrain"], "heart": ["rosemary", "ylang-ylang"], "base": ["vetiver", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "blood orange",
+          "petitgrain"
+        ],
+        "heart": [
+          "rosemary",
+          "ylang-ylang"
+        ],
+        "base": [
+          "vetiver",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/colonia-il-profumo", "name": "Olfastory — Acqua di Parma Colonia Il Profumo", "type": "database", "supports": ["notes", "family", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/colonia-il-profumo",
+          "name": "Olfastory — Acqua di Parma Colonia Il Profumo",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/acqua-di-parma-colonia-il-profumo-eau-de-parfum-review",
+          "name": "Escentual — Colonia Il Profumo Eau de Parfum review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: the longest-lasting Colonia the writer has tried, still on skin 4 h after spraying (a lower bound; no sillage level given)."
     },
     {
       "name": "Blu Mediterraneo Fico di Amalfi",
@@ -327,16 +1143,58 @@
       "perfumer": null,
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["lemon", "bergamot", "grapefruit"], "heart": ["fig", "jasmine", "pink pepper"], "base": ["fig", "cedar", "benzoin"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon",
+          "bergamot",
+          "grapefruit"
+        ],
+        "heart": [
+          "fig",
+          "jasmine",
+          "pink pepper"
+        ],
+        "base": [
+          "fig",
+          "cedar",
+          "benzoin"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/blu-mediterraneo-fico-di-amalfi", "name": "Olfastory — Acqua di Parma Blu Mediterraneo Fico di Amalfi", "type": "database", "supports": ["notes", "family", "year", "concentration"] },
-        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Acqua di Parma Blu Mediterraneo Fico di Amalfi", "type": "database", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/blu-mediterraneo-fico-di-amalfi",
+          "name": "Olfastory — Acqua di Parma Blu Mediterraneo Fico di Amalfi",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Acqua di Parma Blu Mediterraneo Fico di Amalfi",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 3, "projection": null, "basis": "database" },
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
       "performanceEvidence": "Perfume Picks community scores: longevity 3/5, sillage 3/5",
-      "usage": { "seasons": [], "times": [] }
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Mandarino di Sicilia",
@@ -346,16 +1204,69 @@
       "perfumer": null,
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["bergamot", "mandarin", "blood orange", "lemon"], "heart": ["petitgrain", "mint"], "base": ["musk", "patchouli", "cedar"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "blood orange",
+          "lemon"
+        ],
+        "heart": [
+          "petitgrain",
+          "mint"
+        ],
+        "base": [
+          "musk",
+          "patchouli",
+          "cedar"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/mandarino-di-sicilia", "name": "Olfastory — Acqua di Parma Mandarino di Sicilia", "type": "database", "supports": ["notes", "family", "year", "concentration"] },
-        { "url": "https://ifragranceofficial.com/acqua-di-parma-mandarino-di-sicilia-review/", "name": "iFragrance — Acqua di Parma Mandarino di Sicilia Review", "type": "publication", "supports": ["performance", "usage"] },
-        { "url": "https://www.ferwer.com/acqua-di-parma-blu-mediterraneo-mandarino-di-sicilia-unisex-eau-de-toilette", "name": "Ferwer — Blu Mediterraneo Mandarino di Sicilia EDT", "type": "retailer", "supports": ["usage"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/mandarino-di-sicilia",
+          "name": "Olfastory — Acqua di Parma Mandarino di Sicilia",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/acqua-di-parma-mandarino-di-sicilia-review/",
+          "name": "iFragrance — Acqua di Parma Mandarino di Sicilia Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.ferwer.com/acqua-di-parma-blu-mediterraneo-mandarino-di-sicilia-unisex-eau-de-toilette",
+          "name": "Ferwer — Blu Mediterraneo Mandarino di Sicilia EDT",
+          "type": "retailer",
+          "supports": [
+            "usage"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 2, "projection": 2, "basis": "reviews" },
-      "usage": { "seasons": ["spring", "summer"], "times": [] },
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
       "performanceEvidence": "iFragrance review: clings 6-8 hours, soft sillage after the first hour, not beast mode, a summer staple; Ferwer retailer text: best in spring and summer."
     },
     {
@@ -366,18 +1277,88 @@
       "perfumer": null,
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["cardamom", "ginger", "bergamot", "lemon"], "heart": ["neroli", "myrtle", "mugwort"], "base": ["musk", "benzoin", "patchouli", "cedar", "leather"], "flat": [] },
+      "notes": {
+        "top": [
+          "cardamom",
+          "ginger",
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "neroli",
+          "myrtle",
+          "mugwort"
+        ],
+        "base": [
+          "musk",
+          "benzoin",
+          "patchouli",
+          "cedar",
+          "leather"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/colonia-intensa", "name": "Olfastory — Acqua di Parma Colonia Intensa", "type": "database", "supports": ["notes", "family", "year", "concentration"] },
-        { "url": "https://www.fragranzo.com/blog/what-does-colonia-intensa-acqua-di-parma-smell-like", "name": "Fragranzo — What Does Colonia Intensa Smell Like", "type": "publication", "supports": ["performance"] },
-        { "url": "https://nstperfume.com/2008/01/04/acqua-di-parma-colonia-intensa-fragrance-review", "name": "Now Smell This — Acqua di Parma Colonia Intensa review", "type": "publication", "supports": ["performance"] },
-        { "url": "https://basenotes.com/fragrances/colonia-intensa-by-acqua-di-parma.26128517", "name": "Basenotes — Colonia Intensa reviews", "type": "publication", "supports": ["performance", "usage"] },
-        { "url": "https://www.amazon.com/Acqua-Parma-Colonia-Intensa-Cologne/dp/B001CKD35Q", "name": "Amazon — Acqua di Parma Colonia Intensa listing", "type": "retailer", "supports": ["performance"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/colonia-intensa",
+          "name": "Olfastory — Acqua di Parma Colonia Intensa",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragranzo.com/blog/what-does-colonia-intensa-acqua-di-parma-smell-like",
+          "name": "Fragranzo — What Does Colonia Intensa Smell Like",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://nstperfume.com/2008/01/04/acqua-di-parma-colonia-intensa-fragrance-review",
+          "name": "Now Smell This — Acqua di Parma Colonia Intensa review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/colonia-intensa-by-acqua-di-parma.26128517",
+          "name": "Basenotes — Colonia Intensa reviews",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.amazon.com/Acqua-Parma-Colonia-Intensa-Cologne/dp/B001CKD35Q",
+          "name": "Amazon — Acqua di Parma Colonia Intensa listing",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 3, "projection": 3, "basis": "reviews" },
-      "usage": { "seasons": ["spring", "summer"], "times": [] },
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
       "performanceEvidence": "Fragranzo and Amazon listing: about 6-8 hours (7 h scent duration) with moderate sillage; Now Smell This: very good lasting power but stays close to the body; Basenotes: projection decent, suited to warm spring/summer."
     },
     {
@@ -388,12 +1369,62 @@
       "perfumer": null,
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["bergamot", "lemon", "orange", "petitgrain"], "heart": ["lavender", "cardamom"], "base": ["sandalwood", "amber", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "lemon",
+          "orange",
+          "petitgrain"
+        ],
+        "heart": [
+          "lavender",
+          "cardamom"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/sandalo", "name": "Olfastory — Acqua di Parma Sandalo", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/sandalo",
+          "name": "Olfastory — Acqua di Parma Sandalo",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.schoolofscent.com/reviewsdetailedblog/acquadiparmasandalo",
+          "name": "School of Scent — Acqua di Parma Sandalo",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "School of Scent review: about 12 h with moderate projection; recommended for cold weather or the office."
     },
     {
       "name": "Quercia",
@@ -403,11 +1434,39 @@
       "perfumer": null,
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["lemon", "bergamot", "petitgrain", "pink pepper"], "heart": ["cardamom", "geranium", "cedar"], "base": ["tonka bean", "patchouli", "oakmoss"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon",
+          "bergamot",
+          "petitgrain",
+          "pink pepper"
+        ],
+        "heart": [
+          "cardamom",
+          "geranium",
+          "cedar"
+        ],
+        "base": [
+          "tonka bean",
+          "patchouli",
+          "oakmoss"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/quercia", "name": "Olfastory — Acqua di Parma Quercia", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/quercia",
+          "name": "Olfastory — Acqua di Parma Quercia",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -418,12 +1477,59 @@
       "perfumer": "François Demachy",
       "family": "Woody",
       "accords": [],
-      "notes": { "top": ["bergamot", "raspberry", "rose"], "heart": ["cinnamon", "pink pepper", "clove"], "base": ["oud", "patchouli", "labdanum"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "raspberry",
+          "rose"
+        ],
+        "heart": [
+          "cinnamon",
+          "pink pepper",
+          "clove"
+        ],
+        "base": [
+          "oud",
+          "patchouli",
+          "labdanum"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/oud-and-spice", "name": "Olfastory — Acqua di Parma Oud & Spice", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/oud-and-spice",
+          "name": "Olfastory — Acqua di Parma Oud & Spice",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/acqua-di-parma-oud-spice-eau-de-parfum-review",
+          "name": "Escentual — Oud & Spice Eau de Parfum review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: lasted seven to eight hours on skin, described as fantastic longevity; no sillage level given."
     },
     {
       "name": "Zafferano",
@@ -433,12 +1539,61 @@
       "perfumer": null,
       "family": "Oriental",
       "accords": [],
-      "notes": { "top": ["mandarin", "bergamot", "coriander", "orange"], "heart": ["sambac jasmine", "geranium", "rose", "saffron", "orange blossom"], "base": ["vanilla", "tonka bean", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "coriander",
+          "orange"
+        ],
+        "heart": [
+          "sambac jasmine",
+          "geranium",
+          "rose",
+          "saffron",
+          "orange blossom"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/zafferano", "name": "Olfastory — Acqua di Parma Zafferano", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/zafferano",
+          "name": "Olfastory — Acqua di Parma Zafferano",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/acqua-di-parma-zafferano-eau-de-parfum-review",
+          "name": "Escentual — Zafferano Eau de Parfum review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: you smell clean and fresh for up to 6 hours; no sillage level given."
     },
     {
       "name": "Magnolia Infinita",
@@ -448,12 +1603,58 @@
       "perfumer": null,
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["calabrian bergamot", "orange", "lemon"], "heart": ["sambac jasmine", "magnolia", "rose", "ylang-ylang"], "base": ["musk", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "calabrian bergamot",
+          "orange",
+          "lemon"
+        ],
+        "heart": [
+          "sambac jasmine",
+          "magnolia",
+          "rose",
+          "ylang-ylang"
+        ],
+        "base": [
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/magnolia-infinita", "name": "Olfastory — Acqua di Parma Magnolia Infinita", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/magnolia-infinita",
+          "name": "Olfastory — Acqua di Parma Magnolia Infinita",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/acqua-di-parma-magnolia-infinita-eau-de-parfum-review",
+          "name": "Escentual — Magnolia Infinita Eau de Parfum review",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: still lingering after more than six hours on wrists; no sillage level given."
     },
     {
       "name": "Luce di Rosa",
@@ -463,12 +1664,63 @@
       "perfumer": null,
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["bergamot", "pink pepper"], "heart": ["bulgarian rose", "geranium", "black pepper"], "base": ["vetiver", "guaiac wood", "cedar"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "geranium",
+          "black pepper"
+        ],
+        "base": [
+          "vetiver",
+          "guaiac wood",
+          "cedar"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/luce-di-rosa", "name": "Olfastory — Acqua di Parma Luce di Rosa", "type": "database", "supports": ["notes", "family", "year", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/luce-di-rosa",
+          "name": "Olfastory — Acqua di Parma Luce di Rosa",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://escentual.com/blogs/editorial/acqua-di-parma-luce-di-rosa-eau-de-parfum-review",
+          "name": "Escentual — Luce di Rosa Eau de Parfum review",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Escentual review: lasted around 5 hours on the writer; suited to spring and summer for its floral side and to autumn and winter for its spicy side; no sillage level given."
     },
     {
       "name": "Rosa Nobile",
@@ -478,11 +1730,40 @@
       "perfumer": "François Demachy",
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["mandarin", "bergamot", "pink pepper"], "heart": ["rose", "violet", "lily of the valley", "peony"], "base": ["white musks", "cedar", "ambergris"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "rose",
+          "violet",
+          "lily of the valley",
+          "peony"
+        ],
+        "base": [
+          "white musks",
+          "cedar",
+          "ambergris"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/rosa-nobile", "name": "Olfastory — Acqua di Parma Rosa Nobile", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
+        {
+          "url": "https://www.olfastory.com/en/perfume/rosa-nobile",
+          "name": "Olfastory — Acqua di Parma Rosa Nobile",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -493,12 +1774,71 @@
       "perfumer": "François Demachy",
       "family": "Citrus",
       "accords": [],
-      "notes": { "top": ["mandarin", "mint", "bergamot", "orange"], "heart": ["hedione", "tea"], "base": ["vetiver", "white musks", "cedar", "cistus"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "mint",
+          "bergamot",
+          "orange"
+        ],
+        "heart": [
+          "hedione",
+          "tea"
+        ],
+        "base": [
+          "vetiver",
+          "white musks",
+          "cedar",
+          "cistus"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.olfastory.com/en/perfume/blu-mediterraneo-cedro-di-taormina", "name": "Olfastory — Acqua di Parma Blu Mediterraneo Cedro di Taormina", "type": "database", "supports": ["notes", "family", "year", "perfumer", "concentration"] }
-      ]
+        {
+          "url": "https://www.olfastory.com/en/perfume/blu-mediterraneo-cedro-di-taormina",
+          "name": "Olfastory — Acqua di Parma Blu Mediterraneo Cedro di Taormina",
+          "type": "database",
+          "supports": [
+            "notes",
+            "family",
+            "year",
+            "perfumer",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://bespokeunit.com/articles/fragrance/acqua-di-parma-cedro-di-taormina/",
+          "name": "Bespoke Unit — Acqua di Parma Cedro di Taormina review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.vintagenonchalance.com/acqua-di-parma-cedro-di-taormina-fragrance-review/",
+          "name": "Vintage Nonchalance — Cedro di Taormina review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Bespoke Unit review: lasts through the day, moderate sillage, scent bubble of a few feet; Vintage Nonchalance: excellent performance that grows in the heat."
     }
   ]
 }

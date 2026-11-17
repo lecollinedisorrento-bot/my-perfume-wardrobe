@@ -117,8 +117,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://manforhimself.com/products/jo-malone-cypress-grapevine-cologne-intense-review/",
+          "name": "Man For Himself — Jo Malone Cypress & Grapevine Cologne Intense Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Man For Himself review: sillage is there but more of a nuzzler than a shouty scent; longevity middle-of-the-road and needs a top-up spritz during the day."
     },
     {
       "name": "Hinoki & Cedarwood",
@@ -148,8 +167,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.whowhatwear.com/beauty/fragrance/jo-malone-hinoki-and-cedarwood-cologne-review",
+          "name": "Who What Wear — Reviewed by Editors: Jo Malone's Hinoki & Cedarwood Cologne",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Who What Wear editor review: still going strong eight hours after a morning application; longer-lasting than regular Jo Malone colognes; no sillage level stated."
     },
     {
       "name": "Iris & White Musk",
@@ -638,8 +676,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/velvet-rose-oud-by-jo-malone-london.26136411/reviews/",
+          "name": "Basenotes — Reviews of Velvet Rose & Oud by Jo Malone London",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews: mostly about 5-7 h, light sillage and little projection, drops off after the first hours; one reviewer reports up to 16 h."
     },
     {
       "name": "Wood Sage & Sea Salt",
@@ -802,8 +859,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://www.emtalks.co.uk/2025/03/jo-malone-beach-blossom-cologne-review.html",
+          "name": "emtalks — Jo Malone Beach Blossom Cologne Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "emtalks blog review: lasts around 4-6 h on the reviewer's skin; no sillage level stated."
     },
     {
       "name": "Star Magnolia",
@@ -937,8 +1013,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/orange-bitters-by-jo-malone-london.26150998/reviews/",
+          "name": "Basenotes — Reviews of Orange Bitters by Jo Malone London",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews: one reviewer 4-5 h and discreet, another ten hours with moderate sillage and good projection; typical Jo Malone wear in between."
     }
   ]
 }

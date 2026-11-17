@@ -42,8 +42,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/carolina-herrera-cedar-chic-edp",
+          "name": "Venba — Carolina Herrera Cedar Chic EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Venba decant listing: roughly 4-6 hours (some skins up to 8, others 3-4), moderate sillage settling to a skin scent after the first couple of hours."
     },
     {
       "name": "Peccato Nobile",
@@ -121,8 +140,34 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumista.vn/nuoc-hoa-unisex/nuoc-hoa-carolina-herrera-emerald-musk-51592.html",
+          "name": "Perfumista.vn — Carolina Herrera Emerald Musk",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Perfumista.vn review page: longevity 6-12 hours, projection about 60 cm to 2 m, for evening events in cool autumn-winter weather; one reviewer there calls performance only average."
     },
     {
       "name": "Sandal Ruby",

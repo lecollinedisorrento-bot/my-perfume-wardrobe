@@ -15,16 +15,57 @@
       "perfumer": null,
       "family": "Woody Oriental",
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["cinnamon", "saffron", "copaiba balm", "oud"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "cinnamon",
+          "saffron",
+          "copaiba balm",
+          "oud"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-oud-velvet-mood-exp-70ml/9209774", "name": "Nordstrom — Maison Francis Kurkdjian Oud Velvet Mood Extrait de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] },
-        { "url": "https://www.thecut.com/article/maison-francis-kurkdjian-oud-velvet-mood-extrait-review.html", "name": "The Cut — Maison Francis Kurkdjian Oud Velvet Mood Extrait review", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-oud-velvet-mood-exp-70ml/9209774",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Velvet Mood Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.thecut.com/article/maison-francis-kurkdjian-oud-velvet-mood-extrait-review.html",
+          "name": "The Cut — Maison Francis Kurkdjian Oud Velvet Mood Extrait review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": null, "sillage": 4, "projection": null, "basis": "reviews" },
-      "usage": { "seasons": [], "times": [] },
+      "performance": {
+        "longevity": null,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
       "performanceEvidence": "The Cut review: the extrait has more presence and persistence than the parfum, fills a room, and lasts for days when sprayed on clothes (no hours given for skin)."
     },
     {
@@ -35,13 +76,60 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["italian bergamot", "blue chamomile", "bulgarian rose", "hedione", "guaiac wood", "oud", "papyrus"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "italian bergamot",
+          "blue chamomile",
+          "bulgarian rose",
+          "hedione",
+          "guaiac wood",
+          "oud",
+          "papyrus"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-oud-silk-mood-eau-de-parfum/5495620", "name": "Nordstrom — Maison Francis Kurkdjian Oud Silk Mood Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes"] }
-      ]
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-oud-silk-mood-eau-de-parfum/5495620",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Silk Mood Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/oud-silk-mood-by-maison-francis-kurkdjian.26138076/reviews/",
+          "name": "Basenotes — Reviews of Oud Silk Mood by Maison Francis Kurkdjian",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews: 7-8+ hours with moderate but persistent sillage in one, about nine hours with moderate sillage and very good projection in another; reviewers advise only 2-3 sprays."
     },
     {
       "name": "Oud Silk Mood",
@@ -51,12 +139,40 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["italian bergamot", "bulgarian rose"], "heart": ["guaiac wood"], "base": ["oud", "papyrus"], "flat": [] },
+      "notes": {
+        "top": [
+          "italian bergamot",
+          "bulgarian rose"
+        ],
+        "heart": [
+          "guaiac wood"
+        ],
+        "base": [
+          "oud",
+          "papyrus"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/oud-silk-mood-extrait-de-parfum/7591660", "name": "Nordstrom — Maison Francis Kurkdjian Oud Silk Mood Extrait de Parfum", "type": "retailer", "supports": ["concentration", "notes"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/oud-silk-mood-extrait-de-parfum/7591660",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Silk Mood Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -67,15 +183,58 @@
       "perfumer": null,
       "family": "Woody Ambery Floral",
       "accords": [],
-      "notes": { "top": ["jasmine", "saffron"], "heart": ["bitter almond", "mossy woody accord"], "base": ["musky woody accord", "ethyl maltol", "ambroxan"], "flat": [] },
+      "notes": {
+        "top": [
+          "jasmine",
+          "saffron"
+        ],
+        "heart": [
+          "bitter almond",
+          "mossy woody accord"
+        ],
+        "base": [
+          "musky woody accord",
+          "ethyl maltol",
+          "ambroxan"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://jadof.com/en/news/baccarat-rouge-540-review", "name": "Jadof — Baccarat Rouge 540 review", "type": "publication", "supports": ["performance"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-baccarat-rouge-540-extrait-de-parfum/5495553", "name": "Nordstrom — Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://jadof.com/en/news/baccarat-rouge-540-review",
+          "name": "Jadof — Baccarat Rouge 540 review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-baccarat-rouge-540-extrait-de-parfum/5495553",
+          "name": "Nordstrom — Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 4, "projection": null, "basis": "search" },
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
       "performanceEvidence": "Jadof review: about 8-12 h on skin for most wearers (set to 4); reviews praise strong sillage. Some sellers' pages report poor longevity, which I did not count (one thin summary)."
     },
     {
@@ -86,15 +245,56 @@
       "perfumer": null,
       "family": "Woody Ambery Floral",
       "accords": [],
-      "notes": { "top": ["jasmine", "saffron"], "heart": ["mossy woody accord"], "base": ["ethyl maltol", "ambroxan"], "flat": [] },
+      "notes": {
+        "top": [
+          "jasmine",
+          "saffron"
+        ],
+        "heart": [
+          "mossy woody accord"
+        ],
+        "base": [
+          "ethyl maltol",
+          "ambroxan"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://jadof.com/en/news/baccarat-rouge-540-review", "name": "Jadof — Baccarat Rouge 540 review", "type": "publication", "supports": ["performance"] },
-        { "url": "https://www.nordstrom.com/s/baccarat-rouge-540-eau-de-parfum/5495565", "name": "Nordstrom — Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://jadof.com/en/news/baccarat-rouge-540-review",
+          "name": "Jadof — Baccarat Rouge 540 review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/baccarat-rouge-540-eau-de-parfum/5495565",
+          "name": "Nordstrom — Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 4, "projection": null, "basis": "search" },
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
       "performanceEvidence": "Jadof review: about 8-12 h on skin for most wearers (set to 4, the lower-middle of that range); reviews praise strong sillage. The page is generic to the line, so I applied it to the EDP too."
     },
     {
@@ -105,15 +305,56 @@
       "perfumer": null,
       "family": "Ambery Woody",
       "accords": [],
-      "notes": { "top": ["cistus labdanum"], "heart": ["lavandin", "cinnamon leaf"], "base": ["vanilla amber accord", "benzoin"], "flat": [] },
+      "notes": {
+        "top": [
+          "cistus labdanum"
+        ],
+        "heart": [
+          "lavandin",
+          "cinnamon leaf"
+        ],
+        "base": [
+          "vanilla amber accord",
+          "benzoin"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.scento.com/blog/mfk-grand-soir-review-niche-amber-outlasts-everything", "name": "Scento — MFK Grand Soir review (2026)", "type": "retailer", "supports": ["performance"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-grand-soir-eau-de-parfum/7276102", "name": "Nordstrom — Maison Francis Kurkdjian Grand Soir Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/blog/mfk-grand-soir-review-niche-amber-outlasts-everything",
+          "name": "Scento — MFK Grand Soir review (2026)",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-grand-soir-eau-de-parfum/7276102",
+          "name": "Nordstrom — Maison Francis Kurkdjian Grand Soir Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 4, "projection": null, "basis": "search" },
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
       "performanceEvidence": "Scento 2026 review: about 8-10 h on skin (range 8-12 h), so set to 4. Projection is strong for the first 4-6 h, then a 45-60 cm bubble. Scento notes it performs best in cold weather."
     },
     {
@@ -124,13 +365,65 @@
       "perfumer": null,
       "family": "Woody Aromatic",
       "accords": [],
-      "notes": { "top": ["juniper berry", "nutmeg"], "heart": ["coriander seed"], "base": ["musk", "amber wood", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "juniper berry",
+          "nutmeg"
+        ],
+        "heart": [
+          "coriander seed"
+        ],
+        "base": [
+          "musk",
+          "amber wood",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/gentle-fluidity-silver-eau-de-parfum/5495595", "name": "Nordstrom — Maison Francis Kurkdjian Gentle Fluidity Silver Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
-      ]
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/gentle-fluidity-silver-eau-de-parfum/5495595",
+          "name": "Nordstrom — Maison Francis Kurkdjian Gentle Fluidity Silver Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/gentle-fluidity-silver-edition-by-maison-francis-kurkdjian.26158260/reviews/",
+          "name": "Basenotes — Reviews of Gentle Fluidity (Silver Edition) by Maison Francis Kurkdjian",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews are mixed: about 5, 6, 8 and up to 14 hours on skin; sillage described as moderate to strong, one reviewer finds projection under six inches; one calls it a spring scent."
     },
     {
       "name": "Gentle Fluidity Gold",
@@ -140,15 +433,57 @@
       "perfumer": null,
       "family": "Musky Ambery",
       "accords": [],
-      "notes": { "top": ["juniper berry", "nutmeg"], "heart": ["coriander seed"], "base": ["musk", "amber wood", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "juniper berry",
+          "nutmeg"
+        ],
+        "heart": [
+          "coriander seed"
+        ],
+        "base": [
+          "musk",
+          "amber wood",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.fragman.com/blogs/fragrance-guide/mfk-gentle-fluidity-gold-review-the-vanilla-whiskey-scent-that-broke-the-internet", "name": "Fragman — MFK Gentle Fluidity Gold review", "type": "publication", "supports": ["performance"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-gentle-fluidity-gold-eau-de-parfum/7890729", "name": "Nordstrom — Maison Francis Kurkdjian Gentle Fluidity Gold Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragman.com/blogs/fragrance-guide/mfk-gentle-fluidity-gold-review-the-vanilla-whiskey-scent-that-broke-the-internet",
+          "name": "Fragman — MFK Gentle Fluidity Gold review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-gentle-fluidity-gold-eau-de-parfum/7890729",
+          "name": "Nordstrom — Maison Francis Kurkdjian Gentle Fluidity Gold Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 2, "projection": null, "basis": "search" },
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
       "performanceEvidence": "Fragman review: 6-8 h; Vivir: 8-10 h on skin. Sillage is restrained: arm's length for the first 2-3 h, then closer to the skin."
     },
     {
@@ -159,19 +494,81 @@
       "perfumer": null,
       "family": "Fruity Floral",
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["tangy fruity accord", "tutti-frutti", "musk", "vanilla"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "tangy fruity accord",
+          "tutti-frutti",
+          "musk",
+          "vanilla"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.scento.com/perfumes/kurky-by-maison-francis-kurkdjian", "name": "Scento — Kurky", "type": "retailer", "supports": ["performance"] },
-        { "url": "https://vivir.com/article/maison-francis-kurkdjian-kurky", "name": "Vivir — Maison Francis Kurkdjian Kurky", "type": "publication", "supports": ["performance", "usage"] },
-        { "url": "https://www.venbafragrance.com/products/maison-francis-kurkdjian-kurky-edp-1", "name": "Venba — Maison Francis Kurkdjian Kurky EDP", "type": "retailer", "supports": ["usage"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-kurky-eau-de-parfum/8243949", "name": "Nordstrom — Maison Francis Kurkdjian Kurky Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.scento.com/perfumes/kurky-by-maison-francis-kurkdjian",
+          "name": "Scento — Kurky",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-francis-kurkdjian-kurky",
+          "name": "Vivir — Maison Francis Kurkdjian Kurky",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/maison-francis-kurkdjian-kurky-edp-1",
+          "name": "Venba — Maison Francis Kurkdjian Kurky EDP",
+          "type": "retailer",
+          "supports": [
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-kurky-eau-de-parfum/8243949",
+          "name": "Nordstrom — Maison Francis Kurkdjian Kurky Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 2, "projection": null, "basis": "search" },
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
       "performanceEvidence": "Vivir 2025 review scores longevity 3.0 and projection 2.0 out of 5, and calls it a whisper. Scento's user aggregate says moderate longevity and moderate projection, so I set sillage to 2 because the majority of its sources say light. Venba recommends it for spring and summer, casual daytime wear (usage).",
-      "usage": { "seasons": ["spring", "summer"], "times": ["morning", "afternoon"] }
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      }
     },
     {
       "name": "724",
@@ -181,15 +578,57 @@
       "perfumer": null,
       "family": "Musky Floral",
       "accords": [],
-      "notes": { "top": ["aldehyde", "bergamot"], "heart": ["white floral accord", "jasmine"], "base": ["sandalwood accord", "white musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "aldehyde",
+          "bergamot"
+        ],
+        "heart": [
+          "white floral accord",
+          "jasmine"
+        ],
+        "base": [
+          "sandalwood accord",
+          "white musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.venbafragrance.com/collections/airy-florals/products/maison-francis-kurkdjian-724-edp", "name": "Venba — Maison Francis Kurkdjian 724 EDP", "type": "retailer", "supports": ["performance"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-724-eau-de-parfum/7128144", "name": "Nordstrom — Maison Francis Kurkdjian 724 Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/collections/airy-florals/products/maison-francis-kurkdjian-724-edp",
+          "name": "Venba — Maison Francis Kurkdjian 724 EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-724-eau-de-parfum/7128144",
+          "name": "Nordstrom — Maison Francis Kurkdjian 724 Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 2, "projection": null, "basis": "search" },
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
       "performanceEvidence": "Several reviews and a blog give about 6-8 h on skin (one whatscent reviewer about 6-7 h). A decant seller describes a soft-to-medium scent bubble that stays close to the skin."
     },
     {
@@ -200,16 +639,62 @@
       "perfumer": null,
       "family": "Woody Aromatic",
       "accords": [],
-      "notes": { "top": ["mandarin", "rosemary"], "heart": ["saffron accord", "iris"], "base": ["amyris", "cedarwood", "tonka bean"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "rosemary"
+        ],
+        "heart": [
+          "saffron accord",
+          "iris"
+        ],
+        "base": [
+          "amyris",
+          "cedarwood",
+          "tonka bean"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-amyris-homme-eau-de-toilette/7276105", "name": "Nordstrom — Maison Francis Kurkdjian Amyris Homme Eau de Toilette", "type": "retailer", "supports": ["concentration", "notes", "family"] },
-        { "url": "https://basenotes.com/fragrances/amyris-homme-by-maison-francis-kurkdjian.26136814/reviews/", "name": "Basenotes — Amyris Homme reviews", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-amyris-homme-eau-de-toilette/7276105",
+          "name": "Nordstrom — Maison Francis Kurkdjian Amyris Homme Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/amyris-homme-by-maison-francis-kurkdjian.26136814/reviews/",
+          "name": "Basenotes — Amyris Homme reviews",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 2, "projection": 2, "basis": "reviews" },
-      "usage": { "seasons": [], "times": [] },
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
       "performanceEvidence": "Basenotes reviewers: 5-6 hours mostly as a skin scent (one says three hours decent sillage plus three as skin scent, another eleven hours); sillage notoriously light, limited projection."
     },
     {
@@ -220,16 +705,65 @@
       "perfumer": null,
       "family": "Floral Woody",
       "accords": [],
-      "notes": { "top": ["lemon blossom", "pear accord"], "heart": ["sweet pea accord", "iris"], "base": ["amyris", "musky amber accord"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon blossom",
+          "pear accord"
+        ],
+        "heart": [
+          "sweet pea accord",
+          "iris"
+        ],
+        "base": [
+          "amyris",
+          "musky amber accord"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.perfume.com/maison-francis-kurkdjian/amyris-femme/women-perfume", "name": "Perfume.com — Amyris Femme", "type": "retailer", "supports": ["performance"] },
-        { "url": "https://reviews.femaledaily.com/products/fragrance/edt/maison-francis-kurkdjian/amyris-femme-eau-de-parfum", "name": "Female Daily — Amyris Femme reviews", "type": "database", "supports": ["performance"] },
-        { "url": "https://www.nordstrom.com/s/amyris-femme-eau-de-parfum/7054836", "name": "Nordstrom — Maison Francis Kurkdjian Amyris Femme Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/maison-francis-kurkdjian/amyris-femme/women-perfume",
+          "name": "Perfume.com — Amyris Femme",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://reviews.femaledaily.com/products/fragrance/edt/maison-francis-kurkdjian/amyris-femme-eau-de-parfum",
+          "name": "Female Daily — Amyris Femme reviews",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/amyris-femme-eau-de-parfum/7054836",
+          "name": "Nordstrom — Maison Francis Kurkdjian Amyris Femme Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 4, "projection": null, "basis": "search" },
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": null,
+        "basis": "search"
+      },
       "performanceEvidence": "Perfume.com states it lasts up to about 8 h on skin with surprisingly strong sillage; one Femaledaily user reports 7-8 h. Set to 4 for longevity and 4 for sillage; the 12-14 h Vivir claim was not counted."
     },
     {
@@ -240,12 +774,42 @@
       "perfumer": null,
       "family": "Ambery Woody Floral",
       "accords": [],
-      "notes": { "top": ["damask rose", "violet accord"], "heart": ["styrax"], "base": ["oud", "benzoin", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "damask rose",
+          "violet accord"
+        ],
+        "heart": [
+          "styrax"
+        ],
+        "base": [
+          "oud",
+          "benzoin",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-oud-satin-mood-eau-de-parfum/5495542", "name": "Nordstrom — Maison Francis Kurkdjian Oud Satin Mood Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-oud-satin-mood-eau-de-parfum/5495542",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Satin Mood Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -256,12 +820,44 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["violet accord", "geranium", "rose"], "heart": ["styrax", "cinnamon", "rose absolute"], "base": ["oud", "benzoin", "vanilla"], "flat": [] },
+      "notes": {
+        "top": [
+          "violet accord",
+          "geranium",
+          "rose"
+        ],
+        "heart": [
+          "styrax",
+          "cinnamon",
+          "rose absolute"
+        ],
+        "base": [
+          "oud",
+          "benzoin",
+          "vanilla"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/oud-satin-mood-extraits-de-parfum/7804839", "name": "Nordstrom — Maison Francis Kurkdjian Oud Satin Mood Extrait de Parfum", "type": "retailer", "supports": ["concentration", "notes"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/oud-satin-mood-extraits-de-parfum/7804839",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Satin Mood Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -272,16 +868,60 @@
       "perfumer": null,
       "family": "Fruity Floral",
       "accords": [],
-      "notes": { "top": ["verbena accord", "bergamot"], "heart": ["sweet fennel", "hedione"], "base": ["woody musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "verbena accord",
+          "bergamot"
+        ],
+        "heart": [
+          "sweet fennel",
+          "hedione"
+        ],
+        "base": [
+          "woody musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/aqua-media-cologne-forte/7431200", "name": "Nordstrom — Maison Francis Kurkdjian Aqua Media Cologne Forte", "type": "retailer", "supports": ["concentration", "notes", "family"] },
-        { "url": "https://ifragranceofficial.com/aqua-media-cologne-forte-review/", "name": "iFragrance — MFK Aqua Media Cologne Forte review", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/aqua-media-cologne-forte/7431200",
+          "name": "Nordstrom — Maison Francis Kurkdjian Aqua Media Cologne Forte",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://ifragranceofficial.com/aqua-media-cologne-forte-review/",
+          "name": "iFragrance — MFK Aqua Media Cologne Forte review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 2, "projection": null, "basis": "reviews" },
-      "usage": { "seasons": [], "times": [] },
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
       "performanceEvidence": "iFragrance review: longevity around 6 to 7 hours; performance normal to weak, though two people smelled it on the hand after more than 3 hours."
     },
     {
@@ -292,13 +932,69 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["grapefruit"], "heart": ["lavender", "leather accord", "cedarwood"], "base": ["vetiver accord", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "grapefruit"
+        ],
+        "heart": [
+          "lavender",
+          "leather accord",
+          "cedarwood"
+        ],
+        "base": [
+          "vetiver accord",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/masculin-pluriel-eau-de-toilette/7804815", "name": "Nordstrom — Maison Francis Kurkdjian Masculin Pluriel Eau de Toilette", "type": "retailer", "supports": ["concentration", "notes"] }
-      ]
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/masculin-pluriel-eau-de-toilette/7804815",
+          "name": "Nordstrom — Maison Francis Kurkdjian Masculin Pluriel Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/masculin-pluriel-by-maison-francis-kurkdjian.26143225/reviews/",
+          "name": "Basenotes — Reviews of masculin Pluriel by Maison Francis Kurkdjian",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.sinabrochar.com/aromas-clasicos-masculinos-ii-pluriel-de-maison-francis-kurkdjian/",
+          "name": "SinAbrochar — Aromas clasicos masculinos (II): Pluriel",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews: 5-7 hours with moderate projection (one reviewer reaches 12 h with more sprays), moderate sillage; SinAbrochar: about 8 hours, projects well for roughly the first three hours."
     },
     {
       "name": "Pluriel Féminin",
@@ -308,15 +1004,57 @@
       "perfumer": null,
       "family": "Fruity Floral",
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["florentine iris", "violet", "grasse rose", "egyptian jasmine", "lily of the valley", "orange blossom", "vetiver", "indonesian patchouli"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "florentine iris",
+          "violet",
+          "grasse rose",
+          "egyptian jasmine",
+          "lily of the valley",
+          "orange blossom",
+          "vetiver",
+          "indonesian patchouli"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://vivir.com/article/maison-francis-kurkdjian-feminin-pluriel", "name": "Vivir — MFK Feminin Pluriel", "type": "publication", "supports": ["performance"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-fminin-pluriel-eau-de-parfum/5495540", "name": "Nordstrom — Maison Francis Kurkdjian Féminin Pluriel Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://vivir.com/article/maison-francis-kurkdjian-feminin-pluriel",
+          "name": "Vivir — MFK Feminin Pluriel",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-fminin-pluriel-eau-de-parfum/5495540",
+          "name": "Nordstrom — Maison Francis Kurkdjian Féminin Pluriel Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ],
-      "performance": { "longevity": null, "sillage": 2, "projection": null, "basis": "search" },
+      "performance": {
+        "longevity": null,
+        "sillage": 2,
+        "projection": null,
+        "basis": "search"
+      },
       "performanceEvidence": "Vivir rates projection 2.0 and longevity 3.0 out of 5 and calls it a quiet, restrained floral. Scentverdict's 6-10 h figure is hard to read and conflicts with other pages, so longevity is left null."
     },
     {
@@ -327,16 +1065,65 @@
       "perfumer": null,
       "family": "Floral Musky",
       "accords": [],
-      "notes": { "top": ["sweet pea accord", "damask rose"], "heart": ["violet accord", "magnolia"], "base": ["centifolia rose", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "sweet pea accord",
+          "damask rose"
+        ],
+        "heart": [
+          "violet accord",
+          "magnolia"
+        ],
+        "base": [
+          "centifolia rose",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/a-la-rose-eau-de-parfum/6599310", "name": "Nordstrom — Maison Francis Kurkdjian À la Rose Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] },
-        { "url": "https://www.perfume.com/maison-francis-kurkdjian/a-la-rose/women-perfume", "name": "Perfume.com — Maison Francis Kurkdjian A La Rose", "type": "retailer", "supports": ["performance", "usage"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/a-la-rose-eau-de-parfum/6599310",
+          "name": "Nordstrom — Maison Francis Kurkdjian À la Rose Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.perfume.com/maison-francis-kurkdjian/a-la-rose/women-perfume",
+          "name": "Perfume.com — Maison Francis Kurkdjian A La Rose",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": null, "projection": null, "basis": "retailer" },
-      "usage": { "seasons": [], "times": ["afternoon", "evening"] },
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "afternoon",
+          "evening"
+        ]
+      },
       "performanceEvidence": "Perfume.com listing: an eau de parfum that typically lasts 6 to 8 hours on skin; described as suitable for a sunny afternoon or an elegant evening."
     },
     {
@@ -347,12 +1134,41 @@
       "perfumer": null,
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["orange blossom", "lavender"], "heart": ["ylang-ylang", "vanilla"], "base": ["ambery woody accord"], "flat": [] },
+      "notes": {
+        "top": [
+          "orange blossom",
+          "lavender"
+        ],
+        "heart": [
+          "ylang-ylang",
+          "vanilla"
+        ],
+        "base": [
+          "ambery woody accord"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-apom-eau-de-parfum/7962249", "name": "Nordstrom — Maison Francis Kurkdjian APOM Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes", "family"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-apom-eau-de-parfum/7962249",
+          "name": "Nordstrom — Maison Francis Kurkdjian APOM Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        }
       ]
     },
     {
@@ -363,12 +1179,37 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["bergamot", "blackcurrant", "jasmine", "mimosa", "musk"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "bergamot",
+          "blackcurrant",
+          "jasmine",
+          "mimosa",
+          "musk"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/cologne-forte-collection-eau-de-parfum-set-limited-edition/6956356", "name": "Nordstrom — Maison Francis Kurkdjian Cologne Forte Collection set (Aqua Vitae, Aqua Celestia)", "type": "retailer", "supports": ["notes"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/cologne-forte-collection-eau-de-parfum-set-limited-edition/6956356",
+          "name": "Nordstrom — Maison Francis Kurkdjian Cologne Forte Collection set (Aqua Vitae, Aqua Celestia)",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -379,15 +1220,46 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://thevelvetlife.com/fragrance/aqua-celestia-by-maison-francis-kurkdjian-paris/", "name": "The Velvet Life — Maison Francis Kurkdjian Aqua Celestia review", "type": "publication", "supports": ["performance", "usage"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://thevelvetlife.com/fragrance/aqua-celestia-by-maison-francis-kurkdjian-paris/",
+          "name": "The Velvet Life — Maison Francis Kurkdjian Aqua Celestia review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": null, "projection": null, "basis": "reviews" },
-      "usage": { "seasons": ["summer", "autumn"], "times": [] },
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer",
+          "autumn"
+        ],
+        "times": []
+      },
       "performanceEvidence": "The Velvet Life review: longevity over 6 hours on skin, stays longer when projected close to the skin; perfect for summer heat, also liked in autumn."
     },
     {
@@ -398,16 +1270,67 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["lime", "petitgrain", "lemon", "mint"], "heart": ["black currant blossom", "jasmine", "hedione", "mimosa", "lily-of-the-valley"], "base": ["musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "lime",
+          "petitgrain",
+          "lemon",
+          "mint"
+        ],
+        "heart": [
+          "black currant blossom",
+          "jasmine",
+          "hedione",
+          "mimosa",
+          "lily-of-the-valley"
+        ],
+        "base": [
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://scentverdict.com/perfume/maison-francis-kurkdjian-aqua-celestia-forte-eau-de-parfum", "name": "ScentVerdict — Aqua Celestia Forte Eau de Parfum", "type": "publication", "supports": ["performance", "usage"] },
-        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Maison Francis Kurkdjian Aqua Celestia Forte", "type": "database", "supports": ["notes"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/maison-francis-kurkdjian-aqua-celestia-forte-eau-de-parfum",
+          "name": "ScentVerdict — Aqua Celestia Forte Eau de Parfum",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Maison Francis Kurkdjian Aqua Celestia Forte",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 3, "projection": 3, "basis": "reviews" },
-      "usage": { "seasons": ["spring", "summer"], "times": [] },
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
       "performanceEvidence": "ScentVerdict: lasts about 6-10 hours, moderate projection carrying to about arm's length, best in spring and summer; casual, gym or light office wear."
     },
     {
@@ -418,16 +1341,59 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["litsea cubeba", "calabrian lemon", "lavandin", "orange blossom", "hawthorn accord", "musk", "ambroxan"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "litsea cubeba",
+          "calabrian lemon",
+          "lavandin",
+          "orange blossom",
+          "hawthorn accord",
+          "musk",
+          "ambroxan"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-petit-matin-eau-de-parfum/5495567", "name": "Nordstrom — Maison Francis Kurkdjian Petit Matin Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes"] },
-        { "url": "https://www.thelastspritz.com/fragrance/mfk-petit-matin-edp", "name": "The Last Spritz — MFK Petit Matin EDP performance", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-petit-matin-eau-de-parfum/5495567",
+          "name": "Nordstrom — Maison Francis Kurkdjian Petit Matin Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.thelastspritz.com/fragrance/mfk-petit-matin-edp",
+          "name": "The Last Spritz — MFK Petit Matin EDP performance",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 2, "projection": 3, "basis": "reviews" },
-      "usage": { "seasons": [], "times": [] },
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
       "performanceEvidence": "The Last Spritz: 4-6 hours on most skin, arm's-length projection, soft sillage trail."
     },
     {
@@ -438,16 +1404,63 @@
       "perfumer": null,
       "family": "Fresh",
       "accords": [],
-      "notes": { "top": ["lemon", "bergamot"], "heart": ["white flower accord"], "base": ["light musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "lemon",
+          "bergamot"
+        ],
+        "heart": [
+          "white flower accord"
+        ],
+        "base": [
+          "light musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-aqua-universalis-eau-de-toilette/7054839", "name": "Nordstrom — Maison Francis Kurkdjian Aqua Universalis Eau de Toilette", "type": "retailer", "supports": ["concentration", "notes", "family"] },
-        { "url": "https://www.fragrenza.com/blogs/reviews/mfk-aqua-universalis-reviewer-six-week-test", "name": "Fragrenza — Six Weeks With MFK Aqua Universalis", "type": "publication", "supports": ["performance", "usage"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-aqua-universalis-eau-de-toilette/7054839",
+          "name": "Nordstrom — Maison Francis Kurkdjian Aqua Universalis Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.fragrenza.com/blogs/reviews/mfk-aqua-universalis-reviewer-six-week-test",
+          "name": "Fragrenza — Six Weeks With MFK Aqua Universalis",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": null, "projection": null, "basis": "reviews" },
-      "usage": { "seasons": ["spring", "summer"], "times": [] },
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
       "performanceEvidence": "Fragrenza six-week test: somewhat short-wearing at six to eight hours; performs best in warm-to-mild weather."
     },
     {
@@ -458,15 +1471,53 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot"], "heart": ["sweet pea", "mock orange"], "base": ["white musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot"
+        ],
+        "heart": [
+          "sweet pea",
+          "mock orange"
+        ],
+        "base": [
+          "white musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://beautinow.com/products/maison-francis-kurkdjian-aqua-universalis-cologne-forte-eau-de-parfum/", "name": "Beautinow — MFK Aqua Universalis Cologne Forte", "type": "retailer", "supports": ["performance"] },
-        { "url": "https://perfumepicks.app/", "name": "Perfume Picks — Maison Francis Kurkdjian Aqua Universalis Cologne Forte", "type": "database", "supports": ["notes"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://beautinow.com/products/maison-francis-kurkdjian-aqua-universalis-cologne-forte-eau-de-parfum/",
+          "name": "Beautinow — MFK Aqua Universalis Cologne Forte",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Maison Francis Kurkdjian Aqua Universalis Cologne Forte",
+          "type": "database",
+          "supports": [
+            "notes"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 3, "projection": null, "basis": "search" },
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "search"
+      },
       "performanceEvidence": "Beautinow lists about 6-8 h and rates sillage as a moderate trail (7/10 on its scale). Only one retailer page was found for this concentration, so the figures are thin."
     },
     {
@@ -477,12 +1528,40 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["saffron", "elemi", "ambrettolide", "cedarwood", "vanilla accord", "oud", "patchouli"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "elemi",
+          "ambrettolide",
+          "cedarwood",
+          "vanilla accord",
+          "oud",
+          "patchouli"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-oud-extrait-de-parfum/5495538", "name": "Nordstrom — Maison Francis Kurkdjian Oud Extrait de Parfum", "type": "retailer", "supports": ["concentration", "notes"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-oud-extrait-de-parfum/5495538",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Extrait de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        }
       ]
     },
     {
@@ -493,16 +1572,57 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["saffron", "elemi", "oud", "atlas cedarwood", "patchouli"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "saffron",
+          "elemi",
+          "oud",
+          "atlas cedarwood",
+          "patchouli"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-oud-eau-de-parfum/5495618", "name": "Nordstrom — Maison Francis Kurkdjian Oud Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes"] },
-        { "url": "https://kafkaesqueblog.com/2013/07/05/perfume-review-maison-francis-kurkdjian-oud-my-twilight-zone/", "name": "Kafkaesque — Maison Francis Kurkdjian Oud review", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-oud-eau-de-parfum/5495618",
+          "name": "Nordstrom — Maison Francis Kurkdjian Oud Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://kafkaesqueblog.com/2013/07/05/perfume-review-maison-francis-kurkdjian-oud-my-twilight-zone/",
+          "name": "Kafkaesque — Maison Francis Kurkdjian Oud review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 5, "sillage": 2, "projection": null, "basis": "reviews" },
-      "usage": { "seasons": [], "times": [] },
+      "performance": {
+        "longevity": 5,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
       "performanceEvidence": "Kafkaesque review: lasted just short of 11.75 hours on skin, sillage moderate to low, close to skin from the second hour."
     },
     {
@@ -513,16 +1633,60 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["grapefruit accord", "damask rose"], "heart": ["clary sage", "ambery wood"], "base": ["centifolia rose", "cistus"], "flat": [] },
+      "notes": {
+        "top": [
+          "grapefruit accord",
+          "damask rose"
+        ],
+        "heart": [
+          "clary sage",
+          "ambery wood"
+        ],
+        "base": [
+          "centifolia rose",
+          "cistus"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-lhomme-la-rose-eau-de-parfum/5719401", "name": "Nordstrom — Maison Francis Kurkdjian L'Homme À la Rose Eau de Parfum", "type": "retailer", "supports": ["concentration", "notes"] },
-        { "url": "https://thecandyperfumeboy.com/2020/09/30/perfume-review-lhomme-a-la-rose-by-maison-francis-kurkdjian/", "name": "The Candy Perfume Boy — L'Homme À la Rose review", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-lhomme-la-rose-eau-de-parfum/5719401",
+          "name": "Nordstrom — Maison Francis Kurkdjian L'Homme À la Rose Eau de Parfum",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes"
+          ]
+        },
+        {
+          "url": "https://thecandyperfumeboy.com/2020/09/30/perfume-review-lhomme-a-la-rose-by-maison-francis-kurkdjian/",
+          "name": "The Candy Perfume Boy — L'Homme À la Rose review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 4, "sillage": 3, "projection": null, "basis": "reviews" },
-      "usage": { "seasons": [], "times": [] },
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
       "performanceEvidence": "The Candy Perfume Boy: sillage good, radiates from the skin but the trail is not heavy; longevity above average (no hours given)."
     },
     {
@@ -533,16 +1697,63 @@
       "perfumer": null,
       "family": "Floral",
       "accords": [],
-      "notes": { "top": ["lychee accord"], "heart": ["damask rose", "peony accord"], "base": ["centifolia rose", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "lychee accord"
+        ],
+        "heart": [
+          "damask rose",
+          "peony accord"
+        ],
+        "base": [
+          "centifolia rose",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-leau-la-rose-eau-de-toilette/5719402", "name": "Nordstrom — Maison Francis Kurkdjian L'Eau À la Rose Eau de Toilette", "type": "retailer", "supports": ["concentration", "notes", "family"] },
-        { "url": "https://varanisridari.home.blog/2020/03/27/leau-a-la-rose-by-maison-francis-kurkdjian-2019/", "name": "The Scented Devil — L'eau À la rose by MFK", "type": "publication", "supports": ["performance", "usage"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/maison-francis-kurkdjian-paris-maison-francis-kurkdjian-leau-la-rose-eau-de-toilette/5719402",
+          "name": "Nordstrom — Maison Francis Kurkdjian L'Eau À la Rose Eau de Toilette",
+          "type": "retailer",
+          "supports": [
+            "concentration",
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2020/03/27/leau-a-la-rose-by-maison-francis-kurkdjian-2019/",
+          "name": "The Scented Devil — L'eau À la rose by MFK",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
       ],
-      "performance": { "longevity": 2, "sillage": 2, "projection": 2, "basis": "reviews" },
-      "usage": { "seasons": ["summer"], "times": [] },
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
       "performanceEvidence": "The Scented Devil blog: wear time very short at about 4 hours, projection burns off within the first 30 minutes; a youthful summer scent."
     },
     {
@@ -553,13 +1764,56 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": ["musk", "sandalwood", "mandarin", "bergamot"] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": [
+          "musk",
+          "sandalwood",
+          "mandarin",
+          "bergamot"
+        ]
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://www.nordstrom.com/s/cologne-forte-collection-eau-de-parfum-set-limited-edition/6956356", "name": "Nordstrom — Maison Francis Kurkdjian Cologne Forte Collection set (Aqua Vitae, Aqua Celestia)", "type": "retailer", "supports": ["notes"] }
-      ]
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nordstrom.com/s/cologne-forte-collection-eau-de-parfum-set-limited-edition/6956356",
+          "name": "Nordstrom — Maison Francis Kurkdjian Cologne Forte Collection set (Aqua Vitae, Aqua Celestia)",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://thevelvetlife.com/fragrance/maison-francis-kurkdjian-aqua-vitae-cologne-forte-review/",
+          "name": "The Velvet Life — MFK Aqua Vitae Cologne Forte Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Velvet Life review: likes the longevity (no hours given) and calls the sillage moderate."
     },
     {
       "name": "Aqua Vitae",
@@ -569,16 +1823,54 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian", "name": "Zgo Perfumery — Maison Francis Kurkdjian collection", "type": "retailer", "supports": ["concentration"] },
-        { "url": "https://scentverdict.com/perfume/maison-francis-kurkdjian-aqua-vitae-eau-de-toilette", "name": "ScentVerdict — Aqua Vitae Eau de Toilette", "type": "publication", "supports": ["performance", "usage"] },
-        { "url": "https://varanisridari.home.blog/2022/06/25/aqua-vitae-by-maison-francis-kurkdjian-2013/", "name": "The Scented Devil — Aqua Vitae by MFK", "type": "publication", "supports": ["performance"] }
+        {
+          "url": "https://zgoperfumery.com/collections/maison-francis-kurkdjian",
+          "name": "Zgo Perfumery — Maison Francis Kurkdjian collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://scentverdict.com/perfume/maison-francis-kurkdjian-aqua-vitae-eau-de-toilette",
+          "name": "ScentVerdict — Aqua Vitae Eau de Toilette",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2022/06/25/aqua-vitae-by-maison-francis-kurkdjian-2013/",
+          "name": "The Scented Devil — Aqua Vitae by MFK",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
       ],
-      "performance": { "longevity": 3, "sillage": 2, "projection": 3, "basis": "reviews" },
-      "usage": { "seasons": ["spring", "summer"], "times": [] },
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
       "performanceEvidence": "ScentVerdict: about 2-4 hours, arm's-length projection, best in spring and summer; The Scented Devil: about 6 hours with mild sillage."
     }
   ]
