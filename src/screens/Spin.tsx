@@ -383,6 +383,7 @@ function Wheel({ eligible, reduced, spinning, setSpinning, onResult, clearResult
   }, [spinning]);
 
   return (
+    <>
     <div className="wheel-wrap">
       <div className="wheel-pointer" ref={pointerRef} aria-hidden="true" />
       <svg
@@ -443,8 +444,9 @@ function Wheel({ eligible, reduced, spinning, setSpinning, onResult, clearResult
         <span className="display">{spinning ? '···' : t('spin.go')}</span>
       </button>
       <p className="tiny dim wheel-hint">{t('spin.flickHint')}</p>
-      {eligible.length > MAX_WHEEL_SEGMENTS && <p className="tiny dim wheel-note">{t('spin.sample', { shown: MAX_WHEEL_SEGMENTS, n: eligible.length })}</p>}
     </div>
+    {eligible.length > MAX_WHEEL_SEGMENTS && <p className="tiny dim wheel-note">{t('spin.sample', { shown: MAX_WHEEL_SEGMENTS, n: eligible.length })}</p>}
+    </>
   );
 }
 
