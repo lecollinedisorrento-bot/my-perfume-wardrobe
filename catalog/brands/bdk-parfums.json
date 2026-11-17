@@ -1063,8 +1063,32 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://whatscent.app/perfume/villa-neroli/reviews/dukFlEyeLA2",
+          "name": "WhatScent — Villa Néroli review: Summer evening sensual neroli",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "One WhatScent user review: own star scores of 4/5 for longevity, projection and sillage, described as a summer evening neroli; no hours given."
     },
     {
       "name": "Sel d'Argent",
@@ -1105,8 +1129,27 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://nstperfume.com/2022/07/21/bdk-parfums-sel-dargent-carthusia-ammare-fragrance-reviews/",
+          "name": "Now Smell This — BDK Parfums Sel d'Argent & Carthusia A'mmare",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Now Smell This review: stays fairly close to the skin and lasts all day on arms and wrists; worn to the office."
     },
     {
       "name": "Citrus Riviera",
@@ -1150,8 +1193,31 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/bdk-parfums-citrus-riviera-edp",
+          "name": "Venba Fragrance — BDK Parfums Citrus Riviera EDP",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Venba Fragrance decant shop: about 7-9 hours on skin, moderate close-to-skin sillage, projection 1-2 ft in the first hour then arm's length; spring and summer."
     },
     {
       "name": "312 Saint-Honoré",
@@ -1235,8 +1301,27 @@
             "concentration",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.ambianceetfragrance.com/2025/06/bdk-french-bouquet-revue-parfum-avis.html",
+          "name": "Ambiance et Fragrance — BDK French Bouquet avis",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Ambiance et Fragrance review (French): exceptional staying power, present all day and into the late evening, both skin scent and trail (no hours given, mapped to 4)."
     },
     {
       "name": "Tabac Rose",
