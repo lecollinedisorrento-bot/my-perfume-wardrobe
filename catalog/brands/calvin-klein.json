@@ -600,8 +600,27 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/euphoria-men-review/",
+          "name": "Best Men's Colognes — Euphoria Men by Calvin Klein",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Best Men's Colognes: sillage moderate at first then quite soft, lasts about 3-4 hours on skin; works across seasons but not in summer heat."
     },
     {
       "name": "Euphoria Essence for Men",
@@ -640,8 +659,33 @@
             "notes",
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumista.vn/nuoc-hoa-nam/nuoc-hoa-calvin-klein-euphoria-essence-men-25213.html",
+          "name": "Perfumista.vn — Calvin Klein Euphoria Essence Men",
+          "type": "retailer",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Perfumista.vn page: longevity 3-6 hours, projection about 30-60 cm; suited to early autumn, spring/autumn and quiet evenings."
     },
     {
       "name": "Eternity Flame for Women",
@@ -665,8 +709,27 @@
           "name": "Perfumes Fragrance - Calvin Klein collection",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://www.perfume.com/calvin-klein/eternity-flame/women-perfume",
+          "name": "Perfume.com — Calvin Klein Eternity Flame for Women",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume.com listing: typically lasts 6 to 8 hours on skin, depending on skin chemistry."
     },
     {
       "name": "Eternity Flame for Men",
@@ -690,8 +753,35 @@
           "name": "Perfumes Fragrance - Calvin Klein collection",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://bestmenscolognes.com/eternity-men-flame-klein-review/",
+          "name": "Best Men's Colognes — Eternity for Men Flame",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter",
+          "spring"
+        ],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Best Men's Colognes: projects ~5-6 ft at its height in the first hour, lasts only 4-5 hours on skin; autumn through early spring, casual, dates and nightlife."
     },
     {
       "name": "Eternity Air for Women",
@@ -740,8 +830,30 @@
           "name": "Perfumes Fragrance - Calvin Klein collection",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://basenotes.com/fragrances/eternity-air-for-men-by-calvin-klein.26154890/reviews/",
+          "name": "Basenotes — Reviews of Eternity Air for Men",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": null,
+        "projection": 1,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: projection minimal, becomes a skin scent in under 3 hours, longevity a couple of hours (one reviewer still found skin scent after 7 h); suited to summer casual wear."
     },
     {
       "name": "Escape for Women",
@@ -765,8 +877,27 @@
           "name": "Perfumes Fragrance - Calvin Klein collection",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://aichablogs.com/escape-by-calvin-klein-review-a-timeless-fragrance/",
+          "name": "Aicha Blogs — Escape by Calvin Klein review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Aicha Blogs review: moderate longevity of about 3-4 hours on skin, sillage moderate to strong."
     },
     {
       "name": "Escape for Men",
@@ -867,8 +998,27 @@
           "name": "Perfumes Fragrance - Calvin Klein collection",
           "type": "retailer",
           "supports": []
+        },
+        {
+          "url": "https://stephanieyeboah.com/2012/11/calvin-klein-ck-one-shock-for-her.html",
+          "name": "Stephanie Yeboah — Calvin Klein CK One Shock for Her review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Stephanie Yeboah blog review (2012): sweet, soft scent that stays close to the skin, longevity excellent at about 7-8 hours."
     },
     {
       "name": "CK Shock for Men",
@@ -894,8 +1044,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://bestcologneformen.com/ck-one-shock-review/",
+          "name": "Best Cologne for Men — CK One Shock review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Best Cologne for Men review: lasts about 6 hours on skin and longer in cold weather; no sillage level given."
     },
     {
       "name": "CK One Gold",

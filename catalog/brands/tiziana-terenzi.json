@@ -1685,8 +1685,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://doctorscent.net/perfume-review-abbrivio-by-tiziana-terenzi/",
+          "name": "Doctor Scent — Perfume Review: Abbrivio by Tiziana Terenzi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Doctor Scent review: excellent longevity, moderate to strong sillage, lasts through the day."
     },
     {
       "name": "Hale Bopp",
@@ -1727,8 +1746,27 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://parfumistas.com/perfume/hale-bopp-tiziana-terenzi/",
+          "name": "Parfumistas — Hale Bopp de Tiziana Terenzi",
+          "type": "database",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Two reviewers on Parfumistas report 12+ hours of longevity."
     },
     {
       "name": "Leo",
@@ -2025,8 +2063,27 @@
           "name": "Tiziana Terenzi — Classic Gold collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://basenotes.com/fragrances/delox-by-tiziana-terenzi.26158075",
+          "name": "Basenotes — Delox by Tiziana Terenzi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewer: longevity good at 4+ hours, sillage moderate (single early impression)."
     },
     {
       "name": "Lillipur",
@@ -2050,8 +2107,35 @@
           "name": "Tiziana Terenzi — Classic Gold collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://basenotes.com/fragrances/lillipur-by-tiziana-terenzi.26139675",
+          "name": "Basenotes — Lillipur by Tiziana Terenzi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://dnaperfumo.com/blogs/fragrance-guides-1/lillipur-by-tiziana-terenzi-notes-longevity-review",
+          "name": "DNA Perfumo — Lillipur by Tiziana Terenzi",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewer: strong sillage, good projection, about eight hours on skin; DNA Perfumo: long all-day wear, noticeable steady sillage."
     },
     {
       "name": "Tyrenum",
@@ -2100,8 +2184,27 @@
           "name": "Tiziana Terenzi — Classic Gold collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://basenotes.com/fragrances/white-fire-by-tiziana-terenzi.26139698/reviews/",
+          "name": "Basenotes — Reviews of White Fire by Tiziana Terenzi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers disagree: about 7 hours (very good) with soft sillage and low projection, versus 2-3 hours; several call projection low and close to skin."
     },
     {
       "name": "Torpe",
@@ -2575,8 +2678,27 @@
           "name": "Tiziana Terenzi — Luna collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://www.perfume.com/tiziana-terenzi/vele/women-perfume",
+          "name": "Perfume.com — Tiziana Terenzi Vele",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Perfume.com listing: typically lasts 6 to 8 hours."
     },
     {
       "name": "Caput Mundi",

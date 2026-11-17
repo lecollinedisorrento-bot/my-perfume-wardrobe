@@ -76,7 +76,8 @@
           "type": "official",
           "supports": [
             "notes",
-            "family"
+            "family",
+            "usage"
           ]
         },
         {
@@ -237,7 +238,8 @@
           "type": "official",
           "supports": [
             "notes",
-            "family"
+            "family",
+            "performance"
           ]
         }
       ],
@@ -289,7 +291,9 @@
           "supports": [
             "notes",
             "family",
-            "accords"
+            "accords",
+            "performance",
+            "usage"
           ]
         }
       ],
@@ -342,7 +346,9 @@
           "type": "official",
           "supports": [
             "notes",
-            "family"
+            "family",
+            "performance",
+            "usage"
           ]
         }
       ],
@@ -523,7 +529,9 @@
           "supports": [
             "concentration",
             "notes",
-            "family"
+            "family",
+            "performance",
+            "usage"
           ]
         }
       ],
@@ -624,7 +632,8 @@
           "supports": [
             "concentration",
             "notes",
-            "family"
+            "family",
+            "performance"
           ]
         }
       ],
@@ -863,7 +872,9 @@
             "concentration",
             "notes",
             "family",
-            "accords"
+            "accords",
+            "performance",
+            "usage"
           ]
         }
       ],
@@ -1100,7 +1111,9 @@
             "concentration",
             "notes",
             "family",
-            "accords"
+            "accords",
+            "performance",
+            "usage"
           ]
         }
       ],
@@ -1156,10 +1169,35 @@
           "supports": [
             "concentration",
             "notes",
-            "family"
+            "family",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.myperfumeshop.qa/products/bond-no9-new-york-chelsea-nights-edp",
+          "name": "My Perfume Shop Qatar — Bond No.9 New York Chelsea Nights EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "My Perfume Shop Qatar: lasts about 8-10 h; Bond No. 9 page: best suited for nighttime wear and cooler-weather settings, made to last a whole night out."
     },
     {
       "name": "Governors Island",
@@ -1197,8 +1235,31 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.bondno9.com/en-se/products/governors-island",
+          "name": "Bond No. 9 — Governors Island",
+          "type": "official",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: crafted to last 6 to 8 hours with a skin-hugging dry down; well suited for daytime wear; no sillage level stated."
     },
     {
       "name": "Madison Square Park",
@@ -1234,10 +1295,41 @@
           "supports": [
             "concentration",
             "notes",
-            "family"
+            "family",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://www.myperfumeshop.qa/products/bond-no9-madison-square-park-edp",
+          "name": "My Perfume Shop Qatar — Bond No.9 Madison Square Park EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.beautycos.de/bond-no-9-madison-square-park-edp-100-ml-1763716096",
+          "name": "Beautycos — Bond No. 9 Madison Square Park EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "My Perfume Shop Qatar: lasts about 6-8 h; Beautycos listing: moderate sillage, about 6-8 h; Bond No. 9 FAQ: designed for daytime wear."
     },
     {
       "name": "Wall Street",
@@ -1276,10 +1368,34 @@
           "supports": [
             "notes",
             "family",
-            "accords"
+            "accords",
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/wall-street-by-bond-no-9.26123425/reviews/",
+          "name": "Basenotes — Reviews of Wall Street by Bond No. 9",
+          "type": "publication",
+          "supports": [
+            "performance"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: crafted to last 6 to 8 hours; made for daytime wear; a Basenotes reviewer also reports 6-7 h; no sillage level stated."
     },
     {
       "name": "Astor Place",
@@ -1316,10 +1432,26 @@
           "supports": [
             "concentration",
             "notes",
-            "family"
+            "family",
+            "performance",
+            "usage"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: typically lasts 6 to 8 hours on skin; best suited for evening and nighttime wear; no sillage level stated."
     },
     {
       "name": "Central Park West",
@@ -1359,10 +1491,33 @@
           "supports": [
             "concentration",
             "notes",
-            "family"
+            "family",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://bestmenscolognes.com/central-park-west-bond-review/",
+          "name": "Best Men's Colognes — Central Park West by Bond No. 9",
+          "type": "publication",
+          "supports": [
+            "performance"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Best Men's Colognes review: very strong projection and heavy sillage, smellable for over 10 h; Bond No. 9 FAQ: best suited for daytime wear."
     },
     {
       "name": "Dubai Gold",
@@ -1401,10 +1556,25 @@
           "supports": [
             "concentration",
             "notes",
-            "family"
+            "family",
+            "performance",
+            "usage"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: crafted to last 6 to 8 hours; made for nighttime wear; no sillage level stated."
     },
     {
       "name": "Nuits de Noho",
@@ -1579,10 +1749,26 @@
           "supports": [
             "notes",
             "family",
-            "accords"
+            "accords",
+            "performance",
+            "usage"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: crafted to last 6 to 8 hours; made for daytime wear; no sillage level stated."
     },
     {
       "name": "Good Oud",
@@ -1627,8 +1813,36 @@
             "family",
             "perfumer"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=NuVU7Vkh9lM",
+          "name": "ArahiWorld — Bond No. 9 Good Oud full perfume review (YouTube)",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "afternoon",
+          "evening",
+          "night"
+        ]
+      },
+      "performanceEvidence": "ArahiWorld video review: 10+ h on skin, strong projection for about 2 h then a scent bubble for 4-5 h, trail of 4-5 ft; best in spring, fall and winter, late afternoon into night."
     },
     {
       "name": "Oud Supreme",
@@ -1758,8 +1972,37 @@
             "family",
             "accords"
           ]
+        },
+        {
+          "url": "https://thefragrancesampleshop.com/blogs/news/is-bond-no-9-new-york-chic-worth-it-honest-review-of-the-2025-sample",
+          "name": "The Fragrance Sample Shop — Is Bond No.9 New York CHIC Worth It?",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.bondno9.com/sv-se/products/bond-no-9-new-york-chic",
+          "name": "Bond No. 9 — New York Chic",
+          "type": "official",
+          "supports": [
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 4,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "The Fragrance Sample Shop: 8-10 h on skin, moderate to strong sillage, bold projection for the first 2 h then intimate; Bond No. 9 FAQ: made for nighttime wear."
     }
   ]
 }
