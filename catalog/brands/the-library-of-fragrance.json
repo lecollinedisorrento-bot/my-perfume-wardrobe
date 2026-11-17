@@ -22,12 +22,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "ozone",
+          "wet earth",
+          "rain accord"
+        ],
+        "heart": [
+          "mineral note",
+          "green leaf"
+        ],
+        "base": [
+          "musk",
+          "petrichor"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -36,6 +46,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Thunderstorm",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -50,11 +68,14 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
+        "heart": [
+          "water",
+          "soil tincture"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -63,6 +84,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Petrichor",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -104,11 +133,15 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
+        "heart": [
+          "musk",
+          "floral",
+          "powder"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -117,6 +150,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Baby Powder",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -167,12 +208,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "tomato leaf",
+          "green tomato",
+          "citrus"
+        ],
+        "heart": [
+          "tomato accord",
+          "green note",
+          "herbaceous"
+        ],
+        "base": [
+          "musk",
+          "light woody note"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -182,8 +234,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Tomato",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Dirt",
@@ -195,11 +267,16 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
-        "base": [],
+        "heart": [
+          "green",
+          "moss"
+        ],
+        "base": [
+          "woody"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -208,6 +285,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Dirt",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -224,9 +309,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "honeysuckle"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -235,6 +322,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Honeysuckle",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -248,12 +343,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "water"
+        ],
+        "heart": [
+          "floral"
+        ],
+        "base": [
+          "soil"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -262,6 +363,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Wet Garden",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -343,12 +452,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "green grass",
+          "galbanum",
+          "aldehyde"
+        ],
+        "heart": [
+          "grass accord",
+          "geranium",
+          "green note",
+          "herbaceous floral"
+        ],
+        "base": [
+          "cedarwood",
+          "vetiver",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -358,8 +480,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Grass",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Rain",
@@ -370,12 +512,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "ozone",
+          "water note",
+          "green note"
+        ],
+        "heart": [
+          "lily of the valley",
+          "cyclamen"
+        ],
+        "base": [
+          "white musk",
+          "mineral note"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -384,6 +536,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Rain",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -480,11 +640,14 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
+        "heart": [
+          "marshmallow",
+          "vanilla"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -493,6 +656,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Marshmallow",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -506,12 +677,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "sea salt",
+          "ozone",
+          "marine note"
+        ],
+        "heart": [
+          "mineral note",
+          "sea spray"
+        ],
+        "base": [
+          "driftwood",
+          "white musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -520,6 +701,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Salt Air",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -618,9 +807,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "lilac"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -629,6 +820,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Lilac",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -759,9 +958,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "vanilla",
+          "sweet cream",
+          "butter",
+          "cake batter accord",
+          "almond",
+          "powdered sugar",
+          "musk",
+          "amber"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -771,8 +979,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Vanilla Cake Batter",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Jasmine",
@@ -783,12 +1011,17 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
+        "top": [
+          "citrus"
+        ],
+        "heart": [
+          "jasmine",
+          "floral"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -797,6 +1030,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Jasmine",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -837,12 +1078,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "cinnamon"
+        ],
+        "heart": [
+          "milk",
+          "wheat"
+        ],
+        "base": [
+          "vanilla",
+          "sugar"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -851,6 +1100,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Cinnamon Bun",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -864,12 +1121,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "apple",
+          "peach"
+        ],
+        "heart": [
+          "jasmine",
+          "rose"
+        ],
+        "base": [
+          "sugar"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -878,6 +1144,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Pixie Dust",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -961,11 +1235,14 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
+        "heart": [
+          "pistachio",
+          "ice cream"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -974,6 +1251,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Pistachio Ice Cream",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -990,9 +1275,19 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "vanilla",
+          "butter",
+          "cocoa",
+          "chocolate",
+          "caramel",
+          "cookie",
+          "almond",
+          "sandalwood",
+          "musk"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1002,8 +1297,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Chocolate Chip Cookie",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Vampire Blooms",
@@ -1164,12 +1479,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "cannabis",
+          "green leaf"
+        ],
+        "heart": [
+          "hemp",
+          "herbal note"
+        ],
+        "base": [
+          "patchouli",
+          "vetiver"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1178,6 +1502,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Cannabis Flower",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1192,11 +1524,17 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
-        "base": [],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "virginian cedar",
+          "haitian vetiver",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1205,6 +1543,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Suntan Lotion",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1221,9 +1567,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "soap"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1232,6 +1580,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Laundromat",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1246,11 +1602,15 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
-        "base": [],
+        "heart": [
+          "honey"
+        ],
+        "base": [
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1259,6 +1619,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Honey",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1275,9 +1643,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "lavender"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1286,6 +1656,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Lavender",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1367,12 +1745,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
+        "top": [
+          "ginger",
+          "lemon",
+          "lime"
+        ],
         "heart": [],
-        "base": [],
+        "base": [
+          "sugar"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1381,6 +1765,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Gingerale",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1397,9 +1789,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "vanilla",
+          "cream",
+          "sugar",
+          "tonka bean"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1408,6 +1805,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Vanilla Ice Cream",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1478,9 +1883,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "patchouli"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1489,6 +1896,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Patchouli",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1556,12 +1971,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "dark chocolate"
+        ],
+        "heart": [
+          "cocoa"
+        ],
+        "base": [
+          "chocolate"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1570,6 +1991,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Dark Chocolate",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1763,12 +2192,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "butterscotch"
+        ],
+        "heart": [
+          "caramel",
+          "brown sugar"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1777,6 +2214,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Butterscotch",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -1921,12 +2366,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bubblegum",
+          "pink grapefruit",
+          "lemon"
+        ],
+        "heart": [
+          "pink pepper",
+          "rose",
+          "strawberry"
+        ],
+        "base": [
+          "musk",
+          "vanilla",
+          "tonka bean"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1936,8 +2393,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Bubble Gum",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Snow",
@@ -1948,12 +2425,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "pink pepper"
+        ],
+        "heart": [
+          "jasmine",
+          "white tea",
+          "green note"
+        ],
+        "base": [
+          "musk",
+          "cedarwood",
+          "white amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1963,8 +2452,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Snow",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Oud",
@@ -1975,12 +2484,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "citrus",
+          "coriander"
+        ],
+        "heart": [
+          "agarwood"
+        ],
+        "base": [
+          "amyris",
+          "leather",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -1989,6 +2507,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Oud",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2173,12 +2699,18 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
+        "top": [
+          "fir needle"
+        ],
+        "heart": [
+          "pine",
+          "cedarwood",
+          "moss"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2187,6 +2719,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Fraser Fir",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2200,12 +2740,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "clove",
+          "spice",
+          "citrus"
+        ],
+        "heart": [
+          "clove bud",
+          "spiced warmth",
+          "dry spice"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "woody base"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2215,8 +2767,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Clove",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Myrrh",
@@ -2254,12 +2826,20 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "leather"
+        ],
+        "heart": [
+          "birch tar",
+          "styrax"
+        ],
+        "base": [
+          "smoke",
+          "castoreum"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2268,6 +2848,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Leather",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2281,12 +2869,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "smoke",
+          "charred wood"
+        ],
+        "heart": [
+          "birch",
+          "pine needle",
+          "clove"
+        ],
+        "base": [
+          "ash",
+          "cedarwood",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2295,6 +2894,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Fireplace",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2311,9 +2918,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "cotton candy"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2322,6 +2931,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Cotton Candy",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2363,11 +2980,15 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
+        "heart": [
+          "gingerbread",
+          "vanilla",
+          "amber"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2376,6 +2997,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Gingerbread",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2392,9 +3021,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "caramel",
+          "vanilla",
+          "toffee",
+          "brown sugar",
+          "musk",
+          "amber"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2404,8 +3040,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Caramel",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Strawberry Ice Cream",
@@ -2416,12 +3072,17 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
+        "top": [
+          "strawberry"
+        ],
+        "heart": [
+          "custard",
+          "whipped cream"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2430,6 +3091,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Strawberry Ice Cream",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2470,12 +3139,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "rosa damascena",
+          "green leaf",
+          "aldehyde"
+        ],
+        "heart": [
+          "bulgarian rose",
+          "geranium",
+          "rose petal",
+          "violet leaf"
+        ],
+        "base": [
+          "musk",
+          "cedarwood",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2485,8 +3167,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Bulgarian Rose",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "New Baby",
@@ -2497,12 +3199,21 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "powder",
+          "lavender"
+        ],
+        "heart": [
+          "carnation",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "vanilla"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2511,6 +3222,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter New Baby",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -2592,9 +3311,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "almond",
+          "tonka bean",
+          "vanilla",
+          "almond accord",
+          "hazelnut",
+          "roasted nut",
+          "sandalwood",
+          "musk"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2604,8 +3332,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Almond",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 1,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 1/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Pina Colada",
@@ -2918,12 +3666,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "pink grapefruit",
+          "bergamot",
+          "lemon"
+        ],
+        "heart": [
+          "grapefruit accord",
+          "white tea",
+          "green note"
+        ],
+        "base": [
+          "musk",
+          "light wood",
+          "ambroxan"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2933,8 +3693,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Pink Grapefruit",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Peach",
@@ -2948,9 +3728,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "peach"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -2959,6 +3741,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Peach",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3098,9 +3888,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "orange"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3109,6 +3901,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Sweet Orange",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3179,9 +3979,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "amber"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3190,6 +3992,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Amber",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3233,9 +4043,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "orange blossom"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3244,6 +4056,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Orange Blossom",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3295,12 +4115,17 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
+        "top": [
+          "orange",
+          "mint"
+        ],
+        "heart": [
+          "ginger"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3309,6 +4134,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Christmas Tree",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3388,12 +4221,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "green apple",
+          "aldehyde",
+          "galbanum"
+        ],
+        "heart": [
+          "apple",
+          "peach",
+          "osmanthus"
+        ],
+        "base": [
+          "musk",
+          "woody note",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3403,8 +4248,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Golden Delicious",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Cinnamon Bark",
@@ -3415,12 +4280,22 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "pepper"
+        ],
+        "heart": [
+          "cinnamon",
+          "cardamom"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3429,6 +4304,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Cinnamon Bark",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3445,9 +4328,16 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "cocoa",
+          "chocolate",
+          "vanilla",
+          "cocoa butter",
+          "hazelnut",
+          "musk"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3457,8 +4347,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Brownie",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Log Cabin",
@@ -3537,9 +4447,19 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "gardenia",
+          "green note",
+          "lemon",
+          "jasmine",
+          "tuberose",
+          "white floral",
+          "musk",
+          "sandalwood",
+          "woody base"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3549,8 +4469,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Gardenia",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Fig Leaf",
@@ -3561,12 +4501,23 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "fig leaf",
+          "galbanum",
+          "green note"
+        ],
+        "heart": [
+          "fig",
+          "leafy accord",
+          "herbal note"
+        ],
+        "base": [
+          "wood",
+          "musk"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3576,8 +4527,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Fig Leaf",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Cedar",
@@ -3618,9 +4589,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "black pepper"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3629,6 +4602,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Black Pepper",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3672,9 +4653,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "flax"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3683,6 +4666,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Linen",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3780,9 +4771,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "watermelon"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3791,6 +4784,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Watermelon Lollipop",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3807,9 +4808,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "vetiver"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3818,6 +4821,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Vetiver",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3885,12 +4896,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lavender"
+        ],
+        "heart": [
+          "grass",
+          "rosemary"
+        ],
+        "base": [
+          "woody"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3899,6 +4917,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Mountain Air",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3942,9 +4968,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "lily of the valley"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3953,6 +4981,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Lily Of The Valley",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -3969,9 +5005,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "leather"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -3980,6 +5018,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Riding Crop",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4091,9 +5137,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "basil",
+          "green leaf",
+          "galbanum",
+          "herbaceous note",
+          "green tea",
+          "musk",
+          "light wood",
+          "amber"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -4103,8 +5158,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Basil",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Lime",
@@ -4252,10 +5327,13 @@
       "notes": {
         "top": [],
         "heart": [],
-        "base": [],
+        "base": [
+          "woody",
+          "tobacco"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -4264,6 +5342,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter This Is Not A Pipe",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4399,9 +5485,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "beeswax",
+          "honey",
+          "herbaceous note",
+          "floral accord",
+          "warm vanilla",
+          "soft musk",
+          "amber",
+          "woody base"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -4411,8 +5506,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Beeswax",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 1,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 1/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Fresh Hay",
@@ -4426,9 +5541,12 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "hay",
+          "green note"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -4437,6 +5555,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Fresh Hay",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4450,12 +5576,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "cherry",
+          "bergamot",
+          "pink pepper"
+        ],
+        "heart": [
+          "cherry blossom",
+          "rose",
+          "peony"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -4465,8 +5603,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Cherry Blossom",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Between The Sheets",
@@ -4701,12 +5859,19 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "lychee"
+        ],
+        "heart": [
+          "raspberry",
+          "turkish rosewater"
+        ],
+        "base": [
+          "white chocolate"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -4715,6 +5880,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Lychee",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4853,9 +6026,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "neroli",
+          "orange blossom",
+          "petitgrain",
+          "musk"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -4864,6 +6042,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Neroli",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -4949,12 +6135,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "ginger",
+          "cinnamon",
+          "clove"
+        ],
+        "heart": [
+          "vanilla",
+          "caramel",
+          "tonka bean",
+          "butter"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "sandalwood"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -4964,8 +6163,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Ginger Cookie",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Chamomile Tea",
@@ -5197,9 +6416,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "peony"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -5208,6 +6429,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Peony",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5262,9 +6491,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "apple blossom"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -5273,6 +6504,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Apple Blossom",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5286,12 +6525,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "pomegranate",
+          "bergamot",
+          "pink peppercorn"
+        ],
+        "heart": [
+          "pomegranate accord",
+          "red berry",
+          "floral musk"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -5301,8 +6552,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Pomegranate",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Pizza",
@@ -5390,12 +6661,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "asian pear",
+          "pear juice",
+          "bergamot"
+        ],
+        "heart": [
+          "pear blossom",
+          "white floral",
+          "peach"
+        ],
+        "base": [
+          "light musk",
+          "white wood",
+          "skin scent"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -5405,8 +6688,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Asian Pear",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Provence Meadow",
@@ -5461,9 +6764,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "magnolia"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -5472,6 +6777,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Magnolia",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -5820,9 +7133,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "geranium",
+          "citrus",
+          "bergamot",
+          "rose",
+          "green leaf",
+          "musk",
+          "cedarwood",
+          "vetiver"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -5832,8 +7154,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Geranium",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Bamboo",
@@ -6018,12 +7360,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "cherry",
+          "almond",
+          "bitter almond"
+        ],
+        "heart": [
+          "cherry accord",
+          "chocolate",
+          "cocoa",
+          "floral nuance"
+        ],
+        "base": [
+          "vanilla",
+          "musk",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -6033,8 +7388,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Chocolate Covered Cherries",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Chrysanthemum",
@@ -6048,9 +7423,17 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "chrysanthemum",
+          "green leaf",
+          "citrus",
+          "floral green",
+          "herbal nuance",
+          "musk",
+          "woody base"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -6060,8 +7443,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Chrysanthemum",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Grumpy Cat",
@@ -6250,11 +7653,15 @@
       "accords": [],
       "notes": {
         "top": [],
-        "heart": [],
+        "heart": [
+          "frangipani",
+          "jasmine",
+          "coconut"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -6263,6 +7670,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Frangipani",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6495,9 +7910,11 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "macadamia nut"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -6506,6 +7923,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Macadamia Nut",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6643,9 +8068,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "green tea",
+          "lemon",
+          "bergamot",
+          "jasmine",
+          "musk"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -6654,6 +8085,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Green Tea",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -6710,9 +8149,18 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "sugar cane",
+          "green note",
+          "citrus",
+          "sweet floral",
+          "vanilla",
+          "caramel",
+          "musk",
+          "woody base"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -6722,8 +8170,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Sugar Cane",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Cypress",
@@ -6874,12 +8342,24 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "bergamot",
+          "lemon",
+          "grapefruit"
+        ],
+        "heart": [
+          "green note",
+          "sparkling aldehyde",
+          "white floral"
+        ],
+        "base": [
+          "musk",
+          "light wood",
+          "amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -6889,8 +8369,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Champagne Brut",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Turpentine",
@@ -7363,12 +8863,17 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
+        "top": [
+          "lime"
+        ],
+        "heart": [
+          "sugar",
+          "salt"
+        ],
         "base": [],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -7377,6 +8882,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Frozen Margarita",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -7679,12 +9192,25 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "green leaf",
+          "galbanum",
+          "ozonic note"
+        ],
+        "heart": [
+          "ivy accord",
+          "green floral",
+          "herbal note",
+          "violet leaf"
+        ],
+        "base": [
+          "musk",
+          "woody base",
+          "trace amber"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -7694,8 +9220,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Poison Ivy",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 3,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 3/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Madeleine",
@@ -7817,9 +9363,19 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "ylang ylang",
+          "bergamot",
+          "lemon",
+          "jasmine",
+          "rose",
+          "gardenia",
+          "sandalwood",
+          "vanilla",
+          "musk"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -7829,8 +9385,28 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Ylang Ylang",
+          "type": "database",
+          "supports": [
+            "notes",
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 2,
+        "sillage": 2,
+        "projection": null,
+        "basis": "database"
+      },
+      "performanceEvidence": "Perfume Picks community scores: longevity 2/5, sillage 2/5",
+      "usage": {
+        "seasons": [],
+        "times": []
+      }
     },
     {
       "name": "Saltwater Taffy",
@@ -7963,9 +9539,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "green leaf",
+          "ivy",
+          "green note",
+          "earthy note"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -7974,6 +9555,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Ivy",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -8071,9 +9660,15 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "green leaf",
+          "red poppy",
+          "violet",
+          "musk",
+          "earthy note"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -8082,6 +9677,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Red Poppies",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -8256,9 +9859,14 @@
         "top": [],
         "heart": [],
         "base": [],
-        "flat": []
+        "flat": [
+          "lime",
+          "mint",
+          "white rum",
+          "sugar cane"
+        ]
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -8267,6 +9875,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Mojito",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
@@ -8524,12 +10140,31 @@
       "family": null,
       "accords": [],
       "notes": {
-        "top": [],
-        "heart": [],
-        "base": [],
+        "top": [
+          "aldehyde",
+          "bergamot",
+          "coriander"
+        ],
+        "heart": [
+          "orange blossom",
+          "angelica",
+          "violet",
+          "lily",
+          "jasmine",
+          "rose",
+          "geranium",
+          "ylang ylang"
+        ],
+        "base": [
+          "iris",
+          "musk",
+          "civet",
+          "oakmoss",
+          "vetiver"
+        ],
         "flat": []
       },
-      "noteSource": null,
+      "noteSource": "reported",
       "discontinued": false,
       "sources": [
         {
@@ -8538,6 +10173,14 @@
           "type": "official",
           "supports": [
             "concentration"
+          ]
+        },
+        {
+          "url": "https://perfumepicks.app/",
+          "name": "Perfume Picks — Demeter Coriander Tea",
+          "type": "database",
+          "supports": [
+            "notes"
           ]
         }
       ]
