@@ -2807,7 +2807,7 @@
         {
           "url": "https://perfumista.vn/nuoc-hoa-unisex/nuoc-hoa-montale-infinity-4369.html",
           "name": "Perfumista — Montale Infinity",
-          "type": "retailer",
+          "type": "database",
           "supports": [
             "performance",
             "usage"

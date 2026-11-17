@@ -131,8 +131,35 @@
             "family",
             "accords"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/terre-d---hermes-by-hermes.26277560/reviews/",
+          "name": "Basenotes — Reviews of Terre d'Hermès Intense by Hermès",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.spacenk.com/uk/fragrance/personal-fragrance/fragrance/terre-dhermes-eau-de-parfum-intense-MUK200054441.html",
+          "name": "Space NK — Terre d'Hermès Eau de Parfum Intense",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: wear time about 8 h, another about 10 h with medium sillage, projects more than it sits on skin; Space NK shopper reviews: well past 8 hours."
     },
     {
       "name": "Terre d'Hermès Parfum",
@@ -348,8 +375,27 @@
             "perfumer",
             "family"
           ]
+        },
+        {
+          "url": "https://elevated-classics.com/hermes-barenia-intense-review-heritage-leather-in-a-bottle/",
+          "name": "Elevated Classics — Hermès Barénia Intense Review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Elevated Classics review: holds eight to twelve hours; sillage intimate, noticeable only close up."
     },
     {
       "name": "Barénia",
@@ -1050,8 +1096,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://nezdeluxe.pl/2026/09/hermessence-ginseng-biloba-hermes.html",
+          "name": "Nez de Luxe — Hermessence Ginseng Biloba",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Nez de Luxe review: 'very good' longevity, around 6-7 hours."
     },
     {
       "name": "Musc Pallida",
@@ -1266,8 +1331,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/hermessence-cedre-sambac-by-hermes.26154862/reviews/",
+          "name": "Basenotes — Reviews of Hermèssence Cèdre Sambac",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://australianperfumejunkies.com/2018/09/18/cedre-sambac-hermes-review/",
+          "name": "Australian Perfume Junkies — Cèdre Sambac review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewer: moderate sillage, six hours; Australian Perfume Junkies commenter: 12+ hours on her skin, though the author found it faded fast; results vary by skin."
     },
     {
       "name": "Agar Ébène",
@@ -1458,8 +1550,35 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://nezdeluxe.pl/2018/07/hermessence-cardamusc.html",
+          "name": "Nez de Luxe — Hermessence Cardamusc",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://enjoy-menslife.com/hermes-hermessence-cardamusc-review/",
+          "name": "Enjoy Men's Life — Hermès Cardamusc review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 2,
+        "projection": 2,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Nez de Luxe (2018): longevity 'very good', over 10 hours; Enjoy Men's Life: about 4-5 hours, reach about an arm's length. Sources disagree on duration; close-to-skin oil."
     },
     {
       "name": "Épice Marine",
@@ -1788,8 +1907,27 @@
           "supports": [
             "concentration"
           ]
+        },
+        {
+          "url": "https://tayutahu-kosui.com/violette-volynka/",
+          "name": "Tayutahu Kosui — Hermès Violette Volynka review",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 2,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Tayutahu Kosui blog: longevity about 5.5-6 hours, projection weak, a gentle scent close to the skin after the first hour."
     },
     {
       "name": "Vetiver Tonka",

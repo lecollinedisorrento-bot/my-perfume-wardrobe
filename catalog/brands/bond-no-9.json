@@ -345,7 +345,20 @@
             "family"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: typically lasts 6-8 hours on skin, strong longevity especially in cooler conditions; best suited for nighttime wear; no sillage level stated."
     },
     {
       "name": "Nolita",
@@ -513,7 +526,20 @@
             "family"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: crafted to last 6 to 8 hours; built for nighttime wear; no sillage level stated."
     },
     {
       "name": "Beekman Place",
@@ -601,7 +627,18 @@
             "family"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: typically lasts 6 to 8 hours on skin; no sillage level stated."
     },
     {
       "name": "New York Flowers",
@@ -644,8 +681,27 @@
             "family",
             "accords"
           ]
+        },
+        {
+          "url": "https://www.thescentgardenllc.com/products/new-york-flowers-by-bond-no-9",
+          "name": "The Scent Garden — New York Flowers by Bond No. 9",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "The Scent Garden decant listing: longevity 6-8 h (moderate), moderate projection in the opening then a close skin scent after a few hours."
     },
     {
       "name": "New York Gardenia",
@@ -682,8 +738,27 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/bond-no-9-new-york-gardenia-for-unisex-samples",
+          "name": "Scents Angel — Bond No. 9 New York Gardenia",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Scents Angel decant listing: longevity 7-9 h, moderate to noticeable sillage, aura within arm's reach."
     },
     {
       "name": "New Haarlem",
@@ -791,7 +866,21 @@
             "accords"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: crafted to last 6 to 8 hours; made for daytime wear; no sillage level stated."
     },
     {
       "name": "New York Forever",
@@ -827,8 +916,35 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.myperfumeshop.qa/products/bond-no9-new-york-forever-edp",
+          "name": "My Perfume Shop Qatar — Bond No.9 New York Forever EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.scentsangel.com/products/bond-no-9-new-york-forever-for-unisex",
+          "name": "Scents Angel — Bond No.9 New York Forever Eau de parfum",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "My Perfume Shop Qatar: lasts about 8-10 h; Scents Angel decant listing: 6-8 h, moderate sillage, balanced projection."
     },
     {
       "name": "Sutton Place",
@@ -871,8 +987,37 @@
             "notes",
             "family"
           ]
+        },
+        {
+          "url": "https://www.venbafragrance.com/products/bond-no-9-sutton-place-edp",
+          "name": "Venba Fragrance — Bond No. 9 Sutton Place EDP",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://www.bondno9.com/en-gb/products/sutton-place",
+          "name": "Bond No. 9 — Sutton Place",
+          "type": "official",
+          "supports": [
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "night"
+        ]
+      },
+      "performanceEvidence": "Venba decant listing: 7-9 h on skin, moderate-to-strong sillage, 2-3 ft projection in the first hour then arm's length; Bond No. 9 FAQ: made for nighttime wear."
     },
     {
       "name": "Riverside Drive",
@@ -958,7 +1103,21 @@
             "accords"
           ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "official"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Bond No. 9 FAQ: typically lasts 6 to 8 hours; best suited for daytime wear (office, casual); no sillage level stated."
     },
     {
       "name": "Chelsea Nights",

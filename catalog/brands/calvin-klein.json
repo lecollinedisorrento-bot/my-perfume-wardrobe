@@ -15,11 +15,37 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["pomegranate", "persimmon", "green accords"], "heart": ["black orchid", "lotus blossom", "champaca flower"], "base": ["amber", "mahogany", "musk", "creamy accord"], "flat": [] },
+      "notes": {
+        "top": [
+          "pomegranate",
+          "persimmon",
+          "green accords"
+        ],
+        "heart": [
+          "black orchid",
+          "lotus blossom",
+          "champaca flower"
+        ],
+        "base": [
+          "amber",
+          "mahogany",
+          "musk",
+          "creamy accord"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-euphoria-perfume-for-woman", "name": "Perfumes Fragrance - Calvin Klein Euphoria Perfume For Woman", "type": "retailer", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-euphoria-perfume-for-woman",
+          "name": "Perfumes Fragrance - Calvin Klein Euphoria Perfume For Woman",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -30,12 +56,65 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "mandarin", "peach", "lemon", "vanilla", "basil"], "heart": ["jasmine", "orange blossom", "rose", "coriander", "cedarwood"], "base": ["amber", "vanilla", "musk", "civet", "incense", "vetiver", "oakmoss"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "peach",
+          "lemon",
+          "vanilla",
+          "basil"
+        ],
+        "heart": [
+          "jasmine",
+          "orange blossom",
+          "rose",
+          "coriander",
+          "cedarwood"
+        ],
+        "base": [
+          "amber",
+          "vanilla",
+          "musk",
+          "civet",
+          "incense",
+          "vetiver",
+          "oakmoss"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-obsession-perfume-for-women", "name": "Perfumes Fragrance - Calvin Klein Obsession Perfume For Women", "type": "retailer", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-obsession-perfume-for-women",
+          "name": "Perfumes Fragrance - Calvin Klein Obsession Perfume For Women",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.fragrancex.com/products/calvin-klein/obsession-perfume",
+          "name": "FragranceX — Calvin Klein Obsession for Women",
+          "type": "retailer",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "FragranceX listing: can last around 6-8 hours depending on skin; customer reviews there mention 6-7 hours and noticeable but not overpowering sillage."
     },
     {
       "name": "Obsession for Men",
@@ -45,12 +124,70 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "mandarin", "cinnamon", "coriander", "lime"], "heart": ["jasmine", "myrrh", "nutmeg", "carnation", "pine", "sage"], "base": ["amber", "sandalwood", "musk", "vanilla", "vetiver", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "mandarin",
+          "cinnamon",
+          "coriander",
+          "lime"
+        ],
+        "heart": [
+          "jasmine",
+          "myrrh",
+          "nutmeg",
+          "carnation",
+          "pine",
+          "sage"
+        ],
+        "base": [
+          "amber",
+          "sandalwood",
+          "musk",
+          "vanilla",
+          "vetiver",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-obsession-cologne-for-men", "name": "Perfumes Fragrance - Calvin Klein Obsession Cologne For Men", "type": "retailer", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-obsession-cologne-for-men",
+          "name": "Perfumes Fragrance - Calvin Klein Obsession Cologne For Men",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://varanisridari.home.blog/2019/11/10/obsession-for-men-by-calvin-klein-1986/",
+          "name": "The Scented Devil — Obsession for Men by Calvin Klein",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": null,
+        "projection": 4,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "The Scented Devil blog (2019): 12+ hours of wear with projection for at least half that; best for romantic evenings in cooler air; notes the scent has since become thinner and shorter-lived."
     },
     {
       "name": "Sheer Beauty for Women",
@@ -60,11 +197,36 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["peach bellini accord", "red berries", "bergamot"], "heart": ["pink lily", "jasmine", "peony"], "base": ["musk", "sandalwood", "vanilla blossom"], "flat": [] },
+      "notes": {
+        "top": [
+          "peach bellini accord",
+          "red berries",
+          "bergamot"
+        ],
+        "heart": [
+          "pink lily",
+          "jasmine",
+          "peony"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "vanilla blossom"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-sheer-beauty-for-woman", "name": "Perfumes Fragrance - Calvin Klein Sheer Beauty For Woman", "type": "retailer", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-sheer-beauty-for-woman",
+          "name": "Perfumes Fragrance - Calvin Klein Sheer Beauty For Woman",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -75,11 +237,40 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["mandarin", "freesia", "sage"], "heart": ["lily", "jasmine", "marigold", "narcissus", "rose", "lily of the valley"], "base": ["sandalwood", "amber", "musk", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "mandarin",
+          "freesia",
+          "sage"
+        ],
+        "heart": [
+          "lily",
+          "jasmine",
+          "marigold",
+          "narcissus",
+          "rose",
+          "lily of the valley"
+        ],
+        "base": [
+          "sandalwood",
+          "amber",
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-eternity-perfume-for-woman", "name": "Perfumes Fragrance - Calvin Klein Eternity Perfume For Woman", "type": "retailer", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-eternity-perfume-for-woman",
+          "name": "Perfumes Fragrance - Calvin Klein Eternity Perfume For Woman",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -90,12 +281,71 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["citrus", "cucumber", "green leaves", "lotus"], "heart": ["szechuan pepper", "mirabelle plum", "lavender", "cedarwood"], "base": ["sandalwood", "musk", "patchouli", "guaiac wood"], "flat": [] },
+      "notes": {
+        "top": [
+          "citrus",
+          "cucumber",
+          "green leaves",
+          "lotus"
+        ],
+        "heart": [
+          "szechuan pepper",
+          "mirabelle plum",
+          "lavender",
+          "cedarwood"
+        ],
+        "base": [
+          "sandalwood",
+          "musk",
+          "patchouli",
+          "guaiac wood"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-eternity-aqua-for-man", "name": "Perfumes Fragrance - Calvin Klein Eternity Aqua For Man", "type": "retailer", "supports": ["notes", "concentration"] }
-      ]
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-eternity-aqua-for-man",
+          "name": "Perfumes Fragrance - Calvin Klein Eternity Aqua For Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/eternity-for-men-aqua-by-calvin-klein.26135811/reviews/",
+          "name": "Basenotes — Reviews of Eternity for Men Aqua",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/threads/calvin-klein-eternity-aqua.437601/",
+          "name": "Basenotes forum — Calvin Klein Eternity Aqua",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: about 6-7 h with arm's-length projection (one), 4-5 h with moderate sillage (another), 6 h with ~45 min of projection (forum); a summer freshie for warmer months."
     },
     {
       "name": "Eternity for Men",
@@ -105,12 +355,58 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-eternity-edt-for-man", "name": "Perfumes Fragrance - Calvin Klein Eternity EDT For Man", "type": "retailer", "supports": ["concentration"] }
-      ]
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-eternity-edt-for-man",
+          "name": "Perfumes Fragrance - Calvin Klein Eternity EDT For Man",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://thesmellofman.com/2023/07/06/should-you-buy-calvin-klein-eternity-in-2023/",
+          "name": "The Smell of Man — Before you buy Calvin Klein Eternity",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
+        },
+        {
+          "url": "https://everfumed.com/calvin-klein-eternity-for-men-edt-reviews/",
+          "name": "Everfumed — Calvin Klein Eternity for Men EDT review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 3,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "The Smell of Man: about 6 h with decent projection for 3-4 h; Everfumed: roughly 3-5 h, moderate close sillage, daytime/office scent best in spring and summer."
     },
     {
       "name": "My Euphoria for Women",
@@ -120,11 +416,37 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["raspberry", "black currant", "mandarin orange"], "heart": ["jasmine", "orchid", "rose petals"], "base": ["patchouli", "amber", "sandalwood", "musk"], "flat": [] },
+      "notes": {
+        "top": [
+          "raspberry",
+          "black currant",
+          "mandarin orange"
+        ],
+        "heart": [
+          "jasmine",
+          "orchid",
+          "rose petals"
+        ],
+        "base": [
+          "patchouli",
+          "amber",
+          "sandalwood",
+          "musk"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-my-euphoria-for-woman", "name": "Perfumes Fragrance - Calvin Klein My Euphoria For Woman", "type": "retailer", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-my-euphoria-for-woman",
+          "name": "Perfumes Fragrance - Calvin Klein My Euphoria For Woman",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -135,11 +457,40 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["rosemary", "mandarin", "bergamot", "violet leaf"], "heart": ["nutmeg", "bay leaf", "incense", "mint"], "base": ["cypress wood", "guaiac wood", "sandalwood", "musk", "amber"], "flat": [] },
+      "notes": {
+        "top": [
+          "rosemary",
+          "mandarin",
+          "bergamot",
+          "violet leaf"
+        ],
+        "heart": [
+          "nutmeg",
+          "bay leaf",
+          "incense",
+          "mint"
+        ],
+        "base": [
+          "cypress wood",
+          "guaiac wood",
+          "sandalwood",
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-man-black-cologne", "name": "Perfumes Fragrance - Calvin Klein Man Black Cologne", "type": "retailer", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-man-black-cologne",
+          "name": "Perfumes Fragrance - Calvin Klein Man Black Cologne",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -150,11 +501,39 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["absinthe", "jackfruit", "star anise", "juniper berry"], "heart": ["suede", "coffee", "tobacco", "buchu"], "base": ["patchouli", "cedarwood", "oakwood", "ironwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "absinthe",
+          "jackfruit",
+          "star anise",
+          "juniper berry"
+        ],
+        "heart": [
+          "suede",
+          "coffee",
+          "tobacco",
+          "buchu"
+        ],
+        "base": [
+          "patchouli",
+          "cedarwood",
+          "oakwood",
+          "ironwood"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-ck-free-for-man", "name": "Perfumes Fragrance - Calvin Klein CK Free For Man", "type": "retailer", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-ck-free-for-man",
+          "name": "Perfumes Fragrance - Calvin Klein CK Free For Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -165,11 +544,37 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["ginger", "pepper", "raindrop accord"], "heart": ["black basil", "sage", "cedar leaf"], "base": ["suede", "patchouli", "amber", "brazilian redwood"], "flat": [] },
+      "notes": {
+        "top": [
+          "ginger",
+          "pepper",
+          "raindrop accord"
+        ],
+        "heart": [
+          "black basil",
+          "sage",
+          "cedar leaf"
+        ],
+        "base": [
+          "suede",
+          "patchouli",
+          "amber",
+          "brazilian redwood"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-euphoria-for-man", "name": "Perfumes Fragrance - Calvin Klein Euphoria For Man", "type": "retailer", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-euphoria-for-man",
+          "name": "Perfumes Fragrance - Calvin Klein Euphoria For Man",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -180,11 +585,36 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": ["bergamot", "ivy leaf", "blue amber"], "heart": ["sage", "suede", "spicy tonka bean"], "base": ["guaiac wood", "amber", "patchouli"], "flat": [] },
+      "notes": {
+        "top": [
+          "bergamot",
+          "ivy leaf",
+          "blue amber"
+        ],
+        "heart": [
+          "sage",
+          "suede",
+          "spicy tonka bean"
+        ],
+        "base": [
+          "guaiac wood",
+          "amber",
+          "patchouli"
+        ],
+        "flat": []
+      },
       "noteSource": "reported",
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/products/calvin-klein-euphoria-essence-for-men", "name": "Perfumes Fragrance - Calvin Klein Euphoria Essence For Men", "type": "retailer", "supports": ["notes", "concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/products/calvin-klein-euphoria-essence-for-men",
+          "name": "Perfumes Fragrance - Calvin Klein Euphoria Essence For Men",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -195,11 +625,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -210,11 +650,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -225,11 +675,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -240,11 +700,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -255,11 +725,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -270,11 +750,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -285,11 +775,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -300,11 +800,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -315,11 +827,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -330,11 +852,23 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": ["concentration"] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": [
+            "concentration"
+          ]
+        }
       ]
     },
     {
@@ -345,11 +879,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     },
     {
@@ -360,11 +904,21 @@
       "perfumer": null,
       "family": null,
       "accords": [],
-      "notes": { "top": [], "heart": [], "base": [], "flat": [] },
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [],
+        "flat": []
+      },
       "noteSource": null,
       "discontinued": false,
       "sources": [
-        { "url": "https://www.perfumesfragrance.com/collections/calvin-klein", "name": "Perfumes Fragrance - Calvin Klein collection", "type": "retailer", "supports": [] }
+        {
+          "url": "https://www.perfumesfragrance.com/collections/calvin-klein",
+          "name": "Perfumes Fragrance - Calvin Klein collection",
+          "type": "retailer",
+          "supports": []
+        }
       ]
     }
   ]

@@ -181,8 +181,34 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://perfumista.vn/nuoc-hoa-unisex/nuoc-hoa-tiziana-terenzi-cas-24638.html",
+          "name": "Perfumista — Tiziana Terenzi Cas",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "times": [
+          "morning",
+          "afternoon"
+        ]
+      },
+      "performanceEvidence": "Perfumista listing: longevity 6-12 hours, projection 60 cm to 2 m, recommended for daytime in spring and autumn."
     },
     {
       "name": "Chiron",
@@ -636,8 +662,30 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://perfumista.vn/nuoc-hoa-unisex/nuoc-hoa-tiziana-terenzi-siene-18220.html",
+          "name": "Perfumista — Tiziana Terenzi Siene",
+          "type": "database",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Perfumista listing: longevity 6-12 hours, projection 60 cm to 2 m, suited to evening parties and meetings."
     },
     {
       "name": "Vittoriale",
@@ -1078,8 +1126,40 @@
           "supports": [
             "notes"
           ]
+        },
+        {
+          "url": "https://scentgrail.com/perfume-reviews/tiziana-terenzi-ecstasy-review/",
+          "name": "Scent Grail — Tiziana Terenzi Ecstasy Review",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/ecstasy-by-tiziana-terenzi.26139688",
+          "name": "Basenotes — Ecstasy by Tiziana Terenzi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Scent Grail review: 8-10 hours with moderate projection, sillage low to medium, 4-6 sprays; best in spring, fall, winter. Basenotes reviewer: good longevity, nice vapor trail."
     },
     {
       "name": "Gold Rose Oudh",
@@ -1423,8 +1503,27 @@
           "name": "Tiziana Terenzi — Luna collection",
           "type": "official",
           "supports": []
+        },
+        {
+          "url": "https://basenotes.com/fragrances/spirito-fiorentino-by-tiziana-terenzi.26160004",
+          "name": "Basenotes — Spirito Fiorentino by Tiziana Terenzi",
+          "type": "publication",
+          "supports": [
+            "performance"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 5,
+        "sillage": 4,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviewers: a good 10+ hours of wear; another says it leaves a big scent trail and lasts all day."
     },
     {
       "name": "Tempel",

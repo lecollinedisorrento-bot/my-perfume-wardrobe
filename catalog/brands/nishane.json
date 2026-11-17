@@ -2085,8 +2085,31 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://content.reviewr.org/nishane-nanshe-extrait-de-parfum/",
+          "name": "Reviewr — Nishane Nanshe Extrait De Parfum",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Reviewr review: longevity 8+ hours, moderate sillage projecting up to about 6 feet; recommended for autumn and winter."
     },
     {
       "name": "Papilefiko",
@@ -2289,8 +2312,44 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://content.reviewr.org/nishane-favonius-extrait-de-parfum/",
+          "name": "Reviewr — Nishane Favonius Extrait De Parfum",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
+        },
+        {
+          "url": "https://vioralondon.com/best-nishane-perfumes-for-women/",
+          "name": "Viora London — 7 Incredible Nishane Perfumes For Women",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": 3,
+        "projection": null,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "times": [
+          "evening"
+        ]
+      },
+      "performanceEvidence": "Reviewr: 10+ hours, moderate sillage up to about 6 feet, works in autumn evenings and summer days; Viora London: 7+ hours from a modest application, projects well, best in autumn/winter, also spring, evening scent."
     },
     {
       "name": "EGE / AIGAIO",
@@ -2329,8 +2388,31 @@
             "concentration",
             "family"
           ]
+        },
+        {
+          "url": "https://basenotes.com/fragrances/ege-aiga-o-by-nishane.26162460/reviews/positive/",
+          "name": "Basenotes — Positive Reviews of Ege / Aigaio by Nishane",
+          "type": "publication",
+          "supports": [
+            "performance",
+            "usage"
+          ]
         }
-      ]
+      ],
+      "performance": {
+        "longevity": null,
+        "sillage": null,
+        "projection": 3,
+        "basis": "reviews"
+      },
+      "usage": {
+        "seasons": [
+          "spring",
+          "summer"
+        ],
+        "times": []
+      },
+      "performanceEvidence": "Basenotes reviews: projection loud at first then good for the first few hours, stays as a skin scent most of the day; performance described as decent and suited to spring and summer (no hours given)."
     }
   ]
 }
