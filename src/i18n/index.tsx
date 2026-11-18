@@ -13,11 +13,19 @@ export function translate(lang: Lang, key: MessageKey | string, params?: Record<
   return s.replace(/\{(\w+)\}/g, (_, k) => (params[k] != null ? String(params[k]) : `{${k}}`));
 }
 
+function famName(lang: Lang, id: string): string {
+  const key = `fam.${id}`;
+  const s = translate(lang, key);
+  return s === key ? id : s;
+}
+
 interface I18nCtx {
   lang: Lang;
   t: TFn;
   /** For dynamic keys built at runtime (falls back to the key). */
   tk: (key: string, params?: Record<string, string | number>) => string;
+  /** Translated name of a fragrance family id (falls back to the id). */
+  fam: (id: string) => string;
   locale: string;
 }
 
@@ -25,6 +33,7 @@ const Ctx = createContext<I18nCtx>({
   lang: 'en',
   t: (k, p) => translate('en', k, p),
   tk: (k, p) => translate('en', k, p),
+  fam: (id) => famName('en', id),
   locale: 'en-GB',
 });
 
@@ -34,6 +43,7 @@ export function I18nProvider({ lang, children }: { lang: Lang; children: ReactNo
       lang,
       t: (k, p) => translate(lang, k, p),
       tk: (k, p) => translate(lang, k, p),
+      fam: (id) => famName(lang, id),
       locale: lang === 'it' ? 'it-IT' : 'en-GB',
     }),
     [lang],

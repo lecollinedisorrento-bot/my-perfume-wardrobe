@@ -1,7 +1,7 @@
 // Local layering heuristics (offline fallback). Labelled "Local match" in the
 // UI. Compatibility is a subjective vibe score, never a measurement.
 
-import { resolveFamily, traitsFor } from './families';
+import { familyIdOf, traitsFor } from './families';
 import type { Combination, Fragrance } from './types';
 import { allNotes } from './fragrance';
 
@@ -60,8 +60,8 @@ export function localLayerSuggestion(primary: Fragrance, secondary: Fragrance): 
   const heavierFirst = ta.weight >= tb.weight;
   const base = heavierFirst ? primary : secondary;
   const top = heavierFirst ? secondary : primary;
-  const famA = resolveFamily(primary.family)?.id ?? (primary.family || '—');
-  const famB = resolveFamily(secondary.family)?.id ?? (secondary.family || '—');
+  const famA = familyIdOf(primary) ?? '—';
+  const famB = familyIdOf(secondary) ?? '—';
   const occasions: string[] = [];
   const avgWeight = (ta.weight + tb.weight) / 2;
   if (avgWeight < 0.45) occasions.push('casual', 'work');

@@ -21,7 +21,7 @@ import {
   type SpinFilters,
 } from '../domain/roulette';
 import { OCCASIONS, SEASONS, type Fragrance } from '../domain/types';
-import { resolveFamily, familyColor } from '../domain/families';
+import { familyIdOf, seasonsOf, familyColor } from '../domain/families';
 import { localDay, uid, nowIso, randomInt } from '../domain/util';
 import { sfx, vibrate } from '../services/feedback';
 import { useRelativeDay } from '../state/hooks';
@@ -39,7 +39,7 @@ function loadFilters(): SpinFilters {
 
 export default function Spin() {
   const { fragrances, wears, weather, prefs, recordSpin, wearToday, updatePrefs, spins } = useStore();
-  const { t, tk } = useI18n();
+  const { t, tk, fam } = useI18n();
   const { reducedMotion } = useUi();
   const [mode, setMode] = useState<'wheel' | 'slots'>(() => {
     try {
@@ -74,7 +74,7 @@ export default function Spin() {
     setResult({ f, spinId: rec.id, label });
   };
 
-  const families = useMemo(() => [...new Set(fragrances.map((f) => resolveFamily(f.family)?.id ?? f.family).filter(Boolean))].sort(), [fragrances]);
+  const families = useMemo(() => [...new Set(fragrances.map((f) => familyIdOf(f) ?? '').filter(Boolean))].sort(), [fragrances]);
   const activeCount =
     (filters.favoritesOnly ? 1 : 0) + (filters.season ? 1 : 0) + (filters.occasion ? 1 : 0) + (filters.weatherOnly ? 1 : 0) + (filters.excludeRecentDays ? 1 : 0) + filters.families.length;
 
@@ -227,7 +227,7 @@ export default function Spin() {
           {families.length > 0 && (
             <div className="field">
               <span className="label">{t('spin.filter.families')}</span>
-              <ChipToggle options={families} value={filters.families} onChange={(v) => setFilters({ ...filters, families: v })} render={(f) => f} size="sm" />
+              <ChipToggle options={families} value={filters.families} onChange={(v) => setFilters({ ...filters, families: v })} render={(f) => fam(f)} size="sm" />
             </div>
           )}
           <p className="hint">{t('spin.filter.unknownNote')}</p>
@@ -689,7 +689,7 @@ function Slots({ eligible, reduced, spinning, setSpinning, onResult, clearResult
 // ───────────────────────────── Result ─────────────────────────────
 
 function ResultCard({ f, label, onAdd }: { f: Fragrance; label?: string; onAdd: () => Promise<void> }) {
-  const { t, tk } = useI18n();
+  const { t, tk, fam } = useI18n();
   const { confetti, toast } = useUi();
   const [added, setAdded] = useState(false);
   const ref = useRef<HTMLElement>(null);
@@ -722,7 +722,7 @@ function ResultCard({ f, label, onAdd }: { f: Fragrance; label?: string; onAdd: 
           >
             {f.name}
           </h2>
-          {f.family && <span className="small" style={{ fontWeight: 700 }}>{resolveFamily(f.family)?.id ?? f.family}</span>}
+          {familyIdOf(f) && <span className="small" style={{ fontWeight: 700 }}>{fam(familyIdOf(f)!)}</span>}
           {f.accords.length > 0 && <Accords list={f.accords} max={4} />}
         </div>
       </div>
@@ -736,9 +736,9 @@ function ResultCard({ f, label, onAdd }: { f: Fragrance; label?: string; onAdd: 
               </p>
             ) : null,
           )}
-          {f.usage.seasons.length > 0 && (
+          {seasonsOf(f).length > 0 && (
             <p>
-              <strong>{t('profile.seasons')}:</strong> {f.usage.seasons.map((s) => tk(`season.${s}`)).join(', ')}
+              <strong>{t('profile.seasons')}:</strong> {seasonsOf(f).map((s) => tk(`season.${s}`)).join(', ')}
             </p>
           )}
         </div>

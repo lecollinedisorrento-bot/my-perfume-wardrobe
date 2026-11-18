@@ -73,8 +73,11 @@ export function resolveFamily(raw: string | null | undefined): FamilyTrait | nul
   if (direct) return direct;
   const alias = FAMILY_ALIASES[k];
   if (alias) return FAMILIES.find((f) => f.id === alias) ?? null;
-  // first family word that appears in the string
-  const hit = FAMILIES.find((f) => k.includes(f.id.toLowerCase().replace('è', 'e')));
+  // "Oriental …" names the main family first: treat it as Amber.
+  if (k.startsWith('orient')) return FAMILIES.find((f) => f.id === 'Amber')!;
+  // first family word that appears in the string (accents ignored)
+  const plain = k.replace(/è/g, 'e');
+  const hit = FAMILIES.find((f) => plain.includes(f.id.toLowerCase().replace('è', 'e')));
   if (hit) return hit;
   if (k.includes('orient')) return FAMILIES.find((f) => f.id === 'Amber')!;
   return null;
@@ -200,3 +203,70 @@ export function hashIndex(s: string, mod: number): number {
 }
 
 export const POP_COLORS = ['blue', 'pink', 'lime', 'tangerine', 'lilac'] as const;
+
+// ───────────── Estimates when a perfume has no family or seasons ─────────────
+// Rough, note-based guesses so stats, filters and the wheel never show a wall of
+// "Unknown". The stored record is never changed; the UI calls these estimates.
+
+type NoteBag = { family: string; accords: string[]; notes: { top: string[]; heart: string[]; base: string[]; flat: string[] } };
+
+const NOTE_FAMILY: [RegExp, string, number][] = [
+  [/\b(oud|agarwood|aoud)\b/, 'Oud', 3],
+  [/\b(leather|suede|cuir|birch tar)\b/, 'Leather', 2.2],
+  [/\b(incense|frankincense|olibanum|myrrh|smok|guaiac)\w*/, 'Smoky', 1.6],
+  [/\b(vanill|caramel|praline|chocolate|cocoa|cacao|coffee|honey|tonka|sugar|almond|toffee|marshmallow|milk|cream|butter|cake|cookie|biscuit|candy|pistachio|rum|cognac)\w*/, 'Gourmand', 1.4],
+  [/\b(amber|ambergris|labdanum|benzoin|resin|balsam|tolu|opoponax|styrax|cistus)\w*/, 'Amber', 1.3],
+  [/\b(cinnamon|clove|cardamom|nutmeg|pepper|saffron|ginger|cumin|pimento|elemi|spice)\w*/, 'Spicy', 1],
+  [/\b(lavender|lavandin|geranium|coumarin|fougere|fougère)\b/, 'Fougère', 1.1],
+  [/\b(rosemary|sage|basil|thyme|mint|peppermint|artemisia|clary|herb|aromatic)\w*/, 'Aromatic', 0.9],
+  [/\b(sea|marine|aquatic|salt|ozon|water|calone|seaweed|mineral)\w*/, 'Aquatic', 1.3],
+  [/\b(grass|leaf|leaves|green|galbanum|fig|tea|matcha|vetiver|bamboo|cucumber|violet leaf)\w*/, 'Green', 0.8],
+  [/\b(bergamot|lemon|lime|orange|mandarin|grapefruit|citron|yuzu|neroli|petitgrain|tangerine|citrus|bitter orange)\w*/, 'Citrus', 0.9],
+  [/\b(oakmoss|moss|chypre)\w*/, 'Chypre', 1.2],
+  [/\b(iris|orris|powder|heliotrope|violet|mimosa|aldehyde)\w*/, 'Powdery', 1],
+  [/\b(rose|jasmine|tuberose|peony|lily|magnolia|gardenia|ylang|orange blossom|freesia|orchid|osmanthus|frangipani|lilac|floral|flower|blossom|carnation|narcissus)\w*/, 'Floral', 0.9],
+  [/\b(musk|musks|cashmeran|ambrette|clean)\w*/, 'Musk', 0.6],
+  [/\b(cedar|sandalwood|wood|woods|patchouli|cypress|pine|fir|cashmere wood|cypriol|teak|ebony)\w*/, 'Woody', 0.9],
+];
+
+/** Best guess of a family from notes and accords; null when there is nothing to go on. */
+export function estimateFamily(f: NoteBag): string | null {
+  const score = new Map<string, number>();
+  const add = (list: string[], w: number) => {
+    for (const raw of list) {
+      const n = raw.toLowerCase();
+      for (const [re, fam, k] of NOTE_FAMILY) if (re.test(n)) score.set(fam, (score.get(fam) ?? 0) + k * w);
+    }
+  };
+  add(f.accords, 1.6);
+  add(f.notes.base, 1.3);
+  add(f.notes.heart, 1);
+  add(f.notes.top, 0.8);
+  add(f.notes.flat, 1);
+  let best: string | null = null;
+  let top = 0;
+  for (const [fam, s] of score) if (s > top) [best, top] = [fam, s];
+  return best;
+}
+
+/** The family to show and filter by: the stated one, else the note-based estimate. */
+export function familyIdOf(f: NoteBag): string | null {
+  return resolveFamily(f.family)?.id ?? (f.family?.trim() ? f.family.trim() : estimateFamily(f));
+}
+
+type Season = 'spring' | 'summer' | 'autumn' | 'winter';
+/** Stated seasons, else seasons suggested by how fresh or heavy the scent is. */
+export function seasonsOf(f: NoteBag & { usage: { seasons: Season[] } }): Season[] {
+  if (f.usage.seasons.length) return f.usage.seasons;
+  const fam = familyIdOf(f);
+  if (!fam) return [];
+  // The family sets the tone; the main accords and base notes nudge it.
+  const base = resolveFamily(fam);
+  const t = traitsFor(fam, [...f.accords, ...f.notes.base, ...f.notes.flat].slice(0, 6));
+  const mixed = t.freshness - t.weight * 0.6;
+  const fresh = base ? 0.7 * (base.freshness - base.weight * 0.6) + 0.3 * mixed : mixed;
+  if (fresh > 0.45) return ['spring', 'summer'];
+  if (fresh > 0.15) return ['spring', 'summer', 'autumn'];
+  if (fresh > -0.15) return ['spring', 'autumn'];
+  return ['autumn', 'winter'];
+}

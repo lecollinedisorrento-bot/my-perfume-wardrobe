@@ -1,4 +1,4 @@
-import { resolveFamily } from './families';
+import { familyIdOf, seasonsOf } from './families';
 import type { Fragrance, Season, WearLog } from './types';
 import { SEASONS } from './types';
 import { wearCounts } from './recommend';
@@ -21,11 +21,11 @@ export function collectionStats(fragrances: Fragrance[], wears: WearLog[], now =
   const counts = wearCounts(wears);
   const famMap = new Map<string, number>();
   for (const f of fragrances) {
-    const fam = resolveFamily(f.family)?.id ?? (f.family || 'Unknown');
+    const fam = familyIdOf(f) ?? 'Unknown';
     famMap.set(fam, (famMap.get(fam) ?? 0) + 1);
   }
   const seasons = Object.fromEntries(SEASONS.map((s) => [s, 0])) as Record<Season, number>;
-  for (const f of fragrances) for (const s of f.usage.seasons) seasons[s]++;
+  for (const f of fragrances) for (const s of seasonsOf(f)) seasons[s]++;
   const rated = fragrances.filter((f) => f.rating != null);
   const monthPrefix = now.toISOString().slice(0, 7);
   return {

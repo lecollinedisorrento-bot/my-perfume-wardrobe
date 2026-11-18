@@ -39,7 +39,7 @@ const QUESTIONS: MessageKey[] = [
 
 export default function Discover() {
   const { fragrances, wears, prefs, weather, learning, wearToday } = useStore();
-  const { t, tk, lang } = useI18n();
+  const { t, tk, fam, lang } = useI18n();
   const { toast } = useUi();
   const ai = useAiState();
   const consent = useAiConsent();
@@ -270,7 +270,7 @@ export default function Discover() {
           </div>
           <div className="field">
             <span className="label">{t('discover.family')}</span>
-            <ChipToggle multi={false} options={FAMILIES.map((f) => f.id)} value={family} onChange={setFamily} render={(o) => o} size="sm" />
+            <ChipToggle multi={false} options={FAMILIES.map((f) => f.id)} value={family} onChange={setFamily} render={(o) => fam(o)} size="sm" />
           </div>
           <label className="field">
             <span className="label">{t('discover.impression')}</span>

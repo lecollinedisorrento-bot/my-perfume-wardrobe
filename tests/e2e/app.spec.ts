@@ -54,7 +54,7 @@ test('first-time onboarding: language, preferences, city weather, sample import'
   await page.keyboard.press('Escape');
   await page.getByTestId('onb-next').click();
   await page.getByTestId('onb-sample').click();
-  await expect(page.locator('.pcard')).toHaveCount(16);
+  await expect(page.locator('.pcard')).toHaveCount(19);
   await page.getByRole('link', { name: 'Home' }).click();
   await expect(page.getByRole('heading', { level: 1 })).toContainText('Ada');
   await expect(page.getByTestId('weather-pill')).toContainText('Sorrento');
@@ -152,7 +152,7 @@ test('wheel: stops on the real, recorded result and adds it to today’s rotatio
   test.setTimeout(120_000);
   await onboard(page);
   await page.getByRole('link', { name: 'Spin' }).click();
-  await expect(page.getByTestId('eligible-count')).toHaveText('16 in the draw');
+  await expect(page.getByTestId('eligible-count')).toHaveText('19 in the draw');
   for (let i = 0; i < 3; i++) {
     await page.getByTestId('spin-button').click();
     await expect(page.getByTestId('spin-result')).toBeVisible({ timeout: 12_000 });
@@ -247,9 +247,9 @@ test('export, full reset and import restore the collection', async ({ page }) =>
   await page.goto('/settings');
   await page.getByTestId('import-file').setInputFiles(file!);
   await page.getByTestId('restore-replace').click();
-  await expect(page.getByText('Restored 16 perfumes.')).toBeVisible();
+  await expect(page.getByText('Restored 19 perfumes.')).toBeVisible();
   await page.goto('/wardrobe');
-  await expect(page.locator('.pcard')).toHaveCount(16);
+  await expect(page.locator('.pcard')).toHaveCount(19);
 });
 
 test('bottom navigation reaches all five destinations', async ({ page }) => {
@@ -284,7 +284,7 @@ test('PWA: manifest, service worker and offline collection', async ({ page, cont
   await page.reload(); // let the SW control the page
   await context.setOffline(true);
   await page.goto('/wardrobe');
-  await expect(page.locator('.pcard')).toHaveCount(16);
+  await expect(page.locator('.pcard')).toHaveCount(19);
   await expect(page.getByText(/You are offline/)).toBeVisible();
   await page.goto('/spin');
   await page.getByTestId('spin-button').click();

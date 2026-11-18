@@ -2,7 +2,7 @@
 // crypto-backed random draw among eligible perfumes BEFORE any animation runs;
 // the animation is then computed to stop exactly on that result.
 
-import { resolveFamily } from './families';
+import { familyIdOf } from './families';
 import type { Fragrance, Season, WearLog, WeatherSnapshot, Preferences } from './types';
 import { daysBetween, localDay, randomFloat, randomInt } from './util';
 import { lastWornMap, weatherFit } from './recommend';
@@ -41,7 +41,7 @@ export function eligibleFragrances(
     if (filters.occasion && f.usage.occasions.length && !(f.usage.occasions as string[]).includes(filters.occasion))
       return false;
     if (filters.families.length) {
-      const fam = resolveFamily(f.family)?.id ?? f.family;
+      const fam = familyIdOf(f) ?? '';
       if (!filters.families.includes(fam)) return false;
     }
     if (filters.excludeRecentDays > 0) {

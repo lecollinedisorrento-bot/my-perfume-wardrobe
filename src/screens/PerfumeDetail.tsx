@@ -7,7 +7,7 @@ import { useRelativeDay } from '../state/hooks';
 import { BottleImage } from '../components/BottleImage';
 import { Accords, AiLoader, EngineTag, FavButton, Meter, Sheet, Stars, VerificationTag } from '../components/ui';
 import { IconBack, IconFlask, IconPencil, IconRefresh, IconTrash, Burst } from '../components/Icons';
-import { accordColor, familyColor, resolveFamily } from '../domain/families';
+import { accordColor, familyColor, familyIdOf, resolveFamily, seasonsOf } from '../domain/families';
 import { OCCASIONS, SEASONS, TIMES, type Fragrance } from '../domain/types';
 import { localDay } from '../domain/util';
 import { api, aiErrorMessage } from '../services/api';
@@ -23,7 +23,7 @@ import { applyCatalog, catalogHasNews, findCatalogMatch, loadCatalog, type Catal
 export function PerfumeDetail() {
   const { id } = useParams();
   const { fragrances, wears, saveFragrance, deleteFragrance, toggleFavorite, setRating, wearToday, removeWear, prefs } = useStore();
-  const { t, tk, lang, locale } = useI18n();
+  const { t, tk, fam, lang, locale } = useI18n();
   const { toast, confetti } = useUi();
   const nav = useNavigate();
   const ai = useAiState();
@@ -72,7 +72,7 @@ export function PerfumeDetail() {
     );
   }
 
-  const color = familyColor(f.family);
+  const color = familyColor(familyIdOf(f) ?? f.family);
   const surface = color === 'ink' ? 'ink' : color;
   const wornToday = history.some((w) => w.day === localDay() && w.fragranceId === f.id);
   const status = f.research?.status ?? (hasProfile(f) ? 'user_entered' : 'unverified');
@@ -244,7 +244,7 @@ export function PerfumeDetail() {
           </div>
           <div>
             <dt>{t('form.family')}</dt>
-            <dd>{f.family ? resolveFamily(f.family)?.id ?? f.family : '—'}</dd>
+            <dd>{familyIdOf(f) ? fam(familyIdOf(f)!) : '—'}{familyIdOf(f) && !resolveFamily(f.family) && !f.family?.trim() ? <span className="tiny dim"> · {t('fam.estimated')}</span> : null}</dd>
           </div>
           <div>
             <dt>{t('form.year')}</dt>
@@ -355,7 +355,7 @@ export function PerfumeDetail() {
             <span className="label">{t('profile.seasons')}</span>
             <div className="chips">
               {SEASONS.map((s) => (
-                <span key={s} className={`chip chip-sm ${f.usage.seasons.includes(s) ? 'on' : 'muted'}`}>
+                <span key={s} className={`chip chip-sm ${seasonsOf(f).includes(s) ? 'on' : 'muted'}`}>
                   {tk(`season.${s}`)}
                 </span>
               ))}

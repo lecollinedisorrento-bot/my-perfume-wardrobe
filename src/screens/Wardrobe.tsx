@@ -6,7 +6,7 @@ import { useI18n } from '../i18n';
 import { PerfumeCard, PerfumeRow } from '../components/PerfumeCard';
 import { IconChart, IconGrid, IconList, IconPlus, IconSearch } from '../components/Icons';
 import { ChipToggle, Sheet } from '../components/ui';
-import { resolveFamily } from '../domain/families';
+import { familyIdOf, seasonsOf } from '../domain/families';
 import { SEASONS, type Season } from '../domain/types';
 import { normalizeKey } from '../domain/util';
 import { useRelativeDay, useWearInfo } from '../state/hooks';
@@ -38,7 +38,7 @@ export function Wardrobe() {
   const [filtersOpen, setFiltersOpen] = useState(false);
 
   const allFamilies = useMemo(
-    () => [...new Set(fragrances.map((f) => resolveFamily(f.family)?.id ?? f.family).filter(Boolean))].sort(),
+    () => [...new Set(fragrances.map((f) => familyIdOf(f) ?? '').filter(Boolean))].sort(),
     [fragrances],
   );
 
@@ -47,8 +47,8 @@ export function Wardrobe() {
     const out = fragrances.filter((f) => {
       if (nq && !normalizeKey(`${f.brand} ${f.name} ${f.accords.join(' ')}`).includes(nq)) return false;
       if (favOnly && !f.favorite) return false;
-      if (families.length && !families.includes(resolveFamily(f.family)?.id ?? f.family)) return false;
-      if (seasons.length && !seasons.some((s) => f.usage.seasons.includes(s))) return false;
+      if (families.length && !families.includes(familyIdOf(f) ?? '')) return false;
+      if (seasons.length && !seasons.some((s) => seasonsOf(f).includes(s))) return false;
       return true;
     });
     const by: Record<SortKey, (a: (typeof out)[0], b: (typeof out)[0]) => number> = {

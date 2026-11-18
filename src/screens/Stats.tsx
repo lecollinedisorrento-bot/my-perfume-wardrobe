@@ -10,7 +10,7 @@ import { FAMILIES } from '../domain/families';
 
 export default function Stats() {
   const { fragrances, wears } = useStore();
-  const { t, tk } = useI18n();
+  const { t, tk, fam } = useI18n();
   const nav = useNavigate();
   const s = useMemo(() => collectionStats(fragrances, wears), [fragrances, wears]);
   const maxFam = Math.max(1, ...s.families.map((f) => f.count));
@@ -79,7 +79,7 @@ export default function Stats() {
             const color = FAMILIES.find((x) => x.id === f.family)?.color ?? 'lilac';
             return (
               <li key={f.family}>
-                <span className="bar-label">{f.family === 'Unknown' ? t('common.unknown') : f.family}</span>
+                <span className="bar-label">{f.family === 'Unknown' ? t('common.unknown') : fam(f.family)}</span>
                 <span className="bar" style={{ ['--w' as string]: `${(f.count / maxFam) * 100}%`, ['--i' as string]: i, ['--c' as string]: `var(--${color === 'ink' ? 'lilac' : color})` }} />
                 <span className="bar-val">{f.count}</span>
               </li>

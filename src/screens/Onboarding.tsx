@@ -13,7 +13,7 @@ const TOTAL = 5;
 
 export function Onboarding() {
   const { prefs, updatePrefs, refreshWeather, weatherStatus, weather, importSample } = useStore();
-  const { t } = useI18n();
+  const { t, fam } = useI18n();
   const { confetti } = useUi();
   const nav = useNavigate();
   const [step, setStep] = useState(1);
@@ -94,7 +94,7 @@ export function Onboarding() {
           <section className="stack">
             <h1 className="display onb-h">{t('onb.prefs')}</h1>
             <p className="onb-sub">{t('onb.prefsSub')}</p>
-            <ChipToggle options={FAMILIES.map((f) => f.id)} value={prefs.favoriteFamilies} onChange={(v) => void updatePrefs({ favoriteFamilies: v })} render={(f) => f} />
+            <ChipToggle options={FAMILIES.map((f) => f.id)} value={prefs.favoriteFamilies} onChange={(v) => void updatePrefs({ favoriteFamilies: v })} render={(f) => fam(f)} />
             <Nav onBack={() => setStep(2)} onNext={() => setStep(4)} skip />
           </section>
         )}

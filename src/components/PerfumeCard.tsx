@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import type { Fragrance } from '../domain/types';
 import { BottleImage } from './BottleImage';
 import { Accord, FavButton } from './ui';
-import { familyColor, resolveFamily } from '../domain/families';
+import { familyColor, familyIdOf } from '../domain/families';
 import { useStore } from '../state/store';
 import { useI18n } from '../i18n';
 import { hasProfile } from '../domain/fragrance';
@@ -19,8 +19,8 @@ export function PerfumeCard({
   i?: number;
 }) {
   const { toggleFavorite } = useStore();
-  const { t } = useI18n();
-  const color = familyColor(f.family);
+  const { t, fam } = useI18n();
+  const color = familyColor(familyIdOf(f) ?? f.family);
   return (
     <Link
       to={`/perfume/${f.id}`}
@@ -44,7 +44,7 @@ export function PerfumeCard({
         </span>
         {!mini && (
           <>
-            {f.family && <span className="pcard-family">{resolveFamily(f.family)?.id ?? f.family}</span>}
+            {familyIdOf(f) && <span className="pcard-family">{fam(familyIdOf(f)!)}</span>}
             <div className="pcard-accords">
               {f.accords.slice(0, 2).map((a) => (
                 <Accord key={a} name={a} />
@@ -60,7 +60,8 @@ export function PerfumeCard({
 
 export function PerfumeRow({ f, i = 0, meta }: { f: Fragrance; i?: number; meta?: string }) {
   const { toggleFavorite } = useStore();
-  const color = familyColor(f.family);
+  const { fam } = useI18n();
+  const color = familyColor(familyIdOf(f) ?? f.family);
   return (
     <Link to={`/perfume/${f.id}`} className="prow" style={{ ['--i' as string]: i }}>
       <div className={`prow-thumb c-${color === 'ink' ? 'lilac' : color}`}>
@@ -72,7 +73,7 @@ export function PerfumeRow({ f, i = 0, meta }: { f: Fragrance; i?: number; meta?
           {f.name}
         </div>
         <div className="tiny dim" style={{ marginTop: 2 }}>
-          {[resolveFamily(f.family)?.id ?? f.family, f.accords.slice(0, 3).join(' · '), meta].filter(Boolean).join(' — ')}
+          {[familyIdOf(f) ? fam(familyIdOf(f)!) : '', f.accords.slice(0, 3).join(' · '), meta].filter(Boolean).join(' — ')}
         </div>
       </div>
       <FavButton on={f.favorite} onToggle={() => void toggleFavorite(f.id)} />
