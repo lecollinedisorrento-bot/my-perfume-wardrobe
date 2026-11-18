@@ -1679,3 +1679,22 @@
     background-position: 48px 48px;
   }
 }
+
+/* Stats: who is in each family, tappable seasons */
+.bars-fam li { row-gap: 2px; }
+.bar-members {
+  grid-column: 1 / -1;
+  line-height: 1.45;
+}
+.bar-members a { color: inherit; text-decoration: none; }
+.bar-members a:hover { text-decoration: underline; }
+button.season-col {
+  background: none;
+  border: 0;
+  padding: 0;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+button.season-col.on .season-bar { outline: 3px solid var(--ink); outline-offset: 2px; }
+.insight p + p { margin-top: 6px; }

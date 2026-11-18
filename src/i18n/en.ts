@@ -533,6 +533,16 @@ export const en = {
   'stats.recent': 'Recently added',
   'stats.researched': 'Researched profiles',
   'stats.thisMonth': 'Different scents this month',
+  'stats.character': 'Your collection’s character',
+  'stats.moodWarm': 'Mostly warm: {n} of {total} perfumes are for autumn and winter, only {fresh} handle the heat.',
+  'stats.moodFresh': 'Mostly fresh: {n} of {total} perfumes are for spring and summer, {warm} are for the cold.',
+  'stats.moodBalanced': 'Balanced: {warm} perfumes for the cold and {fresh} for the heat.',
+  'stats.moodEmpty': 'Add a few perfumes to see your collection’s character.',
+  'stats.forHeat': 'For the heat:',
+  'stats.missing': 'Still missing:',
+  'stats.estimatedNote': 'For {n} perfumes with no stated family, the family is estimated from the notes.',
+  'stats.tapSeason': 'Tap a season to see which perfumes fit it.',
+  'stats.noneSeason': 'No perfume for this season.',
   'stats.noWears': 'Log a few wears to see your top rotation.',
 
   // achievements
