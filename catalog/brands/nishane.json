@@ -2413,6 +2413,109 @@
         "times": []
       },
       "performanceEvidence": "Basenotes reviews: projection loud at first then good for the first few hours, stays as a skin scent most of the day; performance described as decent and suited to spring and summer (no hours given)."
+    },
+    {
+      "name": "Hundred Silent Ways Amarena",
+      "collection": "Italy Exclusive",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": 2026,
+      "perfumer": "Nathalie Lorson",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "tuberose",
+          "peach",
+          "mandarin orange",
+          "amaretto",
+          "black cherry"
+        ],
+        "heart": [
+          "gardenia",
+          "jasmine",
+          "iris",
+          "marzipan"
+        ],
+        "base": [
+          "madagascar vanilla",
+          "sandalwood",
+          "vetiver",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.rivieraprofumi.com/prodotto/hundred-silent-ways-amarena/",
+          "name": "Riviera Profumi — Nishane Hundred Silent Ways Amarena",
+          "type": "retailer",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.chaosfragrances.com/products/nishane-hundred-silent-ways-amarena",
+          "name": "Chaos Fragrances — Nishane Hundred Silent Ways Amarena",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration",
+            "year",
+            "perfumer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hacivat Arlecchino",
+      "collection": "Italy Exclusive",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": "Julien Rasquinet",
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pineapple",
+          "limoncello"
+        ],
+        "heart": [
+          "jasmine",
+          "patchouli",
+          "cedarwood",
+          "honey"
+        ],
+        "base": [
+          "vanilla",
+          "oakmoss",
+          "dry wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.armonicaprofumeria.it/nishane/profumi/hacivat-arlecchino-ml-50_1748",
+          "name": "Armonica Profumeria — Nishane Hacivat Arlecchino",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://arianoboutique.com/gb/perfume/26542-147319-hacivat-arlecchino-50ml.html",
+          "name": "Ariano Boutique — Nishane Hacivat Arlecchino 50 ml",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "perfumer"
+          ]
+        }
+      ]
     }
   ]
 }
