@@ -1,7 +1,7 @@
 // Local, deterministic recommendation engine. It runs fully offline and is
 // always labelled "Local match" in the UI — it is NOT AI.
 
-import { traitsFor, resolveFamily } from './families';
+import { traitsFor, familyIdOf, seasonsOf } from './families';
 import type {
   Fragrance,
   Mood,
@@ -62,7 +62,7 @@ export function computeLearning(
   const since = prefs.learningResetAt ?? '1970-01-01';
   const byId = new Map(fragrances.map((f) => [f.id, f]));
   const bump = (f: Fragrance, amount: number) => {
-    const fam = resolveFamily(f.family)?.id ?? f.family;
+    const fam = familyIdOf(f);
     if (fam) out.familyAffinity[fam] = (out.familyAffinity[fam] ?? 0) + amount;
     f.accords.slice(0, 4).forEach((a) => {
       const k = a.toLowerCase();
@@ -95,6 +95,29 @@ export interface ScoreInput {
   learning?: Learning;
   now?: Date;
   latitude?: number | null;
+  /**
+   * Day-to-day variety for the "today" pick: a small, stable-for-the-day nudge
+   * per perfume, and a penalty for what was already suggested in recent days.
+   * Leave out for deterministic rankings (tests, filters).
+   */
+  variety?: { seed: string; recentPicks: string[] };
+  /** Family of each perfume by id, to avoid repeating yesterday's family. */
+  wearFamilies?: Map<string, string | null>;
+}
+
+/** Traits from the stated family, else the note-based estimate, with notes as extra hints. */
+function traitsOf(f: Fragrance) {
+  return traitsFor(familyIdOf(f), [...f.accords, ...f.notes.base, ...f.notes.flat, ...f.notes.heart].slice(0, 8));
+}
+
+/** Stable pseudo-random number in [0, 1) for a string. */
+function hash01(s: string): number {
+  let h = 2166136261;
+  for (let i = 0; i < s.length; i++) {
+    h ^= s.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return ((h >>> 0) % 10000) / 10000;
 }
 
 export function lastWornMap(wears: WearLog[]): Map<string, string> {
@@ -129,7 +152,7 @@ export function weatherFit(f: Fragrance, wp: WeatherProfile): { fit: number; kno
     const d = t < f.usage.tempMinC ? f.usage.tempMinC - t : t - f.usage.tempMaxC;
     return { fit: Math.max(0, 1 - d / 10), known: true };
   }
-  const tr = traitsFor(f.family, f.accords);
+  const tr = traitsOf(f);
   if (!tr.known) return { fit: 0.5, known: false };
   const freshFit = 1 - Math.abs(tr.freshness - wp.idealFreshness);
   const weightFit = tr.weight <= wp.idealWeight ? 1 : Math.max(0, 1 - (tr.weight - wp.idealWeight) * 2.2);
@@ -143,7 +166,7 @@ export function scoreFragrance(f: Fragrance, input: ScoreInput): Scored {
   const now = input.now ?? new Date();
   const reasons: Reason[] = [];
   let score = 0;
-  const tr = traitsFor(f.family, f.accords);
+  const tr = traitsOf(f);
   const accLower = f.accords.map((a) => a.toLowerCase());
   const notesLower = allNotes(f).map((n) => n.toLowerCase());
 
@@ -159,15 +182,20 @@ export function scoreFragrance(f: Fragrance, input: ScoreInput): Scored {
       reasons.push({ key: 'why.rain' });
     }
     if (known && wp.humid && fit >= 0.7 && tr.weight < 0.5) reasons.push({ key: 'why.humid' });
+    // A loud scent in the heat is too much, whatever its family.
+    if ((wp.band === 'hot' || wp.band === 'warm') && (f.performance.sillage ?? 0) >= 4) score -= 0.4;
   }
 
   // Season
   const season = seasonFor(now, input.latitude);
-  if (f.usage.seasons.length) {
-    if (f.usage.seasons.includes(season)) {
-      score += 0.8;
+  const seasons = seasonsOf(f);
+  if (seasons.length) {
+    // Stated seasons count fully; seasons estimated from the notes a bit less.
+    const k = f.usage.seasons.length ? 1 : 0.6;
+    if (seasons.includes(season)) {
+      score += 0.8 * k;
       reasons.push({ key: 'why.season', params: { season } });
-    } else score -= 0.4;
+    } else score -= 0.4 * k;
   }
 
   // Time of day
@@ -177,6 +205,21 @@ export function scoreFragrance(f: Fragrance, input: ScoreInput): Scored {
       score += 0.6;
       reasons.push({ key: 'why.time', params: { time: tod } });
     } else score -= 0.3;
+  } else if (tr.known) {
+    // No stated times: fresh scents suit the day, deep ones the evening.
+    const day = tod === 'morning' || tod === 'afternoon';
+    score += day ? (tr.freshness - 0.5) * 0.8 : (tr.weight - 0.5) * 0.8;
+  }
+
+  // Day of the week: lighter and office-safe on weekday mornings, bolder at the weekend.
+  const dow = now.getDay();
+  const weekend = dow === 0 || dow === 6;
+  if (tr.known) {
+    if (weekend && tr.weight > 0.6) {
+      score += 0.25;
+      reasons.push({ key: 'why.weekend' });
+    } else if (!weekend && tod === 'morning' && (f.performance.sillage ?? Math.round(1 + tr.weight * 4)) >= 4) score -= 0.35;
+    else if (!weekend && (tod === 'morning' || tod === 'afternoon') && tr.weight < 0.5) reasons.push({ key: 'why.office' });
   }
 
   // Occasion
@@ -190,7 +233,7 @@ export function scoreFragrance(f: Fragrance, input: ScoreInput): Scored {
   // Mood
   if (ctx.mood) {
     const spec = MOOD_SPECS[ctx.mood];
-    const famId = resolveFamily(f.family)?.id;
+    const famId = familyIdOf(f);
     const accordHits = spec.accords.filter((a) => accLower.some((x) => x.includes(a))).length;
     let m = accordHits * 0.6 + (famId && spec.families.includes(famId) ? 0.9 : 0);
     if (spec.weight && tr.known) m += (rangeFit(tr.weight, spec.weight) - 0.5) * 1.2;
@@ -214,7 +257,7 @@ export function scoreFragrance(f: Fragrance, input: ScoreInput): Scored {
   }
 
   // Family filter / preference
-  const famId = resolveFamily(f.family)?.id ?? f.family;
+  const famId = familyIdOf(f) ?? f.family;
   if (ctx.family) {
     if (famId === ctx.family || f.family.toLowerCase().includes(ctx.family.toLowerCase())) {
       score += 1.5;
@@ -255,6 +298,20 @@ export function scoreFragrance(f: Fragrance, input: ScoreInput): Scored {
     score += la * 0.4 + lc * 0.3;
   }
 
+  // Variety: avoid the same family as the last thing you wore.
+  const lastWear = [...input.wears].sort((a, b) => b.at.localeCompare(a.at))[0];
+  if (lastWear && lastWear.fragranceId !== f.id && lastWear.day !== localDay(now)) {
+    const prevFam = input.wearFamilies?.get(lastWear.fragranceId);
+    if (prevFam && prevFam === familyIdOf(f)) score -= 0.35;
+  }
+
+  // Day-to-day variety for the "today" card.
+  if (input.variety) {
+    score += (hash01(`${input.variety.seed}|${f.id}`) - 0.5) * 1.2;
+    const times = input.variety.recentPicks.filter((id) => id === f.id).length;
+    score -= times * 0.7;
+  }
+
   // Recency: gently push perfumes not worn lately
   const last = lastWornMap(input.wears).get(f.id);
   if (last) {
@@ -276,6 +333,7 @@ function dedupeReasons(r: Reason[]) {
 }
 
 export function rankFragrances(fragrances: Fragrance[], input: ScoreInput): Scored[] {
+  if (!input.wearFamilies) input = { ...input, wearFamilies: new Map(fragrances.map((f) => [f.id, familyIdOf(f)])) };
   return fragrances
     .map((f) => scoreFragrance(f, input))
     .sort((a, b) => b.score - a.score || a.fragrance.name.localeCompare(b.fragrance.name));

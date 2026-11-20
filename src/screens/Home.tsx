@@ -1,9 +1,9 @@
 import { Art } from '../components/Art';
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useStore, useAiState } from '../state/store';
 import { useI18n } from '../i18n';
-import { useRanking, useRelativeDay } from '../state/hooks';
+import { rememberTodayPick, useRanking, useRelativeDay } from '../state/hooks';
 import { BottleImage } from '../components/BottleImage';
 import { PerfumeCard } from '../components/PerfumeCard';
 import { WeatherPill, WeatherSheet } from '../components/Weather';
@@ -32,7 +32,7 @@ export function Home() {
   const [aiBusy, setAiBusy] = useState(false);
 
   const ctx = useMemo(() => ({}), []);
-  const ranked = useRanking(ctx);
+  const ranked = useRanking(ctx, { daily: true });
   const today = localDay();
   const wornToday = wears.filter((w) => w.day === today);
   // After "Wear it today" the card keeps showing that perfume (now "Worn today");
@@ -40,6 +40,11 @@ export function Home() {
   const [kept, setKept] = useState<(typeof ranked)[number] | null>(null);
   const local = kept ?? (ranked.length ? ranked[offset % ranked.length] : null);
   const pick: Fragrance | null = aiPick ? fragrances.find((f) => f.id === aiPick.id) ?? null : local?.fragrance ?? null;
+  // Remember the first suggestion of the day so tomorrow's card rotates.
+  const firstId = ranked[0]?.fragrance.id;
+  useEffect(() => {
+    if (firstId) rememberTodayPick(firstId);
+  }, [firstId]);
   const tod = timeOfDay();
   const name = prefs.name.trim() || t('home.hi.anon');
   const now = new Date();

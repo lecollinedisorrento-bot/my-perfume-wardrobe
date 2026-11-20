@@ -383,6 +383,8 @@ export const it: Record<MessageKey, string> = {
   'why.prefFamily': 'Ami il {family}',
   'why.prefAccord': 'Ha il tuo accordo {accord}',
   'why.disliked': 'Attenzione: contiene {note}',
+  'why.weekend': 'È weekend: puoi osare di più',
+  'why.office': 'Leggero, perfetto per lavoro o università',
   'why.neglected': 'Non esce da {days} giorni',
 
   'spin.title': 'Spin',

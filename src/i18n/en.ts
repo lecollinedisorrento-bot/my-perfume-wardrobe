@@ -394,6 +394,8 @@ export const en = {
   'why.prefFamily': 'You love {family}',
   'why.prefAccord': 'Has your {accord} accord',
   'why.disliked': 'Heads up: contains {note}',
+  'why.weekend': 'It’s the weekend: you can go bolder',
+  'why.office': 'Light enough for work or class',
   'why.neglected': 'Hasn’t been out in {days} days',
 
   // spin
