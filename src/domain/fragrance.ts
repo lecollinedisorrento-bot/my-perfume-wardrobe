@@ -116,4 +116,6 @@ export const SAMPLE_COLLECTION: { brand: string; name: string }[] = [
   { brand: 'Teatro Fragranze Uniche', name: 'Borgo degli Agrumi' },
   { brand: 'Teatro Fragranze Uniche', name: 'Verde Lorena' },
   { brand: 'Nishane', name: 'Hacivat Arlecchino' },
+  { brand: 'Nabeel', name: 'Bahi Roll-On' },
+  { brand: 'Nabeel', name: 'Bois Roll-On' },
 ];

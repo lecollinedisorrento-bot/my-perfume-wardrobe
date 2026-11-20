@@ -11,7 +11,7 @@
   ],
   "country": "United Arab Emirates",
   "retrievedAt": "2026-11-14",
-  "researchNotes": "Official site nabeelperfumes.com returned 503 (not opened), so every note list is 'reported' from the retailer Arabic Parfums (2-page Nabeel collection, ~45 items; incense sticks, roll-on oils and non-listed products skipped; later items such as Crown of Emirates, Bankam, Al Bashiq Shama, Asateer, Maghateer series, Roeya, Ocean variants not opened). Concentration recorded only where page text says Eau de Parfum (image filenames ignored). Irth pyramid is an unusually long retailer list that looks aggregated; treat with caution. Irth Boom exists per a Parfumo search result only (Parfumo returns 403), so no data. Brand origin: Nabeel founded 1969 in Aden, relocated to UAE and relaunched 1990, per a Khaleej Times/search snippet; country UAE is based on that. BJ Distribuzione page returned empty. Marketing text not copied. Editorial review: Anar notes removed because its source page appears to mix in another product (BLU ZAFFIRO). Notes pass 2026-11-16: official site still 503 on WebFetch; no new data. Performance filled from search snippets (basis search/retailer) where stated.",
+  "researchNotes": "Official site nabeelperfumes.com returned 503 (not opened), so every note list is 'reported' from the retailer Arabic Parfums (2-page Nabeel collection, ~45 items; incense sticks, roll-on oils and non-listed products skipped; later items such as Crown of Emirates, Bankam, Al Bashiq Shama, Asateer, Maghateer series, Roeya, Ocean variants not opened). Concentration recorded only where page text says Eau de Parfum (image filenames ignored). Irth pyramid is an unusually long retailer list that looks aggregated; treat with caution. Irth Boom exists per a Parfumo search result only (Parfumo returns 403), so no data. Brand origin: Nabeel founded 1969 in Aden, relocated to UAE and relaunched 1990, per a Khaleej Times/search snippet; country UAE is based on that. BJ Distribuzione page returned empty. Marketing text not copied. Editorial review: Anar notes removed because its source page appears to mix in another product (BLU ZAFFIRO). Notes pass 2026-11-16: official site still 503 on WebFetch; no new data. Performance filled from search snippets (basis search/retailer) where stated. Roll-on pass 2026-11-20: added 38 6 ml roll-on concentrated oils as separate '<name> Roll-On' entries; notes 'reported' from BJ Distribuzione's nabeel.eu roll-on category (3 pages, 36 items; the generic 'Nabeel Roll On' assortment and any items on a possible page 4 not added) plus the nabeelperfumes.online store (Bahi/Bois family, Sandalia, Tawasul, Ward); nabeelperfumes.com still not loadable. Roll-on notes were taken from each roll-on page, not reused from sprays; Acqua di Nabeel Absolute and Irth roll-on lists are long aggregated lists, treat with caution. Maghateer Kilsa page type line says Spray Perfume although listed as roll-on. Nasaem heart note 'Muggo' omitted as unclear.",
   "fragrances": [
     {
       "name": "Irth",
@@ -2007,6 +2007,1716 @@
           "supports": [
             "notes",
             "family"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bahi Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Amber Vanilla",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "cardamom",
+          "orange blossom",
+          "caramel"
+        ],
+        "heart": [
+          "vanilla",
+          "amber",
+          "tonka bean",
+          "jasmine"
+        ],
+        "base": [
+          "praline",
+          "guaiac wood",
+          "ambergris",
+          "sweet note"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/bahi-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Bahi Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nabeelperfumes.online/index.php?product_id=1465&route=product%2Fproduct",
+          "name": "Nabeel Perfumes online store — Bahi 6ml Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bois Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Spicy Floral",
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "lime",
+          "elemi"
+        ],
+        "heart": [
+          "magnolia",
+          "violet",
+          "cypress"
+        ],
+        "base": [
+          "dry wood",
+          "ambroxan",
+          "vetiver"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/nabeel-bois-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Bois Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        },
+        {
+          "url": "https://www.nabeelperfumes.online/index.php?product_id=1505&route=product%2Fproduct",
+          "name": "Nabeel Perfumes online store — Bois 6ml Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Acqua di Nabeel Absolute Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "incense",
+          "cinnamon",
+          "cardamom",
+          "star anise",
+          "bergamot",
+          "lemon",
+          "grapefruit",
+          "plum",
+          "peach",
+          "pineapple",
+          "blackcurrant",
+          "marine note",
+          "saffron",
+          "pink pepper",
+          "bulgarian rose",
+          "turkish rose",
+          "sweet orange",
+          "spicy note",
+          "damask rose",
+          "elemi",
+          "vanilla",
+          "white flower",
+          "coffee",
+          "dried fruit",
+          "candied fruit"
+        ],
+        "heart": [
+          "coconut",
+          "iris",
+          "rose",
+          "jasmine",
+          "lily of the valley",
+          "neroli",
+          "heliotrope",
+          "clove",
+          "geranium",
+          "oud",
+          "sandalwood",
+          "leather",
+          "vanilla bean",
+          "cypriol",
+          "patchouli",
+          "coriander",
+          "ginger",
+          "styrax",
+          "sweet note"
+        ],
+        "base": [
+          "cedarwood",
+          "oud",
+          "musk",
+          "amber",
+          "vetiver",
+          "leather",
+          "vanilla",
+          "guaiac wood",
+          "labdanum",
+          "caramelized sugar",
+          "benzoin",
+          "castoreum",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/acqua-di-nabeel-absolute-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Acqua di Nabeel Absolute Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ajoob Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "pineapple",
+          "apple",
+          "strawberry"
+        ],
+        "heart": [
+          "lily of the valley",
+          "freesia",
+          "peach",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "sandalwood",
+          "caramel",
+          "amberwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/ajoob-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Ajoob Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Al Ghadeer Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "orange",
+          "jasmine"
+        ],
+        "heart": [
+          "rose",
+          "patchouli",
+          "sandalwood"
+        ],
+        "base": [
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/al-ghadeer-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Al Ghadeer Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "amber"
+        ],
+        "heart": [
+          "birch",
+          "cypriol"
+        ],
+        "base": [
+          "oud",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/amber-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Amber Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Antar Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "pineapple",
+          "strawberry",
+          "melon",
+          "raspberry",
+          "plum",
+          "black pepper",
+          "pink pepper",
+          "cardamom",
+          "lemon",
+          "mandarin",
+          "grapefruit",
+          "thyme",
+          "saffron"
+        ],
+        "heart": [
+          "marine note",
+          "lavender",
+          "rose",
+          "gardenia",
+          "jasmine",
+          "orchid",
+          "cyclamen",
+          "frankincense"
+        ],
+        "base": [
+          "sandalwood",
+          "cedarwood",
+          "patchouli",
+          "tree moss",
+          "white musk",
+          "ambergris",
+          "vanilla",
+          "tonka bean",
+          "leather",
+          "black suede",
+          "wood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/antar-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Antar Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Birwaz Fidhi Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "pear",
+          "bergamot",
+          "ginger"
+        ],
+        "heart": [
+          "rose",
+          "incense",
+          "magnolia"
+        ],
+        "base": [
+          "vanilla",
+          "sandalwood",
+          "ambroxan"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/birwaz-fidhi-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Birwaz Fidhi Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "performance",
+            "concentration"
+          ]
+        }
+      ],
+      "performance": {
+        "longevity": 4,
+        "sillage": null,
+        "projection": null,
+        "basis": "retailer"
+      },
+      "usage": {
+        "seasons": [],
+        "times": []
+      },
+      "performanceEvidence": "nabeel.eu copy says the roll-on lasts over 8 hours; mapped to longevity 4. No sillage stated."
+    },
+    {
+      "name": "Birwaz Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "ylang-ylang",
+          "saffron",
+          "tuberose",
+          "sambac jasmine"
+        ],
+        "heart": [
+          "cashmere wood",
+          "orange blossom",
+          "cedarwood",
+          "vanilla"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/birwaz-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Birwaz Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dahn Al Oud Amiri Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "thyme",
+          "frankincense"
+        ],
+        "heart": [
+          "leather",
+          "patchouli",
+          "guaiac wood"
+        ],
+        "base": [
+          "labdanum",
+          "vanilla",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/dahn-al-oud-amiri-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Dahn Al Oud Amiri Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dahn Al Oud Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "labdanum",
+          "clove"
+        ],
+        "heart": [
+          "damask rose",
+          "jasmine",
+          "ylang-ylang"
+        ],
+        "base": [
+          "patchouli",
+          "agarwood",
+          "mysore sandalwood",
+          "benzoin",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/dahn-al-oud-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Dahn Al Oud Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fudge Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "almond",
+          "pink pepper",
+          "dark chocolate",
+          "brownie"
+        ],
+        "heart": [
+          "hazelnut",
+          "dark chocolate",
+          "fudge",
+          "sandalwood",
+          "benzoin"
+        ],
+        "base": [
+          "cedarwood",
+          "whipped cream",
+          "vanilla",
+          "musk",
+          "brown sugar",
+          "amberwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/fudge-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Fudge Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghalia Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "strawberry",
+          "macaron"
+        ],
+        "heart": [
+          "orchid"
+        ],
+        "base": [
+          "cotton candy",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/ghalia-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Ghalia Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gold 24K Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "plum",
+          "orange",
+          "fresh aldehyde",
+          "thyme",
+          "saffron",
+          "raspberry"
+        ],
+        "heart": [
+          "lily of the valley",
+          "jasmine",
+          "sandalwood"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "coconut",
+          "leather",
+          "black suede",
+          "wood",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/gold-24k-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Gold 24K Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Habibi Lil Abad Ruby Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "grape"
+        ],
+        "heart": [
+          "jasmine"
+        ],
+        "base": [
+          "musk",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/habibi-lil-abad-ruby-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Habibi Lil Abad Ruby Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hala Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "milk",
+          "ambrette"
+        ],
+        "heart": [
+          "lily of the valley",
+          "violet",
+          "jasmine"
+        ],
+        "base": [
+          "vanilla",
+          "tonka bean",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/hala-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Hala Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Irth Fairooz Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "grapefruit",
+          "mandarin",
+          "bergamot"
+        ],
+        "heart": [
+          "peony",
+          "orange blossom",
+          "lily of the valley"
+        ],
+        "base": [
+          "cashmeran",
+          "oakmoss",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/irth-fairooz-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Irth Fairooz Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Irth Gold Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "cinnamon",
+          "peppermint"
+        ],
+        "heart": [
+          "rose",
+          "hibiscus",
+          "lily of the valley"
+        ],
+        "base": [
+          "ambrette",
+          "leather",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/irth-gold-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Irth Gold Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Irth Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "apple",
+          "pineapple",
+          "strawberry",
+          "peach",
+          "coconut",
+          "blackcurrant",
+          "pink pepper",
+          "pepper",
+          "bergamot",
+          "cumin",
+          "cinnamon",
+          "sweet orange",
+          "spicy note",
+          "damask rose",
+          "cardamom",
+          "coffee",
+          "dried fruit",
+          "candied fruit"
+        ],
+        "heart": [
+          "jasmine",
+          "lily of the valley",
+          "iris",
+          "amyris",
+          "cedarwood",
+          "oud",
+          "coriander",
+          "violet",
+          "rose",
+          "saffron",
+          "cypriol",
+          "sandalwood"
+        ],
+        "base": [
+          "patchouli",
+          "sandalwood",
+          "guaiac wood",
+          "vetiver",
+          "tolu balsam",
+          "balsam",
+          "leather",
+          "smoky note",
+          "cistus",
+          "labdanum",
+          "incense",
+          "civet",
+          "white musk",
+          "ambergris",
+          "vanilla",
+          "musk",
+          "amber",
+          "oakmoss"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/irth-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Irth Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jannet El Firdaus Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "orange",
+          "fresh aldehyde",
+          "clove"
+        ],
+        "heart": [
+          "violet",
+          "jasmine",
+          "sandalwood"
+        ],
+        "base": [
+          "oakmoss",
+          "vetiver",
+          "musk",
+          "labdanum"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/jannet-el-firdaus-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Jannet El Firdaus Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jasmine Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "neroli",
+          "bergamot"
+        ],
+        "heart": [
+          "orange blossom",
+          "jasmine",
+          "ylang-ylang"
+        ],
+        "base": [
+          "musk",
+          "salicylate"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/jasmine-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Jasmine Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Khayali Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "saffron",
+          "clove",
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "geranium",
+          "patchouli",
+          "oakmoss"
+        ],
+        "base": [
+          "sandalwood",
+          "vetiver",
+          "musk",
+          "ylang-ylang",
+          "cypriol",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/khayali-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Khayali Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Layali Laban Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "lemon",
+          "ambrette"
+        ],
+        "heart": [
+          "jasmine",
+          "iris",
+          "elemi"
+        ],
+        "base": [
+          "musk",
+          "cashmeran",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/layali-laban-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Layali Laban Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ma' Alaina Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "grapefruit",
+          "mandarin",
+          "citrus",
+          "elemi",
+          "rose",
+          "ylang-ylang"
+        ],
+        "heart": [
+          "violet",
+          "carnation",
+          "floral note",
+          "lily of the valley",
+          "jasmine"
+        ],
+        "base": [
+          "patchouli",
+          "musk",
+          "sandalwood",
+          "tobacco",
+          "woody note",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/maalaina-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Ma' Alaina Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maghateer Kilsa Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "baie rose",
+          "lemon",
+          "apple"
+        ],
+        "heart": [
+          "transparent floral",
+          "iris",
+          "rose",
+          "aquatic note"
+        ],
+        "base": [
+          "patchouli",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/maghateer-kilsa-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Maghateer Kilsa Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Makh Mikh Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "aldehyde",
+          "lavender",
+          "saffron",
+          "rose"
+        ],
+        "heart": [
+          "geranium",
+          "gurjum",
+          "cedar"
+        ],
+        "base": [
+          "amber",
+          "musk",
+          "vanilla",
+          "oakmoss",
+          "patchouli"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/makh-mikh-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Makh Mikh Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mira Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "lemon",
+          "grape",
+          "strawberry"
+        ],
+        "heart": [
+          "caramel",
+          "rose",
+          "amber"
+        ],
+        "base": [
+          "musk",
+          "tonka bean",
+          "vanilla"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/mira-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Mira Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Misk Al Asal Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "neroli",
+          "mandarin",
+          "grapefruit"
+        ],
+        "heart": [
+          "ginger",
+          "myrrh",
+          "wormwood"
+        ],
+        "base": [
+          "amber",
+          "vetiver",
+          "incense"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/misk-al-asal-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Misk Al Asal Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk Al Tahara Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "rhubarb",
+          "violet"
+        ],
+        "heart": [
+          "cedarwood",
+          "lily of the valley",
+          "rose"
+        ],
+        "base": [
+          "musk",
+          "amber",
+          "tonka bean"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/musk-al-tahara-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Musk Al Tahara Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk Al Tahara Zahri Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "blackcurrant",
+          "rose"
+        ],
+        "heart": [
+          "lily of the valley",
+          "jasmine",
+          "amber"
+        ],
+        "base": [
+          "musk",
+          "sandalwood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/musk-al-tahara-zahri-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Musk Al Tahara Zahri Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musk Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "musk"
+        ],
+        "heart": [
+          "rose"
+        ],
+        "base": [
+          "citrus",
+          "cashmere wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/musk-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Musk Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nader Juri Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "rhubarb",
+          "lychee",
+          "bergamot"
+        ],
+        "heart": [
+          "rose",
+          "peony"
+        ],
+        "base": [
+          "cashmeran",
+          "cedarwood",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/nader-juri-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Nader Juri Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nader Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "orange",
+          "pineapple",
+          "apple",
+          "bergamot",
+          "peach",
+          "green leaf",
+          "lemon",
+          "thyme"
+        ],
+        "heart": [
+          "jasmine",
+          "violet",
+          "gourmand note",
+          "lily of the valley",
+          "rose",
+          "iris",
+          "amberwood"
+        ],
+        "base": [
+          "musk",
+          "cashmeran",
+          "sandalwood",
+          "vanilla",
+          "orcanox",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/nader-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Nader Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nasaem Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "aldehyde",
+          "pineapple",
+          "plum",
+          "tarragon",
+          "lime",
+          "bergamot",
+          "saffron",
+          "orange"
+        ],
+        "heart": [
+          "orchid",
+          "rose",
+          "geranium",
+          "jasmine",
+          "iris"
+        ],
+        "base": [
+          "cedarwood",
+          "guaiac wood",
+          "agarwood",
+          "sandalwood",
+          "patchouli",
+          "white musk",
+          "tonka bean",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/nasaem-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Nasaem Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noor Al Aseel Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "berry",
+          "green note"
+        ],
+        "heart": [
+          "orange blossom",
+          "water lily",
+          "coconut"
+        ],
+        "base": [
+          "tonka bean",
+          "vanilla",
+          "musk"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeel.eu/noor-al-aseel-roll-on-oil-perfume/",
+          "name": "Nabeel Profumi Arabi (BJ Distribuzione) — Noor Al Aseel Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nabeel Sandalia Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Woody Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cumin",
+          "nutmeg",
+          "coriander"
+        ],
+        "heart": [
+          "sandalwood",
+          "amyris",
+          "jasmine"
+        ],
+        "base": [
+          "amberwood",
+          "myrrh",
+          "musk",
+          "guaiac wood"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeelperfumes.online/oilperfumes",
+          "name": "Nabeel Perfumes online store — Oil Perfumes listing (Nabeel Sandalia 6ml Roll On)",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tawasul Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": null,
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "apple",
+          "mint"
+        ],
+        "heart": [
+          "jasmine",
+          "rose",
+          "patchouli",
+          "sandalwood"
+        ],
+        "base": [
+          "oakmoss",
+          "musk",
+          "amber"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeelperfumes.online/best-fruity-perfume-oil-online",
+          "name": "Nabeel Perfumes online store — Tawasul 6ml Roll On Oil Perfume",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ward Roll-On",
+      "collection": "Roll-On",
+      "concentration": "Concentrated Perfume Oil",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Floral Fruity Spicy",
+      "accords": [],
+      "notes": {
+        "top": [
+          "cut grass",
+          "apple"
+        ],
+        "heart": [
+          "rose petal",
+          "lemongrass",
+          "mint"
+        ],
+        "base": [
+          "spice",
+          "honey"
+        ],
+        "flat": []
+      },
+      "noteSource": "reported",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.nabeelperfumes.online/index.php?route=product%2Fsearch&tag=buy+perfume+oil",
+          "name": "Nabeel Perfumes online store — search listing (Ward 6ml Roll On)",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "family",
+            "concentration"
           ]
         }
       ]
