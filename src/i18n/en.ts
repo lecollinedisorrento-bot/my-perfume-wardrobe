@@ -52,6 +52,7 @@ export const en = {
   'home.hi.night': 'Late one, {name}?',
   'home.hi.anon': 'gorgeous',
   'home.kicker': 'Issue no. {n} · {date}',
+  'home.dayPlan': 'Your day',
   'home.todaySmells': 'Today smells like…',
   'home.todayEmpty': 'Add a perfume and today gets a scent.',
   'home.wearIt': 'Wear it today',

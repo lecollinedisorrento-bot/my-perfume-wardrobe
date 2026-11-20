@@ -5,7 +5,7 @@ import { useStore, useAiState } from '../state/store';
 import { useI18n } from '../i18n';
 import { rememberTodayPick, useRanking, useRelativeDay } from '../state/hooks';
 import { BottleImage } from '../components/BottleImage';
-import { PerfumeCard } from '../components/PerfumeCard';
+import { PerfumeCard, PerfumeRow } from '../components/PerfumeCard';
 import { WeatherPill, WeatherSheet } from '../components/Weather';
 import { AiLoader, EngineTag, SectionHead } from '../components/ui';
 import { Burst, IconGear, IconSparkle, Sparkle } from '../components/Icons';
@@ -41,6 +41,29 @@ export function Home() {
   const local = kept ?? (ranked.length ? ranked[offset % ranked.length] : null);
   const pick: Fragrance | null = aiPick ? fragrances.find((f) => f.id === aiPick.id) ?? null : local?.fragrance ?? null;
   // Remember the first suggestion of the day so tomorrow's card rotates.
+  // A suggestion for each part of the day, without repeating the same bottle.
+  const ctxMorning = useMemo(() => ({ timeOfDay: 'morning' as const }), []);
+  const ctxAfternoon = useMemo(() => ({ timeOfDay: 'afternoon' as const }), []);
+  const ctxEvening = useMemo(() => ({ timeOfDay: 'evening' as const }), []);
+  const rMorning = useRanking(ctxMorning, { daily: true });
+  const rAfternoon = useRanking(ctxAfternoon, { daily: true });
+  const rEvening = useRanking(ctxEvening, { daily: true });
+  const dayPlan = useMemo(() => {
+    const used = new Set<string>();
+    return (
+      [
+        ['morning', rMorning],
+        ['afternoon', rAfternoon],
+        ['evening', rEvening],
+      ] as const
+    )
+      .map(([slot, list]) => {
+        const s = list.find((x) => !used.has(x.fragrance.id));
+        if (s) used.add(s.fragrance.id);
+        return s ? { slot, s } : null;
+      })
+      .filter((x): x is NonNullable<typeof x> => !!x);
+  }, [rMorning, rAfternoon, rEvening]);
   const firstId = ranked[0]?.fragrance.id;
   useEffect(() => {
     if (firstId) rememberTodayPick(firstId);
@@ -189,6 +212,22 @@ export function Home() {
                 {t('home.askAi')}
               </button>
             )}
+          </div>
+        </section>
+      )}
+
+      {dayPlan.length > 1 && (
+        <section className="section" data-testid="day-plan">
+          <SectionHead title={t('home.dayPlan')} />
+          <div className="day-plan">
+            {dayPlan.map(({ slot, s }, i) => (
+              <PerfumeRow
+                key={slot}
+                f={s.fragrance}
+                i={i}
+                meta={[tk(`time.${slot}`), s.reasons[0] ? tk(s.reasons[0].key, translateParams(s.reasons[0].params, tk)) : ''].filter(Boolean).join(' — ')}
+              />
+            ))}
           </div>
         </section>
       )}

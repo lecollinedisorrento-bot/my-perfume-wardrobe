@@ -1698,3 +1698,9 @@ button.season-col {
 }
 button.season-col.on .season-bar { outline: 3px solid var(--ink); outline-offset: 2px; }
 .insight p + p { margin-top: 6px; }
+
+/* Home: a pick for morning, afternoon and evening */
+.day-plan {
+  display: grid;
+  gap: 10px;
+}

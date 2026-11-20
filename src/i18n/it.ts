@@ -53,6 +53,7 @@ export const it: Record<MessageKey, string> = {
   'home.hi.night': 'Nottambulo, {name}?',
   'home.hi.anon': 'splendore',
   'home.kicker': 'Numero {n} · {date}',
+  'home.dayPlan': 'La tua giornata',
   'home.todaySmells': 'Oggi sa di…',
   'home.todayEmpty': 'Aggiungi un profumo e oggi avrà un odore.',
   'home.wearIt': 'Lo indosso oggi',
