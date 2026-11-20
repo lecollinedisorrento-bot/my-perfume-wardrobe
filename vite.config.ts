@@ -40,11 +40,21 @@ export default defineConfig(({ mode }) => {
 
   // BASE_PATH lets the same build run under a sub-path (GitHub Pages).
   const base = process.env.BASE_PATH || '/';
+  // Each build gets an id; the app compares it with /version.json to know it is outdated.
+  const buildId = process.env.RENDER_GIT_COMMIT?.slice(0, 12) || new Date().toISOString();
 
   return {
     base,
+    define: { __BUILD_ID__: JSON.stringify(buildId) },
     plugins: [
       react(),
+      {
+        name: 'version-file',
+        apply: 'build',
+        generateBundle() {
+          this.emitFile({ type: 'asset', fileName: 'version.json', source: JSON.stringify({ id: buildId }) });
+        },
+      } satisfies Plugin,
       apiDevPlugin(),
       VitePWA({
         registerType: 'autoUpdate',
@@ -77,7 +87,7 @@ export default defineConfig(({ mode }) => {
           maximumFileSizeToCacheInBytes: 8 * 1024 * 1024,
           navigateFallback: `${base}index.html`,
           navigateFallbackDenylist: [new RegExp(`^${base}api/`)],
-          globIgnores: ['**/*cyrillic*', '**/*greek*', '**/*vietnamese*'],
+          globIgnores: ['**/*cyrillic*', '**/*greek*', '**/*vietnamese*', 'version.json'],
           cleanupOutdatedCaches: true,
           // Bottle cut-outs are many small files: cache each one the first time it is shown.
           runtimeCaching: [

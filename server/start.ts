@@ -39,9 +39,23 @@ root.use(
   }),
 );
 root.use('/sw.js', serveStatic({ root: './dist', onFound: (_p, c) => { c.header('cache-control', 'no-cache'); } }));
-root.use('*', serveStatic({ root: './dist' }));
+root.use(
+  '*',
+  serveStatic({
+    root: './dist',
+    onFound: (path, c) => {
+      // Bottle photos rarely change; everything else must be revalidated so a
+      // new deploy reaches installed apps.
+      c.header('cache-control', path.includes('/catalog/img/') ? 'public, max-age=604800' : 'no-cache');
+    },
+  }),
+);
 // SPA fallback for client-side routes.
-root.get('*', (c) => (c.req.path.startsWith('/api/') ? c.json({ error: 'not_found' }, 404) : c.html(indexHtml)));
+root.get('*', (c) => {
+  if (c.req.path.startsWith('/api/')) return c.json({ error: 'not_found' }, 404);
+  c.header('cache-control', 'no-cache');
+  return c.html(indexHtml);
+});
 
 const port = Number(process.env.PORT) || 8787;
 serve({ fetch: root.fetch, port }, () => {

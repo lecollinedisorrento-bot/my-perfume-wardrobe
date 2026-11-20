@@ -11,6 +11,7 @@ import { MOODS, OCCASIONS, SEASONS, type Preferences } from '../domain/types';
 import { BackupError, createBackup, downloadJson, parseBackup, restoreBackup } from '../db/backup';
 import { resetEverything } from '../db/repo';
 import { BASE_URL } from '../services/base';
+import { BUILD_ID, hardRefresh } from '../services/update';
 
 const VERSION = '1.0.0';
 
@@ -300,6 +301,18 @@ export default function Settings() {
       <section className="section">
         <h2 className="h-sec">{t('set.about')}</h2>
         <p className="small dim">{t('set.aboutText', { v: VERSION })}</p>
+        <p className="tiny dim">{t('set.build', { id: BUILD_ID })}</p>
+        <button
+          className="btn btn-sm"
+          data-testid="update-app"
+          onClick={async () => {
+            toast(t('set.updating'), 'lime');
+            await hardRefresh();
+          }}
+        >
+          {t('set.updateNow')}
+        </button>
+        <p className="tiny dim">{t('set.updateHint')}</p>
       </section>
 
       <WeatherSheet open={wxOpen} onClose={() => setWxOpen(false)} />
