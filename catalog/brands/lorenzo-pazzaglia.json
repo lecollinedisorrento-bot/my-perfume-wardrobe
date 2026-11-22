@@ -1,0 +1,73 @@
+{
+  "brand": "Lorenzo Pazzaglia",
+  "slug": "lorenzo-pazzaglia",
+  "officialSite": "https://www.lorenzopazzaglia.com/",
+  "distributors": [],
+  "country": "IT",
+  "retrievedAt": "2026-11-22",
+  "researchNotes": "Started with Black Sea (Sea Collection) from the official product page and the official 2024 English brochure (olfactory group). Other Lorenzo Pazzaglia fragrances not yet added.",
+  "fragrances": [
+    {
+      "name": "Black Sea",
+      "collection": "Sea Collection",
+      "concentration": "Extrait de Parfum",
+      "releaseYear": null,
+      "perfumer": null,
+      "family": "Marine Woody",
+      "accords": [],
+      "notes": {
+        "top": [
+          "bergamot",
+          "sardinian myrtle",
+          "salt",
+          "ozone",
+          "aquatic note"
+        ],
+        "heart": [
+          "orange blossom",
+          "cyprus black salt",
+          "ylang-ylang",
+          "marine note"
+        ],
+        "base": [
+          "seaweed",
+          "white musk",
+          "patchouli",
+          "oakmoss",
+          "ambergris"
+        ],
+        "flat": []
+      },
+      "noteSource": "official",
+      "discontinued": false,
+      "sources": [
+        {
+          "url": "https://www.lorenzopazzaglia.com/en/prodotto/black-sea/",
+          "name": "Lorenzo Pazzaglia — Black Sea",
+          "type": "official",
+          "supports": [
+            "notes"
+          ]
+        },
+        {
+          "url": "https://www.lorenzopazzaglia.com/wp-content/uploads/2024/03/brochure_eng_2024.pdf",
+          "name": "Lorenzo Pazzaglia — Brochure 2024 (EN)",
+          "type": "official",
+          "supports": [
+            "notes",
+            "family"
+          ]
+        },
+        {
+          "url": "https://www.rosinaperfumery.com/product-page/black-sea",
+          "name": "Rosina Perfumery — Lorenzo Pazzaglia Black Sea",
+          "type": "retailer",
+          "supports": [
+            "notes",
+            "concentration"
+          ]
+        }
+      ]
+    }
+  ]
+}

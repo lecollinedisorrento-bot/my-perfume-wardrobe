@@ -118,4 +118,5 @@ export const SAMPLE_COLLECTION: { brand: string; name: string }[] = [
   { brand: 'Nishane', name: 'Hacivat Arlecchino' },
   { brand: 'Nabeel', name: 'Bahi Roll-On' },
   { brand: 'Nabeel', name: 'Bois Roll-On' },
+  { brand: 'Lorenzo Pazzaglia', name: 'Black Sea' },
 ];
